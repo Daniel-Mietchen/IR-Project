@@ -94,14 +94,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pentoxifylline"
+            "Pentoxifylline"
       ],
       "criteria": [
             "inclusion",
@@ -275,12 +274,19 @@
             "study",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "synergism"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000646"
 }

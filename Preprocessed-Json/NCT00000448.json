@@ -111,16 +111,27 @@
             "cbcst"
       ],
       "condition": [
-            "eat",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "naltrexone",
+            "Placebo"
       ],
       "description": [
+            "opioid",
+            "receptor",
+            "antagonist",
+            "use",
+            "primarily",
+            "management",
+            "alcohol",
+            "dependence",
+            "opioid",
+            "dependence",
             "placebo",
             "simulate",
             "otherwise",
@@ -134,12 +145,8 @@
             "deceive",
             "recipient"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "depade"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -236,9 +243,7 @@
             "significantly",
             "underweight"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -247,6 +252,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000448.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "eat",
+            "disorder"
+      ],
+      "id": "NCT00000448"
 }

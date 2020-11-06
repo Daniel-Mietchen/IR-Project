@@ -185,14 +185,21 @@
             "arm"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clindamycin"
+            "Primaquine",
+            "Sulfamethoxazole-Trimethoprim",
+            "Dapsone",
+            "Clindamycin"
       ],
       "criteria": [
             "inclusion",
@@ -402,12 +409,22 @@
             "acute",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000640.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "palmitate",
+            "phosphate",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000640"
 }

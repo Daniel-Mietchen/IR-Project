@@ -313,16 +313,33 @@
             "condition"
       ],
       "condition": [
-            "low",
+            "stenosis",
             "back",
             "pain"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "treatment"
+            "Decompressive laminectomy",
+            "Non-surgical treatments"
       ],
       "description": [
-            "active",
+            "hypertrophic",
+            "inferior",
+            "superior",
+            "articular",
+            "facet",
+            "perform",
+            "intrude",
+            "upon",
+            "midline",
+            "cause",
+            "central",
+            "lateral",
+            "recess",
+            "stenosis",
             "physical",
             "therapy",
             "modality",
@@ -488,12 +505,22 @@
             "relate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000411.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mri"
+      ],
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain",
+            "pathologic",
+            "stenosis"
+      ],
+      "id": "NCT00000411"
 }

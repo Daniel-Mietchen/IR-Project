@@ -206,14 +206,14 @@
             "episode"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -264,12 +264,22 @@
             "act",
             "mac"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000947.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "streptococcus",
+            "pneumoniae"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00000947"
 }

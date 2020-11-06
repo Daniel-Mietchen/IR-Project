@@ -254,14 +254,16 @@
             "treatment"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Interferon alfa-2a",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -464,12 +466,21 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000687.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "opportunistic",
+            "infection"
+      ],
+      "id": "NCT00000687"
 }

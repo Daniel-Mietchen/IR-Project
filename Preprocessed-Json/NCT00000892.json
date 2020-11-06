@@ -334,15 +334,23 @@
             "exclude"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "delavirdine",
-            "mesylate"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Saquinavir",
+            "Delavirdine mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -629,12 +637,20 @@
             "prior",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00000892"
 }

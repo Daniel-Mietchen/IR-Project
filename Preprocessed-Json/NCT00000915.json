@@ -223,15 +223,13 @@
             "service"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "vaccine",
-            "preparedness"
+            "Vaccine preparedness"
       ],
       "criteria": [
             "inclusion",
@@ -594,12 +592,16 @@
             "risk",
             "behavior"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000915.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000915"
 }

@@ -320,14 +320,16 @@
             "expand"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Zidovudine",
+            "Acyclovir"
       ],
       "criteria": [
             "inclusion",
@@ -515,12 +517,19 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000693.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00000693"
 }

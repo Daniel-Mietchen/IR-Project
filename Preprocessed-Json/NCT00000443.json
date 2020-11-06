@@ -51,15 +51,12 @@
             "treatment",
             "program"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ondansetron",
-            "zofran"
+            "ondansetron (Zofran)"
       ],
       "criteria": [
             "inclusion",
@@ -127,7 +124,7 @@
             "pregnant",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -136,6 +133,7 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000443.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000443"
 }

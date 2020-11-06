@@ -227,14 +227,15 @@
             "relapse"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Glutamic acid hydrochloride",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -403,12 +404,23 @@
             "ind",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000768.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glutamic",
+            "acid"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "system",
+            "disease",
+            "triphosphate"
+      ],
+      "id": "NCT00000768"
 }

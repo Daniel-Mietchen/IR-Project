@@ -27,14 +27,18 @@
             "woman"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "mn"
+            "Aluminum hydroxide",
+            "QS-21",
+            "MN rsgp120/HIV-1"
       ],
       "criteria": [
             "inclusion",
@@ -48,12 +52,22 @@
             "day",
             "old"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000809.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide",
+            "21"
+      ],
+      "id": "NCT00000809"
 }

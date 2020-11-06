@@ -368,16 +368,15 @@
             "month"
       ],
       "condition": [
-            "retinopathy",
             "prematurity"
       ],
       "intervention_type": [
-            "procedure"
+            "Device",
+            "Procedure"
       ],
       "intervention_name": [
-            "ambient",
-            "light",
-            "reduction"
+            "Goggles",
+            "Ambient Light Reduction"
       ],
       "criteria": [
             "premature",
@@ -406,11 +405,16 @@
             "anomaly",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "day"
       ],
-      "id": "NCT00000156.xml"
+      "mesh_term": [
+            "disease",
+            "birth",
+            "prematurity"
+      ],
+      "id": "NCT00000156"
 }

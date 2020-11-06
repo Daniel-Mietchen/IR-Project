@@ -40,20 +40,42 @@
             "volunteer"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "isoflurane"
+            "40% Nitrous oxide",
+            "Sham comparator",
+            "0.2% isoflurane",
+            "0.4% isoflurane",
+            "0.6% isoflurane"
       ],
       "description": [
+            "pain",
+            "assay",
+            "positive",
+            "control",
             "0",
             "isoflurane",
             "oxygen"
       ],
       "arm_group_label": [
+            "0",
+            "isoflurane",
+            "isoflurane",
+            "isoflurane",
+            "isoflurane",
+            "0",
+            "isoflurane",
+            "isoflurane",
+            "isoflurane",
             "isoflurane"
       ],
       "criteria": [
@@ -62,9 +84,7 @@
             "site",
             "information"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
@@ -73,6 +93,15 @@
             "34",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000254.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000254"
 }

@@ -230,15 +230,17 @@
             "year"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "enzyme",
-            "inhibitor"
+            "angiotensin-converting enzyme inhibitors"
       ],
       "criteria": [
             "men",
@@ -260,7 +262,7 @@
             "40",
             "percent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -269,6 +271,18 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000558.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "inhibitor",
+            "enzyme",
+            "inhibitor"
+      ],
+      "id": "NCT00000558"
 }

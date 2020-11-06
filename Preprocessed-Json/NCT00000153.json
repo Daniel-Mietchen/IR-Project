@@ -399,17 +399,17 @@
             "line"
       ],
       "condition": [
-            "diabetes",
+            "retinopathy",
+            "neovascularization",
             "mellitus"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "red",
-            "krypton",
-            "laser",
-            "treatment"
+            "Blue-Green Argon Laser Treatment",
+            "Red Krypton Laser Treatment"
       ],
       "criteria": [
             "men",
@@ -511,7 +511,7 @@
             "quadrant",
             "extent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -520,6 +520,16 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000153.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "optic",
+            "disk"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "retinopathy",
+            "pathologic",
+            "neovascularization"
+      ],
+      "id": "NCT00000153"
 }

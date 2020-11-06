@@ -154,14 +154,13 @@
             "occasion"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -676,7 +675,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -685,6 +684,15 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000716.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000716"
 }

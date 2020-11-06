@@ -358,14 +358,25 @@
             "review"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ritonavir",
+            "Saquinavir",
+            "Delavirdine mesylate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -627,12 +638,19 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000891"
 }

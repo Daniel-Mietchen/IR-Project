@@ -923,16 +923,28 @@
             "trial"
       ],
       "condition": [
-            "lung",
+            "distress",
+            "syndrome",
+            "adult",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "pulmonary",
-            "artery",
-            "catheter"
+            "Low Tidal Volume Ventilation",
+            "Positive End-Expiratory Pressure",
+            "Lysofylline",
+            "Methylprednisolone",
+            "Ketoconazole",
+            "Fluid Management",
+            "Pulmonary Artery Catheter"
       ],
       "criteria": [
             "inclusion",
@@ -963,12 +975,28 @@
             "pancreatitis",
             "hypertransfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000579.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00000579"
 }

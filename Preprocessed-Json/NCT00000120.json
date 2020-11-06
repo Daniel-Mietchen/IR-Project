@@ -301,16 +301,16 @@
             "obstruction"
       ],
       "condition": [
-            "ophthalmia",
+            "infection",
             "neonatorum"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "silver",
-            "nitrate",
-            "drop"
+            "Erythromycin Ointment",
+            "Silver Nitrate Drops"
       ],
       "criteria": [
             "study",
@@ -373,11 +373,23 @@
             "followup",
             "delivery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "id": "NCT00000120.xml"
+      "keyword": [
+            "neonatal",
+            "conjunctivitis"
+      ],
+      "mesh_term": [
+            "infection",
+            "neonatorum",
+            "estolate",
+            "ethylsuccinate",
+            "stearate",
+            "nitrate"
+      ],
+      "id": "NCT00000120"
 }

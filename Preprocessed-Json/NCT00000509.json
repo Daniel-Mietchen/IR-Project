@@ -162,14 +162,17 @@
             "randomization"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "diet, sodium-restricted",
+            "diet, potassium-supplementation"
       ],
       "criteria": [
             "men",
@@ -192,9 +195,7 @@
             "mm",
             "hg"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "45",
             "year"
@@ -203,6 +204,11 @@
             "68",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000509.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000509"
 }

@@ -175,21 +175,15 @@
             "follow"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
-            "bovine",
-            "type",
-            "ii",
-            "collagen"
+            "Oral bovine type II collagen"
       ],
       "description": [
-            "drug",
             "interrupt",
             "stop",
             "suspect",
@@ -197,11 +191,10 @@
             "event"
       ],
       "arm_group_label": [
+            "1",
             "2"
       ],
-      "other_name": [
-            "cii"
-      ],
+      "other_name": [],
       "criteria": [
             "note",
             "accrual",
@@ -354,7 +347,7 @@
             "carbonate",
             "beverage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -363,6 +356,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000401.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00000401"
 }

@@ -70,13 +70,21 @@
             "weekly"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifampin"
+            "Ethambutol hydrochloride",
+            "Isoniazid",
+            "Pyrazinamide",
+            "Pyridoxine hydrochloride",
+            "Rifampin"
       ],
       "criteria": [
             "inclusion",
@@ -119,12 +127,22 @@
             "undesirable",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000950.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antitubercular",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent",
+            "b",
+            "6"
+      ],
+      "id": "NCT00000950"
 }

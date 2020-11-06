@@ -254,14 +254,15 @@
             "thereafter"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Globulin, Immune",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -569,7 +570,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -578,6 +579,19 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000720.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00000720"
 }

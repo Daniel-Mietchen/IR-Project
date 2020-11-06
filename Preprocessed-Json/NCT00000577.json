@@ -1879,14 +1879,19 @@
             "study"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "agonist"
+            "Albuterol",
+            "Colchicine",
+            "Adrenal Cortex Hormones",
+            "Adrenergic-Beta Agonists"
       ],
       "criteria": [
             "patient",
@@ -1897,7 +1902,7 @@
             "vary",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1906,6 +1911,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000577.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00000577"
 }

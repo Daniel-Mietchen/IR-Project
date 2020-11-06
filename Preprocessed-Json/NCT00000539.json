@@ -502,13 +502,29 @@
             "qvr"
       ],
       "condition": [
-            "diabetes",
+            "occlusive",
+            "disease",
+            "disease",
+            "disease",
+            "disease",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "niacin",
+            "pravastatin",
+            "beta-carotene",
+            "vitamin E",
+            "dietary supplements",
+            "vitamin C",
             "warfarin"
       ],
       "criteria": [
@@ -520,7 +536,7 @@
             "arterial",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -529,6 +545,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000539.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "occlusive",
+            "disease",
+            "e",
+            "carotene"
+      ],
+      "id": "NCT00000539"
 }

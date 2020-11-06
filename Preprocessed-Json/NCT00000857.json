@@ -317,13 +317,14 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Interleukin-12"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -411,7 +412,7 @@
             "drug",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -420,6 +421,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000857.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interferon",
+            "type",
+            "ii"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000857"
 }

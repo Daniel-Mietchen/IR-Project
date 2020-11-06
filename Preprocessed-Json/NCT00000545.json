@@ -402,12 +402,15 @@
             "record"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "behavior"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
+            "exercise",
             "diet"
       ],
       "criteria": [
@@ -419,7 +422,7 @@
             "follow",
             "grade"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -428,6 +431,9 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000545.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00000545"
 }

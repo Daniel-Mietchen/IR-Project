@@ -210,13 +210,13 @@
             "hour"
       ],
       "condition": [
-            "hemophilia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -283,12 +283,20 @@
             "acetaminophen",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000705.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemophilia"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000705"
 }

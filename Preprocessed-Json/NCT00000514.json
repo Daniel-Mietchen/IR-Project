@@ -181,12 +181,18 @@
             "measure"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disorder",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "chlorthalidone",
+            "atenolol",
             "reserpine"
       ],
       "criteria": [
@@ -198,7 +204,7 @@
             "systolic",
             "hypertension"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
@@ -207,6 +213,11 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000514.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00000514"
 }

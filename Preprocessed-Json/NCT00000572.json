@@ -266,20 +266,26 @@
             "discharge"
       ],
       "condition": [
-            "lung",
+            "respiratory",
+            "distress",
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "extracorporeal",
-            "membrane",
-            "oxygenation",
-            "removal"
+            "positive-pressure ventilation",
+            "extracorporeal membrane oxygenation (CO2 removal)"
       ],
       "description": [
-            "detail",
+            "computer",
+            "protocol",
+            "control",
+            "positive",
+            "pressure",
+            "ventilation",
             "computer",
             "protocol",
             "control",
@@ -291,7 +297,8 @@
             "ventilation"
       ],
       "arm_group_label": [
-            "extracorporeal",
+            "control",
+            "vent",
             "membrane",
             "oxygenation",
             "removal"
@@ -460,7 +467,7 @@
             "virus",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -469,6 +476,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000572.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury"
+      ],
+      "id": "NCT00000572"
 }

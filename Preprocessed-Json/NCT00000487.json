@@ -396,14 +396,22 @@
             "ischemia"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "diuretic"
+            "antihypertensive agents",
+            "smoking cessation",
+            "diet, fat-restricted",
+            "diuretics"
       ],
       "criteria": [
             "men",
@@ -421,9 +429,7 @@
             "heart",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "35",
             "year"
@@ -432,6 +438,15 @@
             "57",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000487.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "agent"
+      ],
+      "id": "NCT00000487"
 }

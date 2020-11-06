@@ -529,14 +529,25 @@
             "thank"
       ],
       "condition": [
-            "hypertension",
+            "anemia",
+            "cooley",
+            "disease",
+            "overload",
             "pulmonary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "decitabine"
+            "Deferoxamine",
+            "Deferiprone",
+            "Arginine",
+            "Sildenafil",
+            "Decitabine"
       ],
       "criteria": [
             "please",
@@ -546,7 +557,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -555,6 +566,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000623.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thalassemia"
+      ],
+      "mesh_term": [
+            "overload",
+            "disease",
+            "pulmonary",
+            "citrate"
+      ],
+      "id": "NCT00000623"
 }

@@ -305,16 +305,15 @@
             "response"
       ],
       "condition": [
-            "agoraphobia"
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "paroxetine",
-            "medication",
-            "algorithm",
-            "use"
+            "Cognitive behavior therapy",
+            "Paroxetine or other medication - algorithm used"
       ],
       "criteria": [
             "inclusion",
@@ -405,12 +404,24 @@
             "treatment",
             "antidepressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000368.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "serotonin",
+            "uptake",
+            "inhibitor",
+            "therapeutic",
+            "use"
+      ],
+      "mesh_term": [
+            "disorder",
+            "uptake",
+            "inhibitor"
+      ],
+      "id": "NCT00000368"
 }

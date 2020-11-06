@@ -171,16 +171,16 @@
             "hour"
       ],
       "condition": [
-            "hiv",
+            "simplex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bacitracin",
-            "b",
-            "sulfate"
+            "Trifluridine",
+            "Bacitracin zinc/Polymyxin B sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -285,12 +285,21 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000635.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "simplex",
+            "b"
+      ],
+      "id": "NCT00000635"
 }

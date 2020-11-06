@@ -246,16 +246,20 @@
             "condition"
       ],
       "condition": [
-            "public",
+            "disorder",
+            "phobia",
             "speak",
             "anxiety"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "psychosocial",
-            "intervention"
+            "Cognitive behavior therapy",
+            "Performance-based exposure therapy",
+            "Psychosocial intervention"
       ],
       "criteria": [
             "inclusion",
@@ -268,9 +272,17 @@
             "speak",
             "anxiety"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000370.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phobic",
+            "disorder",
+            "pathology"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00000370"
 }

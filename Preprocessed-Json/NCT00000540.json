@@ -295,15 +295,20 @@
             "pr"
       ],
       "condition": [
-            "ventricular",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
+            "infarction",
+            "ischemia",
             "arrhythmia"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "defibrillator",
-            "implantable"
+            "defibrillators, implantable"
       ],
       "criteria": [
             "men",
@@ -320,7 +325,7 @@
             "average",
             "electrocardiogram"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -329,6 +334,18 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000540.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00000540"
 }

@@ -316,24 +316,24 @@
             "strength"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "ventilator",
-            "negative",
-            "pressure"
+            "ventilators, negative pressure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -342,6 +342,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000571.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00000571"
 }

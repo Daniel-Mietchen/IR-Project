@@ -193,14 +193,15 @@
             "conflict"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Valproic acid",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -371,9 +372,7 @@
             "day",
             "enrollment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -382,6 +381,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000629.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "acid"
+      ],
+      "id": "NCT00000629"
 }

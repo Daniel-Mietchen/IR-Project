@@ -202,15 +202,16 @@
             "system"
       ],
       "condition": [
-            "liver",
+            "b",
+            "viral",
+            "human",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immunoglobulin",
-            "intravenous"
+            "immunoglobulins, intravenous"
       ],
       "criteria": [
             "boy",
@@ -227,12 +228,21 @@
             "antigen",
             "carrier"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000580.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b",
+            "disease",
+            "viral",
+            "human",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00000580"
 }

@@ -128,14 +128,18 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Clarithromycin",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -277,7 +281,7 @@
             "clinic",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -286,6 +290,15 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000971.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00000971"
 }

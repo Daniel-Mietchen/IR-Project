@@ -78,14 +78,16 @@
             "estrogen"
       ],
       "condition": [
-            "mood",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "testosterone"
+            "Estrogen",
+            "Testosterone"
       ],
       "criteria": [
             "inclusion",
@@ -132,7 +134,7 @@
             "three",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -141,6 +143,13 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000175.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "memory"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000175"
 }

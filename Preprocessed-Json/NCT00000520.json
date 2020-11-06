@@ -268,15 +268,19 @@
             "visit"
       ],
       "condition": [
-            "mucocutaneous",
+            "disease",
+            "aneurysm",
+            "disease",
             "lymph",
             "node",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "immunoglobulins, intravenous",
             "aspirin"
       ],
       "criteria": [
@@ -296,7 +300,7 @@
             "day",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -305,6 +309,17 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000520.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "aneurysm",
+            "lymph",
+            "node",
+            "syndrome",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00000520"
 }

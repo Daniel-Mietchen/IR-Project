@@ -205,17 +205,30 @@
             "5"
       ],
       "condition": [
-            "cytomegalovirus",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
             "retinitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "foscarnet"
+            "Ganciclovir",
+            "Foscarnet"
       ],
       "description": [
-            "intravenous",
+            "ganciclovir",
+            "induction",
+            "5",
+            "twice",
+            "daily",
+            "2",
+            "week",
+            "follow",
+            "maintenance",
+            "10",
             "foscarnet",
             "induction",
             "90",
@@ -229,12 +242,12 @@
             "120"
       ],
       "arm_group_label": [
-            "combination",
+            "ganciclovir",
+            "therapy",
+            "foscarnet",
             "therapy"
       ],
-      "other_name": [
-            "foscavir"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -307,12 +320,22 @@
             "surgical",
             "repair"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000134.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "retinitis",
+            "acid",
+            "triphosphate"
+      ],
+      "id": "NCT00000134"
 }

@@ -119,14 +119,15 @@
             "monthly"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon alfa-n3",
+            "Interferon alfa-n1"
       ],
       "criteria": [
             "inclusion",
@@ -186,12 +187,16 @@
             "past",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000844.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000844"
 }

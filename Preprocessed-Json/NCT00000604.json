@@ -177,16 +177,19 @@
             "potential"
       ],
       "condition": [
-            "neurologic",
+            "disease",
+            "disease",
+            "disease",
+            "ischemia",
             "manifestation"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "heart",
-            "arrest",
-            "induce"
+            "cardiopulmonary bypass",
+            "heart arrest, induced"
       ],
       "criteria": [
             "patient",
@@ -206,7 +209,7 @@
             "year",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -215,6 +218,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000604.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "manifestation"
+      ],
+      "id": "NCT00000604"
 }

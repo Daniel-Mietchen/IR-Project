@@ -135,15 +135,17 @@
             "immunization"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine",
-            "microgenesys"
+            "rgp120/HIV-1MN",
+            "rgp120/HIV-1 SF-2",
+            "gp160 Vaccine (MicroGeneSys)"
       ],
       "criteria": [
             "inclusion",
@@ -293,7 +295,7 @@
             "week",
             "duration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -302,6 +304,17 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000762.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000762"
 }

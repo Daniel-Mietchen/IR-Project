@@ -366,14 +366,19 @@
             "diagnosis"
       ],
       "condition": [
-            "cataract"
+            "degeneration"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "Aspirin",
+            "Beta-Carotene",
+            "Vitamin C",
+            "Vitamin E"
       ],
       "criteria": [
             "woman",
@@ -563,14 +568,21 @@
             "nsaid",
             "exclude"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000161.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "macular",
+            "degeneration"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "e",
+            "carotene"
+      ],
+      "id": "NCT00000161"
 }

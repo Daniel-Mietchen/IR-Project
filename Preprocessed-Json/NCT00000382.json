@@ -224,15 +224,19 @@
             "file"
       ],
       "condition": [
-            "child",
             "abuse"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "parent",
-            "education"
+            "Infant-Parent Psychotherapy",
+            "Child Protective Services",
+            "Psychoeducational Home Visitation",
+            "Parent Education"
       ],
       "criteria": [
             "inclusion",
@@ -255,7 +259,7 @@
             "also",
             "enrol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "month"
@@ -264,5 +268,11 @@
             "12",
             "month"
       ],
-      "id": "NCT00000382.xml"
+      "keyword": [
+            "child",
+            "abuse",
+            "prevention",
+            "control"
+      ],
+      "id": "NCT00000382"
 }

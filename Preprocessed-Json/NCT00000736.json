@@ -238,14 +238,13 @@
             "change"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -433,12 +432,18 @@
             "blood",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000736"
 }

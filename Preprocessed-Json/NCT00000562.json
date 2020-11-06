@@ -224,16 +224,15 @@
             "system"
       ],
       "condition": [
-            "lung",
+            "respiratory",
+            "failure",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "extracorporeal",
-            "membrane",
-            "oxygenation"
+            "extracorporeal membrane oxygenation"
       ],
       "criteria": [
             "men",
@@ -250,7 +249,7 @@
             "respiratory",
             "failure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -259,6 +258,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000562.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "distress",
+            "syndrome",
+            "adult"
+      ],
+      "id": "NCT00000562"
 }

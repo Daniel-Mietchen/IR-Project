@@ -310,15 +310,19 @@
             "contract"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
+            "syndrome",
+            "toxemia",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "dietary",
-            "supplement"
+            "calcium",
+            "dietary supplements"
       ],
       "criteria": [
             "nulliparous",
@@ -326,9 +330,7 @@
             "pregnant",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -337,6 +339,13 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000534.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "syndrome",
+            "dietary"
+      ],
+      "id": "NCT00000534"
 }

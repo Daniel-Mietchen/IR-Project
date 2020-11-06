@@ -66,14 +66,15 @@
             "failure"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "methylprednisolone"
+            "Methylprednisolone"
       ],
       "criteria": [
             "inclusion",
@@ -131,12 +132,24 @@
             "medical",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "2",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000741.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "methylprednisolone"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00000741"
 }

@@ -470,13 +470,21 @@
             "three"
       ],
       "condition": [
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
             "ventricular",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Device",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "defibrillators, implantable",
+            "amiodarone amiodarone",
             "sotalol"
       ],
       "criteria": [
@@ -504,7 +512,7 @@
             "near",
             "syncope"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -513,6 +521,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000531.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "fibrillation",
+            "sudden",
+            "sudden",
+            "cardiac",
+            "ventricular"
+      ],
+      "id": "NCT00000531"
 }

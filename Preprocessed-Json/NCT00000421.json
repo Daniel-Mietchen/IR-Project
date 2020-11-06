@@ -302,18 +302,19 @@
             "life"
       ],
       "condition": [
-            "systemic",
             "lupus",
             "erythematosus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Prednisone",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "arm"
       ],
       "criteria": [
             "inclusion",
@@ -347,9 +348,7 @@
             "uncontrolled",
             "hypertension"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
@@ -358,6 +357,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000421.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "selena"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00000421"
 }

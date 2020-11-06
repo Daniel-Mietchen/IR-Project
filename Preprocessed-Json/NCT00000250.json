@@ -46,16 +46,29 @@
             "volunteer"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "40"
+            "0% N2O",
+            "40% N2O"
       ],
       "description": [
-            "subject",
+            "inhale",
+            "100",
+            "oxygen",
+            "25",
+            "min",
+            "immerse",
+            "forearm",
+            "warm",
+            "water",
+            "cold",
+            "water",
             "inhale",
             "40",
             "immerse",
@@ -66,7 +79,10 @@
             "water"
       ],
       "arm_group_label": [
-            "ice",
+            "water",
+            "cold",
+            "water",
+            "water",
             "cold",
             "water"
       ],
@@ -76,7 +92,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -85,6 +101,15 @@
             "32",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000250.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000250"
 }

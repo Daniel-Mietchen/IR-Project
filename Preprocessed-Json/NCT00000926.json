@@ -136,13 +136,14 @@
             "month"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Nonoxynol-9"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -206,14 +207,21 @@
             "study",
             "pregnant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000926.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nonoxynol"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000926"
 }

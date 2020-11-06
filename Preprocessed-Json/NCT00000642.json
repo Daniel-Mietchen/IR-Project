@@ -226,12 +226,14 @@
             "level"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CD4-IgG"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -554,12 +556,21 @@
             "drug",
             "use"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunoadhesins",
+            "g"
+      ],
+      "id": "NCT00000642"
 }

@@ -280,17 +280,18 @@
             "record"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "enteral",
-            "nutrition"
+            "enteral nutrition"
       ],
       "criteria": [
             "men",
@@ -302,7 +303,7 @@
             "pulmonary",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -311,6 +312,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000573.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "emphysema"
+      ],
+      "id": "NCT00000573"
 }

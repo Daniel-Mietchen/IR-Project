@@ -378,15 +378,14 @@
             "postmenopausal",
             "woman"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "strength",
-            "train"
+            "Hormone replacement therapy",
+            "Strength training"
       ],
       "criteria": [
             "inclusion",
@@ -496,9 +495,7 @@
             "weight",
             "lift"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -507,6 +504,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000399.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "body",
+            "composition"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000399"
 }

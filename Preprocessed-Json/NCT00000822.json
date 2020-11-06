@@ -267,14 +267,19 @@
             "usp"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ritonavir",
+            "gp160 Vaccine (Immuno-AG)",
+            "Stavudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -627,12 +632,20 @@
             "prior",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000822"
 }

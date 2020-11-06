@@ -119,13 +119,16 @@
             "size"
       ],
       "condition": [
+            "disorder",
+            "withdrawal",
+            "syndrome",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cocaine"
+            "Cocaine"
       ],
       "criteria": [
             "inclusion",
@@ -224,7 +227,7 @@
             "seizure",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -233,6 +236,12 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000292.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "withdrawal",
+            "syndrome"
+      ],
+      "id": "NCT00000292"
 }

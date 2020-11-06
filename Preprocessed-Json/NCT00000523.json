@@ -174,11 +174,13 @@
             "capacity"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
             "exercise"
@@ -204,7 +206,7 @@
             "heart",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -213,6 +215,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000523.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000523"
 }

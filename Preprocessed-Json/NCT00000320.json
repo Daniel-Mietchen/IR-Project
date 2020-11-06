@@ -66,16 +66,12 @@
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "buprenorphine",
-            "formulation",
-            "liquid",
-            "tablet"
+            "Buprenorphine formulation: liquid vs. tablet"
       ],
       "description": [
-            "random",
             "assignment",
             "liquid",
             "buprenorphine",
@@ -83,13 +79,14 @@
             "buprenorphine"
       ],
       "arm_group_label": [
+            "1",
+            "liquid",
+            "formulation",
             "2",
             "tablet",
             "formulation"
       ],
-      "other_name": [
-            "suboxone"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -129,7 +126,7 @@
             "etoh",
             "dependence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -138,6 +135,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000320.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "opioid",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00000320"
 }

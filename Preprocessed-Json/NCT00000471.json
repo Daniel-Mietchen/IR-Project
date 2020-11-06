@@ -141,15 +141,23 @@
             "system"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "smoke",
-            "cessation"
+            "diet, vegetarianism",
+            "diet, fat-restricted",
+            "exercise",
+            "smoking cessation"
       ],
       "criteria": [
             "men",
@@ -175,7 +183,7 @@
             "alteplase",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -184,6 +192,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000471.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000471"
 }

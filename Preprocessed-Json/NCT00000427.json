@@ -198,14 +198,14 @@
             "pth",
             "treatment"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "alendronate"
+            "Parathyroid hormone",
+            "Alendronate"
       ],
       "criteria": [
             "inclusion",
@@ -266,9 +266,7 @@
             "severe",
             "reflux"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "46",
             "year"
@@ -277,6 +275,11 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000427.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteoporosis",
+            "men"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000427"
 }

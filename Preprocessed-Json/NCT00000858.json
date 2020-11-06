@@ -239,7 +239,6 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -318,9 +317,7 @@
             "assay",
             "result"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -329,6 +326,17 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000858.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vagina"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000858"
 }

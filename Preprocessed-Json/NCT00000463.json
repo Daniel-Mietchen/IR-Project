@@ -606,13 +606,19 @@
             "patient"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "lovastatin",
+            "cholestyramine",
             "warfarin"
       ],
       "criteria": [
@@ -636,7 +642,7 @@
             "triglyceride",
             "300"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -645,6 +651,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000463.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "resin"
+      ],
+      "id": "NCT00000463"
 }

@@ -355,13 +355,19 @@
             "record"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "stenosis",
+            "arteriosclerosis",
+            "disorder",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aspirin",
             "lovastatin"
       ],
       "criteria": [
@@ -376,7 +382,7 @@
             "cholesterol",
             "percentile"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -385,6 +391,14 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000469.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "disorder",
+            "stenosis",
+            "arteriosclerosis"
+      ],
+      "id": "NCT00000469"
 }

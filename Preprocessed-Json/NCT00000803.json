@@ -102,14 +102,17 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Delavirdine mesylate",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -378,12 +381,18 @@
             "alcohol",
             "use"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000803.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000803"
 }

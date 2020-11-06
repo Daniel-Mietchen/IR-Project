@@ -117,14 +117,20 @@
             "10"
       ],
       "condition": [
-            "hiv",
+            "cryptococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Flucytosine",
+            "Fluconazole",
+            "Amphotericin B",
+            "Dexamethasone"
       ],
       "criteria": [
             "inclusion",
@@ -280,12 +286,25 @@
             "hour",
             "phenytoin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000776.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brain",
+            "disease"
+      ],
+      "mesh_term": [
+            "infection",
+            "cryptococcal",
+            "acetate",
+            "1101",
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00000776"
 }

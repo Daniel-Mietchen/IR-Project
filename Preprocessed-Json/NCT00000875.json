@@ -256,14 +256,25 @@
             "infusion"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Indinavir sulfate",
+            "Diphenhydramine hydrochloride",
+            "Lymphocytes, Activated",
+            "Lamivudine",
+            "Zidovudine",
+            "Acetaminophen",
+            "Aldesleukin"
       ],
       "criteria": [
             "inclusion",
@@ -372,12 +383,21 @@
             "alcohol",
             "intake"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000875.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00000875"
 }

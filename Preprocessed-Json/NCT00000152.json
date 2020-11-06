@@ -341,13 +341,16 @@
             "group"
       ],
       "condition": [
-            "macular",
             "degeneration"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Aspirin",
+            "Beta-Carotene"
+      ],
       "criteria": [
             "physician",
             "health",
@@ -400,9 +403,7 @@
             "use",
             "corticosteroid"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -411,6 +412,14 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000152.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "macular",
+            "degeneration"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "carotene"
+      ],
+      "id": "NCT00000152"
 }

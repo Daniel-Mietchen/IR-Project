@@ -225,16 +225,15 @@
             "monitor"
       ],
       "condition": [
-            "diabetic",
             "retinopathy"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "argon",
-            "laser",
-            "photocoagulation"
+            "Aspirin",
+            "Argon Laser Photocoagulation"
       ],
       "criteria": [
             "men",
@@ -265,7 +264,7 @@
             "eligible",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -274,6 +273,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000151.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "retinopathy"
+      ],
+      "id": "NCT00000151"
 }

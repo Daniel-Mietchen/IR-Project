@@ -257,15 +257,22 @@
             "shock"
       ],
       "condition": [
-            "shock",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
+            "ischemia",
             "cardiogenic"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "thrombolytic",
-            "therapy"
+            "angioplasty, transluminal, percutaneous coronary",
+            "coronary artery bypass",
+            "thrombolytic therapy"
       ],
       "criteria": [
             "men",
@@ -275,7 +282,7 @@
             "cardiogenic",
             "shock"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -284,6 +291,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000552.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "cardiogenic",
+            "agent"
+      ],
+      "id": "NCT00000552"
 }

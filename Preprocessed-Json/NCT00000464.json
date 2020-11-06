@@ -293,13 +293,28 @@
             "endpoint"
       ],
       "condition": [
-            "ventricular",
+            "disease",
+            "arrest",
+            "disease",
+            "infarction",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amiodarone",
+            "imipramine",
+            "mexiletine",
+            "procainamide",
+            "propafenone",
+            "quinidine",
             "sotalol"
       ],
       "criteria": [
@@ -315,7 +330,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -324,6 +339,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000464.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "fibrillation",
+            "arrest"
+      ],
+      "id": "NCT00000464"
 }

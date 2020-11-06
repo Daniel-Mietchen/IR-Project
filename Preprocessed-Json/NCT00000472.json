@@ -658,13 +658,19 @@
             "record"
       ],
       "condition": [
-            "myocardial",
+            "pectoris",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "tissue plasminogen activator",
             "heparin"
       ],
       "criteria": [
@@ -678,7 +684,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -687,6 +693,18 @@
             "76",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000472.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "pectoris",
+            "ischemia",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00000472"
 }

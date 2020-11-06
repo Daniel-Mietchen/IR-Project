@@ -494,14 +494,17 @@
             "1996"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
+            "transmission",
+            "vertical",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immunoglobulin"
+            "immunoglobulins"
       ],
       "criteria": [
             "asymptomatic",
@@ -512,7 +515,7 @@
             "le",
             "infant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -521,6 +524,13 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000590.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000590"
 }

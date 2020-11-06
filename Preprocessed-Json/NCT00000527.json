@@ -123,13 +123,18 @@
             "year"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "stenosis",
+            "disorder",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aspirin",
             "dipyridamole"
       ],
       "criteria": [
@@ -140,7 +145,7 @@
             "carotid",
             "endarterectomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -149,6 +154,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000527.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "pathologic",
+            "disease",
+            "disorder",
+            "stenosis"
+      ],
+      "id": "NCT00000527"
 }

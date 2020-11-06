@@ -235,12 +235,15 @@
             "triglyceride"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
+            "diet, fat-restricted",
             "exercise"
       ],
       "criteria": [
@@ -257,7 +260,7 @@
             "equal",
             "59"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -266,6 +269,10 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000598.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000598"
 }

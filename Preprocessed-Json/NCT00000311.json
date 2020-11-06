@@ -50,20 +50,20 @@
             "cm"
       ],
       "condition": [
+            "disorder",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "buprenorphine"
+            "Buprenorphine"
       ],
       "description": [
-            "experimental",
             "therapeutic",
             "contract",
             "tc",
-            "experimental",
             "cognitive",
             "behavioral",
             "cop",
@@ -72,6 +72,7 @@
             "cbt"
       ],
       "arm_group_label": [
+            "1",
             "2"
       ],
       "criteria": [
@@ -80,9 +81,14 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000311.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000311"
 }

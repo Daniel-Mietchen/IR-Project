@@ -228,14 +228,21 @@
             "system"
       ],
       "condition": [
-            "atherosclerosis"
+            "disease",
+            "artery",
+            "disease",
+            "arteriosclerosis",
+            "disorder",
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "c"
+            "Vitamin E",
+            "Vitamin C"
       ],
       "criteria": [
             "inclusion",
@@ -243,7 +250,7 @@
             "african",
             "american"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -252,6 +259,16 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000600.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "disorder",
+            "artery",
+            "disease",
+            "arteriosclerosis",
+            "e"
+      ],
+      "id": "NCT00000600"
 }

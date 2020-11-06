@@ -354,14 +354,27 @@
             "beneficial"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Indinavir sulfate",
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Nelfinavir mesylate",
+            "Efavirenz",
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -447,12 +460,22 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00000912"
 }

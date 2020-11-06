@@ -230,11 +230,13 @@
             "principle"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tamoxifen"
@@ -278,9 +280,7 @@
             "pulmonary",
             "embolism"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "35",
             "year"
@@ -289,6 +289,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000529.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000529"
 }

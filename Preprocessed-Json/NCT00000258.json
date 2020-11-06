@@ -48,18 +48,29 @@
             "choice"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nitrous",
-            "oxide",
-            "40",
-            "placebo"
+            "Nitrous oxide 10% & placebo",
+            "Nitrous oxide 20% & placebo",
+            "Nitrous oxide 30% & placebo",
+            "Nitrous oxide 40% and placebo"
       ],
       "arm_group_label": [
+            "group",
+            "group",
+            "group",
+            "group",
+            "group",
+            "group",
+            "group",
             "group"
       ],
       "criteria": [
@@ -68,7 +79,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -77,6 +88,15 @@
             "32",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000258.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000258"
 }

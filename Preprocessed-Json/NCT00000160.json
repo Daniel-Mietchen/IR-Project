@@ -213,13 +213,17 @@
             "retina"
       ],
       "condition": [
-            "blindness"
+            "retinopathy"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "photocoagulation"
+            "Xenon Photocoagulation",
+            "Argon Photocoagulation",
+            "Photocoagulation"
       ],
       "criteria": [
             "patient",
@@ -266,12 +270,20 @@
             "followup",
             "good"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000160.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vision",
+            "loss"
+      ],
+      "mesh_term": [
+            "disease",
+            "retinopathy"
+      ],
+      "id": "NCT00000160"
 }

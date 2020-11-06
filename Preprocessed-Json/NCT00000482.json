@@ -252,13 +252,22 @@
             "system"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "estrogen",
+            "clofibrate clofibrate",
+            "dextrothyroxine sodium",
             "niacin"
       ],
       "criteria": [
@@ -271,9 +280,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "30",
             "year"
@@ -282,6 +289,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000482.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000482"
 }

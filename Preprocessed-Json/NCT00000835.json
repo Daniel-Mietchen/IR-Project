@@ -166,7 +166,6 @@
             "vaccine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -421,7 +420,7 @@
             "enrol",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -430,6 +429,9 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000835.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000835"
 }

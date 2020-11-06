@@ -176,14 +176,22 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Bleomycin sulfate",
+            "Vincristine sulfate",
+            "Doxorubicin hydrochloride",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -449,12 +457,21 @@
             "strongly",
             "discourage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000954.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bleomycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "doxorubicin",
+            "agent"
+      ],
+      "id": "NCT00000954"
 }

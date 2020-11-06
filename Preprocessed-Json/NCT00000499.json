@@ -300,13 +300,20 @@
             "regimen"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "chlorthalidone",
+            "reserpine",
+            "hydralazine",
             "metoprolol"
       ],
       "criteria": [
@@ -325,12 +332,17 @@
             "mm",
             "hg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000499.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000499"
 }

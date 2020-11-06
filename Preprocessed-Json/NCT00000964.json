@@ -154,15 +154,15 @@
             "ph"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "foscarnet",
-            "sodium"
+            "Ranitidine hydrochloride",
+            "Foscarnet sodium"
       ],
       "criteria": [
             "inclusion",
@@ -237,14 +237,23 @@
             "aspirin",
             "diuretic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000964.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "bismuth",
+            "citrate",
+            "acid"
+      ],
+      "id": "NCT00000964"
 }

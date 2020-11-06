@@ -361,14 +361,15 @@
             "trial"
       ],
       "condition": [
-            "uveitis"
+            "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "eye",
-            "removal"
+            "Brachytherapy",
+            "Eye Removal"
       ],
       "criteria": [
             "men",
@@ -396,12 +397,19 @@
             "also",
             "possible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000124.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ocular",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00000124"
 }

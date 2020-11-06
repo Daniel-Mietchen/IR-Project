@@ -343,13 +343,20 @@
             "cancel"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MN rgp120/HIV-1 and GNE8 rgp120/HIV-1",
+            "MN rgp120/HIV-1 and A244 rgp120/HIV-1",
+            "ALVAC-HIV MN120TMG (vCP205)",
+            "rgp120/HIV-1 SF-2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -552,7 +559,7 @@
             "study",
             "immunization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -561,6 +568,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000871.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000871"
 }

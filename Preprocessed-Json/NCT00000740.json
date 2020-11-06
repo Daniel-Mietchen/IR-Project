@@ -187,14 +187,15 @@
             "tolerance"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sitamaquine"
+            "Sitamaquine"
       ],
       "criteria": [
             "inclusion",
@@ -293,12 +294,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000740.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "wr",
+            "6026"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000740"
 }

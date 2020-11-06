@@ -126,14 +126,15 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "L-697,661",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -313,12 +314,21 @@
             "component",
             "zidovudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000628.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "l",
+            "697661"
+      ],
+      "id": "NCT00000628"
 }

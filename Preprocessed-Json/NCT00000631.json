@@ -164,15 +164,15 @@
             "boost"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine",
-            "microgenesys"
+            "HIVAC-1e",
+            "gp160 Vaccine (MicroGeneSys)"
       ],
       "criteria": [
             "inclusion",
@@ -272,9 +272,7 @@
             "sexual",
             "partner"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -283,6 +281,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000631.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000631"
 }

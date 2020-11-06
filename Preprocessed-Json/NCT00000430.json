@@ -393,14 +393,14 @@
             "treat",
             "osteoporosis"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapy"
+            "Alendronate",
+            "Estrogen/progestin therapy"
       ],
       "criteria": [
             "inclusion",
@@ -635,14 +635,19 @@
             "per",
             "day"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000430.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "alendronate"
+      ],
+      "mesh_term": [
+            "disease",
+            "metabolic"
+      ],
+      "id": "NCT00000430"
 }

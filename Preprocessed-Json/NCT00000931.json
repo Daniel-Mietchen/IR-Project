@@ -184,14 +184,15 @@
             "consistently"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "counsel"
+            "Behavioral intervention",
+            "Risk-reduction counseling"
       ],
       "criteria": [
             "inclusion",
@@ -279,14 +280,19 @@
             "pilot",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000931.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000931"
 }

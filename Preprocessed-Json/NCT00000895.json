@@ -285,14 +285,18 @@
             "phase"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Nelfinavir mesylate",
+            "Nevirapine",
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -361,12 +365,24 @@
             "3",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000895.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00000895"
 }

@@ -302,18 +302,20 @@
             "negative",
             "symptom"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "D-cycloserine",
+            "Glycine",
+            "Clozapine",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -359,7 +361,7 @@
             "abuse",
             "diagnosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -368,6 +370,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000372.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "schizophrenia",
+            "physiopathology"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000372"
 }

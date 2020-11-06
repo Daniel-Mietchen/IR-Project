@@ -175,14 +175,13 @@
             "record"
       ],
       "condition": [
-            "infection"
+            "transfusion"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "leukocyte",
-            "transfusion"
+            "leukocyte transfusions"
       ],
       "criteria": [
             "prophylactic",
@@ -207,12 +206,12 @@
             "male",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000581.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00000581"
 }

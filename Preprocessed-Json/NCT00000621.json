@@ -549,15 +549,21 @@
             "perform"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "all trans retinoic acid",
+            "13 cis retinoic acid",
             "placebo"
       ],
       "criteria": [
@@ -640,12 +646,21 @@
             "30",
             "predict"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000621.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "emphysema"
+      ],
+      "id": "NCT00000621"
 }

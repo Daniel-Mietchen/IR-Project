@@ -99,14 +99,14 @@
             "occur"
       ],
       "condition": [
-            "hiv",
+            "esophageal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Fluconazole"
       ],
       "criteria": [
             "inclusion",
@@ -184,14 +184,18 @@
             "candida",
             "esophagitis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000744.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "candidiasis"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000744"
 }

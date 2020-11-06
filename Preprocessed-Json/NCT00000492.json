@@ -316,11 +316,17 @@
             "qvr"
       ],
       "condition": [
-            "ventricular",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
+            "infarction",
+            "ischemia",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "propranolol"
@@ -335,7 +341,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -344,6 +350,19 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000492.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "fibrillation",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00000492"
 }

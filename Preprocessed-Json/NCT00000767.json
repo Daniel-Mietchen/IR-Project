@@ -298,15 +298,15 @@
             "accrual"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "smallpox",
-            "vaccine"
+            "TBC-3B Vaccine",
+            "Smallpox Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -545,7 +545,7 @@
             "share",
             "avoid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -554,6 +554,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000767.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000767"
 }

@@ -250,14 +250,15 @@
             "placebo"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -673,12 +674,21 @@
             "study",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000671.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000671"
 }

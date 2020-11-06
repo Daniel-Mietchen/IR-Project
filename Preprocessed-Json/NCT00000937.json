@@ -123,14 +123,13 @@
             "fluid"
       ],
       "condition": [
-            "lyme",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antibiotic"
+            "Antibiotics"
       ],
       "criteria": [
             "inclusion",
@@ -240,7 +239,7 @@
             "class",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -249,6 +248,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000937.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00000937"
 }

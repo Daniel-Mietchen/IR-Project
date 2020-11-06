@@ -191,12 +191,20 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "hormone replacement therapy",
+            "estrogens",
             "medroxyprogesterone"
       ],
       "criteria": [
@@ -208,9 +216,7 @@
             "bypass",
             "graft"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -219,6 +225,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000605.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "acetate"
+      ],
+      "id": "NCT00000605"
 }

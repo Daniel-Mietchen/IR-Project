@@ -102,14 +102,17 @@
             "month"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dapsone"
+            "Atovaquone",
+            "Dapsone"
       ],
       "criteria": [
             "inclusion",
@@ -199,12 +202,19 @@
             "dapsone",
             "atovaquone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000802.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atovaquone"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000802"
 }

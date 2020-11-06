@@ -122,17 +122,33 @@
             "6",
             "month"
       ],
-      "condition": [
-            "smoke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "bupropion (Wellbutrin)",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "1",
+            "pill",
+            "150",
+            "mg",
+            "pill",
+            "150",
+            "mg",
+            "one",
+            "pm",
+            "total",
+            "300",
+            "mg",
+            "per",
+            "day",
+            "subsequent",
+            "44",
+            "week",
             "pill",
             "match",
             "look",
@@ -154,12 +170,8 @@
             "44",
             "mg"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "wellbutrin"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -323,12 +335,13 @@
             "bupropion",
             "wellbutrin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000457.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000457"
 }

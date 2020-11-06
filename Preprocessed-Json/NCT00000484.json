@@ -89,15 +89,17 @@
             "record"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rauwolfia",
-            "alkaloid"
+            "chlorothiazide",
+            "Rauwolfia alkaloids"
       ],
       "criteria": [
             "men",
@@ -113,7 +115,7 @@
             "mm",
             "hg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -122,6 +124,11 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000484.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000484"
 }

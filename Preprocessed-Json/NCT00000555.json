@@ -294,14 +294,29 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "estrogen replacement therapy",
+            "estrogens, conjugated",
+            "progesterone",
+            "hormone replacement therapy",
+            "supplementation, food",
+            "ascorbic acid",
+            "vitamin e"
       ],
       "criteria": [
             "postmenopausal",
@@ -320,9 +335,7 @@
             "percent",
             "occlusion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "38",
             "year"
@@ -331,6 +344,18 @@
             "86",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000555.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "acid",
+            "e",
+            "conjugate",
+            "usp"
+      ],
+      "id": "NCT00000555"
 }

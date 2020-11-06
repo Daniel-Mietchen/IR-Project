@@ -178,14 +178,17 @@
             "azt"
       ],
       "condition": [
-            "hiv",
+            "dementia",
+            "complex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -568,12 +571,20 @@
             "therapy",
             "evaluation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000657.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "dementia",
+            "complex"
+      ],
+      "id": "NCT00000657"
 }

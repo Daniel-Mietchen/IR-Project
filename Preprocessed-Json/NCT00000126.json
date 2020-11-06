@@ -487,15 +487,14 @@
             "perimeter"
       ],
       "condition": [
-            "ischemic",
             "optic",
             "neuropathy"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "Surgery"
       ],
       "criteria": [
             "live",
@@ -514,12 +513,23 @@
             "patient",
             "recruit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000126.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ischemic",
+            "optic",
+            "neuropathy"
+      ],
+      "mesh_term": [
+            "nerve",
+            "disease",
+            "neuropathy",
+            "ischemic"
+      ],
+      "id": "NCT00000126"
 }

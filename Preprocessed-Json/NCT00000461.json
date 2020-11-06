@@ -427,15 +427,24 @@
             "record"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fatty",
-            "acid"
+            "pravastatin",
+            "niacin",
+            "cholestyramine",
+            "gemfibrozil",
+            "fatty acids, omega-3"
       ],
       "criteria": [
             "men",
@@ -461,7 +470,7 @@
             "oil",
             "tr"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -470,6 +479,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000461.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "resin"
+      ],
+      "id": "NCT00000461"
 }

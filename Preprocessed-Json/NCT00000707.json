@@ -253,15 +253,15 @@
             "allow"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pentamidine",
-            "isethionate"
+            "Pentamidine isethionate"
       ],
       "criteria": [
             "inclusion",
@@ -482,12 +482,23 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000707.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "pneumocystis",
+            "infection"
+      ],
+      "id": "NCT00000707"
 }

@@ -436,26 +436,40 @@
             "center"
       ],
       "condition": [
+            "herpetic",
             "herpes",
+            "simplex",
             "simplex"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Stress",
+            "Acyclovir"
       ],
       "criteria": [
             "criterion",
             "note",
             "description"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000139.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herpes",
+            "simplex",
+            "stromal",
+            "keratitis"
+      ],
+      "mesh_term": [
+            "simplex",
+            "herpetic"
+      ],
+      "id": "NCT00000139"
 }

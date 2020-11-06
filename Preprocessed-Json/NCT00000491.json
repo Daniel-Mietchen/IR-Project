@@ -271,11 +271,14 @@
             "placebo"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "aspirin"
@@ -290,7 +293,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -299,6 +302,15 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000491.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000491"
 }

@@ -68,15 +68,16 @@
             "participant"
       ],
       "condition": [
-            "hear",
             "loss",
             "sensorineural"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methotrexate"
+            "Corticosteroids",
+            "Methotrexate"
       ],
       "criteria": [
             "inclusion",
@@ -169,7 +170,7 @@
             "disorder",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -178,6 +179,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000361.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prednisone"
+      ],
+      "mesh_term": [
+            "loss",
+            "loss",
+            "sensorineural"
+      ],
+      "id": "NCT00000361"
 }

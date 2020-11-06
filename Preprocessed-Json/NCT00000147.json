@@ -367,14 +367,16 @@
             "yearly"
       ],
       "condition": [
-            "optic",
+            "sclerosis",
             "neuritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "prednisone"
+            "Methylprednisolone",
+            "Prednisone"
       ],
       "criteria": [
             "major",
@@ -429,7 +431,7 @@
             "optic",
             "neuritis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -438,6 +440,15 @@
             "46",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000147.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sclerosis",
+            "neuritis",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00000147"
 }

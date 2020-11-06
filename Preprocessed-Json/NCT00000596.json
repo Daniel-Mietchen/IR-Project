@@ -210,24 +210,33 @@
             "record"
       ],
       "condition": [
-            "sarcoidosis"
+            "disease",
+            "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "prednisone",
+            "cyclophosphamide",
             "dapsone"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000596.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "fibrosis"
+      ],
+      "id": "NCT00000596"
 }

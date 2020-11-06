@@ -125,22 +125,31 @@
             "condition"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "dnaJ peptide",
+            "None-placebo"
+      ],
       "description": [
-            "placebo",
+            "take",
+            "pill",
+            "form",
+            "6",
+            "month",
             "take",
             "pill",
             "form",
             "6",
             "month"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "b"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -246,7 +255,7 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -255,6 +264,12 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000435.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dnaj"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00000435"
 }

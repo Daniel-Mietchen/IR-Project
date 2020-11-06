@@ -133,25 +133,38 @@
             "diary"
       ],
       "condition": [
-            "peripheral",
+            "infection",
             "nervous",
             "system",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "point",
-            "acupuncture"
+            "Amitriptyline hydrochloride",
+            "Amitriptyline hydrochloride placebo",
+            "Point acupuncture"
       ],
       "description": [
-            "standardize",
+            "mg",
+            "oral",
+            "tablet",
+            "take",
+            "daily",
+            "placebo",
+            "tablet",
+            "take",
+            "daily",
             "alternate",
             "acupuncture",
             "procedure"
       ],
       "arm_group_label": [
+            "1",
+            "1",
             "1"
       ],
       "criteria": [
@@ -298,12 +311,27 @@
             "tricyclic",
             "antidepressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000817.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acupuncture",
+            "therapy"
+      ],
+      "mesh_term": [
+            "infection",
+            "nervous",
+            "system",
+            "disease",
+            "system",
+            "disease",
+            "perphenazine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000817"
 }

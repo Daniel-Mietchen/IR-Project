@@ -203,13 +203,13 @@
             "retina",
             "monitor"
       ],
-      "condition": [
-            "glaucoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "5-Fluorouracil"
+      ],
       "criteria": [
             "men",
             "woman",
@@ -234,9 +234,10 @@
             "eligible",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000122.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000122"
 }

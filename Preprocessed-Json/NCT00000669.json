@@ -224,14 +224,13 @@
             "group"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -542,7 +541,7 @@
             "marrow",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -551,6 +550,15 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000669"
 }

@@ -202,13 +202,16 @@
             "result"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "diet, fat-restricted"
       ],
       "criteria": [
             "postmenopausal",
@@ -225,9 +228,7 @@
             "fat",
             "baseline"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -236,6 +237,14 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000481.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000481"
 }

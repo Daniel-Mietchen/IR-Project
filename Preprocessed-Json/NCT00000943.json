@@ -274,17 +274,19 @@
             "response"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "hepatitis",
-            "b",
-            "vaccine",
-            "recombinant"
+            "Tetanus Toxoid Vaccine",
+            "Hepatitis A Vaccine (Inactivated)",
+            "HIV-1 Immunogen",
+            "Hepatitis B Vaccine (Recombinant)"
       ],
       "criteria": [
             "inclusion",
@@ -329,12 +331,20 @@
             "medication",
             "prohibit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000943.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000943"
 }

@@ -258,14 +258,15 @@
             "level"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Interferon alfa-2a",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -419,7 +420,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -428,6 +429,13 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interferon",
+            "type"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000967"
 }

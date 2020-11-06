@@ -203,18 +203,20 @@
             "use"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "relapse",
-            "prevention",
-            "counsel"
+            "Risperidone",
+            "Placebo",
+            "Relapse prevention counseling"
       ],
       "description": [
-            "modify",
             "manual",
             "guide",
             "relapse",
@@ -229,9 +231,7 @@
             "behavioral",
             "skill"
       ],
-      "arm_group_label": [
-            "risperidone"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -344,7 +344,7 @@
             "dependence",
             "nicotine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -353,6 +353,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000317.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000317"
 }

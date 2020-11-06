@@ -348,15 +348,17 @@
             "trial"
       ],
       "condition": [
-            "ocular",
+            "herpetic",
             "herpes",
             "simplex"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Prednisolone Phosphate",
+            "Acyclovir"
       ],
       "criteria": [
             "eligibility",
@@ -382,12 +384,27 @@
             "note",
             "description"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herpes",
+            "simplex",
+            "stromal",
+            "keratitis"
+      ],
+      "mesh_term": [
+            "simplex",
+            "herpetic",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate",
+            "hemisuccinate"
+      ],
+      "id": "NCT00000138"
 }

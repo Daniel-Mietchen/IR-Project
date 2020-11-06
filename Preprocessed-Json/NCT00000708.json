@@ -206,15 +206,18 @@
             "effect"
       ],
       "condition": [
-            "hiv",
+            "cryptococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amphotericin",
-            "b"
+            "Flucytosine",
+            "Fluconazole",
+            "Amphotericin B"
       ],
       "criteria": [
             "inclusion",
@@ -504,12 +507,23 @@
             "2",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000708.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amphotericin",
+            "b"
+      ],
+      "mesh_term": [
+            "infection",
+            "cryptococcal",
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00000708"
 }

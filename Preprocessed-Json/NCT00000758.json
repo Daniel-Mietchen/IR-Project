@@ -114,14 +114,14 @@
             "biopsy"
       ],
       "condition": [
-            "cervix",
+            "infection",
             "dysplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fluorouracil"
+            "Fluorouracil"
       ],
       "criteria": [
             "inclusion",
@@ -266,14 +266,23 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000758.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervix",
+            "disease"
+      ],
+      "mesh_term": [
+            "infection",
+            "cervical",
+            "dysplasia",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "id": "NCT00000758"
 }

@@ -124,14 +124,23 @@
             "response"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "env"
+            "Aluminum hydroxide",
+            "MF59",
+            "rgp120/HIV-1IIIB",
+            "rgp120/HIV-1MN",
+            "rgp120/HIV-1 SF-2",
+            "Env 2-3"
       ],
       "criteria": [
             "inclusion",
@@ -245,12 +254,21 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000779.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide"
+      ],
+      "id": "NCT00000779"
 }

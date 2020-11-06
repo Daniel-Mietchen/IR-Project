@@ -104,16 +104,15 @@
             "conduct"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "peptide",
-            "immunogen",
-            "multivalent"
+            "HIV-1 Peptide Vaccine, Microparticulate Monovalent",
+            "HIV-1 Peptide Immunogen, Multivalent"
       ],
       "criteria": [
             "inclusion",
@@ -326,7 +325,7 @@
             "define",
             "aveg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -335,6 +334,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000846.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000846"
 }

@@ -202,7 +202,7 @@
             "community"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "criteria": [
             "inclusion",
@@ -223,12 +223,19 @@
             "le",
             "pound"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000917.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fetal",
+            "blood"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000917"
 }

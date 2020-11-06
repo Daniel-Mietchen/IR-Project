@@ -451,14 +451,21 @@
             "306"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Delavirdine mesylate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -742,12 +749,19 @@
             "therapy",
             "foscarnet"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000882.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000882"
 }

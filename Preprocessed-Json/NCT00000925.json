@@ -180,18 +180,15 @@
             "12"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "waste",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "optimune",
-            "oral",
-            "nutritional",
-            "supplement"
+            "Optimune oral nutritional supplement"
       ],
       "criteria": [
             "inclusion",
@@ -282,12 +279,24 @@
             "implant",
             "defibrillator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000925.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "waste",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "loss",
+            "syndrome",
+            "waste",
+            "syndrome"
+      ],
+      "id": "NCT00000925"
 }

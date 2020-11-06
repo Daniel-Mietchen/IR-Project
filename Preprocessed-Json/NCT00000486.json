@@ -197,16 +197,17 @@
             "angina"
       ],
       "condition": [
-            "myocardial",
+            "unstable",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "coronary",
-            "artery",
-            "bypass"
+            "coronary artery bypass"
       ],
       "criteria": [
             "men",
@@ -224,7 +225,7 @@
             "minimal",
             "exercise"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -233,6 +234,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000486.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "unstable"
+      ],
+      "id": "NCT00000486"
 }

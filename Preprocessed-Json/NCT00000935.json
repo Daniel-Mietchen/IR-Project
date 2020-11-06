@@ -215,20 +215,17 @@
             "rat"
       ],
       "condition": [
-            "kidney",
+            "renal",
+            "disease",
             "transplantation"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "intravenous",
-            "immune",
-            "globulin",
-            "ivig"
+            "Intravenous immune globulin (IVIG)"
       ],
       "description": [
-            "give",
             "dose",
             "intravenous",
             "immune",
@@ -238,7 +235,9 @@
             "10"
       ],
       "arm_group_label": [
-            "intravenous",
+            "immune",
+            "globulin",
+            "human",
             "immune",
             "globulin",
             "human",
@@ -314,12 +313,22 @@
             "globulin",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000935.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "chronic",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00000935"
 }

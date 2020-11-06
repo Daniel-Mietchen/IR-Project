@@ -255,10 +255,13 @@
             "population"
       ],
       "condition": [
-            "pneumonia"
+            "sickle",
+            "cell",
+            "disease",
+            "pneumoniae"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "penicillin"
@@ -297,12 +300,17 @@
             "two",
             "yea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000585.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00000585"
 }

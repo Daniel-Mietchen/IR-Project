@@ -331,15 +331,17 @@
             "abnormality"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antihypertensive",
-            "agent"
+            "diuretics",
+            "antihypertensive agents"
       ],
       "criteria": [
             "men",
@@ -362,7 +364,7 @@
             "hg",
             "respectively"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -371,6 +373,12 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000485.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00000485"
 }

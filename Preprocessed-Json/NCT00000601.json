@@ -210,15 +210,22 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "unstable",
+            "disease",
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hormone",
-            "replacement",
-            "therapy"
+            "estrogen replacement therapy",
+            "estrogens",
+            "progesterone",
+            "hormone replacement therapy"
       ],
       "criteria": [
             "postmenopausal",
@@ -226,9 +233,7 @@
             "unstable",
             "angina"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -237,6 +242,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000601.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "unstable"
+      ],
+      "id": "NCT00000601"
 }

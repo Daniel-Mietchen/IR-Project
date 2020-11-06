@@ -216,14 +216,21 @@
             "record"
       ],
       "condition": [
-            "hypertension"
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "alcohol",
-            "drink"
+            "diet, sodium-restricted",
+            "diet, fat-restricted",
+            "exercise",
+            "diet, reducing",
+            "alcohol drinking"
       ],
       "criteria": [
             "men",
@@ -241,7 +248,7 @@
             "blood",
             "pressure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -250,6 +257,9 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000616.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00000616"
 }

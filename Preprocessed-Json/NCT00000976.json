@@ -364,14 +364,15 @@
             "investigator"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "CD4-IgG",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -496,12 +497,22 @@
             "month",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000976.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carrier",
+            "protein"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex",
+            "immunoadhesins",
+            "g"
+      ],
+      "id": "NCT00000976"
 }

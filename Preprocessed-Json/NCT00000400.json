@@ -176,24 +176,25 @@
             "bone",
             "mass"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Human parathyroid hormone [hPTH-(1-34)]",
             "alendronate"
       ],
       "description": [
-            "70",
+            "mcg",
+            "daily",
+            "sc",
+            "injection",
             "oral",
             "route"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "fosamax"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -228,7 +229,7 @@
             "recent",
             "fracture"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -237,6 +238,10 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "postmenopause"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000400"
 }

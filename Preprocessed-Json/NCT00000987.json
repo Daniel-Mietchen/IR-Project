@@ -190,14 +190,20 @@
             "mouth"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Bleomycin sulfate",
+            "Vincristine sulfate",
+            "Doxorubicin hydrochloride",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -406,12 +412,20 @@
             "naltrexone",
             "isoprinosine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000987.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bleomycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "doxorubicin"
+      ],
+      "id": "NCT00000987"
 }

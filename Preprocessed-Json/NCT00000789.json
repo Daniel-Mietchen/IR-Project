@@ -118,14 +118,15 @@
             "terminate"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -263,7 +264,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -272,6 +273,15 @@
             "6",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000789.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stavudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000789"
 }

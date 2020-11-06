@@ -270,14 +270,15 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Zidovudine",
+            "Aldesleukin"
       ],
       "criteria": [
             "inclusion",
@@ -555,7 +556,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -564,6 +565,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000986.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex"
+      ],
+      "id": "NCT00000986"
 }

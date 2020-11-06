@@ -230,14 +230,18 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon alfa-2a",
+            "Zidovudine",
+            "Interferon alfa-n1"
       ],
       "criteria": [
             "inclusion",
@@ -397,12 +401,22 @@
             "radiation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000725.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interferon",
+            "type"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "opportunistic",
+            "infection"
+      ],
+      "id": "NCT00000725"
 }

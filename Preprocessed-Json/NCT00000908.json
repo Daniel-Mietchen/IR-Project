@@ -151,7 +151,8 @@
             "thereafter"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "criteria": [
@@ -221,12 +222,20 @@
             "candidiasis",
             "thrush"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000908.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rna",
+            "viral"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000908"
 }

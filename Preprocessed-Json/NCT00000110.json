@@ -122,15 +122,14 @@
             "resistance",
             "obesity"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "dietary",
-            "fat"
+            "magnetic resonance spectroscopy",
+            "dietary fat"
       ],
       "criteria": [
             "inclusion",
@@ -150,7 +149,7 @@
             "female",
             "49"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -159,6 +158,9 @@
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000110.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nutrition"
+      ],
+      "id": "NCT00000110"
 }

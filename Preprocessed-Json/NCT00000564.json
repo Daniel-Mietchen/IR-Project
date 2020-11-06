@@ -224,18 +224,18 @@
             "month"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "oxygen",
-            "inhalation",
-            "therapy"
+            "oxygen inhalation therapy"
       ],
       "criteria": [
             "men",
@@ -253,7 +253,7 @@
             "oxygen",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -262,6 +262,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000564.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00000564"
 }

@@ -35,16 +35,33 @@
             "intervention"
       ],
       "condition": [
+            "disorder",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sevoflurane"
+            "30% Nitrous oxide",
+            "Placebo",
+            "0.2% sevoflurane",
+            "0.4% sevoflurane",
+            "0.6% sevoflurane"
       ],
       "arm_group_label": [
-            "moderate",
+            "drink",
+            "adult",
+            "drink",
+            "adult",
+            "drink",
+            "adult",
+            "drink",
+            "adult",
             "drink",
             "adult"
       ],
@@ -59,9 +76,19 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000261.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000261"
 }

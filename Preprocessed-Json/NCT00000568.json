@@ -418,15 +418,19 @@
             "trial"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
+            "smoking cessation",
             "ipratropium"
       ],
       "criteria": [
@@ -438,7 +442,7 @@
             "35",
             "60"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -447,6 +451,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000568.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00000568"
 }

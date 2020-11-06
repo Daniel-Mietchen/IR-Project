@@ -143,16 +143,29 @@
             "link",
             "http"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone"
+            "Olanzapine",
+            "Risperidone"
       ],
       "description": [
+            "dosage",
+            "olanzapine",
+            "mg",
+            "per",
+            "day",
+            "dose",
+            "olanzapine",
+            "base",
+            "participant",
+            "clinical",
+            "improvement",
+            "side",
+            "effect",
             "dosage",
             "risperidone",
             "1",
@@ -185,7 +198,7 @@
             "antipsychotic",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -194,6 +207,14 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000374.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "schizophrenia",
+            "drug",
+            "therapy"
+      ],
+      "mesh_term": [
+            "agent"
+      ],
+      "id": "NCT00000374"
 }

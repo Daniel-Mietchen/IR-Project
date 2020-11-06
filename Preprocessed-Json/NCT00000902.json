@@ -158,14 +158,27 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -244,7 +257,7 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -253,6 +266,12 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000902.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000902"
 }

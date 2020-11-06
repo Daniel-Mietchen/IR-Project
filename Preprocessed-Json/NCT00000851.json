@@ -154,14 +154,15 @@
             "ddi"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Stavudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -303,7 +304,7 @@
             "ddi",
             "previously"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -312,6 +313,12 @@
             "10",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000851.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stavudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000851"
 }

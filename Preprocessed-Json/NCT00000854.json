@@ -124,16 +124,15 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "waste",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nandrolone",
-            "decanoate"
+            "Nandrolone decanoate"
       ],
       "criteria": [
             "inclusion",
@@ -225,14 +224,26 @@
             "cancer",
             "pregnant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000854.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nandrolone",
+            "decanoate"
+      ],
+      "mesh_term": [
+            "infection",
+            "loss",
+            "syndrome",
+            "waste",
+            "syndrome",
+            "acid",
+            "decanoate",
+            "phenpropionate"
+      ],
+      "id": "NCT00000854"
 }

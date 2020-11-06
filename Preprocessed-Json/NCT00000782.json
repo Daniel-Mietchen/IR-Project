@@ -187,15 +187,15 @@
             "arm"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine",
-            "microgenesys"
+            "gp160 Vaccine (Immuno-AG)",
+            "gp160 Vaccine (MicroGeneSys)"
       ],
       "criteria": [
             "inclusion",
@@ -324,12 +324,21 @@
             "antihistamine",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000782.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "delay"
+      ],
+      "id": "NCT00000782"
 }

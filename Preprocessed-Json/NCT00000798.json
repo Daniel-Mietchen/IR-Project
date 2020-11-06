@@ -154,17 +154,13 @@
             "status"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "peptide",
-            "vaccine",
-            "microparticulate",
-            "monovalent"
+            "HIV-1 Peptide Vaccine, Microparticulate Monovalent"
       ],
       "criteria": [
             "inclusion",
@@ -380,7 +376,7 @@
             "define",
             "aveg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -389,6 +385,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000798.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000798"
 }

@@ -215,11 +215,13 @@
             "qvr"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "failure",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "enalapril"
@@ -248,7 +250,7 @@
             "heart",
             "failure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -257,6 +259,11 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000547.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000547"
 }

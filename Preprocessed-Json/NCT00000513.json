@@ -237,13 +237,20 @@
             "period"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "diet, reducing",
+            "diet, sodium-restricted",
+            "chlorthalidone",
             "atenolol"
       ],
       "criteria": [
@@ -268,7 +275,7 @@
             "ideal",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -277,6 +284,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000513.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000513"
 }

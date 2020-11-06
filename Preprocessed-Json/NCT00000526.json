@@ -360,13 +360,24 @@
             "1998"
       ],
       "condition": [
-            "ventricular",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "arrest",
+            "disease",
+            "infarction",
+            "ischemia",
             "arrhythmia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "encainide",
+            "flecainide",
             "moricizine"
       ],
       "criteria": [
@@ -383,7 +394,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -392,6 +403,19 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000526.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "arrest",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00000526"
 }

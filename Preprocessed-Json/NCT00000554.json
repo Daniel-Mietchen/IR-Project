@@ -532,20 +532,19 @@
             "measurement"
       ],
       "condition": [
-            "myocardial",
+            "pectoris",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "myocardial",
-            "contrast",
-            "echo",
-            "coronary",
-            "flow",
-            "vasomotor",
-            "test"
+            "Angiography, MRI, Dobutamine-Stress Echocardiography, PET,",
+            "Myocardial Contrast Echo, Coronary Flow and Vasomotor Testing"
       ],
       "criteria": [
             "woman",
@@ -556,14 +555,21 @@
             "heart",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000554.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "pectoris",
+            "ischemia"
+      ],
+      "id": "NCT00000554"
 }

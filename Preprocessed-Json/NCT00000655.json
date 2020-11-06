@@ -216,13 +216,18 @@
             "like"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Atovaquone",
+            "Sulfamethoxazole-Trimethoprim"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -425,12 +430,20 @@
             "blood",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000655.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000655"
 }

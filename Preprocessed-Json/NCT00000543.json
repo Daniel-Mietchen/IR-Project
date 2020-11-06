@@ -171,13 +171,17 @@
             "record"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
+            "toxemia",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
+            "dietary supplements",
             "calcium"
       ],
       "criteria": [
@@ -186,9 +190,7 @@
             "chronic",
             "hypertension"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -197,6 +199,12 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000543.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "dietary"
+      ],
+      "id": "NCT00000543"
 }

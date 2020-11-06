@@ -125,15 +125,17 @@
             "administration"
       ],
       "condition": [
-            "leukoencephalopathy",
+            "infection",
             "progressive",
             "multifocal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "probenecid"
+            "Cidofovir",
+            "Probenecid"
       ],
       "criteria": [
             "inclusion",
@@ -201,12 +203,25 @@
             "trait",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000945.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "progressive",
+            "multifocal"
+      ],
+      "id": "NCT00000945"
 }

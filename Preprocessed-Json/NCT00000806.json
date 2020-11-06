@@ -120,14 +120,13 @@
             "day"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "telinavir"
+            "Telinavir"
       ],
       "criteria": [
             "inclusion",
@@ -409,12 +408,20 @@
             "recover",
             "alcoholic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000806.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "protease",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000806"
 }

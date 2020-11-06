@@ -135,14 +135,26 @@
             "2005"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "folic"
+            "dietary supplements",
+            "vitamin C",
+            "vitamin E",
+            "beta-carotene",
+            "folic acid/Vitamin B6/Vitamin B12"
       ],
       "criteria": [
             "woman",
@@ -160,14 +172,30 @@
             "risk",
             "factor"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000541.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "b",
+            "12",
+            "e",
+            "b",
+            "6",
+            "carotene",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00000541"
 }

@@ -161,13 +161,14 @@
             "8"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Nonoxynol-9"
+      ],
       "criteria": [
             "exclusion",
             "criterion",
@@ -485,14 +486,18 @@
             "daily",
             "penis"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000929.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rectum"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000929"
 }

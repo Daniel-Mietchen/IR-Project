@@ -322,17 +322,26 @@
             "month"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "angioplasty",
-            "transluminal",
-            "percutaneous",
-            "coronary"
+            "atenolol",
+            "nifedipine",
+            "diltiazem",
+            "isosorbide dinitrate",
+            "coronary artery bypass coronary artery bypass",
+            "angioplasty, transluminal, percutaneous coronary"
       ],
       "criteria": [
             "men",
@@ -353,7 +362,7 @@
             "amenable",
             "revascularization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -362,6 +371,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000478.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "dinitrate"
+      ],
+      "id": "NCT00000478"
 }

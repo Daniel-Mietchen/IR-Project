@@ -189,7 +189,8 @@
             "requirement"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "study_pop": [],
@@ -233,12 +234,19 @@
             "18",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000784"
 }

@@ -385,14 +385,14 @@
             "center"
       ],
       "condition": [
-            "diabetes",
+            "retinopathy",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sorbinil"
+            "Sorbinil"
       ],
       "criteria": [
             "men",
@@ -433,7 +433,7 @@
             "iud",
             "place"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -442,6 +442,11 @@
             "56",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000159.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "retinopathy"
+      ],
+      "id": "NCT00000159"
 }

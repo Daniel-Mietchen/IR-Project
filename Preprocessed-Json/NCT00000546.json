@@ -363,11 +363,13 @@
             "record"
       ],
       "condition": [
-            "coronary",
+            "disease",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
             "meditation"
@@ -376,7 +378,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -385,6 +387,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000546.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00000546"
 }

@@ -415,14 +415,13 @@
             "2003"
       ],
       "condition": [
-            "retinopathy",
             "prematurity"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cryotherapy"
+            "Trans-scleral Cryotherapy"
       ],
       "criteria": [
             "premature",
@@ -487,12 +486,17 @@
             "cryotherapy",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000133.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "birth",
+            "prematurity"
+      ],
+      "id": "NCT00000133"
 }

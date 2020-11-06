@@ -155,14 +155,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -521,7 +520,7 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -530,6 +529,17 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000701.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "complex",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000701"
 }

@@ -52,17 +52,30 @@
             "volunteer"
       ],
       "condition": [
+            "disorder",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "0",
-            "40"
+            "0% N2O and 10% N2O",
+            "0% N2O and 20% N2O",
+            "0% N2O and 30% N2O",
+            "0% N2O and 40% N2O"
       ],
       "arm_group_label": [
-            "moderate",
+            "drinker",
+            "drinker",
+            "drinker",
+            "drinker",
+            "drinker",
+            "drinker",
+            "drinker",
             "drinker"
       ],
       "criteria": [
@@ -71,7 +84,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -80,6 +93,16 @@
             "37",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000257.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000257"
 }

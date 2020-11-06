@@ -231,10 +231,11 @@
             "record"
       ],
       "condition": [
-            "hemochromatosis"
+            "disease",
+            "overload"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "deferoxamine"
@@ -248,12 +249,16 @@
             "transfusional",
             "hemochromatosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000595.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "overload",
+            "disease"
+      ],
+      "id": "NCT00000595"
 }

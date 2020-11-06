@@ -214,15 +214,29 @@
             "morbidity"
       ],
       "condition": [
-            "cytomegalovirus",
+            "infection",
             "retinitis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "MSL-109",
+            "Placebo"
       ],
       "description": [
-            "60",
+            "mg",
+            "iv",
+            "vein",
+            "every",
+            "two",
+            "week",
+            "treatment",
+            "continue",
+            "death",
+            "common",
+            "closeout",
             "mg",
             "iv",
             "vein",
@@ -235,11 +249,8 @@
             "common",
             "closeout"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "monoclonal",
             "antibody"
       ],
       "criteria": [
@@ -388,12 +399,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000135.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "monoclonal"
+      ],
+      "id": "NCT00000135"
 }

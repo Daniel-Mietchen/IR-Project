@@ -260,18 +260,63 @@
             "klh",
             "vaccine"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "tetanus",
-            "toxoid"
+            "Intracel KLH Vaccine",
+            "Biosyn KLH",
+            "Montanide ISA51",
+            "Tetanus toxoid"
       ],
       "description": [
+            "klh",
+            "1000",
+            "mcg",
+            "1",
+            "mg",
+            "without",
+            "adjuvant",
+            "subcutaneous",
             "tetanus",
+            "toxoid",
+            "ml",
+            "intramuscularly",
+            "klh",
+            "1000",
+            "mcg",
+            "1",
+            "mg",
+            "without",
+            "adjuvant",
+            "subcutaneous",
+            "tetanus",
+            "toxoid",
+            "ml",
+            "intramuscularly",
+            "klh",
+            "montanide",
+            "klh",
+            "1",
+            "mg",
+            "vial",
+            "reconstitute",
+            "ml",
+            "sterile",
+            "water",
+            "solubilized",
+            "add",
+            "ml",
+            "montanide",
+            "isa",
+            "vial",
+            "administer",
+            "content",
+            "subcutaneously",
             "toxoid",
             "adsorb",
             "aluminum",
@@ -287,13 +332,35 @@
             "use"
       ],
       "arm_group_label": [
-            "arm",
+            "intracel",
+            "klh",
+            "b",
+            "biosyn",
+            "klh",
+            "c",
+            "biosyn",
+            "klh",
+            "montanide",
+            "c",
+            "biosyn",
+            "klh",
+            "montanide",
+            "intracel",
+            "klh",
+            "b",
+            "biosyn",
+            "klh",
             "c",
             "biosyn",
             "klh",
             "montanide"
       ],
-      "other_name": [],
+      "other_name": [
+            "tm",
+            "isa",
+            "51",
+            "vg"
+      ],
       "study_pop": [],
       "sampling_method": [
             "probability",
@@ -407,12 +474,17 @@
             "component",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000105.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "freund",
+            "adjuvant",
+            "hemocyanin"
+      ],
+      "id": "NCT00000105"
 }

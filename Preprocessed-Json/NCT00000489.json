@@ -372,16 +372,16 @@
             "infarction"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "coronary",
-            "artery",
-            "bypass"
+            "coronary artery bypass"
       ],
       "criteria": [
             "men",
@@ -393,7 +393,7 @@
             "heart",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -402,6 +402,14 @@
             "66",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000489.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000489"
 }

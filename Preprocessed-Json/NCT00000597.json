@@ -112,13 +112,16 @@
             "record"
       ],
       "condition": [
-            "blood",
+            "aplastic",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "antilymphocyte serum",
             "nandrolone"
       ],
       "criteria": [
@@ -130,7 +133,7 @@
             "aplastic",
             "anemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -139,6 +142,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000597.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "aplastic",
+            "serum"
+      ],
+      "id": "NCT00000597"
 }

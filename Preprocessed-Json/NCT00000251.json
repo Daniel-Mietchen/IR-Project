@@ -41,26 +41,41 @@
             "volunteer"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "100",
-            "oxygen"
+            "30% N2O",
+            "0.2% isoflurane",
+            "0.4% isoflurane",
+            "100% oxygen"
       ],
       "arm_group_label": [
-            "placebo"
+            "isoflurane",
+            "30",
+            "isoflurane",
+            "30",
+            "isoflurane",
+            "isoflurane",
+            "30",
+            "isoflurane",
+            "isoflurane",
+            "30"
       ],
-      "description": [
-            "placebo"
-      ],
+      "description": [],
       "criteria": [
             "please",
             "contact",
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -69,6 +84,15 @@
             "32",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000251.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "drug",
+            "interaction"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000251"
 }

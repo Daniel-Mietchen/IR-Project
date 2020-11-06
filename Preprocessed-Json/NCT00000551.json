@@ -186,15 +186,14 @@
             "stiffness"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "health",
-            "education"
+            "health education"
       ],
       "criteria": [
             "sedentary",
@@ -209,7 +208,7 @@
             "care",
             "setting"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -218,6 +217,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000551.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000551"
 }

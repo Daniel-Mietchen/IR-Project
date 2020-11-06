@@ -392,14 +392,23 @@
             "interval"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Indinavir sulfate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine",
+            "Aldesleukin"
       ],
       "criteria": [
             "inclusion",
@@ -564,12 +573,19 @@
             "alcohol",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000923.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000923"
 }

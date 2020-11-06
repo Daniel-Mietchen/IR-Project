@@ -284,18 +284,31 @@
             "system"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Behavioral"
       ],
       "intervention_name": [
-            "dietary",
-            "supplement"
+            "mineral supplements",
+            "Trial 1: fatty acids, omega-3; Trial 2: Mineral supplements",
+            "dietary supplements"
       ],
       "arm_group_label": [
-            "potassium",
+            "magnesium",
+            "calcium",
+            "3",
+            "together",
+            "placebo",
+            "magnesium",
+            "calcium",
+            "3",
+            "together",
+            "placebo",
             "magnesium",
             "calcium",
             "3",
@@ -313,7 +326,7 @@
             "untreated",
             "hypertensive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -322,6 +335,11 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000511.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000511"
 }

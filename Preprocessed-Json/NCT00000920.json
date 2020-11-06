@@ -229,13 +229,19 @@
             "study"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Ritonavir",
+            "Saquinavir",
+            "Lamivudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -355,12 +361,18 @@
             "visit",
             "plan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000920.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000920"
 }

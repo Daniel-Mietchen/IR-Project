@@ -175,14 +175,15 @@
             "administration"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dapsone"
+            "Dapsone"
       ],
       "criteria": [
             "inclusion",
@@ -315,7 +316,7 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -324,6 +325,18 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000739.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "administration",
+            "schedule"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "pneumocystis"
+      ],
+      "id": "NCT00000739"
 }

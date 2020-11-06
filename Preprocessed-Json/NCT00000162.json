@@ -185,17 +185,19 @@
             "year"
       ],
       "condition": [
-            "vitreous",
+            "degeneration",
+            "pathologic",
             "hemorrhage"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "scatter",
-            "argon",
-            "laser",
-            "photocoagulation"
+            "Macular Argon Laser Photocoagulation",
+            "Peripheral Scatter Argon Laser Photocoagulation",
+            "Scatter Argon Laser Photocoagulation"
       ],
       "criteria": [
             "patient",
@@ -251,9 +253,14 @@
             "bilateral",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000162.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "degeneration",
+            "pathologic",
+            "hemorrhage"
+      ],
+      "id": "NCT00000162"
 }

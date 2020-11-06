@@ -411,28 +411,21 @@
             "treatment"
       ],
       "condition": [
-            "glaucoma"
+            "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "topical",
-            "ocular",
-            "hypotensive",
-            "eye",
-            "drop"
+            "Topical ocular hypotensive eye drops."
       ],
       "description": [
-            "topical",
             "ocular",
             "hypotensive",
             "eye",
             "drop"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "men",
             "nonpregnant",
@@ -519,7 +512,7 @@
             "exclude",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -528,6 +521,11 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000125.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hypertension",
+            "solution",
+            "agent"
+      ],
+      "id": "NCT00000125"
 }

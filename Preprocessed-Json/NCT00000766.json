@@ -158,14 +158,16 @@
             "thereafter"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Foscarnet sodium",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -255,12 +257,23 @@
             "prevent",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000766.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "acid",
+            "triphosphate"
+      ],
+      "id": "NCT00000766"
 }

@@ -1189,14 +1189,18 @@
             "school"
       ],
       "condition": [
-            "atherosclerosis"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "smoke",
-            "cessation"
+            "diet",
+            "exercise",
+            "smoking cessation"
       ],
       "criteria": [
             "school",
@@ -1208,7 +1212,7 @@
             "catch",
             "12"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -1217,6 +1221,10 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000467.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000467"
 }

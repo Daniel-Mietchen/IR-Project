@@ -233,19 +233,22 @@
             "1990"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "high",
-            "intensity",
-            "exercise"
+            "Low intensity exercise",
+            "High intensity exercise"
       ],
       "arm_group_label": [
-            "high",
+            "intensity",
+            "exercise",
             "intensity",
             "exercise"
       ],
@@ -263,9 +266,7 @@
             "heart",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "30",
             "year"
@@ -274,6 +275,14 @@
             "67",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000460.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000460"
 }

@@ -201,14 +201,15 @@
             "washout"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "atovaquone"
+            "Atovaquone"
       ],
       "criteria": [
             "inclusion",
@@ -347,7 +348,7 @@
             "history",
             "deficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -356,6 +357,13 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atovaquone"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000773"
 }

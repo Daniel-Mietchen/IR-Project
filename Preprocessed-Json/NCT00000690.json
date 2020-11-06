@@ -98,15 +98,13 @@
             "collect"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dextran",
-            "sulfate"
+            "Dextran sulfate"
       ],
       "criteria": [
             "exclusion",
@@ -206,9 +204,7 @@
             "continuous",
             "hospitalization"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -217,6 +213,13 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000690.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "blood",
+            "coagulation"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000690"
 }

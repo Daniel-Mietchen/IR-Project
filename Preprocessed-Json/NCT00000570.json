@@ -365,16 +365,15 @@
             "system"
       ],
       "condition": [
-            "respiratory",
+            "disease",
             "distress",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pulmonary",
-            "surfactant"
+            "pulmonary surfactant"
       ],
       "criteria": [
             "boy",
@@ -387,12 +386,22 @@
             "gram",
             "birthweight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000570.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "surfactant"
+      ],
+      "id": "NCT00000570"
 }

@@ -106,16 +106,15 @@
             "entry"
       ],
       "condition": [
-            "pneumonia",
             "aspiration"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "thicken",
-            "liquid",
-            "administration"
+            "Chin-down position",
+            "Thickened liquid administration"
       ],
       "criteria": [
             "inclusion",
@@ -189,7 +188,7 @@
             "pathologist",
             "provide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -198,6 +197,13 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000362.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pneumonia",
+            "aspiration"
+      ],
+      "mesh_term": [
+            "aspiration"
+      ],
+      "id": "NCT00000362"
 }

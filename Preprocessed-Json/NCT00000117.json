@@ -475,14 +475,13 @@
             "month"
       ],
       "condition": [
-            "optic",
             "neuritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immunoglobulin"
+            "Immunoglobulin"
       ],
       "criteria": [
             "eligible",
@@ -601,11 +600,17 @@
             "2",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "50",
             "year"
       ],
-      "id": "NCT00000117.xml"
+      "mesh_term": [
+            "neuritis",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00000117"
 }

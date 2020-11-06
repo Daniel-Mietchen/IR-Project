@@ -164,14 +164,21 @@
             "combination"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Abacavir sulfate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -315,7 +322,7 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -324,6 +331,15 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000865.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "agent"
+      ],
+      "id": "NCT00000865"
 }

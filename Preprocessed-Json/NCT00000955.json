@@ -215,19 +215,15 @@
             "evaluation"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tuberculin",
-            "purify",
-            "protein",
-            "derivative"
+            "Tuberculin Purified Protein Derivative"
       ],
       "description": [
-            "administer",
             "intradermally",
             "5",
             "tu",
@@ -315,12 +311,24 @@
             "confirm",
             "tuberculosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000955.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hypersensitivity",
+            "delay"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000955"
 }

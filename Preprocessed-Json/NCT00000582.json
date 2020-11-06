@@ -202,15 +202,16 @@
             "dose"
       ],
       "condition": [
-            "hemorrhagic",
+            "coagulation",
+            "disorder",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "factor",
-            "ix"
+            "factor ix"
       ],
       "criteria": [
             "male",
@@ -219,9 +220,7 @@
             "ethnic",
             "group"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -230,6 +229,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000582.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "coagulation",
+            "disorder",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000582"
 }

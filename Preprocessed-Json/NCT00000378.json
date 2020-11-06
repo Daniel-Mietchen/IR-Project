@@ -256,17 +256,19 @@
             "continuation",
             "phase"
       ],
-      "condition": [
-            "melancholia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nortriptyline"
+            "Sertraline",
+            "Nortriptyline"
       ],
       "description": [
-            "12",
+            "week",
+            "trial",
+            "dose",
             "week",
             "trial",
             "dose",
@@ -274,12 +276,8 @@
             "therapeutic",
             "level"
       ],
-      "arm_group_label": [
-            "nortriptyline"
-      ],
-      "other_name": [
-            "nortiptyline"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -308,7 +306,7 @@
             "major",
             "depression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
@@ -317,6 +315,21 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000378.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "serotonin",
+            "uptake",
+            "inhibitor",
+            "adverse",
+            "effect"
+      ],
+      "mesh_term": [
+            "disorder",
+            "agent",
+            "uptake",
+            "inhibitor",
+            "agent",
+            "tricyclic"
+      ],
+      "id": "NCT00000378"
 }

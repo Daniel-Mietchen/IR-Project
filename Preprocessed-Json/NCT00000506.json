@@ -392,13 +392,15 @@
             "system"
       ],
       "condition": [
-            "vascular",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fenfluramine",
             "phentermine"
       ],
       "criteria": [
@@ -416,7 +418,7 @@
             "body",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -425,6 +427,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000506.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000506"
 }

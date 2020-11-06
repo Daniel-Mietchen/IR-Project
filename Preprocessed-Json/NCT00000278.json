@@ -12,13 +12,14 @@
             "abuse"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "disulfiram"
+            "Disulfiram"
       ],
       "criteria": [
             "please",
@@ -26,7 +27,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -35,6 +36,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000278.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000278"
 }

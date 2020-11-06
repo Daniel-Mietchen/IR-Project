@@ -254,14 +254,13 @@
             "azt"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -636,7 +635,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -645,6 +644,12 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000990.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000990"
 }

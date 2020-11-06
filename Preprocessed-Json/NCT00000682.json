@@ -184,14 +184,15 @@
             "treatment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zalcitabine"
+            "Zidovudine",
+            "Zalcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -392,12 +393,20 @@
             "require",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000682.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfonic",
+            "acid"
+      ],
+      "id": "NCT00000682"
 }

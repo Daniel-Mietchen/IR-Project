@@ -508,17 +508,54 @@
             "adult"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "budesonide"
+            "Placebo",
+            "Nedocromil",
+            "Budesonide"
       ],
       "description": [
+            "100",
+            "og",
+            "puff",
+            "budesonide",
+            "placebo",
+            "bid",
             "two",
+            "90",
+            "og",
+            "puff",
+            "albuterol",
+            "prn",
+            "four",
+            "2",
+            "mg",
+            "puff",
+            "nedocromil",
+            "placebo",
+            "bid",
+            "two",
+            "90",
+            "og",
+            "puff",
+            "albuterol",
+            "prn",
+            "2",
+            "mg",
+            "puff",
+            "bid",
+            "two",
+            "90",
+            "og",
+            "puff",
+            "albuterol",
+            "prn",
             "100",
             "og",
             "puff",
@@ -531,12 +568,14 @@
             "prn"
       ],
       "arm_group_label": [
+            "3",
+            "placebo",
+            "2",
+            "nedocromil",
             "1",
             "budesonide"
       ],
-      "other_name": [
-            "pulmicort"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -775,7 +814,7 @@
             "trial",
             "completion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -784,6 +823,9 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000575.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00000575"
 }

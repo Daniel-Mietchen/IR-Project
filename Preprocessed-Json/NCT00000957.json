@@ -145,14 +145,13 @@
             "injection"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine"
+            "gp160 Vaccine (Immuno-AG)"
       ],
       "criteria": [
             "inclusion",
@@ -259,7 +258,7 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -268,6 +267,18 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000957.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000957"
 }

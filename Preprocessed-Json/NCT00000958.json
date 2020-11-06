@@ -191,14 +191,15 @@
             "inoculation"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "env"
+            "MTP-PE/MF59",
+            "Env 2-3"
       ],
       "criteria": [
             "inclusion",
@@ -343,7 +344,7 @@
             "compliance",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -352,6 +353,21 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000958.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "deficiency",
+            "syndrome",
+            "oil",
+            "emulsion"
+      ],
+      "id": "NCT00000958"
 }

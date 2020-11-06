@@ -97,15 +97,17 @@
             "patient"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -168,7 +170,7 @@
             "administration",
             "trimetrexate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -177,6 +179,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000998.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antineoplastic",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000998"
 }

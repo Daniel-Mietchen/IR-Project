@@ -299,14 +299,13 @@
             "subset"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antigen"
+            "CD4 Antigens"
       ],
       "criteria": [
             "inclusion",
@@ -464,12 +463,19 @@
             "time",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "antibody"
+      ],
+      "id": "NCT00000721"
 }

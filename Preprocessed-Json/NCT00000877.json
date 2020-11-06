@@ -329,14 +329,15 @@
             "device"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifabutin"
+            "Indinavir sulfate",
+            "Rifabutin"
       ],
       "criteria": [
             "inclusion",
@@ -400,7 +401,7 @@
             "certain",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -409,6 +410,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000877.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000877"
 }

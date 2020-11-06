@@ -75,14 +75,15 @@
             "enrollment"
       ],
       "condition": [
-            "otitis",
             "medium"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "corticosteroid"
+            "Antihistamine",
+            "Corticosteroid"
       ],
       "criteria": [
             "inclusion",
@@ -112,7 +113,7 @@
             "otitis",
             "medium"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "month"
@@ -121,6 +122,15 @@
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000363.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "otitis",
+            "medium"
+      ],
+      "mesh_term": [
+            "medium",
+            "antagonist",
+            "antagonist"
+      ],
+      "id": "NCT00000363"
 }

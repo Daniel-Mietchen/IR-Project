@@ -212,7 +212,7 @@
             "provider"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "criteria": [
@@ -300,12 +300,21 @@
             "month",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000907.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00000907"
 }

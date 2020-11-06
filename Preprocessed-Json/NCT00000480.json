@@ -222,15 +222,23 @@
             "qvr"
       ],
       "condition": [
-            "tachycardia",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
+            "ischemia",
             "ventricular"
       ],
       "intervention_type": [
-            "device"
+            "Procedure",
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "defibrillator",
-            "implantable"
+            "electrophysiology",
+            "anti-arrhythmia agents",
+            "defibrillators, implantable"
       ],
       "criteria": [
             "men",
@@ -251,7 +259,7 @@
             "ventricular",
             "tachycardia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -260,6 +268,19 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000480.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "sudden",
+            "sudden",
+            "cardiac",
+            "ventricular",
+            "agent"
+      ],
+      "id": "NCT00000480"
 }

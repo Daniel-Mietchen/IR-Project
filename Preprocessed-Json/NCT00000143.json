@@ -358,18 +358,24 @@
             "mask"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Device",
+            "Drug"
       ],
       "intervention_name": [
-            "cidofovir",
-            "intravenous"
+            "Ganciclovir implant and oral ganciclovir",
+            "Cidofovir intravenous"
       ],
       "description": [
-            "intravenous",
+            "ganciclovir",
+            "1",
+            "gm",
+            "three",
+            "time",
+            "daily",
             "5",
             "weekly",
             "two",
@@ -380,13 +386,13 @@
             "week"
       ],
       "arm_group_label": [
-            "cidofovir",
+            "implant",
+            "oral",
+            "ganciclovir",
             "iv",
             "intravenous"
       ],
-      "other_name": [
-            "vistide"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -504,12 +510,17 @@
             "month",
             "afterwards"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000143.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00000143"
 }

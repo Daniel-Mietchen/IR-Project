@@ -151,14 +151,14 @@
             "include"
       ],
       "condition": [
-            "stomatitis",
+            "infection",
             "aphthous"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "Thalidomide"
       ],
       "criteria": [
             "inclusion",
@@ -351,12 +351,23 @@
             "aphthous",
             "ulcer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000790.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stomatitis",
+            "aphthous"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "aphthous"
+      ],
+      "id": "NCT00000790"
 }

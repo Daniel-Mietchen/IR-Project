@@ -141,14 +141,13 @@
             "data"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -182,12 +181,18 @@
             "urinate",
             "enough"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "5",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000855.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000855"
 }

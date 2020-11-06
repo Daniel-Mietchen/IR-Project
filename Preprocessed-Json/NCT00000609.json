@@ -214,15 +214,21 @@
             "record"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
+            "failure",
+            "congestive",
             "failure"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "defibrillator",
-            "implantable"
+            "amiodarone",
+            "defibrillators, implantable"
       ],
       "criteria": [
             "patient",
@@ -242,7 +248,7 @@
             "equal",
             "35"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -251,6 +257,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000609.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00000609"
 }

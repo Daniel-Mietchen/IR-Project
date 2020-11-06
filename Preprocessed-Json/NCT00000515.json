@@ -225,14 +225,14 @@
             "system"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "reduce"
+            "diet, reducing"
       ],
       "criteria": [
             "men",
@@ -260,7 +260,7 @@
             "antihypertensive",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -269,6 +269,10 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000515.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000515"
 }

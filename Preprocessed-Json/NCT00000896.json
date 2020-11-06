@@ -309,14 +309,25 @@
             "negative"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Indinavir sulfate",
+            "Lamivudine/Zidovudine",
+            "Hepatitis A Vaccine (Inactivated)",
+            "Interleukin-12",
+            "Nevirapine",
+            "Stavudine",
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -402,12 +413,23 @@
             "certain",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000896.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000896"
 }

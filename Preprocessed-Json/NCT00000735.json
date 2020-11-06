@@ -162,14 +162,13 @@
             "effect"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ampligen"
+            "Ampligen"
       ],
       "criteria": [
             "inclusion",
@@ -287,12 +286,22 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "seropositivity",
+            "agent",
+            "u"
+      ],
+      "id": "NCT00000735"
 }

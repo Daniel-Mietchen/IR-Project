@@ -585,16 +585,17 @@
             "situation"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tissue",
-            "plasminogen",
-            "activator"
+            "tissue plasminogen activator"
       ],
       "criteria": [
             "men",
@@ -630,7 +631,7 @@
             "men",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -639,6 +640,17 @@
             "71",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000468.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00000468"
 }

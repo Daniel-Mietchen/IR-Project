@@ -49,15 +49,16 @@
             "disease"
       ],
       "condition": [
-            "memory",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "estrogen",
-            "progesterone"
+            "Estrogen",
+            "Estrogen and Progesterone"
       ],
       "criteria": [
             "inclusion",
@@ -84,14 +85,19 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000176.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "estrogen"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00000176"
 }

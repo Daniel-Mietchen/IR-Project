@@ -203,13 +203,13 @@
             "78"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -486,12 +486,18 @@
             "radiation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000960"
 }

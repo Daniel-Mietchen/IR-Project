@@ -155,7 +155,6 @@
             "5"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "sampling_method": [
@@ -245,12 +244,20 @@
             "vaccine",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000930.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phenotype"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000930"
 }

@@ -228,15 +228,23 @@
             "toxicity"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Methylprednisolone",
+            "Pentamidine isethionate",
+            "Sulfamethoxazole-Trimethoprim",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -484,12 +492,25 @@
             "replacement",
             "dose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000730.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "sulfamethoxazole",
+            "drug",
+            "combination",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00000730"
 }

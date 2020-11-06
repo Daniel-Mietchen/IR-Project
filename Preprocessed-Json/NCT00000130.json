@@ -247,17 +247,15 @@
             "period"
       ],
       "condition": [
-            "eye",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "initial",
-            "par",
-            "plana",
-            "vitrectomy"
+            "Intravitreal Antibiotics",
+            "Initial Pars Plana Vitrectomy"
       ],
       "criteria": [
             "men",
@@ -357,9 +355,17 @@
             "study",
             "group"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000130.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bacterial",
+            "endophthalmitis"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00000130"
 }

@@ -240,13 +240,21 @@
             "increase"
       ],
       "condition": [
-            "hiv",
+            "infection",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Azithromycin",
+            "Atovaquone",
+            "Sulfamethoxazole-Trimethoprim"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -306,7 +314,7 @@
             "1",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -315,6 +323,20 @@
             "18",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000811.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atovaquone"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "pneumocystis",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000811"
 }

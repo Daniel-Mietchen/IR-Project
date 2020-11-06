@@ -99,17 +99,13 @@
             "infusion"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immune",
-            "serum",
-            "globulin",
-            "human"
+            "Anti-HIV Immune Serum Globulin (Human)"
       ],
       "criteria": [
             "inclusion",
@@ -283,7 +279,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -292,6 +288,14 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000827.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "serum"
+      ],
+      "id": "NCT00000827"
 }

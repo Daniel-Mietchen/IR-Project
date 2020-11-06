@@ -524,17 +524,17 @@
             "record"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "reduce",
-            "phase",
-            "iii"
+            "diet, sodium-restricted (Phase III) diet, sodium-restricted",
+            "diet, reducing (Phase III)"
       ],
       "criteria": [
             "men",
@@ -555,7 +555,7 @@
             "mildly",
             "obese"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -564,6 +564,11 @@
             "54",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000528.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000528"
 }

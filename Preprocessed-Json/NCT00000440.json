@@ -23,15 +23,14 @@
             "naltrexone",
             "revia"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sertraline",
-            "zoloft"
+            "naltrexone (Revia)",
+            "sertraline (Zoloft)"
       ],
       "criteria": [
             "inclusion",
@@ -128,7 +127,7 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -137,6 +136,7 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000440.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000440"
 }

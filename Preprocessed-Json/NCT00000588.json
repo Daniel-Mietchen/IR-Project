@@ -422,15 +422,14 @@
             "thailand"
       ],
       "condition": [
-            "iron",
+            "disease",
             "overload"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "chelation",
-            "therapy"
+            "chelation therapy"
       ],
       "criteria": [
             "study",
@@ -457,7 +456,7 @@
             "12",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -466,6 +465,12 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000588.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "overload",
+            "disease",
+            "isonicotinoyl",
+            "hydrazone"
+      ],
+      "id": "NCT00000588"
 }

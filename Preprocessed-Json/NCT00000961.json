@@ -121,14 +121,15 @@
             "telephone"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Anti-HIV Immune Serum Globulin (Human)",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -281,12 +282,24 @@
             "week",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000961.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "intravenous",
+            "immune",
+            "globulin",
+            "serum"
+      ],
+      "id": "NCT00000961"
 }

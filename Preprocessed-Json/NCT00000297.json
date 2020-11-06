@@ -95,15 +95,14 @@
             "nicotine"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "labetalol"
+            "Labetalol"
       ],
       "criteria": [
             "inclusion",
@@ -184,7 +183,7 @@
             "nicotine",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -193,6 +192,10 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000297.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00000297"
 }

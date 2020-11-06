@@ -505,16 +505,14 @@
             "analysis"
       ],
       "condition": [
-            "juvenile",
             "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "calcium",
-            "carbonate"
+            "Calcium carbonate"
       ],
       "criteria": [
             "inclusion",
@@ -565,7 +563,7 @@
             "urinary",
             "ratio"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -574,6 +572,16 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000429.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dietary",
+            "supplement"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "juvenile",
+            "dietary",
+            "carbonate"
+      ],
+      "id": "NCT00000429"
 }

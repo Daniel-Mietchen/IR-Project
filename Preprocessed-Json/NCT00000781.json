@@ -202,14 +202,19 @@
             "actg"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Nevirapine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -459,12 +464,20 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000781.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nevirapine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000781"
 }

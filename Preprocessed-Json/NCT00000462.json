@@ -816,16 +816,20 @@
             "record"
       ],
       "condition": [
-            "myocardial",
+            "pectoris",
+            "disease",
+            "disease",
+            "mellitus",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "coronary",
-            "artery",
-            "bypass"
+            "angioplasty, transluminal, percutaneous coronary",
+            "coronary artery bypass"
       ],
       "criteria": [
             "multivessel",
@@ -839,7 +843,7 @@
             "ptca",
             "cabg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -848,6 +852,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000462.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "pectoris",
+            "ischemia"
+      ],
+      "id": "NCT00000462"
 }

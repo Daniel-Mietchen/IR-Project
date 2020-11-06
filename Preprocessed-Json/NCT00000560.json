@@ -209,16 +209,17 @@
             "patient"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
+            "congestive",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "adrenergic",
-            "beta",
-            "antagonist"
+            "adrenergic beta antagonists"
       ],
       "criteria": [
             "men",
@@ -260,7 +261,7 @@
             "contraindication",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -269,6 +270,12 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000560.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00000560"
 }

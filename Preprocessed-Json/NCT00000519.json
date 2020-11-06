@@ -147,13 +147,20 @@
             "year"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "diet, reducing",
+            "exercise",
+            "diet, fat-restricted"
       ],
       "criteria": [
             "men",
@@ -171,7 +178,7 @@
             "le",
             "260"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -180,6 +187,14 @@
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000519.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000519"
 }

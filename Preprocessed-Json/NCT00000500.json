@@ -157,13 +157,17 @@
             "event"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aspirin",
             "carotene"
       ],
       "criteria": [
@@ -190,9 +194,7 @@
             "per",
             "week"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -201,6 +203,14 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000500.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000500"
 }

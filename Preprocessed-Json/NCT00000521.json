@@ -170,14 +170,17 @@
             "model"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "diet, sodium-restricted",
+            "diet, potassium-supplemented"
       ],
       "criteria": [
             "child",
@@ -196,7 +199,7 @@
             "two",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -205,6 +208,11 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000521.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000521"
 }

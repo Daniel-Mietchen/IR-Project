@@ -435,15 +435,17 @@
             "complete"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -771,12 +773,20 @@
             "rechallenge",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000714.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiprotozoal",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00000714"
 }

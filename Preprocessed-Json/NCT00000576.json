@@ -257,11 +257,13 @@
             "record"
       ],
       "condition": [
-            "lung",
+            "dysplasia",
+            "membrane",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "beclomethasone"
@@ -294,12 +296,18 @@
             "three",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000576.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "dysplasia",
+            "membrane",
+            "disease"
+      ],
+      "id": "NCT00000576"
 }

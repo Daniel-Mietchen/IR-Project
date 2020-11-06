@@ -290,14 +290,23 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Pravastatin sodium",
+            "Simvastatin",
+            "Atorvastatin calcium",
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -335,7 +344,7 @@
             "certain",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -344,6 +353,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000941.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "anticholesteremic",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "calcium",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00000941"
 }

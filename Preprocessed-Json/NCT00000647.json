@@ -169,16 +169,21 @@
             "pair"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplant"
+            "CD4-IgG",
+            "Zidovudine",
+            "Interferon alfa-n1",
+            "Peripheral lymphocyte infusion",
+            "Bone marrow transplant"
       ],
       "criteria": [
             "inclusion",
@@ -274,7 +279,7 @@
             "compliance",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -283,6 +288,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000647.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interferon",
+            "type"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "immunoadhesins"
+      ],
+      "id": "NCT00000647"
 }

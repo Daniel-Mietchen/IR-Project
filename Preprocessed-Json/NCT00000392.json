@@ -55,18 +55,18 @@
             "effect"
       ],
       "condition": [
-            "cognition",
+            "infection",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Peptide T",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -400,7 +400,7 @@
             "contraception",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -409,6 +409,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000392.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "disorder"
+      ],
+      "id": "NCT00000392"
 }

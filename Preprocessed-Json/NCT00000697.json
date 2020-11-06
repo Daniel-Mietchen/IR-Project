@@ -311,15 +311,14 @@
             "worse"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "foscarnet",
-            "sodium"
+            "Foscarnet sodium"
       ],
       "criteria": [
             "inclusion",
@@ -680,7 +679,7 @@
             "agent",
             "ganciclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -689,6 +688,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000697.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "acid",
+            "triphosphate"
+      ],
+      "id": "NCT00000697"
 }

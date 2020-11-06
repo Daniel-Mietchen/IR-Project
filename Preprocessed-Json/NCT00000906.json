@@ -130,15 +130,17 @@
             "tolerance"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methadone",
-            "hydrochloride"
+            "Ritonavir",
+            "Saquinavir",
+            "Methadone hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -244,12 +246,21 @@
             "entry",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000906.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disorder"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00000906"
 }

@@ -163,14 +163,15 @@
             "entry"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ribavirin",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -336,7 +337,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -345,6 +346,13 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000833.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000833"
 }

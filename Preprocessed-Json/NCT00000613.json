@@ -187,15 +187,21 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "disease",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "soy",
-            "protein"
+            "dietary supplements",
+            "genistein",
+            "diet, soy proteins"
       ],
       "criteria": [
             "postmenopausal",
@@ -204,9 +210,7 @@
             "45",
             "74"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -215,6 +219,15 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000613.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease"
+      ],
+      "id": "NCT00000613"
 }

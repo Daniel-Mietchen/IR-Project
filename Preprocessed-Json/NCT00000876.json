@@ -336,13 +336,14 @@
             "ii"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CD4-IgG2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -409,7 +410,7 @@
             "heart",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -418,6 +419,15 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000876.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pro",
+            "542"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunoadhesins",
+            "g"
+      ],
+      "id": "NCT00000876"
 }

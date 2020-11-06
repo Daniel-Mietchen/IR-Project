@@ -112,14 +112,14 @@
             "dementia"
       ],
       "condition": [
-            "cognition",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rivastigmine"
+            "Rivastigmine"
       ],
       "criteria": [
             "inclusion",
@@ -574,7 +574,7 @@
             "language",
             "difficulty"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -583,6 +583,14 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000174.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cholinesterase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00000174"
 }

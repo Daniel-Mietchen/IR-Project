@@ -244,14 +244,21 @@
             "record"
       ],
       "condition": [
-            "menopause"
+            "disease",
+            "hyperplasia",
+            "disease",
+            "complaint",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "dietary",
-            "supplement"
+            "estrogens, conjugated",
+            "diet, soy proteins",
+            "dietary supplements"
       ],
       "criteria": [
             "woman",
@@ -259,9 +266,7 @@
             "45",
             "55"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -270,6 +275,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000612.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "hyperplasia",
+            "disease",
+            "conjugate",
+            "usp"
+      ],
+      "id": "NCT00000612"
 }

@@ -245,13 +245,19 @@
             "patient"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifampin"
+            "Isoniazid",
+            "Pyrazinamide",
+            "Pyridoxine hydrochloride",
+            "Rifampin"
       ],
       "criteria": [
             "inclusion",
@@ -455,12 +461,25 @@
             "requirement",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000638.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "b",
+            "6"
+      ],
+      "id": "NCT00000638"
 }

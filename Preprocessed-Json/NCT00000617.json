@@ -294,11 +294,13 @@
             "qvr"
       ],
       "condition": [
-            "cardiovascular",
+            "disease",
+            "disease",
+            "infarction",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "azithromycin"
@@ -329,7 +331,7 @@
             "revascularization",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -338,6 +340,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000617.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00000617"
 }

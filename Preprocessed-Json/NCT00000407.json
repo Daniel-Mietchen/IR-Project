@@ -232,18 +232,22 @@
             "armd"
       ],
       "condition": [
-            "rheumatic",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "standard",
-            "care"
+            "Vocational counseling intervention",
+            "Reading materials for control participants",
+            "Standard of care"
       ],
       "arm_group_label": [
-            "usual",
+            "intervention",
+            "intervention",
             "care"
       ],
       "description": [
@@ -275,7 +279,7 @@
             "unable",
             "work"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -284,6 +288,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000407.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "work",
+            "disability"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000407"
 }

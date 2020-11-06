@@ -241,15 +241,17 @@
             "obese"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "reduce"
+            "diet, sodium-restricted",
+            "diet, reducing"
       ],
       "criteria": [
             "men",
@@ -270,12 +272,17 @@
             "clinic",
             "read"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000497.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000497"
 }

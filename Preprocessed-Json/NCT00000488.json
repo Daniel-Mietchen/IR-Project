@@ -390,14 +390,18 @@
             "regimen"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "cholestyramine",
+            "diet, fat-restricted"
       ],
       "criteria": [
             "men",
@@ -410,9 +414,7 @@
             "heart",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "35",
             "year"
@@ -421,6 +423,15 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000488.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "resin"
+      ],
+      "id": "NCT00000488"
 }

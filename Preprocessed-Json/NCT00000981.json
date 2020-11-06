@@ -260,14 +260,14 @@
             "test"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fiacitabine"
+            "Fiacitabine"
       ],
       "criteria": [
             "inclusion",
@@ -504,7 +504,7 @@
             "specifically",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -513,6 +513,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00000981"
 }

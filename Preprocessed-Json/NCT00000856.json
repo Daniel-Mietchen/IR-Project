@@ -244,13 +244,15 @@
             "therapy"
       ],
       "condition": [
-            "radiculitis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Foscarnet sodium",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -469,12 +471,23 @@
             "discretion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000856.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiculopathy"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "system",
+            "disease",
+            "acid",
+            "triphosphate"
+      ],
+      "id": "NCT00000856"
 }

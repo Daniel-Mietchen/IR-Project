@@ -527,11 +527,14 @@
             "ventilation"
       ],
       "condition": [
-            "shock",
+            "respiratory",
+            "distress",
+            "syndrome",
+            "disease",
             "septic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ibuprofen"
@@ -565,7 +568,7 @@
             "addition",
             "one"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -574,6 +577,18 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000574.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury",
+            "septic"
+      ],
+      "id": "NCT00000574"
 }

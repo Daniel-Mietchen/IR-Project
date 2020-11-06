@@ -230,15 +230,22 @@
             "guideline"
       ],
       "condition": [
-            "hiv",
+            "cerebral",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Sulfadiazine",
+            "Clarithromycin",
+            "Atovaquone",
+            "Pyrimethamine",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -448,12 +455,19 @@
             "toxoplasmic",
             "encephalitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000794.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sulfadiazine"
+      ],
+      "mesh_term": [
+            "infection",
+            "cerebral"
+      ],
+      "id": "NCT00000794"
 }

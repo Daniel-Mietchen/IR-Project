@@ -323,15 +323,18 @@
             "system"
       ],
       "condition": [
-            "cerebral",
+            "disease",
+            "arrest",
+            "disease",
+            "infarction",
+            "fibrillation",
             "anoxia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cardiopulmonary",
-            "resuscitation"
+            "cardiopulmonary resuscitation"
       ],
       "criteria": [
             "men",
@@ -347,7 +350,7 @@
             "time",
             "arrest"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -356,6 +359,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000502.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "fibrillation",
+            "arrest",
+            "brain"
+      ],
+      "id": "NCT00000502"
 }

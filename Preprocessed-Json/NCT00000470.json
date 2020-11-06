@@ -391,17 +391,25 @@
             "eight"
       ],
       "condition": [
+            "disease",
+            "anoxia",
+            "disorder",
+            "congenital",
             "heart",
+            "disease",
+            "great",
+            "vessel",
             "septal",
             "defect",
             "ventricular"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "cardiopulmonary",
-            "bypass"
+            "cardiac surgical procedures",
+            "cardiopulmonary bypass"
       ],
       "criteria": [
             "boy",
@@ -417,12 +425,28 @@
             "septal",
             "defect"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000470.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disorder",
+            "septal",
+            "defect",
+            "abnormality",
+            "septal",
+            "defect",
+            "ventricular",
+            "great",
+            "vessel",
+            "defect",
+            "congenital",
+            "brain"
+      ],
+      "id": "NCT00000470"
 }

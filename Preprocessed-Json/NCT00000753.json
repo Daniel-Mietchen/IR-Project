@@ -234,14 +234,19 @@
             "concentration"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Atevirdine mesylate",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -435,12 +440,18 @@
             "illicit",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000753.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000753"
 }

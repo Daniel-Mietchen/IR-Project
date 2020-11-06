@@ -366,16 +366,20 @@
             "test"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "continuation",
-            "ect"
+            "Nortriptyline-lithium (NOR-Li)",
+            "Bilateral electroconvulsive therapy (ECT)",
+            "Continuation therapy",
+            "Continuation ECT"
       ],
       "criteria": [
             "inclusion",
@@ -390,7 +394,7 @@
             "phase",
             "ect"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -399,6 +403,18 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000375.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nortriptyline",
+            "adverse",
+            "effect"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "carbonate",
+            "agent"
+      ],
+      "id": "NCT00000375"
 }

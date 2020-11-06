@@ -316,7 +316,9 @@
             "level"
       ],
       "condition": [
-            "cytomegalovirus",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
             "retinitis"
       ],
       "study_pop": [],
@@ -379,12 +381,20 @@
             "criterion",
             "none"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000168.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "retinitis"
+      ],
+      "id": "NCT00000168"
 }

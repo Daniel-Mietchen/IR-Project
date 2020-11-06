@@ -144,14 +144,14 @@
             "record"
       ],
       "condition": [
-            "cytomegalovirus",
+            "transfusion",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immunoglobulin"
+            "immunoglobulins"
       ],
       "criteria": [
             "neonate",
@@ -172,12 +172,15 @@
             "umbilical",
             "catheter"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000584.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000584"
 }

@@ -194,14 +194,23 @@
             "year"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "smoking cessation",
+            "diet, reducing",
+            "exercise",
+            "diet, fat-restricted"
       ],
       "criteria": [
             "men",
@@ -218,7 +227,7 @@
             "major",
             "vessel"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -227,6 +236,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000508.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000508"
 }

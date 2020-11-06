@@ -84,14 +84,15 @@
             "effective"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "haloperidol"
+            "Trazodone",
+            "Haloperidol"
       ],
       "criteria": [
             "inclusion",
@@ -118,12 +119,19 @@
             "household",
             "caregiver"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "disease",
+            "decanoate"
+      ],
+      "id": "NCT00000179"
 }

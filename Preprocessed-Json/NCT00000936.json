@@ -213,18 +213,53 @@
             "interval"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "iv",
-            "cyclosporine"
+            "hOKT3",
+            "Oral Cyclosporine",
+            "IV Cyclosporine"
       ],
       "description": [
-            "administer",
+            "transplantation",
+            "iv",
+            "form",
+            "dosage",
+            "determine",
+            "individual",
+            "weight",
+            "give",
+            "maximum",
+            "14",
+            "day",
+            "orally",
+            "either",
+            "sandimmune",
+            "neoral",
+            "dose",
+            "determine",
+            "weight",
+            "patient",
+            "6",
+            "year",
+            "age",
+            "older",
+            "begin",
+            "dose",
+            "15",
+            "patient",
+            "6",
+            "year",
+            "age",
+            "receive",
+            "500",
+            "duration",
+            "study",
             "intravenously",
             "iv",
             "transplantation",
@@ -234,7 +269,8 @@
             "age"
       ],
       "arm_group_label": [
-            "induction",
+            "free",
+            "therapy",
             "free",
             "therapy"
       ],
@@ -290,12 +326,13 @@
             "antigen",
             "positive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000936.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000936"
 }

@@ -247,14 +247,20 @@
             "1999"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antioxidant"
+            "simvastatin",
+            "niacin",
+            "antioxidants"
       ],
       "criteria": [
             "men",
@@ -284,7 +290,7 @@
             "le",
             "63"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -293,6 +299,14 @@
             "68",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000553.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000553"
 }

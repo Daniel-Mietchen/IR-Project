@@ -303,7 +303,6 @@
             "evaluation"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -580,7 +579,7 @@
             "radiation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -589,6 +588,16 @@
             "8",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000759.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peripheral",
+            "nervous",
+            "system",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection"
+      ],
+      "id": "NCT00000759"
 }

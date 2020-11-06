@@ -290,16 +290,16 @@
             "study",
             "conduct"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "suicide",
-            "prevention",
-            "treatment"
+            "Treatment of depression",
+            "Suicide prevention intervention",
+            "Suicide prevention treatment"
       ],
       "criteria": [
             "inclusion",
@@ -319,12 +319,16 @@
             "depressive",
             "symptomatology"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000367.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "suicide"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000367"
 }

@@ -249,18 +249,23 @@
             "fracture"
       ],
       "condition": [
-            "cardiac",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "calcitriol"
+            "Alendronate",
+            "Calcitriol",
+            "Placebo Alendronate",
+            "Placebo Calcitriol"
       ],
       "arm_group_label": [
-            "group"
+            "b",
+            "b"
       ],
       "criteria": [
             "inclusion",
@@ -314,7 +319,7 @@
             "serum",
             "creatinine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -323,6 +328,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000412.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dual",
+            "energy",
+            "absorptiometry"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000412"
 }

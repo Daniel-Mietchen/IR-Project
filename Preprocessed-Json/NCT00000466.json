@@ -566,15 +566,24 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "disease",
+            "disease",
+            "mellitus",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "estrogen",
-            "replacement",
-            "therapy"
+            "estrogens, conjugated",
+            "medroxyprogesterone",
+            "progesterone",
+            "estrogen replacement therapy"
       ],
       "criteria": [
             "postmenopausal",
@@ -587,9 +596,7 @@
             "subject",
             "hysterectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -598,6 +605,19 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000466.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "acetate",
+            "conjugate",
+            "usp"
+      ],
+      "id": "NCT00000466"
 }

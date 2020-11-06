@@ -547,15 +547,41 @@
             "sit"
       ],
       "condition": [
-            "heart",
+            "fibrillation",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Device"
       ],
       "intervention_name": [
-            "pacemaker",
-            "artificial"
+            "amiodarone",
+            "sotalol",
+            "propafenone",
+            "flecainide",
+            "quinidine",
+            "moricizine",
+            "disopyramide",
+            "procainamide",
+            "adrenergic beta antagonists",
+            "verapamil",
+            "diltiazem",
+            "digoxin",
+            "catheter ablation",
+            "pacemaker, artificial"
       ],
       "criteria": [
             "elderly",
@@ -567,7 +593,7 @@
             "factor",
             "stroke"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -576,6 +602,12 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000556.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrillation",
+            "disease",
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00000556"
 }

@@ -377,19 +377,25 @@
             "2001"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "optimal",
-            "medical",
-            "therapy"
+            "Left ventricular assist device",
+            "Optimal medical therapy"
       ],
       "description": [
+            "type",
+            "implantable",
+            "heart",
+            "pump",
             "one",
             "possibility",
             "handle",
@@ -418,13 +424,13 @@
             "freely"
       ],
       "arm_group_label": [
-            "optimal",
+            "ventricular",
+            "assist",
+            "device",
             "medical",
             "therapy"
       ],
-      "other_name": [
-            "omm"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -449,7 +455,7 @@
             "heart",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -458,6 +464,11 @@
             "72",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000607.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000607"
 }

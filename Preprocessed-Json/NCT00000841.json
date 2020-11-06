@@ -244,14 +244,19 @@
             "372"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -441,12 +446,20 @@
             "experimental",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000841.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "indinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000841"
 }

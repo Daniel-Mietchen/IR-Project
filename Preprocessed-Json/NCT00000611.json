@@ -704,14 +704,33 @@
             "woman"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "neoplasm",
+            "disease",
+            "neoplasm",
+            "disease",
+            "disease",
+            "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Behavioral",
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "dietary",
-            "supplement"
+            "hormone replacement therapy",
+            "estrogens",
+            "progestins",
+            "estrogen replacement therapy",
+            "diet, fat-restricted",
+            "calcium",
+            "vitamin D",
+            "dietary supplements"
       ],
       "criteria": [
             "postmenopausal",
@@ -720,9 +739,7 @@
             "50",
             "79"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -731,6 +748,17 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000611.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "neoplasm",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00000611"
 }

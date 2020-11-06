@@ -234,14 +234,19 @@
             "evaluate"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Procedure",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "jejunoileal bypass",
+            "diet, fat-restricted"
       ],
       "criteria": [
             "men",
@@ -254,7 +259,7 @@
             "infarction",
             "hyperlipoproteinemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -263,6 +268,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000490.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000490"
 }

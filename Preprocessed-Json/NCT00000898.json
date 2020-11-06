@@ -24,14 +24,17 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -92,12 +95,18 @@
             "drug",
             "absorption"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000898.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000898"
 }

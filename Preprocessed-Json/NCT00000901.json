@@ -79,14 +79,17 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Indinavir sulfate",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -173,7 +176,7 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -182,6 +185,13 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000901.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000901"
 }

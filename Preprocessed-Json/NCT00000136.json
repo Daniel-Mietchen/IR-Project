@@ -140,16 +140,22 @@
             "morbidity"
       ],
       "condition": [
-            "cytomegalovirus",
+            "infection",
             "retinitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Foscarnet",
+            "Ganciclovir"
       ],
       "description": [
+            "every",
+            "8",
+            "hour",
+            "90",
             "5",
             "every",
             "12",
@@ -159,12 +165,8 @@
             "24",
             "hour"
       ],
-      "arm_group_label": [
-            "ganciclovir"
-      ],
-      "other_name": [
-            "vitraset"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -232,12 +234,18 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000136.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "acid",
+            "triphosphate"
+      ],
+      "id": "NCT00000136"
 }

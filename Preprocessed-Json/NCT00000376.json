@@ -348,13 +348,17 @@
             "variable"
       ],
       "condition": [
+            "disorder",
+            "disorder",
             "depression"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "desipramine"
+            "Cognitive therapy",
+            "Desipramine"
       ],
       "criteria": [
             "inclusion",
@@ -364,7 +368,7 @@
             "depression",
             "drd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -373,5 +377,18 @@
             "60",
             "year"
       ],
-      "id": "NCT00000376.xml"
+      "keyword": [
+            "desipramine",
+            "therapeutic",
+            "use"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "agent",
+            "tricyclic",
+            "agent"
+      ],
+      "id": "NCT00000376"
 }

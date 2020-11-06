@@ -244,14 +244,16 @@
             "inoculation"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "env"
+            "MTP-PE/MF59",
+            "Env 2-3"
       ],
       "criteria": [
             "inclusion",
@@ -378,7 +380,7 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -387,6 +389,20 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000972.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "oil",
+            "emulsion"
+      ],
+      "id": "NCT00000972"
 }

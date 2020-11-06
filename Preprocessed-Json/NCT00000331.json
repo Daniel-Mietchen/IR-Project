@@ -25,21 +25,22 @@
             "time"
       ],
       "condition": [
+            "dependence",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "drug"
+            "Test Drug",
+            "Placebo Drug"
       ],
       "arm_group_label": [
-            "placebo",
+            "drug",
             "pill"
       ],
       "other_name": [
-            "test",
             "drug"
       ],
       "criteria": [
@@ -100,7 +101,7 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -109,6 +110,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000331.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "heroin",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder",
+            "dependence",
+            "naloxone",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000331"
 }

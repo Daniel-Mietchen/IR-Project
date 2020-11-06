@@ -41,16 +41,25 @@
             "analysis"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "40"
+            "10% N2O",
+            "20% N2O",
+            "30% N2O",
+            "40% N2O"
       ],
       "arm_group_label": [
-            "placebo",
+            "10",
+            "20",
+            "30",
             "40"
       ],
       "criteria": [
@@ -59,7 +68,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -68,6 +77,15 @@
             "37",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000253.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000253"
 }

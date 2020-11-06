@@ -218,7 +218,6 @@
             "nod"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "study_pop": [],
@@ -254,12 +253,22 @@
             "lab",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000911.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000911"
 }

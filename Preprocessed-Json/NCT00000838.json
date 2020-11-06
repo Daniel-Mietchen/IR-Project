@@ -142,14 +142,19 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -266,12 +271,19 @@
             "antiretroviral",
             "nucleoside"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000838.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lamivudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00000838"
 }

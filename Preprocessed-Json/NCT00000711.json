@@ -196,13 +196,15 @@
             "basis"
       ],
       "condition": [
-            "cytopenia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Zidovudine",
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -433,12 +435,18 @@
             "analog",
             "zidovudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000711.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000711"
 }

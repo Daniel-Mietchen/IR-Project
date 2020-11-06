@@ -164,13 +164,15 @@
             "thereafter"
       ],
       "condition": [
-            "chickenpox"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Sorivudine",
+            "Acyclovir"
       ],
       "criteria": [
             "inclusion",
@@ -504,12 +506,19 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000953.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sorivudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "zoster"
+      ],
+      "id": "NCT00000953"
 }

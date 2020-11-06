@@ -373,14 +373,15 @@
             "test"
       ],
       "condition": [
-            "hepatitis",
+            "simplex",
+            "infection",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fialuridine"
+            "Fialuridine"
       ],
       "criteria": [
             "inclusion",
@@ -653,7 +654,7 @@
             "entry",
             "acyclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -662,6 +663,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000654.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis",
+            "b"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "b",
+            "disease",
+            "simplex"
+      ],
+      "id": "NCT00000654"
 }

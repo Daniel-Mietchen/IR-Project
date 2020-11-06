@@ -23,14 +23,14 @@
             "dependence"
       ],
       "condition": [
-            "heroin",
+            "disorder",
             "dependence"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "buprenorphine"
+            "Buprenorphine"
       ],
       "criteria": [
             "please",
@@ -38,9 +38,7 @@
             "site",
             "information"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "26",
             "year"
@@ -49,6 +47,11 @@
             "41",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000211.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "dependence"
+      ],
+      "id": "NCT00000211"
 }

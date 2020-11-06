@@ -326,13 +326,19 @@
             "aidsvax"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "MN rgp120/HIV-1 and GNE8 rgp120/HIV-1",
+            "ALVAC-HIV MN120TMG (vCP205)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -372,12 +378,20 @@
             "infection",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000879.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000879"
 }

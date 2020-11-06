@@ -159,16 +159,13 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "lymphocyte",
-            "transfer"
+            "Allogeneic lymphocyte transfer"
       ],
       "criteria": [
             "inclusion",
@@ -310,7 +307,7 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -319,6 +316,16 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000852.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy",
+            "adoptive"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000852"
 }

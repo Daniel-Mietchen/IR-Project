@@ -489,17 +489,19 @@
             "record"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "angioplasty",
-            "transluminal",
-            "percutaneous",
-            "coronary"
+            "tissue plasminogen activator",
+            "angioplasty, transluminal, percutaneous coronary"
       ],
       "criteria": [
             "men",
@@ -511,7 +513,7 @@
             "myocardial",
             "infarction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -520,6 +522,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000505.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00000505"
 }

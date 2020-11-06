@@ -177,15 +177,17 @@
             "qvr"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
+            "transfusion",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "blood",
-            "transfusion"
+            "blood transfusion"
       ],
       "criteria": [
             "patient",
@@ -198,7 +200,7 @@
             "cell",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -207,6 +209,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000593.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "infection"
+      ],
+      "id": "NCT00000593"
 }

@@ -127,14 +127,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zalcitabine"
+            "Zalcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -502,7 +501,7 @@
             "week",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -511,6 +510,15 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000653.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000653"
 }

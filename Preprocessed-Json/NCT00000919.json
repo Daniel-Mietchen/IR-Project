@@ -420,14 +420,35 @@
             "substudies"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Indinavir sulfate",
+            "Lamivudine/Zidovudine",
+            "Ritonavir",
+            "Hydroxyurea",
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Nelfinavir mesylate",
+            "Efavirenz",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -1208,12 +1229,30 @@
             "study",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000919.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "protease",
+            "inhibitor",
+            "zidovudine",
+            "drug",
+            "combination",
+            "inhibitor",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00000919"
 }

@@ -135,15 +135,13 @@
             "interval"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paromomycin",
-            "sulfate"
+            "Paromomycin sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -290,12 +288,20 @@
             "acetate",
             "sandostatin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000771.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paromomycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000771"
 }

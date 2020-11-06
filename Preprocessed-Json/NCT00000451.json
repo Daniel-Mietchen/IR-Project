@@ -45,27 +45,30 @@
             "study"
       ],
       "condition": [
-            "alcohol",
             "dependence"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "sertraline",
             "naltrexone"
       ],
       "description": [
-            "16",
+            "week",
+            "outpatient",
+            "study",
             "week",
             "outpatient",
             "study"
       ],
       "arm_group_label": [
+            "2",
+            "1",
             "2"
       ],
-      "other_name": [
-            "revia"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -175,7 +178,7 @@
             "propafenone",
             "flecainide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -184,6 +187,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000451.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alcohol",
+            "dependence"
+      ],
+      "mesh_term": [],
+      "id": "NCT00000451"
 }

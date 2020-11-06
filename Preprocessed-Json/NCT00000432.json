@@ -306,15 +306,14 @@
             "behavior"
       ],
       "condition": [
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "education",
-            "disease",
-            "prevention"
+            "Education about disease prevention"
       ],
       "criteria": [
             "inclusion",
@@ -329,9 +328,16 @@
             "foreign",
             "residence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000432.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000432"
 }

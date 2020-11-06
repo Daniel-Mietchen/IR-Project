@@ -252,15 +252,13 @@
             "evaluate"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infant",
-            "formula"
+            "Infant Formula"
       ],
       "criteria": [
             "inclusion",
@@ -313,12 +311,19 @@
             "affect",
             "growth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000873.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "infant",
+            "food"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000873"
 }

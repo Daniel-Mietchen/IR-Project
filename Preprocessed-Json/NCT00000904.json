@@ -267,15 +267,21 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "rabies",
-            "glycoprotein"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "gp160 MN/LAI-2",
+            "ALVAC(1)120(B,MN)GNP (vCP1433)",
+            "ALVAC-HIV MN120TMG (vCP205)",
+            "ALVAC-RG Rabies Glycoprotein (vCP65)"
       ],
       "criteria": [
             "inclusion",
@@ -387,7 +393,7 @@
             "entry",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -396,6 +402,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000904.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000904"
 }

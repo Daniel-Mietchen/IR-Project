@@ -529,16 +529,21 @@
             "subject"
       ],
       "condition": [
-            "myelodysplastic",
+            "aplastic",
+            "anemia",
+            "disease",
+            "combine",
+            "immunodeficiency",
+            "stem",
+            "cell",
+            "transplantation",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplantation"
+            "stem cell transplantation"
       ],
       "criteria": [
             "mother",
@@ -563,12 +568,23 @@
             "find",
             "one"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000603.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "syndrome",
+            "deficiency",
+            "syndrome",
+            "disease",
+            "anemia",
+            "syndrome",
+            "combine",
+            "immunodeficiency",
+            "aplastic"
+      ],
+      "id": "NCT00000603"
 }

@@ -175,17 +175,21 @@
             "system"
       ],
       "condition": [
-            "myocardial",
+            "pectoris",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "angioplasty",
-            "transluminal",
-            "percutaneous",
-            "coronary"
+            "aspirin",
+            "dipyridamole",
+            "angioplasty, transluminal, percutaneous coronary"
       ],
       "criteria": [
             "patient",
@@ -194,7 +198,7 @@
             "angina",
             "pectoris"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -203,6 +207,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000510.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "pectoris",
+            "ischemia"
+      ],
+      "id": "NCT00000510"
 }

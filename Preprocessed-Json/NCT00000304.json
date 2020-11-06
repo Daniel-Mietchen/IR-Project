@@ -22,18 +22,43 @@
             "strategy"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Dextroamphetamine",
+            "D-Amphetamine",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "mg",
+            "first",
+            "8",
+            "week",
+            "30",
+            "mg",
+            "8",
+            "week",
+            "mg",
+            "first",
+            "8",
+            "week",
+            "60",
+            "second",
+            "8",
+            "week",
+            "16",
+            "week",
+            "total"
       ],
       "arm_group_label": [
+            "1",
+            "2",
             "3"
       ],
       "criteria": [
@@ -42,7 +67,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -51,6 +76,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000304.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cocaine",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00000304"
 }

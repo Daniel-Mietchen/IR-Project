@@ -385,13 +385,14 @@
             "record"
       ],
       "condition": [
-            "hypercholesterolemia"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "diet, fat-restricted"
       ],
       "criteria": [
             "child",
@@ -401,7 +402,7 @@
             "elevate",
             "level"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -410,6 +411,10 @@
             "10",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000459.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000459"
 }

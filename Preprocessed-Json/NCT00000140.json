@@ -254,15 +254,18 @@
             "compare"
       ],
       "condition": [
-            "retinal",
+            "vitreoretinopathy",
             "detachment"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "silicone",
-            "oil"
+            "Perfluoropropane",
+            "Sulfur Hexafluoride",
+            "Silicone Oil"
       ],
       "criteria": [
             "eligibility",
@@ -282,9 +285,13 @@
             "perception",
             "better"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000140.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "detachment",
+            "proliferative"
+      ],
+      "id": "NCT00000140"
 }

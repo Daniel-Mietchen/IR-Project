@@ -261,14 +261,18 @@
             "appropriate"
       ],
       "condition": [
-            "hiv",
+            "cerebral",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clindamycin"
+            "Pyrimethamine",
+            "Leucovorin calcium",
+            "Clindamycin"
       ],
       "criteria": [
             "inclusion",
@@ -580,12 +584,21 @@
             "toxoplasmic",
             "encephalitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000674.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clindamycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "cerebral",
+            "palmitate",
+            "phosphate"
+      ],
+      "id": "NCT00000674"
 }

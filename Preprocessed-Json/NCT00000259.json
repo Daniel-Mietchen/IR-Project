@@ -52,14 +52,30 @@
             "performance"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "15 % Nitrous oxide",
+            "0.3 % Sevoflurane",
+            "30% Nitrous oxide",
+            "0.6% Sevoflurane",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "nitrous",
+            "oxide",
+            "sevoflurane",
+            "nitrous",
+            "oxide",
+            "sevoflurane"
       ],
       "criteria": [
             "please",
@@ -67,7 +83,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -76,6 +92,15 @@
             "39",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000259.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "oxide"
+      ],
+      "id": "NCT00000259"
 }

@@ -434,15 +434,15 @@
             "pay"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine",
-            "microgenesys"
+            "HIVAC-1e",
+            "gp160 Vaccine (MicroGeneSys)"
       ],
       "criteria": [
             "inclusion",
@@ -704,7 +704,7 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -713,6 +713,18 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000683.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000683"
 }

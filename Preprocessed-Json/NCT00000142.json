@@ -208,25 +208,23 @@
             "morbidity"
       ],
       "condition": [
-            "cmv",
+            "infection",
             "cytomegalovirus",
             "retinitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cidofovir"
+            "Cidofovir"
       ],
       "description": [
-            "three",
             "group",
             "deferral",
             "group",
             "treatment",
             "defer",
             "retinitis",
-            "progress",
             "cidofovir",
             "group",
             "5",
@@ -240,7 +238,6 @@
             "cidofovir",
             "every",
             "2",
-            "week",
             "cidofovir",
             "group",
             "weekly",
@@ -254,13 +251,13 @@
             "week"
       ],
       "arm_group_label": [
-            "cidofovir",
+            "deferral",
+            "low",
+            "dose",
             "high",
             "dose"
       ],
-      "other_name": [
-            "vistide"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -505,12 +502,16 @@
             "probenecid",
             "allergy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000142.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00000142"
 }

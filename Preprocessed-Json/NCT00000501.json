@@ -525,13 +525,18 @@
             "group"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
+            "diet, sodium-restricted",
+            "diet, reducing",
             "potassium"
       ],
       "criteria": [
@@ -560,7 +565,7 @@
             "obese",
             "subject"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -569,6 +574,11 @@
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000501.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000501"
 }

@@ -122,12 +122,15 @@
             "system"
       ],
       "condition": [
-            "myocarditis"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclosporine",
             "prednisone"
       ],
       "criteria": [
@@ -142,7 +145,7 @@
             "failure",
             "myocarditis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -151,6 +154,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000524.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000524"
 }

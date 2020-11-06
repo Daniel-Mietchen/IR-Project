@@ -213,13 +213,17 @@
             "month"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Anti-HIV Immune Serum Globulin (Human)",
+            "Globulin, Immune",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -422,9 +426,7 @@
             "ddc",
             "ddi"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
@@ -433,6 +435,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000751.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "serum"
+      ],
+      "id": "NCT00000751"
 }

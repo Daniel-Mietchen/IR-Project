@@ -113,16 +113,14 @@
             "cycle"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "micronized",
-            "progesterone"
+            "Micronized Progesterone"
       ],
       "criteria": [
             "inclusion",
@@ -225,9 +223,7 @@
             "progesterone",
             "peanut"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
@@ -236,6 +232,10 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000295.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00000295"
 }

@@ -277,12 +277,14 @@
             "glaucoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "argon",
-            "laser",
-            "trabeculoplasty"
+            "Beta Blocker",
+            "Trabeculectomy",
+            "Argon Laser Trabeculoplasty"
       ],
       "criteria": [
             "patient",
@@ -319,7 +321,7 @@
             "pseudoexfoliation",
             "glaucoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -328,6 +330,7 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000149.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000149"
 }

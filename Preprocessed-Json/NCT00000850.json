@@ -255,14 +255,15 @@
             "function"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Indinavir sulfate",
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -356,12 +357,19 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000850.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "receptor",
+            "chemokine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000850"
 }

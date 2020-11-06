@@ -451,15 +451,18 @@
             "enrol"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "sinus",
+            "syndrome",
+            "disease",
             "accident"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "pacemaker",
-            "artificial"
+            "pacemaker, artificial"
       ],
       "criteria": [
             "men",
@@ -468,7 +471,7 @@
             "sinus",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -477,6 +480,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000561.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "sinus",
+            "syndrome"
+      ],
+      "id": "NCT00000561"
 }

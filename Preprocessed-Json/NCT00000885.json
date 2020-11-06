@@ -704,14 +704,31 @@
             "pbmcs"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Indinavir sulfate",
+            "Abacavir sulfate",
+            "Nelfinavir mesylate",
+            "Efavirenz",
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -1152,12 +1169,20 @@
             "study",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000885.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00000885"
 }

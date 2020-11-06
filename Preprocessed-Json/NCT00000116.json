@@ -137,15 +137,15 @@
             "annually"
       ],
       "condition": [
-            "retinitis",
             "pigmentosa"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nutritional",
-            "supplement"
+            "Vitamin A",
+            "Nutritional Supplement"
       ],
       "criteria": [
             "inclusion",
@@ -205,7 +205,7 @@
             "vitamin",
             "supplement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -214,5 +214,8 @@
             "56",
             "year"
       ],
-      "id": "NCT00000116.xml"
+      "mesh_term": [
+            "pigmentosa"
+      ],
+      "id": "NCT00000116"
 }

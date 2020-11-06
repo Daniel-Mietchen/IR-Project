@@ -287,14 +287,31 @@
             "enrollment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Bleomycin sulfate",
+            "Vincristine sulfate",
+            "Doxorubicin hydrochloride",
+            "Cyclophosphamide",
+            "Allopurinol",
+            "Methotrexate",
+            "Cytarabine",
+            "Leucovorin calcium",
+            "Sargramostim",
+            "Dexamethasone"
       ],
       "criteria": [
             "inclusion",
@@ -477,12 +494,21 @@
             "outline",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000658.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antineoplastic",
+            "agent",
+            "combine"
+      ],
+      "mesh_term": [
+            "infection",
+            "doxorubicin"
+      ],
+      "id": "NCT00000658"
 }

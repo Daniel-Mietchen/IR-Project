@@ -190,12 +190,12 @@
             "infant"
       ],
       "condition": [
-            "respiratory",
+            "disease",
             "distress",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "dexamethasone"
@@ -216,12 +216,23 @@
             "37",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000563.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "membrane",
+            "disease"
+      ],
+      "id": "NCT00000563"
 }

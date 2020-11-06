@@ -172,13 +172,20 @@
             "hypertension"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
+            "diet, reducing",
+            "diet, sodium-restricted",
+            "alcohol restriction",
             "exercise"
       ],
       "criteria": [
@@ -194,7 +201,7 @@
             "mm",
             "hg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -203,6 +210,11 @@
             "44",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000495.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000495"
 }

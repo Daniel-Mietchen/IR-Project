@@ -211,14 +211,19 @@
             "provide"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -399,12 +404,19 @@
             "ethanol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000831.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "combination"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000831"
 }

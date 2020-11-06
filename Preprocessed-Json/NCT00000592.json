@@ -271,14 +271,18 @@
             "1999"
       ],
       "condition": [
-            "hemoglobinopathy"
+            "sickle",
+            "cell",
+            "embolism",
+            "thrombosis",
+            "disorder",
+            "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "blood",
-            "transfusion"
+            "blood transfusion"
       ],
       "criteria": [
             "pediatric",
@@ -294,7 +298,7 @@
             "zero",
             "thalassemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -303,6 +307,16 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000592.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "sickle",
+            "cell",
+            "thrombosis",
+            "embolism",
+            "embolism",
+            "thrombosis"
+      ],
+      "id": "NCT00000592"
 }

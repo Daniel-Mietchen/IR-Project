@@ -227,13 +227,30 @@
             "1994"
       ],
       "condition": [
-            "vascular",
+            "disease",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "diet, sodium-restricted",
+            "diet, reducing",
+            "exercise",
+            "alcohol restriction",
+            "chlorthalidone",
+            "acebutolol",
+            "doxazosin",
+            "amlodipine",
             "enalapril"
       ],
       "criteria": [
@@ -269,7 +286,7 @@
             "week",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -278,6 +295,11 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000522.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00000522"
 }

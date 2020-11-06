@@ -1356,11 +1356,14 @@
             "observe"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "magnesium"
@@ -1380,7 +1383,7 @@
             "risk",
             "mortality"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1389,6 +1392,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000610.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000610"
 }

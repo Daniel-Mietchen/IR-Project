@@ -482,14 +482,20 @@
             "analysis"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "ischemia"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "dietary supplements",
+            "fatty acids, omega-3",
+            "diet, fat-restricted"
       ],
       "criteria": [
             "men",
@@ -514,7 +520,7 @@
             "prior",
             "angioplasty"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -523,6 +529,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000473.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000473"
 }

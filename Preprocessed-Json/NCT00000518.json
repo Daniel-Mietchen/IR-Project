@@ -357,13 +357,30 @@
             "hm"
       ],
       "condition": [
+            "disease",
+            "sudden",
+            "cardiac",
+            "disease",
             "ventricular",
+            "arrhythmia",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "electrophysiology",
+            "electrocardiography, ambulatory",
+            "imipramine",
+            "mexiletine",
+            "procainamide",
+            "quinidine",
             "sotalol"
       ],
       "criteria": [
@@ -376,7 +393,7 @@
             "sudden",
             "death"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -385,6 +402,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000518.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "fibrillation",
+            "sudden",
+            "sudden",
+            "cardiac",
+            "ventricular"
+      ],
+      "id": "NCT00000518"
 }

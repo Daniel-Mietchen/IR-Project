@@ -274,13 +274,15 @@
             "year"
       ],
       "condition": [
-            "pulmonary",
+            "disease",
             "embolism"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "ventilation-perfusion ratio",
             "angiography"
       ],
       "criteria": [
@@ -294,7 +296,7 @@
             "undergo",
             "angiography"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -303,6 +305,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000566.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "embolism"
+      ],
+      "id": "NCT00000566"
 }

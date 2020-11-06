@@ -303,13 +303,17 @@
             "therapy"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Ritonavir",
+            "Lamivudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -393,14 +397,19 @@
             "drug",
             "alcohol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000888.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fetal",
+            "blood"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00000888"
 }

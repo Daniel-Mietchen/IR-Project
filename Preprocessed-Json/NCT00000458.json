@@ -39,16 +39,14 @@
             "month",
             "treatment"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavior",
-            "therapy"
+            "sertraline (Zoloft)",
+            "cognitive behavior therapy"
       ],
       "criteria": [
             "inclusion",
@@ -222,7 +220,7 @@
             "suicidal",
             "ideation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -231,6 +229,7 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000458.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00000458"
 }

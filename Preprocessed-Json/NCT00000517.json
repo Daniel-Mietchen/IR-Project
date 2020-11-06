@@ -288,11 +288,16 @@
             "procedure"
       ],
       "condition": [
-            "cerebrovascular",
+            "fibrillation",
+            "disease",
+            "embolism",
+            "thrombosis",
+            "disorder",
+            "disease",
             "accident"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "warfarin"
@@ -307,12 +312,22 @@
             "atrial",
             "fibrillation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000517.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrillation",
+            "disease",
+            "disease",
+            "disorder",
+            "thrombosis",
+            "embolism",
+            "embolism",
+            "thrombosis"
+      ],
+      "id": "NCT00000517"
 }

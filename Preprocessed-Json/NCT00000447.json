@@ -50,16 +50,14 @@
             "month",
             "treatment"
       ],
-      "condition": [
-            "smoke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nicotine",
-            "replacement",
-            "patch"
+            "naltrexone (Revia)",
+            "nicotine replacement patch"
       ],
       "criteria": [
             "inclusion",
@@ -194,7 +192,7 @@
             "outpatient",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -203,6 +201,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000447.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00000447"
 }

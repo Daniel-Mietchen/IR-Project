@@ -336,17 +336,16 @@
             "death"
       ],
       "condition": [
-            "cytomegalovirus",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
             "retinitis"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "intraocular",
-            "drug",
-            "delivery",
-            "system"
+            "Sustained-Release Intraocular Drug Delivery System"
       ],
       "criteria": [
             "patient",
@@ -382,8 +381,16 @@
             "count",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "id": "NCT00000118.xml"
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "retinitis"
+      ],
+      "id": "NCT00000118"
 }

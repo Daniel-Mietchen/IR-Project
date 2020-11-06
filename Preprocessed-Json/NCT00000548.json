@@ -232,15 +232,14 @@
             "infant"
       ],
       "condition": [
-            "lung",
+            "dysplasia",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "mechanical",
-            "ventilation"
+            "mechanical ventilation"
       ],
       "criteria": [
             "preterm",
@@ -272,12 +271,16 @@
             "clinical",
             "bleed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000548.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "dysplasia"
+      ],
+      "id": "NCT00000548"
 }

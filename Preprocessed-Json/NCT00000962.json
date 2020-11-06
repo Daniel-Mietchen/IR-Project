@@ -312,14 +312,13 @@
             "protocol"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine"
+            "Nevirapine"
       ],
       "criteria": [
             "inclusion",
@@ -621,12 +620,20 @@
             "protocol",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000962.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nevirapine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00000962"
 }

@@ -178,14 +178,31 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Bleomycin sulfate",
+            "Vincristine sulfate",
+            "Doxorubicin hydrochloride",
+            "Cyclophosphamide",
+            "Allopurinol",
+            "Methotrexate",
+            "Cytarabine",
+            "Leucovorin calcium",
+            "Zidovudine",
+            "Dexamethasone"
       ],
       "criteria": [
             "inclusion",
@@ -344,7 +361,7 @@
             "marrow",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -353,6 +370,15 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000703.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bleomycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "acetate",
+            "doxorubicin",
+            "1101"
+      ],
+      "id": "NCT00000703"
 }

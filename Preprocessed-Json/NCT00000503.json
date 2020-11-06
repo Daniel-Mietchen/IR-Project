@@ -269,15 +269,21 @@
             "system"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "heart",
-            "catheterization"
+            "nitroglycerin",
+            "streptokinase",
+            "heart catheterization"
       ],
       "criteria": [
             "men",
@@ -298,7 +304,7 @@
             "qualify",
             "pain"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -307,6 +313,15 @@
             "77",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000503.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00000503"
 }

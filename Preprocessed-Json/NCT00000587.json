@@ -178,21 +178,23 @@
             "patient"
       ],
       "condition": [
-            "blood",
+            "immunodeficiency",
+            "syndrome",
+            "disease",
+            "infection",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "erythropoietin",
-            "recombinant"
+            "erythropoietin, recombinant"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -201,6 +203,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000587.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "disease",
+            "alfa"
+      ],
+      "id": "NCT00000587"
 }

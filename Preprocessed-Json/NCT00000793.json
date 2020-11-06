@@ -186,17 +186,20 @@
             "medication"
       ],
       "condition": [
-            "peripheral",
+            "infection",
             "nervous",
             "system",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amitriptyline",
-            "hydrochloride"
+            "Mexiletine hydrochloride",
+            "Benztropine mesylate",
+            "Amitriptyline hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -525,12 +528,29 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000793.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parasympatholytics"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "system",
+            "disease",
+            "nervous",
+            "system",
+            "disease",
+            "perphenazine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00000793"
 }

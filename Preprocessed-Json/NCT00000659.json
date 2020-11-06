@@ -367,14 +367,15 @@
             "plus"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "CD4 Antigens",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -577,12 +578,19 @@
             "protocol",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000659.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex"
+      ],
+      "id": "NCT00000659"
 }

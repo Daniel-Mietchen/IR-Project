@@ -190,16 +190,16 @@
             "complete"
       ],
       "condition": [
-            "liver",
+            "b",
+            "viral",
+            "human",
             "disease"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "hepatitis",
-            "b",
-            "vaccine"
+            "hepatitis B vaccines"
       ],
       "criteria": [
             "men",
@@ -221,9 +221,7 @@
             "negative",
             "hbsag"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -232,6 +230,12 @@
             "36",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000583.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b",
+            "disease",
+            "viral",
+            "human"
+      ],
+      "id": "NCT00000583"
 }

@@ -339,24 +339,30 @@
             "function"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "triamcinolone",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "microgram",
+            "triamcinolone",
+            "daily",
+            "divide",
+            "dose"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "azmacort"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "1",
@@ -418,7 +424,7 @@
             "previous",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -427,6 +433,17 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000569.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "hexacetonide",
+            "acetonide",
+            "diacetate"
+      ],
+      "id": "NCT00000569"
 }

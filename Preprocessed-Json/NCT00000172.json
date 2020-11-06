@@ -145,14 +145,13 @@
             "evaluate"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "galantamine"
+            "Galantamine"
       ],
       "criteria": [
             "inclusion",
@@ -251,9 +250,16 @@
             "av",
             "block"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00000172.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cholinesterase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00000172"
 }

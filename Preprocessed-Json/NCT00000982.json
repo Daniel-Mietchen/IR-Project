@@ -604,14 +604,15 @@
             "function"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -977,7 +978,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -986,6 +987,15 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00000982.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00000982"
 }
