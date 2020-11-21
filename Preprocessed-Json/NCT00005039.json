@@ -273,27 +273,47 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "recombinant fowlpox-prostate specific antigen vaccine",
+            "recombinant vaccinia prostate-specific antigen vaccine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "im",
+            "intradermally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "vpsa"
+            "vaccine",
+            "vaccine",
+            "specific",
+            "antigen",
+            "express",
+            "vaccinia",
+            "virus",
+            "vaccine",
+            "vaccine",
+            "antigen",
+            "vaccine",
+            "antigen",
+            "vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -582,14 +602,15 @@
             "organ",
             "transplantation"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005039.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005039"
 }

@@ -230,13 +230,16 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "bicalutamide",
+            "goserelin acetate",
             "orchiectomy"
       ],
       "criteria": [
@@ -360,14 +363,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014586.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00014586"
 }

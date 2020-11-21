@@ -178,15 +178,16 @@
             "4"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "rectal",
-            "biopsy"
+            "Flexible Sigmoidoscopy",
+            "Rectal Biopsy"
       ],
       "criteria": [
             "inclusion",
@@ -437,14 +438,16 @@
             "hptn",
             "056"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075062.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00075062"
 }

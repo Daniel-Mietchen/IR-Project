@@ -151,17 +151,43 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "thiotepa"
+            "Carboplatin",
+            "Cyclophosphamide",
+            "Thiotepa"
       ],
       "description": [
-            "thiotepa",
+            "give",
+            "dose",
+            "267",
+            "w",
+            "iv",
+            "one",
+            "hour",
+            "daily",
+            "day",
+            "total",
+            "dose",
+            "800",
+            "give",
+            "dose",
+            "2000",
+            "n",
+            "iv",
+            "one",
+            "hour",
+            "daily",
+            "day",
+            "total",
+            "dose",
+            "6000",
             "give",
             "dose",
             "167",
@@ -176,12 +202,14 @@
             "500"
       ],
       "arm_group_label": [
-            "ctc",
+            "condition",
+            "regimen",
+            "condition",
+            "regimen",
             "condition",
             "regimen"
       ],
       "other_name": [
-            "paraplatin",
             "r"
       ],
       "criteria": [
@@ -401,9 +429,7 @@
             "ventricular",
             "dysrrhythmias"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "15",
             "year"
@@ -412,6 +438,14 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005798.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005798"
 }

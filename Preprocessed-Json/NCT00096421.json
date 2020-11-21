@@ -61,17 +61,16 @@
             "110"
       ],
       "condition": [
-            "insulin",
+            "illness",
             "resistance"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "conventional",
-            "control",
-            "glucose",
-            "level"
+            "Tight control of blood glucose levels",
+            "Conventional control of glucose levels"
       ],
       "criteria": [
             "inclusion",
@@ -106,12 +105,21 @@
             "unit",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096421.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "conventional",
+            "insulin",
+            "therapy"
+      ],
+      "mesh_term": [
+            "resistance",
+            "illness"
+      ],
+      "id": "NCT00096421"
 }

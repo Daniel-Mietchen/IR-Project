@@ -166,18 +166,23 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "gemcitabine hydrochloride",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiotherapy",
+            "gemcitabine",
+            "cisplatin",
+            "gemcitabine",
+            "cisplatin",
             "gemcitabine",
             "cisplatin"
       ],
@@ -322,7 +327,7 @@
             "prior",
             "laparotomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -331,6 +336,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026403.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00026403"
 }

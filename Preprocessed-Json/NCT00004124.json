@@ -273,24 +273,37 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bicalutamide",
+            "goserelin",
+            "mitoxantrone hydrochloride",
             "prednisone"
       ],
       "arm_group_label": [
-            "bicalutamide",
+            "goserelin",
+            "goserelin",
+            "mitoxantrone",
+            "prednisone",
+            "goserelin",
+            "goserelin",
+            "mitoxantrone",
+            "prednisone",
+            "goserelin",
+            "mitoxantrone",
+            "prednisone",
             "goserelin",
             "mitoxantrone",
             "prednisone"
       ],
-      "other_name": [
-            "zoladex"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -489,14 +502,21 @@
             "adenocarcinoma",
             "prostate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004124.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004124"
 }

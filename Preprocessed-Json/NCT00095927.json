@@ -90,16 +90,28 @@
             "radiation"
       ],
       "condition": [
-            "xerostomia"
+            "agent",
+            "toxicity",
+            "neck",
+            "cancer",
+            "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
+            "Amifostine",
+            "Carboplatin",
+            "Paclitaxel",
             "radiation"
       ],
       "description": [
-            "give",
+            "subcutaneously",
+            "iv",
+            "iv",
             "daily",
             "4",
             "week",
@@ -109,12 +121,15 @@
             "week"
       ],
       "arm_group_label": [
-            "arm",
+            "amifostine",
+            "amifostine",
+            "b",
+            "amifostine",
+            "b",
+            "amifostine",
             "b"
       ],
-      "other_name": [
-            "onxal"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -455,12 +470,29 @@
             "therapy",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095927.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "squamous",
+            "neck",
+            "cancer",
+            "occult",
+            "primary",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "injury",
+            "paclitaxel"
+      ],
+      "id": "NCT00095927"
 }

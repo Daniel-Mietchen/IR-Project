@@ -49,14 +49,15 @@
             "train"
       ],
       "condition": [
-            "sickle",
             "cell",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Procedure",
+            "Behavioral"
       ],
       "intervention_name": [
+            "massage",
             "relaxation"
       ],
       "criteria": [
@@ -132,7 +133,7 @@
             "pain",
             "exclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -141,6 +142,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066079.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "therapy"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00066079"
 }

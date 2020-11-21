@@ -89,15 +89,16 @@
             "bleed"
       ],
       "condition": [
-            "portal",
+            "gastric",
+            "varix",
+            "cirrhosis",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "timolol",
-            "maleate"
+            "Timolol Maleate"
       ],
       "criteria": [
             "inclusion",
@@ -221,7 +222,7 @@
             "mechanical",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -230,6 +231,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006398.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "blocker"
+      ],
+      "mesh_term": [
+            "cirrhosis",
+            "portal",
+            "gastric",
+            "varix",
+            "antagonist",
+            "agent"
+      ],
+      "id": "NCT00006398"
 }

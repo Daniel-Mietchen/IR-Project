@@ -219,30 +219,47 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "tube",
+            "cancer",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tamoxifen citrate",
+            "thalidomide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "tamoxifen",
+            "thalidomide",
+            "thalidomide",
             "ii",
             "tamoxifen"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -505,11 +522,16 @@
             "bisphosphonates",
             "zoledronate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041080.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "tube",
+            "neoplasm"
+      ],
+      "id": "NCT00041080"
 }

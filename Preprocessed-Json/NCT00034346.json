@@ -76,13 +76,20 @@
             "nsclc"
       ],
       "condition": [
+            "cell",
             "lung",
+            "cancer",
+            "metastasis",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ABX-EGF",
+            "paclitaxel",
             "carboplatin"
       ],
       "criteria": [
@@ -270,12 +277,24 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034346.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "lung",
+            "cancer",
+            "nsclc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00034346"
 }

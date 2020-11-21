@@ -278,15 +278,30 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "ifosfamide",
+            "melphalan",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -494,12 +509,19 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002982.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002982"
 }

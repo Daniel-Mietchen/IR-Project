@@ -139,20 +139,15 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "body",
-            "radiation",
-            "therapy"
+            "stereotactic body radiation therapy"
       ],
       "arm_group_label": [
-            "stereotactic",
             "body",
             "radiation",
             "therapy",
@@ -214,9 +209,7 @@
             "zone",
             "proximal",
             "bronchial",
-            "tree",
             "note",
-            "define",
             "volume",
             "2",
             "cm",
@@ -313,7 +306,6 @@
             "include",
             "follow",
             "medical",
-            "condition",
             "baseline",
             "force",
             "expiratory",
@@ -357,7 +349,6 @@
             "heart",
             "disease",
             "note",
-            "patient",
             "refuse",
             "pcr",
             "due",
@@ -476,12 +467,22 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087438.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00087438"
 }

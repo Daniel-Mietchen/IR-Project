@@ -353,15 +353,13 @@
             "mode"
       ],
       "condition": [
-            "hypertrophic",
             "cardiomyopathy"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "pacemaker",
-            "therapy"
+            "Pacemaker therapy"
       ],
       "criteria": [
             "inclusion",
@@ -468,9 +466,15 @@
             "effect",
             "radiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "symptom"
+      ],
+      "mesh_term": [
+            "hypertrophic"
+      ],
+      "id": "NCT00001960"
 }

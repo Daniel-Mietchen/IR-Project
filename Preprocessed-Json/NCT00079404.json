@@ -199,7 +199,19 @@
             "day"
       ],
       "condition": [
-            "unspecified",
+            "undifferentiated",
+            "leukemia",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "acute",
+            "myeloid",
+            "leukemia",
             "childhood",
             "solid",
             "tumor",
@@ -207,18 +219,15 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tanespimycin"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -465,7 +474,7 @@
             "concurrent",
             "warfarin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -474,6 +483,14 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079404.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00079404"
 }

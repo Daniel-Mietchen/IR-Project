@@ -160,15 +160,13 @@
             "hour"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "leuprolide",
-            "acetate"
+            "Leuprolide acetate"
       ],
       "criteria": [
             "inclusion",
@@ -765,14 +763,19 @@
             "sleep",
             "apnea"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076440.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alzheimer",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00076440"
 }

@@ -124,28 +124,33 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "carboplatin",
+            "7-hydroxystaurosporine",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "carboplatin",
+            "carboplatin",
             "carboplatin"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -455,12 +460,13 @@
             "cisplatin",
             "carboplatin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036777.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00036777"
 }

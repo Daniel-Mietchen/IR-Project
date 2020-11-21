@@ -462,23 +462,18 @@
             "remission"
       ],
       "condition": [
-            "bone",
+            "malignancy",
             "marrow",
             "transplant",
             "rejection"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "allogeneic",
-            "hematopoietic",
-            "stem",
-            "cell",
-            "transplantation"
+            "allogeneic hematopoietic stem cell transplantation"
       ],
       "description": [
-            "manipulate",
             "peripheral",
             "blood",
             "stem",
@@ -497,12 +492,14 @@
             "x"
       ],
       "arm_group_label": [
-            "allogeneic",
             "hematopoietic",
             "sct"
       ],
       "other_name": [
-            "bmt"
+            "blood",
+            "stem",
+            "cell",
+            "transplant"
       ],
       "criteria": [
             "inclusion",
@@ -826,7 +823,7 @@
             "psychiatric",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -835,6 +832,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079391.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00079391"
 }

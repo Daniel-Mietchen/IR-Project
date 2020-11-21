@@ -59,17 +59,18 @@
             "week"
       ],
       "condition": [
-            "lung",
+            "pulmonary",
+            "fibrosis",
+            "fibrosis",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon gamma-1b"
       ],
       "description": [
-            "200",
             "mcg",
             "sq",
             "per",
@@ -122,9 +123,20 @@
             "unsuitable",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076635.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intermune"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "interstitial",
+            "pneumonia"
+      ],
+      "id": "NCT00076635"
 }

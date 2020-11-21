@@ -193,7 +193,6 @@
             "urine",
             "test",
             "do",
-            "month",
             "drug",
             "treatment",
             "patient",
@@ -284,11 +283,9 @@
             "discontinuation",
             "treatment"
       ],
-      "condition": [
-            "polymyositis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "methimazole"
@@ -563,9 +560,13 @@
             "anticoagulant",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001421.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "polymyositis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001421"
 }

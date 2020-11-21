@@ -231,13 +231,24 @@
             "substudy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "lopinavir/ritonavir",
+            "lamivudine/zidovudine",
+            "efavirenz",
+            "lamivudine",
+            "stavudine",
+            "zidovudine",
             "didanosine"
       ],
       "criteria": [
@@ -377,12 +388,25 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014937.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "zidovudine",
+            "drug",
+            "combination",
+            "inhibitor"
+      ],
+      "id": "NCT00014937"
 }

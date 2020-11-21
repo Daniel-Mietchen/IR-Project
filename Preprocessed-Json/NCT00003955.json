@@ -403,15 +403,26 @@
             "within",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "dactinomycin",
+            "filgrastim",
+            "pegfilgrastim",
+            "sargramostim",
+            "cyclophosphamide",
+            "irinotecan hydrochloride",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -544,7 +555,6 @@
             "count",
             "greater",
             "note",
-            "unless",
             "tumor",
             "involvement",
             "bone",
@@ -603,12 +613,21 @@
             "biopsy",
             "diagnosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003955.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003955"
 }

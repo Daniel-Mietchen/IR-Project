@@ -132,14 +132,16 @@
             "mcg"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Fomivirsen sodium",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -280,12 +282,20 @@
             "prior",
             "ganciclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002156.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "injection"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00002156"
 }

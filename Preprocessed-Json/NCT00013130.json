@@ -224,23 +224,18 @@
             "2001"
       ],
       "condition": [
-            "continuous",
+            "status",
+            "measure",
             "quality",
             "improvement"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "provision",
-            "health",
-            "status",
-            "information",
-            "patient",
-            "provider"
+            "Provision of health status information to patients provider"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -256,12 +251,12 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013130.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00013130"
 }

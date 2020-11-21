@@ -29,17 +29,35 @@
             "cancer"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mg"
+            "ZD4054 10 mg",
+            "ZD4054 15 mg",
+            "ZD4054 22.5 mg"
       ],
       "description": [
+            "x",
+            "10",
+            "mg",
+            "oral",
+            "tablet",
+            "daily",
+            "x",
+            "10",
+            "mg",
             "2",
+            "x",
+            "mg",
+            "oral",
+            "tablet",
+            "daily",
             "x",
             "10",
             "mg",
@@ -51,11 +69,13 @@
             "daily"
       ],
       "arm_group_label": [
+            "10",
+            "mg",
+            "15",
+            "mg",
             "mg"
       ],
-      "other_name": [
-            "zibotentan"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -82,14 +102,20 @@
             "4",
             "week"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055471.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00055471"
 }

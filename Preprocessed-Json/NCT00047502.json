@@ -86,20 +86,18 @@
             "patient"
       ],
       "condition": [
-            "chronic",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate",
-            "gleevec"
+            "Lonafarnib (SCH66336)",
+            "Imatinib Mesylate (Gleevec)"
       ],
       "description": [
-            "participant",
             "chronic",
             "phase",
             "receive",
@@ -109,7 +107,35 @@
             "mouth",
             "every",
             "day",
-            "participant",
+            "100",
+            "mg",
+            "mouth",
+            "twice",
+            "accelerate",
+            "blastic",
+            "phase",
+            "receive",
+            "100",
+            "mg",
+            "mouth",
+            "twice",
+            "accelerate",
+            "blastic",
+            "phase",
+            "receive",
+            "100",
+            "mg",
+            "mouth",
+            "twice",
+            "day",
+            "chronic",
+            "phase",
+            "receive",
+            "gleevec",
+            "400",
+            "mg",
+            "mouth",
+            "every",
             "accelerate",
             "blastic",
             "phase",
@@ -122,7 +148,8 @@
             "day"
       ],
       "arm_group_label": [
-            "gleevec",
+            "sch",
+            "66336",
             "sch",
             "66336"
       ],
@@ -301,12 +328,19 @@
             "iv",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047502.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00047502"
 }

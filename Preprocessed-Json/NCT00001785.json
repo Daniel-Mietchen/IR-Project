@@ -408,17 +408,17 @@
             "monthly"
       ],
       "condition": [
-            "tropical",
+            "infection",
+            "cord",
+            "disease",
             "spastic",
             "paraparesis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant",
-            "human",
-            "interferon"
+            "Recombinant human interferon beta-1a"
       ],
       "criteria": [
             "inclusion",
@@ -535,9 +535,23 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001785.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "spontaneous",
+            "proliferation"
+      ],
+      "mesh_term": [
+            "cord",
+            "disease",
+            "marrow",
+            "disease",
+            "spastic",
+            "tropical",
+            "spastic",
+            "infection"
+      ],
+      "id": "NCT00001785"
 }

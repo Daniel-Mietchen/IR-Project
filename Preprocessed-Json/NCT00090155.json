@@ -48,17 +48,16 @@
             "week"
       ],
       "condition": [
-            "postoperative",
             "nausea",
             "vomit"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "ondansetron",
-            "iv"
+            "MK0869, aprepitant",
+            "Comparator: ondansetron IV"
       ],
       "criteria": [
             "inclusion",
@@ -93,12 +92,16 @@
             "postoperative",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090155.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "nausea",
+            "vomit"
+      ],
+      "id": "NCT00090155"
 }

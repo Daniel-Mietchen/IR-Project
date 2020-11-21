@@ -106,15 +106,20 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir",
-            "mesylate"
+            "indinavir sulfate",
+            "nelfinavir mesylate",
+            "paclitaxel",
+            "ritonavir",
+            "saquinavir mesylate"
       ],
       "criteria": [
             "disease",
@@ -306,12 +311,21 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003008.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "paclitaxel"
+      ],
+      "id": "NCT00003008"
 }

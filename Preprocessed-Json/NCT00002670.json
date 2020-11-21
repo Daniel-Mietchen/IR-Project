@@ -137,19 +137,39 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "chemotherapy",
+            "cisplatin",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "therapy",
+            "plus",
+            "cisplatin",
+            "therapy",
+            "plus",
+            "cisplatin",
+            "therapy",
+            "therapy",
+            "plus",
+            "cisplatin",
+            "therapy",
+            "therapy",
+            "plus",
+            "cisplatin",
+            "therapy",
             "therapy",
             "plus",
             "cisplatin"
@@ -292,12 +312,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002670.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00002670"
 }

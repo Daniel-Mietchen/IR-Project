@@ -300,7 +300,9 @@
             "family"
       ],
       "condition": [
-            "healthy"
+            "deficit",
+            "disorder",
+            "hyperactivity"
       ],
       "criteria": [
             "inclusion",
@@ -568,7 +570,7 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -577,6 +579,15 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "deficit",
+            "disorder",
+            "hyperactivity"
+      ],
+      "id": "NCT00008892"
 }

@@ -164,13 +164,20 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
             "paclitaxel"
       ],
       "criteria": [
@@ -302,12 +309,28 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003696.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00003696"
 }

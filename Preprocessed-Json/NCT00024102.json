@@ -322,17 +322,47 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Standard Treatment",
             "capecitabine"
       ],
       "description": [
-            "2000",
+            "100",
+            "po",
+            "mtx",
+            "40",
+            "iv",
+            "push",
+            "1",
+            "8",
+            "600",
+            "iv",
+            "push",
+            "1",
+            "8",
+            "q",
+            "28",
+            "day",
+            "6",
+            "cycle",
+            "doxorubicin",
+            "60",
+            "iv",
+            "1",
+            "cyclophosphamide",
+            "600",
+            "iv",
+            "1",
+            "q",
+            "21",
+            "4",
+            "cycle",
             "po",
             "7",
             "day",
@@ -343,10 +373,9 @@
             "cycle"
       ],
       "arm_group_label": [
-            "capecitabine"
+            "chemotherapy"
       ],
       "other_name": [
-            "doxorubicin",
             "adriamycin"
       ],
       "criteria": [
@@ -582,14 +611,22 @@
             "bilirubin",
             "uln"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024102.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00024102"
 }

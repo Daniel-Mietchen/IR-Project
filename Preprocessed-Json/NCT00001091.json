@@ -230,14 +230,21 @@
             "child"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -312,7 +319,7 @@
             "drug",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "month"
@@ -321,6 +328,17 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001091.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00001091"
 }

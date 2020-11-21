@@ -211,17 +211,25 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
             "docetaxel"
       ],
       "description": [
-            "escalate",
+            "minute",
+            "infusion",
+            "dose",
+            "base",
+            "glomerular",
+            "filtration",
+            "rate",
+            "patient",
             "dose",
             "ofstarting",
             "25",
@@ -420,9 +428,7 @@
             "major",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -431,6 +437,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00084890"
 }

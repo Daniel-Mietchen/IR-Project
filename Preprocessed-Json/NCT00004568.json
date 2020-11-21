@@ -283,7 +283,10 @@
             "correlation"
       ],
       "condition": [
-            "peripheral",
+            "neuron",
+            "disease",
+            "disease",
+            "dystrophy",
             "nervous",
             "system",
             "disease"
@@ -439,12 +442,27 @@
             "examination",
             "diagnosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004568.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurological",
+            "disorder"
+      ],
+      "mesh_term": [
+            "dystrophy",
+            "system",
+            "disease",
+            "neuron",
+            "disease",
+            "nervous",
+            "system",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00004568"
 }

@@ -190,15 +190,17 @@
             "study"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -338,12 +340,22 @@
             "resection",
             "bladder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00003642"
 }

@@ -232,24 +232,45 @@
             "50"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transfusion"
+            "busulfan",
+            "cyclophosphamide",
+            "cytarabine",
+            "radiation therapy",
+            "Etoposide",
+            "Stem Cell Transfusion"
       ],
       "description": [
-            "infusion"
+            "orally",
+            "young",
+            "child",
+            "iv",
+            "iv",
+            "undergo",
+            "total",
+            "body",
+            "irradiation"
       ],
       "arm_group_label": [
-            "regimen"
+            "c",
+            "c",
+            "c"
       ],
       "other_name": [
-            "epipodophyllotoixn"
+            "arabinoside",
+            "body",
+            "irradiation"
       ],
       "criteria": [
             "eligibility",
@@ -696,12 +717,23 @@
             "year",
             "earlier"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054327.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00054327"
 }

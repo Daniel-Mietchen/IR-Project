@@ -276,14 +276,15 @@
             "investigator"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amdoxovir"
+            "Mycophenolate mofetil",
+            "Amdoxovir"
       ],
       "criteria": [
             "inclusion",
@@ -467,12 +468,22 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038272.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mmf"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00038272"
 }

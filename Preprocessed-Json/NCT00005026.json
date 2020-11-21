@@ -282,17 +282,20 @@
             "year"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "carboplatin",
+            "paclitaxel",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -476,11 +479,17 @@
             "study",
             "protocol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005026.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brenner",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00005026"
 }

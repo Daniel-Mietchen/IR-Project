@@ -48,15 +48,17 @@
             "population"
       ],
       "condition": [
-            "anaplastic",
+            "multiforme",
+            "astrocytoma",
+            "oligodendroglioma",
             "mix",
             "oligoastrocytoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "talampanel"
+            "Talampanel"
       ],
       "description": [
             "25",
@@ -69,9 +71,7 @@
             "3",
             "week"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "1",
@@ -431,12 +431,13 @@
             "active",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062504.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00062504"
 }

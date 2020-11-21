@@ -111,7 +111,10 @@
             "data"
       ],
       "condition": [
-            "dementia"
+            "disease",
+            "onset",
+            "alzheimer",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -184,9 +187,15 @@
             "pair",
             "collection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064870.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dementia"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00064870"
 }

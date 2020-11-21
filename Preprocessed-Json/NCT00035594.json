@@ -83,17 +83,14 @@
             "breast",
             "cancer"
       ],
-      "condition": [
-            "neutropenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pegfilgrastim"
       ],
       "description": [
-            "growth",
             "factor",
             "gcsf",
             "administer",
@@ -101,9 +98,7 @@
             "neutrophil",
             "development"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "advance",
             "breast",
@@ -118,9 +113,15 @@
             "docetaxel",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035594.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00035594"
 }

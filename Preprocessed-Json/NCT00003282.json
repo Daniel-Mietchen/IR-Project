@@ -167,27 +167,32 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "EF5",
+            "therapeutic conventional surgery",
+            "biopsy",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "resection",
+            "biopsy",
             "study"
       ],
-      "arm_group_label": [
-            "diagnostic"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -284,12 +289,12 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003282.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00003282"
 }

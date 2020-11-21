@@ -302,15 +302,26 @@
             "study",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "leucovorin calcium",
+            "methotrexate",
+            "trimetrexate glucuronate",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -450,12 +461,19 @@
             "malignancy",
             "concurrent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003776.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "osteosarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00003776"
 }

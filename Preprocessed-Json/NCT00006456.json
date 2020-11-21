@@ -95,7 +95,7 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -103,11 +103,10 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "radiosurgery"
+            "stereotactic radiosurgery"
       ],
       "criteria": [
             "disease",
@@ -239,9 +238,16 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006456.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00006456"
 }

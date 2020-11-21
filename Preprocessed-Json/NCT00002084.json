@@ -29,14 +29,16 @@
             "100"
       ],
       "condition": [
-            "hiv",
+            "simplex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Valacyclovir hydrochloride",
+            "Acyclovir"
       ],
       "criteria": [
             "inclusion",
@@ -104,12 +106,22 @@
             "hypersensitivity",
             "acyclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002084.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herpes",
+            "genitalis"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "simplex",
+            "infection"
+      ],
+      "id": "NCT00002084"
 }

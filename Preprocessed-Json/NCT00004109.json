@@ -199,18 +199,28 @@
             "per",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy",
-            "rt"
+            "Doxorubicin Hydrochloride",
+            "Radiation Therapy (RT)"
       ],
       "description": [
+            "dose",
+            "exceed",
+            "20",
+            "per",
+            "week",
+            "iv",
+            "4",
+            "day",
+            "every",
+            "week",
+            "5",
+            "week",
             "radiotherapy",
             "dose",
             "50",
@@ -221,12 +231,10 @@
             "week"
       ],
       "arm_group_label": [
-            "doxorubicin",
+            "rt",
             "rt"
       ],
-      "other_name": [
-            "radialtherapy"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -377,12 +385,22 @@
             "brest",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004109.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "body",
+            "wall",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00004109"
 }

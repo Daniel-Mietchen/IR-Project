@@ -28,14 +28,16 @@
             "sample"
       ],
       "condition": [
-            "inflammatory",
+            "colitis",
             "bowel",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rhIL-11"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -82,12 +84,20 @@
             "splenic",
             "flexure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038922.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colitis"
+      ],
+      "mesh_term": [
+            "ulcerative",
+            "bowel",
+            "disease"
+      ],
+      "id": "NCT00038922"
 }

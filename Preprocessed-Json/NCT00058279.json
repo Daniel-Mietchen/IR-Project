@@ -230,9 +230,11 @@
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "aldesleukin",
             "ipilimumab"
       ],
       "criteria": [
@@ -299,7 +301,6 @@
             "greater",
             "3",
             "time",
-            "uln",
             "hepatitis",
             "b",
             "surface",
@@ -319,7 +320,6 @@
             "safe",
             "administration",
             "note",
-            "unless",
             "attributable",
             "disease",
             "renal",
@@ -516,12 +516,20 @@
             "cyclosporine",
             "analog"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058279.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "intraocular",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058279"
 }

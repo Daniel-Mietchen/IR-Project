@@ -56,15 +56,14 @@
             "cell"
       ],
       "condition": [
-            "hiv",
+            "disease",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "inosine",
-            "pranobex"
+            "Inosine pranobex"
       ],
       "criteria": [
             "exclusion",
@@ -200,9 +199,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -211,6 +208,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002296.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "pranobex"
+      ],
+      "id": "NCT00002296"
 }

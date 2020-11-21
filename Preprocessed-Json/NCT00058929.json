@@ -336,15 +336,15 @@
             "discretion"
       ],
       "condition": [
-            "pulmonary",
+            "arterial",
+            "hypertension",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "treprostinil",
-            "sodium"
+            "treprostinil sodium"
       ],
       "criteria": [
             "inclusion",
@@ -749,7 +749,7 @@
             "patient",
             "safety"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -758,6 +758,12 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058929.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pulmonary",
+            "primary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "id": "NCT00058929"
 }

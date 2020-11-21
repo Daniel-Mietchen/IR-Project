@@ -34,14 +34,13 @@
             "month"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "lamivudine"
+            "Lamivudine"
       ],
       "criteria": [
             "inclusion",
@@ -64,12 +63,19 @@
             "treatment",
             "extend"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001068.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lamivudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "progression"
+      ],
+      "id": "NCT00001068"
 }

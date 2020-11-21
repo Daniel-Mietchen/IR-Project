@@ -148,18 +148,31 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "capecitabine",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "gemcitabine",
+            "give",
+            "625",
+            "1250",
+            "mouth",
+            "twice",
+            "day",
+            "day",
+            "every",
+            "cycle",
+            "1",
+            "cycle",
+            "day",
+            "disease",
+            "progression",
             "give",
             "900",
             "intravenous",
@@ -179,9 +192,7 @@
             "disease",
             "progression"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -410,12 +421,24 @@
             "analogue",
             "brivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058318.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00058318"
 }

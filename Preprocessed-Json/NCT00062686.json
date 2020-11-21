@@ -27,13 +27,14 @@
             "population"
       ],
       "condition": [
-            "neoplasm",
             "breast"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GW572016"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -232,14 +233,19 @@
             "inhibitor",
             "trastuzumab"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herceptin",
+            "refractory"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00062686"
 }

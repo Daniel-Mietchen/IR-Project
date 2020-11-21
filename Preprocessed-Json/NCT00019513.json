@@ -184,7 +184,17 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
+            "bile",
+            "duct",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -192,11 +202,14 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "gemcitabine hydrochloride",
+            "leucovorin calcium"
       ],
       "criteria": [
             "disease",
@@ -390,12 +403,30 @@
             "concurrent",
             "cimetidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019513.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "duct",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "dietary"
+      ],
+      "id": "NCT00019513"
 }

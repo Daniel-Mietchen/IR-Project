@@ -54,15 +54,12 @@
             "every",
             "week"
       ],
-      "condition": [
-            "anemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "epoetin",
-            "alfa"
+            "epoetin alfa"
       ],
       "criteria": [
             "inclusion",
@@ -86,12 +83,15 @@
             "men",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083486.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00083486"
 }

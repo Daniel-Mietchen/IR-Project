@@ -174,14 +174,20 @@
             "year"
       ],
       "condition": [
-            "lymphoma"
+            "central",
+            "nervous",
+            "system",
+            "tumor"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "mutation",
-            "analysis"
+            "chromosomal translocation analysis",
+            "gene rearrangement analysis",
+            "mutation analysis"
       ],
       "criteria": [
             "disease",
@@ -256,9 +262,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006342.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "ependymoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "disease"
+      ],
+      "id": "NCT00006342"
 }

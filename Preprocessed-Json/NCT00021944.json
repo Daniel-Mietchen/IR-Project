@@ -311,19 +311,30 @@
             "population"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "mellitus",
+            "mellitus",
+            "dependent",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021944.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00021944"
 }

@@ -296,7 +296,6 @@
             "outcome"
       ],
       "condition": [
-            "primary",
             "lateral",
             "sclerosis"
       ],
@@ -375,12 +374,20 @@
             "mri",
             "scan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015444.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "isaac",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "neuron",
+            "disease"
+      ],
+      "id": "NCT00015444"
 }

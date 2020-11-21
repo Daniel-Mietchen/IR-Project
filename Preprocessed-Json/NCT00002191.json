@@ -71,14 +71,14 @@
             "day"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "albendazole"
+            "Albendazole"
       ],
       "criteria": [
             "inclusion",
@@ -308,12 +308,20 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002191.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anthelmintic"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002191"
 }

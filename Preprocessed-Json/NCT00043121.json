@@ -140,29 +140,46 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "oxaliplatin",
+            "leucovorin calcium",
+            "fluorouracil",
+            "capecitabine",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -345,12 +362,13 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043121.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00043121"
 }

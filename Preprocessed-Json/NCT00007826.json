@@ -211,15 +211,17 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "alum",
-            "adjuvant"
+            "BCG vaccine",
+            "monoclonal antibody 105AD7 anti-idiotype vaccine",
+            "alum adjuvant"
       ],
       "criteria": [
             "disease",
@@ -357,12 +359,23 @@
             "anticancer",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007826.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal",
+            "vaccine",
+            "hydroxide",
+            "sulfate"
+      ],
+      "id": "NCT00007826"
 }

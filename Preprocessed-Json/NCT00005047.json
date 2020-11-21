@@ -276,15 +276,21 @@
             "year"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "methotrexate",
+            "vinblastine",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -587,9 +593,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005047.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005047"
 }

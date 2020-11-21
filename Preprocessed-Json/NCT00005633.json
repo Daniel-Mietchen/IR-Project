@@ -146,15 +146,19 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "OVA BiP peptide",
+            "gp209-2M antigen",
+            "recombinant 70-kD heat-shock protein",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -309,12 +313,17 @@
             "week",
             "immunization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005633.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005633"
 }

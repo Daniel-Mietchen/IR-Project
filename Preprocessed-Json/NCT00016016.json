@@ -179,23 +179,60 @@
             "dose"
       ],
       "condition": [
-            "untreated",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
             "adult",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "procedure"
+            "cytarabine",
+            "mitoxantrone hydrochloride",
+            "alvocidib",
+            "pharmacological study",
+            "laboratory procedure"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "flavopiridol",
+            "cytarabine",
+            "mitoxantrone",
+            "flavopiridol",
+            "cytarabine",
+            "mitoxantrone",
+            "flavopiridol",
+            "cytarabine",
+            "mitoxantrone",
+            "flavopiridol",
+            "cytarabine",
+            "mitoxantrone",
             "flavopiridol",
             "cytarabine",
             "mitoxantrone"
@@ -411,12 +448,20 @@
             "nurse",
             "infant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016016.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00016016"
 }

@@ -193,18 +193,33 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
-            "candida",
-            "albicans",
-            "skin",
-            "test",
-            "reagent"
+            "MART-1 antigen",
+            "aldesleukin",
+            "gp100 antigen",
+            "recombinant CD40-ligand",
+            "recombinant interferon gamma",
+            "recombinant interleukin-4",
+            "sargramostim",
+            "therapeutic autologous dendritic cells",
+            "therapeutic tumor infiltrating lymphocytes",
+            "tyrosinase peptide",
+            "Candida albicans skin test reagent"
       ],
       "criteria": [
             "disease",
@@ -385,12 +400,17 @@
             "therapy",
             "melanoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006113.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006113"
 }

@@ -171,18 +171,43 @@
             "within",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "daunorubicin",
-            "hydrochloride"
+            "filgrastim",
+            "sargramostim",
+            "cytarabine",
+            "daunorubicin hydrochloride"
       ],
       "description": [
-            "ind",
+            "5",
+            "iv",
+            "sc",
+            "start",
+            "apx",
+            "day",
+            "15",
+            "250",
+            "iv",
+            "sc",
+            "start",
+            "apx",
+            "day",
+            "1",
+            "200",
+            "continuous",
+            "iv",
+            "day",
+            "consol",
+            "200",
+            "continuous",
+            "iv",
+            "day",
             "consol",
             "45",
             "continuous",
@@ -334,12 +359,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "56",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023777.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00023777"
 }

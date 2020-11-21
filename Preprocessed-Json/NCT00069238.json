@@ -404,17 +404,30 @@
             "day"
       ],
       "condition": [
-            "lymphoma",
             "extranodal"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "epoch"
+            "Alemtuzumab (Campath)",
+            "EPOCH"
       ],
       "description": [
+            "campath",
+            "follow",
             "etoposide",
+            "prednisone",
+            "vincristine",
+            "cyclophosphamide",
+            "doxorubicin",
+            "epoch",
+            "every",
+            "3",
+            "week",
+            "6",
+            "cycle",
             "prednisone",
             "vincristine",
             "cyclophosphamide",
@@ -429,7 +442,8 @@
             "cycle"
       ],
       "arm_group_label": [
-            "alemtuzumab",
+            "dose",
+            "escalation",
             "dose",
             "escalation"
       ],
@@ -634,12 +648,19 @@
             "treatment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069238.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nk",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "extranodal"
+      ],
+      "id": "NCT00069238"
 }

@@ -99,14 +99,13 @@
             "session"
       ],
       "condition": [
-            "age"
+            "disorder"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "exercise",
-            "pole"
+            "Exercise poles"
       ],
       "criteria": [
             "inclusion",
@@ -125,8 +124,6 @@
             "personal",
             "physician",
             "height",
-            "6",
-            "2",
             "weight",
             "200",
             "lb",
@@ -140,7 +137,7 @@
             "cognitive",
             "impairment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -149,6 +146,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037167.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "frail",
+            "elderly"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00037167"
 }

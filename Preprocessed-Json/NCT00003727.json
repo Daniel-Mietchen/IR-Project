@@ -292,18 +292,32 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "recombinant interferon alfa",
+            "sargramostim",
+            "therapeutic autologous lymphocytes",
+            "carmustine",
+            "cyclophosphamide",
+            "etoposide",
+            "gemcitabine hydrochloride",
+            "melphalan",
+            "bone marrow ablation with stem cell support",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -549,9 +563,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00003727"
 }

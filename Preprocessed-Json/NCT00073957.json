@@ -209,17 +209,20 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "ibritumomab",
-            "tiuxetan"
+            "rituximab",
+            "cytarabine",
+            "liposomal cytarabine",
+            "methotrexate",
+            "yttrium Y 90 ibritumomab tiuxetan"
       ],
       "criteria": [
             "disease",
@@ -517,12 +520,21 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073957.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00073957"
 }

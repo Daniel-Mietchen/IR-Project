@@ -119,17 +119,15 @@
             "year"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temozolomide"
       ],
       "description": [
-            "administer",
             "fast",
             "state",
             "day",
@@ -157,12 +155,8 @@
             "daily",
             "dose"
       ],
-      "arm_group_label": [
-            "temozolomide"
-      ],
-      "other_name": [
-            "temodal"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -615,12 +609,20 @@
             "systemic",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012116.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00012116"
 }

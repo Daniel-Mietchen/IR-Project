@@ -339,14 +339,16 @@
             "genotype"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "infarction",
             "accident"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -355,6 +357,11 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005332.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction"
+      ],
+      "id": "NCT00005332"
 }

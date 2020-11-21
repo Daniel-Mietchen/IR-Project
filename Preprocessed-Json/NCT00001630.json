@@ -329,13 +329,15 @@
             "approach"
       ],
       "condition": [
-            "thrombocytopenia"
+            "disease",
+            "hemolytic",
+            "anemia"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "isolex"
+            "Isolex 300i"
       ],
       "criteria": [
             "inclusion",
@@ -528,7 +530,7 @@
             "study",
             "integrity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -537,6 +539,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001630.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "episodic",
+            "bleed"
+      ],
+      "mesh_term": [
+            "disease",
+            "hemolytic",
+            "hemolytic",
+            "autoimmune",
+            "thrombocytopenic",
+            "idiopathic"
+      ],
+      "id": "NCT00001630"
 }

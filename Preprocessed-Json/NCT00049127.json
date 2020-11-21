@@ -215,28 +215,56 @@
             "death"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "oligodendroglioma",
+            "mix",
+            "glioma",
+            "oligodendroglioma",
             "adult",
             "brain",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "Imatinib Mesylate",
+            "Laboratory Biomarker Analysis",
+            "Pharmacological Study"
       ],
       "description": [
-            "optional",
+            "po",
+            "correlative",
+            "study",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "phase",
+            "ii",
+            "group",
+            "1",
+            "ii",
+            "group",
+            "2",
+            "ii",
+            "group",
+            "1",
+            "ii",
+            "group",
+            "2",
+            "ii",
+            "group",
+            "1",
             "ii",
             "group",
             "2"
       ],
-      "other_name": [],
+      "other_name": [
+            "57148",
+            "571"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -719,12 +747,16 @@
             "intratumoral",
             "hemorrhage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049127.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00049127"
 }

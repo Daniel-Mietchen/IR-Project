@@ -173,30 +173,62 @@
       "condition": [
             "salivary",
             "gland",
+            "carcinoma",
+            "salivary",
+            "gland",
+            "mucoepidermoid",
+            "carcinoma",
+            "salivary",
+            "gland",
+            "carcinoma",
+            "salivary",
+            "gland",
+            "mucoepidermoid",
+            "carcinoma",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "oral",
+            "cavity",
+            "salivary",
+            "gland",
+            "cancer",
+            "gland",
+            "acinic",
+            "cell",
+            "tumor",
+            "gland",
+            "adenocarcinoma",
+            "gland",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "gland",
             "malignant",
             "mix",
             "cell",
             "type",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "lapatinib ditosylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "lapatinib",
+            "ditosylate",
             "lapatinib",
             "ditosylate"
       ],
-      "other_name": [
-            "tykerb"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -805,12 +837,21 @@
             "inducer",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095563.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "gland",
+            "neoplasm",
+            "adenoid",
+            "cystic",
+            "mucoepidermoid",
+            "acinar",
+            "cell"
+      ],
+      "id": "NCT00095563"
 }

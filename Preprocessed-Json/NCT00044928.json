@@ -18,13 +18,14 @@
             "infection"
       ],
       "condition": [
-            "bacterial",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Piperacillin/Tazobactam"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -135,12 +136,25 @@
             "plasmapheresis",
             "hemoperfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044928.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abdominal",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "tazobactam",
+            "drug",
+            "combination",
+            "acid"
+      ],
+      "id": "NCT00044928"
 }

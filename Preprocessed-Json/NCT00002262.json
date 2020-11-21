@@ -49,16 +49,14 @@
             "spectroscopy"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tumor",
-            "necrosis",
-            "factor"
+            "Tumor Necrosis Factor"
       ],
       "criteria": [
             "inclusion",
@@ -146,9 +144,7 @@
             "radiotherapy",
             "immunotherapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -157,6 +153,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002262.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "neoplasm"
+      ],
+      "id": "NCT00002262"
 }

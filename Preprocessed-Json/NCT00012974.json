@@ -165,22 +165,19 @@
             "treatment"
       ],
       "condition": [
+            "failure",
             "treatment"
       ],
       "intervention_type": [
-            "procedure"
+            "Behavioral",
+            "Procedure"
       ],
       "intervention_name": [
-            "provider",
-            "education",
-            "computer",
-            "reminder",
-            "nurse",
-            "case",
-            "management"
+            "GTelephone-administered Cognitive-Behavioral Therapy (T-CBT)",
+            "Provider education, computer reminders, nurse case management"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "1"
       ],
       "criteria": [
@@ -205,12 +202,15 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012974.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00012974"
 }

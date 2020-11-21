@@ -160,7 +160,6 @@
             "day",
             "2",
             "arm",
-            "ii",
             "patient",
             "receive",
             "docetaxel",
@@ -212,14 +211,50 @@
             "year"
       ],
       "condition": [
-            "neutropenia"
+            "toxicity",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "darbepoetin alfa",
+            "pegfilgrastim",
+            "cisplatin",
+            "docetaxel",
+            "BNP7787"
+      ],
       "description": [
-            "40",
+            "mcg",
+            "sub",
+            "q",
+            "day",
+            "1",
+            "cycle",
+            "hgb",
+            "11",
+            "mg",
+            "sub",
+            "q",
+            "day",
+            "2",
+            "cycle",
+            "iv",
+            "1",
+            "hr",
+            "day",
+            "1",
+            "cycle",
+            "iv",
+            "1",
+            "hr",
+            "day",
+            "1",
+            "cycle",
             "g",
             "iv",
             "30",
@@ -229,14 +264,16 @@
             "cycle"
       ],
       "arm_group_label": [
-            "chemotherapy"
+            "without",
+            "without",
+            "without",
+            "without"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
             "cytologically",
-            "confirm",
             "cell",
             "lung",
             "cancer",
@@ -269,7 +306,6 @@
             "otherwise",
             "specify",
             "note",
-            "histologic",
             "cytologic",
             "confirmation",
             "recurrence",
@@ -433,7 +469,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -442,6 +478,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077311.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "alfa"
+      ],
+      "id": "NCT00077311"
 }

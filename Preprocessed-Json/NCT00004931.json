@@ -155,23 +155,35 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "ii",
+            "colon",
+            "cancer",
             "iii",
             "colon",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "leucovorin calcium",
+            "fluorouracil",
+            "oxaliplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [],
@@ -605,9 +617,13 @@
             "neuromotor",
             "toxicity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004931.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "dietary"
+      ],
+      "id": "NCT00004931"
 }

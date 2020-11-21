@@ -123,24 +123,37 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oxaliplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oxaliplatin",
             "oxaliplatin"
       ],
       "other_name": [],
@@ -395,12 +408,16 @@
             "interstitial",
             "process"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052364.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00052364"
 }

@@ -125,7 +125,9 @@
             "protocol"
       ],
       "condition": [
-            "lymphoma"
+            "cancer",
+            "cancer",
+            "cancer"
       ],
       "criteria": [
             "eligibility",
@@ -163,7 +165,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -172,6 +174,7 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001503.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "id": "NCT00001503"
 }

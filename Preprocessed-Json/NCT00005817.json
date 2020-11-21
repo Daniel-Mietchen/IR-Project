@@ -137,27 +137,43 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "becatecarin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "becatecarin",
+            "ii",
+            "becatecarin",
+            "becatecarin",
             "ii",
             "becatecarin"
       ],
-      "other_name": [],
+      "other_name": [
+            "analogue",
+            "analogue",
+            "tartrate",
+            "salt"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -649,12 +665,17 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005817.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00005817"
 }

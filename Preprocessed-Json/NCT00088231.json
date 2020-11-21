@@ -176,19 +176,37 @@
             "population"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myeloid",
+            "metaplasia",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ptk",
-            "787",
-            "vatalanib"
+            "Imatinib Mesylate (Gleevec)",
+            "PTK 787 (vatalanib)"
       ],
       "description": [
+            "mg",
+            "mouth",
+            "every",
+            "day",
+            "aml",
+            "28",
+            "day",
+            "mg",
+            "mouth",
+            "every",
+            "day",
+            "amm",
+            "28",
+            "day",
+            "cycle",
             "1",
             "week",
             "prior",
@@ -213,8 +231,6 @@
             "stabilization",
             "ptk",
             "787",
-            "level",
-            "start",
             "dose",
             "250",
             "mg",
@@ -226,14 +242,15 @@
             "cycle"
       ],
       "arm_group_label": [
-            "ptk",
+            "787",
+            "imatinib",
+            "787",
+            "imatinib",
             "787",
             "vatalanib",
             "alone"
       ],
-      "other_name": [
-            "vatalanib"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -745,12 +762,27 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "phase"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "acute",
+            "myelofibrosis",
+            "mesylate"
+      ],
+      "id": "NCT00088231"
 }

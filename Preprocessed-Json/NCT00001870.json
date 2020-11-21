@@ -386,13 +386,15 @@
             "resistance"
       ],
       "condition": [
+            "mellitus",
+            "dependent",
             "dependent"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "acetylcholine"
+            "Acetylcholine"
       ],
       "criteria": [
             "inclusion",
@@ -524,9 +526,21 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001870.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vitamin",
+            "c",
+            "deficiency"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "acid"
+      ],
+      "id": "NCT00001870"
 }

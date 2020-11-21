@@ -23,15 +23,13 @@
             "cancer"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rhumab",
-            "pertuzumab"
+            "rhuMAb 2C4 (pertuzumab)"
       ],
       "criteria": [
             "inclusion",
@@ -458,14 +456,15 @@
             "treatment",
             "complication"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058539.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058539"
 }

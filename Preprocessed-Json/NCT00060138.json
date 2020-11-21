@@ -232,14 +232,17 @@
             "study"
       ],
       "condition": [
-            "pain"
+            "cancer",
+            "malignancy",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "monoclonal antibody CAL",
+            "zoledronic acid"
       ],
       "criteria": [
             "disease",
@@ -437,14 +440,22 @@
             "screen",
             "period"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "syndrome",
+            "monoclonal",
+            "acid"
+      ],
+      "id": "NCT00060138"
 }

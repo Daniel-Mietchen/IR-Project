@@ -167,15 +167,16 @@
             "record"
       ],
       "condition": [
-            "menopause"
+            "disease",
+            "failure",
+            "congestive",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hormone",
-            "replacement",
-            "therapy"
+            "Hormone Replacement Therapy"
       ],
       "criteria": [
             "postmenopausal",
@@ -193,14 +194,17 @@
             "dilate",
             "cardiomyopathy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041431.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00041431"
 }

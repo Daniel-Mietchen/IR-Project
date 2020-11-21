@@ -212,29 +212,49 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "carboxyamidotriazole",
+            "placebo",
+            "quality-of-life assessment",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "cai",
+            "ii",
+            "placebo",
+            "cai",
+            "ii",
+            "placebo",
+            "cai",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "quality",
             "life",
             "assessment"
       ],
@@ -557,12 +577,16 @@
             "immunotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003869.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003869"
 }

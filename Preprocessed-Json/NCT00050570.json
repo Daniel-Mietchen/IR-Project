@@ -115,19 +115,13 @@
             "year"
       ],
       "condition": [
-            "eat",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "intervention",
-            "reduce",
-            "eat",
-            "disorder",
-            "risk",
-            "factor"
+            "Web-based intervention to reduce eating disorder risk factors"
       ],
       "criteria": [
             "inclusion",
@@ -167,9 +161,7 @@
             "6",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -178,6 +170,10 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050570.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "eat",
+            "disorder"
+      ],
+      "id": "NCT00050570"
 }

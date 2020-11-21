@@ -156,16 +156,18 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "therapeutic thoracoscopy",
+            "video-assisted surgery"
       ],
       "arm_group_label": [
+            "surgery",
             "surgery"
       ],
       "criteria": [
@@ -236,9 +238,20 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003692.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "0",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003692"
 }

@@ -336,13 +336,15 @@
             "therapy"
       ],
       "condition": [
-            "lipodystrophy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fenofibrate"
+            "Pravastatin sodium",
+            "Fenofibrate"
       ],
       "criteria": [
             "inclusion",
@@ -636,12 +638,19 @@
             "exclusion",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006412.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antilipemic",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006412"
 }

@@ -193,15 +193,28 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Soy protein isolate",
+            "Placebo"
       ],
       "description": [
-            "arm",
+            "patient",
+            "receive",
+            "oral",
+            "soy",
+            "protein",
+            "isolate",
+            "twice",
+            "daily",
+            "oral",
+            "multivitamin",
+            "daily",
             "ii",
             "patient",
             "receive",
@@ -214,11 +227,10 @@
             "daily"
       ],
       "arm_group_label": [
-            "placebo"
+            "protein",
+            "isolate"
       ],
-      "other_name": [
-            "isoflavones"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -365,14 +377,21 @@
             "supplement",
             "isoflavones"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00036686"
 }

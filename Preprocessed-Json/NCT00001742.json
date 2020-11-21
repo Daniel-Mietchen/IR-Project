@@ -247,9 +247,7 @@
             "gauge",
             "plethysmography"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "men",
@@ -287,9 +285,13 @@
             "consent",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001742.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hypertension"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001742"
 }

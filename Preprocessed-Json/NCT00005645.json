@@ -119,15 +119,20 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ILX-295501"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -367,14 +372,25 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00005645"
 }

@@ -61,17 +61,37 @@
             "individual"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine",
-            "xeloda"
+            "5-Fluorouracil",
+            "Leucovorin",
+            "Capecitabine [Xeloda]"
       ],
       "description": [
+            "iv",
+            "daily",
+            "day",
+            "1",
+            "day",
+            "5",
+            "every",
+            "28",
+            "day",
+            "iv",
+            "daily",
+            "day",
+            "1",
+            "day",
+            "5",
+            "every",
+            "28",
+            "day",
             "po",
             "bid",
             "day",
@@ -80,7 +100,8 @@
             "day"
       ],
       "arm_group_label": [
-            "capecitabine"
+            "leucovorin",
+            "leucovorin"
       ],
       "criteria": [
             "inclusion",
@@ -107,7 +128,7 @@
             "previous",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -116,6 +137,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009737.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00009737"
 }

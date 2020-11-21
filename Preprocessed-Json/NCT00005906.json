@@ -205,16 +205,15 @@
             "day"
       ],
       "condition": [
-            "ascites"
+            "effusion"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "octreotide"
+            "Octreotide"
       ],
       "description": [
-            "treatment",
             "octreotide",
             "start",
             "dose",
@@ -248,9 +247,7 @@
             "twice",
             "day"
       ],
-      "arm_group_label": [
-            "octreotide"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -345,9 +342,7 @@
             "immunosuppressed",
             "patient"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -356,6 +351,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005906.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphangioleiomyomatosis",
+            "lam"
+      ],
+      "mesh_term": [
+            "effusion"
+      ],
+      "id": "NCT00005906"
 }

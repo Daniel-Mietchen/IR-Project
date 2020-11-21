@@ -230,18 +230,23 @@
             "thereafter"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "iodine I 125",
+            "palladium Pd 103",
+            "radiation therapy"
       ],
       "description": [
-            "give",
+            "interstitial",
+            "seed",
+            "interstitial",
+            "seed",
             "external",
             "beam",
             "radiation",
@@ -250,7 +255,8 @@
             "week"
       ],
       "arm_group_label": [
-            "arm"
+            "ii",
+            "ii"
       ],
       "criteria": [
             "disease",
@@ -404,9 +410,7 @@
             "thermotherapy",
             "prostate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -415,6 +419,13 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063882.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00063882"
 }

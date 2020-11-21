@@ -183,7 +183,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -191,13 +190,18 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "coagulation study",
+            "immunoenzyme technique",
+            "laboratory biomarker analysis",
+            "physiologic testing",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -217,7 +221,6 @@
             "protocol",
             "healthy",
             "control",
-            "participant",
             "meet",
             "follow",
             "criterion",
@@ -294,12 +297,21 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096590.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00096590"
 }

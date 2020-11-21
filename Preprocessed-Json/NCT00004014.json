@@ -112,20 +112,15 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "description": [
-            "doxorubicin",
             "hcl",
             "liposome",
             "iv",
@@ -309,11 +304,18 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004014.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00004014"
 }

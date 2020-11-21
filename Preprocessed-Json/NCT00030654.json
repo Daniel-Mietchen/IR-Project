@@ -449,18 +449,82 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine",
-            "sulfate"
+            "bicalutamide",
+            "docetaxel",
+            "doxorubicin hydrochloride",
+            "estramustine phosphate sodium",
+            "flutamide",
+            "ketoconazole",
+            "paclitaxel",
+            "releasing hormone agonist therapy",
+            "vinblastine sulfate"
       ],
       "arm_group_label": [
-            "androgen",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
+            "blockade",
+            "delay",
+            "chemotherapy",
+            "blockade",
+            "immediate",
+            "chemotherapy",
             "blockade",
             "delay",
             "chemotherapy"
@@ -675,9 +739,7 @@
             "randomization",
             "allow"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -686,6 +748,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030654.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00030654"
 }

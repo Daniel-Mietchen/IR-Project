@@ -128,18 +128,22 @@
             "close"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "aldesleukin",
+            "muromonab-CD3",
+            "therapeutic tumor infiltrating lymphocytes",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -287,12 +291,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002572.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002572"
 }

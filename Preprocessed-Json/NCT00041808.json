@@ -87,13 +87,23 @@
             "liver"
       ],
       "condition": [
-            "cholangiocarcinoma"
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "chemotherapy"
+            "MTC-DOX for Injection",
+            "Chemotherapy"
       ],
       "criteria": [
             "inclusion",
@@ -295,7 +305,7 @@
             "scan",
             "echocardiogram"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -304,6 +314,23 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041808.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00041808"
 }

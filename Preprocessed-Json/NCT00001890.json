@@ -207,14 +207,15 @@
             "atherogenesis"
       ],
       "condition": [
-            "postmenopause"
+            "infection",
+            "infection",
+            "bacterial"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "estrogen",
-            "therapy"
+            "Estrogen therapy"
       ],
       "criteria": [
             "must",
@@ -345,11 +346,18 @@
             "greater",
             "400"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "postmenopause"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "bacterial"
+      ],
+      "id": "NCT00001890"
 }

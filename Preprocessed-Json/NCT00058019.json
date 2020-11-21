@@ -106,27 +106,45 @@
             "progression"
       ],
       "condition": [
-            "recurrent",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
             "mantle",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ixabepilone"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "chemotherapy"
       ],
       "other_name": [
-            "ixempra"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -426,12 +444,20 @@
             "hypericum",
             "perforatum"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058019.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "large",
+            "diffuse",
+            "lymphoma",
+            "anaplastic",
+            "b"
+      ],
+      "id": "NCT00058019"
 }

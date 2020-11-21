@@ -232,7 +232,8 @@
             "disease"
       ],
       "condition": [
-            "arthritis",
+            "disease",
+            "disease",
             "rheumatoid"
       ],
       "study_pop": [],
@@ -243,12 +244,17 @@
             "criterion",
             "ra"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037336.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "rheumatoid"
+      ],
+      "id": "NCT00037336"
 }

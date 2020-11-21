@@ -567,23 +567,20 @@
             "limit"
       ],
       "condition": [
-            "adrenal",
             "cortex",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tariquidar"
+            "XR9576 (Tariquidar)"
       ],
       "arm_group_label": [
-            "surgery",
             "plus",
             "chemotherapy"
       ],
       "other_name": [
-            "150",
             "mg",
             "tariquidar",
             "central",
@@ -918,12 +915,23 @@
             "systolic",
             "dysfunction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071058.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adrenocortical",
+            "tumor"
+      ],
+      "mesh_term": [
+            "cortex",
+            "neoplasm",
+            "carcinoma",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00071058"
 }

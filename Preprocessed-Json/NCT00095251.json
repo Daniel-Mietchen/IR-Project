@@ -251,17 +251,38 @@
             "safety",
             "monitor"
       ],
-      "condition": [
-            "delirium"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lorazepam"
+            "Dexmedetomidine",
+            "Lorazepam"
       ],
       "description": [
-            "patient",
+            "bolus",
+            "dose",
+            "1",
+            "infuse",
+            "10",
+            "minute",
+            "follow",
+            "infusion",
+            "start",
+            "dexmedetomidine",
+            "titrate",
+            "every",
+            "10",
+            "minute",
+            "achieve",
+            "set",
+            "target",
+            "ras",
+            "score",
+            "maximum",
+            "dexmedetomidine",
+            "infusion",
             "lorazepam",
             "arm",
             "receive",
@@ -289,7 +310,7 @@
             "mg"
       ],
       "arm_group_label": [
-            "lorazepam",
+            "group",
             "group"
       ],
       "criteria": [
@@ -483,12 +504,19 @@
             "time",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095251.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cognitive",
+            "impairment"
+      ],
+      "mesh_term": [
+            "acid"
+      ],
+      "id": "NCT00095251"
 }

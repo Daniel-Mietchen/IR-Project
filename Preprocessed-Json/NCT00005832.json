@@ -103,13 +103,14 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "R115777"
+      ],
       "description": [
             "bid",
             "po",
@@ -117,9 +118,7 @@
             "q"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "tipifarnib"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -346,12 +345,21 @@
             "pancreatic",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005832.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005832"
 }

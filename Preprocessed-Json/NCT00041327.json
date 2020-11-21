@@ -207,23 +207,59 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "recombinant interferon alfa",
+            "Etoposide",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "lamivudine",
+            "prednisone",
+            "vincristine sulfate",
             "zidovudine"
       ],
       "description": [
-            "300",
+            "mu",
+            "subcutaneously",
+            "per",
+            "day",
+            "one",
+            "year",
+            "continuous",
+            "96",
+            "hr",
+            "infusion",
+            "day",
+            "iv",
+            "day",
+            "5",
+            "continuous",
+            "infusion",
+            "day",
+            "mg",
+            "bid",
+            "give",
+            "orally",
+            "day",
+            "continuous",
+            "infusion",
+            "day",
             "mg",
             "bid"
       ],
-      "other_name": [
-            "azt"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -265,7 +301,6 @@
             "count",
             "greater",
             "note",
-            "unless",
             "cytopenia",
             "secondary",
             "atll",
@@ -383,7 +418,7 @@
             "study",
             "initiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -392,6 +427,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041327.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult"
+      ],
+      "mesh_term": [
+            "adult",
+            "doxorubicin"
+      ],
+      "id": "NCT00041327"
 }

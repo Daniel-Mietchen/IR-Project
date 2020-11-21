@@ -180,20 +180,25 @@
             "record"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "apnea",
+            "syndrome"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005525.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005525"
 }

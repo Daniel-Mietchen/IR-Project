@@ -359,7 +359,9 @@
             "glucose"
       ],
       "condition": [
-            "lymphoma"
+            "myeloid",
+            "leukemia",
+            "neoplasm"
       ],
       "criteria": [
             "inclusion",
@@ -754,9 +756,19 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001432.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stem",
+            "cell"
+      ],
+      "mesh_term": [
+            "myelogenous",
+            "chronic",
+            "positive",
+            "neoplasm"
+      ],
+      "id": "NCT00001432"
 }

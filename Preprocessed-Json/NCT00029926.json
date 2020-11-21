@@ -391,12 +391,14 @@
             "activity"
       ],
       "condition": [
-            "systemic"
+            "erythematosus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "2-deoxy-2 [F-18] fluoro-2-d-glucose"
+      ],
       "criteria": [
             "subject",
             "must",
@@ -564,9 +566,16 @@
             "study",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029926.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sle"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00029926"
 }

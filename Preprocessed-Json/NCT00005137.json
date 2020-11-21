@@ -299,16 +299,19 @@
             "data"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "mellitus",
+            "dependent",
             "mellitus"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "exercise",
-            "program"
+            "exercise program"
       ],
       "description": [
-            "subject",
             "measure",
             "long",
             "exercise",
@@ -319,9 +322,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005137.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00005137"
 }

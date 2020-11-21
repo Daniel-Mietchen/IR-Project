@@ -199,30 +199,45 @@
             "progression"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "triapine",
+            "irinotecan hydrochloride",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "triapine",
+            "irinotecan",
+            "hydrochloride",
+            "triapine",
+            "irinotecan",
+            "hydrochloride",
+            "triapine",
+            "irinotecan",
+            "hydrochloride",
             "triapine",
             "irinotecan",
             "hydrochloride"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -589,12 +604,13 @@
             "genotype",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084877.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00084877"
 }

@@ -144,14 +144,14 @@
             "cohort"
       ],
       "condition": [
-            "chickenpox"
+            "simplex",
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valacyclovir",
-            "hydrochloride"
+            "Valacyclovir hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -318,7 +318,7 @@
             "varicella",
             "lesion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -327,6 +327,14 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001054.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chickenpox"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "simplex"
+      ],
+      "id": "NCT00001054"
 }

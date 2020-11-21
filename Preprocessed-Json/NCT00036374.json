@@ -135,15 +135,14 @@
             "year"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis",
             "juvenile"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab"
+            "Infliximab"
       ],
       "criteria": [
             "inclusion",
@@ -289,7 +288,7 @@
             "parvovirus",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -298,6 +297,13 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036374.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "remicade"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "juvenile"
+      ],
+      "id": "NCT00036374"
 }

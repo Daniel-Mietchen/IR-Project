@@ -239,16 +239,13 @@
             "link"
       ],
       "condition": [
-            "hypothermia"
+            "injury"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "hypothermia",
-            "body",
-            "temperature",
-            "lower"
+            "hypothermia (body temperature lowered to 33\u00b0C or 91.4\u00b0F)"
       ],
       "criteria": [
             "eligibility",
@@ -464,7 +461,7 @@
             "condition",
             "know"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -473,6 +470,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040339.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "body",
+            "temperature"
+      ],
+      "mesh_term": [
+            "injury",
+            "injury"
+      ],
+      "id": "NCT00040339"
 }

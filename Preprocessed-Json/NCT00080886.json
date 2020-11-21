@@ -222,21 +222,32 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "rituximab",
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "melphalan",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
             "1"
       ],
       "criteria": [
@@ -289,7 +300,6 @@
             "count",
             "hemoglobin",
             "note",
-            "unless",
             "due",
             "lymphomatous",
             "involvement",
@@ -335,12 +345,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080886.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00080886"
 }

@@ -335,7 +335,30 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "ivb",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iib",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iic",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iva",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iii",
             "adult",
             "soft",
@@ -343,12 +366,12 @@
             "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tumor",
-            "necrosis",
-            "factor"
+            "melphalan",
+            "tumor necrosis factor"
       ],
       "criteria": [
             "protocol",
@@ -522,11 +545,19 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019968.xml"
+      "keyword": [
+            "stage",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00019968"
 }

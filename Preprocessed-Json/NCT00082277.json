@@ -64,22 +64,21 @@
             "fracture"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "risedronate",
-            "sodium"
+            "Anastrozole",
+            "Risedronate Sodium"
       ],
       "description": [
+            "oral",
             "oral"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -122,14 +121,21 @@
             "malabsorption",
             "syndrome"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082277.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "loss"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "sodium",
+            "acid"
+      ],
+      "id": "NCT00082277"
 }

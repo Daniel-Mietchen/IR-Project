@@ -482,7 +482,9 @@
             "nih"
       ],
       "condition": [
-            "hiv",
+            "associate",
+            "nephropathy",
+            "glomerulosclerosis",
             "infection"
       ],
       "criteria": [
@@ -1055,12 +1057,21 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001392.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rituximab"
+      ],
+      "mesh_term": [
+            "infection",
+            "nephropathy",
+            "focal",
+            "segmental"
+      ],
+      "id": "NCT00001392"
 }

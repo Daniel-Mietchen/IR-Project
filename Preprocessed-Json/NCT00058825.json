@@ -277,18 +277,51 @@
             "vein"
       ],
       "condition": [
-            "hematologic",
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "tacrolimus",
-            "cyclosporine"
+            "Campath 1H",
+            "Fludarabine",
+            "Stem Cell Transplant",
+            "Total Body Irradiation (TBI)",
+            "FK506 (Tacrolimus) or Cyclosporine"
       ],
       "description": [
             "day",
+            "campath",
+            "dose",
+            "schedule",
+            "per",
+            "institutional",
+            "sop",
+            "day",
+            "fludarabine",
+            "30",
+            "0",
+            "donor",
+            "stem",
+            "cell",
+            "infuse",
+            "total",
+            "body",
+            "irradiation",
+            "600",
+            "cgy",
+            "two",
+            "dose",
+            "without",
+            "block",
+            "rate",
+            "le",
+            "equal",
+            "10",
             "cyclosporine",
             "medically",
             "indicate",
@@ -296,7 +329,14 @@
             "gvhd"
       ],
       "arm_group_label": [
-            "stem",
+            "cell",
+            "transplant",
+            "cell",
+            "transplant",
+            "cell",
+            "transplant",
+            "cell",
+            "transplant",
             "cell",
             "transplant"
       ],
@@ -646,12 +686,21 @@
             "hematological",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058825.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stem",
+            "cell",
+            "transplant"
+      ],
+      "mesh_term": [
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00058825"
 }

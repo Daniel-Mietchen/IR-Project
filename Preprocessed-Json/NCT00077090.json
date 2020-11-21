@@ -144,15 +144,15 @@
             "study"
       ],
       "condition": [
-            "radiation",
+            "cancer",
+            "complication",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hyperbaric",
-            "oxygen"
+            "hyperbaric oxygen"
       ],
       "criteria": [
             "disease",
@@ -282,12 +282,23 @@
             "decompression",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077090.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "complication",
+            "pneumonitis"
+      ],
+      "id": "NCT00077090"
 }

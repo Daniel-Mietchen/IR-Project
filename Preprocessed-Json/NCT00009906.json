@@ -153,23 +153,21 @@
             "month"
       ],
       "condition": [
-            "gastrointestinal",
             "stromal",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "Imatinib Mesylate"
       ],
       "description": [
-            "give",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "imatinib",
+            "mesylate",
             "ii",
             "imatinib",
             "mesylate"
@@ -466,12 +464,17 @@
             "treatment",
             "option"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009906.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor",
+            "mesylate"
+      ],
+      "id": "NCT00009906"
 }

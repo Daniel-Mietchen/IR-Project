@@ -130,19 +130,17 @@
             "complete"
       ],
       "condition": [
-            "emphysema"
+            "obstructive",
+            "pulmonary",
+            "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "effectiveness",
-            "lung",
-            "reduction",
-            "therapy"
+            "Effectiveness of Lung Reduction Therapy"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -179,14 +177,20 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00013156.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00013156"
 }

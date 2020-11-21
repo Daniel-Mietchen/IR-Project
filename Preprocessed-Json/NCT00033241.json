@@ -210,7 +210,7 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -218,11 +218,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "erlotinib hydrochloride",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -636,12 +637,22 @@
             "kinase",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033241.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00033241"
 }

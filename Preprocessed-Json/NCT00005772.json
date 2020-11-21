@@ -287,23 +287,41 @@
             "age"
       ],
       "condition": [
+            "newborn",
             "brain"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "control"
+            "Induced hypothermia",
+            "Control"
       ],
       "description": [
+            "cool",
+            "use",
+            "blanketrol",
+            "ii",
+            "iii",
+            "unit",
+            "automatic",
             "control",
+            "mode",
+            "ysi",
+            "400",
+            "series",
+            "temperature",
+            "probe",
+            "place",
+            "distal",
+            "esophagus",
+            "period",
             "group",
             "standard",
             "care"
       ],
-      "arm_group_label": [
-            "normothermic"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -394,12 +412,20 @@
             "refuse",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005772.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "perinatal",
+            "asphyxia"
+      ],
+      "mesh_term": [
+            "ischemia",
+            "brain"
+      ],
+      "id": "NCT00005772"
 }

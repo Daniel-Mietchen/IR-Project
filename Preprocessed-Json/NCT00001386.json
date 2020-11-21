@@ -127,15 +127,17 @@
             "combination"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pclus",
-            "mn"
+            "PCLUS 3-18 MN",
+            "PCLUS 6.1 MN"
       ],
       "criteria": [
             "patient",
@@ -405,9 +407,22 @@
             "requirement",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001386.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "helper",
+            "cell"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00001386"
 }

@@ -369,18 +369,20 @@
             "concentration"
       ],
       "condition": [
+            "stage",
             "renal",
+            "disease",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "PAL-40 Active",
+            "PAL-40 Placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -432,12 +434,21 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032435.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "homoc"
+      ],
+      "mesh_term": [
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency"
+      ],
+      "id": "NCT00032435"
 }

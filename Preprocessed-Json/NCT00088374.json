@@ -408,17 +408,68 @@
             "patient"
       ],
       "condition": [
-            "kidney",
+            "disease",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epl",
-            "diluent"
+            "17 allylamino-17-demethoxygeldanamycin",
+            "18 FDG (Fludeoxyglucose 18F)",
+            "[15-O] H2O",
+            "EPL diluent"
       ],
       "description": [
+            "17",
+            "aag",
+            "give",
+            "intravenously",
+            "dose",
+            "300",
+            "day",
+            "15",
+            "28",
+            "day",
+            "cycle",
+            "pet",
+            "perform",
+            "baseline",
+            "12",
+            "week",
+            "treatment",
+            "timepoint",
+            "participant",
+            "receive",
+            "water",
+            "15",
+            "mci",
+            "perform",
+            "baseline",
+            "12",
+            "week",
+            "treatment",
+            "time",
+            "point",
+            "participant",
+            "receive",
+            "water",
+            "15",
+            "mci",
+            "water",
+            "scan",
+            "do",
+            "several",
+            "intravenous",
+            "injection",
+            "several",
+            "scan",
+            "total",
+            "250",
+            "mci",
             "formulate",
             "diluent",
             "supply",
@@ -447,14 +498,26 @@
             "agent"
       ],
       "arm_group_label": [
-            "von",
+            "vhl",
+            "associate",
+            "renal",
+            "tumor",
+            "vhl",
+            "associate",
+            "renal",
+            "tumor",
+            "vhl",
+            "associate",
+            "renal",
+            "tumor",
             "vhl",
             "associate",
             "renal",
             "tumor"
       ],
       "other_name": [
-            "egg",
+            "aag",
+            "scan",
             "phospholipid"
       ],
       "criteria": [
@@ -947,12 +1010,22 @@
             "cardiac",
             "symptom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088374.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00088374"
 }

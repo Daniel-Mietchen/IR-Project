@@ -54,23 +54,23 @@
             "visit"
       ],
       "condition": [
-            "ocular",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "azopt",
-            "brinzolamide"
+            "BETAXON (levobetaxolol HCl)",
+            "AZOPT (brinzolamide)"
       ],
       "description": [
-            "brinzolamide",
+            "suspension",
             "suspension",
             "1"
       ],
       "arm_group_label": [
-            "brinzolamide",
+            "suspension",
             "suspension",
             "1"
       ],
@@ -124,12 +124,19 @@
             "sulfa",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061516.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ocular",
+            "hypertension"
+      ],
+      "mesh_term": [
+            "hypertension"
+      ],
+      "id": "NCT00061516"
 }

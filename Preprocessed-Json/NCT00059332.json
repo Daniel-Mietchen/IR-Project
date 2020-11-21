@@ -109,18 +109,39 @@
             "stroke"
       ],
       "condition": [
-            "cerebrovascular",
             "accident"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "normal",
-            "saline"
+            "Magnesium Sulfate",
+            "Normal Saline"
       ],
       "description": [
-            "paramedic",
+            "initiate",
+            "load",
+            "dose",
+            "4",
+            "gram",
+            "magnesium",
+            "sulfate",
+            "iv",
+            "15",
+            "minute",
+            "follow",
+            "hospital",
+            "arrival",
+            "maintenance",
+            "infusion",
+            "16",
+            "gram",
+            "magnesium",
+            "sulfate",
+            "iv",
+            "24",
+            "hour",
             "initiate",
             "load",
             "dose",
@@ -143,10 +164,14 @@
             "hour"
       ],
       "arm_group_label": [
-            "normal",
+            "sulfate",
             "saline"
       ],
       "other_name": [
+            "135",
+            "magnesium",
+            "sulfate",
+            "heptahydrate",
             "sodium",
             "chloride"
       ],
@@ -248,7 +273,7 @@
             "assent",
             "provider"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -257,6 +282,14 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059332.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "emergency",
+            "medical",
+            "service"
+      ],
+      "mesh_term": [
+            "sulfate"
+      ],
+      "id": "NCT00059332"
 }

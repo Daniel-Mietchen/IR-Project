@@ -230,6 +230,10 @@
             "population"
       ],
       "condition": [
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
             "arrhythmia"
       ],
       "study_pop": [],
@@ -241,12 +245,19 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064558.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "sudden"
+      ],
+      "id": "NCT00064558"
 }

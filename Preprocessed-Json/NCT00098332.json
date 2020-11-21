@@ -90,15 +90,12 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "forodesine",
-            "hydrochloride"
+            "forodesine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -229,12 +226,21 @@
             "cutaneous",
             "lymphoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098332.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "cutaneous"
+      ],
+      "id": "NCT00098332"
 }

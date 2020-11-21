@@ -210,14 +210,19 @@
             "visit"
       ],
       "condition": [
+            "infection",
             "opportunistic",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Emtricitabine/tenofovir disoproxil fumarate",
+            "Lopinavir/ritonavir",
+            "Stavudine"
       ],
       "criteria": [
             "note",
@@ -473,12 +478,28 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055120.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "opportunistic",
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00055120"
 }

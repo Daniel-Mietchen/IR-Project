@@ -38,14 +38,13 @@
             "daily"
       ],
       "condition": [
-            "arthritis",
             "rheumatoid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "meloxicam"
+            "Meloxicam"
       ],
       "criteria": [
             "inclusion",
@@ -205,7 +204,7 @@
             "present",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -214,6 +213,9 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042068.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00042068"
 }

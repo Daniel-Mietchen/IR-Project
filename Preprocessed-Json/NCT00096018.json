@@ -204,20 +204,20 @@
             "8",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fludarabine phosphate",
             "thalidomide"
       ],
       "description": [
-            "orally"
+            "iv"
       ],
       "arm_group_label": [
-            "dose",
+            "escalation",
             "escalation"
       ],
       "criteria": [
@@ -373,12 +373,23 @@
             "therapy",
             "cll"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00096018"
 }

@@ -30,14 +30,14 @@
             "qualify",
             "treatment"
       ],
-      "condition": [
-            "mesothelioma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cisplatin"
+            "Pemetrexed",
+            "Cisplatin"
       ],
       "criteria": [
             "inclusion",
@@ -90,12 +90,13 @@
             "curative",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040625.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00040625"
 }

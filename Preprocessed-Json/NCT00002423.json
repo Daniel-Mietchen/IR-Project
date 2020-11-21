@@ -57,14 +57,21 @@
             "combination"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lamivudine"
+            "Indinavir sulfate",
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Nelfinavir mesylate",
+            "Lamivudine"
       ],
       "criteria": [
             "inclusion",
@@ -198,12 +205,20 @@
             "treatment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002423.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002423"
 }

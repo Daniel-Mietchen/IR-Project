@@ -391,7 +391,6 @@
             "stimulant"
       ],
       "condition": [
-            "parathyroid",
             "neoplasm"
       ],
       "criteria": [
@@ -427,9 +426,16 @@
             "patient",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001394.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parathyroid",
+            "hyperplasia"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001394"
 }

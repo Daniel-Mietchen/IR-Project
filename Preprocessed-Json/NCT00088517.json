@@ -260,13 +260,13 @@
             "parkinson",
             "disease"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "[11C]NNC-112"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -317,9 +317,15 @@
             "hiv",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088517.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "agent"
+      ],
+      "id": "NCT00088517"
 }

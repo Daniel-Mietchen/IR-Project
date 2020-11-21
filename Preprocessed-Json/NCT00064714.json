@@ -341,18 +341,40 @@
             "control"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "daclizumab",
-            "immunosuppressive"
+            "AC2993 (exenatide)",
+            "daclizumab (immunosuppressive)"
       ],
       "description": [
-            "2",
+            "begin",
+            "mg",
+            "administer",
+            "subcutaneously",
+            "twice",
+            "per",
+            "day",
+            "bid",
+            "mg",
+            "four",
+            "time",
+            "day",
+            "qid",
+            "5",
+            "mg",
+            "four",
+            "time",
+            "day",
+            "10",
+            "mg",
+            "four",
+            "time",
+            "day",
             "intravenously",
             "infuse",
             "30",
@@ -363,7 +385,13 @@
             "month"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "2",
+            "3",
+            "4",
+            "1",
+            "2",
+            "3",
             "4"
       ],
       "criteria": [
@@ -534,7 +562,7 @@
             "study",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -543,6 +571,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064714.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "agent"
+      ],
+      "id": "NCT00064714"
 }

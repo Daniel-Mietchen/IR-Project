@@ -198,19 +198,20 @@
             "year"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "etoposide",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -416,11 +417,20 @@
             "surgery",
             "recover"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003380.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brenner",
+            "tumor"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00003380"
 }

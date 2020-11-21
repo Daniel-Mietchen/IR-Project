@@ -174,15 +174,24 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "bleomycin sulfate",
+            "filgrastim",
+            "cyclophosphamide",
+            "etoposide",
+            "mitoxantrone hydrochloride",
+            "prednisolone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -240,12 +249,17 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032149.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00032149"
 }

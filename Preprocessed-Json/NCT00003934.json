@@ -380,7 +380,21 @@
             "year"
       ],
       "condition": [
-            "untreated",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
             "childhood",
             "acute",
             "myeloid",
@@ -389,22 +403,45 @@
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "tretinoin",
+            "daunorubicin hydrochloride",
+            "cytarabine",
+            "mercaptopurine",
+            "methotrexate",
+            "arsenic trioxide"
       ],
       "description": [
-            "give",
+            "orally",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "trisenox"
+            "hydrochloride",
+            "arabinoside",
+            "iii",
+            "oxide",
+            "sesquioxide",
+            "acid",
+            "anhydride"
       ],
       "criteria": [
             "inclusion",
@@ -549,9 +586,17 @@
             "short",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003934.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "promyelocytic",
+            "acute",
+            "trioxide"
+      ],
+      "id": "NCT00003934"
 }

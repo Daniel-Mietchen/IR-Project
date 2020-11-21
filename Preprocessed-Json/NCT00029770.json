@@ -145,15 +145,21 @@
             "success"
       ],
       "condition": [
-            "neck",
             "pain"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tylenol",
-            "codeine"
+            "Chiropractic spinal manipulation",
+            "Acetaminophen",
+            "Self-care",
+            "Non-Steroidal anti-inflammatory drugs (NSAIDS)",
+            "Tylenol with codeine"
       ],
       "criteria": [
             "exclusion",
@@ -170,7 +176,7 @@
             "narcotic",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -179,6 +185,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029770.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pain",
+            "agent",
+            "agent"
+      ],
+      "id": "NCT00029770"
 }

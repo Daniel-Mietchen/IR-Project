@@ -36,13 +36,13 @@
             "toxicity",
             "profile"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MDX-010 (CTLA-4)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -111,12 +111,13 @@
             "hiv",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050102.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00050102"
 }

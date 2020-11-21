@@ -131,31 +131,45 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "sorafenib tosylate",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "give",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
+            "gemcitabine",
+            "hydrochloride",
             "sorafenib",
             "tosylate",
             "gemcitabine",
             "hydrochloride"
       ],
       "other_name": [
-            "gemzar"
+            "tosylate",
+            "salt",
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -370,12 +384,15 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095966.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00095966"
 }

@@ -185,18 +185,22 @@
             "accrue"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "radiosurgery"
+            "surgical procedure",
+            "radiation therapy",
+            "stereotactic radiosurgery"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "1",
+            "2",
             "1"
       ],
       "criteria": [
@@ -349,12 +353,20 @@
             "metastasis",
             "recurrence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002708.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00002708"
 }

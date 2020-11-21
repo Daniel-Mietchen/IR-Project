@@ -296,21 +296,27 @@
             "record"
       ],
       "condition": [
-            "neurologic",
+            "disease",
+            "sickle",
+            "cell",
             "manifestation"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005438.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "manifestation",
+            "disease"
+      ],
+      "id": "NCT00005438"
 }

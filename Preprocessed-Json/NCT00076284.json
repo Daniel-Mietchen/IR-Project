@@ -368,13 +368,14 @@
             "limit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GW873140"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -935,9 +936,15 @@
             "limit",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076284.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00076284"
 }

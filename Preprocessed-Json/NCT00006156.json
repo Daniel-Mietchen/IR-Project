@@ -345,24 +345,24 @@
             "insufficiency"
       ],
       "condition": [
-            "premature",
             "ovarian",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "drug",
-            "fsh"
+            "Control",
+            "Drug: FSH"
       ],
       "description": [
+            "injection",
             "fsh",
             "stimulation",
             "test"
       ],
       "arm_group_label": [
-            "drug",
             "fsh"
       ],
       "criteria": [
@@ -528,9 +528,7 @@
             "one",
             "excipients"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -539,6 +537,18 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006156.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "premature",
+            "ovarian",
+            "failure",
+            "pof"
+      ],
+      "mesh_term": [
+            "birth",
+            "ovarian",
+            "insufficiency",
+            "premature"
+      ],
+      "id": "NCT00006156"
 }

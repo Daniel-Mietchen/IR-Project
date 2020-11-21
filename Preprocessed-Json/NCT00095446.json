@@ -38,17 +38,18 @@
             "practice"
       ],
       "condition": [
-            "diabetes",
+            "mellitus",
+            "type",
+            "1",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "aspart"
+            "insulin aspart"
       ],
       "criteria": [
             "inclusion",
@@ -62,12 +63,27 @@
             "year",
             "older"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095446.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "mellitus",
+            "type",
+            "1",
+            "globin",
+            "zinc",
+            "aspart"
+      ],
+      "id": "NCT00095446"
 }

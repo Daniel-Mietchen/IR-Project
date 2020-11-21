@@ -273,14 +273,18 @@
             "anderson"
       ],
       "condition": [
-            "lymphoma"
+            "lymphocytic",
+            "chronic",
+            "lymphocytic",
+            "acute"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Campath-1H"
+      ],
       "description": [
-            "10",
             "x",
             "5",
             "start",
@@ -289,9 +293,7 @@
             "chemotherapy"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "campath"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -367,7 +369,7 @@
             "predict",
             "level"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -376,6 +378,21 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038883.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "b",
+            "cell",
+            "lymphoma",
+            "intermediate",
+            "high",
+            "grade"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "cell",
+            "lymphoblastic"
+      ],
+      "id": "NCT00038883"
 }

@@ -114,24 +114,50 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "large",
+            "cell",
+            "lymphoma",
+            "lymphoma",
+            "adult",
+            "cutaneous",
+            "lymphoma",
+            "mycosis",
+            "syndrome",
+            "intestine",
+            "lymphoma",
+            "cutaneous",
+            "lymphoma",
+            "mycosis",
+            "syndrome",
+            "ii",
+            "cutaneous",
+            "lymphoma",
+            "ii",
+            "mycosis",
+            "syndrome",
+            "iii",
+            "cutaneous",
+            "lymphoma",
+            "iii",
+            "mycosis",
+            "syndrome",
+            "iv",
+            "cutaneous",
+            "lymphoma",
             "iv",
             "mycosis",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "nelarabine"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "nelarabine"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -430,12 +456,20 @@
             "calgb",
             "69803"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005080.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fungoides",
+            "syndrome",
+            "cutaneous",
+            "adult",
+            "anaplastic",
+            "lymphadenopathy"
+      ],
+      "id": "NCT00005080"
 }

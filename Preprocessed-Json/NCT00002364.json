@@ -73,15 +73,13 @@
             "24"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -305,12 +303,21 @@
             "study",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002364.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00002364"
 }

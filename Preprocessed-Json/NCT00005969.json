@@ -132,22 +132,20 @@
             "study",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tretinoin",
-            "liposome"
+            "Chemotherapy",
+            "Tretinoin Liposome"
       ],
       "arm_group_label": [
-            "liposomal",
+            "tretinoin",
             "tretinoin"
       ],
       "description": [
-            "liposome",
             "vein",
             "iv",
             "30",
@@ -157,9 +155,7 @@
             "28",
             "day"
       ],
-      "other_name": [
-            "atragen"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -319,12 +315,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005969.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005969"
 }

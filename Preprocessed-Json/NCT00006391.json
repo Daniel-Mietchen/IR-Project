@@ -175,16 +175,19 @@
             "study"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "oxaliplatin",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -376,14 +379,23 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006391.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006391"
 }

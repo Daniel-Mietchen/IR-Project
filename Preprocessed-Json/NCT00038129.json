@@ -84,19 +84,15 @@
             "choice"
       ],
       "condition": [
-            "tibial",
             "fracture"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "intramedullary",
-            "nail",
-            "implant"
+            "Intramedullary nail implant"
       ],
       "description": [
-            "insertion",
             "intramedullary",
             "nail",
             "tibial",
@@ -108,9 +104,7 @@
             "intramedullary",
             "canal"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -122,12 +116,16 @@
             "intramedullary",
             "nail"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038129.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "bone",
+            "fracture"
+      ],
+      "id": "NCT00038129"
 }

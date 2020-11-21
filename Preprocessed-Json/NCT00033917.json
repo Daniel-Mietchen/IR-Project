@@ -172,23 +172,26 @@
             "2012"
       ],
       "condition": [
+            "hemorrhage",
+            "ivh",
+            "brain",
             "low",
             "birth",
             "weight",
             "infant"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "indomethacin",
             "placebo"
       ],
       "description": [
-            "saline"
+            "drug"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "preterm",
             "infant",
@@ -218,12 +221,23 @@
             "intraventricular",
             "hemorrhage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033917.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "low",
+            "birth",
+            "weight",
+            "infant"
+      ],
+      "mesh_term": [
+            "weight",
+            "birth",
+            "hemorrhage"
+      ],
+      "id": "NCT00033917"
 }

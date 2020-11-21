@@ -342,15 +342,26 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitomycin",
-            "c"
+            "FOLFIRI regimen",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium",
+            "mitomycin C"
       ],
       "criteria": [
             "disease",
@@ -560,12 +571,21 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023868.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "doxorubicin"
+      ],
+      "id": "NCT00023868"
 }

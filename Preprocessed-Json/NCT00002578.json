@@ -154,13 +154,17 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cytarabine",
+            "gallium nitrate",
+            "leucovorin calcium",
             "methotrexate"
       ],
       "criteria": [
@@ -684,7 +688,7 @@
             "infection",
             "prophylaxis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -693,6 +697,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002578.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "immunodeficiency",
+            "syndrome",
+            "nitrate"
+      ],
+      "id": "NCT00002578"
 }

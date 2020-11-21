@@ -152,17 +152,32 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan"
+            "Capecitabine",
+            "Irinotecan"
       ],
       "arm_group_label": [
-            "cohort",
+            "1",
+            "initial",
+            "regimen",
+            "capecitabine",
+            "irinotecan",
+            "2",
+            "amend",
+            "regimen",
+            "capecitabine",
+            "irinotecan",
+            "1",
+            "initial",
+            "regimen",
+            "capecitabine",
+            "irinotecan",
             "2",
             "amend",
             "regimen",
@@ -451,12 +466,19 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022698.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00022698"
 }

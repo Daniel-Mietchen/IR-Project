@@ -125,15 +125,23 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MUC1-KLH conjugate vaccine",
+            "MUC1-KLH vaccine/QS21",
+            "QS21"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -239,14 +247,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006041.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "21"
+      ],
+      "id": "NCT00006041"
 }

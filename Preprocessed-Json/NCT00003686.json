@@ -166,17 +166,25 @@
             "month"
       ],
       "condition": [
-            "quality",
+            "complication",
             "life"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "pilocarpine hydrochloride",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "5",
+            "mg",
+            "po",
+            "qid",
+            "x",
+            "4",
+            "week",
             "5",
             "mg",
             "po",
@@ -185,9 +193,7 @@
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -367,12 +373,17 @@
             "desipramine",
             "imipramine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003686"
 }

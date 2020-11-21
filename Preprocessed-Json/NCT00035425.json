@@ -26,16 +26,20 @@
             "bacteria"
       ],
       "condition": [
-            "febrile",
             "neutropenia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "linezolid",
             "vancomycin"
       ],
       "description": [
+            "every",
+            "12",
+            "hour",
             "every",
             "12",
             "hour",
@@ -62,12 +66,8 @@
             "12",
             "hour"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "zyvox"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -125,12 +125,15 @@
             "cns",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035425.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neutropenia"
+      ],
+      "id": "NCT00035425"
 }

@@ -431,18 +431,40 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "filgrastim",
+            "recombinant interferon alfa",
+            "busulfan",
+            "cyclophosphamide",
+            "cytarabine",
+            "doxorubicin hydrochloride",
+            "leucovorin calcium",
+            "methotrexate",
+            "prednisone",
+            "teniposide",
+            "vincristine sulfate",
+            "allogeneic bone marrow transplantation",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -592,12 +614,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00004231"
 }

@@ -81,16 +81,15 @@
             "percent"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fat",
-            "emulsion",
-            "20"
+            "Fat Emulsion 2%",
+            "Fat Emulsion 20%"
       ],
       "criteria": [
             "inclusion",
@@ -169,7 +168,7 @@
             "new",
             "dt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -178,6 +177,22 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002275.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "pneumocystis",
+            "oil",
+            "phospholipid",
+            "emulsion"
+      ],
+      "id": "NCT00002275"
 }

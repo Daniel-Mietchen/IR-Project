@@ -250,19 +250,61 @@
             "month"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "strontium",
-            "chloride",
-            "sr"
+            "Doxorubicin hydrochloride",
+            "Goserelin acetate",
+            "Leuprolide acetate",
+            "Zoledronic acid",
+            "orchiectomy",
+            "strontium chloride Sr"
       ],
       "description": [
+            "20",
+            "administer",
+            "intravenously",
+            "either",
+            "15",
+            "30",
+            "minute",
+            "via",
+            "peripheral",
+            "line",
+            "24",
+            "hour",
+            "via",
+            "central",
+            "line",
+            "day",
             "1",
+            "8",
+            "15",
+            "every",
+            "28",
+            "day",
+            "2",
+            "cycle",
+            "mg",
+            "give",
+            "intravenously",
+            "15",
+            "minute",
+            "every",
+            "28",
+            "day",
+            "total",
+            "6",
+            "dose",
             "dose",
             "4",
             "millicurie",
@@ -276,14 +318,45 @@
             "treatment"
       ],
       "arm_group_label": [
-            "hat",
+            "doxorubicin",
+            "zoledronate",
+            "strontium",
+            "chloride",
+            "doxorubicin",
+            "zoledronate",
+            "doxorubicin",
+            "zoledronate",
+            "strontium",
+            "chloride",
+            "doxorubicin",
+            "zoledronate",
+            "doxorubicin",
+            "zoledronate",
+            "strontium",
+            "chloride",
+            "doxorubicin",
+            "zoledronate",
+            "doxorubicin",
+            "zoledronate",
+            "strontium",
+            "chloride",
+            "doxorubicin",
+            "zoledronate",
+            "doxorubicin",
+            "zoledronate",
+            "strontium",
+            "chloride",
+            "doxorubicin",
+            "zoledronate",
             "doxorubicin",
             "zoledronate",
             "strontium",
             "chloride"
       ],
       "other_name": [
-            "mestastron"
+            "pfs",
+            "rdf",
+            "depot"
       ],
       "criteria": [
             "inclusion",
@@ -643,11 +716,20 @@
             "cord",
             "compression"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081159.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "factor",
+            "doxorubicin",
+            "acid"
+      ],
+      "id": "NCT00081159"
 }

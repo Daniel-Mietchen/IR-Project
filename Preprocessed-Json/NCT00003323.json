@@ -168,16 +168,25 @@
             "year"
       ],
       "condition": [
-            "sexual",
+            "cancer",
             "dysfunction",
             "infertility"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "assessment"
+            "finasteride",
+            "flutamide",
+            "quality-of-life assessment"
       ],
       "description": [
-            "assessment",
+            "po",
+            "mg",
+            "po",
+            "tid",
             "survey",
             "administer",
             "baseline",
@@ -189,7 +198,8 @@
             "treatment"
       ],
       "arm_group_label": [
-            "hormone",
+            "therapy",
+            "therapy",
             "therapy"
       ],
       "criteria": [
@@ -451,11 +461,17 @@
             "limit",
             "normal"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003323.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sexual",
+            "dysfunction",
+            "infertility"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003323"
 }

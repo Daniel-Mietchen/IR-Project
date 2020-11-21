@@ -650,22 +650,38 @@
             "second",
             "randomization"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "rituximab",
+            "cisplatin",
+            "cytarabine",
+            "dexamethasone",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "salvage",
+            "arm",
+            "arm",
+            "arm",
+            "ii",
+            "arm",
+            "ii",
+            "arm",
+            "arm",
+            "ii",
             "arm"
       ],
       "criteria": [
@@ -1019,7 +1035,7 @@
             "experimental",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -1028,6 +1044,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078949.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "angioimmunoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "1101",
+            "acetate"
+      ],
+      "id": "NCT00078949"
 }

@@ -128,13 +128,16 @@
             "month"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "glucose",
+            "insulin",
             "leucine"
       ],
       "criteria": [
@@ -194,11 +197,16 @@
             "chronic",
             "illness"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014768.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00014768"
 }

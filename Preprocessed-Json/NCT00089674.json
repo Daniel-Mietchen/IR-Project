@@ -26,17 +26,28 @@
             "cancer"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "AMG 162",
+            "Placebo"
       ],
       "description": [
-            "60",
+            "mg",
+            "administer",
+            "subcutaneously",
+            "day",
+            "1",
+            "month",
+            "6",
+            "12",
+            "18",
+            "24",
+            "30",
             "mg",
             "administer",
             "subcutaneously",
@@ -50,21 +61,36 @@
             "30"
       ],
       "arm_group_label": [
-            "placebo"
+            "162"
       ],
       "criteria": [
             "criterion",
             "also",
             "apply"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089674.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "bone",
+            "loss",
+            "patient",
+            "undergo",
+            "androgen",
+            "deprivation",
+            "therapy",
+            "adt",
+            "prostate",
+            "cancer",
+            "pc"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00089674"
 }

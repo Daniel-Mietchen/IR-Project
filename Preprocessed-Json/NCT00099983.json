@@ -215,22 +215,65 @@
             "approval",
             "amendment"
       ],
-      "condition": [],
+      "condition": [
+            "disorder"
+      ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Risperidone",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "treatment",
+            "low",
+            "dose",
+            "1",
+            "h",
+            "week",
+            "one",
+            "increase",
+            "1",
+            "weekly",
+            "target",
+            "dose",
+            "3",
+            "escalation",
+            "maximum",
+            "4",
+            "allow",
+            "minimum",
+            "4",
+            "week",
+            "target",
+            "dose",
+            "3",
+            "reduction",
+            "lower",
+            "dose",
+            "allow",
+            "time",
+            "base",
+            "adverse",
+            "effect",
+            "treatment",
+            "continue",
+            "6",
+            "month",
+            "patient",
+            "discontinue",
+            "treatment",
+            "allow",
+            "resume",
+            "treatment",
+            "time"
       ],
       "arm_group_label": [
-            "sugar",
             "pill"
       ],
       "other_name": [
-            "suger",
             "pill"
       ],
       "criteria": [
@@ -287,12 +330,20 @@
             "1",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099983.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ptsd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "traumatic",
+            "disorder"
+      ],
+      "id": "NCT00099983"
 }

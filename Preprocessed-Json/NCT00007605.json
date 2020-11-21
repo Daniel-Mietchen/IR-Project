@@ -505,17 +505,42 @@
             "significant"
       ],
       "condition": [
-            "death",
+            "fibrillation",
+            "accident",
             "sudden"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sotalol"
+            "Amiodarone",
+            "Sotalol"
       ],
       "description": [
-            "patient",
+            "assign",
+            "receive",
+            "400",
+            "mg",
+            "bid",
+            "14",
+            "day",
+            "400",
+            "mg",
+            "qam",
+            "200",
+            "mg",
+            "qhs",
+            "14",
+            "day",
+            "300",
+            "mg",
+            "qd",
+            "48",
+            "week",
+            "200",
+            "mg",
+            "qd",
             "assign",
             "receive",
             "80",
@@ -528,9 +553,7 @@
             "bid",
             "thereafter"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -544,9 +567,16 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007605.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sotalol"
+      ],
+      "mesh_term": [
+            "fibrillation",
+            "sudden"
+      ],
+      "id": "NCT00007605"
 }

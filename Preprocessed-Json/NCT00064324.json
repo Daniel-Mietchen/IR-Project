@@ -129,27 +129,38 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iv",
             "adult",
             "soft",
             "tissue",
             "sarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "perifosine",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -466,12 +477,13 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064324.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00064324"
 }

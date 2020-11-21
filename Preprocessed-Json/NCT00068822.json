@@ -190,17 +190,22 @@
             "allow"
       ],
       "condition": [
-            "osteoporosis"
+            "fracture"
       ],
       "intervention_type": [
-            "procedure"
+            "Device",
+            "Procedure"
       ],
       "intervention_name": [
-            "sham",
-            "vertebroplasty"
+            "Percutaneous vertebroplasty",
+            "Sham vertebroplasty"
       ],
       "description": [
-            "participant",
+            "polymethylmethacrylate",
+            "pmma",
+            "vertebral",
+            "compression",
+            "fracture",
             "follow",
             "local",
             "anesthesia",
@@ -216,7 +221,6 @@
             "place"
       ],
       "arm_group_label": [
-            "control",
             "group"
       ],
       "criteria": [
@@ -297,12 +301,20 @@
             "contraindicate",
             "subject"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rdq"
+      ],
+      "mesh_term": [
+            "bone",
+            "fracture",
+            "methacrylate"
+      ],
+      "id": "NCT00068822"
 }

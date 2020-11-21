@@ -185,14 +185,17 @@
             "month"
       ],
       "condition": [
-            "small",
+            "appendix",
+            "cancer",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "capecitabine",
             "oxaliplatin"
       ],
       "criteria": [
@@ -403,12 +406,21 @@
             "commercial",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carcinoma",
+            "appendix"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00019773"
 }

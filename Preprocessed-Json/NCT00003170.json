@@ -193,16 +193,16 @@
             "month",
             "radiotherapy"
       ],
-      "condition": [
-            "cancer"
+      "condition": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
+            "glutamine",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -397,12 +397,13 @@
             "function",
             "rectum"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003170.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00003170"
 }

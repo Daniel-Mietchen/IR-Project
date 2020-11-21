@@ -185,19 +185,15 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "eflornithine",
-            "plus",
-            "sulindac"
+            "eflornithine plus sulindac"
       ],
       "description": [
-            "patient",
             "randomize",
             "36",
             "month",
@@ -205,9 +201,7 @@
             "either",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -391,7 +385,7 @@
             "greater",
             "500"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -400,6 +394,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005882.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005882"
 }

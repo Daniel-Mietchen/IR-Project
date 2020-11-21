@@ -156,13 +156,13 @@
             "tolerance",
             "test"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "risperidone",
             "olanzapine"
       ],
       "criteria": [
@@ -194,7 +194,7 @@
             "typical",
             "antipsychotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -203,6 +203,7 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006195.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00006195"
 }

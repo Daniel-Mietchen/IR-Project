@@ -136,17 +136,18 @@
             "toxicity",
             "survival"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermic",
-            "isolate",
-            "limb",
-            "perfusion"
+            "melphalan",
+            "tumor necrosis factor",
+            "interferon-gamma",
+            "hyperthermic isolated limb perfusion"
       ],
       "criteria": [
             "disease",
@@ -292,9 +293,13 @@
             "nurse",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001296.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tnf"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001296"
 }

@@ -284,15 +284,15 @@
             "factor"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Device",
+            "Behavioral"
       ],
       "intervention_name": [
-            "medication",
-            "manager"
+            "Electronic Medication Reminder System",
+            "Medication Manager"
       ],
       "criteria": [
             "inclusion",
@@ -325,9 +325,16 @@
             "study",
             "reason"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001129.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001129"
 }

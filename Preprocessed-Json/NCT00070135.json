@@ -316,36 +316,75 @@
             "acute",
             "myeloid",
             "leukemia",
+            "remission",
+            "myeloid",
+            "leukemia",
             "arise",
             "previous",
             "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "hematopoietic",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "Anti-Thymocyte Globulin",
+            "busulfan",
+            "fludarabine phosphate",
+            "methotrexate",
+            "tacrolimus",
+            "Allogeneic Hematopoietic Stem Cell Transplantation"
       ],
       "description": [
-            "undergo",
+            "sc",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "po",
+            "iv",
             "allogeneic",
             "pbsc",
             "transplantation"
       ],
       "arm_group_label": [
-            "treatment",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
+            "fludarabine",
+            "busulfan",
+            "allogeneic",
+            "pbsc",
             "fludarabine",
             "busulfan",
             "allogeneic",
             "pbsc"
       ],
       "other_name": [
-            "hsc",
             "hsct"
       ],
       "criteria": [
@@ -630,7 +669,7 @@
             "donor",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
@@ -639,6 +678,22 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "phosphate",
+            "serum"
+      ],
+      "id": "NCT00070135"
 }

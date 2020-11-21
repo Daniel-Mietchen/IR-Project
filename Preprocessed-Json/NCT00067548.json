@@ -82,12 +82,17 @@
       ],
       "condition": [
             "lung",
+            "carcinoma",
+            "cell",
+            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "EKB-569"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -149,12 +154,22 @@
             "factor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067548.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00067548"
 }

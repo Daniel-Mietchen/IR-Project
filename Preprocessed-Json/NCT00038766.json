@@ -153,21 +153,38 @@
             "set"
       ],
       "condition": [
-            "crohn",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "semapimod",
+            "semapimod",
             "placebo"
       ],
       "description": [
-            "placebo",
+            "60",
+            "mg",
+            "iv",
+            "x",
+            "5",
+            "day",
+            "30",
+            "mg",
+            "x",
+            "5",
+            "day",
             "iv"
       ],
       "arm_group_label": [
-            "placebo"
+            "60",
+            "mg",
+            "iv",
+            "30",
+            "mg"
       ],
       "other_name": [],
       "criteria": [
@@ -261,12 +278,20 @@
             "week",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038766.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "bowel",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00038766"
 }

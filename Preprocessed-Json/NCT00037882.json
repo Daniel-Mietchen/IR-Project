@@ -111,23 +111,23 @@
             "patient"
       ],
       "condition": [
-            "leukemia",
             "myeloid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-Intron"
+      ],
       "description": [
             "weekly",
             "injection"
       ],
       "arm_group_label": [
-            "sch",
             "54031"
       ],
       "other_name": [
-            "peg",
+            "54031",
             "interferon"
       ],
       "criteria": [
@@ -283,9 +283,20 @@
             "enrollment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037882.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "positive"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00037882"
 }

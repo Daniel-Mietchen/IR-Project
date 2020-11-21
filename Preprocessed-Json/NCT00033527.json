@@ -226,13 +226,15 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "sputum",
-            "cytology"
+            "INS316",
+            "sputum cytology"
       ],
       "criteria": [
             "disease",
@@ -391,12 +393,21 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00033527"
 }

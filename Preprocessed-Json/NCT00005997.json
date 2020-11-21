@@ -148,17 +148,19 @@
             "month"
       ],
       "condition": [
-            "liver",
+            "bile",
+            "duct",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "becatecarin"
       ],
       "description": [
-            "cohort",
             "patient",
             "receive",
             "escalate",
@@ -172,7 +174,7 @@
             "determine"
       ],
       "other_name": [
-            "rebeccamycin",
+            "analogue",
             "analogue",
             "tartrate",
             "salt"
@@ -308,12 +310,24 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005997.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "cholangiocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "duct",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00005997"
 }

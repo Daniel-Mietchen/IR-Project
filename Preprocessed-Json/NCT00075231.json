@@ -29,14 +29,17 @@
             "plus"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Kaletra\u00ae (lopinavir/ritonavir)",
+            "Combivir\u00ae (lamivudine, zidovudine)",
+            "Sustiva\u00ae (efavirenz)"
       ],
       "criteria": [
             "inclusion",
@@ -444,12 +447,22 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00075231"
 }

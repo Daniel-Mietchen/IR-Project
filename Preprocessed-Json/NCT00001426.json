@@ -105,13 +105,20 @@
             "paclitaxel"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Cyclophosphamide",
+            "Paclitaxel",
+            "Cisplatin",
+            "G-CSF"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -300,11 +307,16 @@
             "specifically",
             "exclude"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001426.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cyclophosphamide"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00001426"
 }

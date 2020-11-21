@@ -563,21 +563,29 @@
             "year"
       ],
       "condition": [
-            "cardiovascular",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "percutaneous",
-            "transluminal",
-            "coronary",
-            "angioplasty",
-            "ptca"
+            "Vascular surgery with best medical treatment",
+            "Coronary artery bypass grafting (CABG)",
+            "Percutaneous transluminal coronary angioplasty (PTCA)"
       ],
       "description": [
-            "cardiac",
+            "undergo",
+            "schedule",
+            "vascular",
+            "surgery",
+            "artery",
+            "bypass",
+            "graft",
+            "prior",
+            "vascular",
+            "surgery",
             "revascularization",
             "via",
             "ptca",
@@ -585,12 +593,8 @@
             "vascular",
             "surgery"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "ptca"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -604,9 +608,18 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032370.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prophylactic",
+            "coronary",
+            "artery",
+            "revascularization"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00032370"
 }

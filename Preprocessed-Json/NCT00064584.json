@@ -120,13 +120,16 @@
             "itd"
       ],
       "condition": [
-            "myelodysplastic",
+            "myelogenous",
+            "leukemia",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CT53518"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -358,12 +361,18 @@
             "psychiatric",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064584.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00064584"
 }

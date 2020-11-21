@@ -396,14 +396,17 @@
             "monitor"
       ],
       "condition": [
-            "precocious",
             "puberty"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "deslorelin"
+            "Spironolactone",
+            "Testolactone",
+            "Deslorelin"
       ],
       "criteria": [
             "inclusion",
@@ -486,11 +489,18 @@
             "hour",
             "period"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001202.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "familial",
+            "isosexual",
+            "precocious",
+            "puberty"
+      ],
+      "mesh_term": [
+            "precocious"
+      ],
+      "id": "NCT00001202"
 }

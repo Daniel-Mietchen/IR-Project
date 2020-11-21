@@ -105,13 +105,14 @@
             "day"
       ],
       "condition": [
-            "lyme",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ceftriaxone",
             "doxycycline"
       ],
       "criteria": [
@@ -295,12 +296,15 @@
             "evaluation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001101.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001101"
 }

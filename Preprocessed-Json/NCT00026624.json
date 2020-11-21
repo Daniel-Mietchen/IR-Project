@@ -213,14 +213,15 @@
             "art"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "hemocyanin"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "Keyhole-Limpet Hemocyanin"
       ],
       "criteria": [
             "inclusion",
@@ -404,12 +405,21 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026624.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hemocyanin"
+      ],
+      "id": "NCT00026624"
 }

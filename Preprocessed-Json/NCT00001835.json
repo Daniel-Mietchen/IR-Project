@@ -267,14 +267,14 @@
             "dysfunction"
       ],
       "condition": [
-            "neoplasm",
+            "disease",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oxaliplatin"
+            "Oxaliplatin"
       ],
       "criteria": [
             "patient",
@@ -459,9 +459,17 @@
             "study",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001835.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "cancer"
+      ],
+      "mesh_term": [
+            "disease",
+            "metastasis"
+      ],
+      "id": "NCT00001835"
 }

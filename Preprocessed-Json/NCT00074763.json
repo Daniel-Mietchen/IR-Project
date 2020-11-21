@@ -253,15 +253,12 @@
             "enrol",
             "utmdacc"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "platelet",
-            "transfusion"
+            "Platelet Transfusion"
       ],
       "description": [
             "receive",
@@ -283,7 +280,6 @@
             "frp"
       ],
       "arm_group_label": [
-            "platelet",
             "transfusion"
       ],
       "criteria": [
@@ -335,9 +331,12 @@
             "tumor",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074763.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "thrombocytopenia"
+      ],
+      "id": "NCT00074763"
 }

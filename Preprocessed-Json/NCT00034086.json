@@ -358,17 +358,31 @@
             "48"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "haemophilus",
-            "b",
-            "conjugate",
-            "vaccine"
+            "Lopinavir/Ritonavir",
+            "Lamivudine/Zidovudine",
+            "Tenofovir disoproxil fumarate",
+            "Pneumococcal Vaccine, Polyvalent (23-valent)",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine",
+            "Lyme Disease Vaccine Recombinant OspA",
+            "Haemophilus B Conjugate Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -478,9 +492,22 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034086.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tenofovir",
+            "disoproxil"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumococcal",
+            "conjugate",
+            "vaccine",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00034086"
 }

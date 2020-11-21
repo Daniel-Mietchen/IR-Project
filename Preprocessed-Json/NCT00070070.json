@@ -171,13 +171,16 @@
             "month"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "BCG vaccine",
+            "NY-ESO-1 peptide vaccine",
             "sargramostim"
       ],
       "criteria": [
@@ -393,12 +396,24 @@
             "immunosuppressive",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070070.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "vaccine"
+      ],
+      "id": "NCT00070070"
 }

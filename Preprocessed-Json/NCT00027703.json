@@ -245,25 +245,50 @@
             "progression"
       ],
       "condition": [
-            "sarcomatous",
+            "malignant",
+            "mesothelioma",
+            "mesothelioma",
+            "malignant",
+            "mesothelioma",
+            "malignant",
+            "mesothelioma",
             "mesothelioma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gemcitabine hydrochloride",
+            "cisplatin",
+            "bevacizumab",
+            "placebo",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "plcb"
+            "hydrochloride",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf"
       ],
       "criteria": [
             "inclusion",
@@ -586,12 +611,16 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027703.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00027703"
 }

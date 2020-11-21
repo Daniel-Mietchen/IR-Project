@@ -187,7 +187,8 @@
             "2013"
       ],
       "condition": [
-            "venous",
+            "disease",
+            "embolism",
             "thrombosis"
       ],
       "study_pop": [],
@@ -199,7 +200,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -208,6 +209,11 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005504.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "embolism",
+            "thrombosis"
+      ],
+      "id": "NCT00005504"
 }

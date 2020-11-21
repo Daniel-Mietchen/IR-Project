@@ -141,7 +141,7 @@
             "yersinia"
       ],
       "condition": [
-            "cystic",
+            "infection",
             "fibrosis"
       ],
       "criteria": [
@@ -215,12 +215,20 @@
             "disease",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027183.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "genetic",
+            "screen"
+      ],
+      "mesh_term": [
+            "fibrosis",
+            "infection"
+      ],
+      "id": "NCT00027183"
 }

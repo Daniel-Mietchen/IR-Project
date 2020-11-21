@@ -126,26 +126,65 @@
             "month"
       ],
       "condition": [
-            "relapse",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelodysplastic",
+            "syndrome",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "anemia",
+            "excess",
+            "blast",
+            "anemia",
+            "excess",
+            "blast",
+            "transformation",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "BMS-214662",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "inhibitor",
+            "bm",
+            "214662",
             "study"
       ],
       "criteria": [
@@ -317,12 +356,32 @@
             "ekg",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006213.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "refractory",
+            "crisis",
+            "refractory",
+            "excess",
+            "blast",
+            "promyelocytic",
+            "acute",
+            "aplastic"
+      ],
+      "id": "NCT00006213"
 }

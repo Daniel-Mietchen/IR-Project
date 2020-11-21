@@ -275,7 +275,9 @@
             "cohort"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "infarction",
             "disease"
       ],
       "study_pop": [],
@@ -293,12 +295,20 @@
             "troponin",
             "level"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005502.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005502"
 }

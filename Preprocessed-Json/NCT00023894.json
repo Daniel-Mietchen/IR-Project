@@ -101,11 +101,10 @@
             "month"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "alvocidib"
@@ -381,11 +380,17 @@
             "protective",
             "reagent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023894.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "endometrial",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00023894"
 }

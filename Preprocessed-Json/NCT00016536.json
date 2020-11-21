@@ -275,15 +275,15 @@
             "participation"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carbopol",
-            "polymer"
+            "Naphthalene 2-sulfonate polymer",
+            "Carbopol polymer"
       ],
       "criteria": [
             "inclusion",
@@ -416,14 +416,19 @@
             "doctor",
             "opinion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016536.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00016536"
 }

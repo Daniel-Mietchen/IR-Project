@@ -124,18 +124,28 @@
             "ass",
             "participant"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antidepressant",
-            "medication"
+            "Antidepressant medication",
+            "No antidepressant medication"
       ],
       "description": [
-            "participant",
+            "assign",
+            "continue",
+            "current",
+            "medication",
+            "monitor",
+            "period",
+            "one",
+            "year",
+            "recurrence",
+            "depression",
+            "relate",
+            "symptom",
             "assign",
             "discontinue",
             "current",
@@ -149,9 +159,7 @@
             "relate",
             "symptom"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -181,12 +189,20 @@
             "cognitive",
             "impairment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076622.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nurse",
+            "home"
+      ],
+      "mesh_term": [
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00076622"
 }

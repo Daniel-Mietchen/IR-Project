@@ -334,17 +334,42 @@
             "treatment"
       ],
       "condition": [
-            "kidney",
+            "renal",
+            "disease",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tacrolimus"
+            "Cyclosporine",
+            "Sirolimus",
+            "Tacrolimus"
       ],
       "description": [
+            "tablet",
+            "take",
+            "daily",
             "dosage",
+            "dependent",
+            "weight",
+            "titrate",
+            "target",
+            "trough",
+            "level",
+            "liquid",
+            "tablet",
+            "form",
+            "dependent",
+            "body",
+            "surface",
+            "area",
+            "titrate",
+            "target",
+            "trough",
+            "level",
             "oral",
             "form",
             "titrate",
@@ -352,12 +377,8 @@
             "trough",
             "level"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "srl"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -444,12 +465,16 @@
             "entry",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005113.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00005113"
 }

@@ -32,19 +32,17 @@
             "subject"
       ],
       "condition": [
-            "liver",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine",
-            "tacrolimus"
+            "Sirolimus (Rapamune)",
+            "Cyclosporine or Tacrolimus"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -96,12 +94,18 @@
             "random",
             "assignment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086346.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transplant"
+      ],
+      "mesh_term": [
+            "inhibitor"
+      ],
+      "id": "NCT00086346"
 }

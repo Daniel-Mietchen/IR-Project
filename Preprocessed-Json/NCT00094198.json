@@ -200,16 +200,25 @@
             "storage"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "fibrillation",
+            "accident",
+            "disease",
             "infarction"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094198.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrillation",
+            "disease",
+            "disease",
+            "infarction"
+      ],
+      "id": "NCT00094198"
 }

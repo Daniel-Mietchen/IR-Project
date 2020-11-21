@@ -277,15 +277,33 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "carboplatin",
+            "cisplatin",
+            "docetaxel",
+            "gemcitabine hydrochloride",
+            "ifosfamide",
+            "mitomycin C",
+            "paclitaxel",
+            "vinblastine sulfate",
+            "vinorelbine tartrate",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -369,9 +387,20 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003159.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "0",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003159"
 }

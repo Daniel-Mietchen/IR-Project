@@ -96,28 +96,39 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
             "small",
             "lymphocytic",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "thalidomide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
             "thalidomide"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -585,12 +596,17 @@
             "limit",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022581.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00022581"
 }

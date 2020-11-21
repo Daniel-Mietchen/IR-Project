@@ -44,15 +44,17 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "glyburide",
-            "alone"
+            "Glucovance (metformin HCl/glyburide)",
+            "or Metformin HCl alone",
+            "or Glyburide alone."
       ],
       "criteria": [
             "adult",
@@ -67,7 +69,7 @@
             "exercise",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -76,6 +78,18 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035568.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "2",
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00035568"
 }

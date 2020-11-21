@@ -253,7 +253,7 @@
             "record"
       ],
       "condition": [
-            "respiratory",
+            "disease",
             "distress",
             "syndrome"
       ],
@@ -261,14 +261,21 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005432.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult"
+      ],
+      "id": "NCT00005432"
 }

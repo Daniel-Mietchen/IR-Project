@@ -104,18 +104,13 @@
             "bone"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "transgenic",
-            "lymphocyte",
-            "immunization",
-            "vaccine",
-            "tli"
+            "Transgenic Lymphocyte Immunization Vaccine (TLI)"
       ],
       "criteria": [
             "inclusion",
@@ -376,14 +371,20 @@
             "measurable",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061035.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer",
+            "immunotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00061035"
 }

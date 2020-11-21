@@ -158,19 +158,27 @@
             "record"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
+            "congestive",
             "failure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005499.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005499"
 }

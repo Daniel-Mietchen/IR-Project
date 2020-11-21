@@ -214,18 +214,24 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "240"
+            "Irinotecan 70 mg/m2",
+            "Irinotecan 240 mg/m2"
       ],
       "description": [
-            "irinotecan",
+            "70",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "29",
             "240",
             "day",
             "1",
@@ -233,7 +239,6 @@
             "22"
       ],
       "arm_group_label": [
-            "arm",
             "b"
       ],
       "criteria": [
@@ -410,7 +415,7 @@
             "cns",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -419,6 +424,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030797.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030797"
 }

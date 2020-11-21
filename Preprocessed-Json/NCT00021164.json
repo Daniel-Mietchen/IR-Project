@@ -42,7 +42,6 @@
             "immunologic",
             "response",
             "obtain",
-            "hla",
             "patient",
             "metastatic",
             "cancer",
@@ -263,7 +262,7 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "skin",
             "adult",
             "solid",
             "tumor",
@@ -271,12 +270,14 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "telomerase",
-            "peptide",
-            "vaccine"
+            "aldesleukin",
+            "incomplete Freund's adjuvant",
+            "telomerase: 540-548 peptide vaccine"
       ],
       "criteria": [
             "disease",
@@ -290,7 +291,6 @@
             "treatment",
             "malignant",
             "glioma",
-            "0201",
             "expression",
             "patient",
             "characteristic",
@@ -330,14 +330,10 @@
             "stress",
             "thallium",
             "comparable",
-            "test",
             "prior",
             "myocardial",
-            "infarction",
             "cardiac",
-            "arrhythmia",
             "note",
-            "patient",
             "receive",
             "pulmonary",
             "obstructive",
@@ -361,7 +357,6 @@
             "active",
             "major",
             "medical",
-            "illness",
             "active",
             "systemic",
             "infection",
@@ -376,7 +371,6 @@
             "effective",
             "contraception",
             "note",
-            "patient",
             "receive",
             "prior",
             "concurrent",
@@ -415,12 +409,25 @@
             "therapy",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021164.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00021164"
 }

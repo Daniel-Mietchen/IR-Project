@@ -198,15 +198,27 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "vaccine",
-            "therapy"
+            "autologous tumor cell vaccine",
+            "therapeutic autologous dendritic cells",
+            "adjuvant therapy",
+            "biological therapy",
+            "conventional surgery",
+            "surgery",
+            "tumor cell derivative vaccine",
+            "vaccine therapy"
       ],
       "criteria": [
             "disease",
@@ -255,16 +267,13 @@
             "b",
             "surface",
             "antigen",
-            "negative",
             "hepatitis",
             "b",
             "core",
             "antigen",
-            "negative",
             "hepatitis",
             "c",
             "virus",
-            "negative",
             "bilirubin",
             "ast",
             "alt",
@@ -274,7 +283,6 @@
             "limit",
             "normal",
             "note",
-            "screen",
             "perform",
             "liver",
             "enzyme",
@@ -505,12 +513,23 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098917.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00098917"
 }

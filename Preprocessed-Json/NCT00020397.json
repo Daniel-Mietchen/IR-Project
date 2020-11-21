@@ -49,8 +49,6 @@
             "class",
             "ii",
             "peptide",
-            "201",
-            "04",
             "positive",
             "patient",
             "refractory",
@@ -83,8 +81,6 @@
             "type",
             "group",
             "1",
-            "201",
-            "04",
             "positive",
             "patient",
             "receive",
@@ -108,9 +104,7 @@
             "toxicity",
             "group",
             "2",
-            "201",
             "positive",
-            "04",
             "negative",
             "patient",
             "receive",
@@ -122,9 +116,7 @@
             "peptide",
             "group",
             "3",
-            "201",
             "negative",
-            "04",
             "positive",
             "patient",
             "receive",
@@ -208,13 +200,14 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "NY-ESO-1 peptide vaccine",
             "aldesleukin"
       ],
       "criteria": [
@@ -233,8 +226,6 @@
             "measurable",
             "evaluable",
             "disease",
-            "201",
-            "04",
             "positive",
             "patient",
             "characteristic",
@@ -275,11 +266,8 @@
             "greater",
             "cardiovascular",
             "cardiac",
-            "ischemia",
             "myocardial",
-            "infarction",
             "cardiac",
-            "arrhythmia",
             "note",
             "administration",
             "pulmonary",
@@ -351,12 +339,18 @@
             "therapy",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020397.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00020397"
 }

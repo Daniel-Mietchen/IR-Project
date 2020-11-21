@@ -54,17 +54,20 @@
             "swsd"
       ],
       "condition": [
+            "apnea",
+            "obstructive",
+            "apnea",
+            "syndrome",
             "sleep",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "armodafinil"
+            "CEP-10953 (Armodafinil)"
       ],
       "description": [
-            "armodafinil",
             "po",
             "100",
             "250",
@@ -458,7 +461,7 @@
             "sensitivity",
             "stimulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -467,6 +470,20 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078312.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nuvigil"
+      ],
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "apnea",
+            "obstructive",
+            "wake",
+            "disorder",
+            "disorder",
+            "circadian",
+            "rhythm"
+      ],
+      "id": "NCT00078312"
 }

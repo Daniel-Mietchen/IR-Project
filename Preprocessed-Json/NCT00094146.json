@@ -82,15 +82,14 @@
             "placebo"
       ],
       "condition": [
-            "obesity"
+            "insulin",
+            "hypersecretion"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sandostatin",
-            "lar",
-            "depot"
+            "Sandostatin LAR Depot"
       ],
       "criteria": [
             "inclusion",
@@ -139,7 +138,7 @@
             "sandostatin",
             "depot"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -148,6 +147,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094146.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "obesity"
+      ],
+      "mesh_term": [],
+      "id": "NCT00094146"
 }

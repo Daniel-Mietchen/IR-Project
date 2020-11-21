@@ -231,21 +231,48 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "celecoxib",
+            "gemcitabine hydrochloride",
             "zileuton"
       ],
       "description": [
-            "give",
+            "iv",
+            "po",
+            "iv",
             "po"
       ],
       "arm_group_label": [
-            "gem",
+            "carboplatin",
+            "zileuton",
+            "carboplatin",
+            "celecoxib",
+            "carboplatin",
+            "zilueton",
+            "celecoxib",
+            "carboplatin",
+            "celecoxib",
+            "carboplatin",
+            "zilueton",
+            "celecoxib",
+            "carboplatin",
+            "zileuton",
+            "carboplatin",
+            "celecoxib",
+            "carboplatin",
+            "zilueton",
+            "celecoxib",
+            "carboplatin",
+            "zileuton",
             "carboplatin",
             "zilueton",
             "celecoxib"
@@ -578,7 +605,7 @@
             "montelukast",
             "pranlukast"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -587,6 +614,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070486.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00070486"
 }

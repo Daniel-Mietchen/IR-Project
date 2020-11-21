@@ -228,24 +228,79 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "cancer",
+            "iii",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "aldesleukin",
+            "bryostatin 1",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "subcutaneously",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "aldesleukin",
+            "lowest",
+            "dose",
+            "bryostatin",
+            "1",
+            "ii",
+            "aldesleukin",
+            "middle",
+            "dose",
+            "bryostatin",
+            "1",
+            "iii",
+            "aldesleukin",
+            "highest",
+            "dose",
+            "bryostatin",
+            "1",
+            "aldesleukin",
+            "lowest",
+            "dose",
+            "bryostatin",
+            "1",
+            "ii",
+            "aldesleukin",
+            "middle",
+            "dose",
+            "bryostatin",
+            "1",
+            "iii",
+            "aldesleukin",
+            "highest",
+            "dose",
+            "bryostatin",
+            "1",
+            "aldesleukin",
+            "lowest",
+            "dose",
+            "bryostatin",
+            "1",
+            "ii",
+            "aldesleukin",
+            "middle",
+            "dose",
+            "bryostatin",
+            "1",
             "iii",
             "aldesleukin",
             "highest",
@@ -254,7 +309,7 @@
             "1"
       ],
       "other_name": [
-            "bryostatin"
+            "human"
       ],
       "criteria": [
             "inclusion",
@@ -407,12 +462,17 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032188.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell",
+            "1"
+      ],
+      "id": "NCT00032188"
 }

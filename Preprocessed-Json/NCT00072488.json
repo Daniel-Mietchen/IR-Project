@@ -218,16 +218,16 @@
             "1",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "positron",
-            "emission",
-            "tomography"
+            "computed tomography",
+            "magnetic resonance imaging",
+            "positron emission tomography"
       ],
       "criteria": [
             "disease",
@@ -394,12 +394,19 @@
             "since",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072488.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "previously",
+            "treat",
+            "childhood",
+            "rhabdomyosarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00072488"
 }

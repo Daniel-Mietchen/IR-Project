@@ -338,19 +338,15 @@
             "procedure"
       ],
       "condition": [
-            "severe",
             "combine",
             "immunodeficiency",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cell",
-            "transduce",
-            "ada",
-            "retrovir"
+            "CD34+ cells transduced with ADA retrovir"
       ],
       "criteria": [
             "inclusion",
@@ -805,12 +801,22 @@
             "follow",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immune",
+            "deficiency"
+      ],
+      "mesh_term": [
+            "deficiency",
+            "syndrome",
+            "combine",
+            "immunodeficiency"
+      ],
+      "id": "NCT00018018"
 }

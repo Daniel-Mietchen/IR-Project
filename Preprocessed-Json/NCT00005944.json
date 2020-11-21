@@ -254,17 +254,27 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "laparoscopic",
-            "surgery"
+            "chemotherapy",
+            "fluorouracil",
+            "leucovorin calcium",
+            "mitomycin C",
+            "conventional surgery",
+            "laparoscopic surgery"
       ],
       "criteria": [
             "disease",
@@ -395,12 +405,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005944.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00005944"
 }

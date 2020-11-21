@@ -30,13 +30,16 @@
             "cancer"
       ],
       "condition": [
-            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ALIMTA",
+            "carboplatin",
             "cisplatin"
       ],
       "criteria": [
@@ -101,12 +104,15 @@
             "serious",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051506.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051506"
 }

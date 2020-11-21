@@ -109,15 +109,13 @@
             "accrue"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amifostine",
-            "trihydrate"
+            "amifostine trihydrate"
       ],
       "criteria": [
             "disease",
@@ -226,12 +224,22 @@
             "pyridoxine",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003123.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "anemia",
+            "excess",
+            "blast",
+            "transformation"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00003123"
 }

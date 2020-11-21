@@ -250,30 +250,61 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "solid",
+            "neoplasm",
+            "breast",
+            "carcinoma",
+            "breast",
+            "carcinoma",
+            "iiia",
+            "breast",
+            "cancer",
             "iiib",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Other",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "tipifarnib"
+            "Capecitabine",
+            "Docetaxel",
+            "Laboratory Biomarker Analysis",
+            "Pharmacological Study",
+            "Tipifarnib"
       ],
       "description": [
-            "give",
+            "po",
+            "iv",
+            "study",
+            "study",
             "orally",
             "po"
       ],
       "arm_group_label": [
-            "treatment",
+            "tipifarnib",
+            "capecitabine",
+            "docetaxel",
+            "tipifarnib",
+            "capecitabine",
+            "docetaxel",
+            "tipifarnib",
+            "capecitabine",
+            "docetaxel",
+            "tipifarnib",
+            "capecitabine",
+            "docetaxel",
             "tipifarnib",
             "capecitabine",
             "docetaxel"
       ],
       "other_name": [
-            "zarnestra"
+            "injection",
+            "concentrate"
       ],
       "criteria": [
             "inclusion",
@@ -339,7 +370,6 @@
             "disease",
             "confirm",
             "1",
-            "follow",
             "incisional",
             "biopsy",
             "punch",
@@ -558,12 +588,19 @@
             "sorivudine",
             "brivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070252.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "breast",
+            "neoplasm"
+      ],
+      "id": "NCT00070252"
 }

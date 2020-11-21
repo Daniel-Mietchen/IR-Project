@@ -94,15 +94,19 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "dipivoxil"
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Efavirenz",
+            "Adefovir dipivoxil"
       ],
       "criteria": [
             "inclusion",
@@ -215,12 +219,22 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002419.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00002419"
 }

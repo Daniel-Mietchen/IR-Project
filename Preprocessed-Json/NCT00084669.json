@@ -139,7 +139,6 @@
             "zolpidem",
             "daily",
             "5",
-            "week",
             "arm",
             "ii",
             "patient",
@@ -151,7 +150,6 @@
             "placebo",
             "daily",
             "5",
-            "week",
             "stratum",
             "2",
             "concurrently",
@@ -169,7 +167,6 @@
             "zolpidem",
             "daily",
             "5",
-            "week",
             "arm",
             "ii",
             "patient",
@@ -178,7 +175,6 @@
             "placebo",
             "daily",
             "5",
-            "week",
             "note",
             "5",
             "week",
@@ -254,16 +250,19 @@
             "month"
       ],
       "condition": [
-            "sleep",
+            "cancer",
+            "flash",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "venlafaxine",
+            "zolpidem tartrate",
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -636,9 +635,7 @@
             "sleep",
             "mood"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -647,6 +644,19 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "wake",
+            "disorder",
+            "hydrochloride"
+      ],
+      "id": "NCT00084669"
 }

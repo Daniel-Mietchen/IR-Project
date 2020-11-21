@@ -312,15 +312,16 @@
             "maintain"
       ],
       "condition": [
-            "zollinger",
+            "cell",
+            "adenoma",
             "ellison",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon"
       ],
       "criteria": [
             "inclusion",
@@ -423,12 +424,20 @@
             "presence",
             "cholelithiases"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001228.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "islet",
+            "cell"
+      ],
+      "id": "NCT00001228"
 }

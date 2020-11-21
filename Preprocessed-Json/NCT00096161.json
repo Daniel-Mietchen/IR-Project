@@ -227,30 +227,63 @@
             "thereafter"
       ],
       "condition": [
-            "waldenstrom",
+            "lymphoblastic",
+            "leukemia",
+            "myeloid",
+            "leukemia",
+            "lymphocytic",
+            "leukemia",
+            "myelogenous",
+            "leukemia",
+            "positive",
+            "versus",
+            "host",
+            "disease",
+            "lymphoma",
+            "neoplasm",
+            "lymphoma",
+            "cell",
+            "myeloma",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "allogeneic",
-            "lymphocyte"
+            "Cyclosporine",
+            "Mycophenolate Mofetil",
+            "Pentostatin",
+            "Therapeutic Allogeneic Lymphocytes"
       ],
       "description": [
-            "give",
+            "po",
+            "po",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "pentostatin",
+            "dli",
+            "mycophenolate",
+            "mofetil",
+            "cyclosporine",
+            "dli",
+            "mycophenolate",
+            "mofetil",
+            "cyclosporine",
+            "dli",
+            "mycophenolate",
+            "mofetil",
+            "cyclosporine",
             "dli",
             "mycophenolate",
             "mofetil",
             "cyclosporine"
       ],
       "other_name": [
-            "allogeneic",
+            "r",
             "lymphocyte"
       ],
       "criteria": [
@@ -526,9 +559,34 @@
             "require",
             "delay"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096161.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "cell",
+            "lymphoblastic",
+            "myeloid",
+            "disease",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "v",
+            "host",
+            "disease",
+            "disorder",
+            "macroglobulinemia",
+            "disease",
+            "myeloma",
+            "plasma",
+            "cell",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00096161"
 }

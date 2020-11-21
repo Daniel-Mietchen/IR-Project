@@ -28,24 +28,20 @@
             "cancer"
       ],
       "condition": [
-            "lung",
             "cancer",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "lapatinib"
+            "GW572016 (lapatinib)"
       ],
       "description": [
-            "tyrosine",
             "kinase",
             "inhibitor"
       ],
-      "arm_group_label": [
-            "lapatinib"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -688,12 +684,19 @@
             "wort",
             "modafinil"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073008.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nsclc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00073008"
 }

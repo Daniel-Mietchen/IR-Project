@@ -21,19 +21,18 @@
             "solid",
             "tumor"
       ],
-      "condition": [
-            "tumor"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amg",
-            "706"
+            "Anti-angiogenesis",
+            "AMG 706"
       ],
       "description": [],
       "arm_group_label": [
-            "amg",
+            "706",
             "706"
       ],
       "criteria": [
@@ -42,12 +41,17 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "solid",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093873"
 }

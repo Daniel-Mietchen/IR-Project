@@ -153,7 +153,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -161,11 +160,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "physical",
-            "therapy"
+            "epoetin alfa",
+            "physical therapy"
       ],
       "criteria": [
             "disease",
@@ -273,12 +273,18 @@
             "hour",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004914.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fatigue"
+      ],
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00004914"
 }

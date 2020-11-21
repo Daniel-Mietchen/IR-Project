@@ -193,18 +193,24 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "etoposide",
+            "melphalan",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -333,9 +339,16 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008190.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00008190"
 }

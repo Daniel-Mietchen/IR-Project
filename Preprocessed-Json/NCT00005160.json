@@ -200,7 +200,10 @@
             "2007"
       ],
       "condition": [
-            "menopausal",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
             "syndrome"
       ],
       "study_pop": [],
@@ -226,9 +229,7 @@
             "cancer",
             "stroke"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "20",
             "year"
@@ -237,6 +238,12 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005160.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005160"
 }

@@ -290,9 +290,7 @@
             "implement",
             "intervention"
       ],
-      "condition": [
-            "infection"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "intensive",
@@ -302,7 +300,7 @@
             "vre",
             "colonization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -311,6 +309,12 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018434.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00018434"
 }

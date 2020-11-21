@@ -234,15 +234,14 @@
             "48"
       ],
       "condition": [
-            "hiv",
+            "disorder",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "selegiline",
-            "hydrochloride"
+            "Selegiline hydrochloride"
       ],
       "criteria": [
             "note",
@@ -452,12 +451,20 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013585.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neuroprotective",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "disorder"
+      ],
+      "id": "NCT00013585"
 }

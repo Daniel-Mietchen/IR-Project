@@ -151,18 +151,32 @@
             "year"
       ],
       "condition": [
+            "0",
+            "cervical",
+            "cancer",
             "squamous",
             "intraepithelial",
             "lesion"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "growth",
-            "factor",
-            "antagonist",
-            "therapy"
+            "celecoxib",
+            "anti-cytokine therapy",
+            "antiangiogenesis therapy",
+            "biological therapy",
+            "cancer prevention intervention",
+            "chemoprevention of cancer",
+            "enzyme inhibitor therapy",
+            "growth factor antagonist therapy"
       ],
       "criteria": [
             "disease",
@@ -332,12 +346,22 @@
             "drug",
             "nsaid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072540.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "intraepithelial",
+            "lesion",
+            "cervix",
+            "intraepithelial",
+            "neoplasia",
+            "inhibitor"
+      ],
+      "id": "NCT00072540"
 }

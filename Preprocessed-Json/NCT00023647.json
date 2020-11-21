@@ -140,22 +140,31 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "synchrotope"
+            "Synchrotope TA2M",
+            "Synchrotope TA2M",
+            "Synchrotope TA2M"
       ],
       "description": [
-            "cancer",
+            "vaccine",
+            "immunotherapy",
+            "vaccine",
+            "immunotherapy",
             "vaccine",
             "immunotherapy"
       ],
       "arm_group_label": [
-            "synchrotope",
+            "800",
+            "microgram",
+            "200",
+            "microgram",
             "400",
             "microgram"
       ],
@@ -402,12 +411,17 @@
             "four",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023647.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00023647"
 }

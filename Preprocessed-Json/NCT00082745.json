@@ -147,20 +147,26 @@
             "complication"
       ],
       "condition": [
-            "malignant",
+            "survivor",
+            "complication",
             "childhood",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "questionnaire",
-            "administration"
+            "Laboratory Biomarker Analysis",
+            "Questionnaire Administration"
       ],
       "description": [
-            "ancillary",
+            "study",
             "study"
       ],
       "arm_group_label": [
+            "genetic",
+            "analysis",
             "genetic",
             "analysis"
       ],
@@ -430,12 +436,12 @@
             "cancer",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082745.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00082745"
 }

@@ -137,16 +137,47 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "prostate",
+            "iii",
+            "prostate",
+            "cancer",
+            "iv",
+            "prostate",
+            "cancer",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "hormone",
-            "therapy"
+            "antineoplaston A10",
+            "antineoplaston AS2-1",
+            "bicalutamide",
+            "flutamide",
+            "leuprolide acetate",
+            "alternative product therapy",
+            "antiandrogen therapy",
+            "biological therapy",
+            "biologically based therapies",
+            "cancer prevention intervention",
+            "complementary and alternative therapy",
+            "differentiation therapy",
+            "endocrine therapy",
+            "hormone therapy"
       ],
       "criteria": [
             "disease",
@@ -300,12 +331,16 @@
             "prostate",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003517.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "antagonist"
+      ],
+      "id": "NCT00003517"
 }

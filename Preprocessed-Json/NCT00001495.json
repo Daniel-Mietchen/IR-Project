@@ -131,14 +131,12 @@
             "tumor",
             "tissue"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan"
+            "irinotecan (CPT-11)"
       ],
       "criteria": [
             "disease",
@@ -243,9 +241,13 @@
             "prior",
             "registration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001495.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001495"
 }

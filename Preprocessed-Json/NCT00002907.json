@@ -103,18 +103,16 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bryostatin",
-            "1"
+            "bryostatin 1"
       ],
       "criteria": [
             "disease",
@@ -280,12 +278,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002907.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "1"
+      ],
+      "id": "NCT00002907"
 }

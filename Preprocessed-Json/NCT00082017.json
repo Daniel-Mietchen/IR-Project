@@ -433,13 +433,13 @@
             "patient",
             "treat"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "UCN-01 (7-hydroxystaurosporine)"
+      ],
       "description": [
             "relapse",
             "refractory",
@@ -478,7 +478,6 @@
             "cycle",
             "every",
             "28",
-            "day",
             "relapse",
             "refractory",
             "lymphoma",
@@ -519,6 +518,12 @@
             "day"
       ],
       "arm_group_label": [
+            "lymphoma",
+            "cohort",
+            "1",
+            "every",
+            "28",
+            "day",
             "lymphoma",
             "cohort",
             "2",
@@ -796,12 +801,18 @@
             "eligible",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082017.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "anaplastic"
+      ],
+      "id": "NCT00082017"
 }

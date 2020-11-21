@@ -397,14 +397,15 @@
             "future"
       ],
       "condition": [
-            "aplastic",
             "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "apheresis"
+            "G-CSF",
+            "Apheresis"
       ],
       "criteria": [
             "inclusion",
@@ -596,9 +597,15 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011830.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukapheresis"
+      ],
+      "mesh_term": [
+            "aplastic"
+      ],
+      "id": "NCT00011830"
 }

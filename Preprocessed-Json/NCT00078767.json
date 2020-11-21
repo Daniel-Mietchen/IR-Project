@@ -120,19 +120,30 @@
             "disorder"
       ],
       "condition": [
-            "stress",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "oral",
-            "tablet"
+            "Trauma-Focused Cognitive Behavioral Therapy",
+            "Sertraline Pill",
+            "Placebo Oral Tablet"
       ],
       "description": [
-            "12",
+            "week",
+            "cbt",
+            "youth",
+            "parent",
+            "week",
+            "sertraline",
+            "pill",
+            "flexible",
+            "dosage",
+            "administer",
+            "receive",
             "week",
             "placebo",
             "pill",
@@ -141,7 +152,10 @@
             "administer",
             "receive"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "sertraline",
+            "sertraline"
+      ],
       "criteria": [
             "inclusion",
             "1",
@@ -202,7 +216,7 @@
             "abuse",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -211,6 +225,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078767.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anxiety"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00078767"
 }

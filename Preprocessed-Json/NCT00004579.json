@@ -52,13 +52,17 @@
             "year"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "gp160 MN/LAI-2",
+            "ALVAC-HIV MN120TMG (vCP205)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -142,7 +146,7 @@
             "study",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -151,6 +155,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004579.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "recombination",
+            "genetic"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00004579"
 }

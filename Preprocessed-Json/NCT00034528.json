@@ -142,16 +142,56 @@
             "hemoglobinopathy"
       ],
       "condition": [
-            "thalassemia",
+            "sickle",
+            "cell",
+            "sc",
+            "disease",
             "major"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "prednisone"
+            "Busulfan",
+            "Fludarabine",
+            "FK506",
+            "Prednisone"
       ],
       "description": [
+            "administer",
+            "single",
+            "intravenous",
+            "infusion",
+            "3",
+            "hour",
+            "4",
+            "day",
+            "infusion",
+            "anticipate",
+            "give",
+            "outpatient",
+            "clinic",
+            "administer",
+            "bolus",
+            "infusion",
+            "30",
+            "minute",
+            "4",
+            "day",
+            "infusion",
+            "anticipate",
+            "give",
+            "outpatient",
+            "clinic",
+            "take",
+            "orally",
+            "daily",
+            "12",
+            "14",
+            "week",
             "take",
             "orally",
             "four",
@@ -178,14 +218,20 @@
             "week"
       ],
       "arm_group_label": [
-            "allogeneic",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
             "stem",
             "cell",
             "transplantation"
       ],
-      "other_name": [
-            "tacromilus"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -345,12 +391,19 @@
             "virus",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034528.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "sc",
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00034528"
 }

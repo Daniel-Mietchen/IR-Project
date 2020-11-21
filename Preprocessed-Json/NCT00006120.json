@@ -201,13 +201,14 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "paclitaxel"
       ],
       "criteria": [
@@ -403,9 +404,7 @@
             "experimental",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -414,6 +413,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006120.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00006120"
 }

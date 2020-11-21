@@ -145,16 +145,13 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "autologous",
-            "lymphocyte"
+            "therapeutic autologous lymphocytes"
       ],
       "criteria": [
             "disease",
@@ -171,11 +168,6 @@
             "class",
             "ii",
             "allele",
-            "0401",
-            "0404",
-            "1501",
-            "0401",
-            "0402",
             "tumor",
             "express",
             "tyrosinase",
@@ -258,7 +250,6 @@
             "cardiovascular",
             "significant",
             "cardiac",
-            "abnormality",
             "define",
             "1",
             "follow",
@@ -280,7 +271,6 @@
             "drug",
             "therapy",
             "note",
-            "patient",
             "history",
             "cardiovascular",
             "disease",
@@ -416,7 +406,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -425,6 +415,12 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045357.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00045357"
 }

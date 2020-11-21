@@ -124,15 +124,13 @@
             "month"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "erlotinib",
-            "hydrochloride"
+            "erlotinib hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -463,14 +461,22 @@
             "investigator",
             "discretion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030485.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00030485"
 }

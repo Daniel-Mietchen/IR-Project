@@ -201,19 +201,22 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "lidocaine",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo",
+            "patch",
             "patch"
       ],
       "criteria": [
@@ -274,7 +277,6 @@
             "cover",
             "3",
             "lidocaine",
-            "patch",
             "note",
             "patch",
             "size",
@@ -365,7 +367,6 @@
             "chemotherapy",
             "prior",
             "neurotoxic",
-            "chemotherapy",
             "pain",
             "area",
             "postsurgical",
@@ -379,9 +380,7 @@
             "administration",
             "concurrent",
             "neurotoxic",
-            "chemotherapy",
             "note",
-            "include",
             "taxanes",
             "paclitaxel",
             "docetaxel",
@@ -473,7 +472,7 @@
             "heavily",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -482,6 +481,10 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058357.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [],
+      "id": "NCT00058357"
 }

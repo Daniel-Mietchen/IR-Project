@@ -166,17 +166,13 @@
             "week"
       ],
       "condition": [
-            "radiation",
             "effect"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "benzydamine",
-            "hydrochloride",
-            "oral",
-            "rinse"
+            "Benzydamine Hydrochloride 0.15% Oral Rinse"
       ],
       "criteria": [
             "inclusion",
@@ -402,12 +398,17 @@
             "chemotherapy",
             "infusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051441.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "effect"
+      ],
+      "mesh_term": [],
+      "id": "NCT00051441"
 }

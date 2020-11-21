@@ -63,18 +63,15 @@
             "nsclc"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cytotoxic",
-            "taxane"
+            "BAY59-8862 (Cytotoxic Taxane)"
       ],
       "description": [
-            "intravenous",
             "dose",
             "60",
             "minute",
@@ -83,7 +80,6 @@
             "week"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -215,12 +211,18 @@
             "patient",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044538.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nsclc"
+      ],
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00044538"
 }

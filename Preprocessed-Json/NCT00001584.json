@@ -169,7 +169,6 @@
             "agent"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -265,11 +264,16 @@
             "donation",
             "semen"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001584.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sexual",
+            "transmission"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001584"
 }

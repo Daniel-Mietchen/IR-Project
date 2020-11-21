@@ -215,15 +215,16 @@
             "survival"
       ],
       "condition": [
-            "lymphoma",
+            "lymphocytic",
+            "chronic",
             "small",
             "lymphocytic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pivanex"
+            "Pivanex"
       ],
       "criteria": [
             "inclusion",
@@ -435,12 +436,24 @@
             "reagent",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083473.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "histone",
+            "deacetylase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "deacetylase",
+            "inhibitor"
+      ],
+      "id": "NCT00083473"
 }

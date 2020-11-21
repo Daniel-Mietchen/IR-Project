@@ -75,12 +75,16 @@
             "basis"
       ],
       "condition": [
-            "gliosarcoma"
+            "multiforme",
+            "astrocytoma",
+            "mix"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Interferon-beta"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -354,12 +358,16 @@
             "previous",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "biogen"
+      ],
+      "mesh_term": [],
+      "id": "NCT00031083"
 }

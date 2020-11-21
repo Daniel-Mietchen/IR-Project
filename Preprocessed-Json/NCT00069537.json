@@ -143,17 +143,15 @@
             "perform"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "continuous",
-            "glucose",
-            "monitor",
-            "system"
+            "The GlucoWatch\u00ae G2\u2122 Biographer (GW2B)",
+            "The Continuous Glucose Monitoring System (CGMS\u2122)"
       ],
       "criteria": [
             "inclusion",
@@ -216,7 +214,7 @@
             "high",
             "fever"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -225,6 +223,18 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069537.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "continuous",
+            "glucose",
+            "monitor",
+            "device"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00069537"
 }

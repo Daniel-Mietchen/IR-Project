@@ -193,18 +193,22 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "breast",
+            "cancer",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "tamoxifen",
             "trastuzumab"
       ],
       "arm_group_label": [
-            "trastuzumab",
+            "tamoxifen",
             "tamoxifen"
       ],
       "criteria": [
@@ -399,12 +403,15 @@
             "cardioprotective",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053339.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00053339"
 }

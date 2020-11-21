@@ -109,18 +109,20 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "incomplete",
-            "freund",
-            "adjuvant"
+            "NY-ESO-1 peptide vaccine",
+            "incomplete Freund's adjuvant"
       ],
       "criteria": [
             "disease",
@@ -185,9 +187,7 @@
             "ct",
             "scan",
             "abdomen",
-            "pelvis",
             "note",
-            "lymph",
             "nod",
             "soft",
             "tissue",
@@ -363,14 +363,24 @@
             "pain",
             "control"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066729.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00066729"
 }

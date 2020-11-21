@@ -205,17 +205,78 @@
             "year"
       ],
       "condition": [
-            "lymphoproliferative",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "rituximab",
+            "cyclophosphamide",
+            "methylprednisolone",
             "prednisone"
       ],
       "description": [
+            "1",
+            "2",
+            "give",
+            "iv",
+            "incremental",
+            "first",
             "dosage",
+            "21",
+            "year",
+            "age",
+            "maximum",
+            "50",
+            "hour",
+            "21",
+            "year",
+            "age",
+            "50",
+            "hour",
+            "subsequent",
+            "dosage",
+            "21",
+            "year",
+            "age",
+            "maximum",
+            "50",
+            "hour",
+            "21",
+            "year",
+            "age",
+            "100",
+            "hour",
+            "day",
+            "1",
+            "8",
+            "15",
+            "iv",
+            "minute",
+            "dose",
+            "600",
+            "ml",
+            "normal",
+            "saline",
+            "n",
+            "5",
+            "maximum",
+            "concentration",
+            "20",
+            "minute",
+            "day",
+            "1",
+            "cycle",
+            "iv",
+            "12",
+            "hour",
+            "day",
+            "5",
+            "cycle",
             "1",
             "orally",
             "every",
@@ -235,12 +296,21 @@
             "size"
       ],
       "arm_group_label": [
-            "cyclophosphamide",
+            "prednisone",
+            "rituximab",
+            "prednisone",
+            "rituximab",
+            "prednisone",
+            "rituximab",
             "prednisone",
             "rituximab"
       ],
       "other_name": [
-            "nsc",
+            "687451",
+            "26271",
+            "pred",
+            "010023",
+            "pred",
             "010023"
       ],
       "criteria": [
@@ -390,12 +460,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066469.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoproliferative",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00066469"
 }

@@ -424,20 +424,59 @@
             "anderson"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "syndrome",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplant"
+            "Mylotarg",
+            "Fludarabine",
+            "Melphalan",
+            "Anti-thymocyte globulin",
+            "Stem cell transplant"
       ],
       "description": [
-            "allogeneic",
+            "dose",
+            "2",
+            "intravenous",
+            "infusion",
+            "day",
+            "give",
+            "intravenously",
+            "daily",
+            "time",
+            "30",
+            "minute",
+            "day",
+            "give",
+            "intravenously",
+            "20",
+            "minute",
+            "start",
+            "2",
+            "hour",
+            "begin",
+            "fludarabine",
+            "infusion",
+            "day",
+            "unrelated",
+            "mismatch",
+            "relate",
+            "donor",
+            "receive",
+            "day",
+            "day",
+            "follow",
+            "chemotherapy",
             "bone",
             "marrow",
             "peripheral",
@@ -456,14 +495,33 @@
             "0"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "atg",
+            "stem",
+            "cell",
+            "infusion",
+            "atg",
+            "stem",
+            "cell",
+            "infusion",
+            "atg",
+            "stem",
+            "cell",
+            "infusion",
+            "atg",
+            "stem",
+            "cell",
+            "infusion",
             "atg",
             "stem",
             "cell",
             "infusion"
       ],
       "other_name": [
-            "allo",
+            "ozogamicin",
+            "phosphate",
+            "globulin",
+            "globulin",
+            "atg",
             "pbsct"
       ],
       "criteria": [
@@ -652,7 +710,7 @@
             "cns",
             "leukemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -661,6 +719,21 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038831.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "allogeneic",
+            "transplantation"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate",
+            "serum"
+      ],
+      "id": "NCT00038831"
 }

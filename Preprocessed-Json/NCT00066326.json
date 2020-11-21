@@ -149,13 +149,13 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "imatinib mesylate",
             "tanespimycin"
       ],
       "criteria": [
@@ -391,12 +391,25 @@
             "indinavir",
             "nelfinavir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066326.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00066326"
 }

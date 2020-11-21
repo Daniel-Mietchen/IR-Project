@@ -81,27 +81,38 @@
             "therapy"
       ],
       "condition": [
-            "osteoporosis"
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "letrozole"
+            "Zoledronic Acid",
+            "Letrozole"
       ],
       "description": [
-            "participant",
+            "receive",
+            "zoledronate",
+            "4",
+            "mg",
+            "iv",
+            "infusion",
+            "every",
+            "6",
+            "month",
             "receive",
             "letrozole",
             "mg",
             "daily"
       ],
       "arm_group_label": [
-            "zoledronate"
+            "acid",
+            "upfront",
+            "acid",
+            "upfront"
       ],
-      "other_name": [
-            "femara"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -646,9 +657,7 @@
             "may",
             "apply"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -657,6 +666,11 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050011.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00050011"
 }

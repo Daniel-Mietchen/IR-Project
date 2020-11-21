@@ -124,25 +124,20 @@
             "month"
       ],
       "condition": [
-            "recurrent",
             "endometrial",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "lapatinib",
-            "ditosylate"
+            "lapatinib ditosylate"
       ],
       "arm_group_label": [
-            "treatment",
             "lapatinib",
             "ditosylate"
       ],
-      "other_name": [
-            "tykerb"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -459,14 +454,15 @@
             "therapy",
             "patient"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096447.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096447"
 }

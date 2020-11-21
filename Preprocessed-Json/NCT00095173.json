@@ -41,17 +41,42 @@
             "flare"
       ],
       "condition": [
-            "juvenile",
             "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abatacept"
+            "Abatacept",
+            "Placebo",
+            "Abatacept"
       ],
       "description": [
+            "infusion",
+            "iv",
+            "body",
+            "weight",
+            "every",
+            "4",
+            "week",
+            "6",
+            "month",
+            "unless",
+            "disease",
+            "flare",
+            "discontinue",
+            "patient",
+            "earlier",
+            "infusion",
+            "iv",
+            "every",
+            "4",
+            "week",
+            "6",
+            "month",
             "solution",
             "intravenous",
             "approximately",
@@ -82,13 +107,10 @@
             "monthly"
       ],
       "arm_group_label": [
-            "abatacept",
             "open",
             "label"
       ],
-      "other_name": [
-            "orencia"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -168,7 +190,7 @@
             "activation",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -177,6 +199,15 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095173.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "juvenile",
+            "idiopathic",
+            "arthritis"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "juvenile"
+      ],
+      "id": "NCT00095173"
 }

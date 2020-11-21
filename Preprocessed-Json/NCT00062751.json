@@ -44,25 +44,44 @@
             "disease"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "letrozole"
+            "Letrozole / Temsirolimus (CCI-779)",
+            "Letrozole / Temsirolimus (CCI-779)",
+            "Letrozole"
       ],
       "description": [
-            "letrozole",
+            "mg",
+            "daily",
+            "temsirolimus",
+            "10",
+            "mg",
+            "daily",
+            "mg",
+            "daily",
+            "temsirolimus",
+            "intermittent",
+            "30",
+            "mg",
+            "daily",
+            "five",
+            "day",
+            "every",
+            "2",
+            "week",
             "mg",
             "daily"
       ],
-      "arm_group_label": [
-            "c"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "letrozole",
+            "temsirolimus",
+            "torisel",
             "alone"
       ],
       "criteria": [
@@ -153,14 +172,18 @@
             "treatment",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062751.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00062751"
 }

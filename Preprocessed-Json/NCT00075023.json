@@ -758,17 +758,18 @@
             "8"
       ],
       "condition": [
-            "stomatitis"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "gel"
+            "Thalidomide Gel",
+            "Placebo Gel"
       ],
       "arm_group_label": [
-            "placebo"
+            "gel"
       ],
       "criteria": [
             "inclusion",
@@ -929,7 +930,7 @@
             "le",
             "3"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -938,6 +939,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075023.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oral",
+            "chronic",
+            "disease"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00075023"
 }

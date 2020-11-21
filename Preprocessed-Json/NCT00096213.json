@@ -148,22 +148,15 @@
             "within",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "conventional surgery"
       ],
-      "description": [
-            "surgery"
-      ],
-      "arm_group_label": [
-            "surgery"
-      ],
+      "description": [],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -317,12 +310,10 @@
             "surgery",
             "tumor",
             "except",
-            "biopsy",
             "concurrent",
             "intramedullary",
             "fixation",
             "note",
-            "biopsy",
             "require",
             "prior",
             "investigational",
@@ -330,12 +321,16 @@
             "agent",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096213.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chondrosarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00096213"
 }

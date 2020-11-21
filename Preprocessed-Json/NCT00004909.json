@@ -156,7 +156,9 @@
             "month"
       ],
       "condition": [
-            "quality",
+            "cancer",
+            "tumor",
+            "peritoneum",
             "life"
       ],
       "study_pop": [],
@@ -225,14 +227,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004909.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00004909"
 }

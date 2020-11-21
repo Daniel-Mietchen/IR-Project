@@ -394,13 +394,15 @@
             "questionnaire"
       ],
       "condition": [
-            "uveitis"
+            "behcet",
+            "syndrome",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "daclizumab"
+            "Daclizumab"
       ],
       "criteria": [
             "inclusion",
@@ -597,9 +599,17 @@
             "course",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001865.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ocular",
+            "disease"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00001865"
 }

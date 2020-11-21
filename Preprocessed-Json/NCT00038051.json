@@ -212,17 +212,22 @@
             "study"
       ],
       "condition": [
-            "anemia",
+            "myeloid",
+            "leukemia",
+            "myelomonocytic",
+            "leukemia",
+            "disorder",
             "refractory",
             "excess",
             "blast"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Hum-195/rGel"
+      ],
       "description": [
-            "start",
             "dose",
             "3",
             "twice",
@@ -473,12 +478,27 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038051.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "myelomonocytic",
+            "acute",
+            "myelomonocytic",
+            "chronic",
+            "disorder",
+            "refractory",
+            "refractory",
+            "excess",
+            "blast"
+      ],
+      "id": "NCT00038051"
 }

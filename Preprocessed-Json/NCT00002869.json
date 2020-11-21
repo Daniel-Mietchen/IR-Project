@@ -178,13 +178,15 @@
             "multicenter",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
+            "cytarabine",
             "hydroxyurea"
       ],
       "criteria": [
@@ -265,9 +267,24 @@
             "prior",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002869.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "negative",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid"
+      ],
+      "id": "NCT00002869"
 }

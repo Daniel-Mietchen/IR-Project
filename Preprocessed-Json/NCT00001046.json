@@ -156,13 +156,17 @@
             "month"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MF59",
+            "rgp120/HIV-1 SF-2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -367,9 +371,7 @@
             "patient",
             "history"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
@@ -378,6 +380,14 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001046.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001046"
 }

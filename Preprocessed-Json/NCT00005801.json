@@ -224,15 +224,16 @@
             "2",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "therapeutic allogeneic lymphocytes",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -363,7 +364,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -372,6 +373,16 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005801.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "monocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00005801"
 }

@@ -98,15 +98,13 @@
             "efficacy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine",
-            "azt"
+            "Zidovudine (AZT) & Interleukin-2 (IL2)"
       ],
       "criteria": [
             "laboratory",
@@ -529,9 +527,13 @@
             "safety",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001282.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001282"
 }

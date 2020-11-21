@@ -50,15 +50,14 @@
             "trial"
       ],
       "condition": [
-            "congestive",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oxypurinol"
+            "Oxypurinol"
       ],
       "criteria": [
             "inclusion",
@@ -127,7 +126,7 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -136,6 +135,9 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063687.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00063687"
 }

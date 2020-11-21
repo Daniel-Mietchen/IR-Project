@@ -169,15 +169,15 @@
             "close"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "isi",
-            "5132"
+            "ISIS 3521",
+            "ISIS 5132"
       ],
       "criteria": [
             "disease",
@@ -386,14 +386,21 @@
             "anticoagulation",
             "heparin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003236.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "5132"
+      ],
+      "id": "NCT00003236"
 }

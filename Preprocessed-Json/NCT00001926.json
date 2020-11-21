@@ -62,14 +62,15 @@
             "volunteer"
       ],
       "condition": [
-            "healthy"
+            "map"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "cadwell",
-            "rtms"
+            "O15",
+            "Cadwell rTMS"
       ],
       "criteria": [
             "inclusion",
@@ -132,9 +133,15 @@
             "cns",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001926.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "transcranial",
+            "magnetic",
+            "stimulation"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001926"
 }

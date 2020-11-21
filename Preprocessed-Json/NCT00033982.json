@@ -326,13 +326,16 @@
             "year"
       ],
       "condition": [
-            "infection"
+            "disease",
+            "chronic",
+            "job",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "posaconazole"
+            "Posaconazole"
       ],
       "criteria": [
             "inclusion",
@@ -393,12 +396,23 @@
             "company",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033982.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fungal",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "syndrome",
+            "disease",
+            "chronic"
+      ],
+      "id": "NCT00033982"
 }

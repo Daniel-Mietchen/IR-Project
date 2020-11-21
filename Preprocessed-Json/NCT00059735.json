@@ -89,14 +89,18 @@
             "withdrawal"
       ],
       "condition": [
-            "adenocarcinoma",
+            "neoplasm",
+            "renal",
+            "cell",
             "renal",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "E7070"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -415,12 +419,22 @@
             "legal",
             "incapacity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00059735"
 }

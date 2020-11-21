@@ -115,17 +115,39 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
+            "dendritic cell-MART-1 peptide vaccine",
             "leukapheresis"
       ],
       "description": [
-            "patient",
+            "dc",
+            "dependent",
+            "group",
+            "route",
+            "immunization",
+            "dependent",
+            "group",
+            "subject",
+            "receive",
+            "3",
+            "biweekly",
+            "vaccination",
+            "case",
+            "grade",
+            "toxicity",
+            "subject",
+            "dose",
+            "group",
+            "route",
+            "6",
+            "subject",
+            "include",
+            "group",
             "require",
             "single",
             "leukapheresis",
@@ -165,7 +187,13 @@
             "group"
       ],
       "arm_group_label": [
-            "group",
+            "b",
+            "c",
+            "e",
+            "f",
+            "b",
+            "c",
+            "e",
             "f"
       ],
       "criteria": [
@@ -402,12 +430,17 @@
             "tumor",
             "growth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005617.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005617"
 }

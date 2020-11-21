@@ -204,14 +204,17 @@
             "study"
       ],
       "condition": [
-            "osteoporosis"
+            "cancer",
+            "flash",
+            "symptom"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "conjugate",
-            "estrogen"
+            "therapeutic progesterone",
+            "conjugated estrogens"
       ],
       "criteria": [
             "disease",
@@ -397,11 +400,19 @@
             "john",
             "wort"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079248.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "conjugate",
+            "usp"
+      ],
+      "id": "NCT00079248"
 }

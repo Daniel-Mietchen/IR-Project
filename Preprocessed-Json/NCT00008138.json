@@ -246,19 +246,73 @@
             "year"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "debulking",
-            "surgery"
+            "carboplatin",
+            "paclitaxel",
+            "debulking surgery"
       ],
       "description": [
-            "exploratory",
+            "target",
+            "day",
+            "1",
+            "iv",
+            "q",
+            "21",
+            "day",
+            "x",
+            "3",
+            "cycle",
+            "target",
+            "day",
+            "1",
+            "ip",
+            "q",
+            "28",
+            "day",
+            "x",
+            "6",
+            "cycle",
+            "175",
+            "iv",
+            "day",
+            "1",
+            "q",
+            "21",
+            "day",
+            "x",
+            "3",
+            "cycle",
+            "175",
+            "iv",
+            "day",
+            "1",
+            "q",
+            "28",
+            "day",
+            "x",
+            "6",
+            "cycle",
+            "60",
+            "ip",
+            "day",
+            "8",
+            "q",
+            "28",
+            "day",
+            "x",
+            "6",
+            "cycle",
             "laparotomy",
             "interval",
             "cytoreduction",
@@ -267,11 +321,11 @@
             "residual"
       ],
       "arm_group_label": [
+            "chemo",
+            "chemo",
             "chemo"
       ],
-      "other_name": [
-            "laparotomy"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -463,9 +517,7 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -474,6 +526,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00008138"
 }

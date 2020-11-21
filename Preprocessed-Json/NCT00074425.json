@@ -298,18 +298,50 @@
             "face"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "gel"
+            "BufferGel",
+            "PRO 2000/5 Gel",
+            "Placebo gel"
       ],
       "description": [
-            "participant",
+            "give",
+            "prefilled",
+            "applicator",
+            "gel",
+            "instruct",
+            "apply",
+            "one",
+            "dose",
+            "buffergel",
+            "intravaginally",
+            "60",
+            "minute",
+            "vaginal",
+            "intercourse",
+            "study",
+            "give",
+            "prefilled",
+            "applicator",
+            "gel",
+            "instruct",
+            "apply",
+            "one",
+            "dose",
+            "pro",
+            "gel",
+            "intravaginally",
+            "60",
+            "minute",
+            "vaginal",
+            "intercourse",
+            "study",
             "give",
             "prefilled",
             "applicator",
@@ -327,9 +359,7 @@
             "intercourse",
             "study"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "note",
             "per",
@@ -464,14 +494,22 @@
             "4",
             "higher"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074425.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "risk",
+            "factor"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00074425"
 }

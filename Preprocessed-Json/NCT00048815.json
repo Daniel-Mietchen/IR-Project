@@ -161,15 +161,14 @@
             "laboratory",
             "test"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "john",
-            "wort"
+            "Citalopram",
+            "St. John's Wort"
       ],
       "criteria": [
             "inclusion",
@@ -374,7 +373,7 @@
             "month",
             "ago"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -383,6 +382,9 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048815.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00048815"
 }

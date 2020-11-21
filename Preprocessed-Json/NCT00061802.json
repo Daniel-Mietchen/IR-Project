@@ -182,15 +182,13 @@
             "scale"
       ],
       "condition": [
-            "schizoaffective",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone",
-            "quetiapine"
+            "risperidone, quetiapine"
       ],
       "criteria": [
             "current",
@@ -202,7 +200,7 @@
             "schizoaffective",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -211,6 +209,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061802.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "agent",
+            "fumarate"
+      ],
+      "id": "NCT00061802"
 }

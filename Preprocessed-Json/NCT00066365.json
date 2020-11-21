@@ -267,20 +267,50 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "sargramostim",
+            "conventional surgery"
       ],
       "description": [
-            "thoracotomy"
+            "inhalation",
+            "dosage",
+            "escalation",
+            "level",
+            "1",
+            "dose",
+            "240",
+            "microgram",
+            "level",
+            "2",
+            "dose",
+            "microgram",
+            "level",
+            "3",
+            "dose",
+            "microgram"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "unilateral",
+            "recurrence",
+            "sargramostim",
+            "thoractomy",
+            "2",
+            "bilateral",
+            "recurrence",
+            "sargramostim",
+            "thoractomy",
+            "1",
+            "unilateral",
+            "recurrence",
+            "sargramostim",
+            "thoractomy",
             "2",
             "bilateral",
             "recurrence",
@@ -288,7 +318,11 @@
             "thoractomy"
       ],
       "other_name": [
-            "nsc",
+            "sargramostim",
+            "macrophage",
+            "colony",
+            "stimulate",
+            "factor",
             "613795"
       ],
       "criteria": [
@@ -465,12 +499,19 @@
             "therapeutic",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "39",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00066365"
 }

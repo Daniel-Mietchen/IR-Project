@@ -365,22 +365,50 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "doxorubicin hydrochloride",
+            "mercaptopurine",
+            "methotrexate",
+            "prednisone",
+            "vinblastine sulfate",
+            "vincristine sulfate"
       ],
       "description": [
-            "give",
+            "iv",
+            "mouth",
+            "iv",
+            "intrathecally",
+            "mouth",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "standard",
+            "apo",
+            "vincristine",
+            "arm",
+            "vinblastine",
+            "apo",
+            "vincristine",
+            "arm",
+            "vinblastine",
+            "apo",
+            "vincristine",
+            "arm",
+            "vinblastine",
+            "apo",
+            "vincristine",
+            "arm",
+            "vinblastine",
+            "vinblastine",
             "apo",
             "vincristine",
             "arm"
@@ -494,12 +522,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059839.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "anaplastic",
+            "doxorubicin"
+      ],
+      "id": "NCT00059839"
 }

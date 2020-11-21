@@ -185,15 +185,15 @@
             "month"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nolatrexed",
-            "dihydrochloride"
+            "doxorubicin hydrochloride",
+            "nolatrexed dihydrochloride"
       ],
       "criteria": [
             "disease",
@@ -440,12 +440,23 @@
             "dihydrochloride",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012324.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00012324"
 }

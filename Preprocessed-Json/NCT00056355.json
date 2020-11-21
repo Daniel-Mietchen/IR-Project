@@ -500,18 +500,13 @@
             "ecp"
       ],
       "condition": [
-            "crohn",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "uvadex",
-            "uvar",
-            "xt",
-            "photopheresis",
-            "system"
+            "UVADEX and UVAR XTS Photopheresis System"
       ],
       "criteria": [
             "inclusion",
@@ -1017,9 +1012,16 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056355.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "crohn",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00056355"
 }

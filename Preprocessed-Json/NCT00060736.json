@@ -267,7 +267,8 @@
             "et"
       ],
       "condition": [
-            "depression"
+            "depression",
+            "menopausal"
       ],
       "criteria": [
             "inclusion",
@@ -488,9 +489,7 @@
             "migraine",
             "headache"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -499,6 +498,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "perimenopausal",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00060736"
 }

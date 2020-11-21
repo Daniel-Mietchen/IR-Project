@@ -48,16 +48,13 @@
             "state"
       ],
       "condition": [
-            "foot",
             "ulcer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rhumab",
-            "vegf",
-            "telbermin"
+            "rhuMAb VEGF (telbermin)"
       ],
       "criteria": [
             "inclusion",
@@ -262,7 +259,7 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -271,6 +268,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069446.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetic",
+            "foot",
+            "ulcer"
+      ],
+      "mesh_term": [
+            "foot",
+            "ulcer",
+            "growth",
+            "factor"
+      ],
+      "id": "NCT00069446"
 }

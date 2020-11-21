@@ -301,14 +301,13 @@
             "effective"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tipifarnib"
@@ -325,18 +324,14 @@
             "glioblastoma",
             "multiforme",
             "anaplastic",
-            "astrocytoma",
             "anaplastic",
-            "oligodendroglioma",
             "anaplastic",
             "mix",
-            "oligodendroglioma",
             "malignant",
             "astrocytoma",
             "otherwise",
             "specify",
             "note",
-            "close",
             "accrual",
             "effective",
             "progressive",
@@ -706,12 +701,23 @@
             "medical",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005859.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00005859"
 }

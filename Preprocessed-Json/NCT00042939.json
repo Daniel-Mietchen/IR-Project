@@ -186,17 +186,55 @@
             "arm"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "cetuximab",
+            "docetaxel",
+            "irinotecan hydrochloride"
       ],
       "description": [
+            "receive",
+            "cetuximab",
+            "intravenous",
+            "infusion",
+            "via",
+            "infusion",
+            "pump",
+            "syringe",
+            "pump",
+            "week",
+            "6",
+            "week",
+            "administer",
+            "intravenously",
+            "60",
+            "minute",
+            "dose",
+            "35",
+            "week",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "4",
+            "consecutive",
+            "week",
+            "follow",
+            "2",
+            "week",
+            "rest",
+            "docetaxel",
+            "dilute",
+            "ml",
+            "infusion",
+            "solution",
             "completion",
             "docetaxel",
             "infusion",
@@ -222,9 +260,7 @@
             "rest"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "camptosar"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -293,7 +329,6 @@
             "meet",
             "criterion",
             "1",
-            "follow",
             "sgot",
             "sgpt",
             "time",
@@ -319,7 +354,6 @@
             "time",
             "uln",
             "note",
-            "percutaneous",
             "stenting",
             "endoscopic",
             "retrograde",
@@ -355,12 +389,18 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042939.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cetuximab"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00042939"
 }

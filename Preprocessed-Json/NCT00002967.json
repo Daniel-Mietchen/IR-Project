@@ -267,15 +267,19 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "octreotide pamoate",
+            "tamoxifen citrate"
       ],
       "criteria": [
             "disease",
@@ -635,11 +639,19 @@
             "anticoagulation",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "invasive",
+            "ductal",
+            "breast",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002967"
 }

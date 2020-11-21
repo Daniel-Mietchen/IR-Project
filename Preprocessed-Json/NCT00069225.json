@@ -563,7 +563,6 @@
             "fmri"
       ],
       "condition": [
-            "stress",
             "disorder"
       ],
       "criteria": [
@@ -814,9 +813,18 @@
             "necessary",
             "population"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069225.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stress",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "traumatic",
+            "disorder"
+      ],
+      "id": "NCT00069225"
 }

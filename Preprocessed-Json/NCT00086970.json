@@ -240,7 +240,6 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -248,21 +247,25 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ifosfamide",
+            "O6-benzylguanine"
+      ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ifosfamide",
+            "ii",
+            "ifosfamide",
             "ii",
             "ifosfamide"
       ],
-      "other_name": [
-            "bg"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -418,12 +421,16 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086970.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mustard",
+            "6"
+      ],
+      "id": "NCT00086970"
 }

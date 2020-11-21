@@ -189,15 +189,15 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epirubicin",
-            "hydrochloride"
+            "celecoxib",
+            "epirubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -230,9 +230,7 @@
             "therapy",
             "measurable",
             "evaluable",
-            "disease",
             "note",
-            "change",
             "afp",
             "alone",
             "sufficient",
@@ -319,12 +317,22 @@
             "therapy",
             "hcc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057980.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00057980"
 }

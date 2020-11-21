@@ -116,20 +116,22 @@
             "study"
       ],
       "condition": [
-            "adult",
+            "fibrosarcoma",
+            "leiomyosarcoma",
+            "rhabdomyosarcoma",
+            "malignant",
+            "meningioma",
             "brain",
             "malignant",
             "hemangiopericytoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ifosfamide"
       ],
-      "arm_group_label": [
-            "ifosfamide"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -303,12 +305,16 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003292.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "mustard"
+      ],
+      "id": "NCT00003292"
 }

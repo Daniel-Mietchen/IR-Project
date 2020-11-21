@@ -97,15 +97,12 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "pain"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "flecainide",
-            "acetate"
+            "flecainide acetate"
       ],
       "criteria": [
             "disease",
@@ -250,12 +247,16 @@
             "antiarrhythmic",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002996.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002996"
 }

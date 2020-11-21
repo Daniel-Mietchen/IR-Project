@@ -114,7 +114,6 @@
             "arm",
             "patient",
             "receive",
-            "methotrexate",
             "iv",
             "vinblastine",
             "iv",
@@ -252,15 +251,25 @@
             "year"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine",
-            "sulfate"
+            "carboplatin",
+            "gemcitabine hydrochloride",
+            "methotrexate",
+            "vinblastine sulfate"
       ],
       "criteria": [
             "disease",
@@ -428,12 +437,30 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014274.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00014274"
 }

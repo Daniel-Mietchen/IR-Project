@@ -203,22 +203,37 @@
             "surveillance"
       ],
       "condition": [
-            "kidney",
+            "failure",
+            "marrow",
+            "transplantation",
+            "transplantation",
             "failure",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "corticosteroid"
+            "MEDI-507",
+            "Combined kidney and bone marrow transplant",
+            "Cyclosporine A",
+            "Rituximab",
+            "Corticosteroids"
       ],
       "description": [
-            "immunosuppressant"
+            "deplete",
+            "antibody",
+            "bone",
+            "marrow",
+            "transplant",
+            "donor",
+            "suppressor"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -343,7 +358,7 @@
             "regimen",
             "begin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -352,6 +367,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063817.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "esrd"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00063817"
 }

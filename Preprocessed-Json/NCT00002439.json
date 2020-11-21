@@ -80,25 +80,29 @@
             "receive"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alitretinoin"
+            "Alitretinoin"
       ],
       "criteria": [
             "information",
             "available"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002439.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00002439"
 }

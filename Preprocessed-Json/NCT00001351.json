@@ -303,7 +303,8 @@
             "protocol"
       ],
       "condition": [
-            "infectious",
+            "disorder",
+            "response",
             "disease"
       ],
       "criteria": [
@@ -376,12 +377,21 @@
             "genetic",
             "analysis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001351.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00001351"
 }

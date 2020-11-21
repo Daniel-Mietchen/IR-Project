@@ -118,22 +118,30 @@
             "trial"
       ],
       "condition": [
-            "acne",
             "vulgaris"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vehicle",
+            "Azelaic Acid Gel 15% (Finacea, BAY39-6251)",
+            "Vehicle gel (SH H 655 PBA)"
+      ],
+      "description": [
+            "acid",
+            "15",
             "gel",
             "sh",
             "h",
             "655",
-            "pba"
-      ],
-      "description": [
-            "vehicle",
+            "ba",
+            "apply",
+            "topically",
+            "two",
+            "time",
+            "per",
+            "day",
             "gel",
             "sh",
             "h",
@@ -147,7 +155,7 @@
             "day"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "criteria": [
@@ -425,12 +433,20 @@
             "advise",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031096.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "propionibacterium",
+            "acne"
+      ],
+      "mesh_term": [
+            "vulgaris",
+            "acid"
+      ],
+      "id": "NCT00031096"
 }

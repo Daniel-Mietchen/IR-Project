@@ -325,15 +325,13 @@
             "suspect"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -509,12 +507,18 @@
             "entry",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001132.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001132"
 }

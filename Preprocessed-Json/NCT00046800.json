@@ -22,15 +22,13 @@
             "cancer"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "liposomal",
-            "lurtotecan"
+            "OSI-211 (Liposomal Lurtotecan)"
       ],
       "criteria": [
             "inclusion",
@@ -83,14 +81,21 @@
             "relate",
             "toxicity"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "glandular",
+            "epithelial"
+      ],
+      "id": "NCT00046800"
 }

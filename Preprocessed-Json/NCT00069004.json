@@ -177,7 +177,11 @@
             "work"
       ],
       "condition": [
-            "osteopenia"
+            "infection",
+            "lipodystrophy",
+            "syndrome",
+            "lipodystrophy",
+            "syndrome"
       ],
       "criteria": [
             "inclusion",
@@ -311,7 +315,7 @@
             "eat",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -320,6 +324,16 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069004.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "osteopenia"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "metabolic",
+            "lipodystrophy",
+            "syndrome"
+      ],
+      "id": "NCT00069004"
 }

@@ -35,29 +35,27 @@
             "myeloma"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "b",
-            "placebo",
-            "dexamethasone"
+            "A (Thalidomide + Dexamethasone)",
+            "B (Placebo + Dexamethasone)"
       ],
       "description": [
-            "placebo",
+            "dexamethasone",
             "dexamethasone"
       ],
       "arm_group_label": [
-            "b",
+            "thalidomide",
+            "dexamethasone",
             "dexamethasone",
             "placebo"
       ],
-      "other_name": [
-            "placebo"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -189,12 +187,23 @@
             "bilirubin",
             "34"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00057564"
 }

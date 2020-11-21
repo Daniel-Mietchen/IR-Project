@@ -228,21 +228,36 @@
             "examiner"
       ],
       "condition": [
-            "respiratory",
+            "newborn",
+            "pulmonary",
+            "fetal",
+            "circulation",
+            "syndrome",
+            "aspiration",
+            "distress",
+            "syndrome",
+            "newborn",
             "insufficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Inhaled nitric oxide",
+            "Placebo"
       ],
       "description": [
-            "100",
+            "nitric",
+            "oxide",
+            "concentration",
+            "20",
+            "ppm",
             "oxygen"
       ],
       "arm_group_label": [
-            "oxygen"
+            "nitric",
+            "oxide"
       ],
       "criteria": [
             "inclusion",
@@ -304,12 +319,34 @@
             "full",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005776.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "severe",
+            "respiratory",
+            "failure"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "insufficiency",
+            "valve",
+            "insufficiency",
+            "pulmonary",
+            "fetal",
+            "circulation",
+            "syndrome",
+            "aspiration",
+            "oxide"
+      ],
+      "id": "NCT00005776"
 }

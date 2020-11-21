@@ -186,19 +186,23 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "interferon",
-            "alfa"
+            "bevacizumab",
+            "recombinant interferon alfa"
       ],
       "description": [
-            "9",
+            "iv",
+            "infusion",
+            "day",
+            "1",
+            "15",
+            "cycle",
             "million",
             "unit",
             "subq",
@@ -208,7 +212,7 @@
             "week"
       ],
       "arm_group_label": [
-            "interferon",
+            "bevacizumab",
             "bevacizumab"
       ],
       "criteria": [
@@ -451,14 +455,12 @@
             "psychiatric",
             "disorder",
             "currently",
-            "active",
             "malignancy",
             "except",
             "nonmelanoma",
             "skin",
             "cancer",
             "note",
-            "disease",
             "consider",
             "currently",
             "active",
@@ -576,7 +578,6 @@
             "concurrent",
             "oral",
             "parenteral",
-            "anticoagulation",
             "note",
             "1",
             "mg",
@@ -589,7 +590,7 @@
             "aspirin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -598,6 +599,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072046.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00072046"
 }

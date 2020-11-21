@@ -68,17 +68,17 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "aspart"
+            "insulin lispro",
+            "insulin aspart"
       ],
       "criteria": [
             "inclusion",
@@ -87,7 +87,7 @@
             "1",
             "diabetes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -96,6 +96,21 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097071.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "type",
+            "1"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "globin",
+            "zinc",
+            "lispro",
+            "aspart"
+      ],
+      "id": "NCT00097071"
 }

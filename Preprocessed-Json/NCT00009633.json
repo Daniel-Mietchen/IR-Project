@@ -238,7 +238,13 @@
             "assessment"
       ],
       "condition": [
-            "infant",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
             "premature"
       ],
       "study_pop": [],
@@ -312,7 +318,7 @@
             "include",
             "database"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "month"
@@ -321,6 +327,13 @@
             "26",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009633.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "follow",
+            "study"
+      ],
+      "mesh_term": [
+            "weight"
+      ],
+      "id": "NCT00009633"
 }

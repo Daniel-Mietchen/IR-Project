@@ -50,15 +50,13 @@
             "complete"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "curdlan",
-            "sulfate"
+            "Curdlan sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -141,7 +139,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -150,6 +148,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002100.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "curdlan",
+            "sulfate"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate"
+      ],
+      "id": "NCT00002100"
 }

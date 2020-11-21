@@ -469,7 +469,6 @@
             "aggressive"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "study_pop": [],
@@ -506,11 +505,16 @@
             "preclude",
             "participation"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011349.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00011349"
 }

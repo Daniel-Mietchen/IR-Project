@@ -245,7 +245,8 @@
             "woman"
       ],
       "condition": [
-            "coronary",
+            "disease",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -258,14 +259,19 @@
             "old",
             "cvd"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058669.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00058669"
 }

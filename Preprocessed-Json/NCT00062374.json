@@ -220,25 +220,49 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "stomach",
+            "ii",
+            "gastric",
+            "cancer",
+            "iii",
+            "gastric",
+            "cancer",
             "iv",
             "gastric",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "fluorine",
-            "f",
-            "18",
-            "fluorothymidine"
+            "irinotecan hydrochloride",
+            "cisplatin",
+            "conventional surgery",
+            "positron emission tomography/computed tomography",
+            "fludeoxyglucose F 18",
+            "positron emission tomography/computed tomography",
+            "fluorine F 18 fluorothymidine"
       ],
       "description": [
-            "undergo"
+            "iv",
+            "iv",
+            "radical",
+            "subtotal",
+            "total",
+            "gastrectomy",
+            "lymph",
+            "node",
+            "dissection"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
+            "conventional",
             "fluorothymidine"
       ],
       "criteria": [
@@ -433,12 +457,15 @@
             "tablet",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062374.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00062374"
 }

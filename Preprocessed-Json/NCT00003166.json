@@ -165,30 +165,74 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma",
+            "adult",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "lymphoblastic",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
+            "mantle",
+            "cell",
+            "lymphoma",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "multiple",
+            "myeloma",
             "iii",
             "multiple",
             "myeloma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bryostatin 1",
+            "vincristine sulfate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bryostatin",
+            "1",
+            "vincristine",
+            "sulfate",
+            "bryostatin",
+            "1",
+            "vincristine",
+            "sulfate",
             "bryostatin",
             "1",
             "vincristine",
             "sulfate"
       ],
       "other_name": [
-            "vincasar",
+            "sulfate",
             "pfs"
       ],
       "criteria": [
@@ -370,12 +414,29 @@
             "2",
             "neuropathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003166.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "follicular",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "large",
+            "diffuse",
+            "cell",
+            "lymphoblastic",
+            "lymphoma",
+            "immunoblastic",
+            "lymphoma",
+            "1"
+      ],
+      "id": "NCT00003166"
 }

@@ -132,7 +132,8 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -140,7 +141,7 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "lenalidomide"
@@ -323,12 +324,21 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031941.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00031941"
 }

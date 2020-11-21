@@ -214,18 +214,25 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "daclizumab",
+            "therapeutic allogeneic lymphocytes",
+            "mycophenolate mofetil",
+            "tacrolimus",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -427,7 +434,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -436,6 +443,20 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006350.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00006350"
 }

@@ -58,15 +58,17 @@
             "population"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pentamidine",
-            "isethionate"
+            "Atovaquone",
+            "Pentamidine isethionate"
       ],
       "criteria": [
             "inclusion",
@@ -298,12 +300,22 @@
             "stratum",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001996.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atovaquone"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00001996"
 }

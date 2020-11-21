@@ -44,27 +44,34 @@
             "criterion"
       ],
       "condition": [
-            "coronary",
+            "pectoris",
             "artery",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "nanoparticle",
-            "albumin",
-            "bind"
+            "Paclitaxel Nanoparticle Albumin Bound",
+            "Paclitaxel Nanoparticle Albumin Bound",
+            "Paclitaxel Nanoparticle Albumin Bound"
       ],
       "description": [
+            "duel",
+            "dose",
+            "administer",
+            "iv",
+            "administer",
+            "placement",
+            "denovo",
+            "stent",
             "infusion",
             "time",
             "minute"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -386,12 +393,23 @@
             "hypersensitivity",
             "taxane"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093223.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "restenosis"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "pectoris",
+            "paclitaxel"
+      ],
+      "id": "NCT00093223"
 }

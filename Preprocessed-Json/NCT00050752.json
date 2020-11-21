@@ -411,7 +411,9 @@
             "phenotype"
       ],
       "condition": [
-            "kidney",
+            "tumor",
+            "histology",
+            "leiomyomatosis",
             "cancer"
       ],
       "criteria": [
@@ -481,7 +483,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -490,6 +492,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050752.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cutaneous",
+            "leiomyoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm",
+            "susceptibility"
+      ],
+      "id": "NCT00050752"
 }

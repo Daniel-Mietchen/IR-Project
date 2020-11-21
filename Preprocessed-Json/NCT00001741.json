@@ -134,14 +134,13 @@
             "allele"
       ],
       "condition": [
-            "cardiovascular",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "losartan"
+            "Losartan"
       ],
       "criteria": [
             "patient",
@@ -187,9 +186,16 @@
             "able",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001741.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "losartan"
+      ],
+      "mesh_term": [
+            "disease",
+            "ii"
+      ],
+      "id": "NCT00001741"
 }

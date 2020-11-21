@@ -697,17 +697,27 @@
             "know"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "disease",
+            "accident",
+            "infarction"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005143.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005143"
 }

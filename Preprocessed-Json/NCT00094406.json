@@ -393,17 +393,21 @@
             "lung"
       ],
       "condition": [
-            "respiratory",
             "distress",
             "syndrome",
             "adult"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carbon",
-            "monoxide"
+            "Bronchoscopy",
+            "Bronchoalveolar lavage",
+            "Endotoxin",
+            "Carbon Monoxide"
       ],
       "criteria": [
             "inclusion",
@@ -557,7 +561,7 @@
             "allergy",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -566,6 +570,22 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094406.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carbon",
+            "monoxide",
+            "inhalation"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury",
+            "monoxide"
+      ],
+      "id": "NCT00094406"
 }

@@ -132,15 +132,16 @@
             "year"
       ],
       "condition": [
-            "radiation",
+            "cancer",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "amifostine trihydrate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -245,14 +246,20 @@
             "pressure",
             "le"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003307.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00003307"
 }

@@ -612,14 +612,18 @@
             "year"
       ],
       "condition": [
-            "mesothelioma"
+            "small",
+            "cell",
+            "lung",
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "flavopiridol",
-            "alvocidib"
+            "Depsipeptide",
+            "Flavopiridol (alvocidib)"
       ],
       "criteria": [
             "inclusion",
@@ -1172,12 +1176,22 @@
             "agent",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094978.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pleural",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "lung",
+            "neoplasm",
+            "small",
+            "cell"
+      ],
+      "id": "NCT00094978"
 }

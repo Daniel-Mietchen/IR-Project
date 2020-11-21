@@ -69,15 +69,14 @@
             "week"
       ],
       "condition": [
-            "respiratory",
             "distress",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hormone"
+            "thyrotropin-releasing hormone"
       ],
       "criteria": [
             "pregnant",
@@ -103,9 +102,7 @@
             "multiple",
             "pregnancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "20",
             "year"
@@ -114,6 +111,20 @@
             "36",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004840.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "distress",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "hormone"
+      ],
+      "id": "NCT00004840"
 }

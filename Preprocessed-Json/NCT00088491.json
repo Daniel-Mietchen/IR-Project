@@ -51,15 +51,15 @@
             "injection"
       ],
       "condition": [
-            "schizophrenic",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
-            "olanzapine"
+            "Intramuscular Olanzapine Depot",
+            "Oral Olanzapine"
       ],
       "criteria": [
             "inclusion",
@@ -173,7 +173,7 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -182,6 +182,7 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088491.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00088491"
 }

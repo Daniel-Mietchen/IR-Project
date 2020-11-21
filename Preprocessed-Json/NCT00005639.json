@@ -154,7 +154,8 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -162,11 +163,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "phenylbutyrate"
+            "azacitidine",
+            "sodium phenylbutyrate"
       ],
       "criteria": [
             "disease",
@@ -291,12 +293,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005639.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00005639"
 }

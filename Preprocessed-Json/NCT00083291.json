@@ -302,7 +302,6 @@
             "patient"
       ],
       "condition": [
-            "helicobacter",
             "infection"
       ],
       "criteria": [
@@ -333,9 +332,16 @@
             "none",
             "list"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "helicobacter",
+            "pylorus"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00083291"
 }

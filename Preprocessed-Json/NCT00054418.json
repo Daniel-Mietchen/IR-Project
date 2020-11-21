@@ -252,14 +252,40 @@
             "cancer"
       ],
       "condition": [
-            "osteoporosis"
+            "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "calcium carbonate",
+            "vitamin D",
+            "risedronate sodium",
             "placebo"
       ],
       "description": [
-            "placebo",
+            "600",
+            "mg",
+            "daily",
+            "administer",
+            "orally",
+            "one",
+            "year",
+            "400",
+            "u",
+            "daily",
+            "administer",
+            "orally",
+            "one",
+            "year",
+            "35",
+            "mg",
+            "weekly",
+            "administer",
+            "orally",
             "tablet",
             "weekly",
             "administer",
@@ -268,7 +294,21 @@
             "year"
       ],
       "arm_group_label": [
-            "calcium",
+            "carbonate",
+            "vitamin",
+            "risedronate",
+            "carbonate",
+            "vitamin",
+            "placebo",
+            "carbonate",
+            "vitamin",
+            "risedronate",
+            "carbonate",
+            "vitamin",
+            "placebo",
+            "carbonate",
+            "vitamin",
+            "risedronate",
             "carbonate",
             "vitamin",
             "placebo"
@@ -484,14 +524,25 @@
             "study",
             "treatment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054418.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "dietary",
+            "sodium",
+            "acid",
+            "carbonate"
+      ],
+      "id": "NCT00054418"
 }

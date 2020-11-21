@@ -166,7 +166,8 @@
             "approach"
       ],
       "condition": [
-            "immune",
+            "thrombocytopenic",
+            "idiopathic",
             "thrombocytopenic",
             "purpura"
       ],
@@ -251,9 +252,19 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005570.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immune",
+            "thrombocytopenia",
+            "purpura"
+      ],
+      "mesh_term": [
+            "thrombocytopenic",
+            "thrombocytopenic",
+            "idiopathic"
+      ],
+      "id": "NCT00005570"
 }

@@ -194,22 +194,35 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "ct",
-            "scan"
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
+            "vinblastine",
+            "fludeoxyglucose F 18 positron-emission tomography (PET) scan",
+            "CT scan"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "doxorubicin",
+            "vinblastine",
+            "gemcitabine",
+            "vinblastine",
+            "gemcitabine",
+            "vinblastine",
+            "gemcitabine",
+            "vinblastine",
+            "gemcitabine",
             "vinblastine",
             "gemcitabine"
       ],
@@ -479,12 +492,23 @@
             "limit",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086801.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00086801"
 }

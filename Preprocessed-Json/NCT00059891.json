@@ -130,18 +130,21 @@
             "thereafter"
       ],
       "condition": [
+            "cancer",
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "conventional surgery",
+            "management of therapy complications"
       ],
       "arm_group_label": [
-            "anal",
+            "sphincter",
+            "prosthesis",
             "sphincter",
             "prosthesis"
       ],
@@ -207,12 +210,23 @@
             "investigational",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "complication",
+            "neoplasm"
+      ],
+      "id": "NCT00059891"
 }

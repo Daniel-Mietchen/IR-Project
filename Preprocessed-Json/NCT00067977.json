@@ -42,16 +42,16 @@
             "determine"
       ],
       "condition": [
-            "kidney",
+            "polycystic",
             "polycystic",
             "autosomal",
             "dominant"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "medication"
+            "anti-hypertensive medications"
       ],
       "criteria": [
             "previous",
@@ -74,7 +74,7 @@
             "mm",
             "hg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -83,6 +83,21 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autosomal",
+            "dominant",
+            "polycystic",
+            "kidney",
+            "disease"
+      ],
+      "mesh_term": [
+            "kidney",
+            "disease",
+            "kidney",
+            "autosomal",
+            "dominant",
+            "agent"
+      ],
+      "id": "NCT00067977"
 }

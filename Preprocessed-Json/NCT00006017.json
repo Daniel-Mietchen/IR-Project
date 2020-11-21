@@ -169,17 +169,15 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "becatecarin"
       ],
       "description": [
-            "arm",
             "patient",
             "receive",
             "rebeccamycin",
@@ -213,12 +211,13 @@
             "toxicity"
       ],
       "arm_group_label": [
-            "rebeccamycin",
+            "1",
+            "day",
             "5",
             "day"
       ],
       "other_name": [
-            "rebeccamycin",
+            "analogue",
             "analogue",
             "tartrate",
             "salt"
@@ -342,9 +341,20 @@
             "therapy",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006017.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00006017"
 }

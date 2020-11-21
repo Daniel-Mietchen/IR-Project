@@ -148,18 +148,38 @@
             "year"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "neck",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "thiotepa",
+            "topotecan hydrochloride",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "in vitro-treated bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -340,12 +360,27 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002515.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "lymphoepithelioma",
+            "nasopharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002515"
 }

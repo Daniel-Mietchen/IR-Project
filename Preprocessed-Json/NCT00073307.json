@@ -44,21 +44,23 @@
             "pro"
       ],
       "condition": [
-            "carcinoma",
             "renal",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Sorafenib (Nexavar, BAY43-9006)",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "kinase",
+            "inhibitor"
       ],
       "arm_group_label": [
-            "placebo"
+            "nexavar"
       ],
       "criteria": [
             "inclusion",
@@ -300,12 +302,19 @@
             "target",
             "receptor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073307.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00073307"
 }

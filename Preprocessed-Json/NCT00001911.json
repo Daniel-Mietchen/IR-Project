@@ -274,14 +274,15 @@
             "year"
       ],
       "condition": [
-            "atypical",
             "mycobacterium",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Interleukin-12"
+      ],
       "criteria": [
             "severe",
             "disseminate",
@@ -496,9 +497,21 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001911.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "nontuberculous",
+            "mycobacterial",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "nontuberculous"
+      ],
+      "id": "NCT00001911"
 }

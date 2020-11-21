@@ -196,24 +196,29 @@
             "month"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "oxaliplatin",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oxaliplatin",
             "oxaliplatin"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -398,12 +403,13 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005856.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00005856"
 }

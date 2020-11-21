@@ -65,16 +65,13 @@
             "population"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "injectable",
-            "emulsion"
+            "S-8184 Paclitaxel Injectable Emulsion"
       ],
       "criteria": [
             "inclusion",
@@ -250,14 +247,16 @@
             "induce",
             "isoenzymes"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034151.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00034151"
 }

@@ -110,20 +110,27 @@
             "administration"
       ],
       "condition": [
-            "genital",
+            "neoplasm",
+            "neoplasm",
             "neoplasm",
             "female",
             "urogenital",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Trabectedin",
+            "Dexamethasone"
       ],
       "description": [
-            "dexamethasone",
+            "administer",
+            "intravenously",
+            "every",
+            "21",
+            "day",
             "4",
             "mg",
             "administer",
@@ -142,9 +149,7 @@
             "trabectedin",
             "dose"
       ],
-      "arm_group_label": [
-            "trabectedin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -234,14 +239,30 @@
             "method",
             "contraception"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050440.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "molecular",
+            "mechanism",
+            "pharmacological",
+            "action"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "female",
+            "acetate",
+            "1101",
+            "mechanism",
+            "pharmacological",
+            "action"
+      ],
+      "id": "NCT00050440"
 }

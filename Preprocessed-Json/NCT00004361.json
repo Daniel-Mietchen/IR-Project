@@ -89,15 +89,22 @@
             "infusion"
       ],
       "condition": [
-            "pulmonary",
+            "fallot",
+            "valve",
+            "stenosis",
+            "cardiac",
+            "defect",
+            "defect",
+            "congenital",
             "atresia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "citrate"
+            "calcium gluconate",
+            "sodium citrate"
       ],
       "criteria": [
             "diagnostically",
@@ -122,12 +129,27 @@
             "type",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004361.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tetralogy",
+            "fallot"
+      ],
+      "mesh_term": [
+            "abnormality",
+            "defect",
+            "congenital",
+            "fallot",
+            "atresia",
+            "valve",
+            "stenosis",
+            "dietary",
+            "acid"
+      ],
+      "id": "NCT00004361"
 }

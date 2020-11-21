@@ -188,21 +188,23 @@
             "year"
       ],
       "condition": [
-            "diabetes"
+            "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "pioglitazone",
             "placebo"
       ],
       "description": [
+            "thiazolidinedione",
+            "drug",
             "inactive",
             "substance"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -285,7 +287,6 @@
             "use",
             "medication",
             "diabetes",
-            "see",
             "note",
             "two",
             "fast",
@@ -455,12 +456,20 @@
             "follow",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091949.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "insulin",
+            "resistance"
+      ],
+      "mesh_term": [
+            "infarction",
+            "resistance"
+      ],
+      "id": "NCT00091949"
 }

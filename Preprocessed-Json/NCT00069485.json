@@ -114,7 +114,6 @@
             "exam"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -154,7 +153,7 @@
             "criterion",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -163,6 +162,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069485.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00069485"
 }

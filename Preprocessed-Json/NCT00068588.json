@@ -132,28 +132,31 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "GTI-2040",
             "capecitabine"
       ],
       "description": [
-            "give",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "capecitabine",
             "capecitabine"
       ],
-      "other_name": [
-            "xeloda"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -562,12 +565,17 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068588.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00068588"
 }

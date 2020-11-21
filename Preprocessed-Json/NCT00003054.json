@@ -107,11 +107,9 @@
             "patient",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
@@ -266,11 +264,16 @@
             "surgery",
             "require"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003054.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "uterine",
+            "leiomyosarcoma"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00003054"
 }

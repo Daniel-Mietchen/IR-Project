@@ -191,16 +191,23 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "disoproxil",
-            "fumarate"
+            "Lopinavir/ritonavir",
+            "Efavirenz",
+            "Stavudine",
+            "Zidovudine",
+            "Lamivudine",
+            "Tenofovir disoproxil fumarate"
       ],
       "criteria": [
             "inclusion",
@@ -341,12 +348,16 @@
             "infection",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050895.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00050895"
 }

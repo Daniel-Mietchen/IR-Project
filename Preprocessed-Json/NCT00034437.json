@@ -217,7 +217,6 @@
             "exposure"
       ],
       "condition": [
-            "cytomegalovirus",
             "infection"
       ],
       "criteria": [
@@ -271,9 +270,16 @@
             "currently",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034437.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cmv",
+            "seropositve"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00034437"
 }

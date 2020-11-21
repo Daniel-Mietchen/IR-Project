@@ -411,13 +411,14 @@
             "32"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "VRC-HIVDNA016-00-VP"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -973,7 +974,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -982,6 +983,13 @@
             "44",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00089531.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00089531"
 }

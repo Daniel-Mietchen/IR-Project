@@ -148,15 +148,14 @@
             "accrual"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "erlotinib",
-            "hydrochloride"
+            "erlotinib hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -165,7 +164,6 @@
             "cytologically",
             "confirm",
             "adenocarcinoma",
-            "stomach",
             "gastroesophageal",
             "ge",
             "junction",
@@ -189,7 +187,6 @@
             "metastatic",
             "disease",
             "note",
-            "gastric",
             "stratum",
             "temporarily",
             "close",
@@ -409,7 +406,6 @@
             "prior",
             "surgical",
             "procedure",
-            "stomach",
             "ge",
             "cancer",
             "recover",
@@ -420,7 +416,6 @@
             "affect",
             "absorption",
             "note",
-            "gastric",
             "stratum",
             "temporarily",
             "close",
@@ -437,9 +432,19 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032123.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "gastric",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00032123"
 }

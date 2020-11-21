@@ -54,17 +54,25 @@
             "psychiatrist"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone"
+            "Lithium carbonate",
+            "Valproate",
+            "Risperidone"
       ],
       "description": [
-            "titrate",
+            "blood",
+            "level",
+            "blood",
+            "level",
+            "111",
+            "125",
             "weight",
             "dose",
             "mg",
@@ -72,12 +80,8 @@
             "mg",
             "bid"
       ],
-      "arm_group_label": [
-            "3"
-      ],
-      "other_name": [
-            "risperdal"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -127,7 +131,7 @@
             "care",
             "baseline"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -136,6 +140,14 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057681.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mania"
+      ],
+      "mesh_term": [
+            "disorder",
+            "acid",
+            "carbonate"
+      ],
+      "id": "NCT00057681"
 }

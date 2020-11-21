@@ -216,15 +216,26 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "retinoblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "topotecan hydrochloride",
+            "autologous bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -281,12 +292,19 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004006.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "retinoblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00004006"
 }

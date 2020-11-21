@@ -204,15 +204,17 @@
             "study"
       ],
       "condition": [
-            "oral",
+            "neck",
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "management of therapy complications",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -414,7 +416,7 @@
             "drug",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -423,6 +425,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004234.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00004234"
 }

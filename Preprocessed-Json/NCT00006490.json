@@ -244,7 +244,6 @@
             "48"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -356,12 +355,18 @@
             "nonadherence",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006490.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006490"
 }

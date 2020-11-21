@@ -98,22 +98,24 @@
             "take"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lamotrigine"
+            "Lithium",
+            "Lamotrigine"
       ],
       "description": [
-            "participant",
+            "receive",
+            "lithium",
             "receive",
             "lamotrigine"
       ],
       "arm_group_label": [
-            "2",
+            "lithium",
             "lamotrigine"
       ],
       "criteria": [
@@ -161,7 +163,7 @@
             "read",
             "english"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -170,6 +172,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074776.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bipolar",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "carbonate"
+      ],
+      "id": "NCT00074776"
 }

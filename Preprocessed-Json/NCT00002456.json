@@ -116,16 +116,19 @@
             "notice"
       ],
       "condition": [
-            "lymphoma"
+            "versus",
+            "host",
+            "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "cyclosporine",
+            "methotrexate",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -183,9 +186,20 @@
             "prophylaxis",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002456.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "versus",
+            "host",
+            "disease"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00002456"
 }

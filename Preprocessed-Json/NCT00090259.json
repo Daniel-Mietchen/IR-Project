@@ -53,18 +53,20 @@
             "daily"
       ],
       "condition": [
-            "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "losartan",
-            "150",
-            "mg"
+            "Losartan 50 mg",
+            "Losartan 150 mg"
       ],
       "description": [
+            "losartan",
+            "oral",
+            "tablet",
             "losartan",
             "oral",
             "tablet",
@@ -73,12 +75,13 @@
             "tablet"
       ],
       "arm_group_label": [
-            "losartan",
+            "50",
+            "mg",
             "150",
             "mg"
       ],
       "other_name": [
-            "losartan",
+            "potassium",
             "potassium"
       ],
       "criteria": [
@@ -103,12 +106,15 @@
             "drug",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090259.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00090259"
 }

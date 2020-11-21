@@ -95,16 +95,14 @@
             "disorder"
       ],
       "condition": [
-            "mycobacterium",
             "infection",
             "atypical"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "gamma"
+            "interferon gamma"
       ],
       "criteria": [
             "demonstrate",
@@ -156,9 +154,19 @@
             "cardiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001318.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mycobacterial",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "nontuberculous"
+      ],
+      "id": "NCT00001318"
 }

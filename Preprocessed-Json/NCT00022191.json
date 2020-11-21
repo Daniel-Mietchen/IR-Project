@@ -217,13 +217,22 @@
             "year"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "gemcitabine hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -463,12 +472,31 @@
             "percutaneous",
             "nephrostomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022191.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00022191"
 }

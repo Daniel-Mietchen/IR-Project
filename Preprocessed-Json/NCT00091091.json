@@ -166,17 +166,25 @@
             "study"
       ],
       "condition": [
-            "lymphoma"
+            "effect",
+            "secondary",
+            "cancer",
+            "therapy",
+            "child"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "medical chart review",
+            "questionnaire administration",
+            "management of therapy complications"
       ],
       "arm_group_label": [
+            "patient",
+            "patient",
             "patient"
       ],
       "study_pop": [],
@@ -276,9 +284,19 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091091.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00091091"
 }

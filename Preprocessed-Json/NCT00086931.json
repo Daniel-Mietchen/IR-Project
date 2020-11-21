@@ -287,17 +287,42 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "capecitabine",
+            "oxaliplatin",
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "radiation therapy"
       ],
       "description": [
+            "dose",
+            "escalate",
+            "twice",
+            "daily",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "29",
+            "surgery",
+            "week",
+            "completion",
+            "chemoradiotherapy",
+            "radiation",
+            "prior",
+            "surgery",
             "daily",
             "5",
             "day",
@@ -472,7 +497,7 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -481,6 +506,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086931.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00086931"
 }

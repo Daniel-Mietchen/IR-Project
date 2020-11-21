@@ -216,7 +216,10 @@
             "population"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "arteriosclerosis",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -269,7 +272,7 @@
             "nurse",
             "home"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -278,6 +281,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005756.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00005756"
 }

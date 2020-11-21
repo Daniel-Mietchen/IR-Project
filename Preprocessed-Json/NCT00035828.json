@@ -88,13 +88,17 @@
             "destruction"
       ],
       "condition": [
-            "bronchitis",
+            "disease",
+            "chronic",
+            "obstructive",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABX-IL8"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -135,12 +139,23 @@
             "history",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035828.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchitis"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "chronic",
+            "obstructive",
+            "chronic"
+      ],
+      "id": "NCT00035828"
 }

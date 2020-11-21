@@ -186,14 +186,19 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "MART-1 antigen",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "recombinant interleukin-7"
       ],
       "criteria": [
             "disease",
@@ -213,7 +218,6 @@
             "receive",
             "disease",
             "burden",
-            "indicate",
             "note",
             "patient",
             "receive",
@@ -456,12 +460,21 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091338.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00091338"
 }

@@ -338,18 +338,25 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "cytarabine",
+            "etoposide",
+            "gemtuzumab ozogamicin",
+            "idarubicin",
+            "mitoxantrone hydrochloride"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
+            "b",
+            "b",
             "b"
       ],
       "criteria": [
@@ -514,7 +521,7 @@
             "enrollment",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "61",
             "year"
@@ -523,6 +530,19 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00052299.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00052299"
 }

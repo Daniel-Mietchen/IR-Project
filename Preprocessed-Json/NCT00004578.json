@@ -20,28 +20,47 @@
             "subject"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Lopinavir/Ritonavir",
+            "Lamivudine",
+            "Stavudine"
       ],
       "description": [
-            "40",
+            "range",
+            "200",
+            "mg",
+            "400",
+            "mg",
+            "every",
+            "12",
+            "hr",
+            "ritonavir",
+            "range",
+            "100",
+            "mg",
+            "200",
+            "mg",
+            "every",
+            "12",
+            "hr",
+            "mg",
+            "every",
+            "12",
+            "hour",
             "mg",
             "every",
             "12",
             "hour"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "kaletra"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -112,12 +131,22 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004578.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00004578"
 }

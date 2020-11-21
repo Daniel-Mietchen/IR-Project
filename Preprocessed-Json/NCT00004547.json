@@ -614,19 +614,38 @@
             "mucinous"
       ],
       "condition": [
-            "peritoneal",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "postoperative",
-            "dwell",
-            "paclitaxel"
+            "Surgery",
+            "Continuous hyperthermic peritoneal perfusion (CHPP) with Cisplatin",
+            "Postoperative dwell with paclitaxel and 5-FU"
       ],
       "description": [
-            "intraperitoneal",
+            "undergo",
+            "cytoreductive",
+            "surgery",
+            "remove",
+            "much",
+            "tumor",
+            "possible",
+            "part",
+            "intestine",
+            "pancreas",
+            "stomach",
+            "entire",
+            "spleen",
+            "may",
+            "also",
+            "remove",
+            "affect",
             "dwell",
             "chemotherapy",
             "combination",
@@ -684,11 +703,28 @@
             "absorption"
       ],
       "arm_group_label": [
+            "mesothelioma",
+            "grade",
+            "mucinous",
+            "adenocarcinoma",
+            "gastrointestinal",
+            "origin",
+            "mesothelioma",
+            "grade",
+            "mucinous",
+            "adenocarcinoma",
+            "gastrointestinal",
+            "origin",
+            "mesothelioma",
+            "grade",
+            "mucinous",
             "adenocarcinoma",
             "gastrointestinal",
             "origin"
       ],
-      "other_name": [],
+      "other_name": [
+            "surgery"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -930,12 +966,21 @@
             "relate",
             "toxicity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004547.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00004547"
 }

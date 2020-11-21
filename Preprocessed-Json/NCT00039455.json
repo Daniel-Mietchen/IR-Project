@@ -208,27 +208,46 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "trastuzumab",
+            "alvocidib",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
+            "alvocidib",
+            "trastuzumab",
+            "alvocidib",
+            "trastuzumab",
+            "alvocidib",
             "trastuzumab",
             "alvocidib"
       ],
       "other_name": [
-            "pharmacological",
+            "1275",
             "study"
       ],
       "criteria": [
@@ -626,12 +645,17 @@
             "product",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039455.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00039455"
 }

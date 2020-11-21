@@ -209,26 +209,77 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody",
-            "therapy"
+            "BL22 immunotoxin",
+            "antibody-drug conjugate therapy",
+            "immunotoxin therapy",
+            "monoclonal antibody therapy"
       ],
       "description": [
-            "administer",
+            "immunotoxin",
+            "iv",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "3",
+            "5",
+            "day",
+            "1",
+            "3",
+            "5",
+            "7",
+            "9",
+            "11",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "6",
+            "course",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "patient",
+            "achieve",
+            "complete",
+            "response",
+            "cr",
+            "unconfirmed",
+            "cr",
+            "cru",
+            "receive",
+            "2",
+            "additional",
+            "course",
+            "beyond",
+            "cr",
+            "cru",
+            "maximum",
+            "6",
+            "course",
+            "antibody",
+            "day",
+            "7",
+            "immunogenicity",
+            "cycle",
+            "end",
+            "study",
             "intravenously",
             "30",
             "minute"
       ],
-      "arm_group_label": [
-            "4"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -526,7 +577,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -535,6 +586,16 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077493.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "monoclonal"
+      ],
+      "id": "NCT00077493"
 }

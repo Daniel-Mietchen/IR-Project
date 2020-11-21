@@ -104,11 +104,10 @@
             "month"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "irofulven"
@@ -328,12 +327,19 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062257.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00062257"
 }

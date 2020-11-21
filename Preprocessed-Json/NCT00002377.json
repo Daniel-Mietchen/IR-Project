@@ -42,14 +42,16 @@
             "population"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Valganciclovir",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -69,12 +71,17 @@
             "cmv",
             "retinitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002377.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00002377"
 }

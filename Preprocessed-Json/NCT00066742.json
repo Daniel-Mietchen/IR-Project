@@ -236,31 +236,54 @@
             "month"
       ],
       "condition": [
-            "limit",
             "stage",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tirapazamine",
+            "cisplatin",
+            "etoposide",
+            "radiation therapy",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "radiation",
+            "therapy",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "tirapazamine",
+            "cisplatin",
+            "etoposide",
+            "tirapazamine",
+            "cisplatin",
+            "etoposide",
+            "tirapazamine",
+            "cisplatin",
+            "etoposide",
+            "tirapazamine",
+            "cisplatin",
+            "etoposide",
             "tirapazamine",
             "cisplatin",
             "etoposide"
       ],
       "other_name": [
-            "therapy",
+            "4233",
+            "59075",
             "radiation"
       ],
       "criteria": [
@@ -751,12 +774,19 @@
             "enter",
             "database"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066742.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00066742"
 }

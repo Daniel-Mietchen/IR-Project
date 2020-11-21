@@ -45,19 +45,14 @@
             "treatment",
             "cisplatin"
       ],
-      "condition": [
-            "vomit"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "ondansetron",
-            "duration",
-            "treatment",
-            "4",
-            "day"
+            "MK0869, aprepitant / Duration of Treatment: 3 days",
+            "Comparator: ondansetron / Duration of Treatment: 4 days"
       ],
       "criteria": [
             "inclusion",
@@ -85,12 +80,13 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090207.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00090207"
 }

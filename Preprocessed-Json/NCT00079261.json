@@ -231,16 +231,24 @@
             "year"
       ],
       "condition": [
-            "small",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "CHOP regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -456,7 +464,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -465,6 +473,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079261.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "small",
+            "intestine",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00079261"
 }

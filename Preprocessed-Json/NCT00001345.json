@@ -234,7 +234,6 @@
             "rna"
       ],
       "condition": [
-            "multiple",
             "endocrine",
             "neoplasia"
       ],
@@ -271,9 +270,19 @@
             "niddk",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "linkage",
+            "analysis"
+      ],
+      "mesh_term": [
+            "gland",
+            "neoplasm",
+            "endocrine",
+            "neoplasia"
+      ],
+      "id": "NCT00001345"
 }

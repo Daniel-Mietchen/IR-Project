@@ -236,15 +236,13 @@
             "phase"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nutritional",
-            "supplement"
+            "Nutritional Supplement"
       ],
       "criteria": [
             "inclusion",
@@ -293,12 +291,19 @@
             "dose",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013923.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nutritional",
+            "supplement"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00013923"
 }

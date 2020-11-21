@@ -170,15 +170,21 @@
             "accrual"
       ],
       "condition": [
-            "radiation",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Dietary Supplement",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "cognitive",
-            "assessment"
+            "EGb761",
+            "donepezil hydrochloride",
+            "cognitive assessment"
       ],
       "criteria": [
             "disease",
@@ -303,7 +309,7 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -312,6 +318,19 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070161.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "ependymoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00070161"
 }

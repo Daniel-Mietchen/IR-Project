@@ -146,14 +146,17 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Thymalfasin",
+            "Interleukin-2, Polyethylene Glycolated",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -273,12 +276,20 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thymosin",
+            "alpha",
+            "1"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001036"
 }

@@ -25,14 +25,13 @@
             "cancer"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "mab"
+            "TRAIL-R1 mAb (TRM-1;HGS-ETR1)"
       ],
       "criteria": [
             "primary",
@@ -117,12 +116,16 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092924.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "monoclonal"
+      ],
+      "id": "NCT00092924"
 }

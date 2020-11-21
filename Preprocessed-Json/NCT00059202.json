@@ -45,15 +45,13 @@
             "collect"
       ],
       "condition": [
-            "sclerosing",
             "cholangitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ursodeoxycholic",
-            "acid"
+            "Ursodeoxycholic Acid"
       ],
       "criteria": [
             "chronic",
@@ -115,7 +113,7 @@
             "biliary",
             "fibrosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -124,6 +122,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059202.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psc"
+      ],
+      "mesh_term": [
+            "sclerosing",
+            "acid"
+      ],
+      "id": "NCT00059202"
 }

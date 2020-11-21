@@ -149,16 +149,19 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "melanoma",
+            "cancer",
+            "skin"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "131",
-            "monoclonal",
-            "antibody"
+            "iodine I 131 monoclonal antibody 3F8"
       ],
       "criteria": [
             "disease",
@@ -300,12 +303,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003022.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00003022"
 }

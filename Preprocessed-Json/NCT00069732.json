@@ -122,13 +122,15 @@
             "weight",
             "loss"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "qigong",
+            "acupressure-TAT"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -278,7 +280,7 @@
             "group",
             "session"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -287,6 +289,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069732.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "traditional",
+            "chinese",
+            "medicine"
+      ],
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00069732"
 }

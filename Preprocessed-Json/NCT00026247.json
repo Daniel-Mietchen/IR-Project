@@ -110,7 +110,7 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -118,11 +118,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiofrequency",
-            "ablation"
+            "pain therapy",
+            "radiofrequency ablation"
       ],
       "criteria": [
             "disease",
@@ -306,12 +307,23 @@
             "weight",
             "heparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026247.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00026247"
 }

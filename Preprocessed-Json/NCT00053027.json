@@ -164,17 +164,17 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "rituximab",
             "cladribine"
       ],
       "arm_group_label": [
-            "rituximab",
+            "cladribine",
             "cladribine"
       ],
       "criteria": [
@@ -184,7 +184,6 @@
             "confirm",
             "mantle",
             "cell",
-            "lymphoma",
             "measurable",
             "assessable",
             "disease",
@@ -438,12 +437,20 @@
             "symptomatic",
             "splenomegaly"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00053027"
 }

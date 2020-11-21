@@ -275,31 +275,88 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "tumor",
+            "nervous",
+            "system",
+            "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "thiotepa",
+            "vincristine sulfate",
+            "conventional surgery",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "transplant",
             "combination",
             "chemotherapy",
             "pbsc",
             "transplant"
       ],
       "other_name": [
-            "nsc",
+            "factor",
+            "241240",
+            "ii",
+            "119875",
+            "026271",
+            "141540",
+            "639",
             "067574"
       ],
       "criteria": [
@@ -437,12 +494,30 @@
             "surgery",
             "stable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "2",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003141.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "central",
+            "nervous",
+            "system",
+            "yolk",
+            "sac",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003141"
 }

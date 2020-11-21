@@ -128,13 +128,14 @@
             "year"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
             "docetaxel"
       ],
       "criteria": [
@@ -277,12 +278,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003864.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "carcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003864"
 }

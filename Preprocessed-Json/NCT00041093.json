@@ -91,26 +91,27 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "otherwise",
+            "specify",
             "cervical",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "Docetaxel"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "docetaxel"
       ],
       "other_name": [
-            "taxotere",
             "injection",
             "concentrate"
       ],
@@ -335,11 +336,13 @@
             "protective",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041093.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell"
+      ],
+      "id": "NCT00041093"
 }

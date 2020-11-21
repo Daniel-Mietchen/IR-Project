@@ -39,14 +39,16 @@
             "aid"
       ],
       "condition": [
-            "hiv",
+            "oral",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Clotrimazole",
+            "Fluconazole"
       ],
       "criteria": [
             "inclusion",
@@ -200,12 +202,25 @@
             "white",
             "plaque"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002282.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "candidiasis",
+            "oral"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "oral"
+      ],
+      "id": "NCT00002282"
 }

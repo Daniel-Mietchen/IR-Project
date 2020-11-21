@@ -154,16 +154,16 @@
             "year"
       ],
       "condition": [
-            "vulvar",
+            "complication",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "wind",
-            "closure"
+            "fibrin sealant",
+            "surgical wound closure"
       ],
       "criteria": [
             "disease",
@@ -358,14 +358,24 @@
             "product",
             "device"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028951.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ivb",
+            "vulvar",
+            "cancer"
+      ],
+      "mesh_term": [
+            "complication",
+            "neoplasm",
+            "tissue",
+            "adhesive"
+      ],
+      "id": "NCT00028951"
 }

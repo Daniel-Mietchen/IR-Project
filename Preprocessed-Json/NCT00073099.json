@@ -329,7 +329,6 @@
             "trial"
       ],
       "condition": [
-            "eye",
             "disease"
       ],
       "criteria": [
@@ -386,12 +385,20 @@
             "age",
             "group"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073099.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "corneal",
+            "conjunctival",
+            "stain"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00073099"
 }

@@ -276,15 +276,24 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "busulfan",
+            "cyclophosphamide",
+            "etoposide",
+            "allogeneic bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -447,11 +456,9 @@
             "dlco",
             "least",
             "50",
-            "predict",
             "fvc",
             "least",
             "50",
-            "predict",
             "note",
             "unless",
             "due",
@@ -484,7 +491,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -493,6 +500,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004907.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004907"
 }

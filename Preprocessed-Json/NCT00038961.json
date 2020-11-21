@@ -193,15 +193,35 @@
             "investigator",
             "discretion"
       ],
-      "condition": [
-            "thromboembolism"
+      "condition": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
+            "fondaparinux sodium",
             "placebo"
       ],
       "description": [
-            "placebo",
+            "mg",
+            "fondparinux",
+            "sodium",
+            "daily",
+            "start",
+            "6",
+            "8",
+            "hour",
+            "surgical",
+            "closure",
+            "7",
+            "2",
+            "day",
+            "administer",
+            "top",
+            "ipc",
+            "elastic",
+            "stock",
+            "e",
             "daily",
             "start",
             "6",
@@ -220,7 +240,10 @@
             "e"
       ],
       "arm_group_label": [
-            "placebo",
+            "intermittent",
+            "pneumatic",
+            "compression",
+            "ipc",
             "intermittent",
             "pneumatic",
             "compression",
@@ -476,12 +499,17 @@
             "bypass",
             "graft"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038961.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "embolism"
+      ],
+      "mesh_term": [],
+      "id": "NCT00038961"
 }

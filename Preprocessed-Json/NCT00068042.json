@@ -27,15 +27,14 @@
             "patient",
             "acromegaly"
       ],
-      "condition": [
-            "acromegaly"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sandostatin",
-            "lar"
+            "Pegvisomant",
+            "Sandostatin LAR"
       ],
       "criteria": [
             "inclusion",
@@ -98,12 +97,13 @@
             "administer",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068042.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00068042"
 }

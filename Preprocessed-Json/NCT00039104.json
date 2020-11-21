@@ -165,29 +165,47 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "rebimastat",
+            "zoledronic acid",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "rebimastat",
+            "zoledronic",
+            "acid",
+            "rebimastat",
+            "zoledronic",
+            "acid",
+            "ii",
+            "zoledronic",
+            "acid",
+            "rebimastat",
+            "zoledronic",
+            "acid",
             "ii",
             "zoledronic",
             "acid"
       ],
       "other_name": [
-            "zometa"
+            "42446"
       ],
       "criteria": [
             "inclusion",
@@ -524,14 +542,16 @@
             "5",
             "year"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039104.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00039104"
 }

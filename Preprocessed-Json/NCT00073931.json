@@ -174,20 +174,36 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "tositumomab",
-            "iodine",
-            "131",
-            "tositumomab"
+            "filgrastim",
+            "sargramostim",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "tositumomab and iodine I 131 tositumomab"
       ],
       "description": [
+            "subcutaneously",
+            "subcutaneously",
+            "stem",
+            "cell",
             "give",
+            "via",
+            "central",
+            "catheter",
+            "stem",
+            "cell",
+            "give",
+            "via",
+            "central",
+            "catheter",
             "intravenously",
             "test",
             "dose",
@@ -411,7 +427,7 @@
             "antilymphoma",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
@@ -420,6 +436,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073931.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "antibody",
+            "monoclonal"
+      ],
+      "id": "NCT00073931"
 }

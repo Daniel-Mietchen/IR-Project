@@ -188,15 +188,31 @@
             "month"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
+            "ifosfamide",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -296,9 +312,28 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080795.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "urethral",
+            "cancer",
+            "associate",
+            "invasive",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00080795"
 }

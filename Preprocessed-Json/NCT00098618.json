@@ -181,31 +181,63 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "renal",
+            "cell",
+            "carcinoma",
+            "renal",
+            "cell",
+            "carcinoma",
+            "renal",
+            "cell",
+            "cancer",
+            "iii",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "sorafenib tosylate",
+            "recombinant interferon alfa",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
+            "recombinant",
+            "interferon",
+            "alfa",
+            "sorafenib",
+            "tosylate",
+            "recombinant",
+            "interferon",
+            "alfa",
             "sorafenib",
             "tosylate",
             "recombinant",
             "interferon",
             "alfa"
       ],
-      "other_name": [],
+      "other_name": [
+            "tosylate",
+            "salt",
+            "n",
+            "interferon"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -401,12 +433,16 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098618.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00098618"
 }

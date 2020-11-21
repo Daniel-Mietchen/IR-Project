@@ -118,29 +118,30 @@
             "12"
       ],
       "condition": [
-            "connective",
             "tissue",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Oral bovine type I collagen",
+            "Placebo"
       ],
       "description": [
+            "mcg",
             "ci",
+            "daily",
+            "15",
+            "month",
             "placebo",
             "daily",
             "15",
             "month"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "ci"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -280,12 +281,22 @@
             "cell",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multicenter"
+      ],
+      "mesh_term": [
+            "systemic",
+            "diffuse",
+            "localize",
+            "tissue",
+            "disease"
+      ],
+      "id": "NCT00005675"
 }

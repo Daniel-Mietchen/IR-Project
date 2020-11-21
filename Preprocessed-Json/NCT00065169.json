@@ -100,13 +100,13 @@
             "study"
       ],
       "condition": [
-            "dementia"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "Celecoxib"
       ],
       "criteria": [
             "inclusion",
@@ -302,7 +302,7 @@
             "body",
             "claustrophobia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -311,6 +311,9 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065169.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00065169"
 }

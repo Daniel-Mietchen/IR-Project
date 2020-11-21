@@ -159,27 +159,32 @@
             "year"
       ],
       "condition": [
-            "tumor",
+            "melanoma",
+            "iv",
+            "melanoma",
             "metastatic",
             "brain"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "temozolomide",
             "thalidomide"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "temozolomide",
+            "thalidomide",
             "temozolomide",
             "thalidomide"
       ],
       "other_name": [
-            "thalomid"
+            "52365"
       ],
       "criteria": [
             "inclusion",
@@ -474,12 +479,13 @@
             "bisphosphonates",
             "zoledronate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072163.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00072163"
 }

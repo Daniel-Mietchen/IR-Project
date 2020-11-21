@@ -303,21 +303,50 @@
             "close"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Nitrosourea (BCNU or CCNU)",
+            "temozolomide",
+            "radiation therapy"
       ],
       "arm_group_label": [
+            "nitrosourea",
+            "bcnu",
+            "ccnu",
+            "bcnu",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
+            "therapy",
             "rt",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
+            "therapy",
+            "rt",
+            "temozolomide",
+            "nitrosourea",
+            "bcnu",
+            "ccnu",
+            "bcnu",
+            "temozolomide",
+            "bcnu",
+            "temozolomide",
             "bcnu",
             "temozolomide"
       ],
@@ -543,7 +572,7 @@
             "recurrence",
             "detect"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -552,6 +581,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004259.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "mix",
+            "glioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00004259"
 }

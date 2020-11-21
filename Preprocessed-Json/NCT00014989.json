@@ -289,15 +289,17 @@
             "morbidity"
       ],
       "condition": [
-            "abruptio",
+            "palsy",
+            "hemorrhage",
+            "leukomalacia",
+            "edema",
             "placenta"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "magnesium",
-            "sulfate"
+            "magnesium sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -364,11 +366,21 @@
             "participation",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014989.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "magnesium",
+            "sulfate"
+      ],
+      "mesh_term": [
+            "palsy",
+            "hemorrhage",
+            "edema",
+            "periventricular",
+            "placenta",
+            "sulfate"
+      ],
+      "id": "NCT00014989"
 }

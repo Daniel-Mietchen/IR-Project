@@ -43,22 +43,20 @@
             "week"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Cabergoline",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "dostinex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "description": [
-            "sugar",
             "pill",
             "manufacture",
             "mimic",
@@ -97,7 +95,7 @@
             "screen",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -106,6 +104,10 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033111.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00033111"
 }

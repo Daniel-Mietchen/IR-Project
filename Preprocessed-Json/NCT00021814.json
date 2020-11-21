@@ -95,15 +95,17 @@
             "life"
       ],
       "condition": [
-            "prostatic",
+            "hyperplasia",
             "hypertrophy",
             "benign"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "finasteride"
+            "Doxazosin",
+            "Finasteride"
       ],
       "criteria": [
             "inclusion",
@@ -175,14 +177,18 @@
             "study",
             "protocol"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021814.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cardura"
+      ],
+      "mesh_term": [
+            "hyperplasia"
+      ],
+      "id": "NCT00021814"
 }

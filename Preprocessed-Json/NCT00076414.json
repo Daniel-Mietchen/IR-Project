@@ -575,13 +575,15 @@
             "cardiovascular",
             "disease"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Acetylcholine",
+            "L-NMMA"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -826,9 +828,13 @@
             "liver",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076414.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00076414"
 }

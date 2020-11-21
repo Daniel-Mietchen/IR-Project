@@ -387,18 +387,19 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "chop",
-            "regimen"
+            "rituximab",
+            "CHOP regimen"
       ],
       "description": [
-            "cyclophosphamide",
+            "375",
+            "day",
+            "1",
             "750",
             "day",
             "1",
@@ -426,7 +427,8 @@
             "6"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
+            "rituximab",
             "b",
             "rituximab"
       ],
@@ -571,7 +573,6 @@
             "greater",
             "3",
             "time",
-            "normal",
             "active",
             "chronic",
             "hepatitis",
@@ -579,7 +580,6 @@
             "c",
             "infection",
             "note",
-            "unless",
             "relate",
             "lymphoma",
             "renal",
@@ -587,9 +587,7 @@
             "greater",
             "2",
             "time",
-            "normal",
             "note",
-            "unless",
             "relate",
             "lymphoma",
             "cardiovascular",
@@ -713,7 +711,7 @@
             "study",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -722,6 +720,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064116.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00064116"
 }

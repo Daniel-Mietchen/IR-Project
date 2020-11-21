@@ -208,29 +208,88 @@
             "year"
       ],
       "condition": [
-            "untreated",
+            "acute",
+            "megakaryoblastic",
+            "leukemia",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia",
+            "acute",
+            "monoblastic",
+            "leukemia",
+            "acute",
+            "monocytic",
+            "leukemia",
+            "acute",
+            "myeloblastic",
+            "leukemia",
+            "maturation",
+            "acute",
+            "myeloblastic",
+            "leukemia",
+            "without",
+            "maturation",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "del",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "acute",
+            "myelomonocytic",
+            "leukemia",
+            "erythroleukemia",
+            "pure",
+            "erythroid",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
             "adult",
             "acute",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tipifarnib"
       ],
       "description": [
-            "give",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
             "iv"
       ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -744,12 +803,25 @@
             "data",
             "base"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "70",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093418.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "monocytic",
+            "acute",
+            "myelomonocytic",
+            "acute",
+            "erythroblastic",
+            "acute",
+            "megakaryoblastic",
+            "acute"
+      ],
+      "id": "NCT00093418"
 }

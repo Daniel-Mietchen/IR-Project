@@ -218,18 +218,23 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -412,7 +417,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -421,6 +426,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00020176.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00020176"
 }

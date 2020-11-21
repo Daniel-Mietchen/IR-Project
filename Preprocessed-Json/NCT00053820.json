@@ -246,13 +246,16 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "recombinant interferon alfa",
             "fluorouracil"
       ],
       "criteria": [
@@ -374,7 +377,7 @@
             "organ",
             "allograft"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -383,6 +386,18 @@
             "81",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053820.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00053820"
 }

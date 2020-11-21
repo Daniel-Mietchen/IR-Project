@@ -31,15 +31,13 @@
             "md"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "darbepoetin",
-            "alfa"
+            "Darbepoetin Alfa"
       ],
       "criteria": [
             "eligibility",
@@ -145,12 +143,20 @@
             "procedure",
             "perform"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095264.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "alfa"
+      ],
+      "id": "NCT00095264"
 }

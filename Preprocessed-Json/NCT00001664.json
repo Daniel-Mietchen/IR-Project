@@ -93,7 +93,8 @@
             "nih"
       ],
       "condition": [
-            "sleep",
+            "system",
+            "disease",
             "disorder"
       ],
       "criteria": [
@@ -165,12 +166,25 @@
             "standard",
             "care"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001664.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "periodic",
+            "leg",
+            "movement"
+      ],
+      "mesh_term": [
+            "system",
+            "disease",
+            "wake",
+            "disorder",
+            "excessive",
+            "somnolence"
+      ],
+      "id": "NCT00001664"
 }

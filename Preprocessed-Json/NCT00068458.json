@@ -292,20 +292,35 @@
             "month"
       ],
       "condition": [
-            "weight",
+            "cancer",
             "change"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "exercise",
-            "fruit",
-            "vegetable",
-            "low",
-            "fat",
-            "calcium",
-            "diet"
+            "Calcium-Rich Diet",
+            "Arm 2: Exercise + Calcium-Rich Diet",
+            "Exercise + Fruit & Vegetable, Low Fat + Calcium Diet"
       ],
       "description": [
+            "6",
+            "month",
+            "intervention",
+            "counsel",
+            "material",
+            "promote",
+            "strength",
+            "train",
+            "aerobic",
+            "activity",
+            "calcium",
+            "intake",
+            "6",
+            "month",
+            "intervention",
             "calcium",
             "intake",
             "per",
@@ -316,7 +331,12 @@
             "period"
       ],
       "arm_group_label": [
+            "1",
+            "calcium",
+            "diet",
+            "2",
             "exercise",
+            "diet",
             "fruit",
             "vegetable",
             "low",
@@ -324,9 +344,7 @@
             "calcium",
             "diet"
       ],
-      "other_name": [
-            "calcium"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -504,14 +522,24 @@
             "coumadin",
             "warfarin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068458.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "weight",
+            "change",
+            "dietary"
+      ],
+      "id": "NCT00068458"
 }

@@ -144,7 +144,12 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "condition",
             "adult",
             "solid",
             "tumor",
@@ -152,14 +157,22 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epoetin",
-            "alfa"
+            "darbepoetin alfa",
+            "epoetin alfa"
       ],
       "description": [
-            "epoetin",
+            "alfa",
+            "administer",
+            "dose",
+            "every",
+            "2",
+            "week",
+            "treatment",
+            "period",
             "alfa",
             "administer",
             "dose",
@@ -169,7 +182,7 @@
             "period"
       ],
       "arm_group_label": [
-            "epoetin",
+            "alfa",
             "alfa"
       ],
       "criteria": [
@@ -327,12 +340,30 @@
             "agent",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070382.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "disorder",
+            "condition",
+            "alfa",
+            "alfa"
+      ],
+      "id": "NCT00070382"
 }

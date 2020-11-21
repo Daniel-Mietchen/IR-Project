@@ -84,25 +84,32 @@
             "posttransplant"
       ],
       "condition": [
-            "aplastic",
             "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "Anti-thymocyte globulin",
+            "Cyclophosphamide",
+            "Bone marrow transplantation"
       ],
       "description": [
-            "give",
+            "via",
+            "iv",
+            "4",
+            "hour",
+            "via",
+            "iv",
+            "60",
+            "minute",
+            "day",
             "day",
             "0"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "protocol",
             "entry",
@@ -192,12 +199,20 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004474.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "aplastic",
+            "serum"
+      ],
+      "id": "NCT00004474"
 }

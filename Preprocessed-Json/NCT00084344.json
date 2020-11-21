@@ -248,13 +248,16 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "4-hydroxytamoxifen",
+            "breast imaging study",
             "radiomammography"
       ],
       "criteria": [
@@ -362,9 +365,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
@@ -373,6 +374,11 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084344.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00084344"
 }

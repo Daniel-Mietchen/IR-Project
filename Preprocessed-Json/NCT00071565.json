@@ -280,7 +280,7 @@
             "condition"
       ],
       "condition": [
-            "subarachnoid",
+            "aneurysm",
             "hemorrhage"
       ],
       "study_pop": [],
@@ -323,12 +323,19 @@
             "fibromuscular",
             "dysplasia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071565.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "hemorrhage",
+            "aneurysm"
+      ],
+      "id": "NCT00071565"
 }

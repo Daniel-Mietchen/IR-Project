@@ -236,7 +236,8 @@
             "cvd"
       ],
       "condition": [
-            "atherosclerosis"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -298,7 +299,7 @@
             "grade",
             "12"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -307,6 +308,10 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037466.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00037466"
 }

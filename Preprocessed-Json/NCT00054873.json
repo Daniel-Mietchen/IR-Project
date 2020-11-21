@@ -25,12 +25,17 @@
             "adenocarcinoma"
       ],
       "condition": [
-            "adenocarcinoma"
+            "neoplasm",
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "tezacitabine",
+            "5-fluorouracil"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -252,12 +257,21 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00054873"
 }

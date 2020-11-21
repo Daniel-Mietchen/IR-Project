@@ -26,15 +26,18 @@
             "adult"
       ],
       "condition": [
-            "chronic",
             "low",
             "back",
             "pain"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "massage therapy",
+            "chiropractic",
             "acupuncture"
       ],
       "criteria": [
@@ -142,12 +145,21 @@
             "telephone",
             "interview"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065975.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cam",
+            "therapy"
+      ],
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain"
+      ],
+      "id": "NCT00065975"
 }

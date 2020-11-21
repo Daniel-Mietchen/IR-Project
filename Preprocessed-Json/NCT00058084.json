@@ -208,27 +208,36 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ixabepilone",
+            "mitoxantrone hydrochloride",
             "prednisone"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "deltra"
+            "b",
+            "lactam",
+            "232315"
       ],
       "criteria": [
             "inclusion",
@@ -371,7 +380,6 @@
             "60",
             "day",
             "cessation",
-            "therapy",
             "testosterone",
             "50",
             "know",
@@ -629,14 +637,16 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058084.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00058084"
 }

@@ -145,11 +145,9 @@
             "within",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
@@ -180,7 +178,6 @@
             "bidimensionally",
             "measurable",
             "disease",
-            "site",
             "lymph",
             "nod",
             "least",
@@ -204,7 +201,6 @@
             "physical",
             "exam",
             "note",
-            "bone",
             "lesion",
             "consider",
             "bidimensionally",
@@ -412,12 +408,19 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030875.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00030875"
 }

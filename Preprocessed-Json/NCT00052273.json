@@ -173,15 +173,15 @@
             "study"
       ],
       "condition": [
-            "solid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "enzastaurin",
-            "hydrochloride"
+            "capecitabine",
+            "enzastaurin hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -422,12 +422,17 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052273.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00052273"
 }

@@ -89,20 +89,21 @@
             "ongoing"
       ],
       "condition": [
-            "peridontal",
+            "mellitus",
+            "glycemic",
+            "control",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "ultrasonic",
-            "scale",
-            "chlorhexidine",
-            "gluconate"
+            "Doxycycline HCI 10mg po for 2 weeks",
+            "Ultrasonic scaling with 0.12% chlorhexidine gluconate"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "1"
       ],
       "criteria": [
@@ -133,9 +134,13 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012688.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "gluconate"
+      ],
+      "id": "NCT00012688"
 }

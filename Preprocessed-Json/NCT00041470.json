@@ -46,17 +46,72 @@
             "life"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "filgrastim"
+            "Paclitaxel",
+            "Vinorelbine",
+            "Trastuzumab",
+            "Filgrastim"
       ],
       "description": [
-            "5",
+            "iv",
+            "weekly",
+            "treatment",
+            "continue",
+            "disease",
+            "progression",
+            "excessive",
+            "toxicity",
+            "reason",
+            "remove",
+            "patient",
+            "protocol",
+            "treatment",
+            "iv",
+            "weekly",
+            "treatment",
+            "continue",
+            "disease",
+            "progression",
+            "excessive",
+            "toxicity",
+            "reason",
+            "remove",
+            "patient",
+            "protocol",
+            "treatment",
+            "iv",
+            "load",
+            "dose",
+            "day",
+            "1",
+            "first",
+            "week",
+            "follow",
+            "2",
+            "iv",
+            "maintenance",
+            "dose",
+            "subsequent",
+            "week",
+            "treatment",
+            "continue",
+            "disease",
+            "progression",
+            "excessive",
+            "toxicity",
+            "reason",
+            "remove",
+            "patient",
+            "protocol",
+            "treatment",
             "daily",
             "include",
             "day",
@@ -74,9 +129,7 @@
             "protocol",
             "treatment"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "eligible",
@@ -187,12 +240,15 @@
             "therapy",
             "navelbine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041470.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00041470"
 }

@@ -293,7 +293,6 @@
             "genome"
       ],
       "condition": [
-            "partial",
             "hear",
             "loss"
       ],
@@ -384,9 +383,16 @@
             "aminoglycoside",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001606.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hear",
+            "impairment"
+      ],
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00001606"
 }

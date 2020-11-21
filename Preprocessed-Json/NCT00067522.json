@@ -277,17 +277,15 @@
             "group"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "future",
-            "plan",
-            "perspective",
-            "program"
+            "User-independent contraception program",
+            "Future Planning Perspectives program"
       ],
       "criteria": [
             "inclusion",
@@ -315,7 +313,7 @@
             "document",
             "infertility"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -324,6 +322,13 @@
             "38",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067522.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "prevention"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00067522"
 }

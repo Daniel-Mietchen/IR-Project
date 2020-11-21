@@ -280,7 +280,6 @@
             "parameter"
       ],
       "condition": [
-            "pigment",
             "dispersion",
             "syndrome"
       ],
@@ -355,9 +354,14 @@
             "degree",
             "myopia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005919.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "gene",
+            "mutation"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005919"
 }

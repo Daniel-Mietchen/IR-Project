@@ -140,13 +140,20 @@
             "consent"
       ],
       "condition": [
+            "infection",
             "nephropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Nelfinavir mesylate",
+            "Saquinavir",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -176,12 +183,20 @@
             "4",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002397.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "nephropathy"
+      ],
+      "id": "NCT00002397"
 }

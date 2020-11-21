@@ -182,17 +182,51 @@
             "anemia",
             "neutropenia"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "prednisone"
+            "Cyclophosphamide",
+            "Methotrexate",
+            "Prednisone"
       ],
       "description": [
+            "respond",
+            "mtx",
+            "4",
+            "month",
+            "receive",
+            "cy",
+            "orally",
+            "100",
+            "mg",
+            "daily",
+            "step",
+            "two",
             "prednisone",
+            "schedule",
+            "patient",
+            "show",
+            "partial",
+            "response",
+            "cr",
+            "maximum",
+            "period",
+            "therapy",
+            "1",
+            "year",
+            "treatment",
+            "consist",
+            "mtx",
+            "give",
+            "orally",
+            "10",
+            "divide",
+            "dose",
+            "weekly",
             "give",
             "orally",
             "1",
@@ -206,7 +240,12 @@
             "day"
       ],
       "arm_group_label": [
-            "methotrexate",
+            "cy",
+            "response",
+            "mtx",
+            "cy",
+            "response",
+            "mtx",
             "cy",
             "response",
             "mtx"
@@ -328,12 +367,19 @@
             "methotrexate",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003910.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lgl",
+            "clone"
+      ],
+      "mesh_term": [
+            "lymphoid"
+      ],
+      "id": "NCT00003910"
 }

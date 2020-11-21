@@ -197,13 +197,17 @@
             "patient"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
+            "renal",
+            "cell",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "PSC 833",
             "paclitaxel"
       ],
       "criteria": [
@@ -374,9 +378,19 @@
             "marrow",
             "reserve"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001383.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "taxol",
+            "90",
+            "hour"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "paclitaxel"
+      ],
+      "id": "NCT00001383"
 }

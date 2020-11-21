@@ -30,17 +30,19 @@
             "patient"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "aspart"
+            "insulin human",
+            "insulin lispro",
+            "insulin aspart"
       ],
       "criteria": [
             "inclusion",
@@ -78,7 +80,7 @@
             "subject",
             "necessary"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -87,6 +89,21 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071448.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "globin",
+            "zinc",
+            "degludec",
+            "insulin",
+            "aspart",
+            "drug",
+            "combination",
+            "lispro",
+            "aspart"
+      ],
+      "id": "NCT00071448"
 }

@@ -179,15 +179,13 @@
             "control"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "bronchoalveolar",
-            "lavage"
+            "Bronchoalveolar lavage"
       ],
       "criteria": [
             "inclusion",
@@ -276,12 +274,20 @@
             "6",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001110.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "lavage",
+            "fluid"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001110"
 }

@@ -566,14 +566,40 @@
             "effective"
       ],
       "condition": [
-            "sarcoma"
+            "central",
+            "nervous",
+            "system",
+            "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "leucovorin calcium",
+            "methotrexate",
+            "temozolomide",
+            "thiotepa",
+            "vincristine sulfate",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -806,12 +832,27 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "10",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003273.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "newly",
+            "diagnose",
+            "childhood",
+            "ependymoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003273"
 }

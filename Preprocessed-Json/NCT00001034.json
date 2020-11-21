@@ -133,14 +133,15 @@
             "023"
       ],
       "condition": [
-            "gastrointestinal",
+            "retinitis",
+            "infection",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -281,12 +282,24 @@
             "potential",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001034.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gastrointestinal",
+            "system"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "system",
+            "disease",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00001034"
 }

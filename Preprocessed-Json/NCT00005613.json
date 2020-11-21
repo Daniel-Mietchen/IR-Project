@@ -198,17 +198,29 @@
             "4",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bcnu"
+            "cyclophosphamide",
+            "etoposide",
+            "BCNU"
       ],
       "description": [
-            "bcnu",
+            "give",
+            "dose",
+            "1500",
+            "iv",
+            "hour",
+            "day",
+            "give",
+            "dose",
+            "600",
+            "hour",
+            "day",
             "give",
             "dose",
             "150",
@@ -218,12 +230,14 @@
             "day"
       ],
       "arm_group_label": [
-            "allogeneic",
+            "transplant",
+            "transplant",
+            "transplant",
+            "transplant",
+            "transplant",
             "transplant"
       ],
-      "other_name": [
-            "carmustine"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -436,7 +450,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -445,6 +459,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005613.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00005613"
 }

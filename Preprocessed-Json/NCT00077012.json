@@ -291,16 +291,16 @@
             "qmax"
       ],
       "condition": [
-            "benign",
             "prostatic",
             "hyperplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "photodynamic",
-            "therapy"
+            "QLT0074",
+            "Photodynamic therapy"
       ],
       "criteria": [
             "men",
@@ -341,11 +341,15 @@
             "distal",
             "bladder"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077012.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bph"
+      ],
+      "mesh_term": [
+            "hyperplasia"
+      ],
+      "id": "NCT00077012"
 }

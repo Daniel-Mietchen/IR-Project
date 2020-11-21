@@ -211,30 +211,103 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "cervical",
+            "carcinoma",
             "ivb",
             "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "Cisplatin",
+            "Gemcitabine Hydrochloride",
+            "Paclitaxel",
+            "Quality-of-Life Assessment",
+            "Topotecan Hydrochloride",
+            "Vinorelbine Tartrate"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "study",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "paclitaxel",
+            "cisplatin",
+            "ii",
+            "vinorelbine",
+            "cisplatin",
+            "iii",
+            "gemcitabine",
+            "cisplatin",
+            "iv",
+            "topotecan",
+            "cisplatin",
+            "iii",
+            "gemcitabine",
+            "cisplatin",
+            "paclitaxel",
+            "cisplatin",
+            "paclitaxel",
+            "cisplatin",
+            "ii",
+            "vinorelbine",
+            "cisplatin",
+            "iii",
+            "gemcitabine",
+            "cisplatin",
+            "iv",
+            "topotecan",
+            "cisplatin",
+            "iv",
+            "topotecan",
+            "cisplatin",
             "ii",
             "vinorelbine",
             "cisplatin"
       ],
       "other_name": [
-            "vinorelbine",
+            "platinum",
+            "ii",
+            "platinum",
+            "ii",
+            "diamine",
+            "dichloride",
+            "ii",
+            "ii",
+            "diamine",
+            "dichloride",
+            "peyrone",
+            "chloride",
+            "peyrone",
+            "salt",
+            "aq",
+            "vha",
+            "plus",
+            "diamminodichloride",
+            "hydrochloride",
+            "konzentrat",
+            "life",
+            "assessment",
+            "hcl",
+            "hydrochloride",
+            "oral",
+            "ditartrate",
             "ditartrate"
       ],
       "criteria": [
@@ -387,14 +460,20 @@
             "prior",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064077.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm",
+            "adenosquamous",
+            "paclitaxel"
+      ],
+      "id": "NCT00064077"
 }

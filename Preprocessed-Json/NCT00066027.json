@@ -136,17 +136,28 @@
             "two",
             "year"
       ],
-      "condition": [
-            "periodontitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "20 mg doxycycline hyclate",
+            "Placebo"
       ],
       "description": [
-            "subject",
+            "ldd",
+            "group",
+            "take",
+            "20",
+            "mg",
+            "doxycycline",
+            "hyclate",
+            "tablet",
+            "twice",
+            "daily",
+            "two",
+            "year",
             "placebo",
             "group",
             "take",
@@ -157,7 +168,7 @@
             "year"
       ],
       "arm_group_label": [
-            "placebo"
+            "doxycycline"
       ],
       "criteria": [
             "inclusion",
@@ -267,9 +278,7 @@
             "femoral",
             "neck"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -278,6 +287,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "periodontitis",
+            "metabolic",
+            "bone",
+            "disease",
+            "doxycycline"
+      ],
+      "mesh_term": [],
+      "id": "NCT00066027"
 }

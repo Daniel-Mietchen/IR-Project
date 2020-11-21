@@ -211,27 +211,39 @@
             "sample"
       ],
       "condition": [
-            "lung",
+            "obstructive",
+            "pulmonary",
+            "disease",
+            "disease",
             "disease",
             "obstructive"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "selenium"
+            "Vitamin E",
+            "Selenium"
       ],
       "description": [
-            "selenium",
+            "e",
+            "400",
+            "acetate",
             "200"
       ],
       "arm_group_label": [
-            "vitamin",
+            "e",
+            "placebo",
+            "e",
+            "selenium",
+            "placebo",
             "e",
             "selenium"
       ],
-      "other_name": [],
+      "other_name": [
+            "acetate"
+      ],
       "criteria": [
             "eligibility",
             "criterion",
@@ -249,14 +261,21 @@
             "select",
             "supplement"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063453.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "e"
+      ],
+      "id": "NCT00063453"
 }

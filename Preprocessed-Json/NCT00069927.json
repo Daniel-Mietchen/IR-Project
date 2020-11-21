@@ -198,7 +198,6 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
@@ -206,10 +205,19 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Adderall-XR\u00ae",
+            "Concerta\u00ae"
+      ],
       "description": [
+            "10",
+            "week",
+            "depend",
+            "subject",
+            "response",
             "18",
             "week",
             "depend",
@@ -217,11 +225,10 @@
             "response"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "methylphenidate",
             "hydrochloride"
       ],
       "criteria": [
@@ -343,7 +350,7 @@
             "hypertension",
             "hyperthyroidism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -352,6 +359,13 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069927.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurotoxicity"
+      ],
+      "mesh_term": [
+            "disorder",
+            "syndrome"
+      ],
+      "id": "NCT00069927"
 }

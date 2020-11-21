@@ -290,15 +290,14 @@
             "administration"
       ],
       "condition": [
-            "renal",
             "cell",
             "carcinoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "dc"
+            "DC RCC-RNA"
       ],
       "criteria": [
             "inclusion",
@@ -610,12 +609,16 @@
             "perform",
             "leukapheresis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006431.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00006431"
 }

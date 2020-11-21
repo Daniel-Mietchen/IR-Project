@@ -221,16 +221,15 @@
             "year"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "interferon",
-            "alfa"
+            "BCG vaccine",
+            "recombinant interferon alfa"
       ],
       "criteria": [
             "disease",
@@ -428,12 +427,23 @@
             "malignancy",
             "nonmalignancies"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004122.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "vaccine"
+      ],
+      "id": "NCT00004122"
 }

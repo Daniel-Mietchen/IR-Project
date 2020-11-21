@@ -351,15 +351,17 @@
             "sitosterolemia"
       ],
       "condition": [
-            "metabolism",
+            "disease",
             "inborn",
             "error"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ezetimibe"
+            "SCH-58235",
+            "Ezetimibe"
       ],
       "criteria": [
             "inclusion",
@@ -868,9 +870,18 @@
             "campesterol",
             "concentration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099996.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "homozygous",
+            "sitosterolemia"
+      ],
+      "mesh_term": [
+            "disease",
+            "inborn",
+            "error"
+      ],
+      "id": "NCT00099996"
 }

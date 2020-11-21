@@ -214,15 +214,22 @@
             "compare"
       ],
       "condition": [
-            "carcinoma",
             "adrenal",
             "cortical"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitotane"
+            "Etoposide",
+            "Doxorubicin",
+            "Cisplatin",
+            "Streptozotocin",
+            "Mitotane"
       ],
       "arm_group_label": [],
       "criteria": [
@@ -412,12 +419,16 @@
             "carcinoma",
             "prisoner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094497.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "carcinoma",
+            "doxorubicin"
+      ],
+      "id": "NCT00094497"
 }

@@ -309,7 +309,8 @@
             "parent"
       ],
       "condition": [
-            "carotid",
+            "disease",
+            "disease",
             "artery",
             "disease"
       ],
@@ -317,7 +318,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "11",
             "year"
@@ -326,6 +327,12 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005397.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005397"
 }

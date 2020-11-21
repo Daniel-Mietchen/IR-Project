@@ -141,17 +141,42 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "thalidomide"
       ],
       "description": [
+            "receive",
+            "docetaxel",
+            "iv",
+            "30",
+            "minute",
+            "weekly",
+            "course",
+            "repeat",
+            "every",
+            "12",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
             "patient",
+            "receive",
+            "escalate",
+            "dose",
+            "docetaxel",
+            "thalidomide",
+            "maximum",
+            "tolerate",
+            "dose",
+            "mtd",
+            "determine",
             "receive",
             "oral",
             "thalidomide",
@@ -166,8 +191,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
-            "cohort",
             "patient",
             "receive",
             "escalate",
@@ -404,12 +427,19 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049296.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00049296"
 }

@@ -255,7 +255,6 @@
             "woman"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "criteria": [
@@ -288,9 +287,7 @@
             "cancer",
             "nationwide"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "35",
             "year"
@@ -299,6 +296,12 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00047970.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "sister"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00047970"
 }

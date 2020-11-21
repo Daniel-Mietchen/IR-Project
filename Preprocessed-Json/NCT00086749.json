@@ -193,7 +193,6 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "study_pop": [],
@@ -300,9 +299,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "20",
             "year"
@@ -311,6 +308,15 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086749.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00086749"
 }

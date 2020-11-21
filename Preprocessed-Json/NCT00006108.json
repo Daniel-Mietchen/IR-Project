@@ -196,13 +196,16 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "trastuzumab",
+            "capecitabine",
             "paclitaxel"
       ],
       "criteria": [
@@ -352,7 +355,7 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -361,6 +364,15 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006108.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00006108"
 }

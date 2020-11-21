@@ -114,14 +114,16 @@
             "require"
       ],
       "condition": [
-            "diabetes",
+            "disease",
             "mellitus"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "exercise"
+            "Caloric Restriction (CR)",
+            "Exercise"
       ],
       "criteria": [
             "inclusion",
@@ -241,7 +243,7 @@
             "would",
             "unacceptable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -250,6 +252,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099151.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diabetes"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "disease"
+      ],
+      "id": "NCT00099151"
 }

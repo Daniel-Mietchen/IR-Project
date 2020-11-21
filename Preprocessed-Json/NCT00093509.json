@@ -225,18 +225,79 @@
             "within",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "doxorubicin hydrochloride",
+            "ifosfamide and mesna",
+            "hyperthermia treatment with an MRI Compatible Radiofrequency Extremity Hyperthermia Applicator",
+            "radiation therapy"
       ],
       "description": [
-            "external",
+            "dose",
+            "75",
+            "push",
+            "every",
+            "4",
+            "week",
+            "4",
+            "cycle",
+            "treatment",
+            "optional",
+            "use",
+            "subject",
+            "gm",
+            "ifosfamide",
+            "mix",
+            "1000",
+            "cc",
+            "infuse",
+            "continuously",
+            "24",
+            "hour",
+            "daily",
+            "6",
+            "day",
+            "144",
+            "hour",
+            "total",
+            "ifosfamide",
+            "dose",
+            "12",
+            "day",
+            "infusion",
+            "mesna",
+            "sodium",
+            "mix",
+            "ifosfamide",
+            "give",
+            "gm",
+            "24",
+            "hour",
+            "receive",
+            "hyperthermia",
+            "throughout",
+            "course",
+            "radiotherapy",
+            "deliver",
+            "weekly",
+            "total",
+            "5",
+            "treatment",
+            "treatment",
+            "last",
+            "hour",
+            "goal",
+            "deliver",
+            "cumulative",
+            "thermal",
+            "dose",
+            "cem",
             "beam",
             "megavoltage",
             "4",
@@ -271,13 +332,21 @@
             "treat"
       ],
       "arm_group_label": [
-            "magnetic",
+            "resonance",
+            "base",
+            "thermometry",
+            "resonance",
+            "base",
+            "thermometry",
+            "resonance",
+            "base",
+            "thermometry",
             "resonance",
             "base",
             "thermometry"
       ],
       "other_name": [
-            "mesna",
+            "ifex",
             "sodium"
       ],
       "criteria": [
@@ -375,12 +444,24 @@
             "hyperthermia",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093509.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00093509"
 }

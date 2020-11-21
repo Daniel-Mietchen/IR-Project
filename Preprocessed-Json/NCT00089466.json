@@ -314,13 +314,14 @@
             "receive"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AMD11070"
+      ],
       "description": [
             "take",
             "daily",
@@ -328,9 +329,7 @@
             "dependent",
             "arm"
       ],
-      "arm_group_label": [
-            "h"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -538,12 +537,19 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089466.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00089466"
 }

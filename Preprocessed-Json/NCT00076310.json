@@ -294,29 +294,58 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cisplatin"
+            "Docetaxel",
+            "OSI-774",
+            "Cisplatin"
       ],
       "description": [
-            "75",
+            "iv",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "mg",
+            "oral",
+            "administer",
+            "daily",
+            "may",
+            "dose",
+            "escalation",
+            "150",
+            "mg",
+            "pending",
+            "prior",
+            "dose",
+            "toleration",
+            "patient",
+            "continue",
+            "daily",
+            "study",
+            "endpoint",
+            "removal",
+            "study",
+            "reach",
             "iv",
             "every",
             "21",
             "day"
       ],
       "arm_group_label": [
-            "cisplatin",
+            "docetaxel",
+            "docetaxel",
             "docetaxel"
       ],
       "other_name": [
-            "cddp"
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -446,7 +475,6 @@
             "creatinine",
             "clearance",
             "60",
-            "2",
             "patient",
             "creatinine",
             "level",
@@ -755,12 +783,25 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076310.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "erlotinib",
+            "hydrochloride"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "squamous",
+            "cell",
+            "squamous",
+            "cell",
+            "hydrochloride"
+      ],
+      "id": "NCT00076310"
 }

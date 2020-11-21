@@ -220,30 +220,68 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iiic",
+            "colon",
+            "cancer",
+            "iiic",
+            "rectal",
+            "cancer",
+            "iva",
+            "colon",
+            "cancer",
+            "iva",
+            "rectal",
+            "cancer",
+            "ivb",
+            "colon",
+            "cancer",
+            "ivb",
+            "rectal",
+            "cancer",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "GTI-2040",
+            "oxaliplatin",
+            "capecitabine",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "capecitabine",
+            "oxaliplatin",
+            "capecitabine",
+            "oxaliplatin",
+            "capecitabine",
+            "oxaliplatin",
+            "capecitabine",
+            "oxaliplatin",
             "capecitabine",
             "oxaliplatin"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -477,12 +515,16 @@
             "interstitial",
             "process"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084643.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00084643"
 }

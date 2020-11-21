@@ -453,16 +453,15 @@
             "fludarabine"
       ],
       "condition": [
-            "systemic",
+            "nephritis",
             "lupus",
             "erythematosus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sq",
-            "fludarabine"
+            "SQ Fludarabine"
       ],
       "criteria": [
             "patient",
@@ -702,9 +701,19 @@
             "le",
             "liter"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001676.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lupus",
+            "nephritis"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic",
+            "nephritis",
+            "phosphate"
+      ],
+      "id": "NCT00001676"
 }

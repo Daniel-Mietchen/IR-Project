@@ -449,19 +449,19 @@
             "disease"
       ],
       "condition": [
-            "stiff",
             "person",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab",
-            "placebo"
+            "Rituximab",
+            "rituximab or placebo"
       ],
       "arm_group_label": [
-            "rituximab",
+            "placebo",
             "placebo"
       ],
       "description": [
@@ -476,9 +476,7 @@
             "2",
             "day"
       ],
-      "other_name": [
-            "rituxan"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -760,7 +758,7 @@
             "positive",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -769,6 +767,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091897.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sps"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00091897"
 }

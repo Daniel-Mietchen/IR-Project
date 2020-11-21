@@ -344,7 +344,9 @@
             "level"
       ],
       "condition": [
-            "hiv",
+            "seropositivity",
+            "kaposi",
+            "sarcoma",
             "infection"
       ],
       "criteria": [
@@ -415,12 +417,20 @@
             "comply",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006171.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "seropositivity"
+      ],
+      "id": "NCT00006171"
 }

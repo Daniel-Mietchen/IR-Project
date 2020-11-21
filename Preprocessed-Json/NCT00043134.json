@@ -219,10 +219,11 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "decitabine"
@@ -483,12 +484,23 @@
             "experimental",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043134.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "myelomonocytic",
+            "chronic",
+            "disease"
+      ],
+      "id": "NCT00043134"
 }

@@ -233,13 +233,14 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "indinavir sulfate",
             "ritonavir"
       ],
       "criteria": [
@@ -330,7 +331,7 @@
             "center",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -339,6 +340,13 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012519.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00012519"
 }

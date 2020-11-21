@@ -509,14 +509,13 @@
             "achieve"
       ],
       "condition": [
-            "kidney",
             "trasplant"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valganciclovir"
+            "Valganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -617,12 +616,19 @@
             "3",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034385.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "transplant"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00034385"
 }

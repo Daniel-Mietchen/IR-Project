@@ -142,27 +142,80 @@
             "month"
       ],
       "condition": [
-            "secondary",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "chronic",
+            "myelogenous",
+            "leukemia",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cytarabine",
+            "triapine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "cytarabine",
+            "triapine",
+            "cytarabine",
+            "triapine",
             "cytarabine",
             "triapine"
       ],
-      "other_name": [],
+      "other_name": [
+            "arabinoside"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -335,12 +388,27 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077181.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "myeloid",
+            "accelerate",
+            "phase"
+      ],
+      "id": "NCT00077181"
 }

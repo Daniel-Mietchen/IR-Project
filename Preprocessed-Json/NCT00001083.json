@@ -620,14 +620,23 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -870,7 +879,7 @@
             "protocol",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -879,6 +888,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001083"
 }

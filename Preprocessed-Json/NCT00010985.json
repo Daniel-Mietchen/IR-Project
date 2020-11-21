@@ -235,15 +235,18 @@
             "summary"
       ],
       "condition": [
-            "acute",
             "low",
             "back",
             "pain"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "Acupuncture",
+            "Chiropractic",
             "massage"
       ],
       "criteria": [
@@ -338,12 +341,21 @@
             "referral",
             "specialist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "massage",
+            "therapy"
+      ],
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain"
+      ],
+      "id": "NCT00010985"
 }

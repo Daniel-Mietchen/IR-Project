@@ -176,15 +176,37 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "ii",
+            "breast",
+            "cancer",
+            "iiia",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iiic",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "exemestane",
+            "adjuvant therapy",
+            "aromatase inhibition",
+            "conventional surgery",
+            "endocrine therapy",
+            "hormone therapy",
+            "neoadjuvant therapy",
             "surgery"
       ],
       "criteria": [
@@ -349,9 +371,12 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080613.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080613"
 }

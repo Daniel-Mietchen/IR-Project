@@ -110,20 +110,41 @@
             "expect",
             "accrue"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "total",
-            "body",
-            "irradiation",
-            "tbi"
+            "Cyclophosphamide",
+            "Allogeneic Bone Marrow Transplantation",
+            "Autologous Bone Marrow Transplantation",
+            "Total Body Irradiation (TBI)"
       ],
       "description": [
-            "follow",
+            "intravenous",
+            "infusion",
+            "cyclophosphamide",
+            "two",
+            "day",
+            "completion",
+            "tbi",
+            "allogeneic",
+            "autologous",
+            "bone",
+            "marrow",
+            "infuse",
+            "intravenously",
+            "completion",
+            "tbi",
+            "allogeneic",
+            "autologous",
+            "bone",
+            "marrow",
+            "infuse",
+            "intravenously",
             "2",
             "day",
             "cyclophosphamide",
@@ -136,12 +157,20 @@
             "transplant"
       ],
       "arm_group_label": [
-            "cyclophosphamide",
+            "tbi",
+            "bmt",
+            "tbi",
+            "bmt",
+            "tbi",
+            "bmt",
             "tbi",
             "bmt"
       ],
       "other_name": [
-            "radiation",
+            "cell",
+            "transplant",
+            "cell",
+            "transplant",
             "therapy"
       ],
       "criteria": [
@@ -250,7 +279,7 @@
             "blood",
             "cell"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -259,6 +288,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002844.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autologous"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00002844"
 }

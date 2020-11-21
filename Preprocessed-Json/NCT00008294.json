@@ -220,13 +220,23 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "FOLFOX regimen",
+            "dexamethasone",
+            "floxuridine",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "criteria": [
@@ -357,12 +367,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008294.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00008294"
 }

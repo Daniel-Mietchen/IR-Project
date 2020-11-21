@@ -285,24 +285,63 @@
             "close",
             "accrual"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "tositumomab",
-            "iodine",
-            "131",
-            "tositumomab"
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "tositumomab and iodine I 131 tositumomab"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "orally",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "chop",
+            "rituximab",
+            "chop",
+            "ii",
+            "chop",
+            "rituximab",
+            "iii",
+            "chop",
+            "tositumomab",
+            "chop",
+            "ii",
+            "chop",
+            "rituximab",
+            "iii",
+            "chop",
+            "tositumomab",
+            "chop",
+            "ii",
+            "chop",
+            "rituximab",
+            "iii",
+            "chop",
+            "tositumomab",
+            "chop",
+            "ii",
+            "chop",
+            "rituximab",
+            "iii",
+            "chop",
+            "tositumomab",
             "iii",
             "chop",
             "tositumomab"
@@ -476,12 +515,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "antibody",
+            "monoclonal"
+      ],
+      "id": "NCT00006721"
 }

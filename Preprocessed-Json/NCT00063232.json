@@ -290,14 +290,12 @@
             "liver",
             "biochemistry"
       ],
-      "condition": [
-            "hepatitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "metformin"
+            "Metformin"
       ],
       "description": [
             "complete",
@@ -796,12 +794,21 @@
             "greater",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063232.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nash"
+      ],
+      "mesh_term": [
+            "liver",
+            "fatty",
+            "liver",
+            "disease"
+      ],
+      "id": "NCT00063232"
 }

@@ -134,15 +134,18 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "immunotoxin",
-            "therapy"
+            "BL22 immunotoxin",
+            "antibody therapy",
+            "biological response modifier therapy",
+            "immunotoxin therapy"
       ],
       "criteria": [
             "disease",
@@ -323,12 +326,24 @@
             "therapy",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024115.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "factor"
+      ],
+      "id": "NCT00024115"
 }

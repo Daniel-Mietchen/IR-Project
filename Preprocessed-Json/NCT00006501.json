@@ -287,14 +287,18 @@
             "death"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "arrhythmia",
+            "fibrillation",
+            "sudden",
+            "cardiac",
             "arrest"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "ecg"
+            "ECG"
       ],
       "description": [
             "diagnostic",
@@ -308,12 +312,9 @@
             "heart"
       ],
       "arm_group_label": [
-            "ecg",
             "record"
       ],
-      "other_name": [
-            "electrocardiogram"
-      ],
+      "other_name": [],
       "study_pop": [],
       "sampling_method": [
             "sample"
@@ -340,12 +341,20 @@
             "death",
             "scd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006501.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "fibrillation",
+            "arrest",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00006501"
 }

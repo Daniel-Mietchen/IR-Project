@@ -331,17 +331,21 @@
             "record"
       ],
       "condition": [
-            "purpura",
+            "disease",
+            "aplastic",
             "thrombocytopenic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005302.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "thrombocytopenic",
+            "disease",
+            "aplastic"
+      ],
+      "id": "NCT00005302"
 }

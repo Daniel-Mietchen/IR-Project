@@ -50,7 +50,6 @@
             "patient",
             "metastatic",
             "melanoma",
-            "0401",
             "positive",
             "determine",
             "clinical",
@@ -63,7 +62,6 @@
             "patient",
             "metastatic",
             "melanoma",
-            "0401",
             "positive",
             "negative",
             "determine",
@@ -212,16 +210,19 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "incomplete",
-            "freund",
-            "adjuvant"
+            "MART-1 antigen",
+            "aldesleukin",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant"
       ],
       "criteria": [
             "disease",
@@ -233,7 +234,6 @@
             "fail",
             "standard",
             "treatment",
-            "0401",
             "positive",
             "know",
             "status",
@@ -362,12 +362,20 @@
             "surgery",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019994.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00019994"
 }

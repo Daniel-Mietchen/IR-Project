@@ -220,7 +220,6 @@
             "hct"
       ],
       "condition": [
-            "vascular",
             "disease"
       ],
       "criteria": [
@@ -237,9 +236,16 @@
             "genome",
             "scan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062777.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vascular",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00062777"
 }

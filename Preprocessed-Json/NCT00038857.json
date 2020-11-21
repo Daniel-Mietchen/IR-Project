@@ -398,17 +398,35 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rabbit",
-            "atg"
+            "Megadose of CD34 Selected Progenitor Cells",
+            "Melphalan",
+            "Thiotepa",
+            "Fludarabine",
+            "Rabbit ATG"
       ],
       "description": [
+            "peripheral",
+            "blood",
+            "progenitor",
+            "cell",
+            "pbpc",
+            "transplant",
+            "day",
+            "0",
+            "day",
+            "day",
+            "4",
+            "day",
+            "day",
             "rabbit",
             "atg",
             "day",
@@ -419,10 +437,16 @@
             "day"
       ],
       "arm_group_label": [
+            "pbpc",
+            "pbpc",
+            "pbpc",
+            "pbpc",
             "pbpc"
       ],
       "other_name": [
-            "thymoglobulin"
+            "phosphate",
+            "antithymocyte",
+            "globulin"
       ],
       "criteria": [
             "inclusion",
@@ -602,7 +626,6 @@
             "ast",
             "aminotransferase",
             "alt",
-            "2",
             "upper",
             "limit",
             "normal",
@@ -972,12 +995,19 @@
             "best",
             "donor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038857.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gvhd"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "serum"
+      ],
+      "id": "NCT00038857"
 }

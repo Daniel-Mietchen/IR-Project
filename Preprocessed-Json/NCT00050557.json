@@ -184,28 +184,30 @@
             "later"
       ],
       "condition": [
-            "mood",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "treatment",
-            "usual",
-            "tau"
+            "Multifamily Psychoeducation Group (MFPG)",
+            "Treatment as usual (TAU)"
       ],
       "description": [
-            "participant",
+            "include",
+            "8",
+            "weekly",
+            "group",
+            "therapy",
+            "session",
             "receive",
             "standard",
             "care",
             "mood",
             "disorder"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -236,7 +238,7 @@
             "1",
             "parent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -245,6 +247,9 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050557.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00050557"
 }

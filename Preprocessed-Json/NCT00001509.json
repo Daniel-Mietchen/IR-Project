@@ -149,15 +149,12 @@
             "pediatric",
             "malignancy"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "retinoic",
-            "acid"
+            "IFN-alpha with retinoic acid"
       ],
       "criteria": [
             "age",
@@ -393,9 +390,16 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001509.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "trk",
+            "expression"
+      ],
+      "mesh_term": [
+            "tumor"
+      ],
+      "id": "NCT00001509"
 }

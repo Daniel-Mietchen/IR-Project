@@ -249,26 +249,90 @@
             "year"
       ],
       "condition": [
-            "lymphoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "bleomycin sulfate",
+            "filgrastim",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "vincristine sulfate",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
+            "2",
+            "zinecard",
+            "1",
+            "without",
+            "zinecard",
             "2",
             "zinecard"
       ],
       "other_name": [
-            "nsc",
+            "125066",
+            "stimulate",
+            "factor",
+            "614629",
+            "169780",
+            "123127",
+            "141540",
             "67574"
       ],
       "criteria": [
@@ -359,12 +423,21 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002827.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00002827"
 }

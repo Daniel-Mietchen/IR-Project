@@ -92,27 +92,36 @@
             "thereafter"
       ],
       "condition": [
+            "type",
             "ovarian",
+            "granulosa",
+            "cell",
+            "tumor",
+            "gynandroblastoma",
+            "cell",
+            "tumor",
+            "sex",
+            "cord",
+            "tumor",
+            "annular",
+            "tubule",
             "steroid",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel"
+            "Paclitaxel"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "paclitaxel"
       ],
       "other_name": [
-            "taxol",
             "konzentrat"
       ],
       "criteria": [
@@ -296,11 +305,20 @@
             "radiation",
             "port"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006227.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cell",
+            "tumor",
+            "cell",
+            "tumor",
+            "cell",
+            "tumor",
+            "stromal",
+            "tumor",
+            "paclitaxel"
+      ],
+      "id": "NCT00006227"
 }

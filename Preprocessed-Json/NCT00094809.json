@@ -51,17 +51,52 @@
             "day"
       ],
       "condition": [
-            "rectal",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegfilgrastim"
+            "Placebo",
+            "Pegfilgrastim"
       ],
       "description": [
+            "randomize",
+            "placebo",
+            "receive",
+            "6",
+            "mg",
+            "subcutaneous",
+            "injection",
+            "per",
+            "cycle",
+            "least",
+            "24",
+            "hour",
+            "completion",
+            "chemotherapy",
+            "infusion",
             "subject",
+            "continue",
+            "receive",
+            "one",
+            "injection",
+            "per",
+            "cycle",
+            "completion",
+            "4",
+            "cycle",
+            "early",
+            "termination",
+            "study",
+            "treatment",
+            "period",
+            "whichever",
+            "occur",
+            "first",
             "randomize",
             "pegfilgrastim",
             "receive",
@@ -96,9 +131,7 @@
             "occur",
             "first"
       ],
-      "arm_group_label": [
-            "pegfilgrastim"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -509,12 +542,20 @@
             "protocol",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094809.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00094809"
 }

@@ -158,14 +158,16 @@
             "ovulation"
       ],
       "condition": [
-            "pregnancy"
+            "ovary",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clomiphene",
-            "citrate"
+            "metformin XR",
+            "clomiphene citrate"
       ],
       "criteria": [
             "inclusion",
@@ -205,9 +207,7 @@
             "uterine",
             "cavity"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -216,6 +216,11 @@
             "39",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00068861.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "ovary",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00068861"
 }

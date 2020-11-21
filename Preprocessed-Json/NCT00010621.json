@@ -116,16 +116,18 @@
             "database"
       ],
       "condition": [
-            "temporomandibular",
             "joint",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bodywork",
-            "therapy"
+            "Acupuncture",
+            "chiropractic therapy",
+            "bodywork therapy"
       ],
       "criteria": [
             "inclusion",
@@ -135,7 +137,7 @@
             "tmd",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -144,6 +146,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010621.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "joint",
+            "disorder",
+            "joint",
+            "dysfunction",
+            "syndrome"
+      ],
+      "id": "NCT00010621"
 }

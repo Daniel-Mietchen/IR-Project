@@ -29,17 +29,23 @@
             "bacteria"
       ],
       "condition": [
-            "bacteremia"
+            "infection",
+            "bacterial",
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dicloxacillin"
+            "Linezolid",
+            "Vancomycin",
+            "Oxacillin",
+            "Dicloxacillin"
       ],
-      "other_name": [
-            "zyvox"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -79,12 +85,18 @@
             "low",
             "count"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037050.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "infection",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00037050"
 }

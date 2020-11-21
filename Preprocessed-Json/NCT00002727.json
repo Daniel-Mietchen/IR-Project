@@ -184,19 +184,19 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "therapy",
+            "conventional",
+            "fractionation",
             "therapy",
             "hyperfractionation"
       ],
@@ -325,7 +325,7 @@
             "gross",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -334,6 +334,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00002727"
 }

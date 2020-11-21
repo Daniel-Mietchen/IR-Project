@@ -208,17 +208,40 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "arsenic trioxide",
+            "cytarabine",
             "idarubicin"
       ],
       "description": [
-            "iv",
+            "begin",
+            "12",
+            "hour",
+            "last",
+            "dose",
+            "chemotherapy",
+            "continue",
+            "blood",
+            "count",
+            "recover",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "1",
+            "hour",
+            "every",
+            "12",
+            "hour",
+            "day",
             "30",
             "minute",
             "day",
@@ -245,7 +268,6 @@
             "least",
             "1",
             "follow",
-            "characteristic",
             "auer",
             "rod",
             "peroxidase",
@@ -269,7 +291,6 @@
             "marker",
             "blast",
             "note",
-            "megakaryocytic",
             "leukemia",
             "diagnose",
             "detection",
@@ -325,18 +346,14 @@
             "bilirubin",
             "2",
             "time",
-            "normal",
             "sgot",
             "2",
             "time",
-            "normal",
             "alkaline",
             "phosphatase",
             "2",
             "time",
-            "normal",
             "note",
-            "unless",
             "abnormality",
             "directly",
             "attributable",
@@ -344,9 +361,7 @@
             "renal",
             "creatinine",
             "time",
-            "normal",
             "note",
-            "unless",
             "abnormality",
             "directly",
             "attributable",
@@ -383,7 +398,6 @@
             "cardiovascular",
             "disease",
             "note",
-            "unless",
             "abnormality",
             "directly",
             "attributable",
@@ -464,7 +478,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -473,6 +487,18 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093483.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "trioxide"
+      ],
+      "id": "NCT00093483"
 }

@@ -155,29 +155,34 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
+            "gefitinib",
             "gefitinib"
       ],
       "other_name": [
-            "pharmacological",
+            "1839",
             "study"
       ],
       "criteria": [
@@ -369,12 +374,13 @@
             "gefitinib",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040781.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00040781"
 }

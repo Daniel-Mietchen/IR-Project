@@ -160,15 +160,16 @@
             "time"
       ],
       "condition": [
-            "dementia",
+            "disease",
             "vascular"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "perphenazine",
-            "trilafon"
+            "Citalopram [Celexa]",
+            "Perphenazine [Trilafon]"
       ],
       "criteria": [
             "inclusion",
@@ -311,9 +312,17 @@
             "stand",
             "pressure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009204.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agitation"
+      ],
+      "mesh_term": [
+            "disease",
+            "agitation",
+            "vascular"
+      ],
+      "id": "NCT00009204"
 }

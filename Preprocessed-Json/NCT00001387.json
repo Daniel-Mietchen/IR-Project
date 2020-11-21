@@ -73,11 +73,9 @@
             "parameter",
             "determine"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
@@ -224,9 +222,15 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001387.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00001387"
 }

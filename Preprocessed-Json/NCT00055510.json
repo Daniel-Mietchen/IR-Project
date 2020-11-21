@@ -90,12 +90,16 @@
             "component"
       ],
       "condition": [
-            "atherosclerosis"
+            "occlusion",
+            "vascular",
+            "restenosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "BO-653"
+      ],
       "criteria": [
             "major",
             "inclusion",
@@ -363,12 +367,20 @@
             "unwilling",
             "stop"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055510.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antioxidant"
+      ],
+      "mesh_term": [
+            "restenosis",
+            "occlusion",
+            "vascular"
+      ],
+      "id": "NCT00055510"
 }

@@ -265,30 +265,86 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "lung",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer",
             "iiib",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "shark cartilage extract AE-941",
+            "placebo",
+            "cisplatin",
+            "vinorelbine tartrate",
+            "carboplatin",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "description": [
-            "undergo",
+            "orally",
+            "orally",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "radiotherapy"
       ],
       "arm_group_label": [
-            "arm",
+            "shark",
+            "cartilage",
+            "extract",
+            "ii",
+            "placebo",
+            "shark",
+            "cartilage",
+            "extract",
+            "ii",
+            "placebo",
+            "shark",
+            "cartilage",
+            "extract",
+            "ii",
+            "placebo",
+            "shark",
+            "cartilage",
+            "extract",
+            "ii",
+            "placebo",
+            "shark",
+            "cartilage",
+            "extract",
+            "ii",
+            "placebo",
+            "shark",
+            "cartilage",
+            "extract",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "therapy",
+            "ditartrate",
             "radiation"
       ],
       "criteria": [
@@ -481,12 +537,17 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005838.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00005838"
 }

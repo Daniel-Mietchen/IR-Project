@@ -222,17 +222,16 @@
             "condition"
       ],
       "condition": [
-            "allergic",
             "airway",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "classical",
-            "condition",
-            "corticosteroid"
+            "Corticosteroids",
+            "Classical conditioning to corticosteroid"
       ],
       "criteria": [
             "current",
@@ -252,7 +251,7 @@
             "taste",
             "licorice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -261,6 +260,6 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00032526.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "id": "NCT00032526"
 }

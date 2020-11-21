@@ -361,20 +361,52 @@
             "result"
       ],
       "condition": [
-            "pulmonary",
+            "fibrosis",
             "disease",
             "chronic",
             "obstructive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
-            "ciprofloxacin"
+            "Tobramycin solution for inhalation (TOBI)",
+            "Oral placebo",
+            "Oral ciprofloxacin"
       ],
       "description": [
-            "oral",
+            "solution",
+            "inhalation",
+            "300",
+            "mg",
+            "administer",
+            "twice",
+            "daily",
+            "28",
+            "day",
+            "administer",
+            "quarterly",
+            "respiratory",
+            "culture",
+            "find",
+            "positive",
+            "placebo",
+            "six",
+            "consecutive",
+            "quarterly",
+            "cycle",
+            "initial",
+            "14",
+            "day",
+            "treatment",
+            "period",
+            "participant",
+            "receive",
+            "placebo",
+            "twice",
+            "daily",
             "ciprofloxacin",
             "six",
             "consecutive",
@@ -393,14 +425,33 @@
             "daily"
       ],
       "arm_group_label": [
-            "culture",
+            "tobi",
+            "placebo",
+            "tobi",
+            "oral",
+            "ciprofloxacin",
+            "base",
+            "tobi",
+            "placebo",
+            "base",
+            "tobi",
+            "oral",
+            "cipro",
+            "tobi",
+            "placebo",
+            "base",
+            "tobi",
+            "placebo",
+            "tobi",
+            "oral",
+            "ciprofloxacin",
             "base",
             "tobi",
             "oral",
             "cipro"
       ],
       "other_name": [
-            "ciprofloxacin"
+            "ti"
       ],
       "criteria": [
             "inclusion",
@@ -669,7 +720,7 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -678,6 +729,21 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "obstructive",
+            "pulmonary",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "disease",
+            "disease",
+            "chronic",
+            "obstructive",
+            "solution"
+      ],
+      "id": "NCT00097773"
 }

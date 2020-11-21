@@ -65,23 +65,27 @@
       ],
       "condition": [
             "sleep",
+            "apnea",
             "hypopnea"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Armodafinil 150 mg/day",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "150",
+            "mg",
+            "daily",
+            "morning",
             "placebo",
             "tablet",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "diagnosis",
             "criterion",
@@ -425,7 +429,7 @@
             "stimulant",
             "modafinil"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -434,6 +438,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079677.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nuvigil"
+      ],
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "apnea",
+            "obstructive",
+            "excessive",
+            "somnolence"
+      ],
+      "id": "NCT00079677"
 }

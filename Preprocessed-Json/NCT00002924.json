@@ -91,16 +91,15 @@
             "withdrawal"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "mutation",
-            "analysis"
+            "mutation analysis"
       ],
       "arm_group_label": [
-            "source",
             "patient",
             "sample"
       ],
@@ -130,11 +129,17 @@
             "treatment",
             "protocol"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002924.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002924"
 }

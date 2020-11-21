@@ -65,25 +65,31 @@
             "6"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "supportive",
-            "care"
+            "ATG + CSA",
+            "Supportive care"
       ],
       "description": [
-            "patient",
+            "horse",
+            "antithymocyte",
+            "globulin",
+            "atg",
+            "cyclosporine",
+            "csa",
             "randomize",
             "arm",
             "treat",
             "outpatient"
       ],
       "arm_group_label": [
-            "arm",
+            "atg",
+            "csa",
             "b",
             "supportive",
             "care"
@@ -135,12 +141,21 @@
             "arrhythmia",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004208.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "serum"
+      ],
+      "id": "NCT00004208"
 }

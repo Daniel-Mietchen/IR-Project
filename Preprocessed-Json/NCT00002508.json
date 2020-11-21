@@ -133,20 +133,25 @@
             "study"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "carboplatin",
+            "etoposide",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -326,7 +331,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -335,6 +340,19 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002508.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00002508"
 }

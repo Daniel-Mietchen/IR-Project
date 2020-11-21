@@ -57,21 +57,32 @@
             "obr"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "tipranavir",
+            "ritonavir",
+            "saquinavir",
+            "amprenavir",
             "lopinavir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056641.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "inhibitor"
+      ],
+      "id": "NCT00056641"
 }

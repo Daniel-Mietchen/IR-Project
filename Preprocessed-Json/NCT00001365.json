@@ -118,11 +118,12 @@
             "test"
       ],
       "condition": [
+            "disease",
             "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "dextromethorphan"
@@ -183,9 +184,17 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parkinson",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00001365"
 }

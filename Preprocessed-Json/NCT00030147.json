@@ -353,17 +353,32 @@
             "depression"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "skin",
-            "patch",
-            "placebo",
-            "tablet"
+            "Raloxifene",
+            "Rimostil",
+            "Transdermal Estradiol",
+            "Placebo skin patch and placebo tablets"
       ],
       "description": [
-            "match",
+            "mg",
+            "day",
+            "orally",
+            "administer",
+            "mg",
+            "twice",
+            "day",
+            "administer",
+            "orally",
+            "microgram",
+            "per",
+            "day",
+            "transdermal",
+            "estradiol",
             "placebo",
             "skin",
             "patch",
@@ -376,11 +391,9 @@
             "rimostil"
       ],
       "arm_group_label": [
-            "placebo"
+            "estradiol"
       ],
-      "other_name": [
-            "alora"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -892,9 +905,7 @@
             "familial",
             "hyperlipoproteinemia"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -903,6 +914,22 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030147.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "perimenopausal",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "receptor",
+            "modulators",
+            "hydrochloride",
+            "estrogen",
+            "receptor",
+            "modulators",
+            "phosphate",
+            "17",
+            "valerate"
+      ],
+      "id": "NCT00030147"
 }

@@ -232,7 +232,16 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "condition",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -240,11 +249,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "morphine",
-            "sulfate"
+            "dextromethorphan hydrobromide",
+            "morphine sulfate"
       ],
       "criteria": [
             "disease",
@@ -440,7 +450,7 @@
             "mao",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -449,6 +459,20 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003687.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00003687"
 }

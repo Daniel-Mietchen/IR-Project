@@ -196,24 +196,31 @@
             "colposcopy"
       ],
       "condition": [
-            "cervical",
+            "cancer",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "2",
             "intraepithelial",
             "neoplasia",
             "grade",
             "3"
       ],
       "intervention_type": [
-            "drug"
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
+            "hydrocortisone/placebo",
             "celecoxib"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "placebo",
             "celecoxib"
       ],
       "other_name": [],
@@ -384,14 +391,23 @@
             "fluconazole",
             "lithium"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081263.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "situ",
+            "intraepithelial",
+            "neoplasia",
+            "cervical",
+            "dysplasia",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00081263"
 }

@@ -177,7 +177,8 @@
             "future"
       ],
       "condition": [
-            "seizure"
+            "absence",
+            "epilepsy"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -216,12 +217,19 @@
             "developmental",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041951.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "genetic",
+            "linkage"
+      ],
+      "mesh_term": [
+            "absence"
+      ],
+      "id": "NCT00041951"
 }

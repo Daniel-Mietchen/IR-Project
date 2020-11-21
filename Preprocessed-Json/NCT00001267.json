@@ -121,14 +121,18 @@
             "study"
       ],
       "condition": [
-            "acquire",
+            "complex",
             "immunodeficiency",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "zidovudine",
+            "2',3'-dideoxyinosine"
+      ],
       "criteria": [
             "patient",
             "aid",
@@ -488,9 +492,20 @@
             "immunomodulating",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001267.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "retrovirus"
+      ],
+      "mesh_term": [
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "complex"
+      ],
+      "id": "NCT00001267"
 }

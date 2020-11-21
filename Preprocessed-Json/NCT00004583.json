@@ -131,14 +131,19 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Lopinavir/Ritonavir",
+            "Nelfinavir mesylate",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -185,12 +190,19 @@
             "certain",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004583.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abt",
+            "378"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00004583"
 }

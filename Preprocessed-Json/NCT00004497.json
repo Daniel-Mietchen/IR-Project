@@ -77,13 +77,14 @@
             "record"
       ],
       "condition": [
-            "pulmonary",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "UT-15"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -383,7 +384,7 @@
             "contraindicate",
             "use"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -392,6 +393,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004497.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "primary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "id": "NCT00004497"
 }

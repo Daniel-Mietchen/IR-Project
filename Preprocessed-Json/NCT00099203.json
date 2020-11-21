@@ -64,22 +64,25 @@
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "ibandronate [Bondronat]",
+            "zoledronic acid"
       ],
       "description": [
+            "iv",
+            "day",
+            "every",
+            "week",
             "iv",
             "day",
             "1",
             "every",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -127,12 +130,19 @@
             "patient",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099203.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "metastasis",
+            "neoplasm",
+            "acid",
+            "acid"
+      ],
+      "id": "NCT00099203"
 }

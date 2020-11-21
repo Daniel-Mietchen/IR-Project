@@ -233,31 +233,71 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "rectum",
+            "adenocarcinoma",
+            "rectum",
+            "ring",
+            "adenocarcinoma",
+            "rectum",
+            "iia",
+            "rectal",
+            "cancer",
+            "iib",
+            "rectal",
+            "cancer",
+            "iic",
+            "rectal",
+            "cancer",
+            "iiia",
+            "rectal",
+            "cancer",
+            "iiib",
+            "rectal",
+            "cancer",
             "iiic",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "conventional",
-            "surgery"
+            "fluorouracil",
+            "oxaliplatin",
+            "radiation therapy",
+            "leucovorin calcium",
+            "therapeutic conventional surgery"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
+            "radiotherapy",
+            "iv",
             "surgery"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
             "chemotherapy",
             "radiotherapy",
             "surgery"
       ],
       "other_name": [
-            "lv"
+            "radiation"
       ],
       "criteria": [
             "inclusion",
@@ -507,12 +547,16 @@
             "protocol",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003799.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "mucinous"
+      ],
+      "id": "NCT00003799"
 }

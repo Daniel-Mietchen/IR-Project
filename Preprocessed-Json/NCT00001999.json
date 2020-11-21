@@ -70,14 +70,16 @@
             "viruria"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Globulin, Immune",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -173,12 +175,24 @@
             "ddi",
             "ddc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001999.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "triphosphate",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00001999"
 }

@@ -147,7 +147,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -155,13 +154,78 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "capecitabine",
+            "irinotecan hydrochloride",
             "oxaliplatin"
       ],
       "description": [
+            "receive",
+            "oral",
+            "capecitabine",
+            "twice",
+            "daily",
+            "day",
+            "weekly",
+            "4",
+            "week",
+            "treatment",
+            "repeat",
+            "every",
+            "6",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "cohort",
             "patient",
+            "receive",
+            "escalate",
+            "dose",
+            "irinotecan",
+            "capecitabine",
+            "maximum",
+            "tolerate",
+            "dose",
+            "mtd",
+            "receive",
+            "irinotecan",
+            "iv",
+            "30",
+            "minute",
+            "weekly",
+            "4",
+            "week",
+            "one",
+            "hour",
+            "oxaliplatin",
+            "treatment",
+            "repeat",
+            "every",
+            "6",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "cohort",
+            "patient",
+            "receive",
+            "escalate",
+            "dose",
+            "irinotecan",
+            "capecitabine",
+            "maximum",
+            "tolerate",
+            "dose",
+            "mtd",
             "receive",
             "oxaliplatin",
             "iv",
@@ -179,6 +243,7 @@
             "toxicity"
       ],
       "other_name": [
+            "hcl",
             "oxalatoplatinum"
       ],
       "criteria": [
@@ -305,12 +370,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006465.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006465"
 }

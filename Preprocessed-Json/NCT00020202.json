@@ -120,15 +120,37 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer",
+            "iv",
+            "cell",
+            "lung",
+            "cancer",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "FR901228"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -352,11 +374,21 @@
             "month",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00020202.xml"
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00020202"
 }

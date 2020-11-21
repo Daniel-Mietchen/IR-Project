@@ -79,17 +79,23 @@
             "individual"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "anastrazole"
+            "trastuzumab (Herceptin\u00ae)",
+            "anastrazole (Arimidex\u00ae)"
       ],
       "description": [
-            "1",
+            "iv",
+            "load",
+            "dose",
+            "follow",
+            "iv",
+            "weekly",
             "mg",
             "tablet",
             "take",
@@ -97,6 +103,7 @@
             "daily"
       ],
       "arm_group_label": [
+            "anastrozole",
             "anastrozole"
       ],
       "other_name": [],
@@ -139,14 +146,16 @@
             "cardiac",
             "failure"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022672.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "inhibitor"
+      ],
+      "id": "NCT00022672"
 }

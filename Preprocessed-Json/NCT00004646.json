@@ -76,12 +76,11 @@
             "taper"
       ],
       "condition": [
-            "duchenne",
             "muscular",
             "dystrophy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "prednisone"
@@ -104,9 +103,7 @@
             "prescription",
             "medication"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "5",
             "year"
@@ -115,6 +112,15 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "dystrophy",
+            "dystrophy",
+            "duchenne"
+      ],
+      "id": "NCT00004646"
 }

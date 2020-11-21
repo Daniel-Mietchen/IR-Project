@@ -175,16 +175,19 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "fludeoxyglucose",
-            "f",
-            "18"
+            "iodinated contrast dye",
+            "computed tomography",
+            "positron emission tomography",
+            "fludeoxyglucose F 18"
       ],
       "criteria": [
             "disease",
@@ -297,12 +300,17 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004152.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004152"
 }

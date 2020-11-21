@@ -175,25 +175,29 @@
       ],
       "condition": [
             "uterine",
+            "sarcoma",
             "carcinosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "glivec"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -674,11 +678,15 @@
             "require",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075400.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "mullerian",
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00075400"
 }

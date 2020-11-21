@@ -266,21 +266,19 @@
             "study",
             "entry"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "rituximab"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "rituximab",
+            "retreatment",
             "b",
             "rituximab",
             "schedule"
@@ -418,7 +416,6 @@
             "count",
             "least",
             "note",
-            "without",
             "growth",
             "factor",
             "transfusion",
@@ -513,12 +510,19 @@
             "concurrent",
             "radioimmunotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075946.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00075946"
 }

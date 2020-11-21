@@ -407,14 +407,15 @@
             "measurement"
       ],
       "condition": [
-            "vascular",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "progesterone"
+            "Estradiol",
+            "Progesterone"
       ],
       "criteria": [
             "ability",
@@ -513,11 +514,15 @@
             "nsaid",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005108.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ultrasound"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005108"
 }

@@ -52,12 +52,12 @@
             "evaluate"
       ],
       "condition": [
-            "carcinoma",
+            "neoplasm",
             "transitional",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "suramin"
@@ -157,9 +157,19 @@
             "pregnant",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001381.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intravesical",
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00001381"
 }

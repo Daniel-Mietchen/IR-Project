@@ -183,7 +183,6 @@
             "patient",
             "receive",
             "gemcitabine",
-            "hydrochloride",
             "iv",
             "30",
             "minute",
@@ -191,7 +190,6 @@
             "iv",
             "1",
             "hour",
-            "cisplatin",
             "iv",
             "2",
             "hour",
@@ -203,7 +201,6 @@
             "patient",
             "receive",
             "gemcitabine",
-            "hydrochloride",
             "iv",
             "30",
             "minute",
@@ -216,7 +213,6 @@
             "cohort",
             "patient",
             "receive",
-            "cisplatin",
             "iv",
             "2",
             "hour",
@@ -231,9 +227,6 @@
             "patient",
             "receive",
             "gemcitabine",
-            "hydrochloride",
-            "tanespimycin",
-            "cisplatin",
             "cohort",
             "b",
             "cohort",
@@ -255,7 +248,6 @@
             "3",
             "month",
             "note",
-            "gemcitabine",
             "hydrochloride",
             "cisplatin",
             "dosage",
@@ -265,7 +257,6 @@
             "b",
             "c",
             "note",
-            "gemcitabine",
             "hydrochloride",
             "dosage",
             "constant",
@@ -281,32 +272,50 @@
             "e"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gemcitabine hydrochloride",
+            "tanespimycin",
+            "cisplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "tanespimycin",
+            "gemcitabine",
+            "hydrochloride",
+            "cisplatin",
+            "tanespimycin",
+            "gemcitabine",
+            "hydrochloride",
+            "cisplatin",
+            "tanespimycin",
+            "gemcitabine",
+            "hydrochloride",
+            "cisplatin",
             "tanespimycin",
             "gemcitabine",
             "hydrochloride",
             "cisplatin"
       ],
       "other_name": [
-            "ddp"
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -711,12 +720,13 @@
             "cardiac",
             "symptom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047047.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00047047"
 }

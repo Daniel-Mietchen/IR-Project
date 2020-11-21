@@ -151,17 +151,15 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "131",
-            "monoclonal",
-            "antibody"
+            "monoclonal antibody muJ591",
+            "iodine I 131 monoclonal antibody muJ591"
       ],
       "criteria": [
             "disease",
@@ -450,14 +448,21 @@
             "bleed",
             "tendency"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006380.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00006380"
 }

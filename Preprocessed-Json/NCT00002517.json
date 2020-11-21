@@ -337,15 +337,29 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "etoposide",
+            "idarubicin",
+            "mitoxantrone hydrochloride",
+            "thioguanine",
+            "allogeneic bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -514,12 +528,26 @@
             "antileukemic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002517.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00002517"
 }

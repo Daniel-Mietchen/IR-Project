@@ -77,14 +77,15 @@
             "record"
       ],
       "condition": [
-            "common",
             "variable",
             "immunodeficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-interleukin-2"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -143,12 +144,22 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "deficiency",
+            "syndrome",
+            "variable",
+            "immunodeficiency"
+      ],
+      "id": "NCT00004695"
 }

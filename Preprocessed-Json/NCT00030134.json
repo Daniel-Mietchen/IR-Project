@@ -252,7 +252,6 @@
             "day"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "criteria": [
@@ -349,11 +348,16 @@
             "protocol",
             "exclude"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030134.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fabry",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00030134"
 }

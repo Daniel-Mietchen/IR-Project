@@ -149,17 +149,24 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "incomplete Freund's adjuvant",
+            "ovarian cancer peptide vaccine",
+            "sargramostim",
+            "tetanus toxoid helper peptide",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -470,14 +477,23 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091273.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00091273"
 }

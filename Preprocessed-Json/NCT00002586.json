@@ -131,23 +131,29 @@
             "year"
       ],
       "condition": [
-            "lung",
+            "toxicity",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Drug",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "tocopherol"
+            "13-cis retinoic acid",
+            "Tocopherol"
       ],
       "arm_group_label": [
+            "retinoic",
+            "acid",
+            "retinoic",
+            "acid",
+            "tocopherol",
             "retinoic",
             "acid",
             "tocopherol"
       ],
       "other_name": [
-            "vitamin",
+            "accutanet",
             "e"
       ],
       "criteria": [
@@ -393,7 +399,7 @@
             "pregnant",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -402,6 +408,17 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002586.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "side",
+            "effect",
+            "adverse",
+            "reaction",
+            "e"
+      ],
+      "id": "NCT00002586"
 }

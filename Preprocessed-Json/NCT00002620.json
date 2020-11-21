@@ -90,18 +90,24 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "carmustine",
+            "chemotherapy",
+            "mitolactol",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -175,12 +181,24 @@
             "occasionally",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002620.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "anaplastic",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002620"
 }

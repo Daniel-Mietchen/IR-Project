@@ -406,18 +406,39 @@
             "revascularization"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
+            "failure",
+            "congestive",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Device",
+            "Drug"
       ],
       "intervention_name": [
-            "optimal",
-            "medical",
-            "therapy"
+            "Coronary Artery Bypass",
+            "Modern medical management",
+            "Dobutamine echocardiography",
+            "Optimal medical therapy"
       ],
       "description": [
+            "revascularization",
+            "use",
+            "arterial",
+            "vein",
+            "conduit",
+            "recommendation",
+            "dose",
+            "administration",
+            "dobutamine",
+            "elicit",
+            "contractile",
+            "response",
+            "myocardium",
             "medical",
             "intervention",
             "know",
@@ -430,11 +451,14 @@
             "dysfunction"
       ],
       "arm_group_label": [
-            "medical",
+            "therapy",
+            "therapy",
             "therapy"
       ],
       "other_name": [
-            "modern",
+            "medical",
+            "therapy",
+            "echo",
             "medical",
             "therapy"
       ],
@@ -523,12 +547,20 @@
             "svr",
             "eligibility"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074724.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00074724"
 }

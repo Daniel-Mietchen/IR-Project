@@ -36,16 +36,23 @@
             "degeneration"
       ],
       "condition": [
-            "macular",
             "degeneration"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "photodynamic",
-            "therapy",
-            "pdt"
+            "Anecortave Acetate 15 mg sterile suspension",
+            "Photodynamic Therapy (PDT)"
       ],
       "arm_group_label": [
+            "sham",
+            "pdt",
+            "sham",
+            "anecortave",
+            "acetate",
+            "sham",
             "pdt",
             "sham",
             "anecortave",
@@ -81,12 +88,21 @@
             "disease",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041483.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "wet",
+            "form",
+            "macular",
+            "degeneration"
+      ],
+      "mesh_term": [
+            "degeneration"
+      ],
+      "id": "NCT00041483"
 }

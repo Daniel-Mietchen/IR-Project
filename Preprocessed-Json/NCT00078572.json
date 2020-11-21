@@ -38,24 +38,45 @@
             "therapy"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lapatinib"
+            "capecitabine",
+            "lapatinib (GW572016)"
       ],
       "description": [
-            "lapatinib",
+            "daily",
+            "dose",
+            "divide",
+            "give",
+            "twice",
+            "daily",
+            "orally",
+            "14",
+            "day",
+            "every",
+            "21",
+            "day",
+            "capecitabine",
+            "start",
+            "dose",
+            "monotherapy",
+            "arm",
+            "2500",
+            "combination",
+            "arm",
+            "2000",
             "1250",
             "mg",
             "orally",
             "daily"
       ],
       "arm_group_label": [
-            "combination"
+            "alone"
       ],
       "criteria": [
             "inclusion",
@@ -638,14 +659,18 @@
             "dpd",
             "deficiency"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078572.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herceptin"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078572"
 }

@@ -102,26 +102,24 @@
             "6"
       ],
       "condition": [
-            "myocardial",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Ranolazine",
+            "Placebo"
       ],
       "description": [
-            "iv",
+            "oral",
+            "transition",
             "oral",
             "transition"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "ranexa"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -215,12 +213,25 @@
             "initial",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099788.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "elevation",
+            "acute",
+            "coronary",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "coronary",
+            "syndrome",
+            "ischemia",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00099788"
 }

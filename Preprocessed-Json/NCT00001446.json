@@ -117,11 +117,10 @@
             "administration"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "thalidomide"
@@ -457,11 +456,15 @@
             "month",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001446.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sedation"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001446"
 }

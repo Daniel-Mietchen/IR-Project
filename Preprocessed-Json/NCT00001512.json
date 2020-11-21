@@ -364,12 +364,18 @@
             "dose"
       ],
       "condition": [
+            "cell",
+            "lymphoma",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Id-KLH Vaccine",
+            "GM-CSF"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -557,12 +563,19 @@
             "treat",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001512.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "follicular",
+            "idiotypes"
+      ],
+      "id": "NCT00001512"
 }

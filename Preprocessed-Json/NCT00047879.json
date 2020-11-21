@@ -396,17 +396,24 @@
             "disease",
             "response"
       ],
-      "condition": [
-            "glioma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "PEG-interferon alfa-2b",
+            "Thalidomide"
       ],
       "description": [
-            "two",
+            "ifn",
+            "weekly",
+            "plus",
+            "daily",
+            "oral",
+            "thalidomide",
+            "subcutaneous",
+            "injection",
             "tablet",
             "100",
             "mg",
@@ -420,13 +427,16 @@
             "one"
       ],
       "arm_group_label": [
-            "anaplastic",
+            "multiforme",
+            "stratum",
+            "glioma",
+            "stratum",
+            "multiforme",
+            "stratum",
             "glioma",
             "stratum"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -877,12 +887,16 @@
             "radiotherapy",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047879.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glioma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00047879"
 }

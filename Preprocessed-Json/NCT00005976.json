@@ -232,20 +232,23 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
             "pyrazoloacridine"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "ii",
             "iii"
       ],
       "criteria": [
@@ -443,12 +446,24 @@
             "concurrent",
             "anticonvulsant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005976.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "366140"
+      ],
+      "id": "NCT00005976"
 }

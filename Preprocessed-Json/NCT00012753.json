@@ -392,22 +392,14 @@
             "status",
             "complete"
       ],
-      "condition": [
-            "diabetes"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "automate",
-            "telephone",
-            "health",
-            "status",
-            "assessment",
-            "nurse"
+            "Automated telephone health status assessments with nurse follow-up."
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -434,7 +426,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -443,6 +435,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012753.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00012753"
 }

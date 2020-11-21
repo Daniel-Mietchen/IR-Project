@@ -39,14 +39,15 @@
             "express"
       ],
       "condition": [
-            "sezary",
+            "cutaneous",
+            "fungoides",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ontak"
+            "ONTAK"
       ],
       "criteria": [
             "inclusion",
@@ -140,12 +141,18 @@
             "previously",
             "enrol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051012.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fungoides",
+            "syndrome",
+            "cutaneous",
+            "diftitox"
+      ],
+      "id": "NCT00051012"
 }

@@ -44,26 +44,26 @@
             "coordinate",
             "ability"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "albuterol"
+            "Albuterol HFA-BOI",
+            "Albuterol HFA-MDI"
       ],
       "description": [
-            "albuterol",
+            "hfa",
+            "breath",
+            "operate",
+            "inhaler",
+            "90",
             "hfa",
             "inhaler"
       ],
-      "arm_group_label": [
-            "albuterol"
-      ],
-      "other_name": [
-            "proair"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -109,12 +109,13 @@
             "criterial",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054964.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00054964"
 }

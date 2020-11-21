@@ -199,14 +199,17 @@
             "need"
       ],
       "condition": [
-            "cholestasis"
+            "infantile",
+            "refsum",
+            "disease",
+            "syndrome",
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cholic",
-            "acid"
+            "Cholic Acids"
       ],
       "description": [
             "body",
@@ -214,11 +217,10 @@
             "orally"
       ],
       "arm_group_label": [
-            "cholic",
             "acid"
       ],
       "other_name": [
-            "cholic",
+            "acid",
             "acid",
             "capsule"
       ],
@@ -312,9 +314,19 @@
             "assessment",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007020.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "disease",
+            "infantile",
+            "syndrome",
+            "acid",
+            "acid",
+            "salt"
+      ],
+      "id": "NCT00007020"
 }

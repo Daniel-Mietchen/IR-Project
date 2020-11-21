@@ -401,21 +401,37 @@
             "diagnosis"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "cyclophosphamide",
+            "vincristine",
+            "autologous hematopoietic stem cell transplantation",
+            "radiation therapy"
       ],
       "description": [
-            "patient",
+            "subcutaneously",
+            "iv",
+            "iv",
+            "iv",
+            "undergo",
+            "autologous",
+            "stem",
+            "cell",
+            "transplantation",
             "undergo",
             "craniospinal",
             "radiotherapy",
@@ -427,12 +443,37 @@
             "week"
       ],
       "arm_group_label": [
-            "stratum",
+            "1",
+            "group",
+            "2",
+            "group",
+            "1",
+            "group",
+            "2",
+            "group",
+            "1",
+            "group",
+            "2",
+            "group",
+            "1",
+            "group",
+            "2",
+            "group",
+            "1",
+            "group",
+            "2",
+            "group",
+            "1",
+            "group",
             "2",
             "group"
       ],
       "other_name": [
-            "craniospinal",
+            "r",
+            "r",
+            "r",
+            "r",
+            "hsct",
             "radiotherapy"
       ],
       "criteria": [
@@ -641,7 +682,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -650,6 +691,22 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085202.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "pineoblastoma"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "tumor"
+      ],
+      "id": "NCT00085202"
 }

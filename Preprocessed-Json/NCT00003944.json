@@ -226,19 +226,27 @@
             "study"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "paclitaxel",
+            "topotecan hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -495,14 +503,23 @@
             "debulking",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003944.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003944"
 }

@@ -169,17 +169,20 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "etoposide",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -432,14 +435,22 @@
             "minute",
             "topotecan"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brenner",
+            "tumor"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003967"
 }

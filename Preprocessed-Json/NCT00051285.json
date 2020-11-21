@@ -85,27 +85,27 @@
             "study"
       ],
       "condition": [
-            "heart",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "enoximone",
-            "placebo"
+            "Enoximone",
+            "Enoximone placebo"
       ],
       "description": [
-            "participant",
+            "receive",
+            "oral",
+            "enoximone",
             "receive",
             "placebo",
             "match",
             "enoximone"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "order",
             "consider",
@@ -272,12 +272,18 @@
             "level",
             "recommend"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051285.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00051285"
 }

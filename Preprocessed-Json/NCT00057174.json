@@ -362,21 +362,17 @@
             "examine"
       ],
       "condition": [
-            "health",
+            "reflux",
+            "disease",
             "economics"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "disease",
-            "management",
-            "gastroesophageal",
-            "reflux",
-            "disease"
+            "Disease management of gastroesophageal reflux disease"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -491,12 +487,20 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057174.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "proton",
+            "pump",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "reflux"
+      ],
+      "id": "NCT00057174"
 }

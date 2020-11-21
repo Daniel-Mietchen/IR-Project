@@ -114,23 +114,32 @@
             "week"
       ],
       "condition": [
-            "stage",
+            "cutaneous",
+            "lymphoma",
+            "cutaneous",
+            "lymphoma",
             "ii",
             "cutaneous",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "O6-benzylguanine",
+            "carmustine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "topically",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "carmustine",
+            "carmustine",
             "carmustine"
       ],
       "other_name": [],
@@ -298,12 +307,16 @@
             "stage",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003613.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cutaneous",
+            "6"
+      ],
+      "id": "NCT00003613"
 }

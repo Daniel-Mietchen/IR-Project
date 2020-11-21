@@ -170,19 +170,46 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "vomit",
+            "condition",
+            "intestine",
+            "cancer",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "ondansetron",
             "placebo"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "ondansetron",
+            "placebo",
+            "2",
+            "ondansetron",
+            "placebo",
+            "1",
+            "ondansetron",
+            "placebo",
             "2",
             "ondansetron",
             "placebo"
@@ -301,9 +328,23 @@
             "antiemetic",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006348.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00006348"
 }

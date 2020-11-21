@@ -194,18 +194,31 @@
             "use"
       ],
       "condition": [
-            "metastasis",
+            "cell",
+            "carcinoma",
+            "neck",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "pet",
-            "scan"
+            "18F-fluoromisonidazole",
+            "PET scan"
       ],
       "description": [
-            "series",
+            "amount",
+            "radioactive",
+            "trace",
+            "drug",
+            "give",
+            "intravenous",
+            "injection",
+            "prior",
+            "pet",
+            "scan",
             "picture",
             "use",
             "20",
@@ -216,9 +229,7 @@
             "hour",
             "injection"
       ],
-      "arm_group_label": [
-            "pet"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -285,12 +296,26 @@
             "time",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038038.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "carcinoma",
+            "head",
+            "neck"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00038038"
 }

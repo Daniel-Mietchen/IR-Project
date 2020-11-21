@@ -400,22 +400,76 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "local",
-            "irradiation",
-            "therapy"
+            "imatinib mesylate",
+            "local irradiation therapy"
       ],
       "description": [
+            "1",
+            "stratum",
+            "start",
+            "dose",
+            "level",
+            "350",
+            "every",
+            "28",
+            "day",
+            "x",
+            "13",
+            "course",
+            "dose",
+            "escalation",
+            "stratum",
+            "iia",
+            "start",
+            "dose",
+            "level",
+            "465",
+            "every",
+            "28",
+            "day",
+            "x",
+            "13",
+            "course",
+            "dose",
+            "escalation",
+            "stratum",
+            "iib",
+            "start",
+            "dose",
+            "level",
+            "465",
+            "every",
+            "28",
+            "day",
+            "x",
+            "13",
+            "course",
+            "dose",
+            "escalation",
+            "ii",
             "phase",
+            "stratum",
+            "determine",
+            "dose",
+            "maximum",
+            "tolerate",
+            "dose",
+            "every",
+            "28",
+            "day",
+            "x",
+            "13",
+            "course",
             "stratum",
             "total",
             "dose",
@@ -432,8 +486,6 @@
             "week",
             "prior",
             "receive",
-            "imatinib",
-            "phase",
             "ii",
             "total",
             "dose",
@@ -453,7 +505,7 @@
             "imatinib"
       ],
       "arm_group_label": [
-            "imatinib",
+            "mesylate",
             "mesylate"
       ],
       "criteria": [
@@ -666,7 +718,7 @@
             "intratumoral",
             "hemorrhage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -675,6 +727,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021229.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00021229"
 }

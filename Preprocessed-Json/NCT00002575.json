@@ -124,17 +124,18 @@
             "arm"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "laparoscopic",
-            "surgery"
+            "conventional surgery",
+            "laparoscopic surgery"
       ],
       "arm_group_label": [
+            "surgery",
             "colectomy"
       ],
       "criteria": [
@@ -292,12 +293,20 @@
             "day",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002575.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "colon"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002575"
 }

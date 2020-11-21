@@ -275,7 +275,6 @@
             "gene"
       ],
       "condition": [
-            "hypertrophic",
             "cardiomyopathy"
       ],
       "criteria": [
@@ -288,9 +287,16 @@
             "cardiomyopathy",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001225.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hypertrophic",
+            "cardiomyopathy"
+      ],
+      "mesh_term": [
+            "hypertrophic"
+      ],
+      "id": "NCT00001225"
 }

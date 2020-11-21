@@ -120,19 +120,21 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "cyclosporine",
+            "CPT-11"
+      ],
       "arm_group_label": [
+            "cyclosporine",
             "cyclosporine"
       ],
-      "other_name": [
-            "irinotecan"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -331,12 +333,19 @@
             "experimental",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003950.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003950"
 }

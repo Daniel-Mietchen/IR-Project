@@ -66,18 +66,22 @@
             "conduct"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "exemestane"
+            "exemestane (Aromasin)",
+            "tamoxifen + exemestane"
       ],
       "description": [
-            "tamoxifen",
+            "orally",
+            "25",
+            "mg",
+            "5",
+            "year",
             "20",
             "mg",
             "orally",
@@ -94,12 +98,9 @@
             "therapy"
       ],
       "arm_group_label": [
-            "tamoxifen",
             "exemestane"
       ],
-      "other_name": [
-            "aromasin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -165,14 +166,15 @@
             "unknown",
             "status"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036270.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00036270"
 }

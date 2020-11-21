@@ -290,20 +290,16 @@
             "2006"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "trial",
-            "activity",
-            "adolescent",
-            "girl",
-            "taag"
+            "Trial of Activity for Adolescent Girls (TAAG)"
       ],
       "description": [
-            "intervention",
             "activity",
             "design",
             "create",
@@ -428,9 +424,7 @@
             "exercise",
             "test"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "12",
             "year"
@@ -439,6 +433,10 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006409.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00006409"
 }

@@ -173,18 +173,47 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Temozolomide",
+            "Radiation therapy"
       ],
       "description": [
-            "standard",
+            "tmz",
+            "give",
+            "dose",
+            "75",
+            "14",
+            "day",
+            "start",
+            "whole",
+            "brain",
+            "radiotherapy",
+            "wbrt",
+            "three",
+            "week",
+            "completion",
+            "wbrt",
+            "tmz",
+            "give",
+            "dose",
+            "200",
+            "x",
+            "5",
+            "day",
+            "150",
+            "prior",
+            "chemotherapy",
+            "every",
+            "additional",
+            "two",
+            "cycle",
             "whole",
             "brain",
             "radiation",
@@ -195,11 +224,10 @@
             "fraction"
       ],
       "arm_group_label": [
-            "temozolomide",
+            "radiation",
             "radiation"
       ],
       "other_name": [
-            "whole",
             "brain",
             "radiation",
             "therapy"
@@ -463,12 +491,22 @@
             "higher",
             "dose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080938.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "metastasis"
+      ],
+      "id": "NCT00080938"
 }

@@ -305,7 +305,8 @@
             "circuit"
       ],
       "condition": [
-            "fmri"
+            "disorder",
+            "e"
       ],
       "criteria": [
             "inclusion",
@@ -546,12 +547,15 @@
             "ecg",
             "normotensive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004571.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cognitition"
+      ],
+      "id": "NCT00004571"
 }

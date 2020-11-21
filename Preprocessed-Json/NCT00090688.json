@@ -111,7 +111,6 @@
             "iv",
             "b",
             "15",
-            "minimum",
             "13",
             "volunteer",
             "group",
@@ -168,14 +167,12 @@
             "vaccine",
             "dose"
       ],
-      "condition": [
-            "diarrhea"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "lt"
+            "meCS6 + LT(R192G)"
       ],
       "criteria": [
             "inclusion",
@@ -248,7 +245,7 @@
             "physical",
             "examination"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -257,6 +254,10 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090688.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diarrhea"
+      ],
+      "mesh_term": [],
+      "id": "NCT00090688"
 }

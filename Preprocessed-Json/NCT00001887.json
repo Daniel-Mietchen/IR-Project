@@ -160,9 +160,7 @@
             "allergic",
             "asthmatic"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "asthmatic",
             "must",
@@ -705,9 +703,14 @@
             "immunodeficiency",
             "virus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001887.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001887"
 }

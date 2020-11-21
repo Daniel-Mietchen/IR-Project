@@ -133,21 +133,41 @@
             "month"
       ],
       "condition": [
+            "cancer",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "condition",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "Fragmin",
             "placebo"
       ],
       "description": [
-            "placebo",
+            "5000",
+            "iu",
+            "inject",
+            "subcutaneously",
+            "daily",
             "inject",
             "subcutaneously",
             "daily"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -349,12 +369,28 @@
             "cell",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "cervical",
+            "neoplasm",
+            "disorder",
+            "condition"
+      ],
+      "id": "NCT00006083"
 }

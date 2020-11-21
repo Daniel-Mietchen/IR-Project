@@ -28,7 +28,6 @@
             "factor"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "criteria": [
@@ -43,14 +42,18 @@
             "healthy",
             "control"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041847.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "interaction"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00041847"
 }

@@ -282,31 +282,17 @@
             "2001"
       ],
       "condition": [
-            "behavior",
+            "disease",
+            "pain",
             "agitation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "acetaminophen",
-            "650",
-            "mg",
-            "qid",
-            "placebo",
-            "qid",
-            "prn",
-            "arm",
-            "placebo",
-            "qid",
-            "acetaminophen",
-            "650",
-            "mg",
-            "qid",
-            "prn"
+            "acetaminophen 650 mg qid and placebo qid PRN. The other arm was placebo qid and acetaminophen 650 mg qid PRN"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -359,12 +345,15 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012857.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00012857"
 }

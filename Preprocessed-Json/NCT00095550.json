@@ -36,18 +36,31 @@
             "tolerability",
             "drug"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hctz",
-            "monotherapy"
+            "Irbesartan/HCTZ",
+            "Irbesartan monotherapy",
+            "HCTZ monotherapy"
       ],
       "description": [
-            "tablet",
+            "oral",
+            "irbesartan",
+            "150",
+            "mg",
+            "daily",
+            "12",
+            "week",
+            "oral",
+            "150",
+            "mg",
+            "daily",
+            "12",
+            "week",
             "oral",
             "mg",
             "daily",
@@ -55,9 +68,7 @@
             "week"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "avapro"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -229,12 +240,17 @@
             "irbesartan",
             "diuretic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095550.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "moderate",
+            "hypertension"
+      ],
+      "mesh_term": [],
+      "id": "NCT00095550"
 }

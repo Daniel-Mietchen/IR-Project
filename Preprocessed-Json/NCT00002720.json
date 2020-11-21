@@ -155,15 +155,15 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "tamoxifen citrate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -226,9 +226,7 @@
             "therapy",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "65",
             "year"
@@ -237,6 +235,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002720.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002720"
 }

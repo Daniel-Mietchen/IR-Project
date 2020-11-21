@@ -27,22 +27,23 @@
             "approve",
             "vaccine"
       ],
-      "condition": [
-            "varicella"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "comparator",
-            "varivax",
-            "tm",
-            "varicella",
-            "virus",
-            "vaccine",
-            "live"
+            "Comparator: M-M-R(TM) II, measles, mumps, and rubella virus vaccine live",
+            "Comparator: VARIVAX(TM) Varicella Virus Vaccine Live (Oka-Merck)"
       ],
       "description": [
+            "ml",
+            "subcutaneous",
+            "injection",
+            "one",
+            "three",
+            "day",
+            "0",
             "ml",
             "subcutaneous",
             "injection",
@@ -50,7 +51,17 @@
             "0"
       ],
       "arm_group_label": [
-            "mumps",
+            "group",
+            "expiry",
+            "group",
+            "1",
+            "expiry",
+            "group",
+            "2",
+            "group",
+            "expiry",
+            "group",
+            "1",
             "expiry",
             "group",
             "2"
@@ -83,7 +94,7 @@
             "gelatin",
             "neomycin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "month"
@@ -92,6 +103,7 @@
             "18",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092391.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00092391"
 }

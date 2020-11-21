@@ -114,12 +114,15 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "porfimer sodium",
             "fluorophotometry"
       ],
       "criteria": [
@@ -206,12 +209,22 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002964.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "oropharyngeal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "ether"
+      ],
+      "id": "NCT00002964"
 }

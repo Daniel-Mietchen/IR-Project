@@ -160,28 +160,60 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "ii",
+            "breast",
+            "cancer",
+            "iiia",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iiic",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "celecoxib",
+            "therapeutic conventional surgery",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "surgery",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "celecoxib",
+            "ii",
+            "celecoxib",
+            "celecoxib",
+            "ii",
+            "celecoxib",
+            "iii",
+            "surgery",
+            "celecoxib",
+            "ii",
+            "celecoxib",
+            "iii",
+            "surgery",
+            "celecoxib",
+            "ii",
+            "celecoxib",
             "iii",
             "surgery"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -325,14 +357,15 @@
             "concurrent",
             "nsaid"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070057.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00070057"
 }

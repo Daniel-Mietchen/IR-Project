@@ -297,15 +297,34 @@
             "experimental"
       ],
       "condition": [
-            "glioblastoma",
             "multiforme"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Temozolomide",
+            "R115777"
+      ],
       "description": [
-            "start",
+            "dose",
+            "level",
+            "100",
+            "take",
+            "mouth",
+            "daily",
+            "7",
+            "day",
+            "follow",
+            "7",
+            "day",
+            "rest",
+            "another",
+            "dose",
+            "period",
+            "rest",
+            "period",
             "dose",
             "level",
             "400",
@@ -324,12 +343,8 @@
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "temozolomide"
-      ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -748,9 +763,13 @@
             "adequate",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050986.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zarnestra"
+      ],
+      "mesh_term": [],
+      "id": "NCT00050986"
 }

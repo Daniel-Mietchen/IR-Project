@@ -304,14 +304,16 @@
             "single",
             "dose"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin"
+            "5-Fluorouracil",
+            "Ethynyluracil",
+            "Leucovorin"
       ],
       "criteria": [
             "disease",
@@ -462,9 +464,13 @@
             "uremic",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001579.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001579"
 }

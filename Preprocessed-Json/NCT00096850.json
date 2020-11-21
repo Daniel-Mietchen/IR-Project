@@ -226,15 +226,49 @@
             "27"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ritonavir"
+            "Atazanavir",
+            "Rifampin",
+            "Ritonavir"
       ],
       "description": [
+            "day",
+            "9",
+            "19",
+            "participant",
+            "receive",
+            "300",
+            "mg",
+            "tablet",
+            "orally",
+            "daily",
+            "day",
+            "20",
+            "27",
+            "participant",
+            "receive",
+            "400",
+            "mg",
+            "tablet",
+            "orally",
+            "daily",
+            "day",
+            "1",
+            "27",
+            "participant",
+            "receive",
+            "600",
+            "mg",
+            "tablet",
+            "orally",
+            "daily",
             "day",
             "9",
             "19",
@@ -257,12 +291,8 @@
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "1"
-      ],
-      "other_name": [
-            "rtv"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "note",
             "enrollment",
@@ -406,7 +436,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -415,6 +445,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00096850.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "antitubercular",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate"
+      ],
+      "id": "NCT00096850"
 }

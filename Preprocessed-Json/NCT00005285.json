@@ -236,7 +236,8 @@
             "record"
       ],
       "condition": [
-            "chronic",
+            "disease",
+            "obstructive",
             "obstructive",
             "pulmonary",
             "disease"
@@ -245,14 +246,20 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005285.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00005285"
 }

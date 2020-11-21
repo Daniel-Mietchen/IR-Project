@@ -153,7 +153,12 @@
             "arm"
       ],
       "condition": [
-            "unspecified",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "condition",
             "adult",
             "solid",
             "tumor",
@@ -161,14 +166,16 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "epoetin",
-            "alfa"
+            "epoetin alfa"
       ],
       "arm_group_label": [
-            "epoetin",
+            "alfa",
+            "long",
+            "term",
+            "dose",
             "alfa",
             "short",
             "term",
@@ -188,7 +195,6 @@
             "secondary",
             "cancer",
             "cancer",
-            "treatment",
             "hemoglobin",
             "le",
             "12",
@@ -198,7 +204,6 @@
             "11",
             "female",
             "note",
-            "active",
             "anticancer",
             "therapy",
             "require",
@@ -375,12 +380,20 @@
             "cell",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058331.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "disorder",
+            "condition",
+            "alfa"
+      ],
+      "id": "NCT00058331"
 }

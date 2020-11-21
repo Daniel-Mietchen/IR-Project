@@ -79,14 +79,16 @@
             "occur"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "probenecid"
+            "Cidofovir",
+            "Probenecid"
       ],
       "criteria": [
             "inclusion",
@@ -238,12 +240,19 @@
             "study",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002142.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cidofovir"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00002142"
 }

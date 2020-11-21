@@ -288,17 +288,58 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
+            "conventional surgery",
+            "neoadjuvant chemotherapy",
+            "brachytherapy",
+            "radiation therapy",
             "cisplatin"
       ],
       "description": [
+            "hysterectomy",
+            "arm",
             "minimal",
+            "cumulative",
+            "cisplatin",
+            "dose",
+            "225",
+            "comparator",
+            "arm",
+            "cumulative",
+            "cisplatin",
+            "dose",
+            "end",
+            "external",
+            "radiation",
+            "minimal",
+            "total",
+            "dose",
+            "external",
+            "without",
+            "external",
+            "boost",
+            "brachytherapy",
+            "75",
+            "gy",
+            "point",
+            "overall",
+            "treatment",
+            "le",
+            "50",
+            "day",
+            "gy",
+            "fraction",
+            "2",
+            "gy",
             "cumulative",
             "225",
             "experimental",
@@ -307,7 +348,14 @@
             "comparator",
             "arm"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "follow",
+            "surgery",
+            "follow",
+            "surgery",
+            "follow",
+            "surgery"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -407,9 +455,7 @@
             "anticancer",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -418,6 +464,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039338.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00039338"
 }

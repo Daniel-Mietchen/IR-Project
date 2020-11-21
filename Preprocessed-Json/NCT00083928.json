@@ -32,16 +32,15 @@
             "level"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "subcutaneous",
-            "injection"
+            "\u00c56 subcutaneous injection"
       ],
       "criteria": [
             "inclusion",
@@ -191,14 +190,19 @@
             "disorder",
             "anticoagulation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083928.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00083928"
 }

@@ -195,13 +195,14 @@
             "study"
       ],
       "condition": [
-            "pulmonary",
             "complication"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amphotericin B deoxycholate",
             "voriconazole"
       ],
       "criteria": [
@@ -477,12 +478,26 @@
             "b",
             "flucytosine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "complication"
+      ],
+      "mesh_term": [
+            "b",
+            "amphotericin",
+            "b",
+            "b",
+            "deoxycholate",
+            "drug",
+            "combination",
+            "acid"
+      ],
+      "id": "NCT00003031"
 }

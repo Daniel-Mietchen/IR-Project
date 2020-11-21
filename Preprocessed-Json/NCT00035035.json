@@ -43,14 +43,16 @@
             "body"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "alimta"
+            "GEMZAR",
+            "ALIMTA"
       ],
       "criteria": [
             "inclusion",
@@ -117,12 +119,19 @@
             "ibuprofen",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035035.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alimta"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00035035"
 }

@@ -100,9 +100,7 @@
             "exposure",
             "control"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "criteria": [
             "must",
             "member",
@@ -113,7 +111,7 @@
             "asthma",
             "exacerbation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -122,6 +120,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "allergen"
+      ],
+      "mesh_term": [],
+      "id": "NCT00043992"
 }

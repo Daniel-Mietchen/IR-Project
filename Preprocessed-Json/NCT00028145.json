@@ -254,28 +254,24 @@
             "visit"
       ],
       "condition": [
-            "pregnancy",
+            "infection",
             "complication",
             "infectious"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "adherence",
-            "assessment"
+            "Adherence assessment"
       ],
       "description": [
-            "adherence",
             "ass",
             "use",
             "questionnaire",
             "study",
             "visit"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "study_pop": [],
       "sampling_method": [
             "probability",
@@ -355,14 +351,22 @@
             "day",
             "delivery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028145.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "complication",
+            "complication",
+            "infectious"
+      ],
+      "id": "NCT00028145"
 }

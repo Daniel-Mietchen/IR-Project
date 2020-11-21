@@ -360,7 +360,6 @@
             "effectively"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "criteria": [
@@ -425,11 +424,17 @@
             "3",
             "men"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071383.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00071383"
 }

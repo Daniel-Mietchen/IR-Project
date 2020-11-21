@@ -116,7 +116,7 @@
             "study"
       ],
       "condition": [
-            "transitional",
+            "cancer",
             "cell",
             "cancer",
             "renal",
@@ -124,10 +124,12 @@
             "ureter"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antineoplaston"
+            "antineoplaston A10",
+            "antineoplaston AS2-1"
       ],
       "criteria": [
             "disease",
@@ -311,12 +313,29 @@
             "prior",
             "antineoplastons"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003520.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "transitional",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00003520"
 }

@@ -56,18 +56,31 @@
             "anticipate"
       ],
       "condition": [
-            "sickle",
+            "cell",
+            "disease",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Low Dose ICA-17043",
+            "High dose ICA-17043",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "dose",
+            "arm",
+            "mg",
+            "load",
+            "dose",
+            "10",
+            "mg",
+            "daily",
+            "dose",
             "load",
             "dose",
             "capsule",
@@ -82,7 +95,12 @@
             "group"
       ],
       "arm_group_label": [
-            "placebo"
+            "low",
+            "dose",
+            "6",
+            "high",
+            "dose",
+            "10"
       ],
       "criteria": [
             "inclusion",
@@ -167,7 +185,7 @@
             "cell",
             "anemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -176,6 +194,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040677.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "senicapoc"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00040677"
 }

@@ -292,20 +292,59 @@
             "study"
       ],
       "condition": [
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "malignant",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "fractionate",
-            "total",
-            "body",
-            "irradiation",
-            "ftbi"
+            "busulfan",
+            "Cyclophosphamide",
+            "VP-16",
+            "Fractionated Total Body Irradiation (FTBI)"
       ],
       "description": [
-            "ftbi",
+            "day",
+            "day",
+            "total",
+            "dose",
+            "dose",
+            "60",
+            "two",
+            "successive",
+            "day",
+            "day",
+            "administer",
+            "single",
+            "infusion",
+            "day",
+            "dose",
+            "60",
+            "calculate",
+            "actual",
+            "body",
+            "weight",
+            "unless",
+            "patient",
+            "weight",
+            "150",
+            "ibw",
+            "case",
+            "adjust",
+            "body",
+            "weight",
+            "use",
             "perform",
             "day",
             "day",
@@ -316,7 +355,6 @@
       ],
       "arm_group_label": [],
       "other_name": [
-            "etoposide",
             "vepesid",
             "r",
             "brand"
@@ -535,7 +573,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -544,6 +582,20 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005797.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00005797"
 }

@@ -215,26 +215,50 @@
             "year"
       ],
       "condition": [
-            "tumor",
+            "nervous",
+            "system",
+            "metastasis",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "iv",
+            "breast",
+            "cancer",
             "metastatic",
             "brain"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "questionnaire",
-            "administration"
+            "lapatinib ditosylate",
+            "laboratory biomarker analysis",
+            "quality-of-life assessment",
+            "questionnaire administration"
       ],
       "description": [
-            "ancillary",
+            "orally",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "lapatinib",
+            "ditosylate",
+            "lapatinib",
+            "ditosylate",
+            "lapatinib",
+            "ditosylate",
             "lapatinib",
             "ditosylate"
       ],
       "other_name": [
-            "quality",
             "life",
             "assessment"
       ],
@@ -853,12 +877,18 @@
             "mother",
             "treat"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098605.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00098605"
 }

@@ -147,14 +147,21 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
+            "EF5",
+            "bioluminescence",
+            "flow cytometry",
+            "immunohistochemistry staining method",
             "biopsy"
       ],
       "arm_group_label": [],
@@ -252,12 +259,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049140.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "salivary",
+            "gland",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00049140"
 }

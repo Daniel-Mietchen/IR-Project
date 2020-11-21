@@ -245,15 +245,16 @@
             "year"
       ],
       "condition": [
-            "menopausal",
+            "cancer",
             "symptom"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "norethindrone",
-            "acetate"
+            "therapeutic estradiol",
+            "norethindrone acetate"
       ],
       "criteria": [
             "disease",
@@ -402,11 +403,21 @@
             "premenopausal",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003771.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer",
+            "situ"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acetate",
+            "17",
+            "valerate",
+            "phosphate"
+      ],
+      "id": "NCT00003771"
 }

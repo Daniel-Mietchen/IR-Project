@@ -315,17 +315,25 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "observation"
+            "recombinant interferon alfa",
+            "lymphangiography",
+            "Observation"
       ],
       "arm_group_label": [
-            "arm",
+            "aii",
+            "biii",
+            "b",
+            "ii",
+            "biii",
+            "aii",
             "bi"
       ],
       "criteria": [
@@ -630,7 +638,7 @@
             "organ",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -639,6 +647,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004196.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004196"
 }

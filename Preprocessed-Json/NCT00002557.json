@@ -114,13 +114,19 @@
             "accrual",
             "3"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "CHOP regimen",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "leucovorin calcium",
             "methotrexate"
       ],
       "criteria": [
@@ -184,9 +190,18 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002557.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cutaneous",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "fungoides",
+            "doxorubicin"
+      ],
+      "id": "NCT00002557"
 }

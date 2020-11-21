@@ -176,17 +176,13 @@
             "injection"
       ],
       "condition": [
-            "communicable",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vaccinia",
-            "immune",
-            "globulin",
-            "human"
+            "Vaccinia Immune Globulin (Human)"
       ],
       "criteria": [
             "inclusion",
@@ -256,9 +252,18 @@
             "counsel",
             "risk"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006630.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "orthopoxvirus"
+      ],
+      "mesh_term": [
+            "disease",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00006630"
 }

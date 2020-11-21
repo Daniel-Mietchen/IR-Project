@@ -36,18 +36,15 @@
             "individual"
       ],
       "condition": [
-            "cytomegalovirus",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valganciclovir",
-            "valcyte"
+            "valganciclovir [Valcyte]"
       ],
       "description": [
-            "po",
             "daily",
             "dose",
             "base",
@@ -57,7 +54,15 @@
             "crcl"
       ],
       "arm_group_label": [
-            "valganciclovir",
+            "age",
+            "group",
+            "2",
+            "year",
+            "age",
+            "group",
+            "2",
+            "12",
+            "year",
             "age",
             "group",
             "12",
@@ -135,7 +140,7 @@
             "lactate",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -144,6 +149,9 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090766.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00090766"
 }

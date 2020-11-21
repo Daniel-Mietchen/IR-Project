@@ -27,19 +27,16 @@
             "trial"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antidepressant",
-            "aripiprazole"
+            "Antidepressant + Aripiprazole"
       ],
       "description": [
-            "antidepressant",
             "aripiprazole",
             "tablet",
             "oral",
@@ -47,12 +44,9 @@
             "daily"
       ],
       "arm_group_label": [
-            "antidepressant",
             "aripiprazole"
       ],
-      "other_name": [
-            "abilify"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -78,12 +72,18 @@
             "four",
             "antidepressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095745.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "agent"
+      ],
+      "id": "NCT00095745"
 }

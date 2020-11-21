@@ -172,15 +172,14 @@
             "mineral",
             "density"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "physical",
-            "activity"
+            "Increased calcium intake",
+            "Weight-bearing physical activity"
       ],
       "criteria": [
             "inclusion",
@@ -208,9 +207,7 @@
             "include",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "9",
             "year"
@@ -219,6 +216,10 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063024.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "calcium"
+      ],
+      "mesh_term": [],
+      "id": "NCT00063024"
 }

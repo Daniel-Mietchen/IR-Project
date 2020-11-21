@@ -304,19 +304,54 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "ibritumomab",
-            "tiuxetan"
+            "darbepoetin alfa",
+            "filgrastim",
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "indium In 111 ibritumomab tiuxetan",
+            "yttrium Y 90 ibritumomab tiuxetan"
       ],
       "arm_group_label": [
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
             "ibritumomab",
             "tiuxetan",
             "zevalin"
@@ -426,7 +461,6 @@
             "age",
             "60",
             "note",
-            "patient",
             "60",
             "65",
             "year",
@@ -460,7 +494,6 @@
             "greater",
             "50",
             "note",
-            "patient",
             "meet",
             "either",
             "criterion",
@@ -624,7 +657,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
@@ -633,6 +666,20 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058422.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "monoclonal",
+            "alfa"
+      ],
+      "id": "NCT00058422"
 }

@@ -272,18 +272,14 @@
             "1",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib",
-            "rituximab"
+            "bortezomib + rituximab"
       ],
       "description": [
-            "arm",
             "patient",
             "receive",
             "bortezomib",
@@ -320,8 +316,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
-            "arm",
             "ii",
             "patient",
             "receive",
@@ -356,8 +350,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
-            "patient",
             "either",
             "arm",
             "may",
@@ -368,7 +360,6 @@
             "ineffective"
       ],
       "arm_group_label": [
-            "bortezomib",
             "rituximab"
       ],
       "criteria": [
@@ -413,7 +404,6 @@
             "duration",
             "prior",
             "rituximab",
-            "therapy",
             "note",
             "patient",
             "previously",
@@ -702,12 +692,19 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093769.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093769"
 }

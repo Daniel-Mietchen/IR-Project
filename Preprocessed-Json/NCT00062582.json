@@ -26,13 +26,15 @@
             "copd"
       ],
       "condition": [
-            "copd"
+            "obstructive",
+            "pulmonary",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "roflumilast"
+            "Roflumilast"
       ],
       "criteria": [
             "main",
@@ -69,12 +71,25 @@
             "oxygen",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062582.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "copd"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "symptom",
+            "respiratory"
+      ],
+      "id": "NCT00062582"
 }

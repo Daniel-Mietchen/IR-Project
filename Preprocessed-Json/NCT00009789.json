@@ -156,20 +156,15 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "accelerate",
-            "conformational",
-            "radiotherapy"
+            "accelerated conformational radiotherapy"
       ],
-      "arm_group_label": [
-            "radiotherapy"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -228,7 +223,6 @@
             "mediastinal",
             "lymphadenopathy",
             "must",
-            "mediastinoscopy",
             "anterior",
             "cervical",
             "mediastinal",
@@ -243,9 +237,7 @@
             "positive",
             "lymph",
             "nod",
-            "mediastinoscopy",
             "note",
-            "patient",
             "may",
             "tomography",
             "lieu",
@@ -343,12 +335,22 @@
             "chest",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009789.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00009789"
 }

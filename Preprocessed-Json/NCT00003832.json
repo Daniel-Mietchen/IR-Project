@@ -101,27 +101,36 @@
             "tumor"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "cancer",
+            "iia",
+            "prostate",
+            "cancer",
             "iib",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bromodeoxyuridine",
+            "conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "surgery",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bromodeoxyuridine",
+            "bromodeoxyuridine",
             "bromodeoxyuridine"
       ],
       "other_name": [
-            "surgery",
             "conventional"
       ],
       "criteria": [
@@ -171,11 +180,12 @@
             "rat",
             "volume"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003832.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003832"
 }

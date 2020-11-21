@@ -270,14 +270,14 @@
             "decide"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valganciclovir"
+            "Valganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -397,12 +397,19 @@
             "study",
             "doctor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "valganciclovir"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00017784"
 }

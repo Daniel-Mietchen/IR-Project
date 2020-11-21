@@ -308,17 +308,21 @@
             "bone"
       ],
       "condition": [
-            "osteogenesis",
             "imperfecta"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "grh"
+            "Humatrope",
+            "Growth hormone",
+            "Nutropin",
+            "GRH"
       ],
       "description": [
-            "patient",
             "receive",
             "subcutaneous",
             "injection"
@@ -538,7 +542,7 @@
             "become",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -547,6 +551,13 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001305.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteogenesis",
+            "imperfecta"
+      ],
+      "mesh_term": [
+            "imperfecta"
+      ],
+      "id": "NCT00001305"
 }

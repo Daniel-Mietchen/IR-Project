@@ -111,17 +111,26 @@
             "patient"
       ],
       "condition": [
-            "myocardial",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "KAI-9803 for Injection",
+            "KAI-9803 for Injection",
+            "KAI-9803 for Injection",
+            "KAI-9803 for Injection",
+            "Placebo"
       ],
       "description": [
-            "5",
+            "mg",
+            "mg",
+            "mg",
             "mg"
       ],
       "arm_group_label": [
@@ -334,12 +343,15 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093197.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00093197"
 }

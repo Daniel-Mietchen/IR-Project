@@ -1087,15 +1087,30 @@
             "0403"
       ],
       "condition": [
-            "graft",
+            "marrow",
+            "transplantation",
+            "disease",
+            "stem",
+            "cell",
+            "transplantation",
+            "myeloma",
+            "syndrome",
             "v",
             "host",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fluconazole",
+            "voriconazole",
+            "bone marrow transplant",
+            "thalidomide",
             "dexamethasone"
       ],
       "criteria": [
@@ -1105,12 +1120,20 @@
             "vary",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023530.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "syndrome",
+            "v",
+            "host",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00023530"
 }

@@ -404,15 +404,14 @@
             "system"
       ],
       "condition": [
-            "juvenile",
             "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab"
+            "Infliximab"
       ],
       "criteria": [
             "inclusion",
@@ -861,9 +860,17 @@
             "type",
             "diabetes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029042.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "joint",
+            "inflammation"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "juvenile"
+      ],
+      "id": "NCT00029042"
 }

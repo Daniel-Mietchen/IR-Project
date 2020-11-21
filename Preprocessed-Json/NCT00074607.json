@@ -345,18 +345,14 @@
             "drug",
             "stop"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine"
+            "Gemcitabine"
       ],
       "description": [
-            "schedule",
-            "induction",
             "dose",
             "level",
             "first",
@@ -406,8 +402,6 @@
             "patient",
             "may",
             "proceed",
-            "consolidation",
-            "consolidation",
             "intrathecal",
             "gemcitabine",
             "administer",
@@ -431,8 +425,6 @@
             "patient",
             "may",
             "proceed",
-            "maintenance",
-            "maintenance",
             "intrathecal",
             "gemcitabine",
             "give",
@@ -453,13 +445,10 @@
             "year"
       ],
       "arm_group_label": [
-            "intrathecal",
             "gemcitabine",
             "administration"
       ],
-      "other_name": [
-            "gemzar"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -849,12 +838,19 @@
             "craniospinal",
             "axis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074607.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplastic",
+            "meningitis"
+      ],
+      "mesh_term": [
+            "carcinomatosis"
+      ],
+      "id": "NCT00074607"
 }

@@ -174,13 +174,24 @@
             "study"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "loss of heterozygosity analysis",
+            "microarray analysis",
+            "microsatellite instability analysis",
+            "cytology specimen collection procedure",
+            "laboratory biomarker analysis",
+            "computed tomography",
             "cystoscopy"
       ],
       "criteria": [
@@ -390,12 +401,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095589.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00095589"
 }

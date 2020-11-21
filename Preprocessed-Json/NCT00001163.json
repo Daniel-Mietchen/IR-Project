@@ -478,7 +478,7 @@
             "factor"
       ],
       "condition": [
-            "environment"
+            "neoplasm"
       ],
       "criteria": [
             "inclusion",
@@ -632,7 +632,7 @@
             "cancer",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -641,6 +641,9 @@
             "110",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001163.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "environment"
+      ],
+      "id": "NCT00001163"
 }

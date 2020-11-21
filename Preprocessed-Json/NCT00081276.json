@@ -138,30 +138,45 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "triapine",
+            "cisplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "triapine",
+            "cisplatin",
+            "triapine",
+            "cisplatin",
             "triapine",
             "cisplatin"
       ],
-      "other_name": [
-            "ddp"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -395,14 +410,17 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081276.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm"
+      ],
+      "id": "NCT00081276"
 }

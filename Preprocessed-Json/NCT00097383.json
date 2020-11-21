@@ -46,16 +46,13 @@
             "drug"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alimta",
-            "plus",
-            "epirubicin"
+            "ALIMTA plus Epirubicin"
       ],
       "criteria": [
             "inclusion",
@@ -125,14 +122,15 @@
             "vitamin",
             "supplementation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097383.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00097383"
 }

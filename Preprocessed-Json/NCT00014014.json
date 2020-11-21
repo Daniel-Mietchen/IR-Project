@@ -320,13 +320,14 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Lamivudine/Zidovudine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -437,7 +438,7 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -446,6 +447,15 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014014.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "combivir"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00014014"
 }

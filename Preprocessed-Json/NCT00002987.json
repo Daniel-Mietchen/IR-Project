@@ -170,15 +170,24 @@
             "accrue",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "prednisolone",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -232,7 +241,7 @@
             "prior",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -241,6 +250,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002987.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00002987"
 }

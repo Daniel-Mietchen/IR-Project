@@ -942,14 +942,14 @@
             "scan"
       ],
       "condition": [
-            "iron",
+            "disease",
             "overload"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -958,6 +958,10 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005541.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "overload",
+            "disease"
+      ],
+      "id": "NCT00005541"
 }

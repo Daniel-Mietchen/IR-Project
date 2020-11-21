@@ -35,15 +35,18 @@
             "dysfunction"
       ],
       "condition": [
-            "neoplasm",
+            "adult",
+            "solid",
+            "tumor",
+            "dysfunction",
             "solid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan"
+            "Irinotecan"
       ],
       "criteria": [
             "specific",
@@ -265,12 +268,18 @@
             "active",
             "uncontrolled"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037804.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacia"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00037804"
 }

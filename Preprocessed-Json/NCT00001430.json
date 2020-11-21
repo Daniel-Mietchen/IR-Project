@@ -159,16 +159,21 @@
             "support"
       ],
       "condition": [
+            "hodgkin",
+            "disease",
             "non",
             "hodgkin",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epoch",
-            "ii"
+            "PBSC",
+            "IL-2",
+            "EPOCH II"
       ],
       "criteria": [
             "patient",
@@ -301,9 +306,15 @@
             "eligibility",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001430.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mdr"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001430"
 }

@@ -178,27 +178,31 @@
             "completion"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "gemcitabine hydrochloride",
+            "alvocidib",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "hydrochloride",
+            "1275",
             "study"
       ],
       "criteria": [
@@ -478,12 +482,13 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072436.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00072436"
 }

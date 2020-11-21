@@ -147,17 +147,22 @@
             "still",
             "ongoing"
       ],
-      "condition": [
-            "angioedema"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Icatibant",
+            "Placebo"
       ],
       "description": [
-            "solution",
+            "mg",
+            "subcutaneous",
+            "icatibant",
+            "injection",
+            "abdominal",
+            "region",
             "injection",
             "match",
             "study",
@@ -167,9 +172,14 @@
             "3",
             "ml"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "randomize",
+            "laryngeal",
+            "attack",
+            "patient",
+            "baseline"
+      ],
       "other_name": [
-            "brand",
             "name"
       ],
       "criteria": [
@@ -272,12 +282,18 @@
             "trial",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "subcutaneous"
+      ],
+      "mesh_term": [
+            "hereditary"
+      ],
+      "id": "NCT00097695"
 }

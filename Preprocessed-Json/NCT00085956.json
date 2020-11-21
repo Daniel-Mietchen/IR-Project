@@ -59,15 +59,16 @@
             "use"
       ],
       "condition": [
-            "postmenopausal",
             "bone",
             "loss"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Arzoxifene",
+            "Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -116,9 +117,7 @@
             "vaginal",
             "bleed"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -127,6 +126,9 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085956.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "postmenopausal"
+      ],
+      "id": "NCT00085956"
 }

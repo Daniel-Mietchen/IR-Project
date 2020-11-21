@@ -159,17 +159,52 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "trastuzumab",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "description": [
-            "85",
+            "iv",
+            "infusion",
+            "day",
+            "1",
+            "weekly",
+            "2",
+            "iv",
+            "infusion",
+            "day",
+            "8",
+            "15",
+            "22",
+            "iv",
+            "push",
+            "weekly",
+            "3",
+            "week",
+            "follow",
+            "1",
+            "wk",
+            "break",
+            "iv",
+            "infusion",
+            "2",
+            "hour",
+            "weekly",
+            "3",
+            "week",
+            "1",
+            "wk",
+            "break",
             "iv",
             "infusion",
             "2",
@@ -180,7 +215,9 @@
             "cycle"
       ],
       "arm_group_label": [
-            "combination",
+            "chemotx",
+            "chemotx",
+            "chemotx",
             "chemotx"
       ],
       "other_name": [],
@@ -373,12 +410,19 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006015.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006015"
 }

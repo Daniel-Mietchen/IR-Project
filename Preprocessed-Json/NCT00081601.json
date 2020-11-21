@@ -40,13 +40,14 @@
             "later"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CEP-701"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -139,14 +140,18 @@
             "one",
             "month"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081601.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psa"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00081601"
 }

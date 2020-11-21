@@ -207,21 +207,36 @@
             "year"
       ],
       "condition": [
-            "tongue",
+            "oral",
+            "cavity",
+            "cancer",
+            "cancer",
+            "0",
+            "lip",
+            "oral",
+            "cavity",
+            "cancer",
+            "0",
+            "oropharyngeal",
+            "cancer",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Ad5CMV-p53 gene",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "intramucosally",
+            "oral",
+            "rinse",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gene",
             "gene"
       ],
       "other_name": [],
@@ -462,12 +477,18 @@
             "greater",
             "175"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064103.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00064103"
 }

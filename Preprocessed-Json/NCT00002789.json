@@ -273,18 +273,22 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -460,7 +464,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -469,6 +473,20 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002789.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "positive",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002789"
 }

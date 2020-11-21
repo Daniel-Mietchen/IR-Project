@@ -67,18 +67,21 @@
             "0"
       ],
       "condition": [
-            "leukemia",
+            "fanconi",
+            "anemia",
+            "syndrome",
+            "nonlymphocytic",
+            "acute",
             "lymphocytic",
             "acute"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "cyclophosphamide",
+            "Allogeneic Bone Marrow Transplantation"
       ],
       "criteria": [
             "diagnosis",
@@ -142,12 +145,27 @@
             "bone",
             "marrow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "54",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "lymphoid",
+            "anemia",
+            "syndrome",
+            "cell",
+            "lymphoblastic",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00005892"
 }

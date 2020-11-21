@@ -237,27 +237,58 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "toxicity",
+            "toxicity",
+            "iib",
+            "cervical",
+            "cancer",
+            "iii",
+            "cervical",
+            "cancer",
             "iva",
             "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Radiation",
+            "Drug",
+            "Radiation",
+            "Biological"
       ],
       "intervention_name": [
-            "epoetin",
-            "alfa"
+            "External Beam Radiation Therapy",
+            "Cisplatin",
+            "Internal Radiation Therapy",
+            "Epoetin Alfa"
       ],
       "description": [
-            "give",
+            "radiation",
+            "iv",
+            "radiation",
             "sc"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
-      "other_name": [],
+      "other_name": [
+            "radiation",
+            "therapy",
+            "beam",
+            "rt",
+            "radiation",
+            "radiation",
+            "brachytherapy",
+            "brachytherapy"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -408,11 +439,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017004.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm",
+            "adenosquamous",
+            "side",
+            "effect",
+            "adverse",
+            "reaction",
+            "alfa"
+      ],
+      "id": "NCT00017004"
 }

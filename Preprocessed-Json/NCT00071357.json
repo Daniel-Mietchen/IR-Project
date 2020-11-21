@@ -382,7 +382,6 @@
             "therapy"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "criteria": [
@@ -481,11 +480,17 @@
             "4",
             "men"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071357.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00071357"
 }

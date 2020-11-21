@@ -163,11 +163,9 @@
             "within",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "dasatinib"
@@ -187,7 +185,6 @@
             "cml",
             "meet",
             "follow",
-            "criterion",
             "le",
             "15",
             "blast",
@@ -212,7 +209,6 @@
             "count",
             "least",
             "note",
-            "patient",
             "previously",
             "meet",
             "criterion",
@@ -345,9 +341,7 @@
             "time",
             "uln",
             "potassium",
-            "normal",
             "magnesium",
-            "normal",
             "serum",
             "calcium",
             "ionize",
@@ -357,7 +351,6 @@
             "limit",
             "normal",
             "note",
-            "patient",
             "low",
             "level",
             "may",
@@ -670,12 +663,28 @@
             "platelet",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064233.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "positive",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00064233"
 }

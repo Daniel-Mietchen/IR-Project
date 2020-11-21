@@ -150,15 +150,15 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "docetaxel",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -332,7 +332,7 @@
             "trial",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -341,6 +341,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075517.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00075517"
 }

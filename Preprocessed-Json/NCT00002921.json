@@ -124,19 +124,17 @@
             "year"
       ],
       "condition": [
-            "adrenocortical",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "hydrocortisone"
+            "suramin",
+            "therapeutic hydrocortisone"
       ],
-      "arm_group_label": [
-            "suramin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -291,12 +289,23 @@
             "prior",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002921.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adrenocortical",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "carcinoma",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002921"
 }

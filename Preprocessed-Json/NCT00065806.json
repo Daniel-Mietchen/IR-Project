@@ -228,19 +228,53 @@
             "tensor"
       ],
       "condition": [
-            "lupus",
             "erythematosus",
             "systemic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "atorvastatin"
+            "Atorvastatin",
+            "Placebo atorvastatin"
       ],
       "description": [
+            "weigh",
+            "50",
+            "kg",
+            "receive",
+            "10",
+            "mg",
+            "atorvastatin",
+            "po",
+            "qd",
+            "start",
+            "dose",
+            "increase",
+            "20",
+            "mg",
+            "po",
+            "qd",
+            "day",
+            "30",
+            "visit",
+            "continue",
+            "month",
+            "36",
             "participant",
+            "weigh",
+            "le",
+            "50",
+            "kg",
+            "receive",
+            "maximum",
+            "10",
+            "mg",
+            "po",
+            "qd",
+            "36",
+            "month",
             "weigh",
             "50",
             "kg",
@@ -277,11 +311,8 @@
             "36",
             "month"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "atorvastatin",
             "calcium"
       ],
       "criteria": [
@@ -399,7 +430,7 @@
             "study",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -408,6 +439,17 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065806.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hmg",
+            "coa",
+            "reductase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic",
+            "calcium"
+      ],
+      "id": "NCT00065806"
 }

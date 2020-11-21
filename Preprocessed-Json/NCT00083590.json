@@ -254,14 +254,13 @@
             "phase"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "huperzine"
+            "Huperzine A"
       ],
       "criteria": [
             "selection",
@@ -579,12 +578,19 @@
             "prior",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083590.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cholinesterase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00083590"
 }

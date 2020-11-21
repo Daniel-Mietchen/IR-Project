@@ -268,16 +268,13 @@
             "physician"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "intrauterine",
-            "device",
-            "iud"
+            "Levonorgestrel-releasing intrauterine device (IUD)"
       ],
       "criteria": [
             "inclusion",
@@ -519,14 +516,19 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096694.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "levonorgestrel"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00096694"
 }

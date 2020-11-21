@@ -104,14 +104,15 @@
             "collect"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "chemoembolization"
+            "thalidomide",
+            "chemoembolization with doxorubicin/collagen"
       ],
       "criteria": [
             "inclusion",
@@ -198,12 +199,15 @@
             "take",
             "thalidomide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006198.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006198"
 }

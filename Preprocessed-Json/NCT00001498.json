@@ -303,13 +303,25 @@
             "pbpcs"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "methotrexate",
+            "leucovorin",
+            "5-fluorouracil",
+            "cyclophosphamide",
+            "peripheral blood progenitor cell",
+            "paclitaxel",
             "doxorubicin"
       ],
       "criteria": [
@@ -533,9 +545,18 @@
             "influenza",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001498.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thiotepa"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel",
+            "agent"
+      ],
+      "id": "NCT00001498"
 }

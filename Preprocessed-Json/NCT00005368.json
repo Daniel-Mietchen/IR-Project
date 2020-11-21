@@ -167,7 +167,6 @@
             "future",
             "genetic",
             "study",
-            "establish",
             "hypothesis",
             "address",
             "determine",
@@ -266,7 +265,10 @@
             "hyperlipidemia"
       ],
       "condition": [
-            "hyperlipoproteinemia",
+            "disease",
+            "disease",
+            "familial",
+            "combine",
             "type",
             "iv"
       ],
@@ -274,14 +276,22 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005368.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "familial",
+            "combine",
+            "type",
+            "iv"
+      ],
+      "id": "NCT00005368"
 }

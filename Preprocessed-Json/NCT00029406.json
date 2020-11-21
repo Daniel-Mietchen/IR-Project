@@ -362,7 +362,11 @@
             "recipient"
       ],
       "condition": [
-            "hiv",
+            "donor",
+            "transfusion",
+            "infection",
+            "viral",
+            "human",
             "infection"
       ],
       "study_pop": [],
@@ -422,7 +426,7 @@
             "significant",
             "immunosuppression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -431,6 +435,13 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029406.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "viral",
+            "human"
+      ],
+      "id": "NCT00029406"
 }

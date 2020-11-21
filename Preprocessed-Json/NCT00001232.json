@@ -124,7 +124,8 @@
             "disorder"
       ],
       "condition": [
-            "mood",
+            "disorder",
+            "disorder",
             "disorder"
       ],
       "criteria": [
@@ -142,11 +143,19 @@
             "medical",
             "illness"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001232.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "menstrual",
+            "cycle"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001232"
 }

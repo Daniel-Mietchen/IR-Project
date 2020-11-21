@@ -123,14 +123,33 @@
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "antiestrogen",
-            "therapy"
+            "atamestane",
+            "toremifene",
+            "letrozole",
+            "aromatase inhibition",
+            "hormone therapy",
+            "endocrine therapy",
+            "antiestrogen therapy"
       ],
       "arm_group_label": [
-            "atamestane",
+            "toremifene",
+            "toremifene",
+            "placebo",
+            "toremifene",
+            "placebo",
+            "toremifene",
+            "placebo",
+            "toremifene",
+            "placebo",
             "toremifene"
       ],
       "criteria": [
@@ -383,14 +402,22 @@
             "enrollment",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "receptor",
+            "modulators"
+      ],
+      "id": "NCT00044291"
 }

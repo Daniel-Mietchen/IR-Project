@@ -210,26 +210,32 @@
             "thereafter"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "interferon-alfa-2b",
+            "cisplatin",
+            "5-fluorouracil",
+            "radiation therapy"
       ],
-      "description": [
-            "iv"
-      ],
+      "description": [],
       "arm_group_label": [
+            "chemoradiation",
+            "therapy",
+            "chemoradiation",
+            "therapy",
+            "chemoradiation",
+            "therapy",
             "chemoradiation",
             "therapy"
       ],
-      "other_name": [
-            "xrt"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -641,12 +647,19 @@
             "psychiatric",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059826.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00059826"
 }

@@ -286,18 +286,22 @@
             "2012"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Emtricitabine/ tenofovir disoproxil fumarate",
+            "Lopinavir/Ritonavir"
+      ],
       "description": [
-            "twice",
+            "daily",
             "daily"
       ],
       "arm_group_label": [
+            "arm",
             "arm"
       ],
       "criteria": [
@@ -762,12 +766,24 @@
             "whether",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090779.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00090779"
 }

@@ -31,18 +31,42 @@
             "study"
       ],
       "condition": [
-            "pulmonary",
+            "thrombosis",
             "embolism"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "apixaban",
-            "placebo"
+            "Apixaban",
+            "Enoxaparin",
+            "Warfarin",
+            "Enoxaparin Placebo",
+            "Apixaban Placebo"
       ],
       "description": [
-            "tablet",
+            "oral",
+            "12",
+            "2",
+            "day",
+            "sq",
+            "12",
+            "2",
+            "day",
+            "oral",
+            "qd",
+            "12",
+            "2",
+            "day",
+            "sq",
+            "bid",
+            "12",
+            "2",
+            "day",
             "oral",
             "bid",
             "12",
@@ -93,7 +117,7 @@
             "index",
             "bmi"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -102,6 +126,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097357.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "preventive",
+            "therapy"
+      ],
+      "mesh_term": [
+            "embolism",
+            "thrombosis"
+      ],
+      "id": "NCT00097357"
 }

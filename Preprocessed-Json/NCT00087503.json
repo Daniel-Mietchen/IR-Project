@@ -85,14 +85,13 @@
             "treatment"
       ],
       "condition": [
-            "stomach",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "edotecarin"
+            "Edotecarin"
       ],
       "criteria": [
             "inclusion",
@@ -470,12 +469,15 @@
             "contraceptive",
             "method"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087503.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087503"
 }

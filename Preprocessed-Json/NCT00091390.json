@@ -232,17 +232,61 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "HDR brachytherapy boost",
+            "radiation therapy"
       ],
       "description": [
+            "could",
+            "perform",
+            "external",
+            "beam",
+            "radiotherapy",
+            "overall",
+            "treatment",
+            "course",
+            "external",
+            "beam",
+            "radiotherapy",
+            "brachytherapy",
+            "limit",
+            "longer",
+            "8",
+            "week",
+            "19",
+            "gy",
+            "two",
+            "fraction",
+            "give",
+            "clinical",
+            "target",
+            "volume",
+            "ctv",
+            "first",
+            "hdr",
+            "treatment",
+            "deliver",
+            "day",
+            "catheter",
+            "placement",
+            "second",
+            "treatment",
+            "deliver",
+            "within",
+            "24",
+            "hour",
+            "first",
+            "treatment",
+            "le",
+            "6",
+            "hour",
+            "implant",
             "gy",
             "give",
             "five",
@@ -255,7 +299,9 @@
             "gy"
       ],
       "arm_group_label": [
-            "ebrt",
+            "hdr",
+            "brachytherapy",
+            "boost",
             "hdr",
             "brachytherapy",
             "boost"
@@ -400,9 +446,7 @@
             "resection",
             "prostate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -411,6 +455,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091390.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00091390"
 }

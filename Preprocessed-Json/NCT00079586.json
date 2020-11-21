@@ -38,27 +38,31 @@
             "reversal"
       ],
       "condition": [
-            "coronary",
+            "disease",
             "artery",
             "bypass",
             "surgery"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bivalirudin"
+            "Heparin",
+            "Bivalirudin"
       ],
       "description": [
+            "heparin",
+            "per",
+            "institutional",
+            "practice",
             "iv",
             "bolus",
             "follow",
             "iv",
             "infusion"
       ],
-      "arm_group_label": [
-            "angiomax"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -258,12 +262,16 @@
             "valve",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079586.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "heparin"
+      ],
+      "id": "NCT00079586"
 }

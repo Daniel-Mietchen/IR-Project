@@ -146,15 +146,12 @@
             "patient",
             "asthma"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tnfr",
-            "fc"
+            "TNFR:Fc"
       ],
       "criteria": [
             "inclusion",
@@ -562,7 +559,7 @@
             "history",
             "psoriasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -571,6 +568,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001893.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "asthma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001893"
 }

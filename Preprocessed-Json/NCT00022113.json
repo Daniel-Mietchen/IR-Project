@@ -118,29 +118,34 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cilengitide",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "cilengitide",
+            "cilengitide",
             "cilengitide"
       ],
       "other_name": [
-            "pharmacological",
+            "121974",
             "study"
       ],
       "criteria": [
@@ -359,12 +364,12 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022113.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00022113"
 }

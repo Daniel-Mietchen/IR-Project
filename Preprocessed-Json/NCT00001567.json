@@ -539,14 +539,15 @@
             "indefinitely"
       ],
       "condition": [
-            "hairy",
             "cell",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Roferon-A"
+      ],
       "criteria": [
             "age",
             "patient",
@@ -718,9 +719,17 @@
             "patient",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001567.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "therapy"
+      ],
+      "mesh_term": [
+            "hairy",
+            "cell"
+      ],
+      "id": "NCT00001567"
 }

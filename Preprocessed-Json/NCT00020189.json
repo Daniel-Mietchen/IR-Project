@@ -138,14 +138,18 @@
             "year"
       ],
       "condition": [
-            "thromboembolism"
+            "neck",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clopidogrel",
-            "bisulfate"
+            "acetylsalicylic acid",
+            "alvocidib",
+            "clopidogrel bisulfate"
       ],
       "criteria": [
             "disease",
@@ -434,12 +438,25 @@
             "maintenance",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020189.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00020189"
 }

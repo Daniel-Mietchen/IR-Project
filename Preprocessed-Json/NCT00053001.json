@@ -160,16 +160,18 @@
             "accrue",
             "study",
             "within",
-            "2",
-            "year"
+            "2"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "epoetin alfa",
             "thalidomide"
       ],
       "criteria": [
@@ -380,12 +382,23 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053001.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "alfa"
+      ],
+      "id": "NCT00053001"
 }

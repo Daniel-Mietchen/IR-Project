@@ -441,17 +441,18 @@
             "lesion"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
+            "sarcoma",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "bevacizumab"
+            "Bevacizumab"
       ],
       "description": [
-            "15",
             "day",
             "intravenously",
             "day",
@@ -464,15 +465,18 @@
       ],
       "arm_group_label": [
             "cohort",
+            "1",
+            "pt",
+            "kaposi",
+            "sarcoma",
+            "cohort",
             "2",
             "pt",
             "classic",
             "kaposi",
             "sarcoma"
       ],
-      "other_name": [
-            "avastin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -925,7 +929,6 @@
             "within",
             "past",
             "6",
-            "month",
             "coagulopathy",
             "patient",
             "unstable",
@@ -1002,12 +1005,19 @@
             "research",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055237.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "k"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00055237"
 }

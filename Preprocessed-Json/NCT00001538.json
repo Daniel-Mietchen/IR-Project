@@ -186,14 +186,15 @@
             "immunization"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "apl"
+            "APL 400-003"
       ],
       "criteria": [
             "18",
@@ -533,9 +534,20 @@
             "ena",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001538.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "gp",
+            "160"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001538"
 }

@@ -114,26 +114,39 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
+            "gliosarcoma",
             "adult",
             "brain",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "temsirolimus",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "pharmacological",
+            "cycle",
+            "inhibitor",
+            "779",
             "study"
       ],
       "criteria": [
@@ -337,12 +350,13 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016328.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00016328"
 }

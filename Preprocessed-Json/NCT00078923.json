@@ -213,18 +213,29 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "soy isoflavones",
+            "neoadjuvant therapy",
+            "Placebo"
       ],
       "arm_group_label": [
-            "soy"
+            "isoflavones",
+            "placebo",
+            "isoflavones",
+            "isoflavones",
+            "placebo",
+            "isoflavones",
+            "placebo"
       ],
       "description": [
-            "arm",
+            "brachytherapy",
             "4",
             "placebo",
             "capsule",
@@ -383,14 +394,19 @@
             "antineoplastic",
             "agent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078923.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078923"
 }

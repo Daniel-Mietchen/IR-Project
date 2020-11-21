@@ -104,21 +104,19 @@
             "principle",
             "cbt"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "naltrexone (Revia)",
+            "sertraline (Zoloft)",
+            "Placebo"
       ],
-      "description": [
-            "placebo"
-      ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "description": [],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -433,7 +431,7 @@
             "print",
             "english"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -442,6 +440,9 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004554.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00004554"
 }

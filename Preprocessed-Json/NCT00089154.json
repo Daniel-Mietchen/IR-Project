@@ -184,26 +184,49 @@
       ],
       "condition": [
             "stage",
+            "ii",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "iii",
+            "small",
+            "lymphocytic",
+            "lymphoma",
             "iv",
             "small",
             "lymphocytic",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "apolizumab",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "apolizumab",
+            "apolizumab",
             "apolizumab"
       ],
       "other_name": [
-            "pharmacological",
+            "antibody",
+            "antibody",
+            "antibody",
             "study"
       ],
       "criteria": [
@@ -425,12 +448,18 @@
             "sll",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089154.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "monoclonal"
+      ],
+      "id": "NCT00089154"
 }

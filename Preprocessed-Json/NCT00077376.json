@@ -155,7 +155,6 @@
             "trastuzumab",
             "iv",
             "30",
-            "minute",
             "day",
             "1",
             "8",
@@ -184,7 +183,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "trastuzumab",
             "give",
             "90",
             "minute",
@@ -238,29 +236,51 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "trastuzumab",
+            "ixabepilone",
+            "carboplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
+            "ixabepilone",
+            "carboplatin",
+            "trastuzumab",
+            "ixabepilone",
+            "carboplatin",
+            "trastuzumab",
+            "ixabepilone",
+            "carboplatin",
             "trastuzumab",
             "ixabepilone",
             "carboplatin"
       ],
       "other_name": [
-            "paraplatin"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -618,12 +638,18 @@
             "chest",
             "wall"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077376.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "b"
+      ],
+      "id": "NCT00077376"
 }

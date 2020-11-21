@@ -303,16 +303,26 @@
             "month"
       ],
       "condition": [
-            "head",
+            "unknown",
+            "primary",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "amifostine trihydrate",
+            "cisplatin",
+            "fluorouracil",
+            "paclitaxel",
+            "quality-of-life assessment",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -469,7 +479,7 @@
             "chemotherapy",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -478,6 +488,24 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003582.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "unknown",
+            "primary",
+            "paclitaxel"
+      ],
+      "id": "NCT00003582"
 }

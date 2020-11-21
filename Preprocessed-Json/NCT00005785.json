@@ -537,19 +537,14 @@
             "cell"
       ],
       "condition": [
-            "hiv",
+            "neoplasm",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gcsf",
-            "mobilize",
-            "allogeneic",
-            "pbsc",
-            "culture",
-            "transduce"
+            "GCSF Mobilized Allogeneic PBSC Cultured w/Cytokines; Transduced w/RV"
       ],
       "criteria": [
             "patient",
@@ -790,9 +785,18 @@
             "angina",
             "thrombocytopenia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005785.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "infection",
+            "neoplasm"
+      ],
+      "id": "NCT00005785"
 }

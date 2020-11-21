@@ -240,7 +240,6 @@
             "2003"
       ],
       "condition": [
-            "mood",
             "disorder"
       ],
       "criteria": [
@@ -312,9 +311,15 @@
             "time",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001654.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "psychophysiology"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001654"
 }

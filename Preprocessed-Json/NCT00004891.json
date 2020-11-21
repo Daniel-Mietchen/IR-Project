@@ -198,18 +198,50 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "chemotherapy",
+            "computed tomography",
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "positron emission tomography",
+            "radionuclide imaging",
+            "fludeoxyglucose F 18",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "primary",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
+            "resectable",
+            "rectal",
+            "cancer",
             "resectable",
             "rectal",
             "cancer"
@@ -298,7 +330,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -307,6 +339,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00004891"
 }

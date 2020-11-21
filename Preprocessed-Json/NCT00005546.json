@@ -230,7 +230,16 @@
             "record"
       ],
       "condition": [
-            "endocardial",
+            "disease",
+            "disease",
+            "congenital",
+            "heart",
+            "septal",
+            "defect",
+            "ventricular",
+            "septal",
+            "defect",
+            "atrial",
             "cushion",
             "defect"
       ],
@@ -238,12 +247,29 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005546.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "septal",
+            "defect",
+            "abnormality",
+            "septal",
+            "defect",
+            "atrial",
+            "septal",
+            "defect",
+            "ventricular",
+            "defect",
+            "congenital",
+            "cushion",
+            "defect"
+      ],
+      "id": "NCT00005546"
 }

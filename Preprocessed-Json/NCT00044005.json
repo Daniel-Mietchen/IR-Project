@@ -15,24 +15,36 @@
             "patient",
             "schizophrenia"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lurasidone"
+            "Lurasidone 20 mg",
+            "Lurasidone 40 mg",
+            "Lurasidone 80mg"
       ],
       "description": [
-            "lurasidone",
+            "oral",
+            "tablet",
+            "take",
+            "daily",
+            "oral",
+            "tablet",
+            "take",
+            "daily",
             "oral",
             "tablet",
             "take",
             "daily"
       ],
       "arm_group_label": [
-            "lurasidone"
+            "20",
+            "mg",
+            "40",
+            "mg"
       ],
       "criteria": [
             "inclusion",
@@ -50,7 +62,7 @@
             "baseline",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -59,6 +71,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lurasidone"
+      ],
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00044005"
 }

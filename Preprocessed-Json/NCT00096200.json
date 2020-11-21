@@ -185,28 +185,42 @@
             "toxicity"
       ],
       "condition": [
-            "recurrent",
+            "fallopian",
+            "tube",
+            "carcinoma",
+            "ovarian",
+            "carcinoma",
             "primary",
             "peritoneal",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sorafenib",
-            "tosylate"
+            "Carboplatin",
+            "Paclitaxel",
+            "Sorafenib Tosylate"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "close",
+            "accrual",
             "ii"
       ],
       "other_name": [
-            "sorafenib"
+            "hexal",
+            "aq",
+            "konzentrat",
+            "tosylate"
       ],
       "criteria": [
             "inclusion",
@@ -467,14 +481,18 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096200.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00096200"
 }

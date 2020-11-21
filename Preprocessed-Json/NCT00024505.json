@@ -247,7 +247,7 @@
             "diagnosis"
       ],
       "condition": [
-            "arrhythmogenic",
+            "disease",
             "right",
             "ventricular",
             "dysplasia"
@@ -334,7 +334,7 @@
             "enrol",
             "center"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -343,6 +343,12 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00024505.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "right",
+            "ventricular",
+            "dysplasia"
+      ],
+      "id": "NCT00024505"
 }

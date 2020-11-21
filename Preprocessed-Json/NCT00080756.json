@@ -152,21 +152,97 @@
             "year"
       ],
       "condition": [
-            "breast",
+            "mutation",
+            "carrier",
+            "mutation",
+            "carrier",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Other",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "therapeutic estradiol",
+            "deslorelin",
+            "therapeutic testosterone",
+            "therapeutic conventional surgery",
+            "active surveillance",
+            "quality-of-life assessment",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "per",
+            "day",
+            "nasal",
+            "spray",
+            "per",
+            "day",
+            "nasal",
+            "spray",
+            "per",
+            "day",
+            "nasal",
+            "spray",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "continue",
+            "surveillance",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "2",
+            "continue",
+            "survaillance",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "2",
+            "continue",
+            "survaillance",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "2",
+            "continue",
+            "survaillance",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "2",
+            "continue",
+            "survaillance",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
+            "2",
+            "continue",
+            "survaillance",
+            "1",
+            "plan",
+            "risk",
+            "reduction",
+            "mastectomy",
             "2",
             "continue",
             "survaillance"
@@ -310,9 +386,7 @@
             "density",
             "mammogram"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
@@ -321,6 +395,20 @@
             "48",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080756.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mutation",
+            "carrier"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "enanthate",
+            "undecanoate",
+            "17",
+            "phosphate",
+            "pamoate",
+            "17",
+            "valerate"
+      ],
+      "id": "NCT00080756"
 }

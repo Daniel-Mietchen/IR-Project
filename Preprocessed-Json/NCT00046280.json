@@ -61,7 +61,6 @@
             "examination"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -128,14 +127,17 @@
             "hiv",
             "infection"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046280.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00046280"
 }

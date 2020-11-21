@@ -251,22 +251,29 @@
             "physical",
             "therapy"
       ],
-      "condition": [
-            "fibromyalgia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "stress",
-            "management",
-            "education",
-            "plus",
-            "physical",
-            "therapy"
+            "Behavioral coping skills training plus physical therapy",
+            "Stress management education plus physical therapy"
       ],
       "description": [
-            "10",
+            "hour",
+            "cop",
+            "session",
+            "6",
+            "hour",
+            "activate",
+            "physical",
+            "therapy",
+            "4",
+            "hour",
+            "physical",
+            "therapy",
+            "education",
             "hour",
             "stress",
             "management",
@@ -282,9 +289,7 @@
             "therapy",
             "education"
       ],
-      "arm_group_label": [
-            "cse"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -388,7 +393,7 @@
             "stomach",
             "ulcer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -397,6 +402,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088777.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pain",
+            "syndrome"
+      ],
+      "id": "NCT00088777"
 }

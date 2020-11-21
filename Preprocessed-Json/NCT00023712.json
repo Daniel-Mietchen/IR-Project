@@ -99,26 +99,35 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "cavity",
+            "cancer",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "bortezomib",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "bortezomib",
             "bortezomib"
       ],
       "other_name": [
-            "pharmacological",
+            "341",
             "study"
       ],
       "criteria": [
@@ -394,11 +403,14 @@
             "protective",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023712.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm"
+      ],
+      "id": "NCT00023712"
 }

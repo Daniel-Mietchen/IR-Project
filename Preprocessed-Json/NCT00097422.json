@@ -32,13 +32,13 @@
             "parameter",
             "investigate"
       ],
-      "condition": [
-            "diarrhea"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "OPT-80"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -50,12 +50,17 @@
             "severe",
             "cdad"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097422.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clostridium",
+            "diarrhea"
+      ],
+      "mesh_term": [],
+      "id": "NCT00097422"
 }

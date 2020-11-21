@@ -118,16 +118,17 @@
             "thereafter"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "multivitamin",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -265,12 +266,21 @@
             "multivitamin",
             "daily"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003623.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00003623"
 }

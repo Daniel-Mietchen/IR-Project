@@ -26,16 +26,17 @@
             "subtype"
       ],
       "condition": [
-            "chronic",
+            "cell",
+            "lymphoma",
             "lymphocytic",
             "lymphocytic",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "elsamitrucin"
+            "Elsamitrucin"
       ],
       "criteria": [
             "inclusion",
@@ -92,12 +93,17 @@
             "disease",
             "psychiatric"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090090.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00090090"
 }

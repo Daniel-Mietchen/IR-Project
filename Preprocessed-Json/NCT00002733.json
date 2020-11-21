@@ -198,7 +198,8 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "skin",
             "adult",
             "solid",
             "tumor",
@@ -206,9 +207,15 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "recombinant interferon alfa",
+            "therapeutic tumor infiltrating lymphocytes",
             "cimetidine"
       ],
       "criteria": [
@@ -359,12 +366,23 @@
             "organ",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002733.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002733"
 }

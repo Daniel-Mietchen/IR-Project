@@ -129,27 +129,47 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "ii",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "iii",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
             "iv",
             "chronic",
             "lymphocytic",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "alvocidib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "flavopiridol",
             "flavopiridol"
       ],
-      "other_name": [],
+      "other_name": [
+            "1275"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -288,12 +308,17 @@
             "palliative",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003620.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00003620"
 }

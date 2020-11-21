@@ -304,7 +304,7 @@
             "deficiency"
       ],
       "condition": [
-            "abnormal",
+            "volunteer",
             "phagocyte",
             "function"
       ],
@@ -407,7 +407,7 @@
             "bleed",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -416,6 +416,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001257.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "abnormal",
+            "phagocyte",
+            "function"
+      ],
+      "id": "NCT00001257"
 }

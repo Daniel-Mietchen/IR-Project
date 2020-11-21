@@ -132,27 +132,58 @@
             "month"
       ],
       "condition": [
-            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "del",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "novo",
+            "myelodysplastic",
+            "syndrome",
             "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tipifarnib"
       ],
       "description": [
-            "give",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
             "tipifarnib"
       ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -365,12 +396,18 @@
             "nurse",
             "infant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045396.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00045396"
 }

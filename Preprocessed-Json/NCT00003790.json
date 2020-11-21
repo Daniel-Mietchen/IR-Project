@@ -180,13 +180,15 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Genetic",
+            "Other"
+      ],
       "intervention_name": [
-            "flow",
-            "cytometry"
+            "polymerase chain reaction",
+            "flow cytometry"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -276,12 +278,23 @@
             "treatment",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003790.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00003790"
 }

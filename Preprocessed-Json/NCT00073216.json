@@ -306,18 +306,15 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "clade",
-            "b",
-            "recombinant",
-            "oligomeric",
-            "adjuvant"
+            "Clade B gag DNA/PLG and env DNA/PLG Microparticles",
+            "Clade B Recombinant, Oligomeric gp140/MF59 Adjuvant"
       ],
       "criteria": [
             "note",
@@ -533,7 +530,7 @@
             "month",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -542,6 +539,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073216.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00073216"
 }

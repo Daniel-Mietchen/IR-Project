@@ -137,28 +137,33 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "endometrial",
+            "carcinoma",
+            "iii",
+            "endometrial",
+            "carcinoma",
             "iv",
             "endometrial",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "trastuzumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
             "trastuzumab"
       ],
-      "other_name": [
-            "moab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -375,14 +380,16 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006089.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006089"
 }

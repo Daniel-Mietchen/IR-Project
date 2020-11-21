@@ -153,25 +153,46 @@
             "year"
       ],
       "condition": [
-            "uterine",
+            "prognosis",
+            "metastatic",
+            "gestational",
+            "trophoblastic",
+            "tumor",
+            "mole",
+            "gestational",
+            "trophoblastic",
+            "tumor",
             "corpus",
             "choriocarcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "methotrexate"
+            "Dactinomycin",
+            "Methotrexate"
       ],
       "description": [
-            "give",
+            "iv",
             "intramuscularly"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "dactinomycin",
             "methotrexate"
       ],
-      "other_name": [],
+      "other_name": [
+            "iv",
+            "iv",
+            "x",
+            "1",
+            "cosmegen",
+            "14377",
+            "pfs",
+            "lpf",
+            "methylaminopterin"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -337,11 +358,15 @@
             "site",
             "pseudotumor"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003702.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "trophoblastic",
+            "disease",
+            "mole"
+      ],
+      "id": "NCT00003702"
 }

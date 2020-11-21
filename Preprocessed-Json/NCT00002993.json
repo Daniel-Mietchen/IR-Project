@@ -137,15 +137,16 @@
             "evaluable",
             "patient"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitomycin",
-            "c"
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "mitomycin C"
       ],
       "criteria": [
             "disease",
@@ -276,11 +277,17 @@
             "effect",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002993.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "uterine",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002993"
 }

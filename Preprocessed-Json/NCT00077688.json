@@ -37,16 +37,17 @@
             "urothelium"
       ],
       "condition": [
-            "carcinoma",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
             "transitional",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tocosol",
-            "paclitaxel"
+            "TOCOSOL Paclitaxel"
       ],
       "criteria": [
             "inclusion",
@@ -285,12 +286,21 @@
             "study",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077688.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00077688"
 }

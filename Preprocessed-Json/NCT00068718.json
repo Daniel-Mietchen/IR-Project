@@ -134,29 +134,39 @@
             "periodically"
       ],
       "condition": [
-            "recurrent",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "hodgkin",
+            "lymphoma",
+            "lymphoma",
             "plasma",
             "cell",
             "myeloma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "allogeneic",
-            "lymphocyte"
+            "Therapeutic Allogeneic Lymphocytes"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "dli"
       ],
       "other_name": [
-            "allogeneic",
             "lymphocyte"
       ],
       "criteria": [
@@ -473,9 +483,25 @@
             "require",
             "delay"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068718.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myeloid",
+            "disease",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloma",
+            "plasma",
+            "cell",
+            "crisis"
+      ],
+      "id": "NCT00068718"
 }

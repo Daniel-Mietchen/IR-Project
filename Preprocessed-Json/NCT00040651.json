@@ -330,17 +330,21 @@
             "health"
       ],
       "condition": [
-            "systemic",
             "sclerosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "self",
-            "bone",
-            "marrow",
-            "transplant"
+            "Fludarabine",
+            "Cyclophosphamide",
+            "Thymoglobulin",
+            "Leukapheresis",
+            "Self bone marrow transplant"
       ],
       "criteria": [
             "inclusion",
@@ -396,7 +400,7 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -405,6 +409,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040651.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "scleroderma"
+      ],
+      "mesh_term": [
+            "systemic",
+            "diffuse",
+            "localize",
+            "phosphate"
+      ],
+      "id": "NCT00040651"
 }

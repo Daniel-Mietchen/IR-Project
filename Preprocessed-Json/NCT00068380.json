@@ -125,28 +125,32 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "gastric",
+            "cancer",
             "iv",
             "gastric",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "glivec"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -329,12 +333,16 @@
             "protocol",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068380.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00068380"
 }

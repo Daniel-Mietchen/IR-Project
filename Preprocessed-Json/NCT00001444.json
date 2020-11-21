@@ -87,13 +87,15 @@
             "useful"
       ],
       "condition": [
-            "prostatic",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "7-hydroxystaurosporine (UCN-01)"
+      ],
       "criteria": [
             "patient",
             "must",
@@ -449,9 +451,17 @@
             "follow",
             "conclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001444.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "protein",
+            "kinase",
+            "antagonist"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001444"
 }

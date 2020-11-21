@@ -49,16 +49,14 @@
             "revascularization"
       ],
       "condition": [
-            "acute",
             "coronary",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "enoxaparin",
-            "sodium"
+            "Enoxaparin sodium"
       ],
       "criteria": [
             "inclusion",
@@ -305,12 +303,17 @@
             "heart",
             "valve"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077818.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "coronary",
+            "syndrome",
+            "heparin"
+      ],
+      "id": "NCT00077818"
 }

@@ -259,16 +259,18 @@
             "protocol"
       ],
       "condition": [
-            "severe",
             "combine",
             "immunodeficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "transduce",
-            "lymphocyte"
+            "ADA PBSC",
+            "ADA Umbilical Cord Blood Cells",
+            "Transduced Lymphocytes"
       ],
       "criteria": [
             "new",
@@ -299,9 +301,21 @@
             "transduction",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001255.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosine",
+            "deaminase",
+            "deficiency",
+            "ada"
+      ],
+      "mesh_term": [
+            "deficiency",
+            "syndrome",
+            "combine",
+            "immunodeficiency"
+      ],
+      "id": "NCT00001255"
 }

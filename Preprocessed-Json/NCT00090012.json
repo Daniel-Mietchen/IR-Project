@@ -37,14 +37,15 @@
             "quetiapine"
       ],
       "condition": [
-            "schizoaffective",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "quetiapine"
+            "Olanzapine",
+            "Quetiapine"
       ],
       "criteria": [
             "inclusion",
@@ -96,7 +97,7 @@
             "olanzapine",
             "quetiapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -105,6 +106,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090012.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "fumarate"
+      ],
+      "id": "NCT00090012"
 }

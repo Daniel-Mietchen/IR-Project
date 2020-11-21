@@ -144,15 +144,13 @@
             "tezacitabine"
       ],
       "condition": [
-            "hematologic",
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tezacitabine",
-            "fmdc"
+            "Tezacitabine (FMdC)"
       ],
       "description": [
             "bolus",
@@ -161,9 +159,7 @@
             "x",
             "5"
       ],
-      "arm_group_label": [
-            "tezacitabine"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "e",
             "fluoromethylene",
@@ -277,12 +273,17 @@
             "burden",
             "occur"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061620.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nucleoside",
+            "analogue"
+      ],
+      "mesh_term": [],
+      "id": "NCT00061620"
 }

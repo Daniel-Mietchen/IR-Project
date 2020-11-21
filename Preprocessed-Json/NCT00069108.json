@@ -61,17 +61,39 @@
             "individual"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine",
-            "xeloda"
+            "5 FU",
+            "Leucovorin",
+            "Oxaliplatin",
+            "Oxaliplatin",
+            "capecitabine [Xeloda]"
       ],
       "description": [
+            "prescribe",
+            "2",
+            "week",
+            "cycle",
+            "prescribe",
+            "2",
+            "week",
+            "cycle",
+            "prescribe",
+            "3",
+            "week",
+            "cycle",
+            "prescribe",
+            "2",
+            "week",
+            "cycle",
             "po",
             "bid",
             "day",
@@ -79,9 +101,7 @@
             "week",
             "cycle"
       ],
-      "arm_group_label": [
-            "xelox"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -119,12 +139,15 @@
             "metastatic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069108.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00069108"
 }

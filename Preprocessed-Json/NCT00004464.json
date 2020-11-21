@@ -84,14 +84,16 @@
             "thereafter"
       ],
       "condition": [
-            "paroxysmal",
+            "anemia",
             "hemoglobinuria",
             "nocturnal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
             "filgrastim"
       ],
       "criteria": [
@@ -168,12 +170,20 @@
             "moribund",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004464.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "aplastic",
+            "paroxysmal"
+      ],
+      "id": "NCT00004464"
 }

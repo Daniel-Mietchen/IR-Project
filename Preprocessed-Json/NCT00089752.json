@@ -241,26 +241,28 @@
             "osa"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "apnea",
+            "syndrome"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "sham",
-            "cpap",
-            "device"
+            "Continuous Positive Airway Pressure (CPAP)",
+            "Sham CPAP device"
       ],
       "description": [
-            "sham",
+            "device",
+            "use",
+            "night",
             "cpap",
             "device",
             "use",
             "night"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -547,12 +549,19 @@
             "cpap",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089752.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease",
+            "apnea",
+            "obstructive"
+      ],
+      "id": "NCT00089752"
 }

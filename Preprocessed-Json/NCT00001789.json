@@ -277,13 +277,15 @@
             "life"
       ],
       "condition": [
-            "lupus",
+            "membranoproliferative",
             "nephritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "BG9588"
+      ],
       "criteria": [
             "must",
             "give",
@@ -642,9 +644,14 @@
             "previously",
             "dose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001789.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "nephritis",
+            "membranoproliferative"
+      ],
+      "id": "NCT00001789"
 }

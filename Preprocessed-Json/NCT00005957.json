@@ -159,7 +159,6 @@
             "axillary",
             "lymph",
             "nod",
-            "excise",
             "participate",
             "center",
             "patient",
@@ -324,21 +323,38 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "breast",
-            "radiation",
-            "plus",
-            "regional",
-            "radiation"
+            "Standard Breast Irradiation",
+            "Breast Radiation plus Regional Radiation"
       ],
       "description": [
             "breast",
+            "irradiation",
+            "dose",
+            "5000",
+            "cgy",
+            "25",
+            "fraction",
+            "rate",
+            "200",
+            "cgy",
+            "per",
+            "day",
+            "5",
+            "day",
+            "week",
+            "5",
+            "week",
+            "prescribe",
+            "standard",
+            "tangent",
+            "field",
             "radiation",
             "plus",
             "regional",
@@ -366,6 +382,7 @@
       ],
       "arm_group_label": [
             "breast",
+            "irradiation",
             "radiation",
             "plus",
             "regional",
@@ -557,7 +574,6 @@
             "greater",
             "3",
             "time",
-            "uln",
             "note",
             "patient",
             "laboratory",
@@ -685,9 +701,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
@@ -696,6 +710,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005957.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005957"
 }

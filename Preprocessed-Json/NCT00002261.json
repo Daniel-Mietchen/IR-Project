@@ -102,15 +102,17 @@
             "recipient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine",
-            "microgenesys"
+            "Smallpox Vaccine",
+            "HIVAC-1e",
+            "gp160 Vaccine (MicroGeneSys)"
       ],
       "criteria": [
             "inclusion",
@@ -355,7 +357,7 @@
             "duration",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -364,6 +366,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002261.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002261"
 }

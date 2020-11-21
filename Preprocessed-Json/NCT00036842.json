@@ -134,17 +134,18 @@
             "month"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "arsenic trioxide"
       ],
       "criteria": [
             "disease",
@@ -408,14 +409,25 @@
             "qt",
             "interval"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036842.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "trioxide"
+      ],
+      "id": "NCT00036842"
 }

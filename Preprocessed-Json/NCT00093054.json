@@ -98,30 +98,28 @@
             "symptom"
       ],
       "condition": [
-            "urinary",
             "tract",
             "infection"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Drug",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "placebo",
-            "cranberry",
-            "juice"
+            "Cranberry juice",
+            "Placebo cranberry juice"
       ],
       "description": [
-            "tid",
+            "dosage",
+            "uti",
+            "treatment",
             "placebo",
             "dosage",
             "match",
             "active",
             "comparator"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -167,9 +165,7 @@
             "compound",
             "pregnancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -178,6 +174,15 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093054.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vaccinium",
+            "macrocarpon"
+      ],
+      "mesh_term": [
+            "disease",
+            "tract",
+            "infection"
+      ],
+      "id": "NCT00093054"
 }

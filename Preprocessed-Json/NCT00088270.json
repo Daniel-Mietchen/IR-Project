@@ -22,7 +22,6 @@
             "cancer"
       ],
       "condition": [
-            "locally",
             "advance",
             "metastatic",
             "adenoca",
@@ -30,9 +29,13 @@
             "tract"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "OSI-7904L",
+            "5-Fluorouracil/Leucovorin"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -129,12 +132,13 @@
             "28",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088270.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00088270"
 }

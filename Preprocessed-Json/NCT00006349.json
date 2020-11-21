@@ -262,15 +262,25 @@
             "month"
       ],
       "condition": [
-            "radiation",
+            "effect",
+            "cancer",
             "toxicity"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "vitamin E",
+            "donepezil hydrochloride",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "vitamin",
+            "e",
+            "vitamin",
+            "e"
       ],
       "criteria": [
             "disease",
@@ -410,12 +420,27 @@
             "vitamin",
             "e"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006349.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "injury",
+            "e"
+      ],
+      "id": "NCT00006349"
 }

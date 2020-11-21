@@ -178,15 +178,35 @@
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "transdermal",
-            "patch"
+            "Transdermal nicotine patch",
+            "Placebo transdermal patch"
       ],
       "description": [
-            "placebo",
+            "phase",
+            "1",
+            "week",
+            "2",
+            "week",
+            "23",
+            "week",
+            "open",
+            "label",
+            "phase",
+            "1",
+            "week",
+            "2",
+            "week",
+            "23",
+            "week",
+            "taper",
+            "2",
+            "week",
+            "1",
+            "week",
             "patch",
             "1",
             "week",
@@ -196,12 +216,11 @@
             "week"
       ],
       "arm_group_label": [
-            "placebo",
+            "nicotine",
+            "group",
             "group"
       ],
-      "other_name": [
-            "nicotrol"
-      ],
+      "other_name": [],
       "criteria": [
             "specific",
             "inclusion",
@@ -451,7 +470,7 @@
             "principal",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -460,6 +479,18 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091468.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mild",
+            "cognitive",
+            "impairment",
+            "mci"
+      ],
+      "mesh_term": [
+            "disorder",
+            "cognitive",
+            "impairment",
+            "disorder"
+      ],
+      "id": "NCT00091468"
 }

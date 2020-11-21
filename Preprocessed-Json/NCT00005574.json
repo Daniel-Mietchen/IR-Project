@@ -292,15 +292,16 @@
             "pursue"
       ],
       "condition": [
-            "duchenne",
+            "muscular",
+            "dystrophy",
             "muscular",
             "dystrophy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gentamicin"
+            "Gentamicin"
       ],
       "criteria": [
             "diagnosis",
@@ -363,9 +364,17 @@
             "nephrotoxic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005574.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myopathy"
+      ],
+      "mesh_term": [
+            "dystrophy",
+            "dystrophy",
+            "duchenne"
+      ],
+      "id": "NCT00005574"
 }

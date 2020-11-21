@@ -197,21 +197,20 @@
             "96"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "emtricitabine"
+            "Didanosine",
+            "Efavirenz",
+            "Emtricitabine"
       ],
-      "description": [
-            "antiretroviral"
-      ],
-      "arm_group_label": [
-            "1"
-      ],
+      "description": [],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -348,7 +347,7 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "90",
             "day"
@@ -357,6 +356,13 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016718.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00016718"
 }

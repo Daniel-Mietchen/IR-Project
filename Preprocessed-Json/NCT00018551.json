@@ -72,15 +72,14 @@
             "trial"
       ],
       "condition": [
-            "colonic",
+            "cancer",
             "polyp"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "folic",
-            "acid"
+            "Folic Acid"
       ],
       "criteria": [
             "asymptomatic",
@@ -110,7 +109,7 @@
             "eligible",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -119,6 +118,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018551.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "polyp",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00018551"
 }

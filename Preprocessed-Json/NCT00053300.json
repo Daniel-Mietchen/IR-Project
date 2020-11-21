@@ -99,18 +99,33 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "thalidomide",
+            "adjuvant therapy"
       ],
       "description": [
-            "patient",
+            "thalidomide",
+            "daily",
+            "begin",
+            "week",
+            "completion",
+            "induction",
+            "chemotherapy",
+            "treatment",
+            "continue",
+            "1",
+            "year",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "receive",
             "oral",
             "thalidomide",
@@ -205,12 +220,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053300.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00053300"
 }

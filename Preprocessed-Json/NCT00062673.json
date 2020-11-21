@@ -37,14 +37,14 @@
             "treatment",
             "phase"
       ],
-      "condition": [
-            "cognition"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Duloxetine",
+            "Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -90,12 +90,18 @@
             "governmental",
             "authority"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062673.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "hydrochloride"
+      ],
+      "id": "NCT00062673"
 }

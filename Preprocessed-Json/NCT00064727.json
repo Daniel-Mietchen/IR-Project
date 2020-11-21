@@ -448,16 +448,16 @@
             "subject"
       ],
       "condition": [
-            "congestive",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "avanclia",
-            "rosiqlitazone"
+            "Avandia (Rosiglitazone)",
+            "Avanclia (Rosiqlitazone)"
       ],
       "criteria": [
             "inclusion",
@@ -634,12 +634,19 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "22",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064727.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "intolerance"
+      ],
+      "mesh_term": [
+            "failure",
+            "intolerance"
+      ],
+      "id": "NCT00064727"
 }

@@ -80,17 +80,41 @@
             "symptom"
       ],
       "condition": [
-            "chest",
+            "infarction",
             "pain"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Device",
+            "Other"
+      ],
       "intervention_name": [
-            "routine",
-            "clinical",
-            "practice"
+            "Electrocardiogram (ECG) Intervention",
+            "Routine Clinical Practice"
       ],
       "description": [
+            "electrocardiographic",
             "ecg",
+            "monitor",
+            "special",
+            "software",
+            "detect",
+            "myocardial",
+            "ischemia",
+            "automatically",
+            "transmit",
+            "ecg",
+            "destination",
+            "hospital",
+            "emergency",
+            "department",
+            "voice",
+            "alarm",
+            "announce",
+            "incoming",
+            "ecg",
+            "field",
+            "print",
+            "ed",
             "ed",
             "part",
             "routine",
@@ -98,7 +122,8 @@
             "practice"
       ],
       "arm_group_label": [
-            "routine",
+            "ecg",
+            "intervention",
             "clinical",
             "practice"
       ],
@@ -128,12 +153,19 @@
             "inclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075088.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac"
+      ],
+      "mesh_term": [
+            "infarction",
+            "pain"
+      ],
+      "id": "NCT00075088"
 }

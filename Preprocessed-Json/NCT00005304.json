@@ -325,21 +325,27 @@
             "year"
       ],
       "condition": [
-            "liver",
+            "disease",
+            "viral",
+            "human",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005304.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "viral",
+            "human",
+            "disease"
+      ],
+      "id": "NCT00005304"
 }

@@ -23,14 +23,15 @@
             "mdd"
       ],
       "condition": [
-            "depressive",
             "disorder",
             "major"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "GW597599B",
             "paroxetine"
       ],
       "other_name": [],
@@ -79,7 +80,7 @@
             "migraine",
             "headache"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -88,6 +89,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048204.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "major",
+            "depressive",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00048204"
 }

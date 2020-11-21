@@ -206,29 +206,55 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "oblimersen sodium",
+            "carboplatin",
             "etoposide"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
+            "ii",
+            "carboplatin",
+            "etoposide",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
             "ii",
             "carboplatin",
             "etoposide"
       ],
-      "other_name": [],
+      "other_name": [
+            "antisense",
+            "oligodeoxynucleotide"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -493,12 +519,19 @@
             "clearance",
             "60"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042978.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00042978"
 }

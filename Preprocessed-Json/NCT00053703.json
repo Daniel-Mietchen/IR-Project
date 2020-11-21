@@ -112,27 +112,33 @@
             "time",
             "ass"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "molindone"
+            "Risperidone",
+            "Olanzapine (enrollment closed in this treatment)",
+            "Molindone"
       ],
       "description": [
-            "oral",
+            "risperidone",
+            "daily",
+            "52",
+            "week",
+            "olanzapine",
+            "per",
+            "day",
+            "52",
+            "week",
             "molindone",
             "52",
             "week"
       ],
-      "arm_group_label": [
-            "molindone"
-      ],
-      "other_name": [
-            "moban"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -213,7 +219,6 @@
             "intolerance",
             "nonresponse",
             "ri",
-            "ola",
             "mol",
             "previous",
             "treatment",
@@ -279,7 +284,7 @@
             "exclusion",
             "applicable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -288,6 +293,11 @@
             "19",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053703.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "schizophreniform",
+            "disorder"
+      ],
+      "mesh_term": [],
+      "id": "NCT00053703"
 }

@@ -266,17 +266,23 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "gefitinib",
             "paclitaxel"
       ],
       "arm_group_label": [
-            "paclitaxel",
+            "carboplatin",
+            "gefitinib",
+            "carboplatin",
+            "gefitinib",
             "carboplatin",
             "gefitinib"
       ],
@@ -573,7 +579,7 @@
             "ketoconazole",
             "erythromycin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -582,6 +588,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062062.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00062062"
 }

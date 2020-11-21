@@ -151,7 +151,10 @@
             "dermatology"
       ],
       "condition": [
-            "metabolism",
+            "disease",
+            "erythropoietic",
+            "globoid",
+            "cell",
             "inborn",
             "error"
       ],
@@ -208,9 +211,17 @@
             "peroxisomal",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006057.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "inborn",
+            "error",
+            "globoid",
+            "cell",
+            "erythropoietic"
+      ],
+      "id": "NCT00006057"
 }

@@ -125,13 +125,15 @@
             "study",
             "terminate"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "cyclophosphamide",
             "etoposide"
       ],
       "criteria": [
@@ -272,7 +274,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -281,6 +283,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002488.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "burkitt",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00002488"
 }

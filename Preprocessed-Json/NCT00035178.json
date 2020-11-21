@@ -34,14 +34,15 @@
             "hemodialysis"
       ],
       "condition": [
-            "renal",
+            "failure",
+            "chronic",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "argatroban"
+            "Argatroban"
       ],
       "criteria": [
             "basic",
@@ -252,7 +253,7 @@
             "reference",
             "range"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -261,6 +262,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035178.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemodialysis"
+      ],
+      "mesh_term": [
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "chronic",
+            "insufficiency"
+      ],
+      "id": "NCT00035178"
 }

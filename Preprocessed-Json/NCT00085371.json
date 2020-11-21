@@ -131,23 +131,31 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "adenocarcinoma",
+            "pancreas",
+            "cell",
+            "adenocarcinoma",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "triapine"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "triapene"
       ],
       "criteria": [
@@ -310,12 +318,17 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085371.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "acinar",
+            "cell"
+      ],
+      "id": "NCT00085371"
 }

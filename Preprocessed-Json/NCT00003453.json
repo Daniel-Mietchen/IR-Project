@@ -126,14 +126,15 @@
             "study"
       ],
       "condition": [
-            "adrenocortical",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antineoplaston"
+            "antineoplaston A10",
+            "antineoplaston AS2-1"
       ],
       "criteria": [
             "disease",
@@ -313,9 +314,17 @@
             "agent",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003453.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adrenocortical",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "carcinoma"
+      ],
+      "id": "NCT00003453"
 }

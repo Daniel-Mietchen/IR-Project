@@ -45,24 +45,20 @@
             "benefit"
       ],
       "condition": [
-            "solid",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pertuzumab"
+            "Pertuzumab"
       ],
       "description": [
-            "pertuzumab",
             "supply",
             "liquid",
             "formulation"
       ],
-      "arm_group_label": [
-            "pertuzumab"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -393,9 +389,13 @@
             "treatment",
             "complication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096941.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "egfr"
+      ],
+      "mesh_term": [],
+      "id": "NCT00096941"
 }

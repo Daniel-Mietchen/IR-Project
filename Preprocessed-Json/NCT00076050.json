@@ -221,24 +221,27 @@
             "density",
             "test"
       ],
-      "condition": [
-            "osteopenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "placebo"
+            "Soy isoflavones",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "soy",
+            "isoflavones",
+            "phytoestrogens",
+            "tablet",
+            "form",
+            "tablet",
+            "200",
             "soy",
             "isoflavones"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -324,9 +327,7 @@
             "femoral",
             "neck"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -335,6 +336,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076050.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "metabolic"
+      ],
+      "id": "NCT00076050"
 }

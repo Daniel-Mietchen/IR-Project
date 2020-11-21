@@ -87,13 +87,14 @@
             "seek"
       ],
       "condition": [
+            "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine"
+            "Vincristine"
       ],
       "criteria": [
             "inclusion",
@@ -191,9 +192,18 @@
             "pegboard",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001689.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vinca",
+            "alkaloid"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "cell",
+            "lymphoblastic"
+      ],
+      "id": "NCT00001689"
 }

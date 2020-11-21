@@ -27,14 +27,15 @@
             "population"
       ],
       "condition": [
-            "renal",
             "cell",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CP-461"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -167,12 +168,20 @@
             "cell",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00036036"
 }

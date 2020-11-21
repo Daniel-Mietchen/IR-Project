@@ -105,12 +105,14 @@
             "week"
       ],
       "condition": [
-            "aid"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-Intron"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -180,12 +182,19 @@
             "use",
             "anticonvulsant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035360.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00035360"
 }

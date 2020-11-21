@@ -112,18 +112,18 @@
             "death"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "docetaxel",
+            "irinotecan hydrochloride"
       ],
       "arm_group_label": [
-            "irinotecan",
+            "docetaxel",
             "docetaxel"
       ],
       "criteria": [
@@ -306,12 +306,23 @@
             "phenobarbital",
             "anticonvulsant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003900.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003900"
 }

@@ -96,14 +96,17 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Lamivudine/Zidovudine",
+            "Lamivudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -261,12 +264,25 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002203.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "inhibitor",
+            "protease",
+            "inhibitor",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00002203"
 }

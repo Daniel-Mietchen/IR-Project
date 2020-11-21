@@ -192,17 +192,13 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "gvax",
-            "lung",
-            "cancer",
-            "vaccine"
+            "GVAX lung cancer vaccine"
       ],
       "description": [
             "injection",
@@ -213,14 +209,11 @@
             "five",
             "week"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
-            "diagnosis",
             "1",
             "follow",
             "radiological",
@@ -241,7 +234,6 @@
             "focal",
             "invasion",
             "note",
-            "histological",
             "confirmation",
             "exclude",
             "fine",
@@ -417,7 +409,6 @@
             "40",
             "mm",
             "hg",
-            "echocardiogram",
             "lvef",
             "40",
             "symptomatic",
@@ -671,12 +662,21 @@
             "anticoagulation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074295.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00074295"
 }

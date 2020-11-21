@@ -307,16 +307,20 @@
             "practice"
       ],
       "condition": [
-            "transposition",
+            "disease",
+            "disease",
+            "defect",
+            "congenital",
             "great",
             "vessel"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "thoracic",
-            "surgery"
+            "Cardiopulmonary Bypass with Two Different Intra-Operative Hematocrits",
+            "Thoracic Surgery"
       ],
       "criteria": [
             "inclusion",
@@ -370,12 +374,21 @@
             "plan",
             "developmental"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006183.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "abnormality",
+            "defect",
+            "congenital",
+            "great",
+            "vessel"
+      ],
+      "id": "NCT00006183"
 }

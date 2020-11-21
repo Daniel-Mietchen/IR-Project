@@ -231,15 +231,32 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "ABVD regimen",
+            "Stanford V regimen",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "mechlorethamine hydrochloride",
+            "prednisone",
+            "vinblastine sulfate",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -360,7 +377,7 @@
             "hodgkin",
             "lymphoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -369,6 +386,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041210.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00041210"
 }

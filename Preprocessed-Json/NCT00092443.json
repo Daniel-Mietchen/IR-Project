@@ -25,19 +25,23 @@
             "month"
       ],
       "condition": [
-            "rotavirus",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "match"
+            "RotaTeq\u2122, rotavirus vaccine, live, oral, pentavalent",
+            "Comparator: Placebo matching RotaTeq\u2122"
       ],
       "description": [
-            "placebo",
+            "dose",
+            "administer",
+            "28",
+            "70",
+            "day",
+            "apart",
             "match",
             "administer",
             "28",
@@ -46,7 +50,9 @@
             "apart"
       ],
       "arm_group_label": [
-            "placebo",
+            "expiry",
+            "potency",
+            "x",
             "match"
       ],
       "other_name": [],
@@ -87,7 +93,7 @@
             "failure",
             "thrive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "week"
@@ -96,6 +102,9 @@
             "12",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092443.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00092443"
 }

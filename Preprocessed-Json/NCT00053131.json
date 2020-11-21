@@ -169,15 +169,18 @@
             "6",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "filgrastim",
+            "sargramostim",
+            "cytarabine",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -231,14 +234,11 @@
             "greater",
             "2",
             "time",
-            "normal",
             "sgot",
             "greater",
             "2",
             "time",
-            "normal",
             "note",
-            "unless",
             "directly",
             "attributable",
             "leukemia",
@@ -246,9 +246,7 @@
             "creatinine",
             "greater",
             "time",
-            "normal",
             "note",
-            "unless",
             "directly",
             "attributable",
             "leukemia",
@@ -258,7 +256,6 @@
             "least",
             "45",
             "note",
-            "unless",
             "directly",
             "attributable",
             "leukemia",
@@ -322,12 +319,27 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053131.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00053131"
 }

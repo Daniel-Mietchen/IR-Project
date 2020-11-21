@@ -57,13 +57,15 @@
             "complication"
       ],
       "condition": [
-            "cytopenia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Zidovudine",
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -245,7 +247,7 @@
             "radiation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -254,6 +256,12 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002263.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002263"
 }

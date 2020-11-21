@@ -56,15 +56,16 @@
             "visit"
       ],
       "condition": [
-            "hiv",
+            "disorder",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "selegiline",
-            "hydrochloride"
+            "Thioctic acid",
+            "Selegiline hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -205,12 +206,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002154.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "selegiline"
+      ],
+      "mesh_term": [
+            "infection",
+            "disorder",
+            "acid"
+      ],
+      "id": "NCT00002154"
 }

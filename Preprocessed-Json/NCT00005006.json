@@ -414,24 +414,23 @@
             "weekly",
             "alendronate"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "teriparatide"
+            "Parathyroid Hormone",
+            "Alendronate",
+            "Teriparatide"
       ],
       "description": [
-            "teriparatide"
+            "teriparatide",
+            "day"
       ],
-      "arm_group_label": [
-            "3"
-      ],
-      "other_name": [
-            "forteo"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -473,14 +472,17 @@
             "tsh",
             "normal"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005006.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cyclical",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005006"
 }

@@ -90,13 +90,14 @@
             "zinc"
       ],
       "condition": [
-            "wilson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "tetrathiomolybdate",
             "trientine"
       ],
       "criteria": [
@@ -144,9 +145,16 @@
             "therapy",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004339.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "degeneration"
+      ],
+      "id": "NCT00004339"
 }

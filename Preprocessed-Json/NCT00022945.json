@@ -145,19 +145,16 @@
             "chop"
       ],
       "condition": [
-            "mantle",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclophosphamide",
-            "doxorubicin",
-            "vincristine",
-            "prednisone",
-            "chop"
+            "Iodine-131 Anti-B1 Antibody",
+            "Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone (CHOP)"
       ],
       "criteria": [
             "inclusion",
@@ -465,12 +462,22 @@
             "study",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022945.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "iodine",
+            "131",
+            "tositumomab"
+      ],
+      "mesh_term": [
+            "antibody",
+            "monoclonal",
+            "iodine"
+      ],
+      "id": "NCT00022945"
 }

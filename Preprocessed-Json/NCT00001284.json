@@ -271,7 +271,11 @@
             "find"
       ],
       "condition": [
-            "fmri"
+            "frequency",
+            "genetic",
+            "marker",
+            "map",
+            "disease"
       ],
       "criteria": [
             "inclusion",
@@ -483,12 +487,19 @@
             "mri",
             "scanner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001284.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dopaminergic",
+            "mechanism"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001284"
 }

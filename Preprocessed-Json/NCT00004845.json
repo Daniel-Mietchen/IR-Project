@@ -143,14 +143,15 @@
             "examine"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "naproxen"
+            "Rofecoxib",
+            "Naproxen"
       ],
       "criteria": [
             "inclusion",
@@ -294,12 +295,16 @@
             "bowel",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004845.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00004845"
 }

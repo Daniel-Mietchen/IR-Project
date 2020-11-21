@@ -167,19 +167,36 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "docetaxel",
+            "radiation therapy"
       ],
       "description": [
-            "200",
+            "iv",
+            "day",
+            "1",
+            "q",
+            "21",
+            "day",
+            "3",
+            "cycle",
+            "iv",
+            "day",
+            "1",
+            "1",
+            "7",
+            "day",
+            "6",
+            "dose",
             "day",
             "q",
             "week",
@@ -187,12 +204,11 @@
             "week"
       ],
       "arm_group_label": [
-            "chemort",
+            "surgery",
+            "surgery",
             "surgery"
       ],
-      "other_name": [
-            "rt"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -358,12 +374,25 @@
             "concurrent",
             "amifostine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084435.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "salivary",
+            "gland",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00084435"
 }

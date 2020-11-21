@@ -392,25 +392,54 @@
             "ass"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Spironolactone",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "aldosterone",
+            "antagonist",
+            "supply",
+            "15",
+            "mg",
+            "tablet",
+            "drug",
+            "take",
+            "orally",
+            "subject",
+            "initial",
+            "study",
+            "drug",
+            "dose",
+            "15",
+            "one",
+            "tablet",
+            "may",
+            "titrate",
+            "30",
+            "two",
+            "tablet",
+            "45",
+            "three",
+            "tablet",
+            "subject",
+            "study",
+            "drug",
+            "duration",
+            "trial",
             "spironolactone"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "aldosterone",
             "antagonist"
       ],
       "criteria": [
@@ -793,12 +822,24 @@
             "local",
             "lab"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094302.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "preserve",
+            "ejection",
+            "fraction"
+      ],
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "receptor",
+            "antagonist"
+      ],
+      "id": "NCT00094302"
 }

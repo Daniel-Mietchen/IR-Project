@@ -261,26 +261,47 @@
             "registration"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer",
             "iiib",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "3-dimensional conformal radiation therapy",
+            "bortezomib",
+            "paclitaxel",
             "carboplatin"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
             "bortezomib",
             "paclitaxel",
             "carboplatin"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "criteria": [
@@ -421,7 +442,6 @@
             "prior",
             "systemic",
             "chemotherapy",
-            "nsclc",
             "prior",
             "radiotherapy",
             "chest",
@@ -548,12 +568,17 @@
             "neuropathy",
             "2"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093756.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00093756"
 }

@@ -176,18 +176,18 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "ascorbic acid",
+            "arsenic trioxide"
       ],
       "criteria": [
             "disease",
@@ -352,7 +352,6 @@
             "count",
             "least",
             "note",
-            "unless",
             "attributable",
             "bone",
             "marrow",
@@ -515,7 +514,7 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -524,6 +523,19 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006021.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acid",
+            "trioxide"
+      ],
+      "id": "NCT00006021"
 }

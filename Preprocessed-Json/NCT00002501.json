@@ -185,17 +185,17 @@
             "annually",
             "thereafter"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
             "cyclophosphamide"
       ],
       "arm_group_label": [
-            "cyclophosphamide",
+            "filgrastim",
             "filgrastim"
       ],
       "criteria": [
@@ -547,7 +547,7 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -556,6 +556,16 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002501.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "follicular"
+      ],
+      "id": "NCT00002501"
 }

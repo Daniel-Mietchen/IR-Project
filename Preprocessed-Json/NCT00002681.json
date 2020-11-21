@@ -171,13 +171,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "aldesleukin",
             "daclizumab"
       ],
       "criteria": [
@@ -320,12 +320,20 @@
             "primary",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002681.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atypical",
+            "chronic",
+            "myeloid",
+            "leukemia",
+            "negative"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002681"
 }

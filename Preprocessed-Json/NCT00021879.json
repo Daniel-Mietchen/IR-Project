@@ -247,16 +247,15 @@
             "disease"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
             "mellitus"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "23",
             "year"
@@ -265,6 +264,11 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021879.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00021879"
 }

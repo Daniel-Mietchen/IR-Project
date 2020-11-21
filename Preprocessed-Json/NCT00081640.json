@@ -260,16 +260,13 @@
             "use"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pro",
-            "gel",
-            "p"
+            "PRO 2000/5 Gel (P)"
       ],
       "criteria": [
             "inclusion",
@@ -580,12 +577,20 @@
             "std",
             "symptom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081640.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vaginal",
+            "microbicide"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00081640"
 }

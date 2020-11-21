@@ -145,13 +145,19 @@
             "cycle"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Adriamycin",
+            "cyclophosphamide",
+            "G-CSF",
             "paclitaxel"
       ],
       "criteria": [
@@ -369,9 +375,17 @@
             "chronic",
             "anticoagulation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001384.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "resistant"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00001384"
 }

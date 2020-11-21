@@ -180,12 +180,20 @@
             "year"
       ],
       "condition": [
-            "neutropenia"
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "lintuzumab",
+            "cytarabine",
+            "etoposide",
             "idarubicin"
       ],
       "criteria": [
@@ -285,12 +293,22 @@
             "alone",
             "hydroxyurea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neutropenia"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002800"
 }

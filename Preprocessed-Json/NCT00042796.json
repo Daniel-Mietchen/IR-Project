@@ -221,27 +221,46 @@
             "month"
       ],
       "condition": [
-            "secondary",
+            "acute",
+            "myeloblastic",
+            "leukemia",
+            "maturation",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "myeloid",
+            "leukemia",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "decitabine",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "decitabine",
+            "decitabine",
             "decitabine"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -513,12 +532,22 @@
             "infection",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042796.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "promyelocytic",
+            "acute"
+      ],
+      "id": "NCT00042796"
 }

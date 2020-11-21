@@ -38,17 +38,14 @@
             "cli"
       ],
       "condition": [
-            "peripheral",
             "vascular",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ecraprost",
-            "lipid",
-            "emulsion"
+            "Ecraprost in lipid emulsion"
       ],
       "criteria": [
             "inclusion",
@@ -130,12 +127,28 @@
             "hemodialysis",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059657.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "critical",
+            "limb",
+            "ischemia",
+            "due",
+            "peripheral",
+            "arterial",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "arterial",
+            "disease",
+            "vascular",
+            "disease"
+      ],
+      "id": "NCT00059657"
 }

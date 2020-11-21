@@ -98,18 +98,16 @@
             "arm"
       ],
       "condition": [
-            "atrial",
+            "disease",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "olmesartan"
+            "Olmesartan"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -292,12 +290,25 @@
             "uncooperative",
             "attitude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098137.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "control",
+            "clinical",
+            "trial"
+      ],
+      "mesh_term": [
+            "fibrillation",
+            "disease",
+            "medoxomil",
+            "receptor",
+            "antagonist",
+            "ii"
+      ],
+      "id": "NCT00098137"
 }

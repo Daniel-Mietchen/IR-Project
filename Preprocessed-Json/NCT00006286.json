@@ -404,13 +404,16 @@
             "family"
       ],
       "condition": [
-            "depression"
+            "depressive",
+            "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "psychotherapy"
+            "Fluoxetine",
+            "Psychotherapy"
       ],
       "criteria": [
             "inclusion",
@@ -492,7 +495,7 @@
             "member",
             "involvement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -501,6 +504,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006286.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "teen"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00006286"
 }

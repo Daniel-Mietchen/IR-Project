@@ -221,7 +221,15 @@
             "year"
       ],
       "condition": [
-            "d",
+            "stage",
+            "plasma",
+            "cell",
+            "myeloma",
+            "stage",
+            "ii",
+            "plasma",
+            "cell",
+            "myeloma",
             "stage",
             "iii",
             "plasma",
@@ -229,27 +237,57 @@
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "Bortezomib",
+            "Laboratory Biomarker Analysis",
+            "Pegylated Liposomal Doxorubicin Hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
+            "study",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "pegylated",
+            "liposomal",
+            "doxorubicin",
+            "bortezomib",
+            "pegylated",
+            "liposomal",
+            "doxorubicin",
             "bortezomib",
             "pegylated",
             "liposomal",
             "doxorubicin"
       ],
       "other_name": [
-            "tlc"
+            "pyrazinylcarbonyl",
+            "amino",
+            "propyl",
+            "amino",
+            "butyl",
+            "boronic",
+            "acid",
+            "341",
+            "hcl",
+            "liposome",
+            "hydrochloride",
+            "liposome",
+            "adriamycin",
+            "doxorubicin",
+            "hydrochloride",
+            "doxorubicin",
+            "doxorubicin",
+            "hcl",
+            "liposome",
+            "doxorubicin",
+            "liposomal",
+            "doxorubicin"
       ],
       "criteria": [
             "inclusion",
@@ -619,12 +657,18 @@
             "range",
             "indication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088855.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "doxorubicin"
+      ],
+      "id": "NCT00088855"
 }

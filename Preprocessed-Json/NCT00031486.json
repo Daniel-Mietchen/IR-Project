@@ -340,17 +340,36 @@
             "24",
             "month"
       ],
-      "condition": [
-            "encephalitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Valacyclovir",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "ester",
+            "acyclovir",
+            "valacyclovir",
+            "provide",
+            "500",
+            "mg",
+            "tablet",
+            "4",
+            "tablet",
+            "500",
+            "mg",
+            "tablet",
+            "3",
+            "time",
+            "day",
+            "every",
+            "8",
+            "hour",
+            "90",
+            "day",
             "identical",
             "active",
             "drug",
@@ -366,9 +385,7 @@
             "90",
             "day"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -598,12 +615,23 @@
             "vacv",
             "famciclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031486.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "encephalitis",
+            "herpes",
+            "simplex",
+            "valacyclovir"
+      ],
+      "mesh_term": [
+            "simplex",
+            "herpes",
+            "simplex"
+      ],
+      "id": "NCT00031486"
 }

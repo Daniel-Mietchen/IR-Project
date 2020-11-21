@@ -292,17 +292,22 @@
             "year"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermia",
-            "treatment"
+            "carboplatin",
+            "ifosfamide",
+            "hyperthermia treatment"
       ],
       "criteria": [
             "disease",
@@ -573,9 +578,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -584,6 +587,19 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045461.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "mustard"
+      ],
+      "id": "NCT00045461"
 }

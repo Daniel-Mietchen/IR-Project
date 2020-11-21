@@ -154,17 +154,20 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "131",
-            "monoclonal",
-            "antibody"
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "radionuclide imaging",
+            "iodine I 131 monoclonal antibody F19"
       ],
       "criteria": [
             "disease",
@@ -342,12 +345,21 @@
             "immunosuppressive",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005616.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "monoclonal"
+      ],
+      "id": "NCT00005616"
 }

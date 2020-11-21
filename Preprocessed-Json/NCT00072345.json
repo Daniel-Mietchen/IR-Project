@@ -152,9 +152,13 @@
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "lomustine",
+            "temozolomide",
             "thalidomide"
       ],
       "criteria": [
@@ -450,12 +454,20 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "intraocular",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00072345"
 }

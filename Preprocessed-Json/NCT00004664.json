@@ -169,14 +169,19 @@
             "failure"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
+            "waste",
+            "syndrome",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "exercise"
+            "megestrol",
+            "Exercise"
       ],
       "criteria": [
             "protocol",
@@ -271,12 +276,27 @@
             "mental",
             "incompetence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004664.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "syndrome",
+            "waste",
+            "syndrome",
+            "acetate"
+      ],
+      "id": "NCT00004664"
 }

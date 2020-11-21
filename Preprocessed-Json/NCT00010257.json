@@ -140,17 +140,27 @@
             "year"
       ],
       "condition": [
-            "thymic",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
             "paclitaxel"
       ],
       "description": [
-            "225",
+            "auc",
+            "give",
+            "iv",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "cycle",
+            "6",
+            "cycle",
             "give",
             "intravenous",
             "iv",
@@ -164,12 +174,13 @@
             "cycle"
       ],
       "arm_group_label": [
-            "paclitaxel",
+            "plus",
+            "carboplatin",
             "plus",
             "carboplatin"
       ],
       "other_name": [
-            "nsc",
+            "241240",
             "125973"
       ],
       "criteria": [
@@ -281,12 +292,20 @@
             "1",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010257.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thymic",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00010257"
 }

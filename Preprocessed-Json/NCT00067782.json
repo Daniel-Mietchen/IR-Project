@@ -41,31 +41,28 @@
             "inhibitor"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "atazanavir",
-            "week",
-            "24",
-            "switch"
+            "Atazanavir (immediate switch)",
+            "Atazanavir (Week 24 switch)"
       ],
       "description": [
-            "capsule",
+            "oral",
+            "daily",
+            "48",
+            "week",
             "oral",
             "daily",
             "48",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "reyataz"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "key",
             "inclusion",
@@ -322,12 +319,20 @@
             "physical",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067782.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate"
+      ],
+      "id": "NCT00067782"
 }

@@ -34,14 +34,15 @@
             "patient"
       ],
       "condition": [
-            "borderline",
             "personality",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Olanzapine",
             "placebo"
       ],
       "criteria": [
@@ -216,7 +217,7 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -225,6 +226,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091650.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "personality",
+            "disorder"
+      ],
+      "id": "NCT00091650"
 }

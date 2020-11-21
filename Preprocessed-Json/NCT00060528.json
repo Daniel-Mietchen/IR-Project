@@ -449,17 +449,23 @@
             "patient"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant",
-            "human"
+            "Recombinant Fowlpox-GM-CSF",
+            "Recombinant Fowlpox-PSA (L155)-TRICOM (PROSTVAC-F/TRICOM)",
+            "Recombinant Vaccinia-PSA (L155)-TRICOM (PROSTVAC-V/TRICOM)",
+            "Recombinant Human GM-CSF"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "gm"
+      ],
       "other_name": [
             "fowlpox"
       ],
@@ -1597,14 +1603,19 @@
             "eligibility",
             "time"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060528.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00060528"
 }

@@ -139,14 +139,34 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Sipuleucel-T",
+            "APC-Placebo"
+      ],
       "description": [
+            "dose",
+            "contain",
+            "minimum",
+            "50",
+            "million",
+            "autologous",
+            "cell",
+            "activate",
+            "course",
+            "therapy",
+            "consist",
+            "3",
+            "complete",
+            "dose",
+            "give",
+            "approximately",
+            "interval",
             "dose",
             "contain",
             "approximately",
@@ -241,14 +261,18 @@
             "explain",
             "reason"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065442.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "biotech"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00065442"
 }

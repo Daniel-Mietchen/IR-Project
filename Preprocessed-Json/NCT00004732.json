@@ -340,20 +340,28 @@
             "study"
       ],
       "condition": [
-            "myocardial",
+            "stenosis",
+            "infarction",
             "infarction"
       ],
       "intervention_type": [
-            "device"
+            "Procedure",
+            "Device"
       ],
       "intervention_name": [
-            "carotid",
-            "artery",
-            "stenting",
-            "ca"
+            "Carotid Endarterectomy (CEA)",
+            "Carotid Artery Stenting (CAS)"
       ],
       "description": [
-            "ca",
+            "involve",
+            "neck",
+            "incision",
+            "physical",
+            "removal",
+            "plaque",
+            "inside",
+            "carotid",
+            "artery",
             "involve",
             "insertion",
             "catheter",
@@ -395,13 +403,14 @@
             "device"
       ],
       "arm_group_label": [
-            "carotid",
+            "artery",
+            "endarterectomy",
+            "cea",
             "artery",
             "stenting",
             "ca"
       ],
       "other_name": [
-            "angioplasty",
             "carotid",
             "artery",
             "stent",
@@ -508,12 +517,22 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004732.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transient",
+            "ischemic",
+            "attack"
+      ],
+      "mesh_term": [
+            "infarction",
+            "infarction",
+            "stenosis"
+      ],
+      "id": "NCT00004732"
 }

@@ -56,24 +56,31 @@
             "postbaseline",
             "observation"
       ],
-      "condition": [
-            "narcolepsy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Armodafinil",
+            "Armodafinil",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "250",
+            "mg",
+            "daily",
+            "morning",
+            "150",
+            "mg",
+            "daily",
+            "morning",
             "placebo",
             "tablet",
             "daily"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "diagnosis",
             "criterion",
@@ -339,7 +346,7 @@
             "stimulant",
             "modafinil"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -348,6 +355,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078377.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nuvigil"
+      ],
+      "mesh_term": [
+            "excessive",
+            "somnolence"
+      ],
+      "id": "NCT00078377"
 }

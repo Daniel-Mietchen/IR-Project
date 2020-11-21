@@ -126,17 +126,19 @@
             "year"
       ],
       "condition": [
-            "pancreatic",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "Recombinant Interleukin-12"
       ],
       "description": [
-            "intraperitoneal",
             "30",
             "minute",
             "weekly",
@@ -150,7 +152,10 @@
             "course"
       ],
       "arm_group_label": [],
-      "other_name": [],
+      "other_name": [
+            "recombinant",
+            "human"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -373,12 +378,25 @@
             "prior",
             "laparoscopy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003046.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00003046"
 }

@@ -125,29 +125,47 @@
             "toxicity"
       ],
       "condition": [
-            "recurrent",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "erlotinib",
+            "hydrochloride",
             "erlotinib",
             "hydrochloride"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -390,12 +408,17 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047346.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00047346"
 }

@@ -118,13 +118,16 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -253,14 +256,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006377.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "endometrial",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00006377"
 }

@@ -69,14 +69,15 @@
             "program"
       ],
       "condition": [
-            "hyperlipidemia"
+            "mellitus",
+            "type",
+            "2"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "telephone",
-            "counsel"
+            "telephone counseling"
       ],
       "criteria": [
             "type",
@@ -100,12 +101,21 @@
             "counsel",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00072891"
 }

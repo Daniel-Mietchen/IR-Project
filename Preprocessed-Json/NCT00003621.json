@@ -156,21 +156,36 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "carmustine",
+            "cisplatin",
+            "etoposide",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "carmustine",
+            "etoposide",
+            "cisplatin",
+            "radiation",
+            "therapy",
+            "etoposide",
+            "cisplatin",
+            "radiation",
+            "therapy",
+            "etoposide",
+            "cisplatin",
+            "radiation",
+            "therapy",
             "etoposide",
             "cisplatin",
             "radiation",
@@ -267,7 +282,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -276,6 +291,19 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003621.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "anaplastic",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003621"
 }

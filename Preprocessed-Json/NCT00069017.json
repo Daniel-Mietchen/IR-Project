@@ -65,15 +65,31 @@
             "ssz"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "MEDI-522",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "formulate",
+            "sterile",
+            "isotonic",
+            "solution",
+            "10",
+            "mm",
+            "ph",
+            "6",
+            "contain",
+            "100",
+            "mg",
+            "protein",
+            "concentration",
+            "100",
             "contain",
             "10",
             "mm",
@@ -86,9 +102,7 @@
             "yellow",
             "10"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "patient",
             "must",
@@ -685,12 +699,15 @@
             "type",
             "vasculitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069017.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00069017"
 }

@@ -257,13 +257,17 @@
             "data"
       ],
       "condition": [
-            "unstable",
+            "artery",
+            "disease",
+            "infarction",
             "angina"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AGI-1067"
+      ],
       "criteria": [
             "inform",
             "write",
@@ -529,12 +533,25 @@
             "study",
             "involve"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066898.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "artery",
+            "disease"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "infarction",
+            "unstable"
+      ],
+      "id": "NCT00066898"
 }

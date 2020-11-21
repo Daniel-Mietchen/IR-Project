@@ -60,14 +60,15 @@
             "dose"
       ],
       "condition": [
-            "solid",
             "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SB-485232"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -349,12 +350,16 @@
             "venous",
             "access"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085878.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phase",
+            "1"
+      ],
+      "id": "NCT00085878"
 }

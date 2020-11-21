@@ -225,20 +225,30 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "peripheral blood stem cell transplantation",
+            "indium In 111 monoclonal antibody MN-14",
+            "yttrium Y 90 monoclonal antibody MN-14"
       ],
       "description": [
-            "intravenous",
+            "prescribe",
+            "physician",
+            "week",
+            "treatment",
+            "infusion",
+            "30",
+            "min",
+            "single",
+            "dose",
             "infusion",
             "30",
             "min",
@@ -433,9 +443,7 @@
             "antiretroviral",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -444,6 +452,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004177.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00004177"
 }

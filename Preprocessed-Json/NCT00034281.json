@@ -132,15 +132,19 @@
             "withdrawal"
       ],
       "condition": [
-            "renal",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "TAK-165"
+      ],
       "description": [
-            "start",
             "dose",
             "10",
             "mg",
@@ -325,12 +329,22 @@
             "accord",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034281.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00034281"
 }

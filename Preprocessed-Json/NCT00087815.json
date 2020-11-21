@@ -213,7 +213,6 @@
             "treatment",
             "total",
             "note",
-            "patient",
             "arm",
             "ii",
             "reach",
@@ -295,14 +294,28 @@
             "study"
       ],
       "condition": [
-            "radiation",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "effect",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "dexamethasone",
+            "hyperbaric oxygen",
+            "cognitive assessment",
+            "magnetic resonance imaging",
+            "positron emission tomography",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -385,9 +398,22 @@
             "concurrent",
             "disulfiram"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087815.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "brain",
+            "tumor"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00087815"
 }

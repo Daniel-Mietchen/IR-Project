@@ -134,15 +134,16 @@
             "within",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cisplatin",
+            "dexamethasone",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -395,7 +396,7 @@
             "experimental",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -404,6 +405,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014209.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "1101",
+            "acetate"
+      ],
+      "id": "NCT00014209"
 }

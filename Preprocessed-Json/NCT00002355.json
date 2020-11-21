@@ -128,15 +128,14 @@
             "mcg"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fomivirsen",
-            "sodium"
+            "Fomivirsen sodium"
       ],
       "criteria": [
             "inclusion",
@@ -275,12 +274,20 @@
             "2",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002355.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cytomegalovirus",
+            "retinitis"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00002355"
 }

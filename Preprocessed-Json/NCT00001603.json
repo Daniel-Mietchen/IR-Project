@@ -361,7 +361,10 @@
             "test"
       ],
       "condition": [
-            "squamous",
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "neoplasm",
             "cell",
             "carcinoma"
       ],
@@ -381,9 +384,22 @@
             "congenital",
             "acquire"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001603.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "head",
+            "neck",
+            "cancer"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00001603"
 }

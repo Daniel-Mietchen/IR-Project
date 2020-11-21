@@ -276,26 +276,68 @@
             "year"
       ],
       "condition": [
-            "intraocular",
             "retinoblastoma"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "liposomal vincristine sulfate",
+            "cryosurgery",
+            "laser surgery",
+            "carboplatin",
+            "etoposide",
             "filgrastim"
       ],
       "description": [
-            "give",
+            "iv",
+            "extreme",
+            "cold",
+            "destroy",
+            "abnormal",
+            "diseased",
+            "tissue",
+            "use",
+            "laser",
+            "instead",
+            "scalpel",
+            "cut",
+            "tissue",
+            "iv",
+            "iv",
             "subcutaneously"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
             "chemotherapy",
             "surgery"
       ],
       "other_name": [
-            "neupogen"
+            "vincristine",
+            "liposomal",
+            "sulfate",
+            "liposome",
+            "injection",
+            "ablation",
+            "laser",
+            "therapy",
+            "therapy",
+            "conventional",
+            "laser"
       ],
       "criteria": [
             "inclusion",
@@ -541,12 +583,15 @@
             "concurrent",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072384.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00072384"
 }

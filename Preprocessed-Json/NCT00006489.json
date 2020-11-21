@@ -53,26 +53,42 @@
             "treatment"
       ],
       "condition": [
+            "dependence",
             "stress",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Cognitive-Behavioral Therapy",
+            "Naltrexone",
+            "Placebo"
       ],
       "description": [
-            "pill",
+            "weekly",
+            "individual",
+            "therapy",
+            "session",
+            "follow",
+            "6",
+            "session",
+            "every",
+            "week",
+            "dose",
+            "100",
+            "mg",
+            "24",
+            "week",
             "placebo",
             "daily",
             "dose",
             "24",
             "week"
       ],
-      "arm_group_label": [
-            "4"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -193,7 +209,7 @@
             "reliable",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -202,6 +218,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cognitive",
+            "behavior",
+            "therapy"
+      ],
+      "mesh_term": [
+            "disorder",
+            "traumatic",
+            "disorder"
+      ],
+      "id": "NCT00006489"
 }

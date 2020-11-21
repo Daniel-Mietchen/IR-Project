@@ -154,28 +154,50 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "estramustine phosphate sodium",
+            "docetaxel",
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
+            "bevacizumab",
+            "chemotherapy",
+            "bevacizumab",
+            "chemotherapy",
+            "bevacizumab",
             "chemotherapy",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "56976",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -616,11 +638,13 @@
             "bilateral",
             "orchiectomy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016107.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00016107"
 }

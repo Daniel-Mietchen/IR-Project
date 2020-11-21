@@ -209,15 +209,14 @@
             "patient",
             "asthma"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "borage",
-            "oil"
+            "Gingko biloba",
+            "Borage oil"
       ],
       "criteria": [
             "inclusion",
@@ -395,7 +394,7 @@
             "requirement",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -404,6 +403,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029679.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "oil"
+      ],
+      "id": "NCT00029679"
 }

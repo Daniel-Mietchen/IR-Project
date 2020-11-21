@@ -194,7 +194,6 @@
             "dynamic"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -225,12 +224,20 @@
             "preventive",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006442.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00006442"
 }

@@ -165,11 +165,16 @@
             "month"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "bleomycin sulfate",
+            "doxycycline",
             "talc"
       ],
       "criteria": [
@@ -311,12 +316,23 @@
             "affect",
             "side"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002872.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignant",
+            "pleural",
+            "effusion"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "effusion",
+            "effusion",
+            "malignant"
+      ],
+      "id": "NCT00002872"
 }

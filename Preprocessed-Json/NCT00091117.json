@@ -151,23 +151,24 @@
             "bortezomib"
       ],
       "condition": [
-            "malignant",
+            "complication",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "bortezomib",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "341",
             "study"
       ],
       "criteria": [
@@ -424,12 +425,15 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091117.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00091117"
 }

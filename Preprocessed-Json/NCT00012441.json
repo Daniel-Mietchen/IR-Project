@@ -100,12 +100,11 @@
             "uptake"
       ],
       "condition": [
-            "kidney",
             "failure",
             "chronic"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
             "hemodialysis"
@@ -125,7 +124,7 @@
             "2",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -134,6 +133,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012441.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "dialysis"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00012441"
 }

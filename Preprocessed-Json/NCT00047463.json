@@ -121,17 +121,27 @@
             "ass"
       ],
       "condition": [
-            "obstructive",
+            "apnea",
             "sleep",
             "apnea"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
-      "intervention_name": [],
-      "description": [],
+      "intervention_name": [
+            "continuous positive airway pressure (CPAP)",
+            "Placebo-CPAP"
+      ],
+      "description": [
+            "mask",
+            "treatment",
+            "sleep",
+            "apnea"
+      ],
       "arm_group_label": [
-            "cpap",
+            "active",
+            "comparator",
             "placebo"
       ],
       "criteria": [
@@ -274,12 +284,21 @@
             "seizure",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047463.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cpap"
+      ],
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "apnea",
+            "obstructive"
+      ],
+      "id": "NCT00047463"
 }

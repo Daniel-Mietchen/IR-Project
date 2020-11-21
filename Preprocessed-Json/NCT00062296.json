@@ -148,15 +148,14 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "epirubicin",
-            "hydrochloride"
+            "rituximab",
+            "epirubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -229,7 +228,6 @@
             "count",
             "least",
             "note",
-            "unless",
             "due",
             "bone",
             "marrow",
@@ -376,12 +374,23 @@
             "concurrent",
             "cimetidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062296.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00062296"
 }

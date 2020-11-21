@@ -193,17 +193,18 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "tretinoin",
-            "liposome"
+            "recombinant interferon alfa",
+            "tretinoin liposome"
       ],
       "arm_group_label": [
+            "subject",
             "subject"
       ],
       "criteria": [
@@ -390,7 +391,7 @@
             "retinoid",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -399,6 +400,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003656.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00003656"
 }

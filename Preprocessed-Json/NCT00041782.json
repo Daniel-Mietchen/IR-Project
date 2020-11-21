@@ -194,19 +194,16 @@
             "5"
       ],
       "condition": [
-            "deep",
             "vein",
             "thrombosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dalteparin",
-            "fragmin"
+            "Dalteparin (Fragmin)"
       ],
       "description": [
-            "200",
             "subcutaneously",
             "daily",
             "base",
@@ -217,9 +214,7 @@
             "dose",
             "iu"
       ],
-      "arm_group_label": [
-            "dalteparin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -502,12 +497,20 @@
             "appendix",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041782.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "deep",
+            "vein",
+            "thrombosis"
+      ],
+      "mesh_term": [
+            "thrombosis"
+      ],
+      "id": "NCT00041782"
 }

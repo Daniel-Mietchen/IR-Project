@@ -341,16 +341,15 @@
             "toxicity"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "polyvalent",
-            "peptide",
-            "vaccine"
+            "Interleukin-12",
+            "HIV-1 C4-V3 Polyvalent Peptide Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -499,12 +498,20 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005779.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00005779"
 }

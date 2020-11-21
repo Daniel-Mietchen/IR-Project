@@ -248,16 +248,17 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "green tea",
+            "soy protein isolate",
+            "vitamin E"
       ],
       "criteria": [
             "disease",
@@ -397,14 +398,21 @@
             "prior",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003367.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "e"
+      ],
+      "id": "NCT00003367"
 }

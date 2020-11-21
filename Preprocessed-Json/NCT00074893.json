@@ -147,17 +147,16 @@
             "minute"
       ],
       "condition": [
-            "carpal",
+            "trauma",
+            "disorder",
             "tunnel",
             "syndrome"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "piezoelectric",
-            "wrist",
-            "brace"
+            "piezoelectric wrist brace"
       ],
       "criteria": [
             "inclusion",
@@ -190,7 +189,7 @@
             "sympathetic",
             "dystrophy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -199,6 +198,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074893.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "smartwear"
+      ],
+      "mesh_term": [
+            "tunnel",
+            "syndrome",
+            "trauma",
+            "disorder"
+      ],
+      "id": "NCT00074893"
 }

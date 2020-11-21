@@ -210,17 +210,35 @@
             "within",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "sargramostim",
+            "cytarabine",
+            "daunorubicin hydrochloride",
             "valspodar"
       ],
       "description": [
+            "iv",
+            "sc",
+            "iv",
+            "sc",
+            "start",
+            "15",
+            "continuous",
+            "iv",
+            "hour",
+            "iv",
+            "hour",
             "2",
+            "74",
             "load",
             "iv",
             "2",
@@ -374,12 +392,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "56",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004217.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00004217"
 }

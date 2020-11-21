@@ -204,24 +204,65 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bicalutamide",
+            "estramustine",
+            "etoposide",
+            "flutamide",
+            "goserelin",
+            "leuprolide",
+            "nilutamide",
             "paclitaxel"
       ],
       "arm_group_label": [
-            "hormone",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
+            "therapy",
+            "estramustine",
+            "etoposide",
+            "paclitaxel",
             "therapy",
             "estramustine",
             "etoposide",
             "paclitaxel"
       ],
       "other_name": [
-            "leuprolide",
+            "phosphate",
+            "sodium",
             "acetate"
       ],
       "criteria": [
@@ -411,14 +452,22 @@
             "concurrent",
             "bisphosphonates"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028769.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "phosphate",
+            "paclitaxel"
+      ],
+      "id": "NCT00028769"
 }

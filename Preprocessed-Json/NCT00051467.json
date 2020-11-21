@@ -85,14 +85,13 @@
             "eu"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
       "intervention_name": [
-            "tnferade"
+            "TNFerade"
       ],
       "criteria": [
             "inclusion",
@@ -423,12 +422,15 @@
             "line",
             "assistance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051467.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051467"
 }

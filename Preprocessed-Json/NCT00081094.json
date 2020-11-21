@@ -64,15 +64,18 @@
             "cancer"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "18F-Fluorodeoxyglucose-PET (FDG-PET)",
+            "11Carbon-Acetate-PET"
+      ],
       "arm_group_label": [
-            "pet",
+            "scan",
             "scan"
       ],
       "criteria": [
@@ -163,12 +166,24 @@
             "level",
             "200"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081094.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "resectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00081094"
 }

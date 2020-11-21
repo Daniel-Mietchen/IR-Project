@@ -31,21 +31,26 @@
             "potency",
             "dose"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "comparator",
-            "varicella",
-            "zoster",
-            "virus",
-            "vaccine"
+            "Comparator: Varicella Zoster Virus Vaccine",
+            "Comparator: Varicella Zoster Virus Vaccine"
       ],
       "description": [
-            "single",
+            "ml",
+            "subcutaneous",
+            "injection",
+            "higher",
+            "potency",
+            "zoster",
+            "vaccine",
+            "unit",
+            "pfu",
+            "dose",
             "ml",
             "subcutaneous",
             "injection",
@@ -57,9 +62,7 @@
             "pfu",
             "dose"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -86,12 +89,13 @@
             "immune",
             "response"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092417.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00092417"
 }

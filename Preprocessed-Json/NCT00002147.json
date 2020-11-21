@@ -55,16 +55,14 @@
             "cycle"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hydrochloride",
-            "liposomal"
+            "Doxorubicin hydrochloride (liposomal)"
       ],
       "criteria": [
             "inclusion",
@@ -138,12 +136,21 @@
             "3",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002147.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "carrier"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "doxorubicin"
+      ],
+      "id": "NCT00002147"
 }

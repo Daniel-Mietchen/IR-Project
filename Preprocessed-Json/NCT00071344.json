@@ -347,7 +347,6 @@
             "effectively"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "criteria": [
@@ -412,9 +411,16 @@
             "tumor",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071344.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nsclc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00071344"
 }

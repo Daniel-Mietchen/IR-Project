@@ -354,17 +354,12 @@
             "severe",
             "emphysema"
       ],
-      "condition": [
-            "emphysema"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "lung",
-            "volume",
-            "reduction",
-            "surgery"
+            "Lung Volume Reduction Surgery"
       ],
       "criteria": [
             "1",
@@ -375,7 +370,6 @@
             "2",
             "tlc",
             "120",
-            "predict",
             "3",
             "carbon",
             "monoxide",
@@ -416,14 +410,15 @@
             "patient",
             "copd"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018525.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "emphysema"
+      ],
+      "id": "NCT00018525"
 }

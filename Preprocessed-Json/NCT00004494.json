@@ -72,18 +72,17 @@
             "day"
       ],
       "condition": [
-            "respiratory",
+            "distress",
+            "syndrome",
             "distress",
             "syndrome",
             "adult"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vasoactive",
-            "intestinal",
-            "peptide"
+            "vasoactive intestinal peptide"
       ],
       "criteria": [
             "protocol",
@@ -263,12 +262,27 @@
             "history",
             "diarrhea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004494.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sepsis"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury",
+            "intestinal",
+            "peptide"
+      ],
+      "id": "NCT00004494"
 }

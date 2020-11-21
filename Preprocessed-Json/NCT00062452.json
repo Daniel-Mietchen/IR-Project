@@ -78,13 +78,16 @@
             "evaluation"
       ],
       "condition": [
-            "perinatal",
+            "premature",
+            "disease",
+            "abnormality",
             "asphyxia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "interventional",
-            "study"
+            "This is not an interventional study."
       ],
       "description": [
             "study",
@@ -126,12 +129,20 @@
             "enteral",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062452.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "airway"
+      ],
+      "mesh_term": [
+            "premature",
+            "disease",
+            "abnormality"
+      ],
+      "id": "NCT00062452"
 }

@@ -202,21 +202,28 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "sargramostim",
+            "cyclophosphamide",
+            "thiotepa",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -366,9 +373,27 @@
             "acetaminophen",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008008.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "supratentorial",
+            "primitive",
+            "neuroectodermal",
+            "tumor",
+            "pnet"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00008008"
 }

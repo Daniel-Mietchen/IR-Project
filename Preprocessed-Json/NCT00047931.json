@@ -275,13 +275,15 @@
             "trial"
       ],
       "condition": [
-            "aid",
+            "seronegativity",
             "vaccine"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "VRC-HIVDNA009-00-VP"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -839,7 +841,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -848,6 +850,9 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00047931.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "id": "NCT00047931"
 }

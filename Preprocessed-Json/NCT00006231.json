@@ -166,14 +166,18 @@
             "year"
       ],
       "condition": [
+            "mesothelioma",
             "complication"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "quality-of-life assessment",
+            "standard follow-up care",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -246,9 +250,16 @@
             "year",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complication"
+      ],
+      "mesh_term": [
+            "complication",
+            "neoplasm"
+      ],
+      "id": "NCT00006231"
 }

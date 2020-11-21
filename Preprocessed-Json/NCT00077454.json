@@ -206,27 +206,76 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "treat",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "brain",
+            "tumor",
+            "childhood",
+            "cerebellar",
+            "astrocytoma",
+            "childhood",
+            "cerebral",
+            "astrocytoma",
+            "childhood",
+            "ependymoma",
+            "childhood",
+            "malignant",
+            "germ",
+            "cell",
+            "tumor",
+            "childhood",
+            "medulloblastoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "childhood",
+            "supratentorial",
+            "primitive",
+            "neuroectodermal",
+            "tumor",
+            "neuroblastoma",
             "osteosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "temozolomide",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "po",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "temozolomide",
+            "erlotinib",
+            "hydrochloride",
+            "temozolomide",
+            "erlotinib",
+            "hydrochloride",
+            "temozolomide",
             "erlotinib",
             "hydrochloride",
             "temozolomide"
       ],
       "other_name": [
-            "pharmacological",
+            "52365",
             "study"
       ],
       "criteria": [
@@ -282,7 +331,6 @@
             "platelet",
             "count",
             "transfusion",
-            "independent",
             "hemoglobin",
             "transfusion",
             "allow",
@@ -538,12 +586,23 @@
             "erlotinib",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077454.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "tumor",
+            "tumor",
+            "primitive",
+            "embryonal",
+            "hydrochloride"
+      ],
+      "id": "NCT00077454"
 }

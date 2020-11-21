@@ -173,23 +173,27 @@
             "fraction"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "heart",
+            "disease",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "warfarin"
+            "aspirin",
+            "Warfarin"
       ],
       "description": [
-            "inr",
+            "mg",
+            "per",
+            "day",
             "target",
             "inr"
       ],
-      "arm_group_label": [
-            "warfarin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -418,7 +422,6 @@
             "liver",
             "impairment",
             "ast",
-            "normal",
             "cirrhosis",
             "condition",
             "require",
@@ -495,7 +498,6 @@
             "medically",
             "accept",
             "form",
-            "contraception",
             "see",
             "procedure",
             "manual",
@@ -535,12 +537,22 @@
             "year",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041938.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anticoagulant"
+      ],
+      "mesh_term": [
+            "disease",
+            "infarction",
+            "ischemia",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00041938"
 }

@@ -370,7 +370,9 @@
             "population"
       ],
       "condition": [
-            "infant",
+            "low",
+            "birth",
+            "weight",
             "premature",
             "disease"
       ],
@@ -392,9 +394,7 @@
             "stockton",
             "california"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "12",
             "year"
@@ -403,6 +403,14 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015613.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nutrition"
+      ],
+      "mesh_term": [
+            "weight",
+            "premature",
+            "disease"
+      ],
+      "id": "NCT00015613"
 }

@@ -252,25 +252,39 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "bicalutamide",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "therapy",
+            "plus",
+            "casodex",
+            "bicalutamide",
+            "therapy",
+            "plus",
+            "casodex",
+            "bicalutamide",
+            "therapy",
+            "plus",
+            "placebo",
+            "therapy",
+            "plus",
+            "casodex",
+            "bicalutamide",
             "therapy",
             "plus",
             "placebo"
       ],
-      "other_name": [
-            "casodex"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -439,11 +453,17 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002874.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002874"
 }

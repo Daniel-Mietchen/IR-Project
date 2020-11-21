@@ -598,15 +598,24 @@
             "close",
             "accrual"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "ABVD regimen",
+            "BEACOPP regimen",
+            "epirubicin hydrochloride",
+            "prednisone",
+            "vinblastine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -755,7 +764,7 @@
             "surgery",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -764,6 +773,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005584.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "lymphocyte",
+            "predominant",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005584"
 }

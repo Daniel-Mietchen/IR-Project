@@ -204,14 +204,20 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "prostate",
+            "cancer",
+            "metastasis",
+            "prostate",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alendronate sodium",
             "ketoconazole"
       ],
       "criteria": [
@@ -579,11 +585,18 @@
             "nih",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019695.xml"
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00019695"
 }

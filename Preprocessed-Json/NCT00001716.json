@@ -384,15 +384,17 @@
             "patient"
       ],
       "condition": [
-            "sickle",
+            "pain",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nitroglycerin"
+            "Nitric Oxide",
+            "Nitroglycerin"
       ],
       "criteria": [
             "inclusion",
@@ -576,9 +578,20 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001716.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "pain",
+            "sickle",
+            "cell",
+            "oxide"
+      ],
+      "id": "NCT00001716"
 }

@@ -122,11 +122,16 @@
             "program"
       ],
       "condition": [
+            "disease",
             "chronic",
+            "obstructive",
+            "disease",
+            "obstructive",
+            "emphysema",
             "bronchitis"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
             "yoga"
@@ -209,12 +214,23 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051792.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "chronic",
+            "obstructive",
+            "disease",
+            "chronic",
+            "disease",
+            "obstructive",
+            "emphysema"
+      ],
+      "id": "NCT00051792"
 }

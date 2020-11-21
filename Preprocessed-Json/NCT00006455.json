@@ -662,15 +662,30 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine",
-            "sulfate"
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "leucovorin calcium",
+            "methotrexate",
+            "therapeutic hydrocortisone",
+            "vinblastine sulfate"
       ],
       "criteria": [
             "disease",
@@ -869,12 +884,26 @@
             "cell",
             "lymphoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006455.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "anaplastic",
+            "succinate",
+            "acetate",
+            "doxorubicin"
+      ],
+      "id": "NCT00006455"
 }

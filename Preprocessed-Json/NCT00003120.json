@@ -223,31 +223,31 @@
             "year"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
       ],
       "description": [
-            "135",
             "iv",
             "every",
             "28",
             "day"
       ],
       "arm_group_label": [
-            "paclitaxel",
+            "3",
+            "cycle",
             "12",
             "cycle"
       ],
-      "other_name": [
-            "taxotere"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -456,14 +456,24 @@
             "laparotomy",
             "laparoscopy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003120.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003120"
 }

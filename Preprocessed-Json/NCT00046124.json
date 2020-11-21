@@ -101,7 +101,8 @@
             "retardation"
       ],
       "condition": [
-            "endocrine",
+            "disorder",
+            "disorder",
             "dysfunction"
       ],
       "criteria": [
@@ -152,7 +153,7 @@
             "come",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -161,6 +162,9 @@
             "34",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046124.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disturbance"
+      ],
+      "id": "NCT00046124"
 }

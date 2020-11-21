@@ -232,15 +232,23 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "MART-1 antigen",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "recombinant interferon alfa",
+            "sargramostim",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -470,12 +478,20 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006385.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00006385"
 }

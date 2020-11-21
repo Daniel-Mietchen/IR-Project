@@ -218,27 +218,30 @@
             "columbia"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "infarction"
       ],
       "intervention_type": [
-            "behavioral"
+            "Device",
+            "Behavioral"
       ],
       "intervention_name": [
-            "optimal",
-            "medical",
-            "therapy"
+            "PCI with stenting",
+            "Optimal Medical Therapy"
       ],
       "description": [
-            "participant",
+            "stenting",
+            "occlude",
+            "culprit",
+            "artery",
             "receive",
             "optimal",
             "medical",
             "therapy"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -255,12 +258,20 @@
             "occlude",
             "ira"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025766.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00025766"
 }

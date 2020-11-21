@@ -272,16 +272,24 @@
             "month"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "aldesleukin",
+            "filgrastim",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "etoposide",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -391,9 +399,20 @@
             "cyclosporine",
             "gvhd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003243.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00003243"
 }

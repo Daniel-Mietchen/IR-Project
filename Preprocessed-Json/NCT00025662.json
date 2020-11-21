@@ -355,17 +355,28 @@
             "effect"
       ],
       "condition": [
-            "hodgkin",
+            "v",
+            "host",
+            "disease",
+            "syndrome",
+            "myeloid",
+            "myelomonocytic",
+            "chronic",
+            "lymphocytic",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "isolex",
-            "system"
+            "RFT5-SMPT-dgA",
+            "Isolex system"
       ],
       "description": [
+            "specific",
+            "receptor",
+            "immunotoxin",
             "cell",
             "depletion",
             "use",
@@ -373,10 +384,13 @@
       ],
       "arm_group_label": [
             "isolex",
+            "system",
+            "isolex",
             "system"
       ],
       "other_name": [
-            "nexell",
+            "receptor",
+            "immunotoxin",
             "isolex",
             "system"
       ],
@@ -697,7 +711,7 @@
             "le",
             "mm"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -706,6 +720,22 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025662.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "marrow",
+            "transplant"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disease",
+            "myeloid",
+            "v",
+            "host",
+            "disease",
+            "lymphoid",
+            "myelomonocytic",
+            "chronic"
+      ],
+      "id": "NCT00025662"
 }

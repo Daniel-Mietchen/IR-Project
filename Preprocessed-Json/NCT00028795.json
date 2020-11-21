@@ -140,7 +140,6 @@
             "week",
             "surgical",
             "resection",
-            "diagnosis",
             "patient",
             "without",
             "gross",
@@ -242,22 +241,22 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "temozolomide",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
-      "arm_group_label": [
-            "chemoradiotherapy"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -382,7 +381,6 @@
             "hemoglobin",
             "least",
             "note",
-            "transfusion",
             "independent",
             "hepatic",
             "bilirubin",
@@ -461,7 +459,7 @@
             "hgg",
             "dipg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -470,6 +468,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028795.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "brain",
+            "stem",
+            "glioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00028795"
 }

@@ -183,7 +183,11 @@
             "second"
       ],
       "condition": [
-            "movement",
+            "disease",
+            "storage",
+            "disease",
+            "neuron",
+            "disease",
             "disorder"
       ],
       "criteria": [
@@ -230,9 +234,21 @@
             "history",
             "seizure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001780.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disorder",
+            "neuron",
+            "disease",
+            "storage",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00001780"
 }

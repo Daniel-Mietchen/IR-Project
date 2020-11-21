@@ -18,19 +18,20 @@
             "insomnia"
       ],
       "condition": [
-            "primary",
             "insomnia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "unspecified"
+            "gaboxadol",
+            "Comparator: placebo (unspecified)"
       ],
       "description": [
-            "duration",
+            "treatment",
+            "6",
+            "week",
             "treatment",
             "6",
             "week"
@@ -57,7 +58,7 @@
             "sleep",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -66,6 +67,11 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094627.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "initiation",
+            "maintenance",
+            "disorder"
+      ],
+      "id": "NCT00094627"
 }

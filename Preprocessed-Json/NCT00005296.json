@@ -152,7 +152,7 @@
             "study"
       ],
       "condition": [
-            "sleep",
+            "disease",
             "apnea",
             "syndrome"
       ],
@@ -160,11 +160,14 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005296.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005296"
 }

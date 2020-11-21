@@ -531,15 +531,13 @@
             "subject"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "physical",
-            "activity"
+            "Physical activity"
       ],
       "criteria": [
             "inclusion",
@@ -931,9 +929,7 @@
             "burden",
             "chemotherapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -942,6 +938,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092950.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer",
+            "risk"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00092950"
 }

@@ -351,13 +351,13 @@
             "dosage"
       ],
       "condition": [
-            "mycoses"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "voriconazole"
+            "Voriconazole"
       ],
       "criteria": [
             "child",
@@ -555,9 +555,15 @@
             "unsuitable",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatric",
+            "fungal",
+            "infection"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005912"
 }

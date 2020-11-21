@@ -231,16 +231,48 @@
             "study"
       ],
       "condition": [
-            "thorax",
+            "solid",
+            "tumor",
+            "cancer",
+            "neck",
+            "cancer",
+            "urinary",
+            "cancer",
+            "reproductive",
+            "cancer",
             "respiratory",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "Hypericum perforatum",
+            "docetaxel",
             "placebo"
       ],
       "arm_group_label": [
-            "arm",
+            "2",
+            "hypericum",
+            "perforatum",
+            "docetaxel",
+            "3",
+            "hypericum",
+            "perforatum",
+            "docetaxel",
+            "1",
+            "placebo",
+            "docetaxel",
+            "2",
+            "hypericum",
+            "perforatum",
+            "docetaxel",
+            "3",
+            "hypericum",
+            "perforatum",
+            "docetaxel",
             "1",
             "placebo",
             "docetaxel"
@@ -474,7 +506,7 @@
             "receive",
             "docetaxel"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -483,6 +515,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041171.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00041171"
 }

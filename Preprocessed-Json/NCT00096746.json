@@ -35,15 +35,23 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "LPV/RTV + 2NRTIs",
+            "LPV/RTV + 2NRTIs"
+      ],
       "description": [
-            "tablet",
+            "oral",
+            "variable",
+            "twice",
+            "daily",
+            "48",
+            "week",
             "oral",
             "variable",
             "twice",
@@ -132,12 +140,20 @@
             "chemical",
             "hepatitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate"
+      ],
+      "id": "NCT00096746"
 }

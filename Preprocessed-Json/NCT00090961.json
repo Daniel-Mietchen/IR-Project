@@ -127,7 +127,6 @@
             "70",
             "predict",
             "smoke",
-            "status",
             "never",
             "smoke",
             "former",
@@ -247,16 +246,21 @@
             "study"
       ],
       "condition": [
-            "pulmonary",
+            "cancer",
             "complication"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "supervise",
-            "exercise",
-            "program"
+            "educational intervention",
+            "supervised exercise program"
       ],
       "arm_group_label": [
+            "exercise",
+            "program",
+            "education",
             "exercise",
             "program",
             "education"
@@ -393,9 +397,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090961.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00090961"
 }

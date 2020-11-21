@@ -82,24 +82,55 @@
             "regimen"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Doxorubicin",
+            "Cyclophosphamide",
+            "Docetaxel",
+            "Herceptin",
+            "Carboplatin"
       ],
       "arm_group_label": [
+            "ac",
+            "follow",
             "docetaxel",
+            "follow",
+            "docetaxel",
+            "herceptin",
+            "ac",
+            "follow",
+            "docetaxel",
+            "follow",
+            "docetaxel",
+            "herceptin",
+            "ac",
+            "follow",
+            "docetaxel",
+            "follow",
+            "docetaxel",
+            "herceptin",
+            "carboplatin",
+            "herceptin",
+            "tch",
+            "follow",
+            "docetaxel",
+            "herceptin",
+            "carboplatin",
+            "herceptin",
+            "tch",
             "carboplatin",
             "herceptin",
             "tch"
       ],
-      "other_name": [
-            "trastuzumab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -801,9 +832,7 @@
             "clinical",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -812,6 +841,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021255.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00021255"
 }

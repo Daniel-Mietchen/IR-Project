@@ -182,7 +182,7 @@
             "24"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "criteria": [
@@ -236,12 +236,18 @@
             "visit",
             "schedule"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006304.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006304"
 }

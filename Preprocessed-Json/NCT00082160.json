@@ -108,17 +108,14 @@
             "generate",
             "number"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Behavioral",
+            "Procedure"
       ],
       "intervention_name": [
-            "functional",
-            "magnetic",
-            "resonance",
-            "image"
+            "Meditation",
+            "Functional Magnetic Resonance Imaging"
       ],
       "criteria": [
             "inclusion",
@@ -153,7 +150,7 @@
             "claustrophobia",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -162,6 +159,9 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082160.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "relaxation"
+      ],
+      "id": "NCT00082160"
 }

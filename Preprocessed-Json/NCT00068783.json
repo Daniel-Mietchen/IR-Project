@@ -146,27 +146,33 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
+            "ii",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
             "iii",
             "neuroendocrine",
             "carcinoma",
             "skin"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "glivec"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -620,12 +626,19 @@
             "data",
             "base"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068783.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neuroendocrine",
+            "merkel",
+            "cell",
+            "mesylate"
+      ],
+      "id": "NCT00068783"
 }

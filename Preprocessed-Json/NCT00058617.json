@@ -358,20 +358,19 @@
             "maintain"
       ],
       "condition": [
-            "ebv",
+            "hodgkin",
+            "lymphoma",
+            "lymphoma",
             "positive",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "injection",
-            "ebv",
-            "specific",
-            "ctls"
+            "Injection of EBV Specific CTLs"
       ],
       "description": [
             "patient",
@@ -385,19 +384,16 @@
             "follow",
             "dose",
             "schedule",
-            "group",
             "one",
             "day",
             "0",
             "day",
             "14",
-            "group",
             "two",
             "day",
             "0",
             "day",
             "14",
-            "group",
             "three",
             "day",
             "0",
@@ -444,7 +440,6 @@
             "infusion"
       ],
       "arm_group_label": [
-            "injection",
             "ebv",
             "specific",
             "ctls"
@@ -593,9 +588,20 @@
             "fda",
             "reviewer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058617.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ebv",
+            "specific",
+            "cytotoxic"
+      ],
+      "mesh_term": [
+            "disease",
+            "plasma",
+            "cell",
+            "myeloma"
+      ],
+      "id": "NCT00058617"
 }

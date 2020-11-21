@@ -307,13 +307,19 @@
             "study"
       ],
       "condition": [
-            "lipodystrophy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine"
+            "Abacavir sulfate, Lamivudine and Zidovudine",
+            "Abacavir sulfate",
+            "Efavirenz",
+            "Nevirapine"
       ],
       "criteria": [
             "inclusion",
@@ -533,12 +539,23 @@
             "enter",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021463.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lipoprotein",
+            "ldl",
+            "cholesterol"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00021463"
 }

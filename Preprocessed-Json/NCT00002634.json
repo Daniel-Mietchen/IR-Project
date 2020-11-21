@@ -275,15 +275,38 @@
             "5",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radioisotope",
-            "therapy"
+            "filgrastim",
+            "monoclonal antibody 3F8",
+            "cisplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "mesna",
+            "perfosfamide",
+            "vincristine sulfate",
+            "autologous bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy",
+            "radioisotope therapy"
       ],
       "criteria": [
             "disease",
@@ -371,12 +394,21 @@
             "murine",
             "antibody"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002634.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "monoclonal"
+      ],
+      "id": "NCT00002634"
 }

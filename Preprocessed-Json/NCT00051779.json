@@ -69,13 +69,14 @@
             "evaluate"
       ],
       "condition": [
-            "metastasis"
+            "neoplasm",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cal"
+            "CAL"
       ],
       "criteria": [
             "major",
@@ -234,14 +235,20 @@
             "prior",
             "screen"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051779.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hypercalcemia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "acid"
+      ],
+      "id": "NCT00051779"
 }

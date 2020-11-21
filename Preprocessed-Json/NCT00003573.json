@@ -232,25 +232,63 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "treatment",
+            "1",
+            "etoposide",
+            "2",
+            "etoposide",
+            "1",
+            "etoposide",
+            "2",
+            "etoposide",
+            "1",
+            "etoposide",
+            "2",
+            "etoposide",
+            "1",
+            "etoposide",
+            "2",
+            "etoposide",
+            "1",
+            "etoposide",
+            "2",
+            "etoposide",
+            "1",
+            "etoposide",
             "2",
             "etoposide"
       ],
       "other_name": [
-            "ind",
+            "factor",
+            "614629",
+            "ii",
+            "119875",
+            "026271",
+            "7089",
+            "141540",
+            "9197",
+            "067574",
             "7161"
       ],
       "criteria": [
@@ -336,7 +374,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -345,6 +383,19 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003573.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003573"
 }

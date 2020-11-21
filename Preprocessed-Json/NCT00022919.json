@@ -289,7 +289,6 @@
             "alteration"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "criteria": [
@@ -323,11 +322,15 @@
             "include",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022919.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00022919"
 }

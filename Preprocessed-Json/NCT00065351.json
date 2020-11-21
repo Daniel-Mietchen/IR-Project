@@ -68,13 +68,14 @@
             "treatment"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CC-5013"
+      ],
       "description": [
             "oral",
             "daily",
@@ -83,9 +84,7 @@
             "28",
             "day"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -383,12 +382,23 @@
             "drug",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065351.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "refractory",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00065351"
 }

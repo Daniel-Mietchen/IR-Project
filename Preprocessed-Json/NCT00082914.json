@@ -140,15 +140,14 @@
             "year"
       ],
       "condition": [
-            "melanoma",
+            "cancer",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "denileukin",
-            "diftitox"
+            "denileukin diftitox"
       ],
       "criteria": [
             "disease",
@@ -219,7 +218,6 @@
             "normal",
             "thallium",
             "stress",
-            "test",
             "prior",
             "myocardial",
             "infarction",
@@ -325,12 +323,23 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082914.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "diftitox"
+      ],
+      "id": "NCT00082914"
 }

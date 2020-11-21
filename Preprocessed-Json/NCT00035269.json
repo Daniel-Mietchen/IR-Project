@@ -22,14 +22,17 @@
             "pneumoniae"
       ],
       "condition": [
+            "pneumococcal",
+            "acquire",
+            "infection",
             "bacterial",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antibiotic"
+            "Antibiotic"
       ],
       "criteria": [
             "specific",
@@ -79,12 +82,25 @@
             "count",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035269.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacia"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "bacterial",
+            "infection",
+            "infection",
+            "pneumococcal",
+            "agent",
+            "antitubercular"
+      ],
+      "id": "NCT00035269"
 }

@@ -85,15 +85,14 @@
             "repeat",
             "administration"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "XL647"
+      ],
       "description": [
-            "administer",
             "orally",
             "solution",
             "dose",
@@ -365,12 +364,16 @@
             "virus",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086528.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "solid",
+            "tumor"
+      ],
+      "id": "NCT00086528"
 }

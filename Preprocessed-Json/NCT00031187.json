@@ -187,15 +187,15 @@
             "instrument"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "taxotere",
-            "docetaxel"
+            "SGN-15 (cBR96-doxorubicin immunoconjugate)",
+            "Taxotere (docetaxel)"
       ],
       "criteria": [
             "brief",
@@ -235,14 +235,21 @@
             "tumor",
             "specimen"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031187.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antineoplastic",
+            "agent"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal",
+            "doxorubicin"
+      ],
+      "id": "NCT00031187"
 }

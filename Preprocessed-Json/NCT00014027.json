@@ -286,15 +286,14 @@
             "aggressive",
             "population"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "eicosapentaenoic",
-            "acid"
+            "Docosahexaenoic acid (DHA)",
+            "Eicosapentaenoic acid"
       ],
       "criteria": [
             "inclusion",
@@ -501,12 +500,15 @@
             "fish",
             "seafood"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mri"
+      ],
+      "id": "NCT00014027"
 }

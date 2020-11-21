@@ -291,7 +291,8 @@
             "surgery"
       ],
       "condition": [
-            "brain",
+            "neoplasm",
+            "cancer",
             "tumor",
             "primary"
       ],
@@ -420,12 +421,18 @@
             "contrast",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001574.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "scan"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001574"
 }

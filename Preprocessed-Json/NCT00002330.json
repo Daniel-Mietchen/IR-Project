@@ -73,14 +73,14 @@
             "maintenance"
       ],
       "condition": [
-            "hiv",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -229,12 +229,22 @@
             "oral",
             "ganciclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002330.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00002330"
 }

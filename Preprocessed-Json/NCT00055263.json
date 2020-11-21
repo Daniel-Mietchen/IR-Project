@@ -123,13 +123,13 @@
             "kind",
             "cancer"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "DN-101"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -304,12 +304,19 @@
             "relate",
             "compound"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055263.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "solid",
+            "tumor",
+            "malignancy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00055263"
 }

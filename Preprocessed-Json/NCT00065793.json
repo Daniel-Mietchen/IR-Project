@@ -233,7 +233,11 @@
             "medicine"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
+            "mellitus",
             "mellitus",
             "dependent"
       ],
@@ -247,9 +251,21 @@
             "coronary",
             "event"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065793.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00065793"
 }

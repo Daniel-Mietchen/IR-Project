@@ -233,28 +233,38 @@
             "entry"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "trastuzumab",
+            "gefitinib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
+            "gefitinib",
+            "trastuzumab",
+            "gefitinib",
             "trastuzumab",
             "gefitinib"
       ],
       "other_name": [
-            "zd",
             "1839"
       ],
       "criteria": [
@@ -557,12 +567,17 @@
             "bone",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024154.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00024154"
 }

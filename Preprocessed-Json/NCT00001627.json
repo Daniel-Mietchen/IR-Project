@@ -153,7 +153,10 @@
             "condition"
       ],
       "condition": [
-            "myelodysplastic",
+            "anemia",
+            "fanconi",
+            "anemia",
+            "disease",
             "syndrome"
       ],
       "criteria": [
@@ -194,12 +197,24 @@
             "abnormal",
             "mechanism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001627.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "single",
+            "lineage",
+            "cytopenia"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "aplastic",
+            "disease",
+            "anemia",
+            "syndrome"
+      ],
+      "id": "NCT00001627"
 }

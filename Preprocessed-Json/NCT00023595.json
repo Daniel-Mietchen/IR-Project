@@ -576,19 +576,37 @@
             "trial"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
+            "congestive",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "cabg",
-            "plus",
-            "med",
-            "svr"
+            "CABG surgery plus MED",
+            "Active Medication Alone",
+            "CABG plus MED and SVR"
       ],
       "description": [
+            "plus",
+            "standard",
+            "medication",
+            "management",
+            "coronary",
+            "artery",
+            "disease",
+            "medication",
+            "coronary",
+            "artery",
+            "disease",
+            "heart",
+            "failure",
+            "management",
             "experimental",
             "arm",
             "receive",
@@ -624,13 +642,26 @@
             "alone"
       ],
       "arm_group_label": [
-            "cabg",
+            "surgery",
+            "plus",
+            "med",
+            "plus",
+            "med",
+            "svr",
+            "medication",
+            "alone",
+            "med",
+            "surgery",
+            "plus",
+            "med",
+            "plus",
+            "med",
+            "svr",
             "plus",
             "med",
             "svr"
       ],
       "other_name": [
-            "standard",
             "medication",
             "managment",
             "cad",
@@ -725,7 +756,7 @@
             "operative",
             "mortality"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -734,6 +765,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023595.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00023595"
 }

@@ -141,13 +141,17 @@
             "vaccine"
       ],
       "condition": [
-            "neoplasm"
+            "cell",
+            "lymphoma",
+            "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "drug"
+            "Id-KLH Vaccine",
+            "QS-21 (Stimulation-QS-21) Drug"
       ],
       "criteria": [
             "inclusion",
@@ -355,12 +359,21 @@
             "treat",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001572.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunoglobulin",
+            "idiotype"
+      ],
+      "mesh_term": [
+            "follicular",
+            "21",
+            "idiotypes"
+      ],
+      "id": "NCT00001572"
 }

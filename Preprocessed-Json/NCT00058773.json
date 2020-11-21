@@ -271,25 +271,21 @@
             "test"
       ],
       "condition": [
+            "disease",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infusion",
-            "ebv",
-            "specific",
-            "cytotoxic"
+            "Infusion of EBV Specific Cytotoxic T-Lymphocytes"
       ],
       "description": [
-            "ebv",
             "specific",
             "cytotoxic",
             "give",
             "intravenous",
             "injection",
-            "minute",
             "patient",
             "receive",
             "two",
@@ -299,7 +295,6 @@
             "apart"
       ],
       "arm_group_label": [
-            "ctl",
             "administration"
       ],
       "criteria": [
@@ -450,9 +445,17 @@
             "use",
             "condom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "marrow",
+            "transplant"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00058773"
 }

@@ -235,20 +235,42 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "clinical",
-            "observation"
+            "calcitriol",
+            "dexamethasone",
+            "clinical observation"
       ],
       "description": [
+            "orally",
+            "orally",
             "intervention",
             "surgery"
       ],
       "arm_group_label": [
-            "stage",
+            "1",
+            "arm",
+            "2",
+            "arm",
+            "2",
+            "arm",
+            "iii",
+            "1",
+            "arm",
+            "2",
+            "arm",
+            "2",
+            "arm",
+            "ii",
+            "1",
+            "arm",
+            "ii",
             "2",
             "arm",
             "iv"
@@ -362,9 +384,7 @@
             "resection",
             "prostate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -373,6 +393,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084864.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00084864"
 }

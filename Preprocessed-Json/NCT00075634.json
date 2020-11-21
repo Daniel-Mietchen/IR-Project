@@ -156,7 +156,6 @@
             "sc",
             "day",
             "8",
-            "9",
             "treatment",
             "repeat",
             "every",
@@ -212,27 +211,46 @@
             "day"
       ],
       "condition": [
-            "unspecified",
+            "neuroblastoma",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "decitabine",
+            "doxorubicin hydrochloride",
+            "cyclophosphamide",
+            "filgrastim",
+            "pegfilgrastim",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "pfs",
+            "rdf",
+            "sustain",
+            "duration",
             "study"
       ],
       "criteria": [
@@ -591,7 +609,7 @@
             "anemia",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -600,6 +618,9 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075634.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00075634"
 }

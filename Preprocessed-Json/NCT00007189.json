@@ -167,15 +167,15 @@
             "year"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib",
-            "celebrex"
+            "Naproxen Sodium (Aleve)",
+            "Celecoxib (Celebrex)"
       ],
       "criteria": [
             "inclusion",
@@ -293,12 +293,19 @@
             "abuse",
             "dependence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "70",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007189.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "drug"
+      ],
+      "mesh_term": [
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00007189"
 }

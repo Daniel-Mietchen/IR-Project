@@ -129,16 +129,17 @@
             "progression"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
-      "arm_group_label": [
-            "vaccine"
+      "intervention_name": [
+            "MUC-2-Globo H-KLH conjugate vaccine",
+            "QS21"
       ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -375,14 +376,21 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036933.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "21"
+      ],
+      "id": "NCT00036933"
 }

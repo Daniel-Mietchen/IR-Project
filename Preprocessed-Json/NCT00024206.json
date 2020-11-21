@@ -133,28 +133,34 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "orantinib",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "orantinib",
+            "orantinib",
             "orantinib"
       ],
       "other_name": [
-            "pharmacological",
+            "68",
             "study"
       ],
       "criteria": [
@@ -373,12 +379,13 @@
             "anticancer",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024206.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00024206"
 }

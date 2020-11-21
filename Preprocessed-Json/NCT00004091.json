@@ -109,17 +109,21 @@
             "month"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "Papanicolaou test",
+            "cytology specimen collection procedure",
+            "fluorescent antibody technique",
+            "colposcopic biopsy",
+            "study of high risk factors"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -197,11 +201,17 @@
             "total",
             "hysterectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004091.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00004091"
 }

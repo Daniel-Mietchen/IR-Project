@@ -206,7 +206,6 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -272,14 +271,20 @@
             "hiv",
             "infection"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046436.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "disease",
+            "transmission",
+            "vertical"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00046436"
 }

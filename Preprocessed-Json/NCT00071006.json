@@ -35,17 +35,18 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloid",
+            "leukemia",
+            "aml",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "axitinib"
+            "AG-013736 (Axitinib)"
       ],
       "description": [
-            "patient",
             "treat",
             "axitinib",
             "start",
@@ -57,7 +58,6 @@
             "dose"
       ],
       "arm_group_label": [
-            "single",
             "arm",
             "study"
       ],
@@ -135,12 +135,18 @@
             "patient",
             "risk"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071006.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00071006"
 }

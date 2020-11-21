@@ -336,20 +336,45 @@
             "delirium"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "accident"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "restrictive",
-            "symptomatic",
-            "transfusion",
-            "strategy"
+            "Liberal (10 g/dL) Transfusion Strategy",
+            "Restrictive (Symptomatic) Transfusion Strategy"
       ],
       "description": [
             "transfusion",
+            "strategy",
+            "maintain",
+            "postoperative",
+            "hgb",
+            "level",
+            "10",
+            "threshold",
+            "strategy",
+            "use",
+            "enough",
+            "red",
+            "blood",
+            "cell",
+            "unit",
+            "maintain",
+            "hgb",
+            "level",
+            "10",
+            "hospital",
+            "discharge",
+            "30",
+            "day",
+            "randomization",
             "withhold",
             "patient",
             "develop",
@@ -382,7 +407,9 @@
             "8"
       ],
       "arm_group_label": [
-            "2"
+            "10",
+            "transfusion",
+            "strategy"
       ],
       "criteria": [
             "inclusion",
@@ -473,12 +500,22 @@
             "time",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071032.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "blood",
+            "transfusion"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease"
+      ],
+      "id": "NCT00071032"
 }

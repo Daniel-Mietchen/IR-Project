@@ -232,20 +232,35 @@
             "year"
       ],
       "condition": [
-            "pancreatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "indium In 111 monoclonal antibody MN-14",
+            "yttrium Y 90 monoclonal antibody MN-14"
       ],
       "description": [
-            "intravenous",
+            "prescribe",
+            "physician",
+            "week",
+            "treatment",
+            "week",
+            "treatment",
+            "infusion",
+            "30",
+            "min",
+            "single",
+            "dose",
             "infusion",
             "30",
             "min",
@@ -447,7 +462,7 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -456,6 +471,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00004087"
 }

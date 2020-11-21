@@ -132,18 +132,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "dendritic",
-            "cell",
-            "pulse",
-            "hiv",
-            "antigen"
+            "Dendritic Cells Pulsed with HIV antigens"
       ],
       "criteria": [
             "inclusion",
@@ -193,7 +188,6 @@
             "particular",
             "blood",
             "type",
-            "0201",
             "acceptable",
             "method",
             "contraception",
@@ -305,7 +299,7 @@
             "streptomycin",
             "amikacin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -314,6 +308,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058734.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "treatment",
+            "interruption"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00058734"
 }

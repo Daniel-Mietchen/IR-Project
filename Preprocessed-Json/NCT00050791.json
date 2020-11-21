@@ -296,23 +296,30 @@
             "weight",
             "loss"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "low",
-            "calorie",
-            "diet"
+            "Leptin",
+            "Very Low Calorie Diet"
       ],
       "description": [
-            "placebo",
+            "adipocyte",
+            "hormone",
+            "function",
+            "afferent",
+            "signal",
+            "feedback",
+            "loop",
+            "regulate",
+            "body",
+            "weight",
             "injection"
       ],
       "arm_group_label": [
-            "placebo"
+            "leptin"
       ],
       "other_name": [
             "human",
@@ -451,9 +458,7 @@
             "positive",
             "subject"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "20",
             "year"
@@ -462,6 +467,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050791.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "fat"
+      ],
+      "id": "NCT00050791"
 }

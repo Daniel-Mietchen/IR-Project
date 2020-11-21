@@ -44,15 +44,16 @@
             "alone"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluoxetine"
+            "Olanzapine",
+            "Fluoxetine"
       ],
       "criteria": [
             "inclusion",
@@ -240,7 +241,7 @@
             "count",
             "500"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -249,6 +250,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035321.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "disorder"
+      ],
+      "id": "NCT00035321"
 }

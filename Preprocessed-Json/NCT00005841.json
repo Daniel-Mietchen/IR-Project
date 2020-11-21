@@ -198,11 +198,18 @@
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "MART-1 antigen",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "progenipoietin",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -415,12 +422,21 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005841.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00005841"
 }

@@ -253,15 +253,15 @@
             "disease"
       ],
       "condition": [
-            "myocardial",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nh",
-            "3"
+            "FDG",
+            "NH(3)"
       ],
       "criteria": [
             "male",
@@ -368,9 +368,19 @@
             "neural",
             "stimulator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001895.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "magnetic",
+            "resonance",
+            "image"
+      ],
+      "mesh_term": [
+            "ischemia",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00001895"
 }

@@ -48,17 +48,24 @@
             "nsclc"
       ],
       "condition": [
-            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Chemotherapy",
+            "tariquidar + paclitaxel/carboplatin",
+            "placebo + paclitaxel/carboplatin"
       ],
       "criteria": [
             "inclusion",
@@ -292,12 +299,17 @@
             "vitamin",
             "e"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042302.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00042302"
 }

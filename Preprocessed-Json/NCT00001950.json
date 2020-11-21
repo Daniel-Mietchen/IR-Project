@@ -261,7 +261,7 @@
             "set"
       ],
       "condition": [
-            "healthy"
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -286,7 +286,7 @@
             "neurological",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -295,6 +295,12 @@
             "3",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001950.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "perception"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001950"
 }

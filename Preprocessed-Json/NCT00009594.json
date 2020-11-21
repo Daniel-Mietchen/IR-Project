@@ -198,17 +198,16 @@
             "summary"
       ],
       "condition": [
-            "temporomandibular",
             "joint",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "traditional",
-            "chinese",
-            "medicine"
+            "Naturopathic Medicine",
+            "Traditional Chinese Medicine"
       ],
       "criteria": [
             "patient",
@@ -221,9 +220,7 @@
             "include",
             "tmd"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "25",
             "year"
@@ -232,6 +229,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009594.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "joint",
+            "disorder",
+            "joint",
+            "dysfunction",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00009594"
 }

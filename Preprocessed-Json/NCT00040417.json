@@ -169,14 +169,22 @@
             "sickle"
       ],
       "condition": [
-            "thalassemia"
+            "cell",
+            "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stimulate",
-            "factor"
+            "FLUDARABINE",
+            "CAMPATH-IH",
+            "Total Body Irradiation",
+            "FK506",
+            "G-SCF (Granulocyte-colony stimulating factor)"
       ],
       "criteria": [
             "inclusion",
@@ -328,12 +336,16 @@
             "acceptable",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040417.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00040417"
 }

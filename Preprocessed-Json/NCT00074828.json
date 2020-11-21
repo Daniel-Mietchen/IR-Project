@@ -85,19 +85,20 @@
             "surgery"
       ],
       "condition": [
-            "total",
+            "knee",
+            "replacement",
             "hip",
             "replacement"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "LY517717",
             "enoxaparin"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -186,7 +187,7 @@
             "blood",
             "clot"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -195,6 +196,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074828.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "unilateral"
+      ],
+      "mesh_term": [],
+      "id": "NCT00074828"
 }

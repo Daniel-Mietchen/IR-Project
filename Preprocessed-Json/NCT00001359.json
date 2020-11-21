@@ -399,15 +399,19 @@
             "http"
       ],
       "condition": [
-            "tic",
+            "disorder",
+            "diagnose",
+            "childhood",
+            "compulsive",
+            "disorder",
+            "infection",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "penicillin",
-            "placebo"
+            "Penicillin or Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -511,9 +515,26 @@
             "immunologic",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001359.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "onset",
+            "neuropsychiatric",
+            "disorder"
+      ],
+      "mesh_term": [
+            "personality",
+            "disorder",
+            "disorder",
+            "behavior",
+            "disorder",
+            "disorder",
+            "disorder",
+            "infection",
+            "disorder"
+      ],
+      "id": "NCT00001359"
 }

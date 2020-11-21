@@ -184,13 +184,23 @@
             "study"
       ],
       "condition": [
-            "hemophilia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Indinavir sulfate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -233,14 +243,20 @@
             "require",
             "18"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002386.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemophilia",
+            "b"
+      ],
+      "mesh_term": [
+            "infection",
+            "viii"
+      ],
+      "id": "NCT00002386"
 }

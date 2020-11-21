@@ -252,20 +252,14 @@
             "form",
             "asthma"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "lp",
-            "endotoxin",
-            "saline",
-            "hdm"
+            "LPS endotoxin, saline, HDM"
       ],
       "description": [
-            "instillation",
             "interventional",
             "product",
             "bronchoscopy",
@@ -275,11 +269,12 @@
             "act",
             "control"
       ],
-      "arm_group_label": [
-            "bronchoscopy"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "house",
+            "lipopolysaccharide",
+            "endotoxin",
+            "lot",
+            "67801",
             "dust",
             "mite",
             "allergen",
@@ -454,7 +449,7 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -463,6 +458,10 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018096.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "lipopolysaccharide"
+      ],
+      "mesh_term": [],
+      "id": "NCT00018096"
 }

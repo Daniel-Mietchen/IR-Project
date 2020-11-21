@@ -232,19 +232,23 @@
             "month"
       ],
       "condition": [
-            "precancerous",
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "ablative",
-            "excisional",
-            "therapy"
+            "imiquimod",
+            "Ablative or excisional therapy"
       ],
       "arm_group_label": [
-            "ablative",
+            "excisional",
+            "therapy",
+            "imiquimod",
+            "excisional",
+            "therapy",
             "excisional",
             "therapy",
             "imiquimod"
@@ -329,14 +333,26 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031759.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "3"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "intraepithelial",
+            "neoplasia",
+            "condition"
+      ],
+      "id": "NCT00031759"
 }

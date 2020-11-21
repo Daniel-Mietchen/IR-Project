@@ -257,27 +257,44 @@
             "year"
       ],
       "condition": [
-            "regional",
+            "neuroblastoma",
+            "neuroblastoma",
             "neuroblastoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "monoclonal antibody Ch14.18",
+            "isotretinoin",
+            "aldesleukin",
             "sargramostim"
       ],
       "description": [
-            "give",
+            "iv",
+            "orally",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "monoclonal",
+            "antibody",
+            "aldesleukin",
+            "monoclonal",
+            "antibody",
+            "aldesleukin",
+            "monoclonal",
+            "antibody",
+            "aldesleukin",
             "monoclonal",
             "antibody",
             "aldesleukin"
       ],
       "other_name": [
-            "prokine"
+            "human"
       ],
       "criteria": [
             "inclusion",
@@ -577,12 +594,15 @@
             "must",
             "meet"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005576.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00005576"
 }

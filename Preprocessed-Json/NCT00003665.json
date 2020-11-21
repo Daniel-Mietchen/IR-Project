@@ -242,18 +242,28 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "dendritic cell-MART-1 peptide vaccine",
+            "gp100 antigen",
+            "therapeutic tumor infiltrating lymphocytes",
+            "tyrosinase peptide"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "ii",
+            "iii",
+            "ii",
+            "iii",
+            "ii",
             "iii"
       ],
       "criteria": [
@@ -344,12 +354,17 @@
             "concurrent",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003665.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003665"
 }

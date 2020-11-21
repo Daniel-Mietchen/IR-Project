@@ -217,15 +217,17 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "bevacizumab",
+            "fluorouracil",
+            "leucovorin calcium"
       ],
       "criteria": [
             "disease",
@@ -548,12 +550,20 @@
             "agent",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066846.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00066846"
 }

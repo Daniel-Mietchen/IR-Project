@@ -332,7 +332,6 @@
             "province"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "study_pop": [],
@@ -344,7 +343,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -353,6 +352,9 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076921.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00076921"
 }

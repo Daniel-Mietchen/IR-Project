@@ -182,17 +182,16 @@
             "feedback"
       ],
       "condition": [
-            "low",
             "back",
             "pain"
       ],
       "intervention_type": [
-            "procedure"
+            "Device",
+            "Procedure"
       ],
       "intervention_name": [
-            "abdominal",
-            "hollow",
-            "exercise"
+            "Visual utrasound feedback",
+            "Abdominal Hollowing Exercise"
       ],
       "criteria": [
             "inclusion",
@@ -200,7 +199,7 @@
             "healthy",
             "volunteer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -209,6 +208,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005771.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "abdominal",
+            "hollow",
+            "exercise"
+      ],
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain"
+      ],
+      "id": "NCT00005771"
 }

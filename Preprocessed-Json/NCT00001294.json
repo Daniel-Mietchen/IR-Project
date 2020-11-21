@@ -224,6 +224,7 @@
             "function"
       ],
       "condition": [
+            "infection",
             "kaposi",
             "sarcoma"
       ],
@@ -250,9 +251,17 @@
             "particular",
             "project"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001294.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "infection",
+            "susceptibility",
+            "kaposi"
+      ],
+      "id": "NCT00001294"
 }

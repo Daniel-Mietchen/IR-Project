@@ -26,17 +26,16 @@
             "disease"
       ],
       "condition": [
-            "dementia",
+            "alzheimer",
+            "disease",
             "alzheimer",
             "type"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rivastigmine",
-            "transdermal",
-            "patch"
+            "rivastigmine transdermal patch"
       ],
       "criteria": [
             "inclusion",
@@ -86,7 +85,7 @@
             "cardiovascular",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -95,6 +94,12 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099242.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dementia"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00099242"
 }

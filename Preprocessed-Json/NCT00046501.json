@@ -41,14 +41,19 @@
             "lispro"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lispro"
+            "Lantus (insulin glargine [rDNA origin] injection)",
+            "Humulin N",
+            "Humulin L",
+            "Lispro"
       ],
       "criteria": [
             "inclusion",
@@ -83,7 +88,7 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -92,6 +97,15 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046501.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "globin",
+            "zinc",
+            "glargine",
+            "isophane",
+            "insulin",
+            "human"
+      ],
+      "id": "NCT00046501"
 }

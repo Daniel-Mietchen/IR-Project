@@ -153,7 +153,11 @@
             "record"
       ],
       "condition": [
-            "carotid",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
+            "infarction",
             "artery",
             "disease"
       ],
@@ -161,14 +165,22 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005356.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "artery",
+            "disease",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00005356"
 }

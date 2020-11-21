@@ -284,7 +284,6 @@
             "counsel"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -303,12 +302,22 @@
             "positive",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001130.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "emergency",
+            "service",
+            "hospital"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001130"
 }

@@ -122,20 +122,21 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "keyhole",
-            "limpet",
-            "hemocyanin"
+            "QS21",
+            "TF(c)-KLH conjugate vaccine",
+            "Thomsen-Friedenreich antigen",
+            "keyhole limpet hemocyanin"
       ],
-      "arm_group_label": [
-            "vaccine"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -315,14 +316,22 @@
             "concurrent",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003819.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "21",
+            "hemocyanin"
+      ],
+      "id": "NCT00003819"
 }

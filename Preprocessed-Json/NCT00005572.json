@@ -240,7 +240,10 @@
             "obtain"
       ],
       "condition": [
-            "hiv",
+            "infection",
+            "retinitis",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "criteria": [
@@ -482,12 +485,23 @@
             "abuse",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005572.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "pneumocystis",
+            "infection",
+            "infection",
+            "retinitis"
+      ],
+      "id": "NCT00005572"
 }

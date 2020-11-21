@@ -205,12 +205,13 @@
             "year"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "assessment"
+            "quality-of-life assessment"
       ],
       "description": [
             "questionnaire",
@@ -219,10 +220,11 @@
             "administer"
       ],
       "arm_group_label": [
-            "gastric",
             "adenocarcinoma"
       ],
       "other_name": [
+            "questionnaire",
+            "administer",
             "questionnaire",
             "administer"
       ],
@@ -396,12 +398,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020826.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00020826"
 }

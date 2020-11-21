@@ -146,21 +146,40 @@
             "year"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
+            "sarcoma",
             "infection"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "incyclinide",
+            "incyclinide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "dose",
+            "give",
+            "orally",
+            "dose",
+            "give",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "high",
+            "dose",
+            "incyclinide",
+            "low",
+            "dose",
+            "incyclinide",
+            "low",
+            "dose",
+            "incyclinide",
             "ii",
             "high",
             "dose",
@@ -471,12 +490,16 @@
             "cardiac",
             "ischemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020683.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00020683"
 }

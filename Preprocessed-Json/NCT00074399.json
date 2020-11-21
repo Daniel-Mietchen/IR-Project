@@ -140,26 +140,32 @@
             "breastfeed"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine",
-            "placebo"
+            "Nevirapine",
+            "Nevirapine placebo"
       ],
       "description": [
-            "placebo",
+            "take",
+            "orally",
+            "daily",
+            "dosage",
+            "depend",
+            "age",
+            "body",
+            "surface",
+            "area",
             "tablet",
             "take",
             "orally",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -238,11 +244,16 @@
             "onset",
             "labor"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074399.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00074399"
 }

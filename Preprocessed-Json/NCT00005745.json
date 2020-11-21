@@ -198,20 +198,25 @@
             "record"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "mellitus",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005745.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005745"
 }

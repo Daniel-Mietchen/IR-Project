@@ -186,14 +186,15 @@
             "take"
       ],
       "condition": [
-            "chronic",
             "granulomatous",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "interferon-gamma"
+      ],
       "criteria": [
             "diagnosis",
             "chronic",
@@ -313,9 +314,18 @@
             "study",
             "admission"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "granulomatous",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "chronic"
+      ],
+      "id": "NCT00001317"
 }

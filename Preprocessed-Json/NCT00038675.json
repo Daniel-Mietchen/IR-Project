@@ -260,18 +260,20 @@
             "anderson"
       ],
       "condition": [
-            "mastocytosis"
+            "myelomonocytic",
+            "leukemia",
+            "myeloid",
+            "leukemia",
+            "vera",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate",
-            "gleevec"
+            "Imatinib Mesylate (Gleevec)"
       ],
       "description": [
-            "imatinib",
             "mesylate",
             "400",
             "mg",
@@ -287,12 +289,8 @@
             "orally",
             "daily"
       ],
-      "arm_group_label": [
-            "imatinib"
-      ],
-      "other_name": [
-            "gleevec"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -411,9 +409,25 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gleevec"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myelomonocytic",
+            "acute",
+            "myelomonocytic",
+            "chronic",
+            "vera",
+            "syndrome",
+            "mesylate"
+      ],
+      "id": "NCT00038675"
 }

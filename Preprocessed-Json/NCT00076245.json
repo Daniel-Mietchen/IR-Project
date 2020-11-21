@@ -123,19 +123,25 @@
             "survey"
       ],
       "condition": [
-            "depression"
+            "affective",
+            "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavioral",
-            "therapy",
-            "cbt"
+            "Light Therapy",
+            "Cognitive behavioral therapy (CBT)"
       ],
       "description": [
-            "cbt",
+            "therapy",
+            "involve",
+            "exposure",
+            "bright",
+            "light",
+            "twice",
+            "day",
             "attempt",
             "change",
             "maladaptive",
@@ -146,7 +152,17 @@
             "week"
       ],
       "arm_group_label": [
-            "3",
+            "light",
+            "therapy",
+            "light",
+            "therapy",
+            "plus",
+            "cognitive",
+            "behavioral",
+            "therapy",
+            "cognitive",
+            "behavioral",
+            "therapy",
             "light",
             "therapy",
             "plus",
@@ -178,12 +194,21 @@
             "psychiatric",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076245.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phototherapy"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "affective",
+            "disorder"
+      ],
+      "id": "NCT00076245"
 }

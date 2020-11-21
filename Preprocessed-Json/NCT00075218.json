@@ -30,16 +30,33 @@
             "treatment"
       ],
       "condition": [
-            "gastrointestinal",
             "stromal",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Placebo",
+            "SU011248"
+      ],
       "description": [
-            "50",
+            "mg",
+            "take",
+            "orally",
+            "day",
+            "6",
+            "week",
+            "treatment",
+            "cycle",
+            "schedule",
+            "4",
+            "week",
+            "study",
+            "week",
+            "study",
+            "drug",
             "mg",
             "take",
             "orally",
@@ -93,12 +110,16 @@
             "dose",
             "gleevec"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075218.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor"
+      ],
+      "id": "NCT00075218"
 }

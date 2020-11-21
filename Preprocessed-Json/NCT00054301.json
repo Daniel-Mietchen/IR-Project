@@ -134,19 +134,23 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "intraoperative",
-            "radiation",
-            "therapy"
+            "adjuvant therapy",
+            "conventional surgery",
+            "intraoperative radiation therapy"
       ],
       "description": [
-            "patient",
+            "undergo",
+            "excisional",
+            "biopsy",
+            "surgery",
             "undergo",
             "excisional",
             "biopsy",
@@ -277,14 +281,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054301.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer",
+            "situ"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "situ"
+      ],
+      "id": "NCT00054301"
 }

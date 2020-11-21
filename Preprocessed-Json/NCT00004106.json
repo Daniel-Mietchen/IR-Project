@@ -105,17 +105,14 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temozolomide"
       ],
       "description": [
-            "temozolomid",
             "administer",
             "orally",
             "dose",
@@ -334,12 +331,21 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004106.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "fungoides",
+            "syndrome"
+      ],
+      "id": "NCT00004106"
 }

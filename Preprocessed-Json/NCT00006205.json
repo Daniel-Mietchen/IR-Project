@@ -105,31 +105,31 @@
             "thorough",
             "screen"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ondansetron",
-            "topiramate",
-            "cognitive",
-            "behavioral",
-            "therapy"
+            "ondansetron + cognitive behavioral therapy",
+            "topiramate + cognitive behavioral therapy",
+            "Placebo + cognitive behavioral therapy",
+            "ondansetron + topiramate + cognitive behavioral therapy"
       ],
       "description": [
-            "ondansetron",
+            "4",
+            "300",
             "4",
             "topiramate",
             "300"
       ],
       "arm_group_label": [
-            "ondansetron",
             "topiramate"
       ],
       "other_name": [
-            "zofran",
+            "pill",
             "topamax"
       ],
       "criteria": [
@@ -205,12 +205,17 @@
             "additional",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006205.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alcohol",
+            "addiction"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006205"
 }

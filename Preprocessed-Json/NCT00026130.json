@@ -161,17 +161,45 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "gemcitabine hydrochloride",
+            "radiation therapy"
       ],
       "description": [
+            "civi",
+            "day",
+            "radiation",
+            "therapy",
+            "wks",
+            "iv",
+            "infusion",
+            "30",
+            "min",
+            "wkly",
+            "1",
+            "2",
+            "3",
+            "radiation",
+            "tx",
+            "wks",
+            "iv",
+            "infusion",
+            "30",
+            "min",
+            "wkly",
+            "3",
+            "week",
+            "ea",
+            "chemotherapy",
+            "cycle",
             "total",
             "25",
             "fraction",
@@ -185,7 +213,8 @@
             "wks"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "xrt",
+            "xrt",
             "xrt"
       ],
       "other_name": [],
@@ -341,12 +370,19 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026130.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00026130"
 }

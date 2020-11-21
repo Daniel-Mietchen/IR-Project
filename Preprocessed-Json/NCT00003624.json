@@ -168,12 +168,23 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "cancer",
+            "tube",
+            "cancer",
+            "cancer",
+            "peritoneal",
+            "cavity",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amifostine trihydrate",
+            "cisplatin",
             "paclitaxel"
       ],
       "criteria": [
@@ -304,11 +315,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003624.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurotoxicity"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "syndrome",
+            "paclitaxel"
+      ],
+      "id": "NCT00003624"
 }

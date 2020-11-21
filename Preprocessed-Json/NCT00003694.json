@@ -222,30 +222,41 @@
             "year"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive",
             "phase",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "omacetaxine mepesuccinate",
+            "cytarabine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "omacetaxine",
+            "mepesuccinate",
+            "cytarabine",
+            "omacetaxine",
+            "mepesuccinate",
+            "cytarabine",
             "omacetaxine",
             "mepesuccinate",
             "cytarabine"
       ],
       "other_name": [
-            "cytosine",
             "arabinoside"
       ],
       "criteria": [
@@ -376,12 +387,19 @@
             "normal",
             "creatinine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003694.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid"
+      ],
+      "id": "NCT00003694"
 }

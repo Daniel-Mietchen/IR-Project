@@ -230,7 +230,6 @@
             "separately"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "study_pop": [],
@@ -327,7 +326,7 @@
             "10",
             "prisoner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -336,6 +335,9 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014820.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00014820"
 }

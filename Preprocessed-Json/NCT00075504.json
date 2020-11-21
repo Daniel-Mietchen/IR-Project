@@ -152,27 +152,40 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "ii",
+            "gallbladder",
+            "cancer",
+            "iiia",
+            "gallbladder",
+            "cancer",
+            "iiib",
+            "gallbladder",
+            "cancer",
+            "iva",
+            "gallbladder",
+            "cancer",
             "ivb",
             "gallbladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine"
-      ],
-      "description": [
-            "give",
-            "iv"
-      ],
-      "arm_group_label": [
             "triapine",
             "gemcitabine"
       ],
+      "description": [
+            "iv",
+            "iv"
+      ],
+      "arm_group_label": [
+            "gemcitabine",
+            "gemcitabine"
+      ],
       "other_name": [
-            "gemzar"
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -335,12 +348,15 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075504.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00075504"
 }

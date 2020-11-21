@@ -206,18 +206,13 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "methoxy",
-            "polyethylene",
-            "glycol",
-            "epoetin",
-            "beta"
+            "methoxy polyethylene glycol epoetin beta"
       ],
       "criteria": [
             "disease",
@@ -283,7 +278,6 @@
             "count",
             "functional",
             "iron",
-            "deficiency",
             "transferrin",
             "saturation",
             "le",
@@ -295,7 +289,6 @@
             "know",
             "hemolysis",
             "note",
-            "concurrent",
             "iron",
             "supplementation",
             "correct",
@@ -430,12 +423,23 @@
             "drug",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072059.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "agent"
+      ],
+      "id": "NCT00072059"
 }

@@ -85,11 +85,10 @@
             "progression"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "calcifidiol"
@@ -130,11 +129,13 @@
             "evidence",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018538.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "recurrence"
+      ],
+      "id": "NCT00018538"
 }

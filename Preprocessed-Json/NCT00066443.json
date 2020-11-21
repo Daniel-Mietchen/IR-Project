@@ -295,18 +295,34 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epirubicin",
-            "hydrochloride"
+            "pegfilgrastim",
+            "docetaxel",
+            "epirubicin hydrochloride"
       ],
       "description": [
+            "escalation",
+            "schedule",
+            "b",
+            "fix",
             "dose",
+            "per",
+            "cycle",
+            "day",
+            "2",
+            "escalation",
+            "schedule",
+            "dose",
+            "escalation",
+            "schedule",
+            "b",
             "escalation",
             "schedule",
             "iv",
@@ -317,7 +333,10 @@
             "iv"
       ],
       "arm_group_label": [
-            "pegfilgrastim",
+            "docetaxel",
+            "epirubicin",
+            "docetaxel",
+            "epirubicin",
             "docetaxel",
             "epirubicin"
       ],
@@ -565,14 +584,22 @@
             "iv",
             "antibiotic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066443.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "breast",
+            "neoplasm"
+      ],
+      "id": "NCT00066443"
 }

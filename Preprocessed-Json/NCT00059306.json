@@ -225,18 +225,85 @@
             "cognition"
       ],
       "condition": [
-            "hypertension"
+            "accident"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
+            "aspirin",
+            "clopidogrel",
+            "Target of Blood Pressure",
             "placebo"
       ],
       "description": [
+            "receive",
+            "aspirin",
+            "placebo",
+            "specifically",
+            "aspirin",
+            "325",
+            "mg",
+            "placebo",
+            "inactive",
+            "substance",
+            "participant",
+            "take",
+            "1",
+            "pill",
+            "day",
+            "end",
+            "study",
+            "receive",
+            "aspirin",
+            "clopidogrel",
+            "specifically",
+            "aspirin",
+            "325",
+            "mg",
+            "clopidogrel",
+            "75",
+            "mg",
+            "participant",
+            "take",
+            "1",
+            "pill",
+            "day",
+            "end",
+            "study",
+            "assign",
+            "one",
+            "2",
+            "group",
+            "blood",
+            "pressure",
+            "control",
+            "difference",
+            "two",
+            "group",
+            "target",
+            "level",
+            "systolic",
+            "blood",
+            "mmhg",
+            "130",
+            "mmhg",
+            "scientist",
+            "use",
+            "medication",
+            "already",
+            "market",
+            "blood",
+            "pressure",
+            "management",
             "inactive",
             "substance"
       ],
       "arm_group_label": [
-            "antiplatelet"
+            "pressure"
       ],
       "criteria": [
             "inclusion",
@@ -489,12 +556,16 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059306.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clopidogrel"
+      ],
+      "mesh_term": [],
+      "id": "NCT00059306"
 }

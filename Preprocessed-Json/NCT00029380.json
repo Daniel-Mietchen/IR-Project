@@ -210,18 +210,28 @@
             "enrollment"
       ],
       "condition": [
-            "hematopoietic",
+            "disease",
+            "sickle",
+            "cell",
             "stem",
             "cell",
             "transplantation"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "cord",
-            "blood",
-            "transplantation"
+            "Sangstat",
+            "Cyclophosphamide",
+            "Busulfan",
+            "Mycophenolate Mofetil",
+            "Cyclosporine",
+            "Cord Blood Transplantation"
       ],
       "criteria": [
             "inclusion",
@@ -546,7 +556,7 @@
             "room",
             "air"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -555,6 +565,13 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029380.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "sickle",
+            "cell",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00029380"
 }

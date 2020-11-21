@@ -517,17 +517,23 @@
             "alone"
       ],
       "condition": [
-            "hepatitis"
+            "hepatitis",
+            "b",
+            "virus",
+            "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "alone"
+            "Lamivudine and adefovir",
+            "Adefovir alone"
       ],
       "description": [
+            "100",
             "adefovir",
+            "10",
             "10"
       ],
       "arm_group_label": [
@@ -876,12 +882,22 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023309.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver"
+      ],
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic",
+            "dipivoxil"
+      ],
+      "id": "NCT00023309"
 }

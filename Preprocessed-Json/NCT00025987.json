@@ -199,15 +199,14 @@
             "patient",
             "epilepsy"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "thermometer",
-            "pill"
+            "Head and Neck Cooling System",
+            "Thermometer Pill"
       ],
       "criteria": [
             "inclusion",
@@ -271,9 +270,12 @@
             "reflex",
             "impair"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025987.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "id": "NCT00025987"
 }

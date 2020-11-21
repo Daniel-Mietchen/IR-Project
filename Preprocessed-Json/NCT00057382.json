@@ -33,15 +33,15 @@
             "study"
       ],
       "condition": [
-            "hepatocellular",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "intravenous"
+            "T138067 intravenous",
+            "doxorubicin intravenous"
       ],
       "criteria": [
             "key",
@@ -222,12 +222,20 @@
             "study",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057382.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "cancer"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "doxorubicin"
+      ],
+      "id": "NCT00057382"
 }

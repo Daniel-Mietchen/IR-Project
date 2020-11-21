@@ -180,15 +180,27 @@
             "study"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "recombinant interferon gamma",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
+            "mitomycin C",
+            "conventional surgery",
+            "hyperthermia treatment",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -369,12 +381,21 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024271.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00024271"
 }

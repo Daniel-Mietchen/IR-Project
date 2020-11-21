@@ -70,22 +70,23 @@
             "placebo"
       ],
       "condition": [
-            "postmenopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Placebo",
             "ibandronate"
       ],
       "description": [
-            "50",
             "mg",
             "tablet"
       ],
       "arm_group_label": [
-            "ibandronate",
+            "100",
+            "mg",
             "150",
             "mg"
       ],
@@ -276,14 +277,19 @@
             "heparin",
             "lithium"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092053.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteoporosis"
+      ],
+      "mesh_term": [
+            "postmenopausal",
+            "acid"
+      ],
+      "id": "NCT00092053"
 }

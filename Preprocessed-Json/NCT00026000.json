@@ -276,7 +276,11 @@
             "tic"
       ],
       "condition": [
-            "chronic",
+            "tourette",
+            "syndrome",
+            "motor",
+            "tic",
+            "disorder",
             "motor",
             "vocal",
             "disorder"
@@ -424,9 +428,18 @@
             "consent",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026000.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00026000"
 }

@@ -174,15 +174,38 @@
             "patient",
             "respond"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "leucovorin calcium",
+            "mesna",
+            "methotrexate",
+            "therapeutic hydrocortisone",
+            "vincristine sulfate",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -297,7 +320,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -306,6 +329,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002865.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "succinate",
+            "acetate",
+            "doxorubicin"
+      ],
+      "id": "NCT00002865"
 }

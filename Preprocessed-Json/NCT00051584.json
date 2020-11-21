@@ -54,15 +54,15 @@
             "alone"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemzar",
-            "gemcitabine"
+            "SGN-15 (cBR96-Doxorubicin Immunoconjugate)",
+            "Gemzar (Gemcitabine)"
       ],
       "criteria": [
             "brief",
@@ -139,14 +139,17 @@
             "one",
             "regimen"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051584.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "monoclonal"
+      ],
+      "id": "NCT00051584"
 }

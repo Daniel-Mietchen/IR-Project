@@ -22,22 +22,39 @@
             "chemotherapy"
       ],
       "condition": [
-            "hodgkin",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dtic"
+            "Filgrastim SD/01",
+            "Adriamycin",
+            "Bleomycin",
+            "Vinblastine",
+            "DTIC"
       ],
       "arm_group_label": [
-            "filgrastim",
+            "abvd",
+            "chemotherapy",
+            "abvd",
+            "chemotherapy",
+            "abvd",
+            "chemotherapy",
+            "abvd",
+            "chemotherapy",
             "abvd",
             "chemotherapy"
       ],
       "other_name": [
-            "dacarbazine"
+            "hydrochloride",
+            "pfs",
+            "rdf",
+            "sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -105,12 +122,20 @@
             "derive",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038558.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "granulocyte",
+            "factor"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00038558"
 }

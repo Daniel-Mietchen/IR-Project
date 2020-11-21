@@ -70,16 +70,29 @@
             "cbt"
       ],
       "condition": [
-            "suicide",
             "attempt"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavioral",
-            "therapy"
+            "fluoxetine",
+            "sertraline",
+            "citalopram",
+            "escitalopram",
+            "bupropion",
+            "mirtazapine",
+            "venlafaxine",
+            "lithium",
+            "Cognitive Behavioral Therapy"
       ],
       "criteria": [
             "inclusion",
@@ -110,7 +123,7 @@
             "legal",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -119,6 +132,13 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080158.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adolescent"
+      ],
+      "mesh_term": [
+            "attempt",
+            "hydrochloride"
+      ],
+      "id": "NCT00080158"
 }

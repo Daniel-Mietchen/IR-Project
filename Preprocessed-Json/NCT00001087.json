@@ -675,14 +675,33 @@
             "treatment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Efavirenz",
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Saquinavir",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -976,12 +995,19 @@
             "primary",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00001087"
 }

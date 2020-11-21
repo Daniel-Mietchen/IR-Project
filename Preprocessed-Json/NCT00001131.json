@@ -195,17 +195,26 @@
             "discontinue"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "haart"
+            "Aldesleukin",
+            "HAART"
       ],
       "description": [
-            "current",
+            "injection",
+            "amount",
+            "x",
+            "miu",
+            "per",
+            "day",
+            "entire",
+            "duration",
+            "therapy",
             "haart",
             "regimen",
             "continue",
@@ -217,12 +226,8 @@
             "study",
             "meet"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "chiron"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -253,9 +258,16 @@
             "immune",
             "system"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001131.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001131"
 }

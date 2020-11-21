@@ -202,14 +202,12 @@
             "plus",
             "2",
             "new",
-            "nrti",
             "arm",
             "b",
             "ftv",
             "plus",
             "2",
             "new",
-            "nrti",
             "arm",
             "c",
             "ftv",
@@ -217,7 +215,6 @@
             "nelfinavir",
             "plus",
             "new",
-            "nrti",
             "naive",
             "patient",
             "arm",
@@ -270,14 +267,25 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Saquinavir",
+            "Delavirdine mesylate",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -411,12 +419,18 @@
             "per",
             "amendment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002378.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002378"
 }

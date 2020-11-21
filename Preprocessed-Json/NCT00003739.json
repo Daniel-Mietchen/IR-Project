@@ -146,7 +146,9 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "sweat",
+            "hot",
+            "flash",
             "childhood",
             "solid",
             "tumor",
@@ -154,7 +156,7 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "filgrastim"
@@ -267,12 +269,22 @@
             "iv",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003739.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neutropenia"
+      ],
+      "mesh_term": [
+            "flash",
+            "febrile",
+            "neutropenia",
+            "agent",
+            "antitubercular"
+      ],
+      "id": "NCT00003739"
 }

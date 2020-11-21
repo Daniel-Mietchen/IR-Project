@@ -32,9 +32,11 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABT-089"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -87,7 +89,7 @@
             "home",
             "resident"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -96,6 +98,9 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069849.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00069849"
 }

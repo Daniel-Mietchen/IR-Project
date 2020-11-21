@@ -119,11 +119,11 @@
             "cervix"
       ],
       "condition": [
-            "vaginal",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
@@ -259,11 +259,19 @@
             "surgery",
             "require"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002562.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002562"
 }

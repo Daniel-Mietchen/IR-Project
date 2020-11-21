@@ -59,9 +59,7 @@
             "randomize",
             "fashion"
       ],
-      "condition": [
-            "psoriasis"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "must",
@@ -199,9 +197,13 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001371.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psoriasis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001371"
 }

@@ -382,14 +382,23 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "FOLFOX regimen",
+            "capecitabine",
+            "fluorouracil",
+            "leucovorin calcium",
+            "oxaliplatin",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -586,9 +595,17 @@
             "brivudine",
             "sorivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070213.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00070213"
 }

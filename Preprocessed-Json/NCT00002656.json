@@ -99,17 +99,15 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pyrazoloacridine"
       ],
       "description": [
-            "pyrazoloacridine",
             "750",
             "3",
             "hour",
@@ -121,8 +119,6 @@
             "progressive",
             "disease",
             "prohibitive",
-            "toxicity",
-            "depend",
             "prior",
             "cycle",
             "toxicity",
@@ -142,9 +138,7 @@
             "0",
             "level"
       ],
-      "arm_group_label": [
-            "pyrazoloacridine"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -268,12 +262,24 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002656.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "366140"
+      ],
+      "id": "NCT00002656"
 }

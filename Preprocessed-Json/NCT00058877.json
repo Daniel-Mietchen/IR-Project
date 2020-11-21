@@ -85,7 +85,8 @@
             "stage"
       ],
       "condition": [
-            "esophageal",
+            "barrett",
+            "esophagus",
             "neoplasm"
       ],
       "criteria": [
@@ -154,9 +155,16 @@
             "esophageal",
             "adenocarcinoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058877.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "esophagus"
+      ],
+      "mesh_term": [
+            "esophagus",
+            "neoplasm"
+      ],
+      "id": "NCT00058877"
 }

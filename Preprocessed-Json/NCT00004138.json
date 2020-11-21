@@ -130,18 +130,23 @@
             "surgery"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "fludeoxyglucose",
-            "f",
-            "18"
+            "positron emission tomography",
+            "radionuclide imaging",
+            "fludeoxyglucose F 18"
       ],
       "arm_group_label": [
+            "scan",
+            "surgery",
+            "scan",
+            "surgery",
             "scan",
             "surgery"
       ],
@@ -447,12 +452,22 @@
             "pet",
             "scan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00004138"
 }

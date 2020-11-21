@@ -371,17 +371,23 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Avastin",
+            "Rituximab"
       ],
       "description": [
-            "375",
+            "give",
+            "intravenously",
+            "every",
+            "2",
+            "week",
+            "4",
+            "dose",
             "give",
             "intravenously",
             "weekly",
@@ -395,12 +401,10 @@
             "bevacizumab"
       ],
       "arm_group_label": [
-            "avastin",
+            "rituximab",
             "rituximab"
       ],
-      "other_name": [
-            "rituxan"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -701,12 +705,16 @@
             "course",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081861.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rituxan"
+      ],
+      "mesh_term": [],
+      "id": "NCT00081861"
 }

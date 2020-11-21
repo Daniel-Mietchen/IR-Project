@@ -186,7 +186,6 @@
             "subcutaneously",
             "minute",
             "day",
-            "1",
             "treatment",
             "repeat",
             "every",
@@ -222,18 +221,55 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "ditartrate"
+            "therapeutic autologous dendritic cells",
+            "trastuzumab",
+            "vinorelbine ditartrate"
       ],
       "description": [
-            "vinorelbine",
+            "subcutaneously",
+            "sc",
+            "day",
+            "four",
+            "day",
+            "5",
+            "sc",
+            "day",
+            "four",
+            "day",
+            "250",
+            "sc",
+            "day",
+            "four",
+            "day",
+            "csf",
+            "fifth",
+            "day",
+            "patient",
+            "two",
+            "intravenous",
+            "line",
+            "place",
+            "apheresis",
+            "area",
+            "blood",
+            "bank",
+            "undergo",
+            "15",
+            "litre",
+            "apheresis",
+            "collection",
+            "intravenously",
+            "every",
+            "14",
+            "day",
             "25",
             "administer",
             "intravenously",
@@ -242,7 +278,10 @@
             "day"
       ],
       "arm_group_label": [
-            "dendritic",
+            "cell",
+            "vaccine",
+            "cell",
+            "vaccine",
             "cell",
             "vaccine"
       ],
@@ -400,9 +439,7 @@
             "metastasis",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -411,6 +448,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00088985"
 }

@@ -471,17 +471,58 @@
             "clinic"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epirubicin"
+            "Herceptin",
+            "Taxol",
+            "Fluorouracil",
+            "Cytoxan",
+            "Epirubicin"
       ],
       "description": [
-            "75",
+            "dose",
+            "4",
+            "vein",
+            "2",
+            "weekly",
+            "end",
+            "cycle",
+            "chemotherapy",
+            "fec",
+            "therapy",
+            "total",
+            "24",
+            "dose",
+            "vein",
+            "continuous",
+            "infusion",
+            "24",
+            "hour",
+            "cycle",
+            "total",
+            "4",
+            "cycle",
+            "vein",
+            "day",
+            "1",
+            "4",
+            "4",
+            "cycle",
+            "week",
+            "interval",
+            "day",
+            "1",
+            "cycle",
+            "4",
+            "cycle",
             "iv",
             "day",
             "1",
@@ -490,14 +531,23 @@
             "cycle"
       ],
       "arm_group_label": [
-            "herceptin",
+            "taxol",
+            "follow",
+            "fec",
+            "taxol",
+            "follow",
+            "fec",
+            "taxol",
+            "follow",
+            "fec",
+            "taxol",
+            "follow",
+            "fec",
             "taxol",
             "follow",
             "fec"
       ],
-      "other_name": [
-            "neosar"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -698,9 +748,16 @@
             "referral",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038402.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neosar"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00038402"
 }

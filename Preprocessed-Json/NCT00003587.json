@@ -211,17 +211,66 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "cisplatin",
+            "docetaxel",
+            "gemcitabine",
+            "paclitaxel",
             "vinorelbine"
       ],
       "description": [
-            "iv",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "x",
+            "3",
+            "cisplatin",
+            "100",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "x",
+            "3",
+            "docetaxel",
+            "75",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "x",
+            "3",
+            "gemcitabine",
+            "day",
+            "1",
+            "8",
+            "every",
+            "21",
+            "day",
+            "paclitaxel",
+            "225",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "x",
+            "3",
             "vinorelbine",
             "25",
             "day",
@@ -234,9 +283,7 @@
             "3"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "navelbine"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -443,12 +490,21 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003587.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00003587"
 }

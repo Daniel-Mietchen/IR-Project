@@ -113,17 +113,18 @@
             "treatment"
       ],
       "condition": [
+            "disease",
+            "disease",
             "lupus",
+            "erythematosus",
+            "nephritis",
             "glomerulonephritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abetimus",
-            "sodium",
-            "ljp",
-            "394"
+            "Abetimus sodium (LJP 394)"
       ],
       "criteria": [
             "inclusion",
@@ -177,7 +178,7 @@
             "heart",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -186,6 +187,18 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035308.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lupus",
+            "glomerulonephritis"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic",
+            "disease",
+            "nephritis",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00035308"
 }

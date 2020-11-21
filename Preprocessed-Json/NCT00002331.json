@@ -55,14 +55,18 @@
             "sterile"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clofazimine"
+            "Ethambutol hydrochloride",
+            "Clarithromycin",
+            "Clofazimine"
       ],
       "criteria": [
             "inclusion",
@@ -197,12 +201,21 @@
             "2",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002331.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clarithromycin"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002331"
 }

@@ -231,31 +231,97 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Radiation",
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "fludarabine phosphate",
+            "total-body irradiation",
+            "nonmyeloablative allogeneic hematopoietic stem cell transplantation",
+            "cyclosporine",
+            "mycophenolate mofetil",
+            "peripheral blood stem cell transplantation",
+            "therapeutic allogeneic lymphocytes",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "tbi",
+            "nonmyeloablative",
+            "allogeneic",
+            "pbsc",
+            "transplantation",
+            "po",
+            "iv",
+            "po",
+            "iv",
+            "nonmyeloablative",
+            "allogeneic",
+            "pbsc",
+            "transplantation",
+            "dli",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
+            "nonmyeloablative",
+            "donor",
+            "pbsc",
+            "transplantation",
             "nonmyeloablative",
             "donor",
             "pbsc",
             "transplantation"
       ],
       "other_name": [
-            "allolymph"
+            "transplantation",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
+            "transplantation",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell"
       ],
       "criteria": [
             "inclusion",
@@ -550,12 +616,19 @@
             "guideline",
             "institution"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005851.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell",
+            "phosphate",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00005851"
 }

@@ -256,14 +256,16 @@
             "carcinoma"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "neoplasm",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "SU5416 and carboplatin"
       ],
       "criteria": [
             "must",
@@ -647,11 +649,18 @@
             "3",
             "4"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006155.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disease"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006155"
 }

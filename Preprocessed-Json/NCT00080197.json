@@ -32,12 +32,14 @@
             "capecitabine"
       ],
       "condition": [
-            "metastasis"
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "E7070"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -525,14 +527,19 @@
             "patient",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080197.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer",
+            "breast"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080197"
 }

@@ -192,18 +192,19 @@
             "wafer"
       ],
       "condition": [
-            "glioblastoma",
             "multiforme"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery",
-            "wafer",
-            "placement",
-            "1",
-            "procedure"
+            "IL13-PE38QQR",
+            "surgery and catheter placement (2 procedures)",
+            "prolifespan 20 with carmustine implant (GLIADEL\u00ae Wafer)",
+            "surgery and wafer placement (1 procedure)"
       ],
       "criteria": [
             "inclusion",
@@ -472,12 +473,17 @@
             "protocol",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076986.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "supratentorial",
+            "gbm"
+      ],
+      "mesh_term": [],
+      "id": "NCT00076986"
 }

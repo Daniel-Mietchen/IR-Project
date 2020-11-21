@@ -188,31 +188,59 @@
             "survival"
       ],
       "condition": [
-            "stage",
+            "pleural",
+            "effusion",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gemcitabine hydrochloride",
+            "carboplatin",
+            "bortezomib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gemcitabine",
+            "hydrochloride",
+            "carboplatin",
+            "bortezomib",
+            "gemcitabine",
+            "hydrochloride",
+            "carboplatin",
+            "bortezomib",
+            "gemcitabine",
+            "hydrochloride",
+            "carboplatin",
+            "bortezomib",
             "gemcitabine",
             "hydrochloride",
             "carboplatin",
             "bortezomib"
       ],
       "other_name": [
-            "velcade"
+            "hydrochloride",
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -413,12 +441,19 @@
             "treat",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052338.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "effusion",
+            "effusion",
+            "malignant"
+      ],
+      "id": "NCT00052338"
 }

@@ -158,16 +158,20 @@
             "thereafter"
       ],
       "condition": [
-            "granulomatous",
+            "inborn",
+            "error",
             "disease",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mycophenolate",
-            "mofetil"
+            "cyclosporine",
+            "fludarabine",
+            "mycophenolate mofetil"
       ],
       "criteria": [
             "protocol",
@@ -284,12 +288,22 @@
             "follow",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010361.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "inborn",
+            "error",
+            "disease",
+            "chronic",
+            "phosphate",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00010361"
 }

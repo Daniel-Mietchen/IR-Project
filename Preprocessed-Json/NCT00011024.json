@@ -186,16 +186,18 @@
             "palsy"
       ],
       "condition": [
-            "spastic",
             "cerebral",
             "palsy"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "osteopathic",
-            "manipulation"
+            "Self Hypnosis",
+            "Acupuncture",
+            "Osteopathic Manipulation"
       ],
       "criteria": [
             "inclusion",
@@ -232,7 +234,7 @@
             "race",
             "culture"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -241,6 +243,10 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011024.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "palsy",
+            "spasticity"
+      ],
+      "id": "NCT00011024"
 }

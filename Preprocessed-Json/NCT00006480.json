@@ -268,13 +268,17 @@
             "3",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "therapeutic autologous lymphocytes",
+            "chemotherapy",
             "ganciclovir"
       ],
       "criteria": [
@@ -452,7 +456,7 @@
             "virus",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -461,6 +465,11 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006480.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006480"
 }

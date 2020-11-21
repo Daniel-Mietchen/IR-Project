@@ -150,16 +150,16 @@
             "study"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "magnetic",
-            "resonance",
-            "image"
+            "ferumoxytol",
+            "magnetic resonance imaging"
       ],
       "criteria": [
             "disease",
@@ -296,12 +296,22 @@
             "metastatic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087347.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "oxide"
+      ],
+      "id": "NCT00087347"
 }

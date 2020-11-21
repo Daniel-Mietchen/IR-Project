@@ -130,13 +130,20 @@
             "trial"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amphotericin B deoxycholate",
             "nystatin"
       ],
       "criteria": [
@@ -295,12 +302,33 @@
             "amphotericin",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002742.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "b",
+            "amphotericin",
+            "b",
+            "agent",
+            "b",
+            "deoxycholate",
+            "drug",
+            "combination",
+            "acid"
+      ],
+      "id": "NCT00002742"
 }

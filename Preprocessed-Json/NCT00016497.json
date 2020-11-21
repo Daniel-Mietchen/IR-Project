@@ -246,14 +246,17 @@
             "group"
       ],
       "condition": [
-            "otitis",
             "medium",
             "effusion"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "bilateral myringotomy",
+            "bilateral myringotomy and tubes",
             "adenoidectomy"
       ],
       "criteria": [
@@ -283,7 +286,7 @@
             "last",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "24",
             "month"
@@ -292,6 +295,14 @@
             "47",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016497.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenoidectomy"
+      ],
+      "mesh_term": [
+            "medium",
+            "medium",
+            "effusion"
+      ],
+      "id": "NCT00016497"
 }

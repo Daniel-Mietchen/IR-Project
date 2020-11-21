@@ -184,27 +184,68 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "Sargramostim",
+            "cyclophosphamide",
+            "melphalan",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "ablative",
+            "chemo",
+            "follow",
+            "autologous",
+            "bone",
+            "marrow",
+            "abm",
+            "rescue",
+            "chemo",
+            "follow",
+            "autologous",
+            "bone",
+            "marrow",
+            "abm",
+            "rescue",
+            "chemo",
+            "follow",
+            "autologous",
+            "bone",
+            "marrow",
+            "abm",
+            "rescue",
+            "chemo",
+            "follow",
+            "autologous",
+            "bone",
+            "marrow",
+            "abm",
+            "rescue",
+            "chemo",
+            "follow",
+            "autologous",
+            "bone",
+            "marrow",
+            "abm",
+            "rescue",
             "chemo",
             "follow",
             "autologous",
@@ -214,7 +255,12 @@
             "rescue"
       ],
       "other_name": [
-            "nsc",
+            "stimulate",
+            "factor",
+            "6137",
+            "026271",
+            "7089",
+            "mustard",
             "8806"
       ],
       "criteria": [
@@ -380,7 +426,7 @@
             "except",
             "corticosteroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -389,6 +435,22 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002594.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002594"
 }

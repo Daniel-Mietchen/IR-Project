@@ -422,7 +422,6 @@
             "test"
       ],
       "condition": [
-            "restless",
             "leg",
             "syndrome"
       ],
@@ -823,7 +822,7 @@
             "orthostatic",
             "hypotension"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -832,6 +831,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00051961.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "restless",
+            "leg"
+      ],
+      "mesh_term": [
+            "agitation",
+            "leg",
+            "syndrome",
+            "agonist",
+            "agent"
+      ],
+      "id": "NCT00051961"
 }

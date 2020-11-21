@@ -113,14 +113,22 @@
             "day"
       ],
       "condition": [
-            "hiv",
+            "cryptococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Itraconazole",
+            "Flucytosine",
+            "Fluconazole",
+            "Amphotericin B",
+            "Interferon gamma-1b"
       ],
       "criteria": [
             "inclusion",
@@ -358,12 +366,24 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012467.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "meningitis",
+            "cryptococcal"
+      ],
+      "mesh_term": [
+            "infection",
+            "cryptococcal",
+            "amphotericin",
+            "b",
+            "b",
+            "agent"
+      ],
+      "id": "NCT00012467"
 }

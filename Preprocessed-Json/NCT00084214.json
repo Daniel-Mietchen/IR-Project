@@ -66,14 +66,14 @@
             "side",
             "effect"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel"
+            "STA-4783",
+            "Paclitaxel"
       ],
       "criteria": [
             "inclusion",
@@ -191,12 +191,20 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084214.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "increase",
+            "antitumor",
+            "effect"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00084214"
 }

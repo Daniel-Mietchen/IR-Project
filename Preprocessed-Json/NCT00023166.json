@@ -13,24 +13,33 @@
             "terminate"
       ],
       "condition": [
-            "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-paclitaxel"
+      ],
       "criteria": [
             "none",
             "study",
             "terminate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023166.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00023166"
 }

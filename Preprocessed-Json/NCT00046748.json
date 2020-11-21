@@ -25,14 +25,12 @@
             "adult",
             "asthma"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "omalizumab"
+            "Omalizumab"
       ],
       "criteria": [
             "diagnosis",
@@ -295,7 +293,7 @@
             "prior",
             "baseline"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -304,6 +302,7 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046748.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00046748"
 }

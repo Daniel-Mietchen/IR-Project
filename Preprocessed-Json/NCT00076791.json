@@ -338,27 +338,29 @@
             "pregnancy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "disoproxil",
-            "fumarate"
+            "Emtricitabine/Tenofovir disoproxil fumarate",
+            "Tenofovir disoproxil fumarate"
       ],
       "description": [
+            "mg",
+            "tdf",
+            "combine",
             "600",
+            "mg",
+            "emtricitabine",
             "mg",
             "oral",
             "dose",
             "tdf"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -457,14 +459,24 @@
             "certain",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076791.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00076791"
 }

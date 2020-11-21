@@ -208,23 +208,27 @@
             "participation"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ALVAC-HIV (vCP205)",
+            "ALVAC-HIV (vCP205)"
+      ],
       "description": [
-            "canarypox",
+            "virus",
+            "vector",
+            "vaccine",
             "virus",
             "vector",
             "vaccine",
             "placbo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -447,7 +451,7 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -456,6 +460,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076817.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "tiln"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00076817"
 }

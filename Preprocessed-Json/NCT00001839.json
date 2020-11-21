@@ -270,14 +270,16 @@
             "alone"
       ],
       "condition": [
-            "myelodysplastic",
+            "disease",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Antithymocyte globulin",
+            "Cyclosporine"
       ],
       "criteria": [
             "md",
@@ -400,9 +402,18 @@
             "day",
             "likely"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001839.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disease",
+            "serum"
+      ],
+      "id": "NCT00001839"
 }

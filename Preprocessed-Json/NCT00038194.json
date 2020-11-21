@@ -99,17 +99,18 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "imatinib mesylate",
             "docetaxel"
       ],
       "arm_group_label": [
-            "imatinib",
+            "docetaxel",
             "docetaxel"
       ],
       "criteria": [
@@ -390,11 +391,17 @@
             "potentially",
             "unreliable"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038194.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00038194"
 }

@@ -170,27 +170,27 @@
             "entry"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tipifarnib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "tipifarnib",
             "tipifarnib"
       ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -326,12 +326,13 @@
             "bilirubin",
             "creatinine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060125.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00060125"
 }

@@ -150,18 +150,22 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "exemestane",
+            "tamoxifen",
             "triptorelin"
       ],
       "arm_group_label": [],
       "other_name": [
-            "decapeptyl",
+            "analogue",
+            "depot",
             "depot"
       ],
       "criteria": [
@@ -198,7 +202,6 @@
             "partial",
             "mastectomy",
             "margin",
-            "negative",
             "invasive",
             "disease",
             "ductal",
@@ -587,9 +590,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -598,6 +599,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066703.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "pamoate"
+      ],
+      "id": "NCT00066703"
 }

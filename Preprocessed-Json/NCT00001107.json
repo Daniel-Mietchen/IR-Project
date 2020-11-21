@@ -136,14 +136,14 @@
             "liver",
             "transplant"
       ],
-      "condition": [
-            "candidiasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ambisome"
+            "Fluconazole",
+            "AmBisome"
       ],
       "criteria": [
             "inclusion",
@@ -183,9 +183,14 @@
             "b",
             "tacrolimus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001107.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "amphotericin",
+            "b",
+            "b"
+      ],
+      "id": "NCT00001107"
 }

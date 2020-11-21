@@ -244,17 +244,19 @@
             "year"
       ],
       "condition": [
-            "lymphoma"
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "filgrastim",
+            "recombinant human stem cell factor",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -409,7 +411,7 @@
             "fluid",
             "posttransplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -418,6 +420,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005993.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005993"
 }

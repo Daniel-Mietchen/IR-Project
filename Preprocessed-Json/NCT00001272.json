@@ -104,11 +104,10 @@
             "well"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "taxol"
@@ -303,11 +302,18 @@
             "criterion",
             "query"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001272.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hematopoietic",
+            "growth",
+            "factor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00001272"
 }

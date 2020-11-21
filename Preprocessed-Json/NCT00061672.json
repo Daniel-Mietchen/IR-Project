@@ -24,10 +24,10 @@
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "mimetic"
+            "ABT-510 - Thrombospondin-1 Mimetic"
       ],
       "criteria": [
             "inclusion",
@@ -100,14 +100,12 @@
             "follow",
             "bone",
             "marrow",
-            "white",
             "blood",
             "cell",
             "count",
             "wbc",
             "greater",
             "equal",
-            "platelet",
             "greater",
             "equal",
             "unless",
@@ -124,21 +122,17 @@
             "equal",
             "greater",
             "acceptable",
-            "hemoglobin",
             "greater",
             "equal",
-            "anc",
             "greater",
             "equal",
             "renal",
             "function",
-            "serum",
             "creatinine",
             "le",
             "equal",
             "hepatic",
             "function",
-            "ast",
             "alt",
             "le",
             "equal",
@@ -319,12 +313,20 @@
             "carcinoma",
             "skin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061672.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hodgkin",
+            "lymphoma",
+            "hl"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00061672"
 }

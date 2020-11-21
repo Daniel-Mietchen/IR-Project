@@ -39,20 +39,30 @@
             "dose"
       ],
       "condition": [
-            "ulcerative",
             "colitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "asacol",
-            "400",
-            "mg",
-            "mesalamine"
+            "Asacol 800 mg (mesalamine)",
+            "Asacol 400 mg (mesalamine)"
       ],
       "description": [
+            "6",
+            "week",
+            "2",
+            "800",
+            "mg",
+            "asacol",
             "tablet",
+            "2",
+            "placebo",
+            "tablet",
+            "3",
+            "time",
+            "daily",
             "6",
             "week",
             "2",
@@ -67,9 +77,7 @@
             "time",
             "daily"
       ],
-      "arm_group_label": [
-            "asacol"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -216,7 +224,7 @@
             "test",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -225,6 +233,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073021.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "ulcerative"
+      ],
+      "id": "NCT00073021"
 }

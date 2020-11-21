@@ -161,12 +161,20 @@
             "year"
       ],
       "condition": [
-            "thromboembolism"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
+            "doxorubicin hydrochloride",
+            "estramustine phosphate sodium",
+            "ketoconazole",
             "warfarin"
       ],
       "criteria": [
@@ -416,14 +424,19 @@
             "major",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014352.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thromboembolism"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00014352"
 }

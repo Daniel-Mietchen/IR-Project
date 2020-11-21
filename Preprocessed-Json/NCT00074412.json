@@ -313,18 +313,28 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine",
-            "placebo"
+            "Nevirapine",
+            "Nevirapine placebo"
       ],
       "description": [
             "oral",
+            "suspension",
+            "take",
+            "daily",
+            "6",
+            "month",
+            "age",
+            "dosage",
+            "increase",
+            "throughout",
+            "study",
             "suspension",
             "take",
             "daily",
@@ -334,7 +344,6 @@
       ],
       "arm_group_label": [],
       "other_name": [
-            "nvp",
             "placebo"
       ],
       "criteria": [
@@ -478,9 +487,16 @@
             "study",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074412.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00074412"
 }

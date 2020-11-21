@@ -60,12 +60,15 @@
             "sepsis"
       ],
       "condition": [
-            "infection"
+            "septic",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "E5564"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -233,7 +236,7 @@
             "use",
             "plan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -242,6 +245,15 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046072.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [
+            "septic",
+            "inflammatory",
+            "response",
+            "syndrome"
+      ],
+      "id": "NCT00046072"
 }

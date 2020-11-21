@@ -87,14 +87,14 @@
             "arc"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "clofazimine"
+            "Clofazimine"
       ],
       "criteria": [
             "inclusion",
@@ -288,12 +288,25 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002058.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "infection"
+      ],
+      "id": "NCT00002058"
 }

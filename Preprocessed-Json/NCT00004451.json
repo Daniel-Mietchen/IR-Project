@@ -76,14 +76,13 @@
             "test"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "glucose"
+            "Glucose"
       ],
       "criteria": [
             "inclusion",
@@ -121,12 +120,19 @@
             "cushing",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004451.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00004451"
 }

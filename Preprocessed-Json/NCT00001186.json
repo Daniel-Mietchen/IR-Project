@@ -531,7 +531,6 @@
             "bus"
       ],
       "condition": [
-            "pediatric",
             "cancer"
       ],
       "criteria": [
@@ -664,7 +663,7 @@
             "relate",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -673,6 +672,9 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001186.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatrics"
+      ],
+      "id": "NCT00001186"
 }

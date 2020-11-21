@@ -112,24 +112,23 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "cavity",
+            "cancer",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "romidepsin"
       ],
       "arm_group_label": [
-            "treatment",
             "depsipeptide"
       ],
-      "other_name": [
-            "istodax"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -459,14 +458,18 @@
             "anticancer",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091195.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00091195"
 }

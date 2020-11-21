@@ -34,13 +34,14 @@
             "cluster"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "disorder"
+            "Cocaine-Related Disorders"
       ],
       "criteria": [
             "inclusion",
@@ -51,11 +52,13 @@
             "residential",
             "treatment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015275.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00015275"
 }

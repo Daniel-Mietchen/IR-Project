@@ -436,7 +436,6 @@
             "genotype"
       ],
       "condition": [
-            "panic",
             "disorder"
       ],
       "criteria": [
@@ -688,7 +687,7 @@
             "subject",
             "prostatitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -697,6 +696,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083265.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00083265"
 }

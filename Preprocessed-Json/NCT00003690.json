@@ -221,7 +221,9 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "skin",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -229,9 +231,13 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alvocidib",
+            "carboplatin",
             "cisplatin"
       ],
       "criteria": [
@@ -437,12 +443,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003690.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00003690"
 }

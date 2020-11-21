@@ -288,17 +288,20 @@
             "indicator"
       ],
       "condition": [
-            "depression"
+            "disease",
+            "disease",
+            "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "intervention"
+            "There is no intervention"
       ],
       "description": [
             "applicable"
       ],
       "arm_group_label": [
-            "1",
             "experimental",
             "group",
             "study"
@@ -311,9 +314,16 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005398.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005398"
 }

@@ -27,13 +27,14 @@
             "disease"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "sumanirole",
             "ropinirole"
       ],
       "criteria": [
@@ -147,12 +148,15 @@
             "pshychiatric",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036218.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00036218"
 }

@@ -235,29 +235,41 @@
             "year"
       ],
       "condition": [
-            "stage",
             "iiia",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "paclitaxel",
+            "carboplatin",
+            "motexafin gadolinium",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
+            "iv",
+            "complete",
+            "surgical",
+            "resection",
             "radiation",
             "therapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "therapy",
+            "texaphyrin",
+            "iii",
+            "texaphryin",
+            "conventional",
             "radiation"
       ],
       "criteria": [
@@ -385,12 +397,18 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005065.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "gadolinium",
+            "paclitaxel"
+      ],
+      "id": "NCT00005065"
 }

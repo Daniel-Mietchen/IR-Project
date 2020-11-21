@@ -217,18 +217,30 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "docetaxel",
+            "gemcitabine hydrochloride"
       ],
       "arm_group_label": [
-            "arm",
+            "docetaxel",
+            "gemcitabine",
+            "ii",
+            "docetaxel",
+            "gemcitabine",
+            "iii",
+            "docetaxel",
+            "gemcitabine",
+            "docetaxel",
+            "gemcitabine",
+            "ii",
+            "docetaxel",
+            "gemcitabine",
             "iii",
             "docetaxel",
             "gemcitabine"
@@ -407,12 +419,23 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003762.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003762"
 }

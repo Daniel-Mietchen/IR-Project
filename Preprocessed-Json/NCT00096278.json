@@ -311,28 +311,60 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "iia",
+            "colon",
+            "cancer",
+            "iib",
+            "colon",
+            "cancer",
+            "iic",
+            "colon",
+            "cancer",
+            "iiia",
+            "colon",
+            "cancer",
+            "iiib",
+            "colon",
+            "cancer",
             "iiic",
             "colon",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "oxaliplatin",
+            "leucovorin calcium",
+            "fluorouracil",
             "bevacizumab"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "bevacizumab",
+            "ii",
+            "bevacizumab",
+            "ii",
+            "bevacizumab",
             "ii",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -908,12 +940,17 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096278.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "dietary",
+            "monoclonal"
+      ],
+      "id": "NCT00096278"
 }

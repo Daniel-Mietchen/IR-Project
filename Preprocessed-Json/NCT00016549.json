@@ -600,14 +600,13 @@
             "pressure"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "bevacizumab"
+            "Bevacizumab"
       ],
       "criteria": [
             "inclusion",
@@ -832,7 +831,6 @@
             "within",
             "previous",
             "28",
-            "day",
             "uncontrolled",
             "hypertension",
             "sustain",
@@ -1031,12 +1029,20 @@
             "artery",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016549.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ibc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "breast",
+            "neoplasm"
+      ],
+      "id": "NCT00016549"
 }

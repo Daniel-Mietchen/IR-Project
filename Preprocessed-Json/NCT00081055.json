@@ -242,15 +242,28 @@
             "month"
       ],
       "condition": [
-            "myelodysplastic",
+            "versus",
+            "host",
+            "disease",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "autologous expanded mesenchymal stem cells OTI-010",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -275,7 +288,6 @@
             "early",
             "first",
             "second",
-            "relapse",
             "acute",
             "myeloid",
             "leukemia",
@@ -289,7 +301,6 @@
             "early",
             "first",
             "second",
-            "relapse",
             "chronic",
             "myelogenous",
             "leukemia",
@@ -519,7 +530,7 @@
             "ursodeoxycholic",
             "acid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -528,6 +539,20 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081055.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00081055"
 }

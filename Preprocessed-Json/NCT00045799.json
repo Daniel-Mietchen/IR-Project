@@ -74,19 +74,22 @@
             "srmd"
       ],
       "condition": [
-            "upper",
             "gastrointestinal",
             "bleed"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cimetidine",
-            "iv"
+            "Omeprazole sodium bicarbonate immediate release PWD/FS",
+            "Cimetidine IV"
       ],
       "arm_group_label": [
-            "cimetidine",
+            "sodium",
+            "bicarbonate",
+            "immediate",
+            "release",
             "iv"
       ],
       "criteria": [
@@ -497,12 +500,16 @@
             "liver",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045799.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "illness",
+            "hemorrhage"
+      ],
+      "id": "NCT00045799"
 }

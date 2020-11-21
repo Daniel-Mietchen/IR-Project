@@ -165,18 +165,15 @@
             "cancer"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "combination",
-            "docetaxel"
+            "ZD1839 in combination with docetaxel"
       ],
       "description": [
-            "docetaxel",
             "give",
             "75",
             "iv",
@@ -196,6 +193,7 @@
             "meet"
       ],
       "other_name": [
+            "taxotere",
             "gefitinib",
             "iressa"
       ],
@@ -478,14 +476,18 @@
             "induce",
             "cyt"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052169.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "astrazeneca"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00052169"
 }

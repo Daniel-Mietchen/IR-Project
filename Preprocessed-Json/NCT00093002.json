@@ -37,26 +37,22 @@
             "disease"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fulvestrant"
+            "Fulvestrant"
       ],
       "description": [
-            "250",
             "mg",
             "500",
             "mg",
             "intramuscular",
             "injection"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -132,11 +128,17 @@
             "bleed",
             "disorder"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "invasive",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00093002"
 }

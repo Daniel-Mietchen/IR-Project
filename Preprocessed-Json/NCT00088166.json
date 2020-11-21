@@ -51,27 +51,32 @@
             "symptom"
       ],
       "condition": [
-            "brain",
+            "edema",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "hcrf"
+            "hCRF",
+            "placebo hCRF"
       ],
       "description": [
-            "placebo",
+            "dexamethasone",
+            "patient",
+            "currently",
+            "take",
             "hcrf",
             "dexamethasone",
             "take"
       ],
-      "arm_group_label": [
-            "ii"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "xerecept",
+            "corticorelin",
+            "acetate",
+            "injection",
+            "hcrf",
             "corticorelin",
             "acetate",
             "injection"
@@ -317,12 +322,22 @@
             "hypersensitivity",
             "niacin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088166.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "decadron"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "edema",
+            "acetate",
+            "hormone",
+            "1101"
+      ],
+      "id": "NCT00088166"
 }

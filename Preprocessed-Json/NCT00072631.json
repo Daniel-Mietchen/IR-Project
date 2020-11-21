@@ -38,21 +38,21 @@
             "eligible"
       ],
       "condition": [
-            "fail",
+            "non",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
             "prior",
             "chemotherapy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tarceva",
-            "trademark",
-            "erlotinib",
-            "hcl"
+            "Tarceva (Trademark) (erlotinib HCl, OSI-774)"
       ],
       "description": [
-            "intrapatient",
             "dose",
             "escalation",
             "oral",
@@ -64,7 +64,6 @@
             "rash"
       ],
       "arm_group_label": [
-            "1",
             "erlotinib"
       ],
       "criteria": [
@@ -139,12 +138,18 @@
             "egfr",
             "kind"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "hydrochloride"
+      ],
+      "id": "NCT00072631"
 }

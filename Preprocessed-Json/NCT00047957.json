@@ -305,7 +305,6 @@
             "cortex"
       ],
       "condition": [
-            "dystonic",
             "disorder"
       ],
       "criteria": [
@@ -374,9 +373,15 @@
             "exclude",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047957.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00047957"
 }

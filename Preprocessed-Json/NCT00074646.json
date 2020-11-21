@@ -14,13 +14,14 @@
             "glioma"
       ],
       "condition": [
-            "malignant",
             "glioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CC-8490"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -369,12 +370,17 @@
             "day",
             "registration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignant",
+            "glioma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00074646"
 }

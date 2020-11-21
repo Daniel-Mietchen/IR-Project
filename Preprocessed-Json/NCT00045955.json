@@ -177,16 +177,12 @@
             "subject",
             "asthma"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fexofenadine",
-            "comparator",
-            "montelukast"
+            "Fexofenadine, Comparator = Montelukast"
       ],
       "criteria": [
             "inclusion",
@@ -282,7 +278,7 @@
             "otherwise",
             "healthy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -291,6 +287,7 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045955.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00045955"
 }

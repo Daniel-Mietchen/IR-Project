@@ -105,30 +105,38 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "eribulin mesylate",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "eribulin",
+            "mesylate",
+            "eribulin",
+            "mesylate",
             "eribulin",
             "mesylate"
       ],
       "other_name": [
-            "pharmacological",
+            "b",
+            "analog",
             "study"
       ],
       "criteria": [
@@ -379,12 +387,12 @@
             "stage",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047034.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00047034"
 }

@@ -66,14 +66,14 @@
             "control"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sevirumab"
+            "Sevirumab"
       ],
       "criteria": [
             "inclusion",
@@ -337,12 +337,27 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002268.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antibody",
+            "monoclonal"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "monoclonal",
+            "agent"
+      ],
+      "id": "NCT00002268"
 }

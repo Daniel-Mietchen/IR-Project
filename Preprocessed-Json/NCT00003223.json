@@ -94,18 +94,16 @@
             "accrue"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "fenretinide"
       ],
       "description": [
-            "200",
             "po",
             "day",
             "q",
@@ -115,9 +113,7 @@
             "6",
             "cycle"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "retinamide"
       ],
@@ -220,12 +216,22 @@
             "month",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003223.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lip",
+            "oral",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00003223"
 }

@@ -171,21 +171,26 @@
             "drug",
             "treatment"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo",
+            "Recombinant human soluble IL-4 receptor",
+            "Placebo for Recombinant human soluble IL-4 receptor"
+      ],
+      "description": [
+            "randomize",
+            "twelve",
+            "weekly",
+            "nebulizations",
+            "mg",
+            "dose",
             "recombinant",
             "human",
             "soluble",
-            "receptor"
-      ],
-      "description": [
-            "subject",
+            "receptor",
             "randomize",
             "twelve",
             "weekly",
@@ -203,11 +208,8 @@
             "receptor",
             "volume"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "placebo",
             "treatment"
       ],
       "criteria": [
@@ -364,7 +366,7 @@
             "certain",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -373,6 +375,12 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00017693.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "force",
+            "expiratory",
+            "volume"
+      ],
+      "mesh_term": [],
+      "id": "NCT00017693"
 }

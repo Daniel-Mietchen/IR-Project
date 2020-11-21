@@ -75,11 +75,11 @@
             "system"
       ],
       "condition": [
-            "pancreatic",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "gemcitabine"
@@ -263,9 +263,18 @@
             "fertile",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001431.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00001431"
 }

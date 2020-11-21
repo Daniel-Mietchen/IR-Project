@@ -223,19 +223,26 @@
             "program"
       ],
       "condition": [
-            "orofacial",
+            "joint",
+            "syndrome",
+            "pain",
+            "dysfunction",
+            "syndrome",
             "pain"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "attention",
-            "lifestyle",
-            "counsel"
+            "Cognitive-Behavioral treatment",
+            "Attention and lifestyle counseling"
       ],
       "description": [
-            "attention",
+            "skill",
+            "train",
+            "chronic",
+            "pain",
             "lifestyle",
             "counsel",
             "add",
@@ -243,7 +250,8 @@
             "care"
       ],
       "arm_group_label": [
-            "standard",
+            "skill",
+            "train",
             "care"
       ],
       "criteria": [
@@ -307,7 +315,7 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -316,6 +324,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067366.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pain",
+            "pain",
+            "syndrome",
+            "joint",
+            "disorder",
+            "joint",
+            "dysfunction",
+            "syndrome"
+      ],
+      "id": "NCT00067366"
 }

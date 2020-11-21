@@ -383,7 +383,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -391,12 +390,39 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapy"
+            "O6-benzylguanine",
+            "carmustine",
+            "chemosensitization/potentiation therapy"
       ],
       "description": [
+            "receive",
+            "bg",
+            "iv",
+            "1",
+            "hour",
+            "week",
+            "1",
+            "bg",
+            "iv",
+            "1",
+            "hour",
+            "week",
+            "3",
+            "course",
+            "repeat",
+            "every",
+            "6",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "one",
             "hour",
             "receive",
@@ -420,9 +446,7 @@
             "unacceptable",
             "toxicity"
       ],
-      "other_name": [
-            "bcnu"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -541,12 +565,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002604.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "6"
+      ],
+      "id": "NCT00002604"
 }

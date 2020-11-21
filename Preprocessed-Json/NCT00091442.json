@@ -158,17 +158,45 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxil"
+            "Docetaxel",
+            "DOXIL"
       ],
       "description": [
+            "monotherapy",
+            "docetaxel",
+            "75",
+            "solution",
+            "administer",
+            "intravenous",
+            "infusion",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "every",
+            "cycle",
             "doxil",
+            "combination",
+            "docetaxel",
+            "docetaxel",
+            "60",
+            "solution",
+            "administer",
+            "intravenous",
+            "infusion",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "every",
+            "cycle",
             "30",
             "solution",
             "administer",
@@ -182,13 +210,15 @@
             "cycle"
       ],
       "arm_group_label": [
-            "doxil",
+            "docetaxel",
+            "combination",
+            "therapy",
+            "monotherapy",
             "docetaxel",
             "combination",
             "therapy"
       ],
       "other_name": [
-            "doxil",
             "combination",
             "docataxel"
       ],
@@ -322,14 +352,20 @@
             "heart",
             "failure"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091442.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "docetaxel"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "solution",
+            "doxorubicin"
+      ],
+      "id": "NCT00091442"
 }

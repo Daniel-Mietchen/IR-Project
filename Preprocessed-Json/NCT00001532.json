@@ -107,7 +107,8 @@
             "population"
       ],
       "condition": [
-            "asthma"
+            "fibrosis",
+            "sclerosis"
       ],
       "criteria": [
             "inclusion",
@@ -467,7 +468,7 @@
             "greater",
             "65"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -476,6 +477,15 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001532.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cystic",
+            "fibrosis"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "sclerosis"
+      ],
+      "id": "NCT00001532"
 }

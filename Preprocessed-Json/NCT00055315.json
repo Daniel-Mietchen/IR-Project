@@ -109,20 +109,18 @@
             "ia"
       ],
       "condition": [
-            "borderline",
             "personality",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "treatment",
-            "usual",
-            "tau"
+            "Systems Training for Emotional Predictability and Problem Solving (STEPPS)",
+            "Treatment As Usual (TAU)"
       ],
       "description": [
-            "stepps",
             "psychoeducational",
             "group",
             "treatment",
@@ -141,7 +139,6 @@
             "others"
       ],
       "arm_group_label": [
-            "treatment",
             "usual"
       ],
       "criteria": [
@@ -151,12 +148,17 @@
             "personality",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055315.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "personality",
+            "disorder"
+      ],
+      "id": "NCT00055315"
 }

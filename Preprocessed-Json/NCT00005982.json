@@ -97,25 +97,28 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "cutaneous",
+            "lymphoma",
             "mycosis",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "nelarabine",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "nelarabine",
             "nelarabine"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -312,12 +315,17 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005982.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fungoides",
+            "syndrome",
+            "cutaneous"
+      ],
+      "id": "NCT00005982"
 }

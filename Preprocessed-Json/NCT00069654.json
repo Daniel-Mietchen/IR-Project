@@ -405,16 +405,17 @@
             "study"
       ],
       "condition": [
-            "coronary",
             "arteriosclerosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "treadmill",
-            "exercise",
-            "test"
+            "Forearm blood flow study",
+            "Brachial artery reactivity study",
+            "Treadmill exercise test"
       ],
       "criteria": [
             "inclusion",
@@ -516,12 +517,22 @@
             "significant",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "22",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069654.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cad"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "oxide"
+      ],
+      "id": "NCT00069654"
 }

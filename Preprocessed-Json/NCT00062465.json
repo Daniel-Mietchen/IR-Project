@@ -253,14 +253,13 @@
             "ra"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "twhf"
+            "TwHF"
       ],
       "criteria": [
             "inclusion",
@@ -735,9 +734,15 @@
             "drop",
             "replace"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062465.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ra"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00062465"
 }

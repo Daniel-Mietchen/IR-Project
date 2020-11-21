@@ -38,11 +38,10 @@
             "condition"
       ],
       "condition": [
-            "diabetic",
             "nephropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "aliskiren"
@@ -69,7 +68,7 @@
             "1",
             "diabetes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -78,6 +77,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097955.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "losartan"
+      ],
+      "mesh_term": [
+            "disease",
+            "nephropathy",
+            "agent"
+      ],
+      "id": "NCT00097955"
 }

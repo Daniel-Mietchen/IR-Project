@@ -221,16 +221,26 @@
             "year"
       ],
       "condition": [
-            "small",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "condition",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cyclophosphamide",
+            "allogeneic bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -248,7 +258,6 @@
             "cml",
             "chronic",
             "accelerate",
-            "blast",
             "phase",
             "acute",
             "leukemia",
@@ -257,7 +266,6 @@
             "philadelphia",
             "acute",
             "lymphocytic",
-            "leukemia",
             "acute",
             "myeloid",
             "leukemia",
@@ -271,7 +279,6 @@
             "abnormal",
             "del",
             "complex",
-            "abnormality",
             "acute",
             "leukemia",
             "failure",
@@ -282,7 +289,6 @@
             "acute",
             "leukemia",
             "first",
-            "relapse",
             "second",
             "remission",
             "lymphoblastic",
@@ -554,12 +560,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005804.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00005804"
 }

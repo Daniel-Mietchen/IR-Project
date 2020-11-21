@@ -41,14 +41,15 @@
             "wbrt"
       ],
       "condition": [
-            "brain",
+            "lung",
+            "metastasis",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "temozolomide"
+            "Temozolomide"
       ],
       "criteria": [
             "age",
@@ -124,12 +125,17 @@
             "scale",
             "cnos"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076856.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00076856"
 }

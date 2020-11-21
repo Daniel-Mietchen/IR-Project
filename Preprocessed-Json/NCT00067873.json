@@ -142,14 +142,14 @@
             "turn",
             "maintenance"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "exercise"
+            "Diet",
+            "Exercise"
       ],
       "criteria": [
             "normoglycemic",
@@ -163,9 +163,7 @@
             "history",
             "obesity"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
@@ -174,6 +172,7 @@
             "41",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067873.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00067873"
 }

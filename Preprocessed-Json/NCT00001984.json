@@ -571,18 +571,16 @@
             "transplantation"
       ],
       "condition": [
-            "kidney",
+            "rejection",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alemtuzumab",
-            "dsg"
+            "Alemtuzumab and DSG"
       ],
       "description": [
-            "alemtuzumab",
             "administer",
             "intravenously",
             "3",
@@ -657,7 +655,6 @@
             "25"
       ],
       "arm_group_label": [
-            "alemtuzumab",
             "dsg"
       ],
       "criteria": [
@@ -872,9 +869,15 @@
             "hla",
             "antibody"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001984.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alemtuzumab"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001984"
 }

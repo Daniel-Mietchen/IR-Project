@@ -198,21 +198,50 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "amifostine trihydrate",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "paclitaxel",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "high",
+            "dose",
+            "chemotherapy",
+            "follow",
+            "cell",
+            "rescue",
+            "dose",
+            "chemotherapy",
+            "follow",
+            "cell",
+            "rescue",
+            "dose",
+            "chemotherapy",
+            "follow",
+            "cell",
+            "rescue",
+            "dose",
+            "chemotherapy",
+            "follow",
+            "cell",
+            "rescue",
+            "dose",
+            "chemotherapy",
+            "follow",
+            "cell",
+            "rescue",
             "dose",
             "chemotherapy",
             "follow",
@@ -446,7 +475,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -455,6 +484,16 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003927.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003927"
 }

@@ -205,17 +205,72 @@
             "give"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Abacavir sulfate",
+            "Efavirenz",
+            "Stavudine",
+            "Didanosine",
+            "Aldesleukin"
       ],
       "description": [
-            "subcutaneous",
+            "mg",
+            "tablet",
+            "equal",
+            "1600",
+            "mg",
+            "daily",
+            "mg",
+            "liquid",
+            "capsule",
+            "equal",
+            "400",
+            "mg",
+            "daily",
+            "mg",
+            "capsule",
+            "equal",
+            "600",
+            "mg",
+            "daily",
+            "administration",
+            "base",
+            "individual",
+            "result",
+            "16",
+            "week",
+            "mg",
+            "capsule",
+            "equal",
+            "600",
+            "mg",
+            "daily",
+            "mg",
+            "capsule",
+            "equal",
+            "60",
+            "80",
+            "mg",
+            "daily",
+            "mg",
+            "tablet",
+            "equal",
+            "250",
+            "400",
+            "mg",
+            "daily",
             "injection",
             "equal",
             "15",
@@ -231,9 +286,7 @@
             "week",
             "randomization"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -299,12 +352,25 @@
             "entry",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006154.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00006154"
 }

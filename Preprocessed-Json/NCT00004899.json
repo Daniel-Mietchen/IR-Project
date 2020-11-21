@@ -201,16 +201,20 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
-            "bone",
-            "marrow",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "etoposide",
+            "autologous bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -383,12 +387,25 @@
             "concurrent",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004899.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00004899"
 }

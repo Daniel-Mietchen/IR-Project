@@ -203,29 +203,74 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "gastroesophageal",
+            "junction",
+            "adenocarcinoma",
+            "stomach",
+            "adenocarcinoma",
+            "stomach",
+            "adenocarcinoma",
+            "stomach",
+            "gastric",
+            "cancer",
+            "iiia",
+            "gastric",
+            "cancer",
+            "iiib",
+            "gastric",
+            "cancer",
+            "iiic",
+            "gastric",
+            "cancer",
             "iv",
             "gastric",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "irinotecan hydrochloride",
+            "bevacizumab",
+            "cisplatin",
+            "computed tomography",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "cisplatin",
+            "irinotecan",
+            "bevacizumab",
+            "cisplatin",
+            "irinotecan",
+            "bevacizumab",
+            "cisplatin",
+            "irinotecan",
+            "bevacizumab",
+            "cisplatin",
+            "irinotecan",
             "bevacizumab",
             "cisplatin",
             "irinotecan"
       ],
       "other_name": [
-            "tomography",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
             "compute"
       ],
       "criteria": [
@@ -601,12 +646,17 @@
             "multivitamin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084604.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00084604"
 }

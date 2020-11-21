@@ -420,27 +420,45 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "daunomycin"
+            "gemtuzumab ozogamicin",
+            "observation",
+            "Cytosine arabinoside",
+            "Daunomycin"
       ],
       "description": [
             "iv",
+            "induction",
+            "3",
+            "dose",
+            "28",
+            "day",
+            "apart",
+            "treatment",
+            "give",
+            "induction",
+            "reinduction",
+            "100",
+            "day",
+            "consolidation",
+            "3",
+            "5",
             "induction",
             "reinduction",
             "60"
       ],
       "arm_group_label": [
-            "induction"
+            "go",
+            "observation"
       ],
-      "other_name": [
-            "daunorubicin"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -453,14 +471,12 @@
             "bone",
             "marrow",
             "aspiration",
-            "biopsy",
             "within",
             "past",
             "14",
             "day",
             "disease",
             "note",
-            "patient",
             "mark",
             "leukocytosis",
             "may",
@@ -602,7 +618,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -611,6 +627,18 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085709.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00085709"
 }

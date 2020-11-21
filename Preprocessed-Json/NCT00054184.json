@@ -227,18 +227,18 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "poliglumex"
+            "docetaxel",
+            "paclitaxel poliglumex"
       ],
       "arm_group_label": [
-            "study",
+            "drug",
             "drug"
       ],
       "criteria": [
@@ -513,12 +513,24 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054184.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00054184"
 }

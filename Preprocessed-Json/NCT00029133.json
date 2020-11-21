@@ -141,19 +141,13 @@
             "safe"
       ],
       "condition": [
-            "subarachnoid",
             "hemorrhage"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "mild",
-            "intraoperative",
-            "hypothermia",
-            "33",
-            "degree",
-            "celsius"
+            "mild intraoperative hypothermia (33 degrees Celsius)"
       ],
       "criteria": [
             "adult",
@@ -239,12 +233,21 @@
             "guardian",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029133.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "subarachnoid",
+            "intracranial",
+            "hemorrhage"
+      ],
+      "mesh_term": [
+            "hemorrhage",
+            "aneurysm"
+      ],
+      "id": "NCT00029133"
 }

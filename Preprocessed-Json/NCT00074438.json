@@ -30,23 +30,32 @@
             "ra"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "methotrexate",
+            "rituximab",
+            "corticosteroids",
             "placebo"
       ],
       "description": [
-            "intravenous",
+            "parenteral",
+            "repeat",
+            "dose",
+            "repeat",
+            "dose",
+            "repeat",
+            "dose",
             "repeat",
             "dose"
       ],
-      "arm_group_label": [
-            "9"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "eligibility",
             "criterion",
@@ -74,7 +83,7 @@
             "biologics",
             "methotrexate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -83,6 +92,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074438.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ra"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00074438"
 }

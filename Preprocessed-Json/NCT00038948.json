@@ -28,25 +28,25 @@
             "function"
       ],
       "condition": [
-            "renal",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Sirolimus",
+            "tacrolimus",
+            "Cyclosporine A"
       ],
       "description": [
-            "sirolimus",
             "cyclosporine",
             "tacrolimus",
             "concentration",
             "control"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -94,12 +94,18 @@
             "transplant",
             "perform"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038948.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recipient"
+      ],
+      "mesh_term": [
+            "inhibitor"
+      ],
+      "id": "NCT00038948"
 }

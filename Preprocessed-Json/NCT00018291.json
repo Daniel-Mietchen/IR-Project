@@ -197,13 +197,16 @@
             "risperidone"
       ],
       "condition": [
-            "dementia"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gabapentin"
+            "Risperidone",
+            "Gabapentin"
       ],
       "criteria": [
             "inclusion",
@@ -478,12 +481,19 @@
             "study",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "behavioral",
+            "disturbance"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00018291"
 }

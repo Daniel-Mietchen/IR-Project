@@ -100,27 +100,28 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "endometrial",
+            "carcinoma",
             "iv",
             "endometrial",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ixabepilone"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "ixabepilone"
       ],
       "other_name": [
-            "ixempra"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -365,11 +366,14 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095979.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00095979"
 }

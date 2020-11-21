@@ -39,14 +39,15 @@
             "month"
       ],
       "condition": [
-            "pelvic",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator"
+            "MK0826, ertapenem sodium",
+            "Comparator: Ticarcillin/Clavulanate"
       ],
       "criteria": [
             "inclusion",
@@ -68,7 +69,7 @@
             "kidney",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -77,6 +78,20 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092170.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "pelvic",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "inflammatory",
+            "disease",
+            "acid",
+            "acid"
+      ],
+      "id": "NCT00092170"
 }

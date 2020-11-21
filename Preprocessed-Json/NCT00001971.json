@@ -231,6 +231,8 @@
       ],
       "condition": [
             "liver",
+            "cirrhosis",
+            "degeneration",
             "disease"
       ],
       "criteria": [
@@ -565,12 +567,23 @@
             "aspect",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001971.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "cirrhosis",
+            "cirrhosis",
+            "biliary",
+            "degeneration"
+      ],
+      "id": "NCT00001971"
 }

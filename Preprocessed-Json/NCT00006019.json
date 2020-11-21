@@ -188,15 +188,21 @@
             "study"
       ],
       "condition": [
-            "prostate",
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "phenylbutyrate"
+            "azacitidine",
+            "sodium phenylbutyrate"
       ],
       "criteria": [
             "disease",
@@ -345,12 +351,30 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006019.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "lung",
+            "myeloma",
+            "plasma",
+            "cell",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00006019"
 }

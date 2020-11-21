@@ -113,27 +113,37 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "adenoacanthoma",
+            "adenocarcinoma",
+            "adenosquamous",
+            "cell",
+            "carcinoma",
+            "clear",
+            "cell",
+            "carcinoma",
+            "papillary",
+            "serous",
+            "carcinoma",
             "endometrial",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "thalidomide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
             "thalidomide"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -418,11 +428,17 @@
             "bisphosphonates",
             "zoledronate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025467.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "serous",
+            "clear",
+            "cell",
+            "neoplasm",
+            "adenosquamous"
+      ],
+      "id": "NCT00025467"
 }

@@ -55,15 +55,15 @@
             "trial"
       ],
       "condition": [
-            "cutaneous",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "HuMax-CD4"
+      ],
       "arm_group_label": [
-            "280",
             "mg",
             "980",
             "mg"
@@ -195,12 +195,19 @@
             "enter",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071084.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sezary",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "cutaneous"
+      ],
+      "id": "NCT00071084"
 }

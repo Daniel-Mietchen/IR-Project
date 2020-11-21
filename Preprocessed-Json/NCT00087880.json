@@ -64,16 +64,14 @@
             "treatment"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bupropion",
-            "nrt"
+            "Bupropion and NRT"
       ],
       "description": [
             "participant",
@@ -119,12 +117,13 @@
             "104"
       ],
       "arm_group_label": [
-            "extend",
+            "treatment",
+            "contact",
+            "contact",
+            "contact",
             "contact"
       ],
-      "other_name": [
-            "zyban"
-      ],
+      "other_name": [],
       "criteria": [
             "subject",
             "men",
@@ -273,12 +272,20 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087880.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "smoke",
+            "cessation"
+      ],
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00087880"
 }

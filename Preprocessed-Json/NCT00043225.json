@@ -155,7 +155,6 @@
             "gene"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "criteria": [
@@ -215,7 +214,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -224,6 +223,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043225.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immune",
+            "deficiency"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis"
+      ],
+      "id": "NCT00043225"
 }

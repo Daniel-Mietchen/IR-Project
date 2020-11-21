@@ -119,15 +119,12 @@
             "2",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -254,11 +251,14 @@
             "allow",
             "recover"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003156.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "uterine",
+            "carcinosarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003156"
 }

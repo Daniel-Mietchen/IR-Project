@@ -74,17 +74,13 @@
             "specify"
       ],
       "condition": [
-            "precancerous",
             "condition"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "autologous",
-            "tumor",
-            "cell",
-            "vaccine"
+            "autologous tumor cell vaccine"
       ],
       "criteria": [
             "disease",
@@ -130,12 +126,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002454.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "papilloma"
+      ],
+      "mesh_term": [
+            "condition"
+      ],
+      "id": "NCT00002454"
 }

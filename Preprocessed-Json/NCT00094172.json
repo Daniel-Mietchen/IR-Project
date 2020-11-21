@@ -214,25 +214,31 @@
             "symptom"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Atorvastatin",
+            "Placebo"
       ],
       "description": [
-            "tablet",
+            "dose",
+            "80",
+            "participant",
+            "allow",
+            "decrease",
+            "daily",
+            "dose",
+            "40",
+            "higher",
+            "dose",
             "form"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "lipitor"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -489,7 +495,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -498,6 +504,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094172.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clinically",
+            "isolate",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "calcium"
+      ],
+      "id": "NCT00094172"
 }

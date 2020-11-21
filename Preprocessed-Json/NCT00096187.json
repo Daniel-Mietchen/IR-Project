@@ -153,16 +153,14 @@
             "month"
       ],
       "condition": [
-            "gestational",
             "trophoblastic",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pemetrexed",
-            "disodium"
+            "pemetrexed disodium"
       ],
       "criteria": [
             "disease",
@@ -392,11 +390,20 @@
             "325",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096187.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nonmetastatic",
+            "gestational",
+            "trophoblastic",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "trophoblastic",
+            "disease"
+      ],
+      "id": "NCT00096187"
 }

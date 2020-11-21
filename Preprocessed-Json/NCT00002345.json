@@ -72,15 +72,13 @@
             "weight"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "megestrol",
-            "acetate"
+            "Megestrol acetate"
       ],
       "criteria": [
             "inclusion",
@@ -245,14 +243,19 @@
             "4",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "suspension"
+      ],
+      "mesh_term": [
+            "infection",
+            "acetate"
+      ],
+      "id": "NCT00002345"
 }

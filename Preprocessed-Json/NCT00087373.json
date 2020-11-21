@@ -186,22 +186,25 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "recombinant fowlpox-TRICOM vaccine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "intratumorally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "recombinant",
+            "vaccine",
             "recombinant",
             "vaccine"
       ],
@@ -528,12 +531,13 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087373.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00087373"
 }

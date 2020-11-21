@@ -25,13 +25,15 @@
             "inpatient"
       ],
       "condition": [
-            "diabetic",
+            "mellitus",
             "foot"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Piperacillin/Tazobactam"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -61,12 +63,23 @@
             "allergy",
             "penicillin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "foot",
+            "acid",
+            "tazobactam",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00044746"
 }

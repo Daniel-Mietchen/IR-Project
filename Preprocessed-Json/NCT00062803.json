@@ -63,15 +63,19 @@
             "doctor"
       ],
       "condition": [
-            "pulmonary",
             "embolism"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acenocoumarol",
-            "vka"
+            "SR34006",
+            "(LMW)heparin",
+            "Warfarin VKA",
+            "Acenocoumarol VKA"
       ],
       "criteria": [
             "inclusion",
@@ -182,12 +186,18 @@
             "enoxaparin",
             "tinzaparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062803.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "embolism",
+            "k",
+            "heparin",
+            "34006"
+      ],
+      "id": "NCT00062803"
 }

@@ -143,16 +143,17 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
-      "arm_group_label": [
-            "vaccine"
+      "intervention_name": [
+            "MUC-2-KLH vaccine",
+            "QS21"
       ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -376,14 +377,22 @@
             "prior",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004929.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "21",
+            "immunologic"
+      ],
+      "id": "NCT00004929"
 }

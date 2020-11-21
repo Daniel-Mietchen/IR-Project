@@ -182,21 +182,43 @@
             "even"
       ],
       "condition": [
-            "interstitial",
             "cystitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Pentosan polysulfate sodium 100 mg",
+            "Placebo",
+            "Pentosan polysulfate sodium 100 mg"
+      ],
+      "description": [
+            "100",
+            "mg",
             "pentosan",
             "polysulfate",
             "sodium",
-            "100",
-            "mg"
-      ],
-      "description": [
-            "one",
+            "capsule",
+            "3",
+            "time",
+            "day",
+            "morning",
+            "afternoon",
+            "even",
+            "24",
+            "week",
+            "placebo",
+            "capsule",
+            "3",
+            "time",
+            "day",
+            "morning",
+            "afternoon",
+            "even",
+            "24",
+            "week",
             "100",
             "mg",
             "pentosan",
@@ -214,7 +236,13 @@
             "week"
       ],
       "arm_group_label": [
-            "pentosan",
+            "polysulfate",
+            "sodium",
+            "100",
+            "mg",
+            "three",
+            "time",
+            "day",
             "polysulfate",
             "sodium",
             "100",
@@ -349,12 +377,22 @@
             "activator",
             "streptokinase"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086684.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "urinary",
+            "bladder",
+            "pain"
+      ],
+      "mesh_term": [
+            "interstitial",
+            "sulfuric",
+            "polyester"
+      ],
+      "id": "NCT00086684"
 }

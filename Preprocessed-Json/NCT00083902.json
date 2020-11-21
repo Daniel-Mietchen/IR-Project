@@ -90,14 +90,15 @@
             "meet"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Thalidomide",
+            "Dexamethasone"
       ],
       "criteria": [
             "inclusion",
@@ -195,12 +196,22 @@
             "iv",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083902.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dexamethasone"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00083902"
 }

@@ -114,18 +114,26 @@
             "attack"
       ],
       "condition": [
-            "heart",
+            "infarction",
+            "failure",
             "enlargement"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "tablet"
+            "PG-116800 (given as PG-530742)",
+            "Placebo tablet"
       ],
       "description": [
-            "placebo",
+            "mg",
+            "tablet",
+            "give",
+            "twice",
+            "day",
+            "90",
+            "day",
             "tablet",
             "twice",
             "day",
@@ -133,7 +141,7 @@
             "day"
       ],
       "arm_group_label": [
-            "placebo",
+            "tablet",
             "tablet"
       ],
       "criteria": [
@@ -221,7 +229,7 @@
             "childbearing",
             "potential"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -230,6 +238,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067236.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "infarction"
+      ],
+      "id": "NCT00067236"
 }

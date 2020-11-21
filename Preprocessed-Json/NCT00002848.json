@@ -171,16 +171,18 @@
             "study"
       ],
       "condition": [
-            "psychosocial",
+            "cancer",
             "effect",
             "cancer",
             "treatment"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "psychosocial assessment and care",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -275,11 +277,18 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002848.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosocial",
+            "effect",
+            "cancer",
+            "treatment"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002848"
 }

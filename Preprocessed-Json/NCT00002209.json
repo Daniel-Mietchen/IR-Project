@@ -132,13 +132,16 @@
             "sperm"
       ],
       "condition": [
-            "hiv",
+            "dementia",
+            "complex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CPI-1189"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -160,9 +163,7 @@
             "indinavir",
             "idv"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -171,6 +172,16 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002209.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "dementia",
+            "complex"
+      ],
+      "id": "NCT00002209"
 }

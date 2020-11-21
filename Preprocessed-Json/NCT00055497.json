@@ -265,15 +265,36 @@
             "disease"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "ol",
-            "adalimumab",
-            "40",
-            "mg"
+            "Double-blind (DB) adalimumab placebo",
+            "DB adalimumab 40 mg eow",
+            "DB adalimumab 40 mg ew",
+            "OL adalimumab 40 mg"
       ],
       "description": [
+            "nonactive",
+            "match",
+            "subcutaneous",
+            "injection",
+            "adalimumab",
+            "40",
+            "mg",
+            "every",
+            "week",
+            "subcutaneous",
+            "injection",
+            "adalimumab",
+            "40",
+            "mg",
+            "every",
+            "week",
+            "subcutaneous",
+            "injection",
             "adalimumab",
             "every",
             "week",
@@ -283,6 +304,21 @@
             "injection"
       ],
       "arm_group_label": [
+            "db",
+            "adalimumab",
+            "placebo",
+            "adalimumab",
+            "40",
+            "mg",
+            "every",
+            "week",
+            "eow",
+            "adalimumab",
+            "40",
+            "mg",
+            "every",
+            "week",
+            "ew",
             "adalimumab",
             "40",
             "mg"
@@ -328,7 +364,7 @@
             "skin",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -337,6 +373,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055497.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00055497"
 }

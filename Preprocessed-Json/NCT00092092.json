@@ -67,19 +67,32 @@
             "week"
       ],
       "condition": [
-            "asthma",
             "bronchial"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "budesonide",
-            "inhaler"
+            "Montelukast chewable tablets",
+            "Budesonide inhaler",
+            "Placebo to montelukast chewable tablets",
+            "Placebo to budesonide inhaler"
       ],
       "description": [
-            "placebo",
+            "sodium",
+            "5",
+            "mg",
+            "chewable",
+            "tablet",
+            "200",
+            "mcg",
+            "inhalation",
+            "powder",
+            "chewable",
+            "tablet",
             "inhalation",
             "powder"
       ],
@@ -106,7 +119,7 @@
             "tract",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -115,6 +128,7 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092092.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00092092"
 }

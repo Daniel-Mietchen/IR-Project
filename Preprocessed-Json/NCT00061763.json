@@ -84,14 +84,15 @@
             "content"
       ],
       "condition": [
-            "anemia",
+            "syndrome",
+            "syndrome",
             "aplastic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "deferasirox"
+            "Deferasirox"
       ],
       "criteria": [
             "inclusion",
@@ -358,12 +359,23 @@
             "per",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061763.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anemia",
+            "aplastic"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "overload",
+            "aplastic",
+            "syndrome",
+            "anemia"
+      ],
+      "id": "NCT00061763"
 }

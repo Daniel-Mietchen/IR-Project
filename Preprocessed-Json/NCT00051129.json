@@ -38,22 +38,31 @@
             "amd"
       ],
       "condition": [
-            "maculopathies"
+            "degeneration",
+            "maculopathies",
+            "maculopathy"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "anecortave",
-            "acetate",
-            "vehicle"
+            "Anecortave Acetate 15 mg sterile suspension",
+            "Anecortave Acetate Vehicle"
       ],
       "description": [
+            "ml",
+            "30",
             "administer",
+            "posterior",
+            "juxtascleral",
+            "injection",
             "posterior",
             "juxtascleral",
             "injection"
       ],
       "arm_group_label": [
-            "anecortave",
+            "acetate",
             "acetate",
             "vehicle"
       ],
@@ -83,12 +92,20 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051129.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "maculopathies"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "neovascularization",
+            "pathologic"
+      ],
+      "id": "NCT00051129"
 }

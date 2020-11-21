@@ -113,13 +113,15 @@
             "night"
       ],
       "condition": [
-            "craniocerebral",
+            "injury",
             "trauma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cosyntropin",
             "metyrapone"
       ],
       "criteria": [
@@ -177,7 +179,7 @@
             "legal",
             "guardian"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -186,6 +188,17 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006270.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "injury",
+            "injury",
+            "trauma",
+            "hormone",
+            "hormone"
+      ],
+      "id": "NCT00006270"
 }

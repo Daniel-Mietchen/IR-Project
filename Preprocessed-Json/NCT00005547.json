@@ -289,20 +289,37 @@
             "record"
       ],
       "condition": [
-            "atherosclerosis"
+            "disease",
+            "disease",
+            "accident",
+            "disease",
+            "infarction",
+            "infection",
+            "infection",
+            "infection"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005547.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00005547"
 }

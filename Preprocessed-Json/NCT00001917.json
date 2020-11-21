@@ -228,12 +228,17 @@
             "acetylcholine"
       ],
       "condition": [
-            "healthy"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "O15",
+            "[F-18] FP-TZTP"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -344,9 +349,16 @@
             "must",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001917.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "visual",
+            "activation"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001917"
 }

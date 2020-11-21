@@ -177,23 +177,44 @@
             "survival"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "astrocytoma",
+            "anaplastic",
+            "oligodendroglioma",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
+            "gliosarcoma",
+            "grade",
+            "meningioma",
+            "grade",
+            "ii",
+            "meningioma",
+            "grade",
+            "iii",
+            "meningioma",
+            "mix",
+            "glioma",
             "adult",
             "brain",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
             "erlotinib",
             "hydrochloride"
       ],
@@ -254,7 +275,6 @@
             "relapse",
             "2",
             "prior",
-            "chemotherapy",
             "biologic",
             "therapy",
             "regimen",
@@ -265,7 +285,6 @@
             "relapse",
             "2",
             "prior",
-            "chemotherapy",
             "biologic",
             "therapy",
             "regimen",
@@ -275,7 +294,6 @@
             "must",
             "fail",
             "prior",
-            "radiotherapy",
             "complete",
             "least",
             "4",
@@ -575,12 +593,15 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045110.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00045110"
 }

@@ -142,23 +142,28 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "esophagus",
+            "esophageal",
+            "cancer",
             "iv",
             "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "triapine",
             "cisplatin"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "triapine",
+            "cisplatin",
             "triapine",
             "cisplatin"
       ],
@@ -324,12 +329,15 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077545.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00077545"
 }

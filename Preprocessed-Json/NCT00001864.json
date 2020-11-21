@@ -281,14 +281,14 @@
             "kinetics",
             "available"
       ],
-      "condition": [
-            "strabismus"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "patch"
+            "Atropine",
+            "Patch"
       ],
       "criteria": [
             "age",
@@ -396,9 +396,13 @@
             "center",
             "staff"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001864.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amblyopia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001864"
 }

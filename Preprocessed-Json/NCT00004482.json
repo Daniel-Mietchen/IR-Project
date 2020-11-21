@@ -119,14 +119,19 @@
             "year"
       ],
       "condition": [
-            "giant",
             "cell",
             "myocarditis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Cyclosporine",
+            "methylprednisolone",
+            "Muromonab-CD3",
             "prednisone"
       ],
       "criteria": [
@@ -188,12 +193,23 @@
             "concurrent",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004482.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00004482"
 }

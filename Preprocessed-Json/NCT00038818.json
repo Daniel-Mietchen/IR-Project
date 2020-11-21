@@ -110,17 +110,22 @@
             "cell"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myeloma",
+            "non",
+            "hodgkin",
+            "lymphoma",
+            "hodgkin",
+            "disease",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "deplete",
-            "donor",
-            "lymphocyte"
+            "CD8 Depleted Donor Lymphocyte"
       ],
       "arm_group_label": [
             "dli"
@@ -315,9 +320,24 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038818.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "donor",
+            "lymphocyte"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "disease"
+      ],
+      "id": "NCT00038818"
 }

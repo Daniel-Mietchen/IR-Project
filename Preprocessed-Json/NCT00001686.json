@@ -223,7 +223,9 @@
             "protocol"
       ],
       "condition": [
-            "rhabdomyosarcoma"
+            "ewing",
+            "sarcoma",
+            "tumor"
       ],
       "criteria": [
             "inclusion",
@@ -321,7 +323,7 @@
             "month",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -330,6 +332,13 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "ewing"
+      ],
+      "id": "NCT00001686"
 }

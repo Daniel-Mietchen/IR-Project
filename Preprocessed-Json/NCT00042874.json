@@ -174,30 +174,47 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "alvocidib",
+            "irinotecan hydrochloride",
+            "fluorouracil",
+            "leucovorin calcium",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
-            "lv"
+            "1275"
       ],
       "criteria": [
             "inclusion",
@@ -366,12 +383,13 @@
             "daily",
             "multivitamin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042874.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00042874"
 }

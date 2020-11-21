@@ -95,13 +95,18 @@
             "placebo"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ALVAC-HIV MN120TMG (vCP205)",
+            "ALVAC-RG Rabies Glycoprotein (vCP65)",
+            "rgp120/HIV-1 SF-2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -310,7 +315,7 @@
             "sexual",
             "behavior"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -319,6 +324,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001076.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001076"
 }

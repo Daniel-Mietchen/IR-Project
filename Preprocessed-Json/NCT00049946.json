@@ -11,13 +11,13 @@
             "patient",
             "schizophrenia"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "talnetant",
             "risperidone"
       ],
       "criteria": [
@@ -78,7 +78,7 @@
             "stabilize",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -87,6 +87,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00049946.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00049946"
 }

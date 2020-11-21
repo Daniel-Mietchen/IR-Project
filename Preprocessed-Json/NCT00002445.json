@@ -116,13 +116,15 @@
             "option"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "IM862"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -210,12 +212,20 @@
             "drug",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002445.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00002445"
 }

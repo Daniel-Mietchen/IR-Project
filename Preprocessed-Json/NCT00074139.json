@@ -190,15 +190,17 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hydrochloride"
+            "cyclophosphamide",
+            "docetaxel",
+            "doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -467,9 +469,7 @@
             "aminoglycoside",
             "antibiotic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -478,6 +478,16 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074139.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00074139"
 }

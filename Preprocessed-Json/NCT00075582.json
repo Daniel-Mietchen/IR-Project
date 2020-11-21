@@ -189,7 +189,6 @@
             "day",
             "1",
             "week",
-            "dactinomycin",
             "iv",
             "1",
             "minute",
@@ -200,7 +199,6 @@
             "16",
             "19",
             "22",
-            "radiotherapy",
             "5",
             "day",
             "week",
@@ -223,7 +221,6 @@
             "receive",
             "vac",
             "chemotherapy",
-            "radiotherapy",
             "regimen",
             "va",
             "chemotherapy",
@@ -235,7 +232,6 @@
             "day",
             "1",
             "week",
-            "dactinomycin",
             "iv",
             "1",
             "minute",
@@ -267,7 +263,6 @@
             "follow",
             "radiotherapy",
             "continue",
-            "va",
             "chemotherapy",
             "regimen",
             "treatment",
@@ -283,7 +278,6 @@
             "omit",
             "radiotherapy",
             "note",
-            "clinical",
             "group",
             "tumor",
             "clinical",
@@ -324,31 +318,73 @@
             "thereafter"
       ],
       "condition": [
-            "previously",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
             "untreated",
             "childhood",
             "rhabdomyosarcoma"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "conventional surgery",
+            "dactinomycin",
+            "cyclophosphamide",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "description": [
+            "patient",
+            "may",
             "undergo",
+            "surgery",
+            "iv",
+            "iv",
+            "iv",
             "radiotherapy"
       ],
       "arm_group_label": [
-            "regimen",
+            "ii",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "ii",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "ii",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
+            "ii",
+            "chemotherapy",
+            "radiotherapy",
+            "surgery",
+            "chemotherapy",
+            "radiotherapy",
             "ii",
             "chemotherapy",
             "radiotherapy",
             "surgery"
       ],
       "other_name": [
-            "therapy",
+            "conventional",
+            "sulfate",
+            "pfs",
             "radiation"
       ],
       "criteria": [
@@ -547,7 +583,6 @@
             "limit",
             "normal",
             "uln",
-            "creatinine",
             "base",
             "follow",
             "greater",
@@ -581,7 +616,6 @@
             "age",
             "16",
             "creatinine",
-            "clearance",
             "radioisotope",
             "glomerular",
             "filtration",
@@ -614,12 +648,15 @@
             "prior",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075582.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "embryonal"
+      ],
+      "id": "NCT00075582"
 }

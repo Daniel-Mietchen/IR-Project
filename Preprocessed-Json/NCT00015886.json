@@ -126,17 +126,22 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "fluorouracil"
       ],
       "description": [
-            "350",
+            "milligram",
+            "per",
+            "meter",
+            "square",
+            "intraveneously",
             "milligram",
             "intraveneously"
       ],
@@ -319,9 +324,7 @@
             "cytotoxic",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -330,6 +333,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015886.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00015886"
 }

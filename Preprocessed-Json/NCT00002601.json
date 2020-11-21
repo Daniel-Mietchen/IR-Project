@@ -229,21 +229,53 @@
             "3",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "melphalan",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "administer",
+            "daily",
+            "follow",
+            "stem",
+            "cell",
+            "reinfusion",
+            "2",
+            "100",
+            "infusion",
+            "rate",
+            "25",
+            "1",
+            "150",
+            "continuous",
+            "intravenous",
+            "infusion",
+            "96",
+            "hour",
+            "1",
+            "14",
+            "continuous",
+            "intravenous",
+            "infusion",
+            "96",
+            "hour",
+            "2",
+            "75",
+            "infuse",
+            "rate",
+            "5",
             "day",
             "0",
             "follow",
@@ -253,6 +285,11 @@
             "2"
       ],
       "arm_group_label": [
+            "psct",
+            "psct",
+            "psct",
+            "psct",
+            "psct",
             "psct"
       ],
       "criteria": [
@@ -619,7 +656,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -628,6 +665,18 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002601.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00002601"
 }

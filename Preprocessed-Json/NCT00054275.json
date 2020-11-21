@@ -166,17 +166,36 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "erlotinib",
-            "hydrochloride"
+            "docetaxel",
+            "erlotinib hydrochloride"
       ],
       "description": [
+            "docetaxel",
+            "iv",
+            "infusion",
+            "weekly",
+            "3",
+            "week",
+            "break",
+            "one",
+            "cycle",
+            "4",
+            "week",
+            "28",
+            "day",
+            "patient",
+            "actual",
+            "weight",
+            "use",
+            "calculate",
+            "dose",
             "take",
             "1",
             "hour",
@@ -207,12 +226,16 @@
             "cycle"
       ],
       "arm_group_label": [
-            "erlotinib",
+            "plus",
+            "docetaxel",
             "plus",
             "docetaxel"
       ],
       "other_name": [
-            "tarceva"
+            "56976",
+            "628503",
+            "erlotinib",
+            "hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -431,12 +454,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054275.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00054275"
 }

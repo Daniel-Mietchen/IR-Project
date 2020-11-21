@@ -420,13 +420,13 @@
             "month"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "early",
-            "detection"
+            "Early detection"
       ],
       "description": [
             "measure",
@@ -442,7 +442,6 @@
             "baseline"
       ],
       "arm_group_label": [
-            "early",
             "detection"
       ],
       "criteria": [
@@ -761,14 +760,20 @@
             "detection",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039559.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00039559"
 }

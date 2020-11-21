@@ -168,23 +168,28 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "celecoxib",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
+            "twice",
+            "daily",
+            "6",
+            "month",
             "orally"
       ],
       "arm_group_label": [
-            "arm"
+            "ii"
       ],
-      "other_name": [
-            "celebra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -428,12 +433,21 @@
             "prior",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055978.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00055978"
 }

@@ -154,14 +154,13 @@
             "child"
       ],
       "condition": [
-            "common",
             "cold"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "echinacea"
+            "Echinacea"
       ],
       "criteria": [
             "inclusion",
@@ -191,7 +190,7 @@
             "sunflower",
             "specie"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -200,6 +199,9 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029211.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "cold"
+      ],
+      "id": "NCT00029211"
 }

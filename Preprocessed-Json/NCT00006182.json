@@ -240,22 +240,22 @@
             "record"
       ],
       "condition": [
-            "anemia",
+            "disease",
+            "accident",
             "sickle",
             "cell"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "blood",
-            "transfusion"
+            "Blood Transfusion"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -264,6 +264,11 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006182.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00006182"
 }

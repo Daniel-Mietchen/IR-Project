@@ -26,24 +26,13 @@
             "therapy"
       ],
       "condition": [
-            "kidney",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vascular",
-            "endothelial",
-            "growth",
-            "factor",
-            "receptor",
-            "vegfr",
-            "growth",
-            "factor",
-            "receptor",
-            "pdgfr",
-            "inhibitor"
+            "Vascular Endothelial Growth Factor Receptor [VEGFR] and Platelet-Derived Growth Factor Receptor [PDGFR] inhibitor"
       ],
       "criteria": [
             "inclusion",
@@ -85,12 +74,17 @@
             "oral",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076011.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "growth",
+            "factor"
+      ],
+      "id": "NCT00076011"
 }

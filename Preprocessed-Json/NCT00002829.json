@@ -171,31 +171,58 @@
             "expect",
             "enrol"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Recombinant Interferon Alfa",
+            "Cyclophosphamide",
+            "Etoposide",
+            "Mesna",
+            "Bone Marrow Transplantation",
+            "Radiation Therapy"
       ],
       "description": [
-            "total",
+            "intravenously",
+            "2",
+            "hour",
+            "daily",
+            "day",
+            "intravenously",
+            "day",
+            "1",
+            "hour",
+            "initiation",
+            "cyclophosphamide",
+            "treatment",
+            "day",
+            "0",
             "body",
             "irradiation",
             "receive",
             "day"
       ],
       "arm_group_label": [
-            "bone",
+            "marrow",
+            "transplantation",
+            "marrow",
+            "transplantation",
+            "marrow",
+            "transplantation",
+            "marrow",
+            "transplantation",
+            "marrow",
+            "transplantation",
             "marrow",
             "transplantation"
       ],
-      "other_name": [
-            "tbi"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -336,7 +363,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -345,6 +372,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002829.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002829"
 }

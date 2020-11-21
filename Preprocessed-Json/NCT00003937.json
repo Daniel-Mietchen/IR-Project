@@ -470,22 +470,98 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "cisplatin",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "methotrexate",
+            "conventional surgery"
       ],
       "arm_group_label": [
-            "pilot",
+            "1",
+            "doxorubicin",
+            "intensification",
+            "without",
+            "ifosfamide",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
+            "3",
+            "intensification",
+            "1",
+            "doxorubicin",
+            "intensification",
+            "without",
+            "ifosfamide",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
+            "3",
+            "intensification",
+            "1",
+            "doxorubicin",
+            "intensification",
+            "without",
+            "ifosfamide",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
+            "3",
+            "intensification",
+            "3",
+            "intensification",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
+            "3",
+            "intensification",
+            "1",
+            "doxorubicin",
+            "intensification",
+            "without",
+            "ifosfamide",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
+            "3",
+            "intensification",
+            "1",
+            "doxorubicin",
+            "intensification",
+            "without",
+            "ifosfamide",
+            "2",
+            "doxorubicin",
+            "intensification",
+            "ifosfamide",
             "3",
             "intensification"
       ],
       "other_name": [
-            "nsc",
+            "ii",
+            "119875",
+            "169780",
+            "123127",
+            "141540",
+            "109724",
             "000740"
       ],
       "criteria": [
@@ -604,12 +680,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003937.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003937"
 }

@@ -124,13 +124,13 @@
             "surgical",
             "excision"
       ],
-      "condition": [
-            "hemangioma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "leuprolide",
             "prednisone"
       ],
       "criteria": [
@@ -172,7 +172,7 @@
             "juvenile",
             "hemangioma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -181,6 +181,11 @@
             "8",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004436.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004436"
 }

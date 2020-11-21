@@ -214,7 +214,7 @@
             "study"
       ],
       "condition": [
-            "healthy",
+            "disease",
             "volunteer"
       ],
       "criteria": [
@@ -405,12 +405,21 @@
             "allergy",
             "etc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031174.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00031174"
 }

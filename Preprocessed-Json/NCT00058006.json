@@ -210,15 +210,17 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "celecoxib",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -442,12 +444,25 @@
             "concurrent",
             "lithium"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058006.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00058006"
 }

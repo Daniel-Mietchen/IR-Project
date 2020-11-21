@@ -217,7 +217,8 @@
             "cvd"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disorder",
             "accident"
       ],
       "study_pop": [],
@@ -231,9 +232,13 @@
             "mri",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049920.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00049920"
 }

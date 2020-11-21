@@ -554,26 +554,25 @@
             "give"
       ],
       "condition": [
-            "renal",
+            "disease",
+            "renovascular",
             "artery",
             "obstruction"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "genesistm",
-            "embolic",
-            "protection",
-            "stent",
-            "angioguard",
-            "device",
-            "angioplasty",
-            "plus",
-            "stenting"
+            "Atacand/HCT, Caduet",
+            "GENESISTM Embolic Protection Stent and Angioguard Device (Angioplasty plus stenting)"
       ],
       "description": [
-            "angioplasty",
+            "caduet",
+            "optimal",
+            "medical",
+            "therapy",
+            "hypertension",
             "plus",
             "stenting",
             "renal",
@@ -586,7 +585,8 @@
             "device"
       ],
       "arm_group_label": [
-            "stenting"
+            "medical",
+            "therapy"
       ],
       "criteria": [
             "inclusion",
@@ -836,7 +836,6 @@
             "associate",
             "residual",
             "neurologic",
-            "deficit",
             "9",
             "major",
             "surgery",
@@ -852,7 +851,6 @@
             "day",
             "prior",
             "study",
-            "entry",
             "10",
             "plan",
             "major",
@@ -866,14 +864,12 @@
             "stenting",
             "indicate",
             "protocol",
-            "randomization",
             "11",
             "hospitalization",
             "heart",
             "failure",
             "within",
             "30",
-            "day",
             "12",
             "comorbid",
             "condition",
@@ -883,7 +879,6 @@
             "le",
             "equal",
             "3",
-            "year",
             "13",
             "allergic",
             "reaction",
@@ -979,7 +974,6 @@
             "cr",
             "greater",
             "day",
-            "randomization",
             "23",
             "presence",
             "renal",
@@ -1059,12 +1053,22 @@
             "meet",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081731.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "artery",
+            "obstruction",
+            "renovascular",
+            "atorvastatin",
+            "drug",
+            "combination",
+            "cilexetil"
+      ],
+      "id": "NCT00081731"
 }

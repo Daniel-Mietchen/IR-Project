@@ -173,24 +173,42 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "Bicalutamide",
+            "Doxorubicin hydrochloride",
+            "Estramustine Phosphate Sodium",
+            "Flutamide",
+            "Ketoconazole",
+            "Nilutamide",
+            "Therapeutic Hydrocortisone",
+            "Vinblastine",
+            "Conventional Surgery"
       ],
       "arm_group_label": [
-            "arm"
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii"
       ],
       "other_name": [
-            "castration"
+            "pfs",
+            "rdf"
       ],
       "description": [
-            "surgical",
             "castration"
       ],
       "criteria": [
@@ -393,11 +411,20 @@
             "aggressive",
             "anticoagulant"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002855.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002855"
 }

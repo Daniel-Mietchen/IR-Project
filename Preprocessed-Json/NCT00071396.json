@@ -99,18 +99,40 @@
             "rituximab"
       ],
       "condition": [
-            "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Campath-1H",
+            "Rituximab"
       ],
       "description": [
-            "375",
+            "continuous",
+            "infusion",
+            "vein",
+            "iv",
+            "6",
+            "day",
+            "give",
+            "twice",
+            "week",
+            "remain",
+            "three",
+            "week",
+            "30",
+            "mg",
+            "injection",
+            "skin",
+            "complete",
+            "one",
+            "treatment",
+            "course",
+            "4",
+            "week",
             "iv",
             "infusion",
             "day",
@@ -122,11 +144,10 @@
             "22"
       ],
       "arm_group_label": [
+            "rituximab",
             "rituximab"
       ],
-      "other_name": [
-            "rituxan"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -326,12 +347,20 @@
             "infection",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071396.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00071396"
 }

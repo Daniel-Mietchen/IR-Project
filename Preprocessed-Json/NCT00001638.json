@@ -89,7 +89,6 @@
             "technology"
       ],
       "condition": [
-            "heart",
             "disease"
       ],
       "criteria": [
@@ -375,12 +374,19 @@
             "see",
             "ecg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001638.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiovascular",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001638"
 }

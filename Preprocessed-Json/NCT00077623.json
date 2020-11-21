@@ -40,20 +40,31 @@
             "size",
             "individual"
       ],
-      "condition": [
-            "anemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methoxy",
-            "polyethylene",
-            "beta",
-            "mircera"
+            "epoetin alfa or beta",
+            "methoxy polyethylene glycol-epoetin beta (Mircera)",
+            "methoxy polyethylene glycol-epoetin beta (Mircera)"
       ],
       "description": [
-            "60",
+            "3",
+            "time",
+            "weekly",
+            "prescribe",
+            "100",
+            "180",
+            "microgram",
+            "sc",
+            "start",
+            "dose",
+            "every",
+            "2",
+            "week",
             "100",
             "180",
             "microgram",
@@ -65,6 +76,8 @@
             "week"
       ],
       "arm_group_label": [
+            "reference",
+            "week",
             "week"
       ],
       "criteria": [
@@ -111,12 +124,15 @@
             "study",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077623.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00077623"
 }

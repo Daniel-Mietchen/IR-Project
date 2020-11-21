@@ -196,32 +196,57 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bortezomib",
+            "fluorouracil",
+            "leucovorin calcium",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "bortezomib",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "bortezomib",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "bortezomib",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
             "bortezomib",
             "fluorouracil",
             "leucovorin",
             "calcium"
       ],
       "other_name": [
-            "pharmacological",
+            "341",
             "study"
       ],
       "criteria": [
@@ -467,12 +492,15 @@
             "2",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007878.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "dietary"
+      ],
+      "id": "NCT00007878"
 }

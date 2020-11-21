@@ -234,17 +234,27 @@
             "caries"
       ],
       "condition": [
-            "dental",
             "caries"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "xylitol",
-            "chew",
-            "gum"
+            "Chlorhexidine mouth rinse",
+            "Xylitol chewing gum"
       ],
       "description": [
-            "woman",
+            "receive",
+            "daily",
+            "chlorhexidine",
+            "oral",
+            "rinse",
+            "two",
+            "week",
+            "prior",
+            "delivery",
+            "infant",
             "ask",
             "chew",
             "xylitol",
@@ -262,7 +272,7 @@
             "postpartum"
       ],
       "arm_group_label": [
-            "intervention",
+            "group",
             "group"
       ],
       "criteria": [
@@ -303,11 +313,13 @@
             "city",
             "alaska"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067340.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "caries",
+            "gluconate"
+      ],
+      "id": "NCT00067340"
 }

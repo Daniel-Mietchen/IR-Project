@@ -89,19 +89,13 @@
             "age"
       ],
       "condition": [
-            "staphylococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "staphylococcus",
-            "aureus",
-            "immune",
-            "globulin",
-            "human",
-            "5"
+            "Staphylococcus aureus Immune Globulin (Human) 5%"
       ],
       "criteria": [
             "subject",
@@ -235,12 +229,23 @@
             "system",
             "shunt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "7",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066989.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "staphylococcus",
+            "aureus"
+      ],
+      "mesh_term": [
+            "weight",
+            "infection",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00066989"
 }

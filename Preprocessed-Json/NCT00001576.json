@@ -109,13 +109,18 @@
       ],
       "condition": [
             "neoplasm",
+            "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin"
+            "Melphalan",
+            "Floxuridine",
+            "Leucovorin"
       ],
       "criteria": [
             "histologically",
@@ -300,9 +305,17 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001576.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hyperthermia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00001576"
 }

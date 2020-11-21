@@ -572,7 +572,6 @@
             "s"
       ],
       "condition": [
-            "autoimmune",
             "disease"
       ],
       "criteria": [
@@ -637,9 +636,16 @@
             "plaque",
             "accumulation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048685.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sjogren",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00048685"
 }

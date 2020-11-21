@@ -203,16 +203,24 @@
             "sample"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "failure",
+            "congestive",
+            "disease",
             "failure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021892.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00021892"
 }

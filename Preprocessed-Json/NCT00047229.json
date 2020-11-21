@@ -156,7 +156,6 @@
             "mtd",
             "determine",
             "additional",
-            "patient",
             "include",
             "6",
             "patient",
@@ -203,15 +202,15 @@
             "month"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hydrochloride"
+            "oblimersen sodium",
+            "doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -478,12 +477,24 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047229.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "primary",
+            "liver",
+            "cancer"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00047229"
 }

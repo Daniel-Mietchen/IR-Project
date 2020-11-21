@@ -53,14 +53,15 @@
             "patient"
       ],
       "condition": [
-            "myelogenous",
             "leukemia",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SCH66336"
+      ],
       "criteria": [
             "diagnosis",
             "philadelphia",
@@ -120,12 +121,26 @@
             "rifampin",
             "isoniazid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038597.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelogenous",
+            "leukemia",
+            "chronic",
+            "accelerate",
+            "phase"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "disease"
+      ],
+      "id": "NCT00038597"
 }

@@ -218,22 +218,34 @@
             "complete"
       ],
       "condition": [
-            "bronchopulmonary",
+            "disease",
             "dysplasia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "iNO",
+            "Placebo"
       ],
       "description": [
-            "inhale",
+            "nitric",
+            "oxide",
+            "prevent",
+            "chronic",
+            "lung",
+            "disease",
+            "premature",
+            "infant",
             "nitrogen"
       ],
       "arm_group_label": [
-            "placebo"
+            "nitric",
+            "oxide",
+            "ino"
       ],
       "other_name": [
-            "inhale",
             "nitric",
             "oxide"
       ],
@@ -316,12 +328,17 @@
             "hour",
             "birth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006401.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "dysplasia",
+            "oxide"
+      ],
+      "id": "NCT00006401"
 }

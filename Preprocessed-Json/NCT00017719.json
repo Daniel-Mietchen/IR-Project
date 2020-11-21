@@ -278,13 +278,21 @@
             "period"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Lamivudine",
+            "Lamivudine/Zidovudine",
+            "Nelfinavir mesylate",
+            "Nevirapine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -445,14 +453,28 @@
             "study",
             "participation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017719.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "zidovudine",
+            "drug",
+            "combination",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00017719"
 }

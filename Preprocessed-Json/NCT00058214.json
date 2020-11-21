@@ -160,28 +160,36 @@
             "progression"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
+            "iib",
+            "prostate",
+            "cancer",
+            "iii",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "perifosine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "perifosine",
             "perifosine"
       ],
-      "other_name": [
-            "octadecylphosphopiperidine"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -495,14 +503,15 @@
             "5",
             "year"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058214.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058214"
 }

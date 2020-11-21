@@ -104,13 +104,15 @@
             "oopd",
             "record"
       ],
-      "condition": [
-            "cysticercosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "albendazole",
+            "dexamethasone",
             "phenytoin"
       ],
       "criteria": [
@@ -212,7 +214,7 @@
             "cysticercosis",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -221,6 +223,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004403.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "seizure"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004403"
 }

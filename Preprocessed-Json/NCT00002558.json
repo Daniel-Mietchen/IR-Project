@@ -326,23 +326,46 @@
             "mass"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "etoposide",
+            "ifosfamide",
+            "paclitaxel",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "administer",
+            "pbsc",
+            "support",
+            "administer",
+            "pbsc",
+            "support",
+            "administer",
+            "pbsc",
+            "support",
+            "administer",
+            "pbsc",
+            "support",
+            "administer",
+            "pbsc",
+            "support",
             "administer",
             "pbsc",
             "support"
@@ -520,12 +543,26 @@
             "recent",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002558.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00002558"
 }

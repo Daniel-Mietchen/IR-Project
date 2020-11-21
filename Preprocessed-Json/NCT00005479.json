@@ -315,7 +315,13 @@
             "dollar"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "mellitus",
+            "dependent",
             "mellitus"
       ],
       "study_pop": [],
@@ -464,7 +470,7 @@
             "75",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -473,6 +479,19 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005479.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00005479"
 }

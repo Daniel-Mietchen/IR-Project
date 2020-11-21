@@ -238,32 +238,33 @@
             "year"
       ],
       "condition": [
-            "precancerous",
+            "cancer",
             "condition"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "iloprost",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
             "ii"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "current",
-            "former",
             "smoker",
             "20",
             "history",
             "smoke",
             "note",
-            "define",
             "tobacco",
             "use",
             "within",
@@ -448,12 +449,21 @@
             "prior",
             "prostacyclin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084409.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "lung",
+            "dysplasia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00084409"
 }

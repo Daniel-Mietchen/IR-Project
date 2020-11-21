@@ -270,15 +270,15 @@
             "anderson"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "RAD001"
+      ],
       "description": [
-            "10",
             "mg",
             "mouth",
             "daily"
@@ -589,11 +589,16 @@
             "crospovidone",
             "lactulose"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087685.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "uterine",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087685"
 }

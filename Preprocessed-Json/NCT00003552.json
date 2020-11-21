@@ -264,13 +264,20 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "melanoma",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "allogeneic lymphocytes",
+            "anti-thymocyte globulin",
+            "cyclophosphamide",
             "fludarabine"
       ],
       "criteria": [
@@ -379,7 +386,7 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -388,5 +395,12 @@
             "60",
             "year"
       ],
-      "id": "NCT00003552.xml"
+      "keyword": [
+            "stage",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "serum"
+      ],
+      "id": "NCT00003552"
 }

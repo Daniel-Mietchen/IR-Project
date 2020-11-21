@@ -184,14 +184,28 @@
             "year"
       ],
       "condition": [
-            "uterine",
+            "cancer",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "cancer",
+            "cancer",
+            "sarcoma",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
             "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "montanide"
+            "interleukin-2",
+            "MAGE-12 peptide vaccine",
+            "Montanide ISA-51"
       ],
       "criteria": [
             "protocol",
@@ -218,7 +232,6 @@
             "breast",
             "carcinoma",
             "sarcoma",
-            "0702",
             "positive",
             "expression",
             "amplify",
@@ -383,11 +396,25 @@
             "receive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00020267.xml"
+      "keyword": [
+            "uterine",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "metastasis",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00020267"
 }

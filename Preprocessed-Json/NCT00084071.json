@@ -19,14 +19,12 @@
             "severe",
             "pneumonia"
       ],
-      "condition": [
-            "pneumonia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tifacogin"
+            "Tifacogin"
       ],
       "criteria": [
             "inclusion",
@@ -69,9 +67,13 @@
             "need",
             "heparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084071.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "coagulation",
+            "inhibitor"
+      ],
+      "id": "NCT00084071"
 }

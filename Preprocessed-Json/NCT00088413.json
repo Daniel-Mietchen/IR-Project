@@ -525,17 +525,43 @@
             "vaccination"
       ],
       "condition": [
-            "breast",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim",
-            "leukine"
+            "PANVAC-V",
+            "PANVAC-F",
+            "Sargramostim (GM-CSF, Leukine)"
       ],
       "description": [
+            "recombinant",
+            "vaccinia",
+            "virus",
+            "vector",
+            "vaccine",
+            "contain",
+            "gene",
+            "human",
+            "cea",
+            "three",
+            "molecule",
+            "recombinant",
+            "fowlpox",
+            "virus",
+            "vector",
+            "vaccine",
+            "contain",
+            "gene",
+            "human",
+            "cea",
+            "three",
+            "molecule",
             "recombinant",
             "human",
             "colony",
@@ -554,9 +580,7 @@
             "administer",
             "subcutaneously"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1201,7 +1225,7 @@
             "uncontrolled",
             "angina"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1210,6 +1234,13 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088413.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00088413"
 }

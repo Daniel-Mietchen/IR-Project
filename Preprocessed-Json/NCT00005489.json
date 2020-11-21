@@ -86,21 +86,34 @@
             "disorder"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "pectoris",
+            "accident",
+            "infarction",
+            "mellitus",
+            "failure",
+            "congestive",
             "failure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005489.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "failure",
+            "disease",
+            "disease",
+            "infarction",
+            "pectoris"
+      ],
+      "id": "NCT00005489"
 }

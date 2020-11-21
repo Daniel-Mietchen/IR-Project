@@ -133,13 +133,19 @@
             "future"
       ],
       "condition": [
-            "lipodystrophy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Nelfinavir mesylate",
+            "Stavudine",
+            "Lamivudine",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -211,7 +217,7 @@
             "function",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -220,6 +226,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006190.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adipose",
+            "tissue"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006190"
 }

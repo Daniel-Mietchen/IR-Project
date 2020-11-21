@@ -259,7 +259,6 @@
             "marker"
       ],
       "condition": [
-            "type",
             "arnold",
             "chiari",
             "malformation"
@@ -329,12 +328,20 @@
             "without",
             "sedation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004738.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chiari",
+            "malformation"
+      ],
+      "mesh_term": [
+            "abnormality",
+            "malformation"
+      ],
+      "id": "NCT00004738"
 }

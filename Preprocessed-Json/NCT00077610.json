@@ -39,17 +39,36 @@
             "size",
             "individual"
       ],
-      "condition": [
-            "anemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "week"
+            "Epoetin alfa or beta",
+            "RO0503821 (1x/2 Weeks)",
+            "RO0503821 (1x/4 Weeks)"
       ],
       "description": [
-            "120",
+            "3",
+            "time",
+            "weekly",
+            "52",
+            "week",
+            "prescribe",
+            "100",
+            "180",
+            "microgram",
+            "mcg",
+            "start",
+            "dose",
+            "every",
+            "two",
+            "week",
+            "intravenously",
+            "52",
+            "week",
             "200",
             "360",
             "mcg",
@@ -63,11 +82,10 @@
             "week"
       ],
       "arm_group_label": [
+            "week",
             "week"
       ],
-      "other_name": [
-            "mircera"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -112,12 +130,15 @@
             "study",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077610.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00077610"
 }

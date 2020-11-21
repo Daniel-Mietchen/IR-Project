@@ -62,23 +62,27 @@
             "patient",
             "population"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "oxalplatin",
-            "ifosfasmide",
-            "etoposide",
-            "mitoxatrone",
-            "gemcitabine",
-            "rituximab"
+            "pixantrone, cyclophosphamide, vincristine, rituximab, prednisone",
+            "Vinorelbine, Oxalplatin, Ifosfasmide, Etoposide, Mitoxatrone, Gemcitabine or Rituximab"
       ],
       "description": [
+            "1",
+            "pixantrone",
+            "150",
+            "cyclophosphamide",
+            "750",
+            "vincristine",
+            "rituximab",
+            "375",
             "day",
+            "prednisone",
+            "100",
             "1",
             "cyclophosphamide",
             "750",
@@ -89,9 +93,7 @@
             "prednisone",
             "100"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -191,12 +193,16 @@
             "nurse",
             "mother"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088530.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00088530"
 }

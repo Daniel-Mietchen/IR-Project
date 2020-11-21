@@ -185,19 +185,46 @@
             "snp"
       ],
       "condition": [
-            "postmenopausal",
             "woman"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "woman",
-            "snp",
-            "give",
-            "low",
-            "choline",
-            "diet"
+            "Estrogen plus choline depletion diet",
+            "Placebo plus choline depletion diet",
+            "Pre-menopausal women with SNPs given a low choline diet"
       ],
       "description": [
+            "subject",
+            "receive",
+            "estrogen",
+            "challenge",
+            "low",
+            "choline",
+            "diet",
+            "determine",
+            "estrogen",
+            "protect",
+            "induction",
+            "choline",
+            "deficiency",
+            "woman",
+            "randomize",
+            "receive",
+            "placebo",
+            "subject",
+            "low",
+            "choline",
+            "diet",
+            "determine",
+            "clinical",
+            "sign",
+            "choline",
+            "deficiency",
+            "induce",
             "woman",
             "specific",
             "genetic",
@@ -218,9 +245,7 @@
             "choline",
             "deficiency"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -290,9 +315,7 @@
             "metallic",
             "object"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -301,6 +324,7 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065546.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00065546"
 }

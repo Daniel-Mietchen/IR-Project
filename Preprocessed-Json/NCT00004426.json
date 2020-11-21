@@ -110,13 +110,13 @@
             "oopd",
             "record"
       ],
-      "condition": [
-            "hypogonadism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gonadotropin releasing hormone",
             "leuprolide"
       ],
       "criteria": [
@@ -202,7 +202,7 @@
             "hormone",
             "deficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -211,6 +211,11 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004426.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004426"
 }

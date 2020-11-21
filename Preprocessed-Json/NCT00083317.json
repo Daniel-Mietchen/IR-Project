@@ -338,9 +338,7 @@
             "engage",
             "economic"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -438,7 +436,7 @@
             "medication",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -447,6 +445,9 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "id": "NCT00083317"
 }

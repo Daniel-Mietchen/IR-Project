@@ -522,7 +522,8 @@
             "exercise"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "sampling_method": [
             "sample"
@@ -531,9 +532,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "25",
             "year"
@@ -542,6 +541,10 @@
             "54",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005192.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005192"
 }

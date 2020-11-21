@@ -651,18 +651,29 @@
             "5",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "asparaginase",
+            "cytarabine",
+            "mercaptopurine",
+            "methotrexate",
+            "prednisolone",
+            "vincristine sulfate"
       ],
       "arm_group_label": [
-            "b",
+            "vimaram",
+            "vimaram",
+            "vimaram",
+            "vimaram",
+            "vimaram",
             "vimaram"
       ],
       "criteria": [
@@ -734,12 +745,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00015873"
 }

@@ -177,15 +177,13 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "125"
+            "iodine I 125"
       ],
       "criteria": [
             "disease",
@@ -295,11 +293,18 @@
             "hip",
             "prosthesis"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003312.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003312"
 }

@@ -207,17 +207,14 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "autologous",
-            "tumor",
-            "cell",
-            "vaccine"
+            "aldesleukin",
+            "autologous tumor cell vaccine"
       ],
       "criteria": [
             "disease",
@@ -445,12 +442,22 @@
             "past",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020462.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "follicular"
+      ],
+      "id": "NCT00020462"
 }

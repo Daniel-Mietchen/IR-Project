@@ -52,16 +52,14 @@
             "model"
       ],
       "condition": [
-            "coronary",
+            "infarction",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "tailor",
-            "education",
-            "message"
+            "Tailored Education Messages"
       ],
       "criteria": [
             "inclusion",
@@ -145,12 +143,23 @@
             "onset",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013741.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "heart",
+            "disease"
+      ],
+      "mesh_term": [
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00013741"
 }

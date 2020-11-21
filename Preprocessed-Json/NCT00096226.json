@@ -254,18 +254,35 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "consolidation",
-            "paclitaxel"
+            "Induction Carboplatin",
+            "Induction Paclitaxel",
+            "Resection",
+            "Consolidation Carboplatin",
+            "Radiation Therapy",
+            "Consolidation Paclitaxel"
       ],
       "arm_group_label": [
-            "chemoradiation",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "chemotherapy",
             "surgery",
             "chemotherapy"
       ],
@@ -482,12 +499,24 @@
             "concurrent",
             "amifostine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096226.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00096226"
 }

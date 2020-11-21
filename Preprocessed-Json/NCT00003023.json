@@ -211,16 +211,14 @@
             "serological",
             "response"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody",
-            "vaccine"
+            "BCG vaccine",
+            "monoclonal antibody A1G4 anti-idiotype vaccine"
       ],
       "criteria": [
             "disease",
@@ -381,9 +379,21 @@
             "characteristic",
             "splenectomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003023.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "monoclonal",
+            "vaccine"
+      ],
+      "id": "NCT00003023"
 }

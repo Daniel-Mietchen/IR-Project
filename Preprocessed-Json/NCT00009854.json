@@ -134,15 +134,19 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "carmustine in ethanol",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -405,7 +409,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -414,6 +418,18 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009854.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00009854"
 }

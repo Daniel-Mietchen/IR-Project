@@ -145,17 +145,27 @@
             "year"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "ciprofloxacin"
+            "cephalexin",
+            "surgical procedure",
+            "Ciprofloxacin"
       ],
       "description": [
-            "500",
+            "mg",
+            "oral",
+            "bid",
+            "3",
+            "day",
+            "start",
+            "night",
+            "resection",
             "mg",
             "oral",
             "bid",
@@ -165,12 +175,8 @@
             "night",
             "resection"
       ],
-      "arm_group_label": [
-            "cipro"
-      ],
-      "other_name": [
-            "cipro"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -312,12 +318,24 @@
             "cyclosporine",
             "warfarin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003824.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell"
+      ],
+      "id": "NCT00003824"
 }

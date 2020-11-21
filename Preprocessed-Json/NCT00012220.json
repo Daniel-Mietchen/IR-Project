@@ -262,18 +262,83 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "cisplatin",
+            "docetaxel",
+            "gemcitabine hydrochloride",
+            "irinotecan hydrochloride"
       ],
       "description": [
-            "100",
+            "iv",
+            "infusion",
+            "30",
+            "min",
+            "day",
+            "1",
+            "15",
+            "ea",
+            "cycle",
+            "iv",
+            "infusion",
+            "60",
+            "min",
+            "day",
+            "1",
+            "8",
+            "ea",
+            "treatment",
+            "cycle",
+            "arm",
+            "1500",
+            "250",
+            "ml",
+            "n",
+            "iv",
+            "infusion",
+            "150",
+            "min",
+            "day",
+            "1",
+            "8",
+            "15",
+            "ea",
+            "arm",
+            "1000",
+            "250",
+            "ml",
+            "n",
+            "iv",
+            "infusion",
+            "30",
+            "min",
+            "day",
+            "1",
+            "8",
+            "15",
+            "ea",
+            "irinotecan",
+            "arm",
+            "1000",
+            "250",
+            "ml",
+            "n",
+            "iv",
+            "infusion",
+            "30",
+            "min",
+            "day",
+            "1",
+            "8",
+            "ea",
+            "cycle",
             "500",
             "ml",
             "iv",
@@ -287,7 +352,11 @@
             "cycle"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "cisplastin",
+            "docetaxel",
+            "cisplastin",
+            "docetaxel",
+            "irinotecan",
             "irinotecan"
       ],
       "criteria": [
@@ -424,12 +493,21 @@
             "cns",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012220.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00012220"
 }

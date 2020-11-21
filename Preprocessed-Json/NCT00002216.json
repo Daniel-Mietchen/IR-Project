@@ -40,15 +40,19 @@
             "combivir"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Lamivudine/Zidovudine",
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -115,12 +119,21 @@
             "transcriptase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002216.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00002216"
 }

@@ -151,18 +151,13 @@
             "function"
       ],
       "condition": [
-            "dental",
             "caries"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "disperse",
-            "phase",
-            "amalgam",
-            "restoration",
-            "restoration"
+            "Dispersed phase amalgam restoration /composite restoration"
       ],
       "criteria": [
             "6",
@@ -197,7 +192,7 @@
             "renal",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -206,6 +201,9 @@
             "10",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065988.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "caries"
+      ],
+      "id": "NCT00065988"
 }

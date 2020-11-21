@@ -72,14 +72,15 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Thymic Humoral Factor",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -251,12 +252,26 @@
             "compliance",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002435.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thymic",
+            "humoral",
+            "factor",
+            "gamma",
+            "2"
+      ],
+      "mesh_term": [
+            "infection",
+            "humoral",
+            "factor",
+            "gamma",
+            "2"
+      ],
+      "id": "NCT00002435"
 }

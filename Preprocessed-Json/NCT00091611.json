@@ -431,14 +431,21 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mesna"
+            "IL-2 (interleukin-2)",
+            "OKT3",
+            "Cyclophosphamide",
+            "Fludarabine",
+            "Mesna"
       ],
       "criteria": [
             "inclusion",
@@ -665,7 +672,6 @@
             "contraception",
             "treatment",
             "phase",
-            "study",
             "patient",
             "asymptomatic",
             "brain",
@@ -723,12 +729,21 @@
             "nurse",
             "infant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091611.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00091611"
 }

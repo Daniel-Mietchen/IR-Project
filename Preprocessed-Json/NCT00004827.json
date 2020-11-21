@@ -86,15 +86,13 @@
             "record"
       ],
       "condition": [
-            "retinitis",
             "pigmentosa"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "docosahexaenoic",
-            "acid"
+            "docosahexaenoic acid"
       ],
       "criteria": [
             "protocol",
@@ -154,11 +152,16 @@
             "clinical",
             "significance"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004827.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "retinitis",
+            "pigmentosa"
+      ],
+      "mesh_term": [
+            "pigmentosa"
+      ],
+      "id": "NCT00004827"
 }

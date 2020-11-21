@@ -27,23 +27,39 @@
             "cancer"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "TLK286",
+            "carboplatin",
             "paclitaxel"
       ],
       "description": [
-            "200",
+            "3",
+            "week",
+            "start",
+            "dose",
+            "400",
+            "6",
+            "every",
+            "3",
+            "week",
             "every",
             "3",
             "week"
       ],
       "arm_group_label": [
-            "triplet",
+            "combination",
+            "carboplatin",
+            "paclitaxel",
+            "combination",
+            "carboplatin",
+            "paclitaxel",
             "combination",
             "carboplatin",
             "paclitaxel"
@@ -109,12 +125,22 @@
             "lactate",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088556.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00088556"
 }

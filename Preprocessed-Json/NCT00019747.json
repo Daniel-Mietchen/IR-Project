@@ -219,27 +219,83 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "thalidomide",
+            "adjuvant therapy",
+            "Placebo"
       ],
       "description": [
-            "oral",
+            "thalidomide",
+            "100",
+            "mg",
+            "bedtime",
+            "daily",
+            "4",
+            "week",
+            "progress",
+            "200",
+            "mg",
+            "bedtime",
+            "4",
+            "week",
+            "progress",
+            "300",
+            "mg",
+            "bedtime",
+            "maintenance",
+            "dose",
+            "dose",
+            "100",
+            "mg",
+            "mouth",
+            "po",
+            "every",
+            "bedtime",
+            "q",
+            "h",
+            "four",
+            "week",
+            "progress",
+            "200",
+            "mg",
+            "po",
+            "q",
+            "h",
+            "four",
+            "week",
+            "progress",
+            "maintenance",
+            "dose",
+            "300",
+            "mg",
+            "po",
+            "q",
+            "h",
             "placebo",
             "daily"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "thalidomide",
+            "daily",
+            "1",
+            "thalidomide",
+            "daily",
+            "2",
+            "placebo",
+            "daily",
             "2",
             "placebo",
             "daily"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -452,12 +508,20 @@
             "antiseizure",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019747.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00019747"
 }

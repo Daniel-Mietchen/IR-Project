@@ -24,15 +24,14 @@
             "bpd"
       ],
       "condition": [
-            "borderline",
             "personality",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "olanzapine"
+            "Olanzapine"
       ],
       "criteria": [
             "inclusion",
@@ -215,7 +214,7 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -224,6 +223,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088036.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "personality",
+            "disorder"
+      ],
+      "id": "NCT00088036"
 }

@@ -76,14 +76,20 @@
             "response"
       ],
       "condition": [
-            "colorectal",
+            "metastasis",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin"
+            "Celecoxib",
+            "Irinotecan",
+            "5-fluorouracil",
+            "Leucovorin"
       ],
       "criteria": [
             "inclusion",
@@ -217,12 +223,16 @@
             "chronic",
             "diarrhea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037180.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00037180"
 }

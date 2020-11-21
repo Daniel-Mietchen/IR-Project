@@ -145,13 +145,16 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "carcinoid",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
             "fluorouracil"
       ],
       "criteria": [
@@ -325,12 +328,24 @@
             "fluorinated",
             "pyrimidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002470.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "carcinoid",
+            "tumor"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "carcinoid",
+            "syndrome",
+            "neoplasm"
+      ],
+      "id": "NCT00002470"
 }

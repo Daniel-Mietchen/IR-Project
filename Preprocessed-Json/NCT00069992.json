@@ -472,17 +472,27 @@
             "need"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloproliferative",
+            "disorder",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "campath"
+            "Total Body Irradiation",
+            "Fludarabine",
+            "Campath 1H"
       ],
       "description": [
-            "campath",
+            "body",
+            "irradiation",
+            "single",
+            "dose",
+            "day",
+            "day",
             "dose",
             "per",
             "institutional",
@@ -490,15 +500,20 @@
             "day"
       ],
       "arm_group_label": [
-            "submyeloablative",
+            "allogeneic",
+            "stem",
+            "cell",
+            "transplant",
+            "allogeneic",
+            "stem",
+            "cell",
+            "transplant",
             "allogeneic",
             "stem",
             "cell",
             "transplant"
       ],
-      "other_name": [
-            "alemtuzumab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -622,9 +637,23 @@
             "hematological",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "disorder",
+            "phosphate"
+      ],
+      "id": "NCT00069992"
 }

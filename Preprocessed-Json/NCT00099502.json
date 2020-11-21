@@ -77,23 +77,32 @@
             "trial"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "copaxone"
+            "Interferon beta-1b (Betaferon/Betaseron, BAY86-5046)",
+            "Interferon beta-1b (Betaferon/Betaseron, BAY86-5046)",
+            "Copaxone"
       ],
       "description": [
-            "20",
+            "administer",
+            "every",
+            "day",
+            "administer",
+            "every",
+            "day",
             "mg",
             "administer",
             "daily"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "2",
             "3"
       ],
       "criteria": [
@@ -150,7 +159,7 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -159,6 +168,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099502.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "betaseron"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "sclerosis",
+            "acetate"
+      ],
+      "id": "NCT00099502"
 }

@@ -34,14 +34,14 @@
             "classification"
       ],
       "condition": [
-            "hiv",
+            "oral",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nystatin"
+            "Nystatin"
       ],
       "criteria": [
             "inclusion",
@@ -173,12 +173,20 @@
             "candidal",
             "esophagitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002057.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "candidiasis",
+            "oral"
+      ],
+      "mesh_term": [
+            "infection",
+            "oral"
+      ],
+      "id": "NCT00002057"
 }

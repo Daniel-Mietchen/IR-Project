@@ -198,17 +198,17 @@
             "separately"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "cytology specimen collection procedure",
+            "immunoenzyme technique",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -353,12 +353,22 @@
             "thoracoabdominal",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002667.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00002667"
 }

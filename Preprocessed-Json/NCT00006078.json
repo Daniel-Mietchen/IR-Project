@@ -143,12 +143,10 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement"
       ],
       "intervention_name": [
             "lycopene"
@@ -306,9 +304,7 @@
             "experimental",
             "trial"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -317,6 +313,13 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006078.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006078"
 }

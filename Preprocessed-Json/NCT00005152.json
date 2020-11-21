@@ -426,7 +426,14 @@
             "polymorphism"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "mellitus",
+            "disease",
+            "disease",
+            "accident",
+            "embolism",
+            "pectoris",
+            "infarction"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -437,11 +444,20 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005152.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "infarction",
+            "embolism",
+            "disease",
+            "artery",
+            "disease",
+            "pectoris"
+      ],
+      "id": "NCT00005152"
 }

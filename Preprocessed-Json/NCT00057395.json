@@ -49,15 +49,17 @@
             "aroplatin"
       ],
       "condition": [
+            "neoplasm",
+            "carcinoma",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aroplatin",
-            "liposomal",
-            "nddp"
+            "Aroplatin (Liposomal NDDP, L-NDDP)"
       ],
       "criteria": [
             "inclusion",
@@ -133,12 +135,24 @@
             "protocol",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057395.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "solid",
+            "tumor"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "ii"
+      ],
+      "id": "NCT00057395"
 }

@@ -140,16 +140,18 @@
             "level"
       ],
       "condition": [
-            "myocardial",
+            "infarction",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "folic",
-            "acid",
-            "multivitamin"
+            "pyridoxine",
+            "cyanocobalamin",
+            "folic acid multivitamin"
       ],
       "criteria": [
             "inclusion",
@@ -345,12 +347,26 @@
             "day",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004734.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multivitamin"
+      ],
+      "mesh_term": [
+            "infarction",
+            "infarction",
+            "b",
+            "12",
+            "acid",
+            "b",
+            "6",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00004734"
 }

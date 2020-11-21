@@ -129,19 +129,34 @@
             "questionnaire"
       ],
       "condition": [
-            "sleep",
             "initiation",
             "maintenance",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Cognitive-Behavioral Therapy for Insomnia",
+            "zolpidem tartrate (Ambien)",
+            "Placebo"
       ],
       "arm_group_label": [
-            "cognitive",
+            "behavioral",
+            "therapy",
+            "ambien",
+            "behavioral",
+            "therapy",
+            "placebo",
+            "behavioral",
+            "therapy",
+            "alone",
+            "drug",
+            "behavioral",
+            "therapy",
+            "ambien",
             "behavioral",
             "therapy",
             "placebo"
@@ -216,7 +231,7 @@
             "sleep",
             "apnea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -225,6 +240,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044629.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sleep",
+            "disorder"
+      ],
+      "mesh_term": [
+            "initiation",
+            "maintenance",
+            "disorder"
+      ],
+      "id": "NCT00044629"
 }

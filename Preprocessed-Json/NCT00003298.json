@@ -228,18 +228,88 @@
             "month"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "leucovorin calcium",
+            "paclitaxel",
+            "surgery",
+            "radiation therapy"
       ],
       "description": [
-            "concomitant",
+            "administer",
+            "part",
+            "neoadjuvant",
+            "regimen",
+            "give",
+            "dose",
+            "75",
+            "via",
+            "iv",
+            "approximately",
+            "one",
+            "hour",
+            "day",
+            "1",
+            "cycle",
+            "three",
+            "cycle",
+            "give",
+            "regimen",
+            "along",
+            "leucovorin",
+            "give",
+            "iv",
+            "bolus",
+            "give",
+            "immediately",
+            "leucovorin",
+            "leucovorin",
+            "give",
+            "via",
+            "iv",
+            "bolus",
+            "leucovorin",
+            "give",
+            "immediately",
+            "administer",
+            "part",
+            "neoadjuvant",
+            "regimen",
+            "give",
+            "dose",
+            "175",
+            "3",
+            "hour",
+            "continuous",
+            "intravenous",
+            "infusion",
+            "day",
+            "1",
+            "three",
+            "cycle",
+            "give",
+            "surgical",
+            "procedure",
+            "perform",
+            "involve",
+            "radical",
+            "subtotal",
+            "total",
+            "complete",
+            "surgical",
+            "resection",
+            "require",
             "chemotherapy",
             "radiation",
             "therapy",
@@ -268,11 +338,18 @@
             "chemotherapy"
       ],
       "arm_group_label": [
-            "experimental",
+            "arm",
+            "arm",
+            "arm",
+            "arm",
+            "arm",
             "arm"
       ],
       "other_name": [
-            "nsc",
+            "ii",
+            "factor",
+            "acid",
+            "tetrahydrofolate",
             "125973"
       ],
       "criteria": [
@@ -408,12 +485,20 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003298.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003298"
 }

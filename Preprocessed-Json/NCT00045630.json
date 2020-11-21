@@ -235,22 +235,38 @@
             "year"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "carboplatin",
+            "gemcitabine",
+            "paclitaxel",
             "surgery"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
             "paclitaxel",
             "carboplatin"
       ],
       "other_name": [
-            "taxol"
+            "hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -456,12 +472,31 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045630.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00045630"
 }

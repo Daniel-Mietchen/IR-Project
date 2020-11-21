@@ -40,16 +40,15 @@
             "protocol"
       ],
       "condition": [
-            "liver",
+            "hepatitis",
+            "c",
             "fibrosis"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "peginterferon",
-            "sch",
-            "54031"
+            "peginterferon alfa-2b (SCH 54031)"
       ],
       "description": [
             "weekly",
@@ -98,7 +97,7 @@
             "completion",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -107,6 +106,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00049842.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic",
+            "cirrhosis"
+      ],
+      "id": "NCT00049842"
 }

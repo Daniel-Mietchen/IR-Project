@@ -53,13 +53,13 @@
             "annually",
             "thereafter"
       ],
-      "condition": [
-            "pemphigus"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
             "filgrastim"
       ],
       "criteria": [
@@ -152,7 +152,7 @@
             "preterminal",
             "moribund"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -161,6 +161,11 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010413.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [],
+      "id": "NCT00010413"
 }

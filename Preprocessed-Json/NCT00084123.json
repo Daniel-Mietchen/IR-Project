@@ -116,22 +116,24 @@
             "participant"
       ],
       "condition": [
-            "cervix",
             "neoplasm"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "standard",
-            "care"
+            "Healing Touch Therapy",
+            "Relaxation Therapy",
+            "Standard Care"
       ],
       "arm_group_label": [
-            "standard",
+            "touch",
+            "therapy",
             "care"
       ],
       "description": [
-            "standard",
             "care"
       ],
       "criteria": [
@@ -165,14 +167,20 @@
             "type",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084123.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "heal",
+            "touch"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00084123"
 }

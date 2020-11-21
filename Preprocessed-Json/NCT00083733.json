@@ -488,7 +488,6 @@
             "lysates"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "criteria": [
@@ -597,11 +596,16 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083733.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00083733"
 }

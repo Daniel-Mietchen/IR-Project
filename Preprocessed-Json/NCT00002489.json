@@ -301,15 +301,34 @@
             "year"
       ],
       "condition": [
-            "ovarian",
+            "germ",
+            "cell",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "dactinomycin",
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "leucovorin calcium",
+            "methotrexate",
+            "vincristine sulfate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -360,12 +379,24 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "doxorubicin"
+      ],
+      "id": "NCT00002489"
 }

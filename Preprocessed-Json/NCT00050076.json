@@ -157,17 +157,44 @@
             "symptom"
       ],
       "condition": [
-            "congestive",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "MCC-135",
+            "MCC-135",
+            "MCC-135",
+            "Placebo"
       ],
       "description": [
+            "50",
+            "mg",
+            "tablet",
+            "orally",
+            "twice",
+            "daily",
+            "12",
+            "week",
+            "100",
+            "mg",
+            "tablet",
+            "orally",
+            "daily",
+            "12",
+            "week",
+            "200",
+            "mg",
+            "tablet",
+            "orally",
+            "daily",
+            "12",
+            "week",
             "tablet",
             "orally",
             "daily",
@@ -175,7 +202,15 @@
             "week"
       ],
       "arm_group_label": [
-            "placebo"
+            "50",
+            "mg",
+            "bid",
+            "100",
+            "mg",
+            "qd",
+            "200",
+            "mg",
+            "qd"
       ],
       "criteria": [
             "inclusion",
@@ -475,12 +510,19 @@
             "phosphodiesterase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050076.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "therapy"
+      ],
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00050076"
 }

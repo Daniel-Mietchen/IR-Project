@@ -110,17 +110,27 @@
             "regeneration"
       ],
       "condition": [
-            "amyotrophic",
             "lateral",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Insulin like growth factor, type 1",
+            "Placebo"
       ],
       "description": [
+            "mg",
+            "per",
+            "kg",
+            "body",
+            "weight",
+            "give",
+            "subcutaneously",
+            "twice",
+            "daily",
             "placebo",
             "represent",
             "inert",
@@ -139,12 +149,8 @@
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "mycotrophin"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -244,7 +250,6 @@
             "pulmonary",
             "function",
             "test",
-            "60",
             "predict",
             "exclusion",
             "criterion",
@@ -337,7 +342,7 @@
             "canada",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -346,6 +351,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035815.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myotrophin"
+      ],
+      "mesh_term": [
+            "neuron",
+            "disease",
+            "lateral",
+            "sclerosis",
+            "globin",
+            "zinc"
+      ],
+      "id": "NCT00035815"
 }

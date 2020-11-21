@@ -140,7 +140,6 @@
             "malignancy"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -148,22 +147,24 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "psc",
-            "833"
+            "pegylated liposomal doxorubicin hydrochloride",
+            "PSC 833"
       ],
       "arm_group_label": [
-            "phase",
+            "1",
+            "doxil",
+            "psc",
+            "833",
             "1",
             "doxil",
             "psc",
             "833"
       ],
-      "other_name": [
-            "valspodar"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -373,12 +374,21 @@
             "complete",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003207.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "doxorubicin"
+      ],
+      "id": "NCT00003207"
 }

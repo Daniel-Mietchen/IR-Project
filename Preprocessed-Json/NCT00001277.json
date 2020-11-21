@@ -215,7 +215,6 @@
             "tumor"
       ],
       "condition": [
-            "parathyroid",
             "neoplasm"
       ],
       "criteria": [
@@ -266,9 +265,15 @@
             "absolute",
             "exclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001277.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hyperparathyroidism"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001277"
 }

@@ -369,21 +369,39 @@
             "16",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "methotrexate",
+            "vincristine sulfate"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "ind",
+            "factor",
+            "614629",
+            "26271",
+            "7089",
+            "arabinoside",
+            "63878",
+            "034521",
+            "123127",
+            "7038",
+            "740",
+            "4291",
+            "67574",
             "7161"
       ],
       "criteria": [
@@ -464,12 +482,27 @@
             "concurrent",
             "dexamethasone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003217.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "childhood",
+            "small",
+            "noncleaved",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "doxorubicin"
+      ],
+      "id": "NCT00003217"
 }

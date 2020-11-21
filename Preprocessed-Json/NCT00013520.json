@@ -374,14 +374,31 @@
             "substudy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Abacavir sulfate, Lamivudine and Zidovudine",
+            "Atazanavir",
+            "Lamivudine/Zidovudine",
+            "Abacavir sulfate",
+            "Efavirenz",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -566,12 +583,29 @@
             "itraconazole",
             "rifabutin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013520.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "zidovudine",
+            "drug",
+            "combination",
+            "sulfate",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00013520"
 }

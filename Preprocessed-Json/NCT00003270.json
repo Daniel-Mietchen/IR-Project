@@ -197,18 +197,38 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
+            "versus",
+            "host",
+            "disease",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methylprednisolone",
+            "bone marrow ablation with stem cell support",
+            "umbilical cord blood transplantation",
+            "radiation therapy"
       ],
       "description": [
-            "high",
             "energy"
       ],
       "criteria": [
@@ -430,7 +450,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -439,6 +459,26 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003270.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "v",
+            "host",
+            "disease",
+            "serum",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00003270"
 }

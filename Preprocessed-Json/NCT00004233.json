@@ -150,19 +150,27 @@
             "study"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fluorouracil",
+            "leucovorin calcium",
             "triacetyluridine"
       ],
       "arm_group_label": [
+            "leucovorin",
+            "leucovorin",
             "leucovorin"
       ],
-      "other_name": [],
+      "other_name": [
+            "leucovorin"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -319,12 +327,20 @@
             "organ",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004233.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00004233"
 }

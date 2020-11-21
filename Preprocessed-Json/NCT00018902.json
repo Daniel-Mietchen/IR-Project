@@ -136,26 +136,41 @@
             "treatment",
             "adherence"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "citalopram"
+            "Fluoxetine",
+            "Venlafaxine",
+            "Cognitive Behavioral Therapy (CBT)",
+            "Citalopram"
       ],
       "description": [
-            "standard",
+            "treatment",
+            "ssri",
+            "fluoxetine",
+            "antidepressant",
+            "treatment",
+            "medication",
+            "venlafaxine",
+            "address",
+            "maladaptive",
+            "belief",
+            "order",
+            "encourage",
+            "behavioral",
+            "change",
             "treatment",
             "ssri",
             "fluoxetine"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "celexa"
+            "xr"
       ],
       "criteria": [
             "age",
@@ -182,7 +197,7 @@
             "feel",
             "depress"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -191,6 +206,16 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018902.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cognitive",
+            "behavior",
+            "therapy"
+      ],
+      "mesh_term": [
+            "disorder",
+            "hydrochloride",
+            "agent"
+      ],
+      "id": "NCT00018902"
 }

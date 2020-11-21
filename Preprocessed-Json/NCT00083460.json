@@ -83,22 +83,41 @@
             "cohort"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "PS-341",
+            "Thalidomide",
+            "Dexamethasone"
       ],
       "description": [
+            "1",
+            "dose",
+            "arm",
+            "2",
+            "dose",
+            "cohort",
+            "1",
+            "dose",
+            "cycle",
+            "cohort",
+            "2",
+            "cycle",
+            "cohort",
+            "3",
+            "cycle",
+            "cohort",
+            "4",
+            "cycle",
             "dose",
             "cylces"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -322,12 +341,20 @@
             "potential",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083460.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bortezomid"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00083460"
 }

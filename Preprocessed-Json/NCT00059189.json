@@ -530,17 +530,12 @@
             "cortex",
             "blind"
       ],
-      "condition": [
-            "blindness"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "magstim",
-            "rapid",
-            "magnetic",
-            "stimulator"
+            "Magstim Rapid Magnetic Stimulator"
       ],
       "criteria": [
             "eligibility",
@@ -702,9 +697,13 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059189.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00059189"
 }

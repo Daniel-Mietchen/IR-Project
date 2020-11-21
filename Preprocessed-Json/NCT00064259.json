@@ -174,27 +174,68 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "esophagus",
+            "gastroesophageal",
+            "junction",
+            "adenocarcinoma",
+            "stomach",
+            "adenocarcinoma",
+            "stomach",
+            "adenocarcinoma",
+            "stomach",
+            "esophageal",
+            "cancer",
+            "gastric",
+            "cancer",
+            "cell",
+            "carcinoma",
+            "esophagus",
+            "iii",
+            "esophageal",
+            "cancer",
+            "iiia",
+            "gastric",
+            "cancer",
+            "iiib",
+            "gastric",
+            "cancer",
+            "iiic",
+            "gastric",
+            "cancer",
+            "iv",
+            "esophageal",
+            "cancer",
             "iv",
             "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "oblimersen sodium",
+            "cisplatin",
             "fluorouracil"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "oblimersen",
+            "sodium",
             "oblimersen",
             "sodium"
       ],
-      "other_name": [],
+      "other_name": [
+            "antisense",
+            "oligodeoxynucleotide"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -528,12 +569,18 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064259.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00064259"
 }

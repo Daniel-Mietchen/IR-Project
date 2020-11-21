@@ -539,14 +539,16 @@
             "64",
             "2005"
       ],
-      "condition": [
-            "seizure"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lamotrigine"
+            "Carbamazepine",
+            "Gabapentin",
+            "Lamotrigine"
       ],
       "criteria": [
             "veteran",
@@ -564,12 +566,18 @@
             "secondary",
             "generalization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007670.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carbamazepine"
+      ],
+      "mesh_term": [
+            "acid"
+      ],
+      "id": "NCT00007670"
 }

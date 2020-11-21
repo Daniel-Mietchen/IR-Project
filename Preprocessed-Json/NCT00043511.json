@@ -264,16 +264,13 @@
             "period"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "plasmid",
-            "dna",
-            "vaccine"
+            "pGA2/JS2 Plasmid DNA Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -506,7 +503,7 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -515,6 +512,14 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043511.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00043511"
 }

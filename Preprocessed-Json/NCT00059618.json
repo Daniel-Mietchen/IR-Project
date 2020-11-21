@@ -282,18 +282,35 @@
             "anderson"
       ],
       "condition": [
-            "fallopian",
+            "cancer",
+            "peritoneal",
+            "cancer",
             "tube",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "PS-341 (Bortezomib)",
+            "Carboplatin"
       ],
       "description": [
-            "auc",
+            "dose",
+            "give",
+            "vein",
+            "second",
+            "day",
+            "1",
+            "4",
+            "8",
+            "11",
+            "28",
+            "day",
+            "cycle",
+            "8",
+            "cycle",
             "5",
             "vein",
             "administer",
@@ -307,12 +324,8 @@
             "8",
             "cycle"
       ],
-      "arm_group_label": [
-            "bortezomib"
-      ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -652,11 +665,18 @@
             "boron",
             "mannitol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059618.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paraplatin"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00059618"
 }

@@ -162,15 +162,26 @@
             "treatment",
             "arm"
       ],
-      "condition": [
-            "cachexia"
+      "condition": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Drug",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
+            "eicosapentaenoic acid",
+            "megestrol acetate",
             "placebo"
       ],
       "arm_group_label": [
+            "acid",
+            "placebo",
             "eicosapentaenoic",
+            "acid",
+            "placebo",
+            "eicosapentaenoic",
+            "acid",
+            "placebo",
             "acid",
             "placebo"
       ],
@@ -352,12 +363,18 @@
             "parenteral",
             "nutrition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031707.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cachexia"
+      ],
+      "mesh_term": [
+            "acetate"
+      ],
+      "id": "NCT00031707"
 }

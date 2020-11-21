@@ -169,24 +169,33 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adriamycin"
+            "cyclophosphamide",
+            "Taxotere",
+            "Adriamycin"
       ],
       "description": [
-            "60",
+            "iv",
+            "every",
+            "3",
+            "week",
+            "iv",
+            "every",
+            "3",
+            "week",
             "iv",
             "every",
             "3",
             "week"
       ],
       "other_name": [
-            "doxorubicin",
             "hydrochloride"
       ],
       "criteria": [
@@ -476,14 +485,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003352.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003352"
 }

@@ -287,15 +287,13 @@
             "sensitivity"
       ],
       "condition": [
-            "pulmonary",
             "tuberculosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "gamma"
+            "Interferon Gamma"
       ],
       "criteria": [
             "eligiblity",
@@ -408,9 +406,18 @@
             "regimen",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001407.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multiple",
+            "drug",
+            "resistant",
+            "tuberculosis"
+      ],
+      "mesh_term": [
+            "pulmonary"
+      ],
+      "id": "NCT00001407"
 }

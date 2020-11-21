@@ -154,18 +154,25 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "MART-1 antigen",
+            "filgrastim",
+            "flu matrix peptide p58-66",
+            "gp100 antigen",
+            "recombinant MAGE-3.1 antigen",
+            "tyrosinase peptide",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -303,7 +310,7 @@
             "immunosuppressive",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -312,6 +319,11 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003792.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003792"
 }

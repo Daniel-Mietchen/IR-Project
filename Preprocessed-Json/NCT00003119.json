@@ -361,18 +361,54 @@
             "4",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "sargramostim",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "adjuvant therapy",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "symptomatic",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "1",
+            "asymptomatic",
+            "immediate",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "1",
+            "asymptomatic",
+            "immediate",
+            "chemotherapy",
             "immediate",
             "chemotherapy"
       ],
@@ -535,12 +571,19 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003119.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00003119"
 }

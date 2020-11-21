@@ -109,12 +109,13 @@
             "31"
       ],
       "condition": [
-            "metabolism",
+            "adenosyltransferase",
+            "deficiency",
             "inborn",
             "error"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "phosphatidylcholine"
@@ -126,9 +127,7 @@
             "deficiency",
             "nurse"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "20",
             "year"
@@ -137,6 +136,18 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006061.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "inborn",
+            "error",
+            "acid",
+            "metabolism",
+            "inborn",
+            "error"
+      ],
+      "id": "NCT00006061"
 }

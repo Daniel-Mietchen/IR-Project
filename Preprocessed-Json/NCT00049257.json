@@ -131,29 +131,28 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
             "paclitaxel"
       ],
       "description": [
-            "administer",
+            "day",
+            "1",
+            "cycle",
             "day",
             "1",
             "8",
             "15",
             "cycle"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
-      "other_name": [
-            "taxol"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -486,14 +485,22 @@
             "concomitant",
             "medication"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049257.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00049257"
 }

@@ -91,15 +91,16 @@
             "detect"
       ],
       "condition": [
-            "adrenal",
+            "gland",
+            "disease",
             "gland",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "iodocholesterol"
+            "I-131 Iodocholesterol"
       ],
       "criteria": [
             "adult",
@@ -113,12 +114,23 @@
             "addison",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037843.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adrenal",
+            "disease"
+      ],
+      "mesh_term": [
+            "gland",
+            "neoplasm",
+            "gland",
+            "disease",
+            "borate"
+      ],
+      "id": "NCT00037843"
 }

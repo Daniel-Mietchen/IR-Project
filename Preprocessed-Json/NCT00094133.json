@@ -173,13 +173,16 @@
             "study"
       ],
       "condition": [
-            "hot",
+            "cancer",
+            "survivor",
             "flash"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "hot flashes attenuation",
             "hypnotherapy"
       ],
       "criteria": [
@@ -266,14 +269,20 @@
             "hypnosis",
             "reason"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094133.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash"
+      ],
+      "id": "NCT00094133"
 }

@@ -182,7 +182,6 @@
             "gaucher",
             "disease",
             "continuum",
-            "phenotype",
             "addition",
             "patient",
             "carrier",
@@ -287,7 +286,8 @@
             "longitudinally"
       ],
       "condition": [
-            "lysosomal",
+            "gaucher",
+            "disease",
             "storage",
             "disease"
       ],
@@ -307,12 +307,20 @@
             "document",
             "proband"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001215.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parkinsonism"
+      ],
+      "mesh_term": [
+            "disease",
+            "storage",
+            "disease"
+      ],
+      "id": "NCT00001215"
 }

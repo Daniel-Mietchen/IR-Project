@@ -283,13 +283,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bryostatin 1",
             "cytarabine"
       ],
       "criteria": [
@@ -480,12 +480,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003079.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "1"
+      ],
+      "id": "NCT00003079"
 }

@@ -89,19 +89,16 @@
             "12",
             "month"
       ],
-      "condition": [
-            "aspergillosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "lipid",
-            "formulation",
-            "amphotericin",
-            "b",
-            "azole"
+            "MK0991, caspofungin acetate",
+            "Comparator: amphotericin B",
+            "Comparator: lipid formulation of amphotericin B and/or azole"
       ],
       "criteria": [
             "patient",
@@ -141,12 +138,29 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076869.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "definite",
+            "probable",
+            "invasive",
+            "aspergillosis",
+            "either",
+            "refractory",
+            "intolerant",
+            "prior",
+            "antifungal",
+            "treatment"
+      ],
+      "mesh_term": [
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00076869"
 }

@@ -167,13 +167,19 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
+            "versus",
+            "host",
+            "disease",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclosporine",
+            "methotrexate",
             "sirolimus"
       ],
       "criteria": [
@@ -275,12 +281,23 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002790.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00002790"
 }

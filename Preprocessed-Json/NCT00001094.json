@@ -380,26 +380,41 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "delavirdine",
-            "mesylate"
+            "Lamivudine/Zidovudine",
+            "Nelfinavir mesylate",
+            "Saquinavir",
+            "Delavirdine mesylate"
       ],
       "criteria": [
             "study",
             "terminate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001094.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00001094"
 }

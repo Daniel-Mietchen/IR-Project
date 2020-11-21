@@ -133,18 +133,29 @@
             "website",
             "detail"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "sham",
-            "stimulation"
+            "repetitive transcranial magnetic stimulation (rTMS)",
+            "sham stimulation"
       ],
       "description": [
+            "total",
             "132",
+            "minute",
+            "stimulation",
+            "one",
+            "hertz",
+            "motor",
+            "threshold",
+            "set",
+            "80",
+            "deliver",
+            "scalp",
+            "site",
             "minute",
             "stimulation",
             "give",
@@ -163,11 +174,12 @@
             "site"
       ],
       "arm_group_label": [
-            "sham",
+            "rtms",
             "stimulation"
       ],
       "other_name": [
-            "magstim",
+            "super",
+            "rapid",
             "super",
             "rapid"
       ],
@@ -258,7 +270,7 @@
             "week",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -267,6 +279,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004980.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "schizophrenia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004980"
 }

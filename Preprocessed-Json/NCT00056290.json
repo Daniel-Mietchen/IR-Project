@@ -50,26 +50,29 @@
             "condition"
       ],
       "condition": [
-            "diabetic",
             "neuropathy"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vegf"
+            "VEGF",
+            "VEGF"
       ],
       "description": [
-            "3",
+            "set",
+            "injection",
+            "2",
+            "week",
+            "interval",
             "set",
             "injection",
             "2",
             "week",
             "interval"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -127,12 +130,23 @@
             "month",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056290.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peripheral",
+            "artery",
+            "disease"
+      ],
+      "mesh_term": [
+            "nervous",
+            "system",
+            "disease",
+            "neuropathy"
+      ],
+      "id": "NCT00056290"
 }

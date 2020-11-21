@@ -152,13 +152,14 @@
             "microtubule"
       ],
       "condition": [
-            "hematological",
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABT-751"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -252,12 +253,13 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047489.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00047489"
 }

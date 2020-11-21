@@ -175,13 +175,17 @@
             "year"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amifostine trihydrate",
+            "carboplatin",
             "paclitaxel"
       ],
       "criteria": [
@@ -260,12 +264,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003072.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurotoxicity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "neoplasm",
+            "syndrome",
+            "paclitaxel"
+      ],
+      "id": "NCT00003072"
 }

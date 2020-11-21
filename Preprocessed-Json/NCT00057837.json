@@ -212,7 +212,6 @@
             "study"
       ],
       "condition": [
-            "extensive",
             "stage",
             "small",
             "cell",
@@ -220,13 +219,84 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan"
+            "G-CSF",
+            "Cisplatin",
+            "Etoposide",
+            "Irinotecan",
+            "Topotecan"
       ],
       "description": [
-            "topotecan",
+            "administer",
+            "subcutaneously",
+            "dose",
+            "5",
+            "day",
+            "start",
+            "day",
+            "11",
+            "wbc",
+            "recovery",
+            "dl",
+            "pet",
+            "20",
+            "iv",
+            "day",
+            "8",
+            "9",
+            "10",
+            "cycle",
+            "follow",
+            "etoposide",
+            "arm",
+            "pie",
+            "20",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "cycle",
+            "follow",
+            "irinotecan",
+            "pet",
+            "70",
+            "iv",
+            "60",
+            "minute",
+            "day",
+            "8",
+            "9",
+            "10",
+            "cycle",
+            "arm",
+            "pie",
+            "85",
+            "orally",
+            "divide",
+            "2",
+            "dose",
+            "12",
+            "hour",
+            "apart",
+            "day",
+            "3",
+            "10",
+            "cycle",
+            "iv",
+            "90",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "cycle",
+            "arm",
+            "pie",
             "iv",
             "30",
             "minute",
@@ -236,11 +306,16 @@
             "arm",
             "pet"
       ],
-      "arm_group_label": [
-            "pet"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "topotecan",
+            "human",
+            "stimulate",
+            "factor",
+            "factor",
+            "ii",
+            "119875",
+            "141540",
+            "f",
             "formula"
       ],
       "criteria": [
@@ -389,12 +464,23 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057837.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "irinotecan"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate",
+            "inhibitor"
+      ],
+      "id": "NCT00057837"
 }

@@ -240,29 +240,32 @@
             "anderson"
       ],
       "condition": [
-            "leukemia",
             "myeloid",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gleevec",
-            "imatinib",
-            "mesylate"
+            "Zarnestra (R115777)",
+            "Gleevec (Imatinib mesylate)"
       ],
       "description": [
-            "start",
             "dose",
-            "300",
+            "mg",
+            "mouth",
+            "po",
+            "twice",
+            "daily",
+            "dose",
             "mg",
             "mouth",
             "po",
             "daily"
       ],
       "arm_group_label": [
-            "zarnestra",
+            "gleevec",
             "gleevec"
       ],
       "other_name": [],
@@ -430,12 +433,21 @@
             "female",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00040105"
 }

@@ -79,14 +79,14 @@
             "treatment"
       ],
       "condition": [
-            "infusion",
+            "disorder",
             "intravenous"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "metyrapone"
+            "Metyrapone"
       ],
       "criteria": [
             "inclusion",
@@ -126,7 +126,7 @@
             "screen",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -135,6 +135,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033098.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00033098"
 }

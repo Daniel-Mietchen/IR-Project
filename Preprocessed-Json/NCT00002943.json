@@ -164,7 +164,13 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
+            "germ",
+            "cell",
+            "tumor",
             "adult",
             "solid",
             "tumor",
@@ -172,13 +178,16 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
-            "bone",
-            "marrow",
-            "transplantation"
+            "carboplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "autologous bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -345,7 +354,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -354,6 +363,19 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002943.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00002943"
 }

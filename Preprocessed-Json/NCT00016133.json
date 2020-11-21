@@ -185,15 +185,21 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "BCG vaccine",
+            "autologous tumor cell vaccine",
+            "fluorouracil",
+            "leucovorin calcium",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -419,7 +425,7 @@
             "immunosuppressive",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -428,6 +434,15 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016133.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "colon"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "vaccine"
+      ],
+      "id": "NCT00016133"
 }

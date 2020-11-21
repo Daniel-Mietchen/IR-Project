@@ -137,15 +137,13 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "testosterone"
+            "therapeutic testosterone"
       ],
       "criteria": [
             "disease",
@@ -372,14 +370,23 @@
             "anticancer",
             "agent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006044.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "enanthate",
+            "undecanoate",
+            "17"
+      ],
+      "id": "NCT00006044"
 }

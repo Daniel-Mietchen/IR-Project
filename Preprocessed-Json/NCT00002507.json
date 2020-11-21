@@ -121,16 +121,22 @@
             "year"
       ],
       "condition": [
-            "head",
+            "unknown",
+            "primary",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "mitomycin C",
+            "porfiromycin",
+            "brachytherapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -225,7 +231,7 @@
             "current",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -234,6 +240,18 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002507.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "carcinoma",
+            "unknown",
+            "primary"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "unknown",
+            "primary"
+      ],
+      "id": "NCT00002507"
 }

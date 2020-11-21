@@ -517,12 +517,15 @@
             "calculate"
       ],
       "condition": [
-            "death",
+            "arrest",
+            "disease",
+            "infarction",
+            "fibrillation",
             "sudden",
             "cardiac"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
             "defibrillator"
@@ -531,7 +534,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -540,6 +543,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004560.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "infarction",
+            "fibrillation",
+            "arrest",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00004560"
 }

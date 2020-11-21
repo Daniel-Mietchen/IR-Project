@@ -109,13 +109,14 @@
             "test"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "N-0923"
+      ],
       "criteria": [
             "patient",
             "carry",
@@ -215,9 +216,17 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001931.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "skin",
+            "patch"
+      ],
+      "mesh_term": [
+            "disease",
+            "0437"
+      ],
+      "id": "NCT00001931"
 }

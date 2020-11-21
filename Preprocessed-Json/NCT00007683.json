@@ -318,17 +318,45 @@
             "prepare"
       ],
       "condition": [
-            "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clopidogrel",
-            "75"
+            "Warfarin titrated to an INR of 2.5-3.0",
+            "Aspirin",
+            "Clopidogrel 75"
       ],
       "description": [
+            "administer",
+            "without",
+            "blind",
+            "titrate",
+            "target",
+            "inr",
+            "monitor",
+            "measurement",
+            "6",
+            "week",
+            "interval",
+            "initial",
+            "titration",
+            "stabilization",
+            "antiplatelet",
+            "agent",
+            "whose",
+            "mechanism",
+            "inhibition",
+            "thromboxane",
+            "platelet",
+            "activator",
+            "administer",
+            "double",
+            "blind",
+            "manner",
             "antiplatelet",
             "agent",
             "whose",
@@ -340,9 +368,7 @@
             "blind",
             "manner"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -369,12 +395,18 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007683.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "warfarin"
+      ],
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00007683"
 }

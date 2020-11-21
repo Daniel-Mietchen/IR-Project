@@ -279,22 +279,23 @@
             "level"
       ],
       "condition": [
-            "premature",
             "birth"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "sham",
-            "massage"
+            "massage",
+            "Sham massage"
       ],
       "description": [
+            "massage",
+            "give",
+            "tid",
             "touch"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -356,7 +357,7 @@
             "require",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "28",
             "week"
@@ -365,6 +366,13 @@
             "32",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029198.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brazelton"
+      ],
+      "mesh_term": [
+            "gain",
+            "birth"
+      ],
+      "id": "NCT00029198"
 }

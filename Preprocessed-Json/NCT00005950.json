@@ -83,22 +83,45 @@
             "month"
       ],
       "condition": [
-            "waldenstrom",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "lymphoid",
+            "tissue",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "adult",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "nelarabine"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -377,12 +400,22 @@
             "pericardial",
             "effusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005950.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "lymphocytic",
+            "chronic",
+            "marginal",
+            "zone",
+            "adult",
+            "macroglobulinemia",
+            "lymphadenopathy"
+      ],
+      "id": "NCT00005950"
 }

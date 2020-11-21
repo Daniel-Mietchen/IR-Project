@@ -200,30 +200,76 @@
             "month"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "conventional surgery",
+            "3-dimensional conformal radiation therapy",
+            "stereotactic radiosurgery",
+            "motexafin gadolinium",
+            "magnetic resonance imaging",
             "spectroscopy"
       ],
       "arm_group_label": [
-            "treatment",
+            "motexafin",
+            "gadolinium",
+            "radiotherapy",
+            "radiosurgery",
+            "motexafin",
+            "gadolinium",
+            "radiotherapy",
+            "radiosurgery",
+            "motexafin",
+            "gadolinium",
+            "radiotherapy",
+            "radiosurgery",
+            "motexafin",
+            "gadolinium",
+            "radiotherapy",
+            "radiosurgery",
+            "motexafin",
+            "gadolinium",
+            "radiotherapy",
+            "radiosurgery",
             "motexafin",
             "gadolinium",
             "radiotherapy",
             "radiosurgery"
       ],
       "other_name": [
-            "nuclear",
+            "conventional",
+            "conformal",
+            "radiation",
+            "therapy",
+            "texaphyrin",
+            "iii",
+            "texaphryin",
+            "image",
             "magnetic",
             "resonance",
             "image"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "mri",
+            "clinical",
+            "tesla",
+            "research",
+            "8",
+            "tesla",
+            "magnet",
             "emission",
             "spectroscopy"
       ],
@@ -375,12 +421,15 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004262.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "gadolinium"
+      ],
+      "id": "NCT00004262"
 }

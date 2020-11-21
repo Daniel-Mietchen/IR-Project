@@ -56,16 +56,14 @@
             "improve",
             "mood"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "ongoing",
-            "psychological",
-            "screen"
+            "paroxetine",
+            "ongoing psychological screening"
       ],
       "criteria": [
             "subject",
@@ -185,9 +183,7 @@
             "homicidal",
             "ideation"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "25",
             "year"
@@ -196,6 +192,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018759.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "serotonin",
+            "hypertension",
+            "depression"
+      ],
+      "mesh_term": [],
+      "id": "NCT00018759"
 }

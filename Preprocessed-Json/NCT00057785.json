@@ -211,19 +211,38 @@
             "month"
       ],
       "condition": [
+            "neck",
+            "cancer",
+            "complication",
             "radiation",
+            "therapy",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "intensity",
-            "modulate",
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "Intensity modulated radiation therapy"
       ],
       "description": [
+            "intravenously",
+            "day",
+            "1",
+            "22",
+            "43",
+            "80",
+            "intravenously",
+            "day",
+            "71",
+            "99",
+            "127",
+            "continuous",
+            "infusion",
+            "day",
             "gross",
             "tumor",
             "lymph",
@@ -263,7 +282,8 @@
             "day"
       ],
       "arm_group_label": [
-            "imrt",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "criteria": [
@@ -412,12 +432,26 @@
             "month",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057785.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "nasopharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00057785"
 }

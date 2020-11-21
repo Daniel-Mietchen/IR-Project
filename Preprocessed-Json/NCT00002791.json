@@ -202,15 +202,28 @@
             "15",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radioisotope",
-            "therapy"
+            "filgrastim",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "mesna",
+            "conventional surgery",
+            "brachytherapy",
+            "intraoperative radiation therapy",
+            "radioisotope therapy"
       ],
       "criteria": [
             "disease",
@@ -422,12 +435,22 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002791.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002791"
 }

@@ -461,7 +461,6 @@
             "month"
       ],
       "condition": [
-            "anaplastic",
             "glioma"
       ],
       "criteria": [
@@ -539,7 +538,7 @@
             "month",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -548,6 +547,10 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009035.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glioblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00009035"
 }

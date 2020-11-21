@@ -279,14 +279,16 @@
             "month"
       ],
       "condition": [
-            "quality",
+            "cancer",
             "life"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "cetuximab",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -333,7 +335,6 @@
             "irinotecan",
             "allow",
             "must",
-            "fail",
             "prior",
             "regimen",
             "contain",
@@ -360,7 +361,6 @@
             "cns",
             "metastasis",
             "note",
-            "failure",
             "define",
             "either",
             "disease",
@@ -414,7 +414,6 @@
             "heart",
             "failure",
             "myocardial",
-            "infarction",
             "within",
             "past",
             "6",
@@ -558,12 +557,21 @@
             "experimental",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079066.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00079066"
 }

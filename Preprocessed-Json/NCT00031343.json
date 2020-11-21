@@ -574,18 +574,14 @@
             "population"
       ],
       "condition": [
-            "hepatitis",
+            "infection",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "highly",
-            "active",
-            "antiretroviral",
-            "therapy",
-            "haart"
+            "highly active antiretroviral therapy (HAART)"
       ],
       "criteria": [
             "inclusion",
@@ -1062,9 +1058,16 @@
             "partner",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031343.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coinfection"
+      ],
+      "mesh_term": [
+            "c",
+            "infection"
+      ],
+      "id": "NCT00031343"
 }

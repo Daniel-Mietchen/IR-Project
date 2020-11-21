@@ -216,25 +216,47 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "carboplatin",
+            "lomustine",
+            "procarbazine hydrochloride",
+            "thioguanine",
+            "vincristine sulfate"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "po",
+            "po",
             "po",
             "iv"
       ],
       "arm_group_label": [
-            "regimen",
+            "cv",
+            "chemotherapy",
+            "b",
+            "tpcv",
+            "chemotherapy",
+            "b",
+            "tpcv",
+            "chemotherapy",
+            "b",
+            "tpcv",
+            "chemotherapy",
+            "cv",
+            "chemotherapy",
             "b",
             "tpcv",
             "chemotherapy"
@@ -468,12 +490,25 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "9",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002944.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002944"
 }

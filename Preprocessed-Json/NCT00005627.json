@@ -147,16 +147,17 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "estramustine",
-            "phosphate",
-            "sodium"
+            "carboplatin",
+            "docetaxel",
+            "estramustine phosphate sodium"
       ],
       "criteria": [
             "disease",
@@ -340,9 +341,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -351,6 +350,14 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005627.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005627"
 }

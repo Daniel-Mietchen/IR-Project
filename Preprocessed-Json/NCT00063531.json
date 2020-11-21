@@ -297,7 +297,8 @@
             "ct"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -401,7 +402,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -410,6 +411,13 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063531.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00063531"
 }

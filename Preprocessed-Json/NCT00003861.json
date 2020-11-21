@@ -149,15 +149,16 @@
             "trial"
       ],
       "condition": [
-            "acute",
+            "lymphoblastic",
+            "leukemia",
             "promyelocytic",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "laboratory biomarker analysis"
       ],
       "arm_group_label": [
             "molecular",
@@ -204,9 +205,16 @@
             "calgb",
             "9862"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003861.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "promyelocytic",
+            "acute"
+      ],
+      "id": "NCT00003861"
 }

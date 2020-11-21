@@ -33,18 +33,17 @@
             "irinotecan"
       ],
       "condition": [
-            "rectal",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vatalanib"
+            "Vatalanib"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "222584"
       ],
@@ -167,12 +166,21 @@
             "take",
             "coumadin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056446.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colorectal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00056446"
 }

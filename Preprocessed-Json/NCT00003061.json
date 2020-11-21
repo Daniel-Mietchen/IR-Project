@@ -133,15 +133,16 @@
             "patient",
             "accrue"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cytarabine",
+            "methotrexate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -266,7 +267,7 @@
             "organ",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -275,6 +276,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003061.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003061"
 }

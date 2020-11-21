@@ -378,20 +378,14 @@
             "safety",
             "profile"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amd",
-            "3100",
-            "mozobil",
-            "plerixafor"
+            "AMD 3100 (Mozobil plerixafor)"
       ],
       "description": [
-            "healthy",
             "volunteer",
             "administer",
             "amd",
@@ -414,13 +408,11 @@
             "apheresis"
       ],
       "arm_group_label": [
-            "amd",
             "3100",
             "mozobil",
             "plerixafor"
       ],
       "other_name": [
-            "amd",
             "3100"
       ],
       "criteria": [
@@ -625,7 +617,7 @@
             "protocol",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -634,6 +626,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082329.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer",
+            "hv"
+      ],
+      "mesh_term": [
+            "3100"
+      ],
+      "id": "NCT00082329"
 }

@@ -150,28 +150,37 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "bevacizumab"
       ],
       "description": [
-            "give",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -507,12 +516,17 @@
             "higher",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055692.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00055692"
 }

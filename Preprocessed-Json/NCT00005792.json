@@ -223,31 +223,76 @@
             "month"
       ],
       "condition": [
-            "plasma",
+            "myeloma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
-            "stem",
-            "cell",
-            "rescue"
+            "etoposide phosphate",
+            "melphalan",
+            "topotecan",
+            "Autologous Stem Cell Rescue"
       ],
       "description": [
-            "reinfusion",
+            "phosphate",
+            "1363",
+            "iv",
+            "4",
+            "hour",
+            "total",
+            "dose",
+            "2726",
+            "2400",
+            "etoposide",
+            "equivalent",
+            "begin",
+            "24",
+            "hour",
+            "completion",
+            "last",
+            "infusion",
+            "topotecan",
+            "day",
+            "50",
+            "iv",
+            "30",
+            "minute",
+            "total",
+            "dose",
+            "150",
+            "follow",
+            "immediately",
+            "topotecan",
+            "day",
+            "start",
+            "total",
+            "dose",
+            "10",
+            "level",
+            "2",
+            "iv",
+            "30",
+            "minute",
+            "topotecan",
+            "administer",
+            "first",
+            "dose",
+            "level",
+            "day",
             "stem",
             "cell",
             "day",
             "0"
       ],
-      "arm_group_label": [
-            "mtv"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "autologous",
+            "r",
             "stem",
             "cell",
             "transplant"
@@ -469,7 +514,7 @@
             "ventricular",
             "dysrhythmias"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -478,6 +523,18 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005792.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "phosphate"
+      ],
+      "id": "NCT00005792"
 }

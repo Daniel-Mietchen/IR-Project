@@ -304,15 +304,21 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "FOLFIRI regimen",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -441,9 +447,7 @@
             "patient",
             "proper",
             "anticoagulation",
-            "therapy",
             "note",
-            "aspirin",
             "consider",
             "proper",
             "anticoagulation",
@@ -521,7 +525,7 @@
             "folic",
             "acid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -530,6 +534,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091312.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "colon"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00091312"
 }

@@ -275,15 +275,32 @@
             "patient",
             "pd"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "asparaginase",
+            "cyclophosphamide",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "etoposide",
+            "leucovorin calcium",
+            "mesna",
+            "methotrexate",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -299,12 +316,21 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002691.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "childhood",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002691"
 }

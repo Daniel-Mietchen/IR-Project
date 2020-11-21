@@ -153,18 +153,25 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "brachytherapy",
+            "iodine I 125",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "ebrt",
+            "prostate",
+            "follow",
+            "brachytherapy",
+            "prostate",
+            "follow",
+            "brachytherapy",
             "prostate",
             "follow",
             "brachytherapy"
@@ -296,14 +303,21 @@
             "carcinoma",
             "prostate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006365"
 }

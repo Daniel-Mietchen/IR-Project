@@ -148,7 +148,21 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "marrow",
+            "suppression",
+            "sweat",
+            "hot",
+            "flash",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
@@ -156,9 +170,15 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "piperacillin sodium",
+            "piperacillin-tazobactam",
+            "tazobactam sodium",
             "vancomycin"
       ],
       "criteria": [
@@ -337,12 +357,29 @@
             "carinii",
             "pneumonia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003805.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "flash",
+            "acid",
+            "tazobactam",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00003805"
 }

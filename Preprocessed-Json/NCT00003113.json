@@ -172,18 +172,44 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "etoposide",
+            "lomustine",
+            "procarbazine hydrochloride",
+            "radiation therapy"
       ],
       "description": [
-            "follow",
+            "granulocyte",
+            "factor",
+            "give",
+            "subcutaneously",
+            "day",
+            "cycle",
+            "give",
+            "day",
+            "cycle",
+            "give",
+            "day",
+            "give",
+            "day",
+            "1",
+            "cycle",
+            "1",
+            "3",
+            "give",
+            "day",
+            "cycle",
             "third",
             "cycle",
             "chemotherapy",
@@ -272,12 +298,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003113.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00003113"
 }

@@ -378,21 +378,34 @@
             "record"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "artery",
+            "disease",
+            "infarction",
+            "disease",
+            "disease",
             "accident"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005189.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005189"
 }

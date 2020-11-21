@@ -98,7 +98,6 @@
             "v",
             "response",
             "correlate",
-            "1",
             "p",
             "variation",
             "allelic",
@@ -146,12 +145,12 @@
             "month"
       ],
       "condition": [
-            "peritoneal",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ixabepilone"
@@ -435,9 +434,7 @@
             "contain",
             "compound"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -446,6 +443,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030706.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030706"
 }

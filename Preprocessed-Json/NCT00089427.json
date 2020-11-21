@@ -398,15 +398,20 @@
             "cycle"
       ],
       "condition": [
-            "oligoastrocytoma"
+            "multiforme",
+            "astrocytoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "temozolomide",
-            "radiation",
-            "therapy"
+            "IL13-PE38QQR",
+            "Surgery for placement",
+            "Radiation therapy",
+            "Temozolomide with radiation therapy"
       ],
       "criteria": [
             "inclusion",
@@ -581,12 +586,16 @@
             "protocol",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089427.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gbm"
+      ],
+      "mesh_term": [],
+      "id": "NCT00089427"
 }

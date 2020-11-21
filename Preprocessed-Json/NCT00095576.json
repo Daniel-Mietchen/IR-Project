@@ -102,18 +102,23 @@
             "2009"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "Trivalent MRKAd5 HIV-1 gag/pol/nef (1.5x10^10 ad-vg/dose)",
+            "Comparator: placebo"
       ],
       "description": [
-            "placebo",
+            "adenovirus",
+            "genome",
+            "dose",
+            "equivalent",
+            "use",
+            "study",
             "trivalent",
             "three",
             "1",
@@ -128,9 +133,7 @@
             "administer",
             "intramuscularly"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -280,7 +283,7 @@
             "study",
             "objective"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -289,6 +292,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095576.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00095576"
 }

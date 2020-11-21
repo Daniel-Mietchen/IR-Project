@@ -119,7 +119,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "receive",
             "1",
             "2",
@@ -149,13 +148,14 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "DJ-927"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -374,12 +374,21 @@
             "grapefruit",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080834.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080834"
 }

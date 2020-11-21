@@ -265,23 +265,32 @@
             "15",
             "20"
       ],
-      "condition": [
-            "toxoplasmosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sulfadiazine"
+            "Leucovorin calcium",
+            "Pyrimethamine",
+            "Spiramycin",
+            "Sulfadiazine"
       ],
       "description": [
-            "see",
+            "arm",
+            "description",
+            "arm",
+            "description",
+            "administer",
+            "fetal",
+            "diagnosis",
+            "make",
             "arm",
             "description"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "protocol",
             "entry",
@@ -333,9 +342,16 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxoplasmosis"
+      ],
+      "mesh_term": [
+            "congenital",
+            "dietary"
+      ],
+      "id": "NCT00004317"
 }

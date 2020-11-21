@@ -391,7 +391,6 @@
             "follow"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -762,12 +761,19 @@
             "study",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006494.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006494"
 }

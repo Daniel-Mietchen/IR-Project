@@ -201,15 +201,89 @@
             "within",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
+      "condition": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "filgrastim"
+            "buthionine sulfoximine",
+            "melphalan",
+            "Peripheral blood stem cell infusion",
+            "Filgrastim"
       ],
       "description": [
-            "5",
+            "fix",
+            "bolus",
+            "3",
+            "give",
+            "30",
+            "minute",
+            "follow",
+            "continuous",
+            "infusion",
+            "1",
+            "72",
+            "hour",
+            "total",
+            "hour",
+            "daily",
+            "infusion",
+            "dose",
+            "minus",
+            "initial",
+            "bolus",
+            "24",
+            "dose",
+            "level",
+            "melphalan",
+            "assign",
+            "study",
+            "entry",
+            "onto",
+            "protocol",
+            "6",
+            "dose",
+            "level",
+            "range",
+            "x",
+            "2",
+            "day",
+            "dose",
+            "level",
+            "x",
+            "2",
+            "day",
+            "dose",
+            "level",
+            "start",
+            "dose",
+            "level",
+            "decrease",
+            "level",
+            "day",
+            "unacceptable",
+            "toxicity",
+            "cell",
+            "infuse",
+            "intravenously",
+            "day",
+            "0",
+            "24",
+            "hour",
+            "bso",
+            "continuous",
+            "infusion",
+            "within",
+            "hour",
+            "thaw",
+            "via",
+            "central",
+            "venous",
+            "catheter",
+            "minute",
             "subcutaneous",
             "intravenous",
             "give",
@@ -234,7 +308,11 @@
             "consecutive",
             "day"
       ],
-      "other_name": [],
+      "other_name": [
+            "bone",
+            "marrow",
+            "transplant"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -365,12 +443,20 @@
             "enter",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005835.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "sulfoximine"
+      ],
+      "id": "NCT00005835"
 }

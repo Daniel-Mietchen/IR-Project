@@ -121,15 +121,13 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "conjugate",
-            "estrogen"
+            "conjugated estrogens"
       ],
       "criteria": [
             "disease",
@@ -261,11 +259,18 @@
             "gog",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002976.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "conjugate",
+            "usp"
+      ],
+      "id": "NCT00002976"
 }

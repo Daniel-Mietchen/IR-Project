@@ -200,13 +200,16 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "incomplete Freund's adjuvant",
+            "multi-epitope melanoma peptide vaccine",
             "sargramostim"
       ],
       "criteria": [
@@ -324,9 +327,7 @@
             "prior",
             "melanoma",
             "vaccine",
-            "therapy",
             "note",
-            "prior",
             "melanoma",
             "vaccine",
             "allow",
@@ -357,12 +358,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089193.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00089193"
 }

@@ -23,26 +23,29 @@
             "ra"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "placebo",
             "denosumab"
       ],
       "description": [
             "subcutaneous",
+            "injection",
+            "subcutaneous",
             "injection"
       ],
       "arm_group_label": [
-            "denosumab",
+            "180",
+            "mg",
             "60",
             "mg"
       ],
       "other_name": [
-            "amg",
             "162"
       ],
       "criteria": [
@@ -93,12 +96,18 @@
             "wrist",
             "foot"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095498.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "methotrexate"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00095498"
 }

@@ -41,21 +41,19 @@
             "sugar"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metformin",
-            "comparator"
+            "vildagliptin",
+            "Metformin Comparator"
       ],
-      "arm_group_label": [
-            "metformin"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -101,7 +99,7 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -110,6 +108,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099866.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vildagliptin"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00099866"
 }

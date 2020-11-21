@@ -290,29 +290,76 @@
             "eortc"
       ],
       "condition": [
-            "transitional",
+            "iii",
+            "bladder",
+            "cancer",
+            "iv",
+            "bladder",
+            "cancer",
             "cell",
             "carcinoma",
             "bladder"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
+            "vinblastine sulfate",
+            "methotrexate",
+            "cisplatin",
             "filgrastim"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "sc"
       ],
       "arm_group_label": [
-            "arm",
+            "immediate",
+            "chemotherapy",
+            "ii",
+            "defer",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "ii",
+            "defer",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "ii",
+            "defer",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "ii",
+            "defer",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
+            "ii",
+            "defer",
+            "chemotherapy",
+            "immediate",
+            "chemotherapy",
             "ii",
             "defer",
             "chemotherapy"
       ],
       "other_name": [
-            "neupogen"
+            "pfs",
+            "rdf",
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -455,9 +502,16 @@
             "radiotherapy",
             "bladder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028756.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "doxorubicin"
+      ],
+      "id": "NCT00028756"
 }

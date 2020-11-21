@@ -43,15 +43,13 @@
             "arc"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "inosine",
-            "pranobex"
+            "Inosine pranobex"
       ],
       "criteria": [
             "exclusion",
@@ -128,9 +126,7 @@
             "drug",
             "abuse"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -139,6 +135,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002060.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex",
+            "pranobex"
+      ],
+      "id": "NCT00002060"
 }

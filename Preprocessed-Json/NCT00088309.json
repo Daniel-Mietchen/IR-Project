@@ -565,14 +565,23 @@
             "toxicity"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "echocardiogram"
+            "Eye exam",
+            "Oral exam",
+            "CT scan",
+            "Neuropsychological testing",
+            "Electrocardiogram",
+            "Echocardiogram"
       ],
       "criteria": [
             "inclusion",
@@ -1021,9 +1030,16 @@
             "bone",
             "biopsy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088309.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00088309"
 }

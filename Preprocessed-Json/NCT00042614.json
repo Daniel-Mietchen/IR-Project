@@ -558,7 +558,6 @@
             "analyse"
       ],
       "condition": [
-            "heart",
             "transplantation"
       ],
       "criteria": [
@@ -756,12 +755,16 @@
             "pregnancy",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042614.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "id": "NCT00042614"
 }

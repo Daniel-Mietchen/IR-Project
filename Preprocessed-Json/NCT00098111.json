@@ -269,13 +269,16 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "azathioprine"
       ],
       "arm_group_label": [
-            "azathioprine",
+            "body",
+            "weight",
+            "body",
+            "weight",
             "body",
             "weight"
       ],
@@ -611,12 +614,18 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098111.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "azathioprine"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00098111"
 }

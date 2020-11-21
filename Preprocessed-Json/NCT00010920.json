@@ -155,16 +155,13 @@
             "summary"
       ],
       "condition": [
-            "memory",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ginkgo",
-            "biloba",
-            "extract"
+            "Ginkgo Biloba Extract"
       ],
       "criteria": [
             "inclusion",
@@ -206,12 +203,15 @@
             "cdr",
             "zero"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "85",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010920.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00010920"
 }

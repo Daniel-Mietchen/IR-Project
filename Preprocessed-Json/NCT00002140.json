@@ -42,8 +42,7 @@
             "safe",
             "effective",
             "regimen",
-            "contain",
-            "clarithromycin"
+            "contain"
       ],
       "detailed_description": [
             "patient",
@@ -82,14 +81,18 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Ethambutol hydrochloride",
+            "Clarithromycin",
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -179,12 +182,21 @@
             "prophylaxis",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002140.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clarithromycin"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002140"
 }

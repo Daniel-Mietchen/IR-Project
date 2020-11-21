@@ -360,18 +360,32 @@
             "rituximab"
       ],
       "condition": [
-            "small",
+            "large",
+            "lymphoma",
+            "lymphoma",
+            "lymphocytic",
+            "leukemia",
+            "cell",
+            "lymphoma",
             "lymphocytic",
             "lymphoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "rituximab"
+            "Apolizumab",
+            "Rituximab"
       ],
       "description": [
-            "rituximab",
+            "iv",
+            "day",
+            "1",
+            "administer",
+            "weekly",
+            "4",
+            "week",
             "iv",
             "hour",
             "apolizumab",
@@ -381,9 +395,7 @@
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -551,7 +563,7 @@
             "week",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -560,6 +572,17 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022971.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukemia"
+      ],
+      "mesh_term": [
+            "follicular",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "large",
+            "diffuse"
+      ],
+      "id": "NCT00022971"
 }

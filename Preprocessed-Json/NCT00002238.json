@@ -38,14 +38,15 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Interferon beta-1b",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -185,12 +186,19 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002238.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interferon",
+            "type"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002238"
 }

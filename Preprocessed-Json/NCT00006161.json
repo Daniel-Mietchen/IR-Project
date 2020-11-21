@@ -55,16 +55,17 @@
             "therapy"
       ],
       "condition": [
-            "liver",
+            "gastric",
+            "varix",
             "cirrhosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "distal",
-            "splenorenal",
-            "shunt"
+            "Transjugular Intrahepatic Portosystemic Shunt (TIPS)",
+            "Distal Splenorenal Shunt"
       ],
       "criteria": [
             "inclusion",
@@ -111,12 +112,21 @@
             "intractable",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006161.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "disease"
+      ],
+      "mesh_term": [
+            "cirrhosis",
+            "gastric",
+            "varix"
+      ],
+      "id": "NCT00006161"
 }

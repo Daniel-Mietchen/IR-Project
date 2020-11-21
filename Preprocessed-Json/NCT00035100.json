@@ -44,16 +44,16 @@
             "country"
       ],
       "condition": [
-            "fallopian",
+            "neoplasm",
+            "neoplasm",
             "tube",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "epothilone",
-            "b"
+            "epothilone b"
       ],
       "arm_group_label": [],
       "other_name": [],
@@ -200,14 +200,22 @@
             "lactate",
             "female"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035100.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "epothilone"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00035100"
 }

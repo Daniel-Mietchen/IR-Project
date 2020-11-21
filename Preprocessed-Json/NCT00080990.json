@@ -190,7 +190,6 @@
             "dose"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -198,24 +197,39 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "alvocidib",
+            "fluorouracil",
+            "oxaliplatin",
+            "leucovorin calcium"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "alvocidib",
+            "oxaliplatin",
+            "leucovorin",
+            "alvocidib",
+            "oxaliplatin",
+            "leucovorin",
+            "alvocidib",
+            "oxaliplatin",
+            "leucovorin",
             "alvocidib",
             "oxaliplatin",
             "leucovorin"
       ],
       "other_name": [
-            "lv"
+            "1275"
       ],
       "criteria": [
             "inclusion",
@@ -390,12 +404,15 @@
             "multivitamin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080990.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "dietary"
+      ],
+      "id": "NCT00080990"
 }

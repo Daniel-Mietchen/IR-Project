@@ -535,15 +535,18 @@
             "study"
       ],
       "condition": [
-            "sickle",
             "cell",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acetylcholine"
+            "Oxypurinol",
+            "L-NMMA",
+            "Acetylcholine"
       ],
       "criteria": [
             "eligibility",
@@ -974,7 +977,7 @@
             "trait",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -983,6 +986,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072826.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "calcium"
+      ],
+      "id": "NCT00072826"
 }

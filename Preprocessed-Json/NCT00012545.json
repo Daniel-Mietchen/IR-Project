@@ -437,7 +437,8 @@
             "investigator"
       ],
       "condition": [
-            "sickle",
+            "cell",
+            "disease",
             "cell",
             "trait"
       ],
@@ -527,9 +528,7 @@
             "collection",
             "inadvisable"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -538,6 +537,17 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012545.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "umbilical",
+            "cord",
+            "blood"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "cell",
+            "trait"
+      ],
+      "id": "NCT00012545"
 }

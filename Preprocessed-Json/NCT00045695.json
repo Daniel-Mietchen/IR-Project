@@ -109,11 +109,9 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
@@ -123,7 +121,6 @@
             "intravenous",
             "injection",
             "twice",
-            "weekly",
             "2",
             "every",
             "3",
@@ -391,12 +388,19 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "waldenstrom",
+            "macroglobulinemia"
+      ],
+      "mesh_term": [
+            "macroglobulinemia"
+      ],
+      "id": "NCT00045695"
 }

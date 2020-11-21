@@ -129,10 +129,10 @@
             "analyze"
       ],
       "condition": [
-            "psoriasis"
+            "psoriatic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "fludarabine"
@@ -454,9 +454,17 @@
             "le",
             "50"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001422.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psoriatic",
+            "arthritis"
+      ],
+      "mesh_term": [
+            "psoriatic",
+            "phosphate"
+      ],
+      "id": "NCT00001422"
 }

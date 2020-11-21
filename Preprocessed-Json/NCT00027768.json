@@ -123,17 +123,15 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "131",
-            "ethiodized",
-            "oil"
+            "adjuvant therapy",
+            "iodine I 131 ethiodized oil"
       ],
       "criteria": [
             "disease",
@@ -218,12 +216,23 @@
             "treatment",
             "hcc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027768.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "oil"
+      ],
+      "id": "NCT00027768"
 }

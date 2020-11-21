@@ -102,14 +102,22 @@
             "month"
       ],
       "condition": [
-            "lymphoma",
+            "small",
+            "lymphocytic",
+            "follicular",
             "small",
             "follicular"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Pixantrone (BBR 2778)",
+            "fludarabine",
+            "dexamethasone",
             "rituximab"
       ],
       "criteria": [
@@ -150,12 +158,23 @@
             "murine",
             "protein"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060684.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "novuspharma"
+      ],
+      "mesh_term": [
+            "lymphocytic",
+            "chronic",
+            "follicular",
+            "acetate",
+            "phosphate",
+            "1101"
+      ],
+      "id": "NCT00060684"
 }

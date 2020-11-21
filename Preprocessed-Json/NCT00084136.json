@@ -250,15 +250,45 @@
             "small"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Atazanavir",
+            "Didanosine (enteric-coated)",
+            "Efavirenz",
+            "Emtricitabine",
+            "Emtricitabine/Tenofovir disoproxil fumarate",
+            "Lamivudine/Zidovudine"
+      ],
       "description": [
-            "150",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
             "mg",
             "take",
             "orally",
@@ -413,12 +443,30 @@
             "medication",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084136.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "failure"
+      ],
+      "mesh_term": [
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination",
+            "sulfate",
+            "zidovudine",
+            "drug",
+            "combination",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00084136"
 }

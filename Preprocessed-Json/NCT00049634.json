@@ -228,17 +228,24 @@
             "year"
       ],
       "condition": [
+            "myeloproliferative",
+            "disorder",
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -327,7 +334,6 @@
             "le",
             "2",
             "time",
-            "uln",
             "note",
             "unless",
             "due",
@@ -398,7 +404,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -407,6 +413,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00049634.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disease",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00049634"
 }

@@ -145,7 +145,6 @@
             "treatment",
             "continue",
             "5",
-            "year",
             "absence",
             "disease",
             "progression",
@@ -156,7 +155,6 @@
             "colonoscopy",
             "approximately",
             "5",
-            "year",
             "baseline",
             "colonoscopy",
             "note",
@@ -191,17 +189,18 @@
             "participant"
       ],
       "condition": [
-            "precancerous",
+            "cancer",
+            "colorectal",
+            "polyp",
             "condition"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "selenium"
+            "Selenium"
       ],
       "description": [
-            "participant",
             "randomize",
             "either",
             "selenium",
@@ -218,12 +217,8 @@
             "colonoscopy",
             "schedule"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "selenoexcell"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -404,7 +399,6 @@
             "renal",
             "creatinine",
             "cardiovascular",
-            "unstable",
             "cardiac",
             "disease",
             "despite",
@@ -428,7 +422,6 @@
             "despite",
             "medication",
             "note",
-            "unstable",
             "define",
             "unable",
             "walk",
@@ -573,7 +566,7 @@
             "dosage",
             "50"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -582,6 +575,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078897.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "adenomatous",
+            "polyp"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition",
+            "polyp"
+      ],
+      "id": "NCT00078897"
 }

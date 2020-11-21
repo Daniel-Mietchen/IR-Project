@@ -39,26 +39,47 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "teduglutide",
-            "mg",
-            "dose"
+            "ALX-0600",
+            "placebo",
+            "teduglutide 0.05",
+            "teduglutide 0.2 mg",
+            "Teduglutide 0.05 dose",
+            "teduglutide 0.1 mg dose"
       ],
       "description": [
+            "solution",
+            "inject",
+            "subcutaneously",
+            "subcutaneous",
+            "daily",
+            "injection",
+            "thigh",
+            "abdomen",
+            "subcutaneously",
+            "inject",
+            "thigh",
+            "abdomen",
+            "subcutaneous",
+            "daily",
+            "injection",
+            "thigh",
+            "abdomen",
             "daily",
             "subcutaneous",
             "injection",
             "thigh",
             "abdomen"
       ],
-      "arm_group_label": [
-            "teduglutide"
-      ],
-      "other_name": [
-            "gattex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -432,12 +453,15 @@
             "inactive",
             "constituent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072839.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00072839"
 }

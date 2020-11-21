@@ -235,7 +235,8 @@
             "stress"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -251,7 +252,7 @@
             "blood",
             "pressure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -260,6 +261,10 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064675.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00064675"
 }

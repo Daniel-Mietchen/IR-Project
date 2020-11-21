@@ -112,14 +112,15 @@
             "subside"
       ],
       "condition": [
-            "sickle",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fructose",
             "placebo"
       ],
       "criteria": [
@@ -222,12 +223,21 @@
             "6",
             "hour"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004797.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00004797"
 }

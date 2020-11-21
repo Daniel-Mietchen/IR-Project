@@ -201,18 +201,34 @@
             "year"
       ],
       "condition": [
-            "vaginal",
+            "cancer",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "paclitaxel",
+            "vinorelbine tartrate",
+            "radiation therapy"
       ],
       "description": [
-            "radiation",
+            "qwk",
+            "start",
+            "dose",
+            "plan",
+            "dose",
+            "escalation",
+            "increment",
+            "qwk",
+            "10",
+            "15",
+            "20",
+            "25",
             "therapy",
             "total",
             "pelvic",
@@ -236,9 +252,7 @@
             "interstitial",
             "brachytherapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -318,12 +332,27 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002949.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "cervical",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002949"
 }

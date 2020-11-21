@@ -99,24 +99,26 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "carcinoma",
             "ovarian",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "Cositecan",
+            "Pharmacological Study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "172",
             "study"
       ],
       "criteria": [
@@ -335,11 +337,12 @@
             "protective",
             "reagent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054119.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00054119"
 }

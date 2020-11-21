@@ -546,17 +546,17 @@
             "disorder"
       ],
       "condition": [
-            "communicable",
+            "granulomatous",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "isolex",
-            "magnetic",
-            "cell",
-            "selector"
+            "Gene Therapy Method for CGD",
+            "Isolex 300i Magnetic Cell Selector"
       ],
       "criteria": [
             "inclusion",
@@ -914,12 +914,22 @@
             "exacerbate",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001476.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "granulomatous",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "chronic",
+            "disease"
+      ],
+      "id": "NCT00001476"
 }

@@ -129,15 +129,13 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pemetrexed",
-            "disodium"
+            "pemetrexed disodium"
       ],
       "criteria": [
             "disease",
@@ -266,7 +264,6 @@
             "phosphatase",
             "3",
             "time",
-            "uln",
             "bilirubin",
             "time",
             "uln",
@@ -443,11 +440,19 @@
             "study",
             "participation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087113.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ivb",
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00087113"
 }

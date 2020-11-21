@@ -230,20 +230,29 @@
             "immediately"
       ],
       "condition": [
-            "pneumocystis",
+            "infection",
             "jiroveci",
             "pneumonia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "isoniazid",
-            "placebo",
-            "pl"
+            "Isoniazid (INH)",
+            "Trimethoprim/Sulfamethoxazole (TMP/SMX)",
+            "Isoniazid Placebo (PL)"
       ],
       "description": [
-            "isoniazid",
+            "prevention",
+            "treatment",
+            "tb",
+            "prevention",
+            "treatment",
+            "pneumocystis",
+            "pneumonia",
+            "pcp",
             "placebo"
       ],
       "arm_group_label": [],
@@ -438,7 +447,7 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "91",
             "day"
@@ -447,6 +456,14 @@
             "120",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080119.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00080119"
 }

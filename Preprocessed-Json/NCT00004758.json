@@ -170,13 +170,23 @@
             "year"
       ],
       "condition": [
-            "epilepsy"
+            "infantile"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "carbamazepine",
+            "corticotropin",
+            "nitrazepam",
+            "pyridoxine",
+            "valproic acid",
+            "Surgery"
       ],
       "criteria": [
             "protocol",
@@ -289,12 +299,20 @@
             "surgery",
             "family"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "2",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004758.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "seizure"
+      ],
+      "mesh_term": [
+            "infantile",
+            "acid",
+            "hormone"
+      ],
+      "id": "NCT00004758"
 }

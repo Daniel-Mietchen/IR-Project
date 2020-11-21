@@ -297,7 +297,8 @@
             "disorder"
       ],
       "condition": [
-            "voice",
+            "disease",
+            "dysphonia",
             "disorder"
       ],
       "criteria": [
@@ -412,9 +413,17 @@
             "person",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001552.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "voice",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00001552"
 }

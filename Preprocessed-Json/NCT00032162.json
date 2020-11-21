@@ -150,25 +150,27 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "cancer",
+            "tube",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "carboplatin",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "description": [
+            "6",
             "dose",
             "find",
             "study"
       ],
-      "arm_group_label": [
-            "pld"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -340,14 +342,24 @@
             "another",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032162.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "carcinosarcoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00032162"
 }

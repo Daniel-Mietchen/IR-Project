@@ -126,16 +126,14 @@
             "treatment"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nicotine",
-            "patch"
+            "Nicotine patch"
       ],
       "criteria": [
             "inclusion",
@@ -241,7 +239,7 @@
             "pregnant",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -250,6 +248,11 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046813.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00046813"
 }

@@ -101,15 +101,14 @@
             "count"
       ],
       "condition": [
-            "hiv",
+            "disease",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "inosine",
-            "pranobex"
+            "Inosine pranobex"
       ],
       "criteria": [
             "exclusion",
@@ -158,14 +157,20 @@
             "lymphadenopathy",
             "pgl"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002297.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "pranobex"
+      ],
+      "id": "NCT00002297"
 }

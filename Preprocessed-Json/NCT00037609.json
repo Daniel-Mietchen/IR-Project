@@ -313,17 +313,22 @@
             "cancer"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "exisulind"
+            "Capecitabine",
+            "Exisulind"
       ],
       "description": [
-            "125",
+            "take",
+            "mouth",
+            "twice",
+            "daily",
             "mg",
             "take",
             "mouth",
@@ -331,12 +336,10 @@
             "daily"
       ],
       "arm_group_label": [
-            "capecitabine",
+            "exisulind",
             "exisulind"
       ],
-      "other_name": [
-            "aptosyn"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -566,9 +569,19 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037609.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "sulfone"
+      ],
+      "id": "NCT00037609"
 }

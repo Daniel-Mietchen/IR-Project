@@ -226,9 +226,7 @@
             "health",
             "statistic"
       ],
-      "condition": [
-            "psoriasis"
-      ],
+      "condition": [],
       "criteria": [
             "must",
             "employee",
@@ -270,9 +268,14 @@
             "cancer",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005781.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005781"
 }

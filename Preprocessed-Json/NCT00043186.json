@@ -57,30 +57,70 @@
             "tolerate"
       ],
       "condition": [
-            "low",
             "bone",
             "mineral",
             "density"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "alendronate"
+            "Placebo",
+            "Denosumab",
+            "Alendronate"
       ],
       "description": [
-            "alendronate",
+            "subcutaneous",
+            "injection",
+            "subcutaneous",
+            "injection",
             "70",
             "mg",
             "tablet"
       ],
       "arm_group_label": [
-            "alendronate",
+            "6",
+            "mg",
+            "every",
+            "3",
+            "month",
+            "14",
+            "mg",
+            "every",
+            "3",
+            "month",
+            "30",
+            "mg",
+            "every",
+            "3",
+            "month",
+            "14",
+            "mg",
+            "every",
+            "6",
+            "month",
+            "60",
+            "mg",
+            "every",
+            "6",
+            "month",
+            "100",
+            "mg",
+            "every",
+            "6",
+            "month",
+            "210",
+            "mg",
+            "every",
+            "6",
+            "month",
             "70",
             "mg"
       ],
       "other_name": [
-            "fosamax"
+            "162"
       ],
       "criteria": [
             "inclusion",
@@ -380,14 +420,16 @@
             "biopsy",
             "substudy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043186.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteoporosis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00043186"
 }

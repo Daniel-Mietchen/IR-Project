@@ -111,15 +111,12 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
       "intervention_name": [
-            "proteomic",
-            "profile"
+            "proteomic profiling"
       ],
       "criteria": [
             "disease",
@@ -143,7 +140,6 @@
             "1",
             "follow",
             "skin",
-            "disease",
             "psoriasis",
             "disease",
             "psoriasis",
@@ -163,7 +159,6 @@
             "pathologic",
             "diagnosis",
             "note",
-            "stable",
             "worsen",
             "disease",
             "therapy",
@@ -230,7 +225,7 @@
             "skin",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -239,6 +234,15 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066664.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stage",
+            "iv",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "fungoides"
+      ],
+      "id": "NCT00066664"
 }

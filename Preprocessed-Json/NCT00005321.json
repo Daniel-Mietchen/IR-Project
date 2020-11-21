@@ -223,7 +223,7 @@
             "qvr"
       ],
       "condition": [
-            "sleep",
+            "disease",
             "apnea",
             "syndrome"
       ],
@@ -231,14 +231,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005321.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "apnea",
+            "syndrome"
+      ],
+      "id": "NCT00005321"
 }

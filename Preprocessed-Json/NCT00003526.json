@@ -115,15 +115,16 @@
             "study"
       ],
       "condition": [
-            "carcinoma",
             "unknown",
             "primary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antineoplaston"
+            "antineoplaston A10",
+            "antineoplaston AS2-1"
       ],
       "criteria": [
             "disease",
@@ -286,9 +287,19 @@
             "antineoplastic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003526.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "carcinoma",
+            "unknown",
+            "primary"
+      ],
+      "mesh_term": [
+            "unknown",
+            "primary"
+      ],
+      "id": "NCT00003526"
 }

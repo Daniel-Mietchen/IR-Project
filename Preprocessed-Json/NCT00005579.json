@@ -120,15 +120,12 @@
             "15",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dolastatin",
-            "10"
+            "dolastatin 10"
       ],
       "criteria": [
             "disease",
@@ -321,7 +318,6 @@
             "least",
             "9",
             "note",
-            "unless",
             "document",
             "bone",
             "marrow",
@@ -431,12 +427,26 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005579.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "macroglobulinemia",
+            "10"
+      ],
+      "id": "NCT00005579"
 }

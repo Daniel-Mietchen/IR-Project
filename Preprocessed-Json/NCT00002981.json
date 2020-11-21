@@ -165,19 +165,21 @@
             "procedure"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "methionine",
-            "c",
-            "11"
+            "positron emission tomography",
+            "fludeoxyglucose F 18",
+            "methionine C 11"
       ],
       "arm_group_label": [
-            "pet",
+            "scan",
+            "scan",
             "scan"
       ],
       "criteria": [
@@ -266,14 +268,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "methionine"
+      ],
+      "id": "NCT00002981"
 }

@@ -446,7 +446,6 @@
             "disease"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -586,9 +585,15 @@
             "prescription",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001681.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pathogenesis"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001681"
 }

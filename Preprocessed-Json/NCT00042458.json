@@ -34,18 +34,26 @@
             "control"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Pramlintide acetate",
+            "Placebo"
       ],
       "description": [
+            "injection",
+            "supply",
+            "multidose",
+            "glass",
+            "vial",
+            "rubber",
+            "stopper",
             "placebo",
             "injection",
             "supply",
@@ -56,7 +64,7 @@
             "stopper"
       ],
       "arm_group_label": [
-            "placebo"
+            "acetate"
       ],
       "criteria": [
             "inclusion",
@@ -68,12 +76,20 @@
             "insulin",
             "injection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042458.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "amyloid",
+            "polypeptide"
+      ],
+      "id": "NCT00042458"
 }

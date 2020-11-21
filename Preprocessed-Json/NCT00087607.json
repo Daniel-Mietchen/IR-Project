@@ -38,30 +38,37 @@
             "individual"
       ],
       "condition": [
-            "hepatitis",
             "c",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "peginterferon",
-            "pegasys"
+            "Ribavirin",
+            "Peginterferon alfa-2b (PEG-Intron)",
+            "Ribavirin",
+            "Peginterferon alfa-2a [Pegasys]"
       ],
       "description": [
-            "180",
+            "po",
+            "sc",
+            "weekly",
+            "po",
             "microgram",
             "sc",
             "weekly"
       ],
       "arm_group_label": [
-            "peginterferon",
+            "ribavirin",
+            "ribavirin",
+            "ribavirin",
             "ribavirin"
       ],
-      "other_name": [
-            "rebetol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -113,12 +120,18 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087607.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00087607"
 }

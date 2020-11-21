@@ -65,13 +65,15 @@
             "efavirenz"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Rifabutin",
+            "Efavirenz"
       ],
       "criteria": [
             "patient",
@@ -90,12 +92,18 @@
             "mg",
             "daily"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023413.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tb"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00023413"
 }

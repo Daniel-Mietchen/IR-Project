@@ -222,18 +222,38 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "gemcitabine hydrochloride",
+            "pegylated liposomal doxorubicin hydrochloride",
+            "vinorelbine tartrate"
       ],
       "arm_group_label": [
-            "vinorelbine",
+            "gemcitabine",
+            "doxorubicin",
+            "higher",
+            "dose",
+            "gemcitabine",
+            "doxorubicin",
+            "lower",
+            "dose",
+            "gemcitabine",
+            "doxorubicin",
+            "higher",
+            "dose",
+            "gemcitabine",
+            "doxorubicin",
+            "lower",
+            "dose",
+            "gemcitabine",
+            "doxorubicin",
+            "higher",
+            "dose",
             "gemcitabine",
             "doxorubicin",
             "lower",
@@ -350,9 +370,18 @@
             "steroidal",
             "antiemetic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006029.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00006029"
 }

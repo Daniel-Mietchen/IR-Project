@@ -130,7 +130,6 @@
             "12"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -143,12 +142,21 @@
             "infect",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "24",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073229.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00073229"
 }

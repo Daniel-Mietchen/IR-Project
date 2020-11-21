@@ -125,18 +125,23 @@
             "effect"
       ],
       "condition": [
-            "eat",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "group",
-            "focus"
+            "Group Psychotherapy-Negative Emotion Focus",
+            "Group Psychotherapy- Self-Esteem Focus"
       ],
       "description": [
-            "20",
+            "weekly",
+            "session",
+            "2",
+            "hour",
+            "group",
+            "format",
             "weekly",
             "session",
             "2",
@@ -144,9 +149,7 @@
             "group",
             "format"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -215,12 +218,20 @@
             "require",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071578.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment"
+      ],
+      "mesh_term": [
+            "eat",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00071578"
 }

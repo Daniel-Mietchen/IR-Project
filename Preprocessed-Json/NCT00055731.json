@@ -315,15 +315,37 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bicalutamide",
+            "buserelin",
+            "cyproterone acetate",
+            "docetaxel",
+            "estramustine phosphate sodium",
+            "flutamide",
+            "goserelin acetate",
+            "leuprolide acetate",
+            "nilutamide",
+            "triptorelin",
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -458,14 +480,23 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055731.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "pamoate",
+            "acetate"
+      ],
+      "id": "NCT00055731"
 }

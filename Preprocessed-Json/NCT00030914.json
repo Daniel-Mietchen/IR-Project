@@ -154,17 +154,25 @@
             "arm"
       ],
       "condition": [
-            "hot",
             "flash"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "medroxyprogesterone",
             "venlafaxine"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "medroxyprogesterone",
+            "long",
+            "term",
+            "iii",
+            "medroxyprogesterone",
+            "short",
+            "term",
             "venlafaxine"
       ],
       "criteria": [
@@ -370,14 +378,21 @@
             "per",
             "day"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030914.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "flash",
+            "hydrochloride",
+            "acetate"
+      ],
+      "id": "NCT00030914"
 }

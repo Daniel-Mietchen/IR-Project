@@ -86,20 +86,16 @@
             "use"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nicotine",
-            "polacrilex",
-            "bupropion"
+            "Nicotine polacrilex, Bupropion"
       ],
       "description": [
-            "subject",
             "receive",
             "12",
             "week",
@@ -111,13 +107,15 @@
             "replacement"
       ],
       "arm_group_label": [
+            "treatment",
+            "nrt",
             "extend",
+            "nrt",
             "tailor",
             "counsel",
             "nrt"
       ],
       "other_name": [
-            "nicorette",
             "zyban"
       ],
       "criteria": [
@@ -134,12 +132,19 @@
             "criterion",
             "multiple"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086385.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "tobacco"
+      ],
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00086385"
 }

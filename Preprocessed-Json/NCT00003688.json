@@ -105,12 +105,11 @@
             "month"
       ],
       "condition": [
-            "gestational",
             "trophoblastic",
             "tumor"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "dactinomycin"
@@ -310,9 +309,7 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "12",
             "year"
@@ -321,6 +318,19 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003688.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "low",
+            "risk",
+            "metastatic",
+            "gestational",
+            "trophoblastic",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "trophoblastic",
+            "disease"
+      ],
+      "id": "NCT00003688"
 }

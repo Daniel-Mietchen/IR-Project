@@ -231,8 +231,6 @@
             "word",
             "begin",
             "letter",
-            "c",
-            "f",
             "etc",
             "serial",
             "reaction",
@@ -255,17 +253,13 @@
             "effect"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "magstim",
-            "rapid",
-            "magnetic",
-            "stimulator"
+            "Magstim Rapid Magnetic Stimulator"
       ],
       "criteria": [
             "inclusion",
@@ -448,7 +442,7 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -457,6 +451,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063284.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pd"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00063284"
 }

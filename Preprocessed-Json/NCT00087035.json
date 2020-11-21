@@ -197,30 +197,36 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "erlotinib",
-            "hydrochloride"
+            "docetaxel",
+            "erlotinib hydrochloride"
       ],
       "description": [
+            "iv",
+            "infusion",
+            "period",
+            "every",
+            "21",
+            "2",
+            "day",
             "take",
             "start",
             "daily",
             "dose"
       ],
       "arm_group_label": [
-            "taxotere",
+            "plus",
+            "tarceva",
             "plus",
             "tarceva"
       ],
-      "other_name": [
-            "tarceva"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -480,14 +486,21 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087035.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00087035"
 }

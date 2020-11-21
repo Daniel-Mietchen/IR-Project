@@ -206,7 +206,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -214,7 +213,7 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "etanercept"
@@ -423,12 +422,16 @@
             "portion",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046904.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cachexia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00046904"
 }

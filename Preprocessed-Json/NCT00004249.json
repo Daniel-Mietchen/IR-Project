@@ -127,15 +127,17 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "polysialic",
-            "acid"
+            "QS21",
+            "keyhole limpet hemocyanin",
+            "polysialic acid"
       ],
       "criteria": [
             "disease",
@@ -316,12 +318,28 @@
             "prior",
             "splenectomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004249.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "21",
+            "hemocyanin"
+      ],
+      "id": "NCT00004249"
 }

@@ -241,7 +241,6 @@
             "function"
       ],
       "condition": [
-            "glioblastoma",
             "multiforme"
       ],
       "criteria": [
@@ -296,7 +295,7 @@
             "tab",
             "tab"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -305,6 +304,11 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083512.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glioblastoma",
+            "multiforme"
+      ],
+      "mesh_term": [],
+      "id": "NCT00083512"
 }

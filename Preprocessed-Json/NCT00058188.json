@@ -200,22 +200,26 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "cholecalciferol",
+            "calcium gluconate",
+            "zoledronic acid"
       ],
       "description": [
-            "give",
+            "orally",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "arm"
+            "ii",
+            "ii"
       ],
       "criteria": [
             "disease",
@@ -366,14 +370,23 @@
             "oral",
             "iv"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058188.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid",
+            "dietary"
+      ],
+      "id": "NCT00058188"
 }

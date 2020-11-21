@@ -133,7 +133,8 @@
             "series"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -183,12 +184,16 @@
             "2",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005240.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005240"
 }

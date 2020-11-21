@@ -128,14 +128,14 @@
             "complication"
       ],
       "condition": [
-            "bacteriuria"
+            "tract",
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cranberry",
-            "juice"
+            "Cranberry juice"
       ],
       "criteria": [
             "inclusion",
@@ -181,14 +181,20 @@
             "interfere",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093938.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "asymptomatic",
+            "bacteriuria"
+      ],
+      "mesh_term": [
+            "tract",
+            "infection"
+      ],
+      "id": "NCT00093938"
 }

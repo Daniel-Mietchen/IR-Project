@@ -143,18 +143,20 @@
             "month"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "dexamethasone",
+            "pegylated liposomal doxorubicin hydrochloride",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -377,9 +379,21 @@
             "allow",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003493.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "doxorubicin"
+      ],
+      "id": "NCT00003493"
 }

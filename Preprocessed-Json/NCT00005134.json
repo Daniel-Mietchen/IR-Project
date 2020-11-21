@@ -698,13 +698,18 @@
             "component"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "disease",
+            "mellitus"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -713,6 +718,16 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005134.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005134"
 }

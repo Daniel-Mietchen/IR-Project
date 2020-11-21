@@ -823,7 +823,6 @@
             "woman"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "criteria": [
@@ -1141,9 +1140,7 @@
             "mediastinal",
             "radiation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -1152,6 +1149,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028340.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "id": "NCT00028340"
 }

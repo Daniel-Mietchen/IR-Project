@@ -91,22 +91,21 @@
             "treatment"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "immunotherapeutic",
-            "primary"
+            "Immunotherapeutic SB719125 (Primary)"
       ],
       "description": [
-            "intramuscular",
             "injection"
       ],
       "arm_group_label": [
-            "cohort",
+            "3",
+            "4",
+            "2",
             "1"
       ],
       "other_name": [
@@ -693,9 +692,7 @@
             "study",
             "product"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -704,6 +701,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058526.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058526"
 }

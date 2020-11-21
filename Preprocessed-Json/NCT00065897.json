@@ -183,19 +183,14 @@
             "tube",
             "defect"
       ],
-      "condition": [
-            "pregnancy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "transabdominal",
-            "chorionic",
-            "villus",
-            "sample",
-            "ta",
-            "cv"
+            "Amniocentesis",
+            "Transabdominal chorionic villus sampling (TA CVS)"
       ],
       "criteria": [
             "inclusion",
@@ -258,9 +253,7 @@
             "normalcy",
             "pregnancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "34",
             "year"
@@ -269,6 +262,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065897.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "prenatal",
+            "diagnosis"
+      ],
+      "id": "NCT00065897"
 }

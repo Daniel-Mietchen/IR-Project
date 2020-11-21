@@ -207,13 +207,18 @@
             "study"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "docetaxel",
+            "epirubicin hydrochloride",
             "fluorouracil"
       ],
       "criteria": [
@@ -463,7 +468,7 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -472,6 +477,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "gastric",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004873"
 }

@@ -380,14 +380,15 @@
             "determine"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "azt"
+            "Interleukin-2/Zidovudine (AZT)"
       ],
       "criteria": [
             "patient",
@@ -544,9 +545,19 @@
             "cause",
             "exclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001354.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cytokine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "deficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001354"
 }

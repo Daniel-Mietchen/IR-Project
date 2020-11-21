@@ -523,7 +523,6 @@
             "program"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "study_pop": [],
@@ -682,12 +681,19 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094354.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "focus",
+            "group"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00094354"
 }

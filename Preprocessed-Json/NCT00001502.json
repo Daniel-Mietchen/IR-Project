@@ -130,13 +130,13 @@
             "tumor"
       ],
       "condition": [
-            "medulloblastoma"
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "RMP-7 and carboplatin"
       ],
       "criteria": [
             "disease",
@@ -327,9 +327,15 @@
             "year",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001502.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001502"
 }

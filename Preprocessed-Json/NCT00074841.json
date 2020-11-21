@@ -36,14 +36,17 @@
             "india"
       ],
       "condition": [
-            "plasmodium",
             "falciparum",
             "malaria"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Azithromycin/Chloroquine",
+            "Sulfadoxine-Pyrimethamine/Chloroquine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -278,12 +281,20 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074841.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "falciparum",
+            "pyrimethamine",
+            "drug",
+            "combination",
+            "diphosphate"
+      ],
+      "id": "NCT00074841"
 }

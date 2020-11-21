@@ -217,15 +217,13 @@
             "month"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "topotecan hydrochloride"
       ],
       "description": [
             "twice",
@@ -240,7 +238,9 @@
             "ii"
       ],
       "arm_group_label": [
-            "oral",
+            "topotecan",
+            "5",
+            "day",
             "topotecan",
             "10",
             "day"
@@ -425,7 +425,7 @@
             "prior",
             "retinoids"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -434,6 +434,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00003675"
 }

@@ -153,17 +153,41 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "cytarabine",
+            "imatinib mesylate"
       ],
       "description": [
+            "daily",
+            "subcutaneous",
+            "injection",
+            "cytarabine",
+            "dose",
+            "20",
+            "mg",
+            "10",
+            "mg",
+            "5",
+            "mg",
+            "dose",
+            "reduce",
+            "per",
+            "square",
+            "meter",
+            "calculate",
+            "body",
+            "surface",
+            "area",
+            "day",
+            "sequential",
+            "28",
+            "day",
+            "cycle",
             "daily",
             "oral",
             "administration",
@@ -176,6 +200,8 @@
             "month"
       ],
       "arm_group_label": [
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
@@ -381,7 +407,7 @@
             "juice",
             "grapefruit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -390,6 +416,21 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022490.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "positive",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00022490"
 }

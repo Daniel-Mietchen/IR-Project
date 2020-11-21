@@ -100,7 +100,6 @@
             "image",
             "analysis",
             "technique",
-            "develop",
             "study",
             "one",
             "project",
@@ -258,7 +257,7 @@
             "obesity"
       ],
       "condition": [
-            "sleep",
+            "disease",
             "apnea",
             "syndrome"
       ],
@@ -266,12 +265,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005511.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005511"
 }

@@ -169,13 +169,16 @@
             "study"
       ],
       "condition": [
-            "osteoporosis"
+            "cancer",
+            "symptom"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "raloxifene",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -348,11 +351,17 @@
             "concurrent",
             "bisphosphonates"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031811.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "menopausal",
+            "symptom"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00031811"
 }

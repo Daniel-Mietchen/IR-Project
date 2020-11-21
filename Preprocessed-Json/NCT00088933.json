@@ -345,26 +345,75 @@
       ],
       "condition": [
             "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "colon",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "rectal",
+            "cancer",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
+            "iv",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant fowlpox-CEA(6D)/TRICOM vaccine",
+            "recombinant vaccinia-CEA(6D)-TRICOM vaccine",
+            "docetaxel",
             "sargramostim"
       ],
       "description": [
-            "give",
+            "intradermally",
+            "intradermally",
+            "iv",
             "subcutaneously"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
             "vi"
       ],
       "other_name": [
-            "prokine"
+            "tricom",
+            "56976"
       ],
       "criteria": [
             "inclusion",
@@ -764,12 +813,21 @@
             "cytotoxic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088933.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "neoplasm"
+      ],
+      "id": "NCT00088933"
 }

@@ -178,30 +178,54 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "tube",
+            "carcinoma",
+            "peritoneal",
+            "carcinoma",
+            "ovarian",
+            "carcinoma",
+            "iii",
+            "ovarian",
+            "cancer",
             "iv",
             "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "3-Dimensional Conformal Radiation Therapy",
+            "Chemosensitization/Potentiation Therapy",
+            "Docetaxel"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemosensitization",
+            "radiation",
+            "docetaxel",
+            "chemosensitization",
+            "radiation",
+            "docetaxel",
             "chemosensitization",
             "radiation",
             "docetaxel"
       ],
       "other_name": [
-            "taxotere",
+            "radiation",
+            "therapy",
+            "conformal",
+            "radiation",
+            "therapy",
+            "crt",
+            "therapy",
+            "conformal",
+            "therapy",
             "injection",
             "concentrate"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "criteria": [
@@ -305,14 +329,17 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066456.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm"
+      ],
+      "id": "NCT00066456"
 }

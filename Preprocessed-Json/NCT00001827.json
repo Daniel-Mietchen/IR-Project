@@ -280,18 +280,23 @@
             "peptide"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "incomplete Freund's adjuvant",
+            "p53 peptide vaccine",
+            "sargramostim",
+            "therapeutic autologous dendritic cells",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "inclusion",
@@ -571,14 +576,21 @@
             "patient",
             "ineligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001827.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00001827"
 }

@@ -303,15 +303,19 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "Thiamine hydrochloride",
+            "Riboflavin",
+            "Ascorbic acid",
+            "Vitamin E"
       ],
       "criteria": [
             "inclusion",
@@ -494,12 +498,21 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037063.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lactic",
+            "acid"
+      ],
+      "mesh_term": [
+            "infection",
+            "acid",
+            "e"
+      ],
+      "id": "NCT00037063"
 }

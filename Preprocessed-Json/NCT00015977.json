@@ -139,17 +139,19 @@
             "week"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "PSA prostate cancer vaccine",
+            "recombinant interleukin-12"
       ],
       "arm_group_label": [
-            "psma",
+            "peptide",
+            "vaccine",
             "peptide",
             "vaccine"
       ],
@@ -381,14 +383,20 @@
             "drug",
             "cyclosporine"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00015977"
 }

@@ -223,16 +223,14 @@
             "value"
       ],
       "condition": [
-            "osteoporosis"
+            "disease",
+            "metabolic"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "pulse",
-            "electromagnetic",
-            "field",
-            "pemf"
+            "Pulsing electromagnetic field (PEMF)"
       ],
       "criteria": [
             "inclusion",
@@ -344,7 +342,7 @@
             "vertebral",
             "fracture"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -353,6 +351,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067834.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "radius"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "metabolic",
+            "disease"
+      ],
+      "id": "NCT00067834"
 }

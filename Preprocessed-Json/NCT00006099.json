@@ -179,17 +179,19 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "indium",
-            "111",
-            "monoclonal",
-            "antibody"
+            "immunohistochemistry staining method",
+            "biopsy",
+            "immunoscintigraphy",
+            "indium In 111 monoclonal antibody Hu3S193"
       ],
       "criteria": [
             "disease",
@@ -333,14 +335,21 @@
             "day",
             "treatment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006099.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00006099"
 }

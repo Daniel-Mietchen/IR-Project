@@ -52,14 +52,15 @@
             "trial"
       ],
       "condition": [
-            "malaria",
             "falciparum"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "chloroquine"
+            "Azithromycin/Chloroquine",
+            "Chloroquine"
       ],
       "criteria": [
             "inclusion",
@@ -187,7 +188,7 @@
             "participant",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -196,6 +197,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082563.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "falciparum",
+            "diphosphate"
+      ],
+      "id": "NCT00082563"
 }

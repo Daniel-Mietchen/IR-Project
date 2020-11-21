@@ -200,15 +200,26 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "asparaginase",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "methotrexate",
+            "prednisone",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -277,12 +288,20 @@
             "surgery",
             "applicable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "19",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002499.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002499"
 }

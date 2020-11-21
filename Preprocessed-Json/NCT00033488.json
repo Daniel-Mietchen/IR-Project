@@ -126,16 +126,17 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "comparison",
-            "screen",
-            "method"
+            "cytology specimen collection procedure",
+            "annual screening",
+            "comparison of screening methods"
       ],
       "criteria": [
             "disease",
@@ -275,14 +276,20 @@
             "screen",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033488.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00033488"
 }

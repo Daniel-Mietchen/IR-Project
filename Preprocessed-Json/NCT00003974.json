@@ -199,13 +199,19 @@
             "year"
       ],
       "condition": [
-            "malignant",
+            "cancer",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "lung tumor associated antigen",
+            "DetoxPC",
+            "chemotherapy",
             "cyclophosphamide"
       ],
       "criteria": [
@@ -290,7 +296,7 @@
             "antiinflammatory",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -299,6 +305,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003974.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003974"
 }

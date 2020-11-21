@@ -84,18 +84,15 @@
             "population"
       ],
       "condition": [
-            "leukemia",
             "lymphoblastic",
             "acute",
             "pediatric"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "clofarabine",
-            "iv",
-            "formulation"
+            "clofarabine (IV formulation)"
       ],
       "criteria": [
             "inclusion",
@@ -328,12 +325,23 @@
             "grade",
             "2"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukemia",
+            "lymphoblastic",
+            "acute",
+            "pediatric"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00042341"
 }

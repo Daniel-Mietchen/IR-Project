@@ -141,15 +141,17 @@
             "study"
       ],
       "condition": [
-            "penile",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "cisplatin",
+            "irinotecan hydrochloride",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -289,14 +291,21 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066391.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "penile",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00066391"
 }

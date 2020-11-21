@@ -412,15 +412,44 @@
             "multicenter",
             "study"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radioisotope",
-            "therapy"
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "melphalan",
+            "mesna",
+            "vincristine sulfate",
+            "vindesine",
+            "autologous bone marrow transplantation",
+            "conventional surgery",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET electron therapy",
+            "low-LET photon therapy",
+            "radioisotope therapy"
       ],
       "criteria": [
             "disease",
@@ -490,12 +519,20 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002802.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002802"
 }

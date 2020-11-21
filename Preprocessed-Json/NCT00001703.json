@@ -358,20 +358,35 @@
             "vaccination"
       ],
       "condition": [
-            "renal",
             "cell",
             "carcinoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "von",
-            "peptide",
-            "vaccine"
+            "incomplete Freund's adjuvant",
+            "von Hippel-Lindau peptide vaccine"
       ],
       "description": [
-            "1000",
+            "ml",
+            "montanide",
+            "adjuvant",
+            "incomplete",
+            "freund",
+            "adjuvant",
+            "mix",
+            "peptide",
+            "alone",
+            "inject",
+            "subcutaneously",
+            "every",
+            "four",
+            "week",
+            "total",
+            "four",
+            "vaccination",
             "microgram",
             "administer",
             "subcutaneously",
@@ -383,12 +398,12 @@
             "vaccination"
       ],
       "arm_group_label": [
-            "group",
+            "peptide",
+            "adjuvant",
             "peptide",
             "adjuvant"
       ],
       "other_name": [
-            "montanide",
             "adjuvant"
       ],
       "criteria": [
@@ -646,12 +661,23 @@
             "patient",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001703.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00001703"
 }

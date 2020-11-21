@@ -182,15 +182,13 @@
             "cycle"
       ],
       "condition": [
-            "pancreatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab",
-            "gemcitabine"
+            "Infliximab; Gemcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -296,12 +294,18 @@
             "feed",
             "tpn"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060502.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "remicade"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00060502"
 }

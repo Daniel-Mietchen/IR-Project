@@ -36,16 +36,14 @@
             "disease"
       ],
       "condition": [
-            "renal",
             "insufficiency",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paricalcitol",
-            "capsule"
+            "paricalcitol capsule"
       ],
       "criteria": [
             "inclusion",
@@ -221,12 +219,18 @@
             "hiv",
             "positive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048516.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "chronic",
+            "insufficiency"
+      ],
+      "id": "NCT00048516"
 }

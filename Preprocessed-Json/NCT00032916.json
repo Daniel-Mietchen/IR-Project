@@ -38,13 +38,17 @@
             "volunteer"
       ],
       "condition": [
-            "infusion",
+            "disorder",
+            "administration",
+            "schedule",
             "intravenous"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "NS2359"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -104,7 +108,7 @@
             "screen",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -113,6 +117,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00032916.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00032916"
 }

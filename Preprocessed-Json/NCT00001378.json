@@ -101,11 +101,11 @@
             "pcna"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "fenretinide"
@@ -414,9 +414,16 @@
             "month",
             "tamoxifen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001378.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tgf",
+            "beta"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001378"
 }

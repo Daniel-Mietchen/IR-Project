@@ -293,14 +293,12 @@
             "combine",
             "bupivacaine"
       ],
-      "condition": [
-            "pain"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "flurbiprofen"
+            "Flurbiprofen"
       ],
       "criteria": [
             "patient",
@@ -427,9 +425,13 @@
             "diuretic",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001724.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001724"
 }

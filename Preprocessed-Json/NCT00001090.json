@@ -237,14 +237,17 @@
             "1"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "APL 400-047",
+            "ALVAC-HIV MN120TMG (vCP205)",
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -483,12 +486,20 @@
             "define",
             "aveg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001090.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001090"
 }

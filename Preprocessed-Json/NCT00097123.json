@@ -241,13 +241,13 @@
             "error"
       ],
       "condition": [
-            "pregnancy"
+            "hemorrhage"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "misoprostol"
+            "Misoprostol"
       ],
       "criteria": [
             "inclusion",
@@ -350,11 +350,16 @@
             "time",
             "delivery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097123.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "woman",
+            "health"
+      ],
+      "mesh_term": [
+            "hemorrhage"
+      ],
+      "id": "NCT00097123"
 }

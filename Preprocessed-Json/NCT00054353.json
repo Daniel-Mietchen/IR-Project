@@ -211,26 +211,66 @@
             "year"
       ],
       "condition": [
-            "refractory",
             "multiple",
             "myeloma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "fludarabine phosphate",
+            "melphalan",
+            "total-body irradiation",
+            "mycophenolate mofetil",
+            "cyclosporine",
+            "nonmyeloablative allogeneic hematopoietic stem cell transplantation",
+            "peripheral blood stem cell transplantation",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "tbi",
+            "po",
+            "po",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
+            "allogeneic",
+            "pbsct",
             "allogeneic",
             "pbsct"
       ],
       "other_name": [
+            "mustard",
+            "transplantation",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
             "transplantation",
             "peripheral",
             "blood",
@@ -650,7 +690,7 @@
             "donor",
             "exclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -659,6 +699,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054353.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "phosphate",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00054353"
 }

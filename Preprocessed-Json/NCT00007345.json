@@ -426,18 +426,20 @@
             "toxicity"
       ],
       "condition": [
-            "peripheral",
+            "cell",
+            "lymphoma",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "romidepsin"
+            "Romidepsin"
       ],
       "arm_group_label": [
-            "cutaneous",
+            "lymphoma",
+            "ptcl",
             "lymphoma",
             "ctcl"
       ],
@@ -1334,12 +1336,21 @@
             "consultation",
             "cardiology"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cd",
+            "30",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "peripheral",
+            "cutaneous"
+      ],
+      "id": "NCT00007345"
 }

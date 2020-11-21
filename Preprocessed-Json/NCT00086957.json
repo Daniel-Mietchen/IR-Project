@@ -137,7 +137,6 @@
             "patient",
             "also",
             "receive",
-            "trastuzumab",
             "iv",
             "minute",
             "docetaxel",
@@ -157,7 +156,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "trastuzumab",
             "give",
             "higher",
             "dose",
@@ -265,17 +263,40 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "trastuzumab",
+            "docetaxel",
             "gefitinib"
       ],
       "description": [
-            "250",
+            "1",
+            "load",
+            "dose",
+            "8",
+            "follow",
+            "6",
+            "every",
+            "3",
+            "week",
+            "subsequent",
+            "cycle",
+            "every",
+            "three",
+            "week",
+            "60",
+            "every",
+            "three",
+            "week",
+            "depend",
+            "study",
+            "find",
             "mg",
             "daily",
             "250",
@@ -289,6 +310,10 @@
             "find"
       ],
       "arm_group_label": [
+            "trastuzumab",
+            "docetaxel",
+            "trastuzumab",
+            "docetaxel",
             "trastuzumab",
             "docetaxel"
       ],
@@ -600,12 +625,20 @@
             "study",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086957.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00086957"
 }

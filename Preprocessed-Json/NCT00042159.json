@@ -299,20 +299,14 @@
             "trial",
             "stop"
       ],
-      "condition": [
-            "hallucination"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "repetitive",
-            "transcranial",
-            "magnetic",
-            "stimulation"
+            "repetitive transcranial magnetic stimulation"
       ],
       "description": [
-            "1",
             "hertz",
             "stimulation",
             "16",
@@ -396,7 +390,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -405,6 +399,12 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042159.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "auditory",
+            "hallucination",
+            "voice"
+      ],
+      "mesh_term": [],
+      "id": "NCT00042159"
 }

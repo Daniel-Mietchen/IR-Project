@@ -162,22 +162,22 @@
             "month"
       ],
       "condition": [
-            "precancerous",
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "device"
+            "Procedure",
+            "Device"
       ],
       "intervention_name": [
-            "infrared",
-            "coagulator"
+            "infrared photocoagulation therapy",
+            "Infrared Coagulator"
       ],
       "arm_group_label": [
-            "infrared",
+            "coagulator",
             "coagulator"
       ],
       "description": [
-            "irc",
             "treatment",
             "3",
             "hgain",
@@ -197,7 +197,6 @@
             "visit"
       ],
       "other_name": [
-            "redfield",
             "infrared",
             "coagulator",
             "irc",
@@ -347,12 +346,21 @@
             "anal",
             "dysplasia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066430.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "intraepithelial",
+            "lesion"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00066430"
 }

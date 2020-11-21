@@ -171,24 +171,37 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "recombinant interleukin-12",
+            "recombinant interferon alfa",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "sc",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
+      "arm_group_label": [],
+      "other_name": [
+            "lymphocyte",
+            "maturation",
+            "factor",
+            "killer",
+            "cell",
+            "stimulatory",
+            "factor",
+            "n",
+            "interferon"
       ],
-      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -421,12 +434,13 @@
             "patient",
             "potential"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026143.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00026143"
 }

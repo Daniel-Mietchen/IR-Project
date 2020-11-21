@@ -149,19 +149,26 @@
             "study"
       ],
       "condition": [
-            "weight",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "change"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
+            "creatine monohydrate",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
             "ii"
       ],
       "criteria": [
@@ -311,12 +318,22 @@
             "parenteral",
             "nutrition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081250.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "weight",
+            "change"
+      ],
+      "mesh_term": [
+            "weight",
+            "loss",
+            "weight",
+            "change"
+      ],
+      "id": "NCT00081250"
 }

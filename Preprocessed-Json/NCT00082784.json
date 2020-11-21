@@ -139,23 +139,74 @@
             "toxicity"
       ],
       "condition": [
-            "waldenstrom",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "lymphoid",
+            "tissue",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "small",
+            "cleave",
+            "cell",
+            "lymphoma",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
+            "mantle",
+            "cell",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "plasma",
+            "cell",
+            "myeloma",
+            "marginal",
+            "zone",
+            "lymphoma",
             "macroglobulinemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "Bortezomib",
+            "Alvocidib Hydrochloride",
+            "Pharmacological Study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "1275",
             "study"
       ],
       "criteria": [
@@ -246,12 +297,23 @@
             "clearance",
             "50"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082784.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "large",
+            "diffuse",
+            "marginal",
+            "zone",
+            "macroglobulinemia",
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00082784"
 }

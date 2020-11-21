@@ -145,15 +145,18 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "liposome"
+            "EGFR antisense DNA",
+            "growth factor antagonist therapy",
+            "DC-cholesterol liposome"
       ],
       "criteria": [
             "disease",
@@ -277,7 +280,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -286,6 +289,22 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009841.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00009841"
 }

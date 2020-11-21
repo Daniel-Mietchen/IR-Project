@@ -184,27 +184,41 @@
             "thereafter"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "radiation therapy",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "radiation",
+            "therapy",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
+            "radiation",
+            "therapy",
+            "gefitinib",
+            "radiation",
+            "therapy",
             "gefitinib",
             "radiation",
             "therapy"
       ],
       "other_name": [
-            "therapy",
+            "1839",
             "radiation"
       ],
       "criteria": [
@@ -501,9 +515,10 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052208.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00052208"
 }

@@ -155,26 +155,41 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "soy",
-            "isoflavones"
+            "Lycopene",
+            "Multivitamin",
+            "Soy isoflavones"
       ],
       "description": [
-            "daily",
+            "administration",
+            "outline",
+            "treatment",
+            "arm",
+            "administration",
+            "outline",
+            "treatment",
+            "arm",
             "administration",
             "outline",
             "treatment",
             "arm"
       ],
       "arm_group_label": [
-            "oral",
+            "lycopene",
+            "multivitamin",
+            "isoflavones",
+            "multivitamin",
+            "lycopene",
+            "multivitamin",
+            "vitamin",
+            "alone",
             "isoflavones",
             "multivitamin"
       ],
@@ -305,9 +320,7 @@
             "prostate",
             "cancer"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "45",
             "year"
@@ -316,6 +329,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042731.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00042731"
 }

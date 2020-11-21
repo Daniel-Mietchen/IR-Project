@@ -22,18 +22,22 @@
             "df"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "alafenamide"
+            "Tenofovir DF",
+            "Tenofovir alafenamide"
       ],
       "description": [
-            "tenofovir",
+            "df",
+            "tablet",
+            "administer",
+            "orally",
+            "daily",
             "alafenamide",
             "tablet",
             "administer",
@@ -41,7 +45,10 @@
             "daily"
       ],
       "arm_group_label": [
-            "tenofovir",
+            "df",
+            "alafenamide",
+            "50",
+            "mg",
             "alafenamide",
             "150",
             "mg"
@@ -117,7 +124,7 @@
             "agent",
             "corticosteroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -126,6 +133,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036634.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00036634"
 }

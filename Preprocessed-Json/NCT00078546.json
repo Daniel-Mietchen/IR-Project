@@ -368,27 +368,36 @@
             "available"
       ],
       "condition": [
-            "ebv",
+            "cancer",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "anti",
-            "monoclonal",
-            "antibody"
+            "EBV specific CTL Infusion",
+            "Anti CD45 monoclonal antibody"
       ],
       "description": [
+            "injection",
+            "one",
+            "follow",
+            "dose",
+            "level",
+            "dose",
+            "level",
+            "ii",
+            "dose",
+            "level",
+            "iii",
             "6",
             "8",
             "hr",
             "4",
             "day"
       ],
-      "other_name": [
-            "yth"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -470,9 +479,21 @@
             "fda",
             "reviewer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078546.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ebv",
+            "positive",
+            "nasopharyngeal",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "virus",
+            "infection",
+            "monoclonal"
+      ],
+      "id": "NCT00078546"
 }

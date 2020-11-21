@@ -42,13 +42,17 @@
             "find",
             "illness"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ondansetron",
+            "neuropsychological testing",
+            "nicotine",
             "haloperidol"
       ],
       "criteria": [
@@ -57,7 +61,7 @@
             "schizophrenia",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -66,6 +70,12 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018850.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "haloperidol"
+      ],
+      "mesh_term": [
+            "decanoate"
+      ],
+      "id": "NCT00018850"
 }

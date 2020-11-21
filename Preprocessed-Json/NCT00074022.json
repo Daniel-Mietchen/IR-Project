@@ -248,28 +248,61 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cell",
+            "lung",
+            "cancer",
+            "prostate",
+            "cancer",
+            "iii",
+            "prostate",
+            "cancer",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
+            "iv",
+            "cell",
+            "lung",
+            "cancer",
+            "iv",
+            "prostate",
+            "cancer",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "GTI-2040",
+            "docetaxel",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
             "docetaxel"
       ],
       "other_name": [
-            "pharmacological",
+            "56976",
             "study"
       ],
       "criteria": [
@@ -557,12 +590,17 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074022.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00074022"
 }

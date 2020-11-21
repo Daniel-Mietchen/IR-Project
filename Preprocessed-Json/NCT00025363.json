@@ -452,26 +452,82 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "treat",
+            "childhood",
+            "rhabdomyosarcoma",
             "childhood",
             "rhabdomyosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "vincristine sulfate",
+            "irinotecan hydrochloride",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "etoposide",
+            "tirapazamine",
+            "filgrastim",
+            "sargramostim",
+            "pharmacological study",
+            "pharmacogenomic studies",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "pharmacogenomic",
+            "sulfate",
+            "pfs",
+            "pfs",
+            "rdf",
+            "4233",
+            "59075",
+            "study",
             "study"
       ],
       "criteria": [
@@ -771,12 +827,16 @@
             "concurrent",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025363.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "embryonal",
+            "doxorubicin"
+      ],
+      "id": "NCT00025363"
 }

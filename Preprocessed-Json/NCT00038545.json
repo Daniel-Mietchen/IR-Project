@@ -22,10 +22,14 @@
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan"
+            "Filgrastim SD/01",
+            "Paclitaxel",
+            "Topotecan"
       ],
       "criteria": [
             "inclusion",
@@ -165,12 +169,19 @@
             "derive",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038545.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "refractory"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00038545"
 }

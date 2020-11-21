@@ -230,18 +230,16 @@
             "susceptibility"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "male",
-            "circumcision"
+            "male circumcision"
       ],
       "arm_group_label": [
-            "delay",
+            "immediately",
             "circumcision"
       ],
       "criteria": [
@@ -268,9 +266,7 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -279,6 +275,13 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059371.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00059371"
 }

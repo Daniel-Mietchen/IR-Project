@@ -393,15 +393,14 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "myelofibrosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CC-5013"
+      ],
       "description": [
-            "10",
             "mg",
             "orally",
             "2",
@@ -409,9 +408,7 @@
             "daily"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "revlimid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -523,7 +520,6 @@
             "pregnancy",
             "test",
             "continue",
-            "men",
             "must",
             "agree",
             "use",
@@ -620,9 +616,15 @@
             "feed",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087672.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiangiogenesis"
+      ],
+      "mesh_term": [
+            "myelofibrosis"
+      ],
+      "id": "NCT00087672"
 }

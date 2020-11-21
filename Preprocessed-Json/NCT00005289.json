@@ -598,7 +598,8 @@
             "workshop"
       ],
       "condition": [
-            "respiratory",
+            "dysplasia",
+            "disease",
             "distress",
             "syndrome"
       ],
@@ -606,11 +607,19 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005289.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "dysplasia"
+      ],
+      "id": "NCT00005289"
 }

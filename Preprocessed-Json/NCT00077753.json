@@ -112,15 +112,13 @@
             "placebo"
       ],
       "condition": [
-            "venous",
             "thromboembolism"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "enoxaparin",
-            "sodium"
+            "enoxaparin sodium"
       ],
       "criteria": [
             "inclusion",
@@ -438,12 +436,15 @@
             "cerebral",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077753.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "thromboembolism"
+      ],
+      "id": "NCT00077753"
 }

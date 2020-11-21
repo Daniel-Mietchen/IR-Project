@@ -25,13 +25,13 @@
             "tb"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rifabutin"
+            "Rifabutin"
       ],
       "criteria": [
             "inclusion",
@@ -133,12 +133,18 @@
             "tuberculosis",
             "silicotuberculosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023361.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tb"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00023361"
 }

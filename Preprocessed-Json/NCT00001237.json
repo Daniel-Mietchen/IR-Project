@@ -168,15 +168,14 @@
       ],
       "condition": [
             "lymphoma",
+            "diffuse",
             "small"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "colony",
-            "stimulate",
-            "factor"
+            "granulocyte-macrophage colony stimulating factor (GM-CSF)"
       ],
       "criteria": [
             "high",
@@ -360,9 +359,15 @@
             "immunodeficiency",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001237.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "lymphoma"
+      ],
+      "id": "NCT00001237"
 }

@@ -291,7 +291,11 @@
             "treatment"
       ],
       "condition": [
-            "lead",
+            "infertility",
+            "disease",
+            "male",
+            "genital",
+            "disease",
             "poison"
       ],
       "criteria": [
@@ -339,9 +343,7 @@
             "assist",
             "reproduction"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
@@ -350,6 +352,17 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012480.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "economics",
+            "medical"
+      ],
+      "mesh_term": [
+            "male",
+            "poison",
+            "disease",
+            "disease",
+            "male"
+      ],
+      "id": "NCT00012480"
 }

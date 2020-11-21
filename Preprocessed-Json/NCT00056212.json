@@ -109,15 +109,16 @@
             "care"
       ],
       "condition": [
-            "low",
             "back",
             "pain"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "exercise"
+            "Yoga",
+            "Exercise"
       ],
       "criteria": [
             "inclusion",
@@ -187,7 +188,7 @@
             "back",
             "pain"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -196,6 +197,11 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056212.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain"
+      ],
+      "id": "NCT00056212"
 }

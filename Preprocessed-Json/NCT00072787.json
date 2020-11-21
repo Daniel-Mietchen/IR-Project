@@ -96,13 +96,14 @@
             "cancer"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "S-1",
             "cisplatin"
       ],
       "criteria": [
@@ -347,12 +348,21 @@
             "mean",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072787.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phase",
+            "2",
+            "clinical",
+            "trial"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00072787"
 }

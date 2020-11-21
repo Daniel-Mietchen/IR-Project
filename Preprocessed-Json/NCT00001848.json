@@ -271,14 +271,13 @@
             "alone"
       ],
       "condition": [
-            "pelvic",
             "pain"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "raloxifene"
+            "Raloxifene"
       ],
       "criteria": [
             "inclusion",
@@ -446,11 +445,20 @@
             "major",
             "depression"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001848.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pelvic",
+            "pain"
+      ],
+      "mesh_term": [
+            "pain",
+            "hydrochloride",
+            "estrogen",
+            "receptor",
+            "modulators"
+      ],
+      "id": "NCT00001848"
 }

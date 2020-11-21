@@ -306,7 +306,6 @@
             "importance"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "study_pop": [],
@@ -380,11 +379,13 @@
             "proliferation",
             "measure"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088257.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "obesity"
+      ],
+      "id": "NCT00088257"
 }

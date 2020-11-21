@@ -95,14 +95,16 @@
             "docetaxel",
             "cisplatin"
       ],
-      "condition": [
-            "nsclc"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cisplatin"
+            "Doxorubicin HCl Inhalation Solution",
+            "Docetaxel",
+            "Cisplatin"
       ],
       "criteria": [
             "inclusion",
@@ -422,12 +424,20 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082472.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prior",
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "lung",
+            "doxorubicin"
+      ],
+      "id": "NCT00082472"
 }

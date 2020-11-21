@@ -389,13 +389,15 @@
             "measurement",
             "compound"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CDB-2914",
+            "COB-2914"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -524,11 +526,13 @@
             "use",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041899.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "estrogen"
+      ],
+      "mesh_term": [],
+      "id": "NCT00041899"
 }

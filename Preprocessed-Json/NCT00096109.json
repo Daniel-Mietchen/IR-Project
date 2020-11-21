@@ -106,23 +106,32 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
+            "iiic",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tanespimycin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "tanespimycin",
             "tanespimycin"
       ],
       "other_name": [],
@@ -742,14 +751,15 @@
             "chest",
             "radiation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096109.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096109"
 }

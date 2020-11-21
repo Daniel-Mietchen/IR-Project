@@ -234,23 +234,39 @@
             "thereafter"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "ifosfamide",
+            "paclitaxel",
             "vinblastine"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "regimen",
+            "tip",
+            "b",
+            "veip",
+            "tip",
+            "b",
+            "veip",
+            "tip",
             "b",
             "veip"
       ],
@@ -380,7 +396,6 @@
             "1",
             "follow",
             "condition",
-            "therapy",
             "progressive",
             "gct",
             "partial",
@@ -408,7 +423,6 @@
             "adjuvant",
             "chemotherapy",
             "note",
-            "patient",
             "fail",
             "achieve",
             "pr",
@@ -448,14 +462,11 @@
             "time",
             "upper",
             "limit",
-            "normal",
             "uln",
             "ast",
             "alt",
             "time",
-            "uln",
             "note",
-            "unless",
             "hepatic",
             "metastasis",
             "present",
@@ -535,9 +546,7 @@
             "prior",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -546,6 +555,21 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072215.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "mustard",
+            "paclitaxel"
+      ],
+      "id": "NCT00072215"
 }

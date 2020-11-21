@@ -112,20 +112,17 @@
             "hr",
             "baseline"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
-      ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
             "clevidipine",
+            "placebo"
+      ],
+      "arm_group_label": [],
+      "other_name": [
             "cleviprex"
       ],
       "criteria": [
@@ -263,12 +260,19 @@
             "baseline",
             "value"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093262.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "postoperative",
+            "hypertension"
+      ],
+      "mesh_term": [
+            "agent"
+      ],
+      "id": "NCT00093262"
 }

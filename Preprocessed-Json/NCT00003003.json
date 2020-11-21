@@ -251,15 +251,16 @@
             "patient",
             "enter"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "sargramostim",
+            "mitomycin C",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -418,12 +419,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003003.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00003003"
 }

@@ -125,25 +125,27 @@
             "toxicity"
       ],
       "condition": [
-            "secondary",
+            "myelofibrosis",
             "myelofibrosis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Decitabine",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "decitabine",
             "decitabine"
       ],
       "other_name": [
-            "dezocitidine"
+            "injection"
       ],
       "criteria": [
             "inclusion",
@@ -517,12 +519,15 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095784.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myelofibrosis"
+      ],
+      "id": "NCT00095784"
 }

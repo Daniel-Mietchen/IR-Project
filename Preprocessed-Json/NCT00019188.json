@@ -137,14 +137,19 @@
             "year"
       ],
       "condition": [
+            "epidemic",
+            "kaposi",
+            "sarcoma",
             "recurrent",
             "kaposi",
             "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "interleukin-12"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -506,11 +511,21 @@
             "month",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019188.xml"
+      "keyword": [
+            "stage",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "opportunistic",
+            "infection"
+      ],
+      "id": "NCT00019188"
 }

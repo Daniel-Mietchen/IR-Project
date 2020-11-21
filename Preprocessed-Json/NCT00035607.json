@@ -40,15 +40,20 @@
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "darbepoetin",
-            "alfa",
-            "iv"
+            "Darbepoetin alfa SC",
+            "Darbepoetin alfa IV"
       ],
       "description": [
-            "intravenous",
+            "sc",
+            "injection",
+            "darbepoetin",
+            "alfa",
+            "weekly",
+            "week",
             "administration",
             "darbepoetin",
             "alfa",
@@ -56,7 +61,8 @@
             "week"
       ],
       "arm_group_label": [
-            "darbepoetin",
+            "alfa",
+            "sc",
             "alfa",
             "iv"
       ],
@@ -132,12 +138,15 @@
             "day",
             "1"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035607.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00035607"
 }

@@ -620,16 +620,16 @@
             "survival"
       ],
       "condition": [
-            "myeloproliferative",
+            "disease",
+            "myeloma",
+            "syndrome",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplantation"
+            "Stem cell transplantation"
       ],
       "criteria": [
             "inclusion",
@@ -1146,7 +1146,7 @@
             "approval",
             "recipient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -1155,6 +1155,20 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003838.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pure",
+            "red",
+            "cell",
+            "aplasia"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00003838"
 }

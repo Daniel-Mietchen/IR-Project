@@ -176,15 +176,17 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "observation"
+            "Radiation therapy",
+            "Observation"
       ],
       "description": [
-            "pci",
             "give",
             "whole",
             "brain",
@@ -205,7 +207,9 @@
             "gy"
       ],
       "arm_group_label": [
-            "observation"
+            "cranial",
+            "irradiation",
+            "pci"
       ],
       "criteria": [
             "disease",
@@ -332,12 +336,23 @@
             "survival",
             "endpoint"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048997.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00048997"
 }

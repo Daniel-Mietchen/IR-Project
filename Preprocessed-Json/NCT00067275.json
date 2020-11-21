@@ -520,7 +520,6 @@
             "recovery"
       ],
       "condition": [
-            "cerebrovascular",
             "accident"
       ],
       "criteria": [
@@ -764,7 +763,7 @@
             "cardiac",
             "arrhythmia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -773,6 +772,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067275.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00067275"
 }

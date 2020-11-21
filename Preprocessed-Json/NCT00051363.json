@@ -186,17 +186,25 @@
             "washington"
       ],
       "condition": [
-            "sleep"
+            "disease",
+            "apnea",
+            "syndrome"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "sham",
-            "cpap"
+            "Active CPAP",
+            "Sham CPAP"
       ],
       "description": [
-            "sham",
+            "nasal",
+            "continuous",
+            "positive",
+            "airway",
+            "pressure",
+            "cpap",
             "cpap",
             "machine",
             "use",
@@ -205,11 +213,12 @@
             "group"
       ],
       "arm_group_label": [
-            "sham",
+            "cpap",
             "cpap"
       ],
       "other_name": [
-            "sham",
+            "pressure",
+            "respiration",
             "cpap",
             "machine"
       ],
@@ -418,12 +427,22 @@
             "examination",
             "mmse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051363.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "obstructive",
+            "sleep",
+            "apnea"
+      ],
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00051363"
 }

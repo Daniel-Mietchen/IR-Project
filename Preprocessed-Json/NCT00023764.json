@@ -144,26 +144,34 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
             "mantle",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "velcade"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -426,12 +434,16 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023764.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "disorder"
+      ],
+      "id": "NCT00023764"
 }

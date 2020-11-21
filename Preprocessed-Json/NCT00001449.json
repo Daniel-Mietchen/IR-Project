@@ -71,13 +71,15 @@
             "part",
             "b"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gemcitabine",
+            "fluorodeoxyuridine",
             "leucovorin"
       ],
       "criteria": [
@@ -223,9 +225,13 @@
             "fertile",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001449.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001449"
 }

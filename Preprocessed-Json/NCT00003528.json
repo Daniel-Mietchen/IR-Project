@@ -160,28 +160,26 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
             "childhood",
             "acute",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "raltitrexed"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
-      "other_name": [
-            "tomudex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -314,12 +312,20 @@
             "nonsteroidal",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003528.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myeloid"
+      ],
+      "id": "NCT00003528"
 }

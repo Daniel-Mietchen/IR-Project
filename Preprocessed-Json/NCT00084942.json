@@ -132,15 +132,18 @@
             "year"
       ],
       "condition": [
-            "gallbladder",
+            "bile",
+            "duct",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "capecitabine",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -293,12 +296,24 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084942.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unresectable",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer"
+      ],
+      "mesh_term": [
+            "duct",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00084942"
 }

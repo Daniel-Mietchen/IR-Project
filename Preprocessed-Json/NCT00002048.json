@@ -41,14 +41,14 @@
             "patient"
       ],
       "condition": [
-            "hiv",
+            "disease",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "exclusion",
@@ -299,12 +299,19 @@
             "study",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002048.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease"
+      ],
+      "id": "NCT00002048"
 }

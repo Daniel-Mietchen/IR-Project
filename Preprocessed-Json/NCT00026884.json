@@ -290,7 +290,10 @@
             "perform"
       ],
       "condition": [
-            "renal",
+            "neoplasm",
+            "neoplastic",
+            "syndrome",
+            "cancer",
             "cancer"
       ],
       "criteria": [
@@ -336,7 +339,7 @@
             "provide",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -345,6 +348,17 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026884.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "genome",
+            "sequence"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "syndrome",
+            "hereditary"
+      ],
+      "id": "NCT00026884"
 }

@@ -187,25 +187,44 @@
             "month"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "strontium",
-            "chloride",
-            "sr",
-            "89"
+            "Celecoxib",
+            "Doxorubicin Hydrochloride",
+            "Strontium chloride Sr 89"
       ],
       "description": [
+            "celecoxib",
+            "twice",
+            "daily",
+            "absence",
+            "disease",
+            "progression",
+            "vein",
             "iv",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
             "day",
             "1"
       ],
       "arm_group_label": [
-            "arm",
+            "celecoxib",
+            "celecoxib",
+            "ii",
+            "celecoxib",
+            "celecoxib",
             "ii",
             "celecoxib"
       ],
@@ -289,11 +308,17 @@
             "celecoxib",
             "rofecoxib"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080782.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adriamycin"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "doxorubicin"
+      ],
+      "id": "NCT00080782"
 }

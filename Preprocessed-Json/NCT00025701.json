@@ -208,7 +208,6 @@
             "component"
       ],
       "condition": [
-            "focal",
             "dystonia"
       ],
       "criteria": [
@@ -330,7 +329,7 @@
             "exclude",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -339,6 +338,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025701.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00025701"
 }

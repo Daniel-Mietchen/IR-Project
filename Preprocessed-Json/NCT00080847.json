@@ -257,6 +257,25 @@
       ],
       "condition": [
             "stage",
+            "ii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "stage",
+            "ii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "iii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
             "iv",
             "adult",
             "diffuse",
@@ -264,22 +283,63 @@
             "cell",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "vincristine sulfate",
+            "prednisone",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
             "ii"
       ],
       "other_name": [
-            "deltra"
+            "antisense",
+            "oligodeoxynucleotide",
+            "monoclonal",
+            "antibody",
+            "pfs",
+            "rdf",
+            "sulfate",
+            "pfs"
       ],
       "criteria": [
             "inclusion",
@@ -661,7 +721,7 @@
             "data",
             "base"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -670,6 +730,11 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080847.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "doxorubicin"
+      ],
+      "id": "NCT00080847"
 }

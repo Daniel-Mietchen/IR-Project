@@ -18,13 +18,18 @@
             "chemotherapy"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ZD6474",
+            "Placebo",
+            "ZD1839"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -69,12 +74,16 @@
             "need",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059722.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00059722"
 }

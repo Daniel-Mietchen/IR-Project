@@ -146,20 +146,24 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Radiation",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "biopsy",
-            "sentinel",
-            "lymph",
-            "nod"
+            "Preoperative Endoscopy",
+            "Technetium Tc 99m Sulfur Colloid",
+            "Gamma Probe",
+            "Biopsy of Sentinel Lymph Nodes"
       ],
       "arm_group_label": [
-            "map",
+            "biopsy",
+            "biopsy",
+            "biopsy",
             "biopsy"
       ],
       "criteria": [
@@ -240,12 +244,24 @@
             "retroperitoneal",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005640.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tc",
+            "sulfur",
+            "colloid"
+      ],
+      "id": "NCT00005640"
 }

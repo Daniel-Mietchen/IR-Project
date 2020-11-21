@@ -32,14 +32,17 @@
             "machine"
       ],
       "condition": [
-            "vascular",
+            "kidney",
+            "failure",
             "graft",
             "occlusion"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-hirudin"
+      ],
       "criteria": [
             "patient",
             "undergo",
@@ -104,7 +107,7 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -113,6 +116,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074620.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemodialysis"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic",
+            "occlusion",
+            "vascular"
+      ],
+      "id": "NCT00074620"
 }

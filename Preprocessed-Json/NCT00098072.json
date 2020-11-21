@@ -812,15 +812,19 @@
             "intervention"
       ],
       "condition": [
-            "hypertension",
             "pulmonary"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "nitrite"
+            "Heart Catheterization",
+            "Nitric Oxide",
+            "Nitric Oxide/INO Pulse Delivery",
+            "Sodium Nitrite"
       ],
       "criteria": [
             "eligibility",
@@ -1563,12 +1567,19 @@
             "safety",
             "volunteer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098072.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "oxide"
+      ],
+      "id": "NCT00098072"
 }

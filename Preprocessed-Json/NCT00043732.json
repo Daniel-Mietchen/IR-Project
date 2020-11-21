@@ -191,13 +191,14 @@
             "week"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SCIO-469"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -277,12 +278,16 @@
             "neuropathy",
             "encephalopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043732.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00043732"
 }

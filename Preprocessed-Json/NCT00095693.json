@@ -183,31 +183,75 @@
             "treatment"
       ],
       "condition": [
-            "stage",
+            "thyroid",
+            "cancer",
+            "thyroid",
+            "cancer",
+            "thyroid",
+            "cancer",
+            "iii",
+            "follicular",
+            "thyroid",
+            "cancer",
+            "iii",
+            "papillary",
+            "thyroid",
+            "cancer",
+            "iv",
+            "follicular",
+            "thyroid",
+            "cancer",
             "iv",
             "papillary",
             "thyroid",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Other",
+            "Radiation",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "dynamic",
-            "magnetic",
-            "resonance",
-            "image"
+            "sorafenib tosylate",
+            "laboratory biomarker analysis",
+            "pharmacological study",
+            "fludeoxyglucose F 18",
+            "positron emission tomography",
+            "dynamic contrast-enhanced magnetic resonance imaging"
       ],
       "description": [
-            "correlative",
+            "po",
+            "study",
+            "study",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
+            "sorafenib",
+            "tosylate",
+            "sorafenib",
+            "tosylate",
+            "sorafenib",
+            "tosylate",
+            "sorafenib",
+            "tosylate",
             "sorafenib",
             "tosylate"
       ],
-      "other_name": [],
+      "other_name": [
+            "tosylate",
+            "salt",
+            "study",
+            "scan",
+            "emission",
+            "compute"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -485,12 +529,19 @@
             "ptt",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095693.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "neoplasm",
+            "carcinoma",
+            "anaplastic",
+            "follicular"
+      ],
+      "id": "NCT00095693"
 }

@@ -260,7 +260,9 @@
             "b"
       ],
       "condition": [
-            "lung",
+            "respiratory",
+            "distress",
+            "syndrome",
             "disease"
       ],
       "study_pop": [],
@@ -324,7 +326,7 @@
             "comfort",
             "measure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -333,6 +335,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006496.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury"
+      ],
+      "id": "NCT00006496"
 }

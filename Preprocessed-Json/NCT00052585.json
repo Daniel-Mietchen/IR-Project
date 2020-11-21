@@ -159,29 +159,68 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "rectum",
+            "adenocarcinoma",
+            "colon",
+            "adenocarcinoma",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "ring",
+            "adenocarcinoma",
+            "colon",
+            "ring",
+            "adenocarcinoma",
+            "rectum",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "irinotecan hydrochloride",
+            "gefitinib",
+            "leucovorin calcium",
             "fluorouracil"
       ],
       "description": [
-            "give",
+            "iv",
+            "orally",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "irinotecan",
+            "gefitinib",
+            "leucovorin",
+            "fluorouracil",
+            "irinotecan",
+            "gefitinib",
+            "leucovorin",
+            "fluorouracil",
+            "irinotecan",
+            "gefitinib",
+            "leucovorin",
+            "fluorouracil",
             "irinotecan",
             "gefitinib",
             "leucovorin",
             "fluorouracil"
       ],
-      "other_name": [],
+      "other_name": [
+            "1839"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -367,12 +406,18 @@
             "hypericum",
             "perforatum"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052585.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "mucinous"
+      ],
+      "id": "NCT00052585"
 }

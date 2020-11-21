@@ -109,18 +109,21 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "renal",
+            "cell",
+            "cancer",
             "renal",
             "cell",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "enzyme",
-            "inhibitor",
-            "therapy"
+            "BAY 56-3722",
+            "enzyme inhibitor therapy"
       ],
       "criteria": [
             "disease",
@@ -396,12 +399,17 @@
             "anticancer",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040989.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell",
+            "inhibitor"
+      ],
+      "id": "NCT00040989"
 }

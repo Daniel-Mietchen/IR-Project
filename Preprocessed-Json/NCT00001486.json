@@ -136,7 +136,8 @@
             "study"
       ],
       "condition": [
-            "schizophrenia"
+            "disorder",
+            "disorder"
       ],
       "criteria": [
             "criterion",
@@ -294,7 +295,6 @@
             "genetic",
             "transmission",
             "parent",
-            "offspring",
             "parent",
             "eligible",
             "study",
@@ -357,7 +357,6 @@
             "include",
             "case",
             "control",
-            "analyse",
             "document",
             "presence",
             "metal",
@@ -384,12 +383,17 @@
             "nimh",
             "policy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001486.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001486"
 }

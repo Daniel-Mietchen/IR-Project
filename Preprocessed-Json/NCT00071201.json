@@ -227,19 +227,14 @@
             "week"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "dipivoxil",
-            "oral",
-            "suspension",
-            "2"
+            "Adefovir Dipivoxil for oral suspension, 2 mg/mL"
       ],
       "criteria": [
             "inclusion",
@@ -573,7 +568,7 @@
             "dialysis",
             "capd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -582,6 +577,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071201.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic",
+            "dipivoxil"
+      ],
+      "id": "NCT00071201"
 }

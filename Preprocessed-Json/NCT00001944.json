@@ -257,13 +257,18 @@
             "determine"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Vinorelbine",
+            "XR9576"
+      ],
       "criteria": [
             "age",
             "greater",
@@ -454,9 +459,14 @@
             "vinorelbine",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001944.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "resistance",
+            "reversal"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001944"
 }

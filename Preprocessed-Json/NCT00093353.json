@@ -202,12 +202,16 @@
             "year"
       ],
       "condition": [
-            "neuroblastoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cefixime",
+            "irinotecan hydrochloride",
             "temozolomide"
       ],
       "criteria": [
@@ -266,7 +270,6 @@
             "mm",
             "spiral",
             "ct",
-            "scan",
             "least",
             "1",
             "site",
@@ -274,7 +277,6 @@
             "uptake",
             "metaiodobenzylguanidine",
             "mibg",
-            "scan",
             "bone",
             "marrow",
             "tumor",
@@ -292,7 +294,6 @@
             "marrow",
             "sample",
             "note",
-            "patient",
             "never",
             "experience",
             "disease",
@@ -541,7 +542,7 @@
             "anticancer",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -550,6 +551,11 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093353.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093353"
 }

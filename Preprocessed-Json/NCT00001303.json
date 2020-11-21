@@ -534,16 +534,16 @@
             "lung"
       ],
       "condition": [
-            "septic",
+            "disease",
             "shock"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "inhale",
-            "nitric",
-            "oxide"
+            "Reference Endotoxin",
+            "Inhaled Nitric Oxide"
       ],
       "criteria": [
             "inclusion",
@@ -647,7 +647,7 @@
             "portion",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -656,6 +656,15 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001303.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disease",
+            "septic",
+            "oxide"
+      ],
+      "id": "NCT00001303"
 }

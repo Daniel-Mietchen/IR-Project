@@ -258,11 +258,9 @@
             "arm",
             "arm",
             "amprenavir",
-            "zdv",
             "plus",
             "arm",
             "b",
-            "idv",
             "nvp",
             "arm",
             "c",
@@ -277,13 +275,11 @@
             "may",
             "elect",
             "receive",
-            "patient",
             "intolerant",
             "idv",
             "may",
             "take",
             "nelfinavir",
-            "patient",
             "switch",
             "prior",
             "enrollment",
@@ -332,14 +328,23 @@
             "chair"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Amprenavir",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -819,12 +824,19 @@
             "ergot",
             "alkaloid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001095.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001095"
 }

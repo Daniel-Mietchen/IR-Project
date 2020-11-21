@@ -399,7 +399,8 @@
             "suppression"
       ],
       "condition": [
-            "healthy"
+            "auditory",
+            "disease"
       ],
       "criteria": [
             "inclusion",
@@ -494,9 +495,17 @@
             "12",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001957.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "speech",
+            "impediment"
+      ],
+      "mesh_term": [
+            "disease",
+            "central"
+      ],
+      "id": "NCT00001957"
 }

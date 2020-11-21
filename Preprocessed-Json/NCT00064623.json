@@ -60,15 +60,16 @@
             "treatment"
       ],
       "condition": [
-            "pain"
+            "infection",
+            "nervous",
+            "system",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "capsaicin",
-            "dermal",
-            "patch"
+            "Capsaicin Dermal Patch"
       ],
       "criteria": [
             "inclusion",
@@ -442,12 +443,25 @@
             "anesthetic",
             "adhesive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064623.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peripheral",
+            "nervous",
+            "system"
+      ],
+      "mesh_term": [
+            "infection",
+            "system",
+            "disease",
+            "nervous",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00064623"
 }

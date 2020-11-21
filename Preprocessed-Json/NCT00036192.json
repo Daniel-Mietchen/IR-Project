@@ -54,13 +54,14 @@
             "patient"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "FK614"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -119,7 +120,7 @@
             "heart",
             "failure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -128,6 +129,9 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036192.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00036192"
 }

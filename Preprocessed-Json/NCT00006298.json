@@ -219,7 +219,7 @@
             "genotyping"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "criteria": [
@@ -261,7 +261,7 @@
             "week",
             "tuberculosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -270,6 +270,13 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006298.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "haplotype"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection"
+      ],
+      "id": "NCT00006298"
 }

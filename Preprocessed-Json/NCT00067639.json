@@ -451,17 +451,24 @@
             "utmdacc"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "apheresis"
+            "Pegfilgrastim (Neulasta)",
+            "Apheresis"
       ],
       "description": [
-            "collection",
+            "mg",
+            "single",
+            "injection",
+            "pegfilgrastim",
+            "skin",
+            "prior",
+            "apheresis",
             "stem",
             "cell",
             "repeat",
@@ -476,12 +483,10 @@
             "procedure"
       ],
       "arm_group_label": [
-            "pegfilgrastim",
+            "apheresis",
             "apheresis"
       ],
-      "other_name": [
-            "leukapheresis"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -685,12 +690,18 @@
             "vascular",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067639.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00067639"
 }

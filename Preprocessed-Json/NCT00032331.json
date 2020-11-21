@@ -272,18 +272,18 @@
             "scan"
       ],
       "condition": [
-            "benign",
             "malignant",
             "solitary",
             "pulmonary",
             "nodule"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "ct",
-            "scan"
+            "PET Imaging",
+            "CT scan"
       ],
       "criteria": [
             "patient",
@@ -304,9 +304,24 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032331.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pet",
+            "image",
+            "benign",
+            "malignant",
+            "solitary",
+            "pulmonary",
+            "nodule"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "nodule",
+            "pulmonary",
+            "nodule"
+      ],
+      "id": "NCT00032331"
 }

@@ -436,20 +436,17 @@
             "burden"
       ],
       "condition": [
-            "gastrointestinal",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "continuous",
-            "hyperthermic",
-            "peritoneal",
-            "perfusion"
+            "Cytoreductive surgery",
+            "Continuous hyperthermic peritoneal perfusion (HIPEC/CHPP)"
       ],
       "description": [
-            "patient",
             "undergo",
             "laparotomy",
             "surgical",
@@ -464,8 +461,59 @@
             "debulking",
             "reduce",
             "tumor",
-            "size",
-            "follow",
+            "post",
+            "operative",
+            "chemotherapy",
+            "systemic",
+            "oxaliplatin",
+            "85",
+            "day",
+            "1",
+            "leucovorin",
+            "200",
+            "day",
+            "1",
+            "2",
+            "15",
+            "16",
+            "infusional",
+            "800",
+            "day",
+            "8",
+            "every",
+            "week",
+            "every",
+            "four",
+            "week",
+            "two",
+            "week",
+            "per",
+            "month",
+            "start",
+            "4",
+            "6",
+            "week",
+            "operation",
+            "continue",
+            "four",
+            "cycle",
+            "16",
+            "week",
+            "total",
+            "undergo",
+            "laparotomy",
+            "surgical",
+            "incision",
+            "abdomen",
+            "ass",
+            "peritoneal",
+            "cavity",
+            "cytoreductive",
+            "surgery",
+            "tumor",
+            "debulking",
+            "reduce",
+            "tumor",
             "continuous",
             "hyperthermic",
             "peritoneal",
@@ -486,7 +534,6 @@
             "800",
             "paclitaxel",
             "125",
-            "drug",
             "post",
             "operative",
             "chemotherapy",
@@ -528,7 +575,14 @@
             "total"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "surgery",
+            "post",
+            "op",
+            "chemotherapy",
+            "2",
+            "surgery",
+            "hipec",
             "2",
             "surgery",
             "hipec"
@@ -686,7 +740,6 @@
             "2",
             "treatment",
             "relate",
-            "toxicity",
             "8",
             "patient",
             "must",
@@ -851,12 +904,20 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052962.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hyperthermia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00052962"
 }

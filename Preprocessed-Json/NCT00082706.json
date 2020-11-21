@@ -146,16 +146,45 @@
             "study"
       ],
       "condition": [
-            "urachal",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine"
+            "5-Fluorouracil (5-FU)",
+            "Leucovorin",
+            "Cisplatin",
+            "Gemcitabine"
       ],
       "description": [
+            "1",
+            "5",
+            "dose",
+            "200",
+            "ivci",
+            "daily",
+            "x",
+            "5",
+            "day",
+            "1",
+            "5",
+            "daily",
+            "x",
+            "5",
+            "day",
+            "1",
+            "5",
+            "dose",
+            "20",
+            "daily",
+            "x",
+            "5",
             "day",
             "1",
             "5",
@@ -167,10 +196,19 @@
       "arm_group_label": [
             "leucovorin",
             "gemcitabine",
+            "cisplatin",
+            "leucovorin",
+            "gemcitabine",
+            "cisplatin",
+            "leucovorin",
+            "gemcitabine",
+            "cisplatin",
+            "leucovorin",
+            "gemcitabine",
             "cisplatin"
       ],
       "other_name": [
-            "gemzar"
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -506,12 +544,23 @@
             "metastasis",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082706.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00082706"
 }

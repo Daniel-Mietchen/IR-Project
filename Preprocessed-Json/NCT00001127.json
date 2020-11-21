@@ -61,16 +61,12 @@
             "nasal",
             "spray"
       ],
-      "condition": [
-            "influenza"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "influenza",
-            "virus",
-            "vaccine"
+            "Influenza virus vaccine (CAIV-T)"
       ],
       "criteria": [
             "inclusion",
@@ -128,7 +124,7 @@
             "past",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "month"
@@ -137,6 +133,9 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001127.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "human"
+      ],
+      "id": "NCT00001127"
 }

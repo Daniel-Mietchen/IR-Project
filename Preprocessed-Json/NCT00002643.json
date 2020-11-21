@@ -351,19 +351,36 @@
             "annually",
             "thereafter"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "amifostine trihydrate",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "topotecan hydrochloride",
+            "vincristine sulfate",
+            "conventional surgery",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -466,12 +483,25 @@
             "discourage",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002643.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "ewing",
+            "primitive",
+            "neuroectodermal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "doxorubicin"
+      ],
+      "id": "NCT00002643"
 }

@@ -148,18 +148,13 @@
             "image"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "human",
-            "glial",
-            "cell",
-            "neurotrophic",
-            "factor"
+            "recombinant-methionyl human glial cell line-derived neurotrophic factor"
       ],
       "criteria": [
             "inclusion",
@@ -199,7 +194,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -208,6 +203,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006488.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00006488"
 }

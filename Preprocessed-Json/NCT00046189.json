@@ -364,7 +364,11 @@
             "homozygote"
       ],
       "condition": [
-            "skin",
+            "pigmentosum",
+            "cell",
+            "carcinoma",
+            "cell",
+            "carcinoma",
             "cancer"
       ],
       "criteria": [
@@ -454,7 +458,7 @@
             "laboratory",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -463,6 +467,17 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046189.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "xp"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "basal",
+            "cell",
+            "neoplasm",
+            "pigmentosum"
+      ],
+      "id": "NCT00046189"
 }

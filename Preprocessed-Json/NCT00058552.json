@@ -31,15 +31,13 @@
             "chemotherapy"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pertuzumab",
-            "rhumab"
+            "Pertuzumab (rhuMAb 2C4)"
       ],
       "criteria": [
             "inclusion",
@@ -416,14 +414,22 @@
             "treatment",
             "complication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058552.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "refractory",
+            "recurrent",
+            "ovarian",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058552"
 }

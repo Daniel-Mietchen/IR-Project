@@ -159,17 +159,23 @@
             "accrue"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -278,7 +284,7 @@
             "metastatic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -287,6 +293,11 @@
             "44",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003060.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003060"
 }

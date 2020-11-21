@@ -84,18 +84,54 @@
             "expense",
             "travel"
       ],
-      "condition": [
-            "narcolepsy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "modafinil",
-            "placebo"
+            "Xyrem",
+            "Xyrem Placebo",
+            "Modafinil at established dose",
+            "Modafinil (Placebo)"
       ],
       "description": [
-            "modafinil",
+            "oral",
+            "solution",
+            "6",
+            "4",
+            "week",
+            "9",
+            "another",
+            "4",
+            "week",
+            "placebo",
+            "oral",
+            "solution",
+            "12",
+            "ml",
+            "per",
+            "day",
+            "4",
+            "week",
+            "18",
+            "ml",
+            "per",
+            "day",
+            "another",
+            "4",
+            "week",
+            "oral",
+            "capsule",
+            "200",
+            "600",
+            "mg",
+            "per",
+            "day",
+            "8",
+            "week",
             "placebo",
             "oral",
             "capsule",
@@ -108,11 +144,19 @@
             "week"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "4",
+            "2",
+            "3",
+            "3",
+            "4",
+            "1",
             "2"
       ],
       "other_name": [
-            "provigil",
+            "oxybate",
+            "oxybate",
+            "placebo",
             "placebo"
       ],
       "criteria": [
@@ -439,12 +483,20 @@
             "anticonvulsant",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066170.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "daytime",
+            "sleepiness",
+            "narcolepsy"
+      ],
+      "mesh_term": [
+            "oxybate"
+      ],
+      "id": "NCT00066170"
 }

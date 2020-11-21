@@ -361,25 +361,54 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "asparaginase",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "methotrexate",
+            "therapeutic hydrocortisone",
             "thioguanine"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
+            "patient",
+            "tmd",
+            "patient",
+            "b",
+            "patient",
+            "b",
+            "patient",
+            "b",
+            "patient",
+            "b",
+            "patient",
             "b",
             "patient"
       ],
       "other_name": [
-            "nsc",
+            "109229",
+            "arabinoside",
+            "063878",
+            "82151",
+            "000740",
+            "010483",
             "000752"
       ],
       "criteria": [
@@ -526,10 +555,8 @@
             "observe",
             "ra",
             "mild",
-            "cytopenia",
             "rars",
             "mild",
-            "cytopenia",
             "mild",
             "primary",
             "cytopenia",
@@ -586,13 +613,11 @@
             "fraction",
             "greater",
             "27",
-            "echocardiogram",
             "ejection",
             "fraction",
             "greater",
             "47",
             "radionuclide",
-            "angiogram",
             "note",
             "patient",
             "md",
@@ -655,12 +680,25 @@
             "tmd",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003593.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "syndrome",
+            "disorder",
+            "disease",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00003593"
 }

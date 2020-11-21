@@ -246,17 +246,29 @@
             "morbidity"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "breathmobile",
-            "intervention"
+            "Facilitated Asthma Communication Intervention (FACI)",
+            "Breathmobile intervention"
       ],
       "description": [
+            "communication",
+            "intervention",
+            "design",
+            "facilitate",
+            "communication",
+            "parent",
+            "pcp",
+            "child",
+            "asthma",
+            "severity",
+            "recommend",
+            "therapy",
             "service",
             "specifically",
             "design",
@@ -270,9 +282,7 @@
             "child",
             "neighborhood"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -325,7 +335,7 @@
             "research",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -334,6 +344,9 @@
             "6",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094276.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00094276"
 }

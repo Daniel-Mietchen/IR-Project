@@ -131,17 +131,31 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "syndrome"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "mutation",
-            "analysis"
+            "clonality analysis",
+            "microsatellite instability analysis",
+            "mutation analysis"
       ],
       "arm_group_label": [
-            "increase",
+            "risk",
+            "therapy",
+            "genetical",
+            "suceptibility",
+            "prior",
+            "therapy",
+            "risk",
+            "therapy",
+            "genetical",
+            "suceptibility",
+            "prior",
+            "therapy",
             "risk",
             "therapy"
       ],
@@ -214,12 +228,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003793.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "ewing",
+            "primitive",
+            "neuroectodermal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00003793"
 }

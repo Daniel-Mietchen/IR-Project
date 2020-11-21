@@ -128,13 +128,22 @@
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "growth",
-            "factor",
-            "antagonist",
-            "therapy"
+            "celecoxib",
+            "anti-cytokine therapy",
+            "antiangiogenesis therapy",
+            "biological therapy",
+            "cancer prevention intervention",
+            "chemoprevention of cancer",
+            "growth factor antagonist therapy"
       ],
       "criteria": [
             "disease",
@@ -457,7 +466,7 @@
             "per",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -466,6 +475,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025051.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "carcinoma",
+            "skin"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00025051"
 }

@@ -49,7 +49,6 @@
             "select",
             "outcome",
             "compare",
-            "standard",
             "program",
             "give",
             "similar",
@@ -60,19 +59,15 @@
             "community"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "family",
-            "support",
-            "lifestyle",
-            "intervention"
+            "'Ohana (Family) Support Lifestyle Intervention"
       ],
       "criteria": [
             "inclusion",
@@ -116,12 +111,22 @@
             "criterion",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006165.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00006165"
 }

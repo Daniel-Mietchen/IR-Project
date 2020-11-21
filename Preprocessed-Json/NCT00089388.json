@@ -118,30 +118,69 @@
             "toxicity"
       ],
       "condition": [
-            "adult",
+            "acute",
+            "basophilic",
+            "leukemia",
+            "acute",
+            "eosinophilic",
+            "leukemia",
+            "acute",
+            "megakaryoblastic",
+            "leukemia",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia",
+            "acute",
+            "monoblastic",
+            "leukemia",
+            "acute",
+            "monocytic",
+            "leukemia",
+            "acute",
+            "myeloblastic",
+            "leukemia",
+            "without",
+            "maturation",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "erythroleukemia",
             "pure",
             "erythroid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "cilengitide"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "low",
+            "dose",
+            "cilengitide",
             "ii",
             "higher",
             "dose",
             "cilengitide"
       ],
       "other_name": [
-            "emd",
             "121974"
       ],
       "criteria": [
@@ -299,12 +338,28 @@
             "cytotoxic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089388.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "monocytic",
+            "acute",
+            "syndrome",
+            "erythroblastic",
+            "acute",
+            "megakaryoblastic",
+            "acute",
+            "eosinophilic",
+            "acute",
+            "basophilic",
+            "acute"
+      ],
+      "id": "NCT00089388"
 }

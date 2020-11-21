@@ -337,27 +337,36 @@
             "substudy"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "dipivoxil",
-            "placebo"
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Adefovir dipivoxil placebo"
       ],
       "description": [
-            "oral",
+            "mg",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
             "placebo",
             "tablet",
             "take",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -600,12 +609,21 @@
             "entry",
             "foscarnet"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001082.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00001082"
 }

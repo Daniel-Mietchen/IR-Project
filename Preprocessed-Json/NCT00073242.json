@@ -146,28 +146,42 @@
             "leptin",
             "supplementation"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "repletion"
+            "Leptin",
+            "Dietary modification",
+            "T3 repletion"
       ],
       "description": [
-            "administer"
+            "administration",
+            "lose",
+            "10",
+            "body",
+            "weight",
+            "via",
+            "dietary",
+            "restriction"
       ],
       "arm_group_label": [
+            "repletion",
+            "repletion",
+            "repletion",
             "repletion"
       ],
       "other_name": [
+            "name",
+            "name",
             "name"
       ],
       "criteria": [
             "healthy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -176,6 +190,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073242.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "obesity"
+      ],
+      "id": "NCT00073242"
 }

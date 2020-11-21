@@ -209,18 +209,15 @@
             "cohort"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine",
-            "mulitvitamins"
+            "Nevirapine and mulitvitamins"
       ],
       "description": [
-            "mother",
             "one",
             "dose",
             "intrapartum",
@@ -257,9 +254,7 @@
             "week",
             "6"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "boehringer",
             "ingelheim"
@@ -310,14 +305,19 @@
             "intrapartum",
             "nvp"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061321.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00061321"
 }

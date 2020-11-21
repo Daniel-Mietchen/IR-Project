@@ -316,15 +316,15 @@
             "record"
       ],
       "condition": [
-            "postmenopause"
+            "disease",
+            "disease",
+            "infarction"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -333,6 +333,11 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006539.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction"
+      ],
+      "id": "NCT00006539"
 }

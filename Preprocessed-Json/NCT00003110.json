@@ -131,18 +131,14 @@
             "patient",
             "accrue"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "bleomycin",
-            "sulfate"
+            "bleomycin sulfate"
       ],
       "description": [
-            "patient",
             "receive",
             "bleomycin",
             "continuous",
@@ -345,9 +341,16 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003110.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003110"
 }

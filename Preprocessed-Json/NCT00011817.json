@@ -373,7 +373,6 @@
             "protocol"
       ],
       "condition": [
-            "hereditary",
             "eye",
             "disease"
       ],
@@ -435,12 +434,20 @@
             "3",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011817.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "evaluation"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "hereditary"
+      ],
+      "id": "NCT00011817"
 }

@@ -166,21 +166,28 @@
             "record"
       ],
       "condition": [
-            "cardiomyopathy",
+            "disease",
+            "disease",
+            "disease",
             "hypertrophic"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005251.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "hypertrophic",
+            "hypertrophic",
+            "familial"
+      ],
+      "id": "NCT00005251"
 }

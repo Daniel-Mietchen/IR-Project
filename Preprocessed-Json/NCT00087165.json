@@ -176,13 +176,16 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "GTI-2040",
+            "docetaxel",
             "prednisone"
       ],
       "criteria": [
@@ -383,7 +386,6 @@
             "week",
             "since",
             "prior",
-            "bicalutamide",
             "least",
             "4",
             "week",
@@ -391,12 +393,10 @@
             "prior",
             "flutamide",
             "nilutamide",
-            "cyproterone",
             "concurrent",
             "steroid",
             "allow",
             "note",
-            "patient",
             "must",
             "evidence",
             "disease",
@@ -446,14 +446,20 @@
             "agent",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087165.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087165"
 }

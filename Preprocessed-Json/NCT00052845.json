@@ -148,17 +148,33 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
+            "estramustine phosphate sodium",
             "exisulind"
       ],
       "description": [
-            "two",
+            "iv",
+            "infusion",
+            "1",
+            "hour",
+            "day",
+            "2",
+            "ea",
+            "cycle",
+            "mg",
+            "po",
+            "tid",
+            "day",
+            "ea",
+            "cycle",
             "125",
             "mg",
             "capsule",
@@ -169,7 +185,8 @@
             "cycle"
       ],
       "arm_group_label": [
-            "combine",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "criteria": [
@@ -548,14 +565,22 @@
             "despite",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052845.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "sulfone"
+      ],
+      "id": "NCT00052845"
 }

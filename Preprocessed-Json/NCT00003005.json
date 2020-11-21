@@ -187,17 +187,22 @@
             "patient",
             "accrue"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "deoxycoformycin"
+            "Cordycepin",
+            "Deoxycoformycin"
       ],
       "description": [
+            "escalation",
+            "study",
+            "use",
+            "follow",
             "dose",
+            "12",
             "escalation",
             "use",
             "fibonacci",
@@ -210,11 +215,10 @@
             "intravenous"
       ],
       "arm_group_label": [
-            "deoxycoformycin",
+            "cordycepin",
             "cordycepin"
       ],
       "other_name": [
-            "pentostatin",
             "dcf"
       ],
       "criteria": [
@@ -301,12 +305,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tdt",
+            "positive",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00003005"
 }

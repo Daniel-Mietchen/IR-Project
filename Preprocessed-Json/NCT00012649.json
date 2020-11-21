@@ -247,9 +247,7 @@
             "system",
             "care"
       ],
-      "condition": [
-            "diabetes"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -262,9 +260,12 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012649.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00012649"
 }

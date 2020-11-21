@@ -29,16 +29,27 @@
       "condition": [
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Baclofen",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "escalation",
+            "week",
+            "1",
+            "60",
+            "mg",
+            "week",
+            "dose",
+            "taper",
+            "week",
+            "8"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -73,7 +84,7 @@
             "site",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -82,6 +93,13 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082485.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cocaine",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00082485"
 }

@@ -89,7 +89,6 @@
             "protocol"
       ],
       "condition": [
-            "heart",
             "disease"
       ],
       "criteria": [
@@ -114,9 +113,13 @@
             "active",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001400"
 }

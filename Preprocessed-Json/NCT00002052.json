@@ -38,15 +38,18 @@
             "patient"
       ],
       "condition": [
-            "salmonella",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amoxicillin",
-            "trihydrate"
+            "Ceftriaxone sodium",
+            "Ampicillin sodium",
+            "Amoxicillin trihydrate"
       ],
       "criteria": [
             "exclusion",
@@ -115,12 +118,20 @@
             "per",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002052.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ceftriaxone"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002052"
 }

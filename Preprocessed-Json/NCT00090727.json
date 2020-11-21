@@ -99,12 +99,15 @@
             "reach"
       ],
       "condition": [
+            "malignancy",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AQ4N"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -220,12 +223,16 @@
             "feed",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic"
+      ],
+      "mesh_term": [],
+      "id": "NCT00090727"
 }

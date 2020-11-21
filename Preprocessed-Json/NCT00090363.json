@@ -39,22 +39,30 @@
             "zibotentan"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "10",
-            "mg"
+            "ZD4054 15 mg",
+            "Placebo",
+            "ZD4054 10 mg"
       ],
       "description": [
+            "mg",
+            "oral",
+            "tablet",
+            "daily",
             "oral",
             "tablet",
             "daily"
       ],
       "arm_group_label": [
+            "15",
+            "mg",
             "10",
             "mg"
       ],
@@ -78,14 +86,20 @@
             "prior",
             "chemotherapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090363.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mildly",
+            "symptomatic"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00090363"
 }

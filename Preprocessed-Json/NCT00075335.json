@@ -579,14 +579,15 @@
             "profile"
       ],
       "condition": [
-            "blood",
             "component",
             "removal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AMD3100"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -797,7 +798,7 @@
             "consent",
             "impossible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -806,6 +807,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075335.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "3100"
+      ],
+      "id": "NCT00075335"
 }

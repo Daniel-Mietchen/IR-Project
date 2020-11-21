@@ -289,15 +289,14 @@
             "plan"
       ],
       "condition": [
-            "hip",
+            "trauma",
             "fracture"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "surgical",
-            "system"
+            "Image-guided surgical system"
       ],
       "criteria": [
             "inclusion",
@@ -378,12 +377,20 @@
             "femoral",
             "head"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022802.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "biomedical",
+            "image"
+      ],
+      "mesh_term": [
+            "injury",
+            "fracture"
+      ],
+      "id": "NCT00022802"
 }

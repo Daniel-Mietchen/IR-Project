@@ -69,14 +69,16 @@
             "system"
       ],
       "condition": [
-            "hiv",
+            "dementia",
+            "complex",
+            "disease",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -407,7 +409,7 @@
             "blood",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -416,6 +418,19 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002044.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "disease",
+            "dementia",
+            "complex"
+      ],
+      "id": "NCT00002044"
 }

@@ -95,15 +95,37 @@
             "treatment"
       ],
       "condition": [
-            "prostate",
+            "cancer",
+            "cancer",
+            "cancer",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GM-CT-01",
+            "5-fluorouracil"
+      ],
       "description": [
-            "iv",
+            "infusion",
+            "30",
+            "minute",
+            "6",
+            "dosage",
+            "escalate",
+            "30",
+            "280",
+            "give",
+            "4",
+            "consecutive",
+            "day",
+            "28",
+            "day",
+            "cycle",
             "infusion",
             "30",
             "minute",
@@ -334,12 +356,20 @@
             "entry",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00054977"
 }

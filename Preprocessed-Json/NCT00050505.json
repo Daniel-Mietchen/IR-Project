@@ -329,20 +329,23 @@
             "cytokine",
             "production"
       ],
-      "condition": [
-            "smallpox"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "live",
-            "vaccinia",
-            "virus",
-            "vaccine"
+            "Live vaccinia virus vaccine",
+            "Live vaccinia virus vaccine"
       ],
       "description": [
+            "undiluted",
+            "cohort",
+            "receive",
+            "undiluted",
+            "dose",
             "dryvax",
+            "vaccine",
             "diluent",
             "50",
             "glycerin",
@@ -357,7 +360,7 @@
             "vaccine"
       ],
       "arm_group_label": [
-            "cohort",
+            "b",
             "c"
       ],
       "criteria": [
@@ -729,7 +732,7 @@
             "cidofovir",
             "probenecid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "32",
             "year"
@@ -738,6 +741,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050505.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "smallpox",
+            "dryvax",
+            "vaccine",
+            "dilution"
+      ],
+      "mesh_term": [],
+      "id": "NCT00050505"
 }

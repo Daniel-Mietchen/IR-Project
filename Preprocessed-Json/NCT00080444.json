@@ -87,18 +87,34 @@
             "optional",
             "cycle"
       ],
-      "condition": [
-            "vomit"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rescue",
-            "medication"
+            "aprepitant",
+            "ondansetron",
+            "dexamethasone",
+            "placebo to aprepitant",
+            "placebo to dexamethasone",
+            "rescue medication"
       ],
       "description": [
-            "participant",
+            "capsule",
+            "iv",
+            "preparation",
+            "tablet",
+            "placebo",
+            "aprepitant",
+            "capsule",
+            "placebo",
+            "dexamethasone",
+            "tablet",
             "allow",
             "take",
             "rescue",
@@ -128,7 +144,36 @@
             "derivative"
       ],
       "arm_group_label": [
-            "part",
+            "1",
+            "aprepitant",
+            "2",
+            "aprepitant",
+            "1",
+            "aprepitant",
+            "1",
+            "standard",
+            "therapy",
+            "2",
+            "aprepitant",
+            "1",
+            "aprepitant",
+            "1",
+            "standard",
+            "therapy",
+            "2",
+            "aprepitant",
+            "1",
+            "standard",
+            "therapy",
+            "1",
+            "aprepitant",
+            "2",
+            "aprepitant",
+            "1",
+            "aprepitant",
+            "1",
+            "standard",
+            "therapy",
             "2",
             "aprepitant"
       ],
@@ -188,7 +233,7 @@
             "course",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -197,6 +242,10 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080444.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00080444"
 }

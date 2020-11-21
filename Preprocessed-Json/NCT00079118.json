@@ -131,18 +131,18 @@
             "thereafter"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "docetaxel",
+            "irinotecan hydrochloride"
       ],
       "arm_group_label": [
-            "docetaxel",
+            "irinotecan",
             "irinotecan"
       ],
       "criteria": [
@@ -445,7 +445,7 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -454,6 +454,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079118.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00079118"
 }

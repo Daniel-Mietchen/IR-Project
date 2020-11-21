@@ -293,28 +293,85 @@
             "registration"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oxaliplatin"
+            "bevacizumab",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium",
+            "Oxaliplatin"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "high",
+            "t",
+            "b",
+            "high",
+            "t",
+            "c",
+            "low",
+            "intermediate",
+            "t",
+            "b",
+            "high",
+            "t",
+            "c",
+            "low",
+            "intermediate",
+            "t",
+            "high",
+            "t",
+            "b",
+            "high",
+            "t",
+            "c",
+            "low",
+            "intermediate",
+            "t",
+            "high",
+            "t",
+            "b",
+            "high",
+            "t",
             "c",
             "low",
             "intermediate",
             "t"
       ],
       "other_name": [
-            "eloxatin",
+            "704865",
+            "rhumab",
+            "vegf",
+            "recombinant",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "adrucil",
+            "efudex",
+            "camptosar",
+            "leucovorin",
+            "wellcovorin",
+            "citrovorum",
+            "factor",
+            "folinic",
+            "acid",
+            "tetrahydrofolate",
+            "lv",
+            "lcv",
             "oxalatoplatinum",
             "oxalato",
             "platinum",
@@ -590,12 +647,19 @@
             "study",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098787.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00098787"
 }

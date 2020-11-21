@@ -327,17 +327,15 @@
             "score"
       ],
       "condition": [
-            "multifetal"
+            "birth"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "17",
-            "caproate"
+            "17 alpha-hydroxyprogesterone caproate (17P)"
       ],
       "description": [
-            "study",
             "cod",
             "medication",
             "250",
@@ -593,11 +591,16 @@
             "previous",
             "pregnancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099164.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "progesterone"
+      ],
+      "mesh_term": [
+            "birth",
+            "caproate"
+      ],
+      "id": "NCT00099164"
 }

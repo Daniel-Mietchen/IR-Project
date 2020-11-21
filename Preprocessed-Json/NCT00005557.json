@@ -153,7 +153,10 @@
             "outcome"
       ],
       "condition": [
-            "mood",
+            "disorder",
+            "disorder",
+            "disease",
+            "disorder",
             "disorder"
       ],
       "study_pop": [],
@@ -187,7 +190,7 @@
             "respiratory",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -196,6 +199,16 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005557.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "wake",
+            "disorder",
+            "disorder",
+            "aspiration",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00005557"
 }

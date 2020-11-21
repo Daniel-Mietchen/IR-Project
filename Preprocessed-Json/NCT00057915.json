@@ -172,7 +172,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -180,11 +179,10 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "cea",
-            "peptide"
+            "CEA peptide 1-6D"
       ],
       "description": [
             "mature",
@@ -197,11 +195,9 @@
             "system"
       ],
       "arm_group_label": [
-            "cea",
             "peptide"
       ],
       "other_name": [
-            "carcinoembryonic",
             "antigen",
             "peptide"
       ],
@@ -249,7 +245,6 @@
             "cancer",
             "positive",
             "measurable",
-            "disease",
             "least",
             "1",
             "unidimensionally",
@@ -267,7 +262,6 @@
             "ct",
             "scan",
             "note",
-            "histologic",
             "cytologic",
             "confirmation",
             "require",
@@ -541,12 +535,20 @@
             "experimental",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "id": "NCT00057915"
 }

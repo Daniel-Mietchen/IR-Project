@@ -153,25 +153,53 @@
             "month"
       ],
       "condition": [
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
             "ureter",
+            "bladder",
+            "cancer",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
+            "urethral",
+            "cancer",
+            "iii",
+            "bladder",
+            "cancer",
+            "iii",
+            "urethral",
+            "cancer",
+            "iv",
+            "bladder",
+            "cancer",
+            "iv",
+            "urethral",
+            "cancer",
+            "cell",
+            "carcinoma",
+            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "bortezomib"
       ],
       "other_name": [
-            "velcade"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -446,12 +474,21 @@
             "hemoglobin",
             "8"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072150.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00072150"
 }

@@ -460,14 +460,15 @@
             "disease"
       ],
       "condition": [
-            "aplastic",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Mycophenolate mofetil",
+            "Cyclosporine"
       ],
       "criteria": [
             "subject",
@@ -523,9 +524,19 @@
             "verbal",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005935.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "aplastic",
+            "anemia"
+      ],
+      "mesh_term": [
+            "aplastic",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00005935"
 }

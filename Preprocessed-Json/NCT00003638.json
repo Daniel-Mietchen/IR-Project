@@ -259,13 +259,18 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "Detox-B adjuvant",
+            "THERATOPE STn-KLH vaccine",
+            "keyhole limpet hemocyanin",
             "cyclophosphamide"
       ],
       "criteria": [
@@ -564,14 +569,22 @@
             "prior",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003638.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "adjuvant",
+            "hemocyanin"
+      ],
+      "id": "NCT00003638"
 }

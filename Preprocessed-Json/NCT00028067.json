@@ -66,15 +66,15 @@
             "monitor"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Atazanavir",
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -240,12 +240,23 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028067.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bm",
+            "232632"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00028067"
 }

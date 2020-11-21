@@ -42,15 +42,17 @@
             "pregnancy"
       ],
       "condition": [
-            "gestational",
             "diabetes"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "aspart"
+            "human insulin",
+            "insulin NPH",
+            "insulin aspart"
       ],
       "criteria": [
             "inclusion",
@@ -65,14 +67,29 @@
             "diabetes",
             "mellitus"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065130.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "gestational",
+            "globin",
+            "zinc",
+            "degludec",
+            "insulin",
+            "aspart",
+            "drug",
+            "combination",
+            "insulin",
+            "beef",
+            "aspart",
+            "insulin",
+            "human",
+            "isophane"
+      ],
+      "id": "NCT00065130"
 }

@@ -437,7 +437,9 @@
             "center"
       ],
       "condition": [
-            "long",
+            "disease",
+            "disease",
+            "arrhythmia",
             "qt",
             "syndrome"
       ],
@@ -459,12 +461,18 @@
             "regardless",
             "dx"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005176.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "qt",
+            "syndrome"
+      ],
+      "id": "NCT00005176"
 }

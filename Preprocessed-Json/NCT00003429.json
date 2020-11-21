@@ -202,16 +202,19 @@
             "study"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "fludeoxyglucose",
-            "f",
-            "18"
+            "biopsy",
+            "computed tomography",
+            "positron emission tomography",
+            "fludeoxyglucose F 18"
       ],
       "criteria": [
             "disease",
@@ -291,9 +294,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -302,6 +303,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003429.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00003429"
 }

@@ -24,20 +24,44 @@
             "mellitus"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "pioglitazone"
+            "Comparator: sitagliptin 100 mg",
+            "Comparator: sitagliptin 200 mg",
+            "Comparator: placebo",
+            "Comparator: pioglitazone"
       ],
       "description": [
-            "pioglitazone",
+            "100",
+            "mg",
+            "oral",
+            "tablet",
+            "daily",
+            "54",
+            "week",
+            "200",
+            "mg",
+            "100",
+            "mg",
+            "oral",
+            "tablet",
+            "daily",
+            "54",
+            "week",
+            "oral",
+            "tablet",
+            "daily",
+            "phase",
+            "week",
             "30",
             "mg",
             "oral",
@@ -47,7 +71,12 @@
             "b",
             "week"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "100",
+            "mg",
+            "200",
+            "mg"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -83,7 +112,7 @@
             "interest",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -92,6 +121,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094757.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "phosphate"
+      ],
+      "id": "NCT00094757"
 }

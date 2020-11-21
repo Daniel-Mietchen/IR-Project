@@ -88,18 +88,21 @@
             "ass"
       ],
       "condition": [
-            "temporomandibular",
             "joint",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "nortriptyline"
+            "nortriptyline",
+            "cognitive-behavioral treatment",
+            "Nortriptyline"
       ],
       "description": [
-            "study",
+            "nortriptyline",
             "treatment"
       ],
       "criteria": [
@@ -245,7 +248,7 @@
             "3",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -254,6 +257,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066937.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "joint",
+            "disorder",
+            "joint",
+            "dysfunction",
+            "syndrome"
+      ],
+      "id": "NCT00066937"
 }

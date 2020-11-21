@@ -168,13 +168,14 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "oxaliplatin"
       ],
       "criteria": [
@@ -331,9 +332,7 @@
             "anticancer",
             "treatment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -342,6 +341,18 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075543.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm"
+      ],
+      "id": "NCT00075543"
 }

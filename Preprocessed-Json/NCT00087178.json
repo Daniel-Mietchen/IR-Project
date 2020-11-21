@@ -324,17 +324,54 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
+            "adriamycin",
+            "epirubicin",
             "fluorouracil"
       ],
       "description": [
-            "fluorouracil",
+            "1",
+            "cyclophosphamide",
+            "600",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "4",
+            "cycle",
+            "arm",
+            "2",
+            "cyclophosphamide",
+            "500",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "6",
+            "cycle",
+            "60",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "4",
+            "cycle",
+            "100",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "6",
+            "cycle",
             "500",
             "iv",
             "every",
@@ -344,13 +381,29 @@
             "cycle"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "adriamycin",
+            "cyclophosphamide",
+            "2",
+            "fluorouracil",
+            "epirubicin",
+            "cyclophosphamide",
+            "1",
+            "adriamycin",
+            "cyclophosphamide",
+            "2",
+            "fluorouracil",
+            "epirubicin",
+            "cyclophosphamide",
             "2",
             "fluorouracil",
             "epirubicin",
             "cyclophosphamide"
       ],
-      "other_name": [],
+      "other_name": [
+            "hydrochloride",
+            "hydrochloride"
+      ],
       "criteria": [
             "eligibility",
             "patient",
@@ -1041,7 +1094,6 @@
             "hormonal",
             "replacement",
             "therapy",
-            "etc",
             "patient",
             "eligible",
             "therapy",
@@ -1262,14 +1314,22 @@
             "additional",
             "resection"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087178.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00087178"
 }

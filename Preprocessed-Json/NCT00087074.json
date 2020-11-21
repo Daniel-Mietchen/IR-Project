@@ -159,30 +159,53 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "stromal",
+            "tumor",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "ii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iv",
             "adult",
             "soft",
             "tissue",
             "sarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "optional",
+            "iv",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -231,7 +254,6 @@
             "uln",
             "5",
             "x",
-            "uln",
             "liver",
             "metastasis",
             "present",
@@ -241,7 +263,6 @@
             "uln",
             "5",
             "x",
-            "uln",
             "liver",
             "metastasis",
             "present",
@@ -425,12 +446,16 @@
             "1",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087074.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor"
+      ],
+      "id": "NCT00087074"
 }

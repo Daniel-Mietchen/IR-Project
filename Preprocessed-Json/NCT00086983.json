@@ -132,29 +132,40 @@
             "survival"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "becatecarin",
+            "oxaliplatin",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "becatacarin",
+            "oxaliplatin",
+            "becatacarin",
+            "oxaliplatin",
             "becatacarin",
             "oxaliplatin"
       ],
       "other_name": [
-            "pharmacological",
+            "analogue",
+            "analogue",
+            "tartrate",
+            "salt",
             "study"
       ],
       "criteria": [
@@ -341,12 +352,13 @@
             "heart",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086983.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00086983"
 }

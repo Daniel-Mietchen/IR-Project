@@ -521,7 +521,9 @@
             "2013"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "disease",
             "mellitus"
       ],
       "study_pop": [],
@@ -532,9 +534,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005130.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005130"
 }

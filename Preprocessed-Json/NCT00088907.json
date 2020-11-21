@@ -345,29 +345,42 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "head",
+            "neck",
+            "cancer",
             "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
+            "placebo",
             "gefitinib"
       ],
       "description": [
-            "give",
+            "iv",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "docetaxel",
+            "placebo",
+            "ii",
+            "docetaxel",
+            "gefitinib",
+            "docetaxel",
+            "placebo",
             "ii",
             "docetaxel",
             "gefitinib"
       ],
       "other_name": [
-            "zd",
+            "56976",
             "1839"
       ],
       "criteria": [
@@ -900,12 +913,21 @@
             "fetus",
             "unknown"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088907.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "head",
+            "neck",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00088907"
 }

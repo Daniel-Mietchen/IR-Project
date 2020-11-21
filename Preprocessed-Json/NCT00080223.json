@@ -64,13 +64,14 @@
       ],
       "condition": [
             "pulmonary",
+            "fibrosis",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pirfenidone"
+            "Pirfenidone"
       ],
       "description": [
             "3600",
@@ -87,9 +88,7 @@
             "duration",
             "study"
       ],
-      "arm_group_label": [
-            "pirfenidone"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "general",
             "inclusion",
@@ -266,7 +265,7 @@
             "alternative",
             "diagnosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -275,6 +274,17 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080223.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "disease"
+      ],
+      "mesh_term": [
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "interstitial",
+            "pneumonia"
+      ],
+      "id": "NCT00080223"
 }

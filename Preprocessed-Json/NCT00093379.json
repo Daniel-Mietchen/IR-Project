@@ -152,12 +152,10 @@
             "patient",
             "receive",
             "oral",
-            "capecitabine",
             "twice",
             "daily",
             "day",
             "undergo",
-            "radiotherapy",
             "daily",
             "day",
             "patient",
@@ -181,7 +179,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "lesion",
             "also",
             "receive",
@@ -210,23 +207,39 @@
             "study"
       ],
       "condition": [
-            "anal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy",
-            "xrt"
+            "Capecitabine",
+            "Oxaliplatin",
+            "Radiation Therapy (XRT)"
       ],
       "description": [
-            "undergo",
-            "radiotherapy",
+            "orally",
+            "twice",
+            "day",
+            "bid",
+            "week",
+            "1",
+            "2",
+            "4",
+            "5",
+            "vein",
+            "iv",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "8",
+            "22",
+            "29",
             "daily",
             "day",
-            "patient",
             "lesion",
             "undergo",
             "radiotherapy",
@@ -236,13 +249,14 @@
             "44"
       ],
       "arm_group_label": [
-            "capecitabine",
+            "oxaliplatin",
+            "xrt",
+            "oxaliplatin",
+            "xrt",
             "oxaliplatin",
             "xrt"
       ],
-      "other_name": [
-            "radiotherapy"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -610,12 +624,18 @@
             "pulmonary",
             "fibrosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093379.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "xrt"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00093379"
 }

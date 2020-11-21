@@ -408,14 +408,13 @@
             "use"
       ],
       "condition": [
-            "autistic",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone"
+            "Risperidone"
       ],
       "criteria": [
             "inclusion",
@@ -538,7 +537,7 @@
             "15",
             "kg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -547,6 +546,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005014.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "risperidone"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00005014"
 }

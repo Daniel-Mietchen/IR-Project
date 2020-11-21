@@ -300,29 +300,41 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "recombinant fowlpox-CEA(6D)/TRICOM vaccine",
+            "recombinant vaccinia-CEA(6D)-TRICOM vaccine",
+            "sargramostim",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "intradermally",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "stage",
+            "ii",
+            "iii",
+            "ii",
+            "iii",
+            "iii",
+            "ii",
             "iii"
       ],
       "other_name": [
-            "prokine"
+            "tricom"
       ],
       "criteria": [
             "inclusion",
@@ -919,12 +931,13 @@
             "determination",
             "mtd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009958.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00009958"
 }

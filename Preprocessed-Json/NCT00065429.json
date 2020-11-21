@@ -43,15 +43,16 @@
             "trial"
       ],
       "condition": [
-            "small",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "BB-10901"
+      ],
       "description": [
             "infusion",
             "see",
@@ -63,6 +64,18 @@
             "disease"
       ],
       "arm_group_label": [
+            "phase",
+            "10",
+            "phase",
+            "20",
+            "phase",
+            "40",
+            "phase",
+            "60",
+            "phase",
+            "phase",
+            "ii",
+            "phase",
             "75",
             "phase"
       ],
@@ -363,12 +376,18 @@
             "lactate",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065429.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00065429"
 }

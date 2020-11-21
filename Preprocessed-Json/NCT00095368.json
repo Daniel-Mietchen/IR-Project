@@ -44,19 +44,12 @@
             "streptococcus",
             "pyogenes"
       ],
-      "condition": [
-            "tonsillitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amoxicillin",
-            "pulsatile",
-            "release",
-            "multiparticulate",
-            "tablet",
-            "drug"
+            "Amoxicillin Pulsatile Release Multiparticulate Tablet (drug)"
       ],
       "criteria": [
             "inclusion",
@@ -174,12 +167,16 @@
             "probenecid",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095368.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tonsillitis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00095368"
 }

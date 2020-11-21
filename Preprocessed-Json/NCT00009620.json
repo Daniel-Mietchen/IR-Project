@@ -206,23 +206,44 @@
             "status"
       ],
       "condition": [
-            "intracranial",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
+            "premature",
             "hemorrhage"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saline"
+            "Phenobarbital",
+            "Saline"
       ],
       "description": [
-            "infusion",
+            "mg",
+            "phenobarbital",
+            "per",
+            "kilogram",
+            "body",
+            "weight",
+            "intravenously",
+            "period",
+            "20",
+            "40",
+            "minute",
+            "maximal",
+            "dose",
+            "1000",
+            "mg",
             "normal",
             "sal"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -283,11 +304,17 @@
             "cubic",
             "millimeter"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009620.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "brain",
+            "hemorrhage"
+      ],
+      "mesh_term": [
+            "weight",
+            "hemorrhage"
+      ],
+      "id": "NCT00009620"
 }

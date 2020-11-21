@@ -62,15 +62,13 @@
             "test"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "atorvastatin",
-            "calcium"
+            "Atorvastatin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -301,12 +299,20 @@
             "initial",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024531.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug"
+      ],
+      "mesh_term": [
+            "disease",
+            "dietary",
+            "calcium"
+      ],
+      "id": "NCT00024531"
 }

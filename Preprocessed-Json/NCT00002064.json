@@ -27,14 +27,16 @@
             "gondii"
       ],
       "condition": [
-            "hiv",
+            "cerebral",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clindamycin"
+            "Pyrimethamine",
+            "Clindamycin"
       ],
       "criteria": [
             "exclusion",
@@ -77,12 +79,21 @@
             "cerebral",
             "toxoplasmosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002064.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clindamycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "cerebral",
+            "palmitate",
+            "phosphate"
+      ],
+      "id": "NCT00002064"
 }

@@ -183,19 +183,16 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "allogeneic",
-            "lymphocyte"
+            "therapeutic allogeneic lymphocytes"
       ],
       "criteria": [
             "disease",
@@ -433,12 +430,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003153.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00003153"
 }

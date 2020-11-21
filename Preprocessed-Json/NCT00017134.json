@@ -157,15 +157,15 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "fenretinide",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -226,14 +226,12 @@
             "1",
             "2",
             "relative",
-            "breast",
             "ovarian",
             "cancer",
             "ashkenazi",
             "jewish",
             "ethnicity",
             "diagnose",
-            "breast",
             "cancer",
             "patient",
             "greater",
@@ -456,14 +454,20 @@
             "81",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017134.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00017134"
 }

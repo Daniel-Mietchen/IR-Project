@@ -263,30 +263,88 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "iiia",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
+            "iiic",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "doxorubicin hydrochloride",
+            "docetaxel",
+            "filgrastim",
+            "pegfilgrastim",
+            "therapeutic conventional surgery",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "optional",
+            "iv",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
+            "surgical",
+            "resection",
+            "correlative",
+            "study",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
+            "oblimersen",
+            "doxorubicin",
+            "docetaxel",
             "oblimersen",
             "doxorubicin",
             "docetaxel"
       ],
       "other_name": [
-            "pharmacological",
+            "antisense",
+            "oligodeoxynucleotide",
+            "pfs",
+            "rdf",
+            "56976",
+            "sustain",
+            "duration",
             "study"
       ],
       "criteria": [
@@ -886,12 +944,18 @@
             "doxorubicin",
             "docetaxel"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063934.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "doxorubicin"
+      ],
+      "id": "NCT00063934"
 }

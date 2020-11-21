@@ -25,14 +25,15 @@
             "glaucoma"
       ],
       "condition": [
-            "ocular",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "latanoprost"
+            "Travoprost (0.004%)",
+            "Latanoprost (0.005%)"
       ],
       "criteria": [
             "adult",
@@ -43,12 +44,18 @@
             "chronic",
             "glaucoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051181.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oht"
+      ],
+      "mesh_term": [
+            "hypertension"
+      ],
+      "id": "NCT00051181"
 }

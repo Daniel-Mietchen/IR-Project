@@ -188,14 +188,13 @@
             "40"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "immunogen"
+            "HIV-1 Immunogen"
       ],
       "criteria": [
             "inclusion",
@@ -270,12 +269,18 @@
             "require",
             "18"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005001.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "remune"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00005001"
 }

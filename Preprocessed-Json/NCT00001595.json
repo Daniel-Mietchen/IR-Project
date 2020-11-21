@@ -359,7 +359,9 @@
             "neoplasm"
       ],
       "condition": [
-            "pituitary",
+            "cushing",
+            "syndrome",
+            "disease",
             "neoplasm"
       ],
       "criteria": [
@@ -413,7 +415,7 @@
             "patient",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -422,6 +424,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001595.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pituitary",
+            "gland"
+      ],
+      "mesh_term": [
+            "disease",
+            "syndrome",
+            "neoplasm",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00001595"
 }

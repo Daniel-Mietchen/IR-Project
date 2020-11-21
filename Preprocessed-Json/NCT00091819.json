@@ -32,18 +32,22 @@
             "infection"
       ],
       "condition": [
-            "staphylococcal",
             "skin",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vancomycin"
+            "Telavancin",
+            "Vancomycin"
       ],
       "description": [
-            "vancomycin",
+            "10",
+            "iv",
+            "14",
+            "day",
             "1",
             "gm",
             "iv",
@@ -53,9 +57,7 @@
             "14",
             "day"
       ],
-      "arm_group_label": [
-            "vancomycin"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -146,12 +148,23 @@
             "gangrene",
             "mediastinitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091819.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "csssi"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "disease",
+            "infectious",
+            "skin",
+            "infection"
+      ],
+      "id": "NCT00091819"
 }

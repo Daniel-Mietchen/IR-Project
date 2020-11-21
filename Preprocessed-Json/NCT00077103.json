@@ -333,19 +333,80 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "pegfilgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "fosbretabulin disodium",
+            "radiation therapy"
       ],
       "description": [
+            "subcutaneously",
+            "sc",
+            "day",
+            "pegfilgrastim",
+            "sc",
+            "day",
+            "2",
+            "subcutaneously",
+            "sc",
+            "day",
+            "pegfilgrastim",
+            "sc",
+            "day",
+            "2",
+            "iv",
+            "minute",
+            "day",
+            "1",
+            "iv",
+            "minute",
+            "modality",
+            "phase",
+            "patient",
+            "also",
+            "receive",
+            "iv",
+            "10",
+            "minute",
+            "weekly",
+            "fifth",
+            "day",
+            "radiotherapy",
             "begin",
+            "week",
+            "completion",
+            "combine",
+            "modality",
+            "phase",
+            "patient",
+            "receive",
+            "iv",
+            "10",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "15",
+            "treatment",
+            "repeat",
+            "every",
+            "28",
+            "day",
+            "2",
+            "course",
             "day",
             "22",
             "patient",
@@ -358,7 +419,9 @@
             "week",
             "week"
       ],
-      "other_name": [],
+      "other_name": [
+            "phosphate"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -382,7 +445,6 @@
             "level",
             "carina",
             "measurable",
-            "evaluable",
             "disease",
             "completely",
             "resect",
@@ -717,12 +779,25 @@
             "treatment",
             "course"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077103.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "thyroid",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "carcinoma",
+            "anaplastic",
+            "doxorubicin"
+      ],
+      "id": "NCT00077103"
 }

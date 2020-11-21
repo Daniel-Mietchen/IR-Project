@@ -248,14 +248,25 @@
             "year"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "cisplatin",
+            "mitomycin C",
+            "vincristine sulfate",
+            "vinorelbine tartrate",
+            "pain therapy",
+            "psychosocial assessment and care",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -380,12 +391,20 @@
             "see",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075699.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00075699"
 }

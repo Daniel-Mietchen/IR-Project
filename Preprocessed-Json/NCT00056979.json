@@ -221,20 +221,23 @@
             "stop"
       ],
       "condition": [
-            "inherit",
             "metabolic",
             "storage",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine"
+            "CAMPATH-1H",
+            "Anti-CD45",
+            "FK506",
+            "Fludarabine"
       ],
-      "arm_group_label": [
-            "fludarabine"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -423,9 +426,18 @@
             "storage",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056979.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metabolic",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "phosphate",
+            "monoclonal"
+      ],
+      "id": "NCT00056979"
 }

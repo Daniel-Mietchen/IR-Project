@@ -534,13 +534,13 @@
             "memory"
       ],
       "condition": [
-            "healthy"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "raclopride"
+            "Raclopride"
       ],
       "criteria": [
             "inclusion",
@@ -820,9 +820,16 @@
             "anticipate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032812.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00032812"
 }

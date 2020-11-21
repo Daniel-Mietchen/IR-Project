@@ -398,7 +398,6 @@
             "maturation"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -576,12 +575,19 @@
             "biopsy",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001316.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "excisional",
+            "biopsy"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001316"
 }

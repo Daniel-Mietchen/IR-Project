@@ -207,7 +207,9 @@
             "analyze"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "disease",
             "infarction"
       ],
       "study_pop": [],
@@ -317,7 +319,7 @@
             "heart",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -326,6 +328,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064519.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00064519"
 }

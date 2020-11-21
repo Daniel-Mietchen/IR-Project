@@ -129,18 +129,53 @@
             "arm"
       ],
       "condition": [
+            "cancer",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Panitumumab",
+            "Motesanib diphosphate",
+            "Paclitaxel",
+            "Carboplatin"
       ],
       "description": [
-            "carboplatin",
+            "day",
+            "1",
+            "cycle",
+            "administer",
+            "intravenous",
+            "infusion",
+            "approximately",
+            "60",
+            "minute",
+            "initial",
+            "dose",
+            "50",
+            "mg",
+            "daily",
+            "125",
+            "mg",
+            "daily",
+            "75",
+            "mg",
+            "twice",
+            "daily",
+            "also",
+            "test",
+            "200",
+            "administer",
+            "iv",
+            "infusion",
+            "3",
+            "hour",
             "administer",
             "iv",
             "approximately",
@@ -159,13 +194,28 @@
             "6"
       ],
       "arm_group_label": [
-            "panitumumab",
+            "motesanib",
+            "paclitaxel",
+            "carboplatin",
+            "motesanib",
+            "carboplatin",
+            "motesanib",
+            "motesanib",
+            "paclitaxel",
+            "carboplatin",
+            "motesanib",
+            "carboplatin",
+            "motesanib",
+            "paclitaxel",
+            "carboplatin",
+            "motesanib",
+            "carboplatin",
+            "motesanib",
             "paclitaxel",
             "carboplatin",
             "motesanib"
       ],
       "other_name": [
-            "amg",
             "706"
       ],
       "criteria": [
@@ -306,12 +356,25 @@
             "antigen",
             "positive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094835.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "stage",
+            "iv",
+            "unresectable"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel",
+            "monoclonal"
+      ],
+      "id": "NCT00094835"
 }

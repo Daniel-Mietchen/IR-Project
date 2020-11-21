@@ -223,16 +223,17 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "incomplete",
-            "freund",
-            "adjuvant"
+            "aldesleukin",
+            "gp209-2M antigen",
+            "incomplete Freund's adjuvant"
       ],
       "criteria": [
             "disease",
@@ -377,12 +378,20 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00019487"
 }

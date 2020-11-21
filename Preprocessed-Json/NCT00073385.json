@@ -207,14 +207,15 @@
             "withdrawal"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "Pivanex",
+            "Docetaxel"
       ],
       "criteria": [
             "inclusion",
@@ -453,12 +454,25 @@
             "dose",
             "corticosteroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073385.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "cancer",
+            "docetaxel",
+            "histone",
+            "deacetylase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "lung",
+            "deacetylase",
+            "inhibitor"
+      ],
+      "id": "NCT00073385"
 }

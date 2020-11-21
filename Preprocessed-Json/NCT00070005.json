@@ -190,15 +190,16 @@
             "study"
       ],
       "condition": [
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "conventional surgery",
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -278,12 +279,20 @@
             "abdominoperineal",
             "resection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "complication"
+      ],
+      "id": "NCT00070005"
 }

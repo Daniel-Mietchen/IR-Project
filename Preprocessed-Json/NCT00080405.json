@@ -44,14 +44,13 @@
             "enzyme"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib"
+            "Bortezomib"
       ],
       "criteria": [
             "male",
@@ -209,12 +208,20 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080405.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacodynamic"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00080405"
 }

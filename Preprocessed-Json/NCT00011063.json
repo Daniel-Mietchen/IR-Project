@@ -347,15 +347,12 @@
             "ginkgo",
             "equivalent"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ginkgo",
-            "biloba"
+            "Ginkgo Biloba"
       ],
       "criteria": [
             "male",
@@ -515,9 +512,14 @@
             "safety",
             "adherence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011063.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00011063"
 }

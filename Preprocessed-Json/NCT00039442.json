@@ -171,26 +171,26 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
             "cervical",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Capecitabine",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
-      "other_name": [
-            "xeloda"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -444,11 +444,12 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039442.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "adenosquamous"
+      ],
+      "id": "NCT00039442"
 }

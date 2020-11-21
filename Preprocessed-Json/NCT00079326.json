@@ -179,28 +179,40 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "trastuzumab",
+            "ixabepilone",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
+            "ixabepilone",
+            "trastuzumab",
+            "ixabepilone",
             "trastuzumab",
             "ixabepilone"
       ],
       "other_name": [
-            "ixempra"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -1105,14 +1117,16 @@
             "administer",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079326.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00079326"
 }

@@ -77,18 +77,17 @@
             "shrinkage"
       ],
       "condition": [
-            "carcinoma",
+            "neoplasm",
             "cell",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "axitinib"
       ],
       "description": [
-            "axitinib",
             "tablet",
             "administer",
             "orally",
@@ -103,9 +102,7 @@
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "axitinib"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -194,12 +191,17 @@
             "entry",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094094.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "neoplasm",
+            "inhibitor"
+      ],
+      "id": "NCT00094094"
 }

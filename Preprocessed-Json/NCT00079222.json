@@ -102,7 +102,6 @@
             "twice",
             "daily",
             "day",
-            "orally",
             "twice",
             "daily",
             "day",
@@ -119,12 +118,10 @@
             "day",
             "daily",
             "day",
-            "orally",
             "twice",
             "daily",
             "day",
             "note",
-            "patient",
             "unable",
             "tolerate",
             "oral",
@@ -173,13 +170,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "itraconazole",
             "voriconazole"
       ],
       "criteria": [
@@ -304,12 +301,18 @@
             "infection",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079222.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [],
+      "id": "NCT00079222"
 }

@@ -206,19 +206,23 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Behavioral",
+            "Dietary Supplement",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "dietary",
-            "intervention"
+            "behavioral dietary intervention",
+            "dietary intervention",
+            "therapeutic dietary intervention"
       ],
       "arm_group_label": [
-            "arm",
+            "dietary",
+            "intervention",
+            "dietary",
+            "intervention",
             "dietary",
             "intervention"
       ],
@@ -322,11 +326,16 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082732.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00082732"
 }

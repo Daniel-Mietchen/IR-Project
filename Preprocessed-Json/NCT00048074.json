@@ -45,25 +45,32 @@
             "individual"
       ],
       "condition": [
-            "post",
             "menopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ibandronate"
+            "ibandronate [Bonviva/Boniva]",
+            "ibandronate [Bonviva/Boniva]",
+            "ibandronate [Bonviva/Boniva]"
       ],
       "description": [
+            "iv",
+            "every",
+            "2",
+            "month",
+            "po",
+            "daily",
             "iv",
             "every",
             "3",
             "month"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -122,9 +129,7 @@
             "2",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "55",
             "year"
@@ -133,6 +138,10 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048074.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal",
+            "acid"
+      ],
+      "id": "NCT00048074"
 }

@@ -143,15 +143,13 @@
             "concentration"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -306,7 +304,7 @@
             "enter",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -315,6 +313,12 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011479.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00011479"
 }

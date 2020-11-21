@@ -347,17 +347,25 @@
             "disease"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Antithymocyte globulin",
+            "Cyclosporine"
       ],
       "description": [
-            "cyclosporine",
+            "globulin",
+            "atg",
+            "intravenous",
+            "infusion",
+            "infusion",
+            "6",
+            "hour",
+            "day",
             "csa",
             "intravenous",
             "infusion",
@@ -369,7 +377,8 @@
             "day"
       ],
       "arm_group_label": [
-            "antithymocyte",
+            "globulin",
+            "cyclosporine",
             "globulin",
             "cyclosporine"
       ],
@@ -533,12 +542,20 @@
             "probability",
             "response"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005937.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "serum"
+      ],
+      "id": "NCT00005937"
 }

@@ -279,15 +279,20 @@
             "anatomy"
       ],
       "condition": [
+            "carcinoma",
+            "granulomatous",
+            "disease",
+            "job",
+            "syndrome",
+            "infection",
             "wegener",
             "granulomatosis"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "virtual",
-            "bronchoscopy"
+            "virtual bronchoscopy"
       ],
       "criteria": [
             "patient",
@@ -367,9 +372,21 @@
             "period",
             "time"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001515.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchogenic",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "chronic",
+            "polyangiitis",
+            "syndrome",
+            "bronchogenic"
+      ],
+      "id": "NCT00001515"
 }

@@ -271,7 +271,10 @@
             "error"
       ],
       "condition": [
-            "pregnancy"
+            "vaginosis",
+            "membrane",
+            "premature",
+            "rupture"
       ],
       "criteria": [
             "inclusion",
@@ -314,11 +317,19 @@
             "attend",
             "physician"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070746.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "woman",
+            "health"
+      ],
+      "mesh_term": [
+            "bacterial",
+            "membrane",
+            "premature",
+            "rupture"
+      ],
+      "id": "NCT00070746"
 }

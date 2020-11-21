@@ -576,22 +576,69 @@
             "effective"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "dactinomycin",
+            "filgrastim",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "vincristine sulfate",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "stratum",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "6",
+            "7",
+            "8",
+            "9",
+            "6",
+            "8",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "6",
+            "7",
+            "8",
+            "9",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "8",
+            "1",
+            "4",
+            "6",
+            "7",
+            "8",
+            "9",
+            "4",
+            "7",
+            "8",
             "9"
       ],
       "description": [
-            "source",
             "pharmacology",
             "anthracycline",
             "antibiotic",
@@ -651,6 +698,7 @@
             "hour"
       ],
       "other_name": [
+            "123127",
             "adriamycin"
       ],
       "criteria": [
@@ -754,12 +802,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002611.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clear",
+            "cell",
+            "sarcoma",
+            "kidney"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "tumor",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00002611"
 }

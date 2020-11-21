@@ -93,16 +93,17 @@
             "plcb"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "aspirin",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -311,7 +312,7 @@
             "resection",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -320,6 +321,13 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002527"
 }

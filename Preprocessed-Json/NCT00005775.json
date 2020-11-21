@@ -138,16 +138,37 @@
             "age"
       ],
       "condition": [
-            "sepsis"
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
+            "premature"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Glutamine",
+            "Placebo"
       ],
       "description": [
-            "trophamine",
+            "randomize",
+            "glutamine",
+            "supplementation",
+            "receive",
+            "glutamine",
+            "time",
+            "parenteral",
+            "nutrition",
+            "require",
+            "first",
+            "120",
+            "day",
+            "hospitalization",
             "give",
             "time",
             "parenteral",
@@ -158,12 +179,8 @@
             "day",
             "hospitalization"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "trophamine"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -196,12 +213,26 @@
             "sign",
             "birth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "72",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005775.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "low",
+            "birth",
+            "weight",
+            "vlbw",
+            "infant"
+      ],
+      "mesh_term": [
+            "birth",
+            "weight",
+            "glucose",
+            "electrolyte",
+            "solution"
+      ],
+      "id": "NCT00005775"
 }

@@ -141,14 +141,17 @@
             "immunization"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "lamivudine"
+            "Influenza Virus Vaccine",
+            "Pneumococcal Vaccine, Polyvalent (23-valent)",
+            "Lamivudine"
       ],
       "criteria": [
             "inclusion",
@@ -331,12 +334,22 @@
             "pneumonia",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001080.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumococcal",
+            "conjugate",
+            "vaccine"
+      ],
+      "id": "NCT00001080"
 }

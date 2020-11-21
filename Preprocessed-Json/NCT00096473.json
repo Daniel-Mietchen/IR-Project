@@ -62,14 +62,14 @@
             "better"
       ],
       "condition": [
-            "dementia"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "donepezil",
-            "hydrochloride"
+            "Donepezil hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -119,12 +119,21 @@
             "alzheimer",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096473.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "severe",
+            "dementia",
+            "alzheimer",
+            "type"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00096473"
 }

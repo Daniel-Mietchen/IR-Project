@@ -293,20 +293,49 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "dexamethasone",
+            "melphalan",
             "prednisone"
       ],
       "description": [
-            "100",
+            "mg",
+            "daily",
+            "four",
+            "day",
+            "give",
+            "orally",
+            "repeat",
+            "every",
+            "28",
+            "day",
+            "commence",
+            "day",
+            "29",
+            "twelfth",
+            "cycle",
+            "induction",
+            "therapy",
+            "daily",
+            "4",
+            "day",
+            "give",
+            "orally",
+            "empty",
+            "stomach",
+            "every",
+            "4",
+            "week",
             "mg",
             "daily",
             "4",
@@ -319,7 +348,11 @@
             "melphalan"
       ],
       "arm_group_label": [
-            "melphan",
+            "prednisone",
+            "pluse",
+            "dexamethasone",
+            "plus",
+            "prednisone",
             "plus",
             "prednisone"
       ],
@@ -532,12 +565,25 @@
             "hypercalcemia",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002678.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00002678"
 }

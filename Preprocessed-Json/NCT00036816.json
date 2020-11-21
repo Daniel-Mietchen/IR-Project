@@ -179,15 +179,19 @@
             "year"
       ],
       "condition": [
-            "intraocular",
             "melanoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "MART-1 antigen",
+            "NA17-A antigen",
+            "gp100 antigen",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -442,12 +446,20 @@
             "immunosuppressive",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036816.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ciliary",
+            "body",
+            "choroid",
+            "melanoma",
+            "size"
+      ],
+      "mesh_term": [],
+      "id": "NCT00036816"
 }

@@ -333,7 +333,7 @@
             "interface"
       ],
       "condition": [
-            "healthy"
+            "disease"
       ],
       "criteria": [
             "inclusion",
@@ -383,9 +383,15 @@
             "photography",
             "fundus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069199.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "retina"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00069199"
 }

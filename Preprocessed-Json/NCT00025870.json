@@ -432,7 +432,7 @@
             "ward"
       ],
       "condition": [
-            "metabolic",
+            "disorder",
             "disease"
       ],
       "criteria": [
@@ -501,12 +501,21 @@
             "part",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025870.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "molecular",
+            "genetics"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "inborn"
+      ],
+      "id": "NCT00025870"
 }

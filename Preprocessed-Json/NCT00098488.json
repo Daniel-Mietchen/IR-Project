@@ -302,27 +302,33 @@
             "year"
       ],
       "condition": [
-            "refractory",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "leukemia",
             "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "tanespimycin",
             "rituximab"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "rituximab",
             "rituximab"
       ],
       "other_name": [
-            "rituxan"
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -659,12 +665,18 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098488.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "prolymphocytic"
+      ],
+      "id": "NCT00098488"
 }

@@ -33,19 +33,35 @@
             "placebo"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bm",
-            "188667",
-            "abatacept"
+            "Placebo",
+            "BMS 188667 (Abatacept)",
+            "BMS 188667 (Abatacept)"
       ],
       "description": [
-            "vial",
+            "infusion",
+            "0",
+            "mg",
+            "day",
+            "1",
+            "15",
+            "monthly",
+            "10",
+            "month",
+            "infusion",
+            "day",
+            "1",
+            "15",
+            "monthly",
+            "10",
+            "month",
             "infusion",
             "10",
             "day",
@@ -55,12 +71,8 @@
             "10",
             "month"
       ],
-      "arm_group_label": [
-            "3"
-      ],
-      "other_name": [
-            "orencia"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "m",
@@ -100,7 +112,7 @@
             "viral",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -109,6 +121,13 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035529.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "m"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "sclerosis"
+      ],
+      "id": "NCT00035529"
 }

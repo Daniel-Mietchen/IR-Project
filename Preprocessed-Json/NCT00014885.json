@@ -88,7 +88,6 @@
             "function"
       ],
       "condition": [
-            "lead",
             "poison"
       ],
       "criteria": [
@@ -103,7 +102,7 @@
             "test",
             "sit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -112,6 +111,12 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014885.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "neurobehavior"
+      ],
+      "mesh_term": [
+            "poison"
+      ],
+      "id": "NCT00014885"
 }

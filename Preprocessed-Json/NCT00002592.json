@@ -184,16 +184,22 @@
             "within",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "c-myb antisense oligonucleotide G4460",
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "autologous bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -312,7 +318,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -321,6 +327,19 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002592.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "accelerate",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002592"
 }

@@ -258,7 +258,7 @@
             "volunteer"
       ],
       "condition": [
-            "healthy"
+            "disease"
       ],
       "criteria": [
             "hemizygote",
@@ -276,11 +276,16 @@
             "inform",
             "consent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005111.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "fabry",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005111"
 }

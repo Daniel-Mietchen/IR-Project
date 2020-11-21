@@ -130,19 +130,31 @@
             "complete"
       ],
       "condition": [
-            "eat",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "guide",
-            "self",
-            "help"
+            "Interpersonal Therapy",
+            "Behavioral Weight Loss Treatment",
+            "Guided Self Help"
       ],
       "description": [
-            "10",
+            "session",
+            "interpersonal",
+            "therapy",
+            "provide",
+            "period",
+            "session",
+            "behavioral",
+            "weight",
+            "loss",
+            "treatment",
+            "provide",
+            "period",
             "session",
             "guide",
             "self",
@@ -151,12 +163,17 @@
             "period"
       ],
       "arm_group_label": [
-            "guide",
+            "therapy",
+            "weight",
+            "loss",
+            "treatment",
             "self",
             "help"
       ],
       "other_name": [
-            "gsh"
+            "weight",
+            "loss",
+            "treatment"
       ],
       "criteria": [
             "inclusion",
@@ -188,7 +205,7 @@
             "within",
             "last"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -197,6 +214,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060762.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "weight",
+            "loss"
+      ],
+      "mesh_term": [
+            "eat",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00060762"
 }

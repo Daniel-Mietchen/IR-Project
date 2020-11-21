@@ -173,21 +173,26 @@
             "year"
       ],
       "condition": [
-            "menopausal",
+            "cancer",
             "symptom"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "goserelin",
-            "acetate"
+            "cyclophosphamide",
+            "goserelin acetate"
       ],
       "description": [
-            "give",
+            "plan",
+            "chemotherapy",
+            "regimen",
             "subcutaneously"
       ],
       "arm_group_label": [
+            "plus",
+            "goserelin",
             "chemotherapy",
             "plus",
             "goserelin"
@@ -338,9 +343,7 @@
             "include",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -349,6 +352,14 @@
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00068601.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "progesterone",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00068601"
 }

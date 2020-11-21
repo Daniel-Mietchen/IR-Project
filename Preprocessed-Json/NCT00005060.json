@@ -255,23 +255,22 @@
             "study"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "immediate",
-            "surgery"
+            "Taxotere-Cisplatin-5FU",
+            "Immediate surgery"
       ],
       "description": [
-            "immediate",
             "surgery",
             "follow"
       ],
       "arm_group_label": [
-            "immediate",
+            "preoperatively",
             "surgery",
             "follow",
             "tcf"
@@ -480,7 +479,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -489,6 +488,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005060.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "gastric",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005060"
 }

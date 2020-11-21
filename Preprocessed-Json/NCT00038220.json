@@ -24,15 +24,19 @@
             "virus"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "df"
+            "Lopinavir/ritonavir",
+            "Efavirenz",
+            "Lamivudine",
+            "Tenofovir DF"
       ],
       "criteria": [
             "inclusion",
@@ -146,7 +150,7 @@
             "bone",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -155,6 +159,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038220.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00038220"
 }

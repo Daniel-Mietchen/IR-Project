@@ -153,18 +153,14 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "carcinoembryonic",
-            "antigen",
-            "dc",
-            "cancer",
-            "vaccine"
+            "carcinoembryonic antigen RNA-pulsed DC cancer vaccine"
       ],
       "criteria": [
             "disease",
@@ -342,12 +338,20 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003433.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00003433"
 }

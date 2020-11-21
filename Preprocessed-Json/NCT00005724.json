@@ -226,7 +226,6 @@
             "blood",
             "pressure",
             "weight",
-            "ass",
             "phase",
             "ill",
             "consist",
@@ -269,18 +268,20 @@
             "level"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005724.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005724"
 }

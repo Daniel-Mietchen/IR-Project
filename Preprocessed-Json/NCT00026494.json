@@ -149,18 +149,18 @@
             "year"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "temozolomide",
+            "vinorelbine tartrate"
       ],
       "arm_group_label": [
-            "temozolomide",
+            "vinorelbine",
             "vinorelbine"
       ],
       "criteria": [
@@ -338,12 +338,20 @@
             "requirement",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026494.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00026494"
 }

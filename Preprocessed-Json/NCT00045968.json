@@ -184,19 +184,19 @@
             "site"
       ],
       "condition": [
-            "brain",
+            "multiforme",
+            "iv",
+            "astrocytoma",
+            "cancer",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dendritic",
-            "cell",
-            "immunotherapy"
+            "Dendritic cell immunotherapy"
       ],
       "description": [
-            "two",
             "intradermal",
             "injection",
             "treatment",
@@ -223,7 +223,7 @@
             "120"
       ],
       "arm_group_label": [
-            "placebo",
+            "cohort",
             "chohort"
       ],
       "other_name": [],
@@ -475,7 +475,7 @@
             "start",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -484,6 +484,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045968.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "grade",
+            "iv",
+            "brain",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00045968"
 }

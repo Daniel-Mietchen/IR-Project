@@ -212,7 +212,8 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "skin",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -220,10 +221,18 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "supportive"
+            "celecoxib",
+            "anticachectic therapy",
+            "nutritional support",
+            "pain therapy",
+            "supportive care/therapy"
       ],
       "criteria": [
             "disease",
@@ -475,7 +484,7 @@
             "nsaid",
             "aspirin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -484,6 +493,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093678.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunosuppressive",
+            "treatment",
+            "relate",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093678"
 }

@@ -129,26 +129,28 @@
             "study"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cetuximab",
+            "paclitaxel",
             "carboplatin"
       ],
       "description": [
+            "120",
+            "minute",
+            "infusion",
             "auc",
             "6",
             "infusion"
       ],
-      "arm_group_label": [
-            "1"
-      ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -419,12 +421,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034541.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paclitaxel"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00034541"
 }

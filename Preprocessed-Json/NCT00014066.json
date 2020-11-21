@@ -156,13 +156,14 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
+            "hematoporphyrin derivative",
             "brachytherapy"
       ],
       "criteria": [
@@ -341,12 +342,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014066.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "0",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "derivative"
+      ],
+      "id": "NCT00014066"
 }

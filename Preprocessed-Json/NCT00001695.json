@@ -331,9 +331,7 @@
             "drug",
             "development"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "must",
@@ -377,9 +375,12 @@
             "enrol",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herbal"
+      ],
+      "id": "NCT00001695"
 }

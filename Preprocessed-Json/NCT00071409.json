@@ -58,13 +58,16 @@
             "patient"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "INGAP-Peptide",
+            "INGAP-Peptide",
             "placebo"
       ],
       "description": [
@@ -73,10 +76,27 @@
             "sc",
             "injection",
             "90",
+            "day",
+            "ml",
+            "daily",
+            "sc",
+            "injection",
+            "90",
+            "day",
+            "ml",
+            "daily",
+            "sc",
+            "injection",
+            "90",
             "day"
       ],
       "arm_group_label": [
-            "placebo"
+            "mg",
+            "ingap",
+            "peptide",
+            "mg",
+            "ingap",
+            "peptide"
       ],
       "criteria": [
             "inclusion",
@@ -95,7 +115,7 @@
             "otherwise",
             "healthy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -104,6 +124,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071409.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "1",
+            "diabetes"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00071409"
 }

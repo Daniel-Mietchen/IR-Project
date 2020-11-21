@@ -480,7 +480,8 @@
             "evaluation"
       ],
       "condition": [
-            "blood",
+            "sickle",
+            "cell",
             "disease"
       ],
       "criteria": [
@@ -491,12 +492,17 @@
             "cell",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005277.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00005277"
 }

@@ -143,15 +143,15 @@
             "acid"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "aluminum",
-            "hydroxide"
+            "HIV p17/p24:Ty-VLP",
+            "Aluminum hydroxide"
       ],
       "criteria": [
             "inclusion",
@@ -360,7 +360,7 @@
             "sexual",
             "behavior"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -369,6 +369,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001053.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide"
+      ],
+      "id": "NCT00001053"
 }

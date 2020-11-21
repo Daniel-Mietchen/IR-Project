@@ -199,7 +199,7 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "vomit",
             "adult",
             "solid",
             "tumor",
@@ -207,10 +207,18 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "dolasetron mesylate",
+            "granisetron hydrochloride",
+            "ondansetron",
+            "prochlorperazine",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -334,7 +342,7 @@
             "treatment",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -343,6 +351,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00020657.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00020657"
 }

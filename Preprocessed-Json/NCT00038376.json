@@ -172,18 +172,22 @@
             "available"
       ],
       "condition": [
-            "hematologic",
+            "fungoides",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "alpha"
+            "Isotretinoin (Accutane)",
+            "Interferon Alpha"
       ],
       "description": [
-            "start",
+            "total",
+            "mouth",
+            "twice",
+            "day",
             "dose",
             "3",
             "mu",
@@ -193,11 +197,9 @@
             "12",
             "week"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "interferon"
+            "acid"
       ],
       "criteria": [
             "inclusion",
@@ -369,12 +371,19 @@
             "year",
             "old"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038376.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignancy"
+      ],
+      "mesh_term": [
+            "fungoides",
+            "neoplasm"
+      ],
+      "id": "NCT00038376"
 }

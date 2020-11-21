@@ -110,10 +110,13 @@
             "dose"
       ],
       "condition": [
-            "pneumonia"
+            "distress",
+            "syndrome",
+            "adult",
+            "obliterans"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "etanercept"
@@ -195,12 +198,28 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "month"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029328.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "function",
+            "test"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "obliterans",
+            "lung",
+            "injury"
+      ],
+      "id": "NCT00029328"
 }

@@ -338,16 +338,13 @@
             "control"
       ],
       "condition": [
-            "obesity"
+            "mellitus"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "oral",
-            "glucose",
-            "tolerance",
-            "test"
+            "Oral glucose tolerance test"
       ],
       "criteria": [
             "inclusion",
@@ -627,7 +624,7 @@
             "glucometer",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -636,6 +633,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065676.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "obesity"
+      ],
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00065676"
 }

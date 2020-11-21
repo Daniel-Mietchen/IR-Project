@@ -278,18 +278,26 @@
             "regimen",
             "close"
       ],
-      "condition": [
-            "neutropenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "amsacrine",
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "idarubicin",
+            "mitoxantrone hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -403,7 +411,7 @@
             "prior",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "61",
             "year"
@@ -412,6 +420,19 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002719.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00002719"
 }

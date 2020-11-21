@@ -158,12 +158,18 @@
             "record"
       ],
       "condition": [
-            "hyperhomocysteinemia"
+            "stage",
+            "renal",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyanocobalamin",
+            "folic acid",
             "pyridoxine"
       ],
       "criteria": [
@@ -267,7 +273,7 @@
             "hypothyroidism",
             "psoriasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -276,6 +282,23 @@
             "89",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004495.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "genitourinary",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "chronic",
+            "b",
+            "12",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00004495"
 }

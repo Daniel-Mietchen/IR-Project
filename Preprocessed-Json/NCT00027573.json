@@ -101,21 +101,45 @@
             "regimen"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "methotrexate",
+            "tacrolimus",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "transplantation",
             "stem",
             "cell",
             "transplantation"
@@ -363,12 +387,24 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027573.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "papillary",
+            "renal",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00027573"
 }

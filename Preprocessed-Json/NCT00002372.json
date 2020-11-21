@@ -67,14 +67,19 @@
             "phase"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Indinavir sulfate",
+            "Amprenavir",
+            "Nelfinavir mesylate",
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -183,12 +188,19 @@
             "protocol",
             "evaluation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002372.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vx",
+            "478"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002372"
 }

@@ -236,14 +236,15 @@
             "provide"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "estradiol"
+            "Medroxyprogesterone acetate",
+            "Estradiol"
       ],
       "criteria": [
             "inclusion",
@@ -439,14 +440,22 @@
             "opinion",
             "investigator"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044837.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "estradiol"
+      ],
+      "mesh_term": [
+            "infection",
+            "phosphate",
+            "acetate",
+            "17",
+            "valerate"
+      ],
+      "id": "NCT00044837"
 }

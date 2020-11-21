@@ -168,15 +168,14 @@
             "5",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "recombinant interferon alfa",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -259,11 +258,9 @@
             "inr",
             "greater",
             "time",
-            "uln",
             "ptt",
             "greater",
             "time",
-            "uln",
             "note",
             "except",
             "patient",
@@ -349,9 +346,23 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045422.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00045422"
 }

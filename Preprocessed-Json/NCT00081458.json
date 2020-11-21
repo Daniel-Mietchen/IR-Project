@@ -106,30 +106,38 @@
             "sb"
       ],
       "condition": [
-            "short",
             "bowel",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "teduglutide"
+            "Placebo",
+            "Teduglutide 0.05 mg/kg/d",
+            "Teduglutide 0.1 mg/kg/d"
       ],
       "description": [
-            "teduglutide",
+            "injectable",
+            "subcutaneously",
+            "daily",
+            "thigh",
+            "abdomen",
+            "daily",
+            "injectable",
+            "subcutaneously",
+            "thigh",
+            "abdomen",
             "daily",
             "injection",
             "subcutaneously",
             "thigh",
             "abdomen"
       ],
-      "arm_group_label": [
-            "3"
-      ],
-      "other_name": [
-            "gattex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -316,12 +324,19 @@
             "systemic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081458.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sb"
+      ],
+      "mesh_term": [
+            "bowel",
+            "syndrome"
+      ],
+      "id": "NCT00081458"
 }

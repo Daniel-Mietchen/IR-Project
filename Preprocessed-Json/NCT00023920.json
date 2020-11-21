@@ -178,29 +178,47 @@
             "toxicity"
       ],
       "condition": [
+            "phase",
             "chronic",
+            "myelogenous",
+            "leukemia",
             "myelogenous",
             "leukemia",
             "positive"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bevacizumab",
+            "idarubicin",
             "cytarabine"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "sc"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "idarubicin",
+            "cytarabine",
+            "bevacizumab",
+            "idarubicin",
+            "cytarabine",
             "bevacizumab",
             "idarubicin",
             "cytarabine"
       ],
       "other_name": [
-            "cytosine",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
             "arabinoside"
       ],
       "criteria": [
@@ -301,12 +319,20 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023920.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "monoclonal"
+      ],
+      "id": "NCT00023920"
 }

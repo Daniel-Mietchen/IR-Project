@@ -351,22 +351,73 @@
             "regimen",
             "cease"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Bleomycin Sulfate",
+            "Filgrastim",
+            "Cisplatin",
+            "Cyclophosphamide",
+            "Cytarabine",
+            "Doxorubicin Hydrochloride (DOX)",
+            "Etoposide",
+            "Fluorouracil",
+            "Ifosfamide",
+            "Leucovorin calcium",
+            "Methotrexate",
+            "Methylprednisolone",
+            "Pentamidine",
+            "Prednisone",
+            "Trimethoprim-Sulfamethoxazole",
+            "Vincristine Sulfate",
+            "Zidovudine (AZT)",
+            "Radiation Therapy"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "c",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "b",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
+            "c",
+            "b",
             "c"
       ],
       "other_name": [
-            "radiotherapy"
+            "arabinosine",
+            "hydrochloride",
+            "pfs",
+            "rdf"
       ],
       "criteria": [
             "disease",
@@ -444,12 +495,30 @@
             "concurrent",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002524.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diffuse",
+            "small",
+            "cleave",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00002524"
 }

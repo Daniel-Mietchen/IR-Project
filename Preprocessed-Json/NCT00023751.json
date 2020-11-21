@@ -277,18 +277,30 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "leucovorin calcium",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "surgery",
+            "leucovorin",
+            "fluorouracil",
+            "radiation",
+            "leucovorin",
+            "fluorouracil",
+            "radiation",
+            "leucovorin",
+            "fluorouracil",
+            "radiation",
             "leucovorin",
             "fluorouracil",
             "radiation"
@@ -466,12 +478,20 @@
             "removal",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023751.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00023751"
 }

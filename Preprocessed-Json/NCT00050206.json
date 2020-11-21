@@ -38,14 +38,15 @@
             "trial"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Olanzapine",
+            "Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -147,7 +148,7 @@
             "suicidal",
             "risk"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -156,6 +157,9 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00050206.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00050206"
 }

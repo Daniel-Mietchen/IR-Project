@@ -180,13 +180,19 @@
             "11",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "rituximab",
+            "cisplatin",
+            "cytarabine",
+            "dexamethasone",
             "sargramostim"
       ],
       "arm_group_label": [],
@@ -260,12 +266,22 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005601.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00005601"
 }

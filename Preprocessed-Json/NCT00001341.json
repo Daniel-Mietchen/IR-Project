@@ -128,14 +128,12 @@
             "21",
             "day"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tomudex"
+            "ZD1694 (TOMUDEX)"
       ],
       "criteria": [
             "disease",
@@ -293,9 +291,13 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001341"
 }

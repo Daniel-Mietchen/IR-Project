@@ -50,16 +50,18 @@
             "chc"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "interferon"
+            "Viramidine",
+            "Ribavirin",
+            "pegylated interferon alfa-2a"
       ],
       "criteria": [
             "inclusion",
@@ -119,12 +121,22 @@
             "pregnant",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093093.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pegylated",
+            "interferon"
+      ],
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00093093"
 }

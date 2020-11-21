@@ -120,28 +120,40 @@
             "entry"
       ],
       "condition": [
-            "recurrent",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
             "gefitinib"
       ],
       "other_name": [
-            "zd",
             "1839"
       ],
       "criteria": [
@@ -525,12 +537,16 @@
             "4",
             "encephalopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071994.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00071994"
 }

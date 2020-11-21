@@ -92,17 +92,25 @@
             "elevate"
       ],
       "condition": [
-            "respiratory",
+            "disease",
             "acidosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oxygen"
+            "nitric oxide for inhalation",
+            "Oxygen"
       ],
       "description": [
-            "give",
+            "20",
+            "ppm",
+            "1",
+            "hour",
+            "wean",
+            "4",
+            "hour",
             "20",
             "ppm",
             "one",
@@ -111,12 +119,8 @@
             "four",
             "hour"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "inomax"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -185,12 +189,17 @@
             "hypoventilation",
             "hypercarbia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041548.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "respiratory",
+            "oxide"
+      ],
+      "id": "NCT00041548"
 }

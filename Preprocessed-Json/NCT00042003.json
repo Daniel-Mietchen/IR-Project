@@ -39,15 +39,14 @@
             "drug"
       ],
       "condition": [
-            "chronic",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "decitabine"
+            "decitabine (5-aza-2'deoxycytidine)"
       ],
       "criteria": [
             "inclusion",
@@ -269,12 +268,21 @@
             "uncontrolled",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042003.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "mesylate"
+      ],
+      "id": "NCT00042003"
 }

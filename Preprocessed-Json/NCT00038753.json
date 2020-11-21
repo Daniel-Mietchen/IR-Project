@@ -162,15 +162,13 @@
             "ii"
       ],
       "condition": [
-            "refractive",
             "error"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "vision",
-            "screen"
+            "Vision Screening"
       ],
       "criteria": [
             "child",
@@ -188,7 +186,7 @@
             "month",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "36",
             "month"
@@ -197,6 +195,13 @@
             "59",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038753.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vision",
+            "screen"
+      ],
+      "mesh_term": [
+            "error"
+      ],
+      "id": "NCT00038753"
 }

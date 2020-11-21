@@ -101,20 +101,18 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "qol",
-            "assessment"
+            "QoL assessment"
       ],
       "description": [
-            "qol",
             "questionnaire"
       ],
       "arm_group_label": [
-            "qol",
             "prostate",
             "cancer"
       ],
@@ -270,14 +268,21 @@
             "prostate",
             "carcinoma"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041301.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00041301"
 }

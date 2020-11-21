@@ -87,7 +87,9 @@
             "trial"
       ],
       "condition": [
-            "hematologic",
+            "v",
+            "host",
+            "disease",
             "neoplasm"
       ],
       "criteria": [
@@ -142,7 +144,7 @@
             "access",
             "inadequate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -151,6 +153,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001872.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "reimbursement"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00001872"
 }

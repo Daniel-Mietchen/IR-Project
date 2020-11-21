@@ -175,17 +175,21 @@
             "model"
       ],
       "condition": [
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Behavioral",
+            "Procedure"
       ],
       "intervention_name": [
-            "blood",
-            "sample"
+            "patient interviewing to obtain menstrual history",
+            "blood sampling"
       ],
       "arm_group_label": [
-            "patient",
+            "interview",
+            "blood",
+            "sample",
             "interview",
             "blood",
             "sample"
@@ -266,9 +270,7 @@
             "10",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -277,6 +279,13 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002762.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complication"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "complication"
+      ],
+      "id": "NCT00002762"
 }

@@ -193,15 +193,20 @@
             "month"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermia",
-            "treatment"
+            "fluorouracil",
+            "pegylated liposomal doxorubicin hydrochloride",
+            "hyperthermia treatment"
       ],
       "criteria": [
             "disease",
@@ -389,14 +394,24 @@
             "agent",
             "aspirin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cervical",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003135"
 }

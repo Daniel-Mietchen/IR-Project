@@ -209,7 +209,8 @@
             "transplant"
       ],
       "condition": [
-            "liver",
+            "infection",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -344,12 +345,21 @@
             "weight",
             "loss"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074386.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "transplant"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00074386"
 }

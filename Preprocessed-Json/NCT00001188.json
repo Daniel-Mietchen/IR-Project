@@ -60,17 +60,12 @@
             "adjuvant",
             "chemotherapy"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy",
-            "follow",
-            "surgery"
+            "radiation therapy following surgery"
       ],
       "criteria": [
             "patient",
@@ -241,9 +236,13 @@
             "embryonal",
             "rhabdomyosarcoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001188.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "surgery"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001188"
 }

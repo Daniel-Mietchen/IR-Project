@@ -222,17 +222,20 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bortezomib",
             "docetaxel"
       ],
       "arm_group_label": [
-            "velcade",
+            "alone",
+            "plus",
+            "docetaxel",
             "plus",
             "docetaxel"
       ],
@@ -507,12 +510,22 @@
             "celecoxib",
             "rofecoxib"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064012.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00064012"
 }

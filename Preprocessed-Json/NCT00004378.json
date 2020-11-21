@@ -195,17 +195,19 @@
             "5000"
       ],
       "condition": [
-            "inborn",
+            "leukodystrophy",
+            "fanconi",
+            "anemia",
+            "major",
+            "aplasia",
             "error",
             "metabolism"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplantation"
+            "Stem Cell Transplantation"
       ],
       "criteria": [
             "protocol",
@@ -254,12 +256,25 @@
             "congenital",
             "immunodeficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004378.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thalassemia",
+            "major"
+      ],
+      "mesh_term": [
+            "anemia",
+            "syndrome",
+            "inborn",
+            "error",
+            "aplasia",
+            "pure",
+            "metachromatic"
+      ],
+      "id": "NCT00004378"
 }

@@ -46,19 +46,15 @@
             "community"
       ],
       "condition": [
-            "hyperbilirubinemia"
+            "jaundice"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "stanate",
-            "tm",
-            "stannsoporfin"
+            "Stanate (TM) [stannsoporfin, tin-mesoporphyrin]"
       ],
-      "description": [
-            "treatment"
-      ],
+      "description": [],
       "criteria": [
             "term",
             "near",
@@ -79,12 +75,20 @@
             "religious",
             "ground"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neonatal",
+            "hyperbilirubinemia"
+      ],
+      "mesh_term": [
+            "neonatal",
+            "mesoporphyrin"
+      ],
+      "id": "NCT00076960"
 }

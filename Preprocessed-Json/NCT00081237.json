@@ -163,13 +163,14 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "OSI-7904L",
             "oxaliplatin"
       ],
       "criteria": [
@@ -361,11 +362,9 @@
             "since",
             "prior",
             "chemotherapy",
-            "recover",
             "prior",
             "oxaliplatin",
             "note",
-            "alopecia",
             "allow",
             "endocrine",
             "therapy",
@@ -422,12 +421,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081237.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00081237"
 }

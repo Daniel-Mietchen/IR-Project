@@ -156,18 +156,47 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "docetaxel",
+            "mitoxantrone hydrochloride",
+            "conventional surgery"
       ],
       "description": [
-            "prostatectomy",
+            "15",
+            "30",
+            "minute",
+            "administer",
+            "immediately",
+            "mitoxantrone",
+            "schedule",
+            "dose",
+            "2",
+            "weekly",
+            "3",
+            "every",
+            "4",
+            "week",
+            "dose",
+            "escalate",
+            "describe",
+            "dose",
+            "escalation",
+            "section",
+            "maximum",
+            "dose",
+            "6",
+            "weekly",
+            "3",
+            "every",
+            "4",
+            "week",
             "schedule",
             "2",
             "4",
@@ -177,7 +206,12 @@
             "chemotherapy"
       ],
       "arm_group_label": [
-            "docetaxel",
+            "mitoxantrone",
+            "conventional",
+            "surgery",
+            "mitoxantrone",
+            "conventional",
+            "surgery",
             "mitoxantrone",
             "conventional",
             "surgery"
@@ -369,9 +403,7 @@
             "concurrent",
             "cryotherapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -380,6 +412,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00017563.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00017563"
 }

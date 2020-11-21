@@ -64,12 +64,12 @@
             "year"
       ],
       "condition": [
-            "liver",
+            "sclerosing",
             "cirrhosis",
             "biliary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "budesonide"
@@ -323,7 +323,7 @@
             "encephalopathy",
             "ascites"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -332,6 +332,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004842.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "cirrhosis",
+            "sclerosing",
+            "cirrhosis",
+            "biliary"
+      ],
+      "id": "NCT00004842"
 }

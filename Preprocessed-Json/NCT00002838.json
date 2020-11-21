@@ -163,26 +163,30 @@
             "patient",
             "enter"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "Filgrastim (G-CSF)",
+            "Cyclophosphamide",
+            "Fludarabine Phosphate",
+            "Peripheral Blood Stem Cell Transplantation"
       ],
       "arm_group_label": [
-            "combination",
+            "chemotherapy",
+            "psct",
+            "chemotherapy",
+            "psct",
+            "chemotherapy",
+            "psct",
             "chemotherapy",
             "psct"
       ],
       "other_name": [
-            "stem",
             "cell",
             "transplant"
       ],
@@ -264,12 +268,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002838.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00002838"
 }

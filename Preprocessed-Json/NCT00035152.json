@@ -56,15 +56,13 @@
             "carcinoma"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "carboplatin"
+            "Paclitaxel and carboplatin"
       ],
       "criteria": [
             "inclusion",
@@ -157,12 +155,16 @@
             "diabetes",
             "mellitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035152.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00035152"
 }

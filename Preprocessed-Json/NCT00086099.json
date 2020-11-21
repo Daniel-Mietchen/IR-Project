@@ -59,22 +59,25 @@
             "population"
       ],
       "condition": [
-            "acute",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "idarubincin"
+            "Idarubincin and Amufostine (Ethyol)",
+            "Idarubincin"
       ],
       "description": [
-            "idarubincin"
+            "dose",
+            "idarubincin",
+            "21",
+            "plus",
+            "amofostine"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -527,12 +530,17 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086099.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00086099"
 }

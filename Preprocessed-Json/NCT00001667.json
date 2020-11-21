@@ -51,7 +51,10 @@
             "analysis"
       ],
       "condition": [
-            "tremor"
+            "disorder",
+            "system",
+            "disease",
+            "disorder"
       ],
       "criteria": [
             "neurologic",
@@ -65,9 +68,19 @@
             "condition",
             "phlebotomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001667.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurological",
+            "disease"
+      ],
+      "mesh_term": [
+            "system",
+            "disease",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001667"
 }

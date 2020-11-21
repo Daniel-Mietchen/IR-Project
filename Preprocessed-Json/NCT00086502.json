@@ -23,22 +23,58 @@
             "mellitus"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metformin"
+            "Comparator: Sitagliptin",
+            "Comparator: Placebo",
+            "Comparator: Pioglitazone",
+            "Metformin"
       ],
       "description": [
-            "metformin",
+            "100",
+            "mg",
+            "daily",
+            "visit",
+            "4",
+            "visit",
+            "8",
+            "day",
+            "1",
+            "week",
+            "24",
+            "match",
+            "sitagliptin",
+            "100",
+            "mg",
+            "daily",
+            "visit",
+            "4",
+            "visit",
+            "8",
+            "day",
+            "1",
+            "week",
+            "24",
+            "30",
+            "mg",
+            "45",
+            "mg",
+            "daily",
+            "visit",
+            "2",
+            "visit",
+            "8",
             "rescue",
             "patient",
-            "meet",
             "glycemic",
             "criterion",
             "metformin",
@@ -51,11 +87,14 @@
             "8"
       ],
       "arm_group_label": [
-            "placebo"
+            "100",
+            "mg",
+            "100",
+            "mg",
+            "100",
+            "mg"
       ],
-      "other_name": [
-            "actos"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -217,12 +256,19 @@
             "b",
             "c"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086502.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "phosphate"
+      ],
+      "id": "NCT00086502"
 }

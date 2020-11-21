@@ -226,16 +226,32 @@
             "year"
       ],
       "condition": [
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "malignant",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "tbi"
+            "cyclophosphamide",
+            "TBI"
       ],
       "description": [
-            "ftbi",
+            "administer",
+            "dose",
+            "60",
+            "two",
+            "successive",
+            "day",
+            "day",
             "perform",
             "day",
             "day",
@@ -481,7 +497,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -490,6 +506,19 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005622.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00005622"
 }

@@ -134,7 +134,7 @@
             "effect"
       ],
       "condition": [
-            "lung",
+            "disease",
             "disease"
       ],
       "criteria": [
@@ -191,7 +191,7 @@
             "majority",
             "participant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -200,6 +200,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00013949.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "particulate",
+            "exposure"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00013949"
 }

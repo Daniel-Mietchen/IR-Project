@@ -586,17 +586,20 @@
             "cohort"
       ],
       "condition": [
-            "insulin",
+            "mellitus",
+            "type",
+            "ii",
             "resistance"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "brachial",
-            "artery",
-            "reactivity",
-            "test"
+            "Exercise cardiopulmonary metabolic testing",
+            "Skeletal muscle biopsy",
+            "Brachial artery reactivity testing"
       ],
       "criteria": [
             "inclusion",
@@ -767,12 +770,20 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "22",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094796.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "mellitus",
+            "resistance",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00094796"
 }

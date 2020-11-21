@@ -205,14 +205,12 @@
             "microbiological",
             "response"
       ],
-      "condition": [
-            "mycoses"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "voriconazole"
+            "Voriconazole"
       ],
       "criteria": [
             "male",
@@ -370,9 +368,13 @@
             "creatinine",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001940.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fungemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001940"
 }

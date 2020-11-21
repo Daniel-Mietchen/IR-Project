@@ -187,29 +187,59 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "sulindac",
-            "placebo"
+            "Acetylsalicylic acid (Aspirin)",
+            "Sulindac",
+            "Ursodiol",
+            "Sulindac Placebo"
       ],
       "description": [
+            "receive",
             "oral",
+            "aspirin",
+            "daily",
+            "12",
+            "month",
+            "receive",
+            "oral",
+            "sulindac",
+            "twice",
+            "daily",
+            "12",
+            "month",
+            "receive",
+            "oral",
+            "ursodiol",
+            "three",
+            "time",
+            "daily",
+            "12",
+            "month",
             "sulindac",
             "placebo",
             "twice",
             "daily"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "aspirin",
+            "sulindac",
+            "iii",
+            "ursodiol",
             "iv",
             "sulindac",
             "placebo"
       ],
       "other_name": [
-            "udca"
+            "acid"
       ],
       "criteria": [
             "inclusion",
@@ -586,7 +616,7 @@
             "total",
             "bilirubin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -595,6 +625,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062023.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00062023"
 }

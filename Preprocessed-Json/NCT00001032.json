@@ -138,14 +138,15 @@
             "basis"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zalcitabine"
+            "Zidovudine",
+            "Zalcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -296,7 +297,7 @@
             "week",
             "duration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -305,6 +306,14 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001032.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001032"
 }

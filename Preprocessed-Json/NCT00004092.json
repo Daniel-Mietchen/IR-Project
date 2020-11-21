@@ -264,21 +264,34 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "paclitaxel",
+            "thiotepa",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "patient",
+            "iv",
+            "subcutaneously",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "receive",
             "autologous",
             "peripheral",
@@ -287,7 +300,33 @@
             "cell"
       ],
       "arm_group_label": [
-            "arm",
+            "act",
+            "close",
+            "accrual",
+            "ii",
+            "stamp",
+            "v",
+            "ii",
+            "stamp",
+            "v",
+            "act",
+            "close",
+            "accrual",
+            "ii",
+            "stamp",
+            "v",
+            "act",
+            "close",
+            "accrual",
+            "act",
+            "close",
+            "accrual",
+            "ii",
+            "stamp",
+            "v",
+            "act",
+            "close",
+            "accrual",
             "ii",
             "stamp",
             "v"
@@ -498,12 +537,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00004092"
 }

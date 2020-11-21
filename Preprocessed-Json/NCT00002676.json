@@ -102,18 +102,46 @@
             "associate",
             "outcome"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "carmustine",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "methotrexate",
+            "vincristine sulfate",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "arm_group_label": [
-            "chod",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
+            "bvam",
+            "wbrt",
             "bvam",
             "wbrt"
       ],
@@ -260,7 +288,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -269,6 +297,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002676.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002676"
 }

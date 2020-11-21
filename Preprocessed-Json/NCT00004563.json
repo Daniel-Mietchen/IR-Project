@@ -205,26 +205,50 @@
             "2003"
       ],
       "condition": [
+            "disease",
+            "fibrosis",
             "scleroderma",
             "systemic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Cyclophosphamide",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "cytoxan",
+            "squibb",
+            "initiate",
+            "dose",
+            "1",
+            "mg",
+            "per",
+            "kilogram",
+            "body",
+            "weight",
+            "per",
+            "day",
+            "nearest",
+            "25",
+            "mg",
+            "dose",
+            "increase",
+            "monthly",
+            "one",
+            "capsule",
+            "2",
+            "mg",
+            "per",
+            "kilogram",
             "gelcaps",
             "25",
             "mg"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "cytoxan",
             "bristol",
             "myers",
             "squibb"
@@ -344,12 +368,23 @@
             "potentially",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004563.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "scleroderma",
+            "systemic"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "systemic",
+            "diffuse",
+            "localize"
+      ],
+      "id": "NCT00004563"
 }

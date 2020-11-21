@@ -456,13 +456,13 @@
             "efficacy",
             "value"
       ],
-      "condition": [
-            "dermatomyositis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "h5G1.1-mAb"
+      ],
       "criteria": [
             "patient",
             "age",
@@ -759,9 +759,13 @@
             "myositis",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005571.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dermatomyositis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005571"
 }

@@ -141,10 +141,11 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "bevacizumab"
@@ -514,12 +515,24 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022048.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atypical",
+            "chronic",
+            "myeloid",
+            "leukemia",
+            "negative"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00022048"
 }

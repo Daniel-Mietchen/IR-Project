@@ -163,7 +163,6 @@
             "discretion",
             "oncologist",
             "note",
-            "patient",
             "whose",
             "image",
             "study",
@@ -229,28 +228,60 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "alvocidib",
+            "gemcitabine hydrochloride",
+            "3-dimensional conformal radiation therapy",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "conformal",
+            "radiation",
+            "therapy",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "alvocidib",
+            "gemcitabine",
+            "hydrochloride",
+            "alvocidib",
+            "gemcitabine",
+            "hydrochloride",
+            "alvocidib",
+            "gemcitabine",
+            "hydrochloride",
             "alvocidib",
             "gemcitabine",
             "hydrochloride"
       ],
-      "other_name": [],
+      "other_name": [
+            "1275",
+            "hydrochloride",
+            "conformal",
+            "radiation",
+            "therapy"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -431,12 +462,15 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047307.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00047307"
 }

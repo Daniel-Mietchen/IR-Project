@@ -54,15 +54,16 @@
             "spasticity"
       ],
       "condition": [
-            "stroke"
+            "sclerosis",
+            "spasticity",
+            "cord",
+            "injury"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tizanidine",
-            "hydrochloride",
-            "capsule"
+            "tizanidine hydrochloride capsule"
       ],
       "criteria": [
             "inclusion",
@@ -242,12 +243,21 @@
             "duration",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047580.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "cord",
+            "injury",
+            "spasticity"
+      ],
+      "id": "NCT00047580"
 }

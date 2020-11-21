@@ -147,22 +147,22 @@
             "specimen"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "low",
-            "dose",
-            "radioactive",
-            "seed",
-            "follow",
-            "surgery",
-            "mammogram"
+            "Needle localized breast biopsy with specimen x-ray",
+            "Low dose radioactive seed followed by surgery and mammogram"
       ],
       "arm_group_label": [
+            "ii",
+            "needle",
+            "localize",
+            "breast",
+            "biopsy",
             "radioactive",
             "seed",
             "localize",
@@ -170,7 +170,6 @@
             "biopsy"
       ],
       "description": [
-            "either",
             "iodine",
             "125",
             "palladium",
@@ -230,12 +229,16 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nonpalpable",
+            "lesion"
+      ],
+      "id": "NCT00006031"
 }

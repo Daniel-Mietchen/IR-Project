@@ -134,31 +134,36 @@
             "study"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder",
             "psychotic",
             "feature"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "Olanzapine",
+            "Sertraline",
             "placebo"
       ],
       "description": [
-            "tablet",
             "ressembles",
             "sertraline",
             "contain",
             "medication"
       ],
       "arm_group_label": [
-            "olanzapine",
+            "combination",
+            "plus",
+            "placebo",
+            "combination",
             "plus",
             "placebo"
       ],
-      "other_name": [
-            "zoloft"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -193,12 +198,26 @@
             "ssri",
             "olanzapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056472.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atypical",
+            "antipsychotic"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "disorder",
+            "disorder",
+            "uptake",
+            "inhibitor",
+            "agent"
+      ],
+      "id": "NCT00056472"
 }

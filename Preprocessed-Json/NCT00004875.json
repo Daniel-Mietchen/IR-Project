@@ -140,7 +140,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -148,13 +147,14 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "enoxaparin",
             "heparin"
       ],
       "arm_group_label": [
-            "standard",
             "heparin"
       ],
       "study_pop": [],
@@ -350,12 +350,21 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004875.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "heparin"
+      ],
+      "id": "NCT00004875"
 }

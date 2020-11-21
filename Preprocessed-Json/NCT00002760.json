@@ -161,21 +161,44 @@
             "patient"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "withdrawal",
-            "antiandrogen",
-            "therapy"
+            "ketoconazole",
+            "therapeutic hydrocortisone",
+            "Withdrawal of antiandrogen therapy"
       ],
       "description": [
+            "mg",
+            "po",
+            "tid",
+            "long",
+            "treatment",
+            "effective",
+            "30",
+            "mg",
+            "po",
+            "q",
+            "10",
+            "mg",
+            "po",
+            "qhs",
+            "long",
+            "treatment",
+            "effective",
             "drug",
             "give"
       ],
       "arm_group_label": [
-            "antiandrogen",
+            "withdrawal",
+            "therapy",
+            "withdrawal",
+            "therapy",
             "withdrawal"
       ],
       "criteria": [
@@ -373,14 +396,23 @@
             "orchiectomy",
             "allow"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002760.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "succinate",
+            "acetate",
+            "antagonist"
+      ],
+      "id": "NCT00002760"
 }

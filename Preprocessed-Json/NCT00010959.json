@@ -111,15 +111,14 @@
             "one",
             "year"
       ],
-      "condition": [
-            "menopause"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "trifolium",
-            "pratense"
+            "Cimicifuga racemosa",
+            "Trifolium pratense"
       ],
       "criteria": [
             "inclusion",
@@ -186,9 +185,7 @@
             "unavailable",
             "followup"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -197,6 +194,9 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010959.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "botanical"
+      ],
+      "id": "NCT00010959"
 }

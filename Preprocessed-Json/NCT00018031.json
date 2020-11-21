@@ -419,17 +419,25 @@
             "individual"
       ],
       "condition": [
-            "hiv",
+            "c",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ribavirin"
+            "Peginterferon alfa-2b",
+            "Ribavirin"
       ],
       "description": [
-            "weight",
+            "injection",
+            "48",
+            "week",
+            "dose",
+            "per",
+            "week",
+            "subcutaneously",
             "base",
             "ribavirin",
             "dose",
@@ -442,11 +450,9 @@
             "48",
             "week"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "ca",
+            "redipen",
             "number"
       ],
       "criteria": [
@@ -795,12 +801,20 @@
             "antiretroviral",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis",
+            "c"
+      ],
+      "mesh_term": [
+            "c",
+            "infection"
+      ],
+      "id": "NCT00018031"
 }

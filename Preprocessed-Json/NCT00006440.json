@@ -173,7 +173,6 @@
             "effort"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -289,14 +288,22 @@
             "interfere",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006440.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "feasibility",
+            "study"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00006440"
 }

@@ -119,13 +119,14 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rV-DF3/MUC1"
+      ],
       "description": [
             "start",
             "dose",
@@ -133,7 +134,6 @@
             "study",
             "x",
             "106",
-            "pfu",
             "dose",
             "escalation",
             "proceed",
@@ -143,18 +143,12 @@
             "patient",
             "follow",
             "per",
-            "vaccination",
-            "level",
             "1",
             "x",
             "106",
-            "pfu",
-            "level",
             "2",
             "x",
             "107",
-            "pfu",
-            "level",
             "3",
             "x",
             "108",
@@ -475,12 +469,20 @@
             "3",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003761.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003761"
 }

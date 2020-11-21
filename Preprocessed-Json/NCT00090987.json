@@ -109,18 +109,14 @@
             "1",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "imatinib mesylate"
       ],
       "description": [
-            "400",
             "mg",
             "orally",
             "day",
@@ -128,12 +124,9 @@
             "month"
       ],
       "arm_group_label": [
-            "imatinib",
             "mesylate"
       ],
-      "other_name": [
-            "gleevec"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -153,10 +146,7 @@
             "oral",
             "cavity",
             "gastrointestinal",
-            "tract",
-            "lung",
             "note",
-            "must",
             "asymptomatic",
             "minimally",
             "symptomatic",
@@ -456,12 +446,21 @@
             "treatment",
             "option"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090987.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "mesylate"
+      ],
+      "id": "NCT00090987"
 }

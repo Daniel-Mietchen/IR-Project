@@ -148,15 +148,15 @@
             "month"
       ],
       "condition": [
-            "herpes",
+            "simplex",
+            "infection",
             "genitalis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valacyclovir",
-            "hydrochloride"
+            "Valacyclovir hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -297,12 +297,20 @@
             "famciclovir",
             "ganciclovir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005663.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "valacyclovir"
+      ],
+      "mesh_term": [
+            "infection",
+            "simplex",
+            "genitalis"
+      ],
+      "id": "NCT00005663"
 }

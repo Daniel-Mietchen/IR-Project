@@ -249,17 +249,15 @@
             "week"
       ],
       "condition": [
-            "major",
             "depression"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hypericum",
-            "perforatum",
-            "john",
-            "wort"
+            "Sertraline",
+            "Hypericum perforatum (St. John's wort)"
       ],
       "criteria": [
             "inclusion",
@@ -579,12 +577,21 @@
             "procedure",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005013.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alternative",
+            "medicine"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00005013"
 }

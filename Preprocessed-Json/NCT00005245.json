@@ -279,21 +279,30 @@
             "differential"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "ischemia",
+            "disorder",
             "accident"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005245.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "ischemia",
+            "artery",
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00005245"
 }

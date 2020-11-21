@@ -340,18 +340,38 @@
             "medication"
       ],
       "condition": [
-            "sleep",
+            "mellitus",
+            "disease",
             "apnea",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Orlistat",
+            "Placebo"
       ],
       "description": [
+            "receive",
+            "drug",
+            "6",
+            "month",
+            "plus",
+            "12",
+            "week",
+            "intensive",
+            "behavioral",
+            "weight",
+            "los",
+            "program",
             "subject",
+            "return",
+            "monthly",
+            "visit",
+            "3",
+            "month",
             "receive",
             "drug",
             "6",
@@ -371,11 +391,10 @@
             "3",
             "month"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "placebo",
+            "orlistat",
+            "capsule",
             "capsule"
       ],
       "criteria": [
@@ -800,7 +819,7 @@
             "cycle",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -809,6 +828,16 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001723.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "obesity"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00001723"
 }

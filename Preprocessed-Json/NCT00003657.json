@@ -34,7 +34,24 @@
             "dose"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "unknown",
+            "primary",
+            "germ",
+            "cell",
+            "tumor",
+            "neck",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
+            "germ",
+            "cell",
+            "tumor",
             "adult",
             "solid",
             "tumor",
@@ -42,24 +59,42 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "Amifostine",
+            "Carboplatin",
+            "Etoposide",
+            "Ifosfamide",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "high",
+            "dose",
+            "icf",
+            "amifostine",
+            "dose",
+            "icf",
+            "amifostine",
+            "dose",
+            "icf",
+            "amifostine",
+            "dose",
+            "icf",
+            "amifostine",
+            "dose",
+            "icf",
+            "amifostine",
             "dose",
             "icf",
             "amifostine"
       ],
-      "other_name": [
-            "ifex"
-      ],
+      "other_name": [],
       "criteria": [
             "eligibility",
             "criterion",
@@ -226,7 +261,7 @@
             "administration",
             "ethyol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -235,6 +270,35 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003657.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "bladder",
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "neoplasm",
+            "unknown",
+            "primary",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003657"
 }

@@ -255,7 +255,10 @@
             "ii"
       ],
       "condition": [
-            "complex",
+            "regional",
+            "pain",
+            "syndrome",
+            "type",
             "regional",
             "pain",
             "syndrome",
@@ -263,22 +266,28 @@
             "ii"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "neurotropin"
+            "Placebo",
+            "Neurotropin"
       ],
       "description": [
-            "4",
+            "tab",
             "tab"
       ],
       "arm_group_label": [
+            "first",
+            "neurotropin",
+            "first",
+            "placebo",
+            "first",
             "neurotropin",
             "first",
             "placebo"
       ],
       "other_name": [
-            "drug",
             "b"
       ],
       "criteria": [
@@ -438,12 +447,26 @@
             "adequate",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006289.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "regional",
+            "pain",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disorder",
+            "regional",
+            "pain",
+            "syndrome",
+            "sympathetic",
+            "dystrophy"
+      ],
+      "id": "NCT00006289"
 }

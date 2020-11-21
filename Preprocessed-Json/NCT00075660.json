@@ -146,11 +146,10 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "triapine"
@@ -179,7 +178,6 @@
             "1",
             "unidimensionally",
             "measurable",
-            "lesion",
             "least",
             "20",
             "mm",
@@ -206,7 +204,6 @@
             "progression",
             "site",
             "note",
-            "bone",
             "lesion",
             "consider",
             "measurable",
@@ -233,9 +230,7 @@
             "count",
             "least",
             "dehydrogenase",
-            "deficiency",
             "note",
-            "screen",
             "deficiency",
             "require",
             "patient",
@@ -435,12 +430,24 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075660.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00075660"
 }

@@ -183,19 +183,24 @@
             "diabetes",
             "mellitus"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "30,000 units hrINF-alpha",
+            "5,000 hrINF-alpha",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "unit"
       ],
       "other_name": [
-            "human",
+            "recombinant",
             "recombinant"
       ],
       "description": [
-            "placebo",
             "prepare",
             "saline",
             "alone",
@@ -339,7 +344,7 @@
             "several",
             "subtypes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -348,6 +353,15 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00024518.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tibm"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00024518"
 }

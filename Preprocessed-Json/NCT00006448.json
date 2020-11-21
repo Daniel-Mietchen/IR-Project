@@ -155,13 +155,19 @@
             "interview"
       ],
       "condition": [
-            "pain"
+            "cord",
+            "injury",
+            "traumatic"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "methadone"
+            "cognitive therapy",
+            "Physical Therapy",
+            "Methadone"
       ],
       "criteria": [
             "inclusion",
@@ -198,7 +204,7 @@
             "psychiatric",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -207,6 +213,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006448.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain",
+            "management"
+      ],
+      "mesh_term": [
+            "injury",
+            "cord",
+            "injury",
+            "traumatic"
+      ],
+      "id": "NCT00006448"
 }

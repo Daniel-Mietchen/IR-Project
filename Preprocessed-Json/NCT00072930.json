@@ -51,29 +51,27 @@
             "aipc"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "docetaxel",
-            "prednisone",
-            "zoledronic",
-            "acid"
+            "MEDI-522",
+            "Docetaxel + Prednisone* + Zoledronic Acid"
       ],
       "description": [
-            "iv",
+            "concentration",
+            "50",
+            "vial",
             "75",
             "iv",
             "mg",
             "5",
             "mg"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -740,14 +738,16 @@
             "inform",
             "consent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072930.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00072930"
 }

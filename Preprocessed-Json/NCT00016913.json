@@ -190,18 +190,51 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "leuprolide",
-            "goserelin",
-            "acetate"
+            "carboplatin",
+            "estramustine",
+            "paclitaxel",
+            "radiation therapy",
+            "leuprolide or goserelin acetate"
       ],
       "description": [
+            "week",
+            "one",
+            "4",
+            "week",
+            "cycle",
+            "tablet",
+            "tid",
+            "po",
+            "5",
+            "7",
+            "day",
+            "per",
+            "week",
+            "4",
+            "week",
+            "cycle",
+            "iv",
+            "infusion",
+            "1",
+            "hour",
+            "weekly",
+            "ea",
+            "4",
+            "week",
+            "cycle",
+            "gy",
+            "gy",
+            "fraction",
             "mg",
             "im",
             "injection",
@@ -212,6 +245,22 @@
             "month"
       ],
       "arm_group_label": [
+            "chemotx",
+            "ablation",
+            "prior",
+            "rt",
+            "chemotx",
+            "ablation",
+            "prior",
+            "rt",
+            "chemotx",
+            "ablation",
+            "prior",
+            "rt",
+            "chemotx",
+            "ablation",
+            "prior",
+            "rt",
             "chemotx",
             "ablation",
             "prior",
@@ -418,14 +467,22 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016913.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00016913"
 }

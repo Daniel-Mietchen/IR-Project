@@ -313,6 +313,8 @@
             "response"
       ],
       "condition": [
+            "disorder",
+            "disorder",
             "depression"
       ],
       "criteria": [
@@ -593,9 +595,7 @@
             "inform",
             "consent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -604,6 +604,15 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001481.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mood",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "postpartum"
+      ],
+      "id": "NCT00001481"
 }

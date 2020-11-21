@@ -156,14 +156,26 @@
             "year"
       ],
       "condition": [
-            "small",
+            "cancer",
+            "cancer",
+            "carcinoid",
+            "tumor",
+            "stromal",
+            "tumor",
+            "cancer",
+            "cavity",
+            "cancer",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "cisplatin",
             "floxuridine"
       ],
       "criteria": [
@@ -281,12 +293,30 @@
             "residual",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005049.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gastrointestinal",
+            "stromal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "tumor",
+            "neoplasm",
+            "stromal",
+            "tumor",
+            "tumor",
+            "neoplasm",
+            "carcinoid",
+            "syndrome",
+            "neoplasm"
+      ],
+      "id": "NCT00005049"
 }

@@ -264,17 +264,19 @@
             "month"
       ],
       "condition": [
-            "precancerous",
+            "skin",
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "procedure"
+            "Genetic",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "evaluation",
-            "cancer",
-            "risk",
-            "factor"
+            "microarray analysis",
+            "biopsy",
+            "evaluation of cancer risk factors"
       ],
       "criteria": [
             "disease",
@@ -422,7 +424,7 @@
             "test",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -431,6 +433,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099112.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "actinic",
+            "keratosis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00099112"
 }

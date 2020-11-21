@@ -375,27 +375,85 @@
             "2009"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tetanus",
-            "peptide",
-            "melanoma",
-            "vaccine"
+            "incomplete Freund's adjuvant",
+            "melanoma helper peptide vaccine",
+            "multi-epitope melanoma peptide vaccine",
+            "sargramostim",
+            "tetanus peptide melanoma vaccine"
       ],
       "description": [
-            "give",
+            "injection",
+            "injection",
+            "injection",
+            "injection",
             "injection"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "iv",
+            "iii",
+            "iv",
+            "ii",
+            "iii",
+            "ii",
+            "iii",
+            "iv",
             "ii"
       ],
-      "other_name": [],
+      "other_name": [
+            "melanoma",
+            "helper",
+            "peptide",
+            "restrict",
+            "class",
+            "ii",
+            "mhc",
+            "molecule",
+            "restrict",
+            "molecule",
+            "class",
+            "ii",
+            "peptide",
+            "melanoma",
+            "peptide",
+            "melanocyte",
+            "differentiation",
+            "protein",
+            "mdp",
+            "cancer",
+            "testis",
+            "antigen",
+            "cta",
+            "melanoma",
+            "peptide",
+            "restrict",
+            "class",
+            "mhc",
+            "molecule",
+            "restrict",
+            "molecule",
+            "colony",
+            "stimulate",
+            "factor",
+            "tetanus",
+            "peptide",
+            "restrict",
+            "class",
+            "ii",
+            "mhc",
+            "molecule"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -735,12 +793,20 @@
             "visceral",
             "involvement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00071981"
 }

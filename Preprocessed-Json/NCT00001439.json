@@ -116,16 +116,12 @@
             "prior",
             "immunization"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "human",
-            "melanoma",
-            "peptide"
+            "gp100 human melanoma peptide"
       ],
       "criteria": [
             "disease",
@@ -227,9 +223,16 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001439.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00001439"
 }

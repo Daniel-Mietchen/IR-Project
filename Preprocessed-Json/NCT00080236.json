@@ -95,17 +95,31 @@
             "organ"
       ],
       "condition": [
-            "carcinoma",
+            "transplantation",
             "hepatocellular"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "IDN-6556",
+            "Placebo"
       ],
       "arm_group_label": [
-            "donor",
+            "organ",
+            "recipient",
+            "placebo",
+            "organ",
+            "5",
+            "recipient",
+            "organ",
+            "15",
+            "recipient",
+            "organ",
+            "placebo",
+            "recipient",
+            "placebo",
             "organ",
             "recipient",
             "placebo"
@@ -138,12 +152,20 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080236.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "transplantation"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "inhibitor"
+      ],
+      "id": "NCT00080236"
 }

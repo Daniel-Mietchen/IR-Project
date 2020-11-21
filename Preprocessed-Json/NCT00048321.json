@@ -70,15 +70,13 @@
             "canada"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "isi",
-            "104838"
+            "ISIS 104838"
       ],
       "criteria": [
             "inclusion",
@@ -178,12 +176,15 @@
             "bleed",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048321.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00048321"
 }

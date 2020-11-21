@@ -398,7 +398,6 @@
             "design"
       ],
       "condition": [
-            "lyme",
             "disease"
       ],
       "criteria": [
@@ -979,12 +978,19 @@
             "1",
             "etc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001539.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "chronic",
+            "symptom"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001539"
 }

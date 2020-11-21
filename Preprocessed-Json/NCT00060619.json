@@ -182,15 +182,19 @@
             "clinic"
       ],
       "condition": [
-            "abdominal",
             "pain"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "parent",
-            "education"
+            "thermal biofeedback",
+            "relaxation training",
+            "cognitive coping skills",
+            "parent education"
       ],
       "criteria": [
             "inclusion",
@@ -238,7 +242,7 @@
             "moderate",
             "severity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -247,6 +251,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060619.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "psychological",
+            "assessment"
+      ],
+      "mesh_term": [
+            "disorder",
+            "pain"
+      ],
+      "id": "NCT00060619"
 }

@@ -635,14 +635,16 @@
             "coverage"
       ],
       "condition": [
+            "mediterranean",
+            "fever",
             "still",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "trap"
+            "IL-1 Trap"
       ],
       "arm_group_label": [
             "trap"
@@ -1299,12 +1301,24 @@
             "entry",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094900.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autoinflammatory",
+            "disease"
+      ],
+      "mesh_term": [
+            "mediterranean",
+            "fever",
+            "autoinflammatory",
+            "disease",
+            "still",
+            "disease"
+      ],
+      "id": "NCT00094900"
 }

@@ -233,21 +233,14 @@
             "response"
       ],
       "condition": [
-            "carcinoma",
             "renal",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "allogeneic",
-            "dc",
-            "autologous",
-            "rcc",
-            "tumor",
-            "derive",
-            "cell"
+            "Allogeneic DCs and Autologous RCC Tumor Derived Cells"
       ],
       "criteria": [
             "inclusion",
@@ -581,12 +574,20 @@
             "screen",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050323.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer",
+            "general"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00050323"
 }

@@ -137,7 +137,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
@@ -145,11 +144,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "carboplatin",
+            "irinotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -342,7 +342,7 @@
             "gabapentin",
             "neurontin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -351,6 +351,15 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00024284.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "childhood",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00024284"
 }

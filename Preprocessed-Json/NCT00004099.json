@@ -245,15 +245,19 @@
             "year"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "leucovorin calcium",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -427,7 +431,7 @@
             "laser",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -436,6 +440,14 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004099.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mix",
+            "adenocarcinoma",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004099"
 }

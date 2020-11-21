@@ -137,7 +137,8 @@
             "effect"
       ],
       "condition": [
-            "vision",
+            "retinopathy",
+            "degeneration",
             "subnormal"
       ],
       "criteria": [
@@ -156,9 +157,18 @@
             "scatter",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001346.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "effect"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "disease",
+            "retinopathy",
+            "low"
+      ],
+      "id": "NCT00001346"
 }

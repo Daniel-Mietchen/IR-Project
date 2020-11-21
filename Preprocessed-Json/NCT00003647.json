@@ -179,13 +179,20 @@
             "study"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "melanoma",
+            "iii",
+            "melanoma",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "allovectin-7",
+            "allovectin-7/dacarbazine",
             "dacarbazine"
       ],
       "criteria": [
@@ -358,11 +365,16 @@
             "psychiatric",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00003647.xml"
+      "keyword": [
+            "stage",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003647"
 }

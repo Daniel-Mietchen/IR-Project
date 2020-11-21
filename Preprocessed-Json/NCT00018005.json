@@ -224,17 +224,24 @@
             "function"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
             "failure",
             "congestive"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Behavioral",
+            "Other"
+      ],
       "intervention_name": [
-            "attention",
-            "control"
+            "Self-Management",
+            "attention control"
       ],
       "description": [
-            "18",
+            "group",
+            "session",
+            "provide",
+            "train",
             "educational",
             "mail",
             "follow",
@@ -302,9 +309,19 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "behavioral",
+            "clinical",
+            "trial"
+      ],
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00018005"
 }

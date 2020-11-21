@@ -187,7 +187,6 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
@@ -195,19 +194,25 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "irinotecan hydrochloride",
+            "vincristine sulfate"
       ],
       "arm_group_label": [
-            "vincristine",
+            "sulfate",
+            "irinotecan",
+            "sulfate",
+            "irinotecan",
+            "sulfate",
+            "irinotecan",
             "sulfate",
             "irinotecan"
       ],
       "other_name": [
-            "nsc",
+            "616348",
             "067574"
       ],
       "criteria": [
@@ -407,7 +412,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -416,6 +421,15 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006095.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "childhood",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006095"
 }

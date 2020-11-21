@@ -194,16 +194,25 @@
             "year"
       ],
       "condition": [
+            "versus",
+            "host",
+            "disease",
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "busulfan",
+            "melphalan",
+            "methotrexate",
+            "tacrolimus",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -392,9 +401,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014469.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "v",
+            "host",
+            "disease",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00014469"
 }

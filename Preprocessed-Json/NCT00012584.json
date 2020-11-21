@@ -253,14 +253,20 @@
             "arrange"
       ],
       "condition": [
-            "generalize",
+            "deficit",
+            "hyperactivity",
+            "disorder",
+            "separation",
+            "phobia",
             "anxiety",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "methylphenidate",
             "fluvoxamine"
       ],
       "criteria": [
@@ -292,7 +298,7 @@
             "another",
             "stimulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -301,6 +307,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012584.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "deficit",
+            "disorder",
+            "hyperactivity",
+            "disorder",
+            "separation"
+      ],
+      "id": "NCT00012584"
 }

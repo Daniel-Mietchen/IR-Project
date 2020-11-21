@@ -213,18 +213,63 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cyclophosphamide",
+            "filgrastim",
+            "recombinant interferon alfa",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "description": [
-            "total",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "day",
+            "daily",
+            "subcutaneously",
+            "sq",
+            "start",
+            "day",
+            "5",
+            "continue",
+            "completion",
+            "leukapheresis",
+            "patient",
+            "also",
+            "receive",
+            "iv",
+            "start",
+            "day",
+            "0",
+            "continue",
+            "blood",
+            "count",
+            "recover",
+            "day",
+            "1",
+            "subcutaneous",
+            "sq",
+            "daily",
+            "administration",
+            "absence",
+            "unacceptable",
+            "toxicity",
+            "disease",
+            "progression",
+            "receive",
+            "pbsc",
+            "transplantation",
+            "day",
+            "0",
             "body",
             "irradiation",
             "twice",
@@ -232,11 +277,15 @@
             "day"
       ],
       "arm_group_label": [
-            "patient",
+            "cml",
+            "cml",
+            "cml",
+            "cml",
             "cml"
       ],
       "other_name": [
-            "irradiation"
+            "marrow",
+            "transplant"
       ],
       "criteria": [
             "inclusion",
@@ -328,12 +377,21 @@
             "chemotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005984.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "accelerate",
+            "phase",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid"
+      ],
+      "id": "NCT00005984"
 }

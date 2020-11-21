@@ -206,29 +206,60 @@
             "periodically"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "carcinoma",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Bevacizumab",
+            "Erlotinib Hydrochloride",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "bevacizumab",
+            "erlotinib",
+            "hydrochloride",
+            "bevacizumab",
             "erlotinib",
             "hydrochloride",
             "bevacizumab"
       ],
       "other_name": [
-            "tarceva"
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "rhumab",
+            "biosimilar",
+            "biosimilar",
+            "bi",
+            "695502",
+            "monoclonal",
+            "vascular",
+            "endothelial",
+            "growth",
+            "factor",
+            "disulfide",
+            "monoclonal",
+            "light",
+            "chain",
+            "dimer",
+            "humanize",
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -834,14 +865,20 @@
             "artery",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054132.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride",
+            "growth",
+            "factor",
+            "monoclonal",
+            "g"
+      ],
+      "id": "NCT00054132"
 }

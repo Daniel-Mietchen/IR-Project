@@ -95,7 +95,6 @@
             "field"
       ],
       "condition": [
-            "diagnostic",
             "image"
       ],
       "criteria": [
@@ -126,9 +125,12 @@
             "contraindication",
             "mri"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001194.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "radiofrequency"
+      ],
+      "id": "NCT00001194"
 }

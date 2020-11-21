@@ -37,14 +37,14 @@
             "400"
       ],
       "condition": [
-            "hiv",
+            "seropositivity",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "poly"
+            "poly I-poly C12U"
       ],
       "description": [
             "mg",
@@ -53,12 +53,8 @@
             "64",
             "week"
       ],
-      "arm_group_label": [
-            "ampligen"
-      ],
-      "other_name": [
-            "rintatolimod"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "1",
             "adult",
@@ -257,12 +253,21 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035893.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "seropositivity",
+            "u"
+      ],
+      "id": "NCT00035893"
 }

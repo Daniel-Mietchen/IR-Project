@@ -30,16 +30,20 @@
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vancomycin",
-            "nafcillin",
-            "oxacillin",
-            "cloxacillin"
+            "Telavancin",
+            "Vancomycin, nafcillin, oxacillin, or cloxacillin"
       ],
       "description": [
-            "vancomycin",
+            "iv",
+            "every",
+            "24",
+            "hr",
+            "14",
+            "day",
             "1",
             "gram",
             "every",
@@ -61,14 +65,11 @@
             "day"
       ],
       "arm_group_label": [
-            "vancomycin",
             "nafcillin",
             "oxacillin",
             "cloxacillin"
       ],
-      "other_name": [
-            "vibativ"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -114,12 +115,17 @@
             "teicoplanin",
             "linezolid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062647.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00062647"
 }

@@ -169,14 +169,16 @@
             "year"
       ],
       "condition": [
-            "quality",
+            "cancer",
             "life"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "amifostine trihydrate",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -265,14 +267,19 @@
             "prior",
             "antihypertensive"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004166.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004166"
 }

@@ -189,17 +189,13 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "autologous",
-            "dendritic",
-            "cell"
+            "therapeutic autologous dendritic cells"
       ],
       "criteria": [
             "disease",
@@ -452,14 +448,21 @@
             "azathioprine",
             "cyclosporine"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010127.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00010127"
 }

@@ -86,15 +86,17 @@
             "month"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "aluminum",
-            "hydroxide"
+            "MN rgp120/HIV-1 and GNE8 rgp120/HIV-1",
+            "MN rgp120/HIV-1 and A244 rgp120/HIV-1",
+            "Aluminum hydroxide"
       ],
       "criteria": [
             "patient",
@@ -106,12 +108,20 @@
             "risk",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002402.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "alum",
+            "compound"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide"
+      ],
+      "id": "NCT00002402"
 }

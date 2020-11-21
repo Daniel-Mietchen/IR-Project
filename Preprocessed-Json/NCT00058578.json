@@ -294,16 +294,21 @@
             "year"
       ],
       "condition": [
-            "systemic",
             "sclerosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "total",
-            "body",
-            "irradiation"
+            "Cyclophosphamide",
+            "Mesna",
+            "G-CSF",
+            "Leukopheresis",
+            "Total Body Irradiation"
       ],
       "criteria": [
             "eligibility",
@@ -512,7 +517,7 @@
             "pregnancy",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -521,6 +526,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058578.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "systemic",
+            "diffuse"
+      ],
+      "id": "NCT00058578"
 }

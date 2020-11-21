@@ -170,28 +170,72 @@
             "month"
       ],
       "condition": [
+            "dysgerminoma",
+            "malignant",
             "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "ovarian",
+            "germ",
+            "cell",
+            "tumor",
+            "ii",
+            "malignant",
+            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "ii",
+            "ovarian",
+            "germ",
+            "cell",
+            "tumor",
+            "iii",
+            "malignant",
+            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "iii",
+            "ovarian",
+            "germ",
+            "cell",
+            "tumor",
             "seminoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "surgical",
+            "resection",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
+            "surgical",
+            "resection",
+            "imatinib",
+            "mesylate",
+            "surgical",
+            "resection",
             "imatinib",
             "mesylate",
             "surgical",
             "resection"
       ],
       "other_name": [
-            "glivec"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -480,12 +524,20 @@
             "prophylaxis",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042952.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00042952"
 }

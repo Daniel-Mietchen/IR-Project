@@ -255,7 +255,9 @@
             "goal"
       ],
       "condition": [
-            "insulin",
+            "apnea",
+            "syndrome",
+            "disease",
             "resistance"
       ],
       "study_pop": [],
@@ -269,7 +271,7 @@
             "sleep",
             "apnea"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -278,6 +280,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083798.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease",
+            "resistance"
+      ],
+      "id": "NCT00083798"
 }

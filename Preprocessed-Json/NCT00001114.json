@@ -214,14 +214,16 @@
             "ddi"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Interferon alfa-2b",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -514,12 +516,17 @@
             "noncompliant",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001114.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00001114"
 }

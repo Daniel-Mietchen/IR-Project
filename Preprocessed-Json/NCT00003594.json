@@ -285,17 +285,34 @@
             "2002"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "irinotecan",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "arm_group_label": [
-            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "irinotecan",
+            "leucovorin",
+            "fluorouracil",
+            "leucovorin",
+            "fluorouracil",
+            "leucovorin",
+            "fluorouracil",
+            "leucovorin",
+            "fluorouracil",
+            "leucovorin",
+            "fluorouracil",
             "irinotecan"
       ],
       "criteria": [
@@ -632,12 +649,20 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003594.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "dietary"
+      ],
+      "id": "NCT00003594"
 }

@@ -200,7 +200,23 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
             "iv",
             "squamous",
             "cell",
@@ -208,22 +224,18 @@
             "oropharynx"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "romidepsin"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "romidepsin"
       ],
-      "other_name": [
-            "istodax"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -500,12 +512,19 @@
             "hiv",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084682.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00084682"
 }

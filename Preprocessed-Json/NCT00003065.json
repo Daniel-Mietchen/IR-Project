@@ -118,15 +118,17 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "filgrastim",
+            "paclitaxel",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -265,9 +267,7 @@
             "prior",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -276,6 +276,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003065.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00003065"
 }

@@ -183,16 +183,18 @@
             "approximately",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "sargramostim",
+            "therapeutic allogeneic lymphocytes",
+            "allogeneic bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -400,7 +402,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -409,6 +411,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002778.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atypical",
+            "chronic",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002778"
 }

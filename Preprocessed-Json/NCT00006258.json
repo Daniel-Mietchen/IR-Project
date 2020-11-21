@@ -221,18 +221,30 @@
             "study"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "methotrexate",
+            "vincristine sulfate",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -318,7 +330,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -327,6 +339,24 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006258.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "supratentorial",
+            "primitive",
+            "neuroectodermal",
+            "tumor",
+            "pnet"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00006258"
 }

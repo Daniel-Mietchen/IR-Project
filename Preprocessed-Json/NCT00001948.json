@@ -260,7 +260,6 @@
             "test"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -296,9 +295,16 @@
             "standard",
             "english"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001948.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "physical",
+            "symptom"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001948"
 }

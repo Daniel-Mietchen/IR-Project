@@ -77,14 +77,14 @@
             "take",
             "mouth"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan"
+            "R115777 (farnesyl transferase inhibitor)",
+            "Topotecan"
       ],
       "criteria": [
             "inclusion",
@@ -178,12 +178,17 @@
             "prior",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006199.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "solid",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006199"
 }

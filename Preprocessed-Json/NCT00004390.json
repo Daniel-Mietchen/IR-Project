@@ -132,13 +132,18 @@
             "week"
       ],
       "condition": [
-            "herpes",
             "zoster"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "desipramine",
+            "methadone",
+            "morphine",
             "nortriptyline"
       ],
       "criteria": [
@@ -212,7 +217,7 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -221,6 +226,13 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004390.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "infection"
+      ],
+      "mesh_term": [
+            "zoster"
+      ],
+      "id": "NCT00004390"
 }

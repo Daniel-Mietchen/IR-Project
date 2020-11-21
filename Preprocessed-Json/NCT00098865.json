@@ -117,16 +117,35 @@
             "40"
       ],
       "condition": [
-            "neuroblastoma"
+            "nervous",
+            "system",
+            "tumor",
+            "pediatric"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "temozolomide",
             "thalidomide"
       ],
       "description": [
-            "calculate",
+            "lower",
+            "temozolomide",
+            "dose",
+            "patient",
+            "previously",
+            "receive",
+            "significant",
+            "therapy",
+            "bone",
+            "marrow",
+            "chemotherapy",
+            "radiation",
+            "cranial",
+            "spinal",
+            "raditation",
             "dose",
             "round",
             "nearest",
@@ -149,17 +168,14 @@
             "dose"
       ],
       "arm_group_label": [
-            "thalidomide",
+            "temozolomide",
             "temozolomide"
       ],
-      "other_name": [
-            "thalamid"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "diagnosis",
             "1",
             "follow",
@@ -177,7 +193,6 @@
             "recurrent",
             "disease",
             "note",
-            "histologic",
             "confirmation",
             "require",
             "brain",
@@ -342,12 +357,19 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00098865.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00098865"
 }

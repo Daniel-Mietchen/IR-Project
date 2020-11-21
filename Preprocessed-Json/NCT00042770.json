@@ -263,21 +263,22 @@
             "day"
       ],
       "condition": [
-            "pulmonary",
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "dyspnea",
-            "management"
+            "talc",
+            "dyspnea management"
       ],
       "description": [
+            "intrapleurally",
             "talc"
       ],
       "arm_group_label": [
-            "arm",
             "ii"
       ],
       "criteria": [
@@ -454,12 +455,22 @@
             "thoracentesis",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042770.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "complication"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "effusion",
+            "effusion",
+            "malignant"
+      ],
+      "id": "NCT00042770"
 }

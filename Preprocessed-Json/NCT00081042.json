@@ -153,16 +153,13 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "nanoparticle",
-            "formulation"
+            "paclitaxel albumin-stabilized nanoparticle formulation"
       ],
       "criteria": [
             "disease",
@@ -378,12 +375,20 @@
             "indinavir",
             "nelfinavir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081042.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00081042"
 }

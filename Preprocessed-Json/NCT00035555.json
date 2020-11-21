@@ -38,17 +38,26 @@
             "mellitus"
       ],
       "condition": [
-            "renal",
+            "rejection",
+            "transplantation",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "corticosteroid"
+            "Belatacept",
+            "Cyclosporine",
+            "Mycophenolate mofetil (MMF)",
+            "Corticosteroids"
       ],
       "description": [
-            "corticosteroid",
+            "intravenous",
+            "capsule",
+            "capsule",
             "give",
             "daily",
             "orally",
@@ -114,7 +123,29 @@
             "daily"
       ],
       "arm_group_label": [
-            "cyclosporine",
+            "intensive",
+            "mi",
+            "regimen",
+            "le",
+            "intensive",
+            "li",
+            "regimen",
+            "regimen",
+            "intensive",
+            "mi",
+            "regimen",
+            "le",
+            "intensive",
+            "li",
+            "regimen",
+            "regimen",
+            "intensive",
+            "mi",
+            "regimen",
+            "le",
+            "intensive",
+            "li",
+            "regimen",
             "regimen"
       ],
       "other_name": [
@@ -327,12 +358,19 @@
             "1",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035555.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rejection"
+      ],
+      "mesh_term": [
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00035555"
 }

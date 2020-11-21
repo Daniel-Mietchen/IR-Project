@@ -193,7 +193,20 @@
             "size"
       ],
       "condition": [
-            "xxxxx",
+            "klinefelter",
+            "chromosome",
+            "variation",
+            "chromosome",
+            "aneuploidy",
+            "jacob",
+            "xo",
+            "turner",
+            "trisomy",
+            "x",
+            "triple",
+            "x",
+            "tetrasomy",
+            "x",
             "pentasomy",
             "x"
       ],
@@ -595,12 +608,22 @@
             "exception",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001246.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "twin"
+      ],
+      "mesh_term": [
+            "disorder",
+            "behavior",
+            "syndrome",
+            "system",
+            "disease"
+      ],
+      "id": "NCT00001246"
 }

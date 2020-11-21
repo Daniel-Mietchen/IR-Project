@@ -172,27 +172,40 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gemcitabine hydrochloride",
             "tanespimycin"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
             "chemotherapy"
       ],
-      "other_name": [],
+      "other_name": [
+            "hydrochloride"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -546,14 +559,18 @@
             "prolong",
             "qtc"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093496.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00093496"
 }

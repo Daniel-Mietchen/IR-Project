@@ -39,17 +39,14 @@
             "enrol"
       ],
       "condition": [
-            "diabetic",
             "macular",
             "edema"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pegaptanib",
-            "sodium",
-            "macugen"
+            "pegaptanib sodium (Macugen)"
       ],
       "criteria": [
             "inclusion",
@@ -64,12 +61,15 @@
             "fellow",
             "eye"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040313.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "edema"
+      ],
+      "id": "NCT00040313"
 }

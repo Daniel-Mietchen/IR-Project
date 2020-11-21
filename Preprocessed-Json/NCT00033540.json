@@ -155,18 +155,32 @@
             "month"
       ],
       "condition": [
-            "gallbladder",
+            "bile",
+            "duct",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "capecitabine",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "1000",
+            "twice",
+            "daily",
+            "bid",
+            "mouth",
+            "po",
+            "12",
+            "hour",
+            "interval",
+            "day",
+            "every",
+            "21",
+            "day",
             "intravenous",
             "iv",
             "100",
@@ -177,12 +191,10 @@
             "day"
       ],
       "arm_group_label": [
-            "capecitabine",
+            "gemcitabine",
             "gemcitabine"
       ],
-      "other_name": [
-            "gemzar"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -235,7 +247,6 @@
             "metastatic",
             "site",
             "clinical",
-            "documentation",
             "gallbladder",
             "bile",
             "duct",
@@ -521,12 +532,23 @@
             "therapy",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033540.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cholangiocarcinoma",
+            "extrahepatic",
+            "bile",
+            "duct"
+      ],
+      "mesh_term": [
+            "duct",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00033540"
 }

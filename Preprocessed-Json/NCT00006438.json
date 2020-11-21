@@ -111,16 +111,13 @@
             "gait"
       ],
       "condition": [
-            "diabetic",
             "foot"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "shoe",
-            "rocker",
-            "sole"
+            "Shoes with Rocker Soles"
       ],
       "criteria": [
             "inclusion",
@@ -148,7 +145,7 @@
             "verbal",
             "direction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -157,6 +154,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006438.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "gait",
+            "abnormality"
+      ],
+      "mesh_term": [
+            "foot"
+      ],
+      "id": "NCT00006438"
 }

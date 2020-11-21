@@ -293,12 +293,32 @@
             "14"
       ],
       "condition": [
-            "hyperglycemia"
+            "low",
+            "birth",
+            "weight"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alanine",
+            "amino acids",
+            "glucagon",
+            "glucose",
+            "glutamine",
+            "glycerol",
+            "insulin",
+            "leucine",
+            "lipids",
             "urea"
       ],
       "criteria": [
@@ -332,12 +352,20 @@
             "discernible",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005889.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "weight",
+            "weight"
+      ],
+      "id": "NCT00005889"
 }

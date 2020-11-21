@@ -388,16 +388,14 @@
             "trial"
       ],
       "condition": [
-            "lymphoproliferative",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fansidar",
-            "pyrimethamine",
-            "sulfadoxine"
+            "Fansidar (pyrimethamine and sulfadoxine)"
       ],
       "criteria": [
             "inclusion",
@@ -578,9 +576,24 @@
             "requirement",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013689.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autoimmune",
+            "lymphoproliferative",
+            "syndrome",
+            "alp"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "lymphoproliferative",
+            "syndrome",
+            "pyrimethamine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00013689"
 }

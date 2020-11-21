@@ -129,7 +129,7 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "complication",
             "childhood",
             "solid",
             "tumor",
@@ -137,15 +137,12 @@
             "specific"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement"
       ],
       "intervention_name": [
             "glutamine"
       ],
-      "description": [
-            "oral"
-      ],
+      "description": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -218,7 +215,7 @@
             "nonabsorbable",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -227,6 +224,10 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003898.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oral",
+            "complication"
+      ],
+      "id": "NCT00003898"
 }

@@ -156,11 +156,10 @@
             "visit"
       ],
       "condition": [
-            "ulcerative",
             "colitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "deligoparin"
@@ -221,7 +220,7 @@
             "breast",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -230,6 +229,9 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033943.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "ulcerative"
+      ],
+      "id": "NCT00033943"
 }

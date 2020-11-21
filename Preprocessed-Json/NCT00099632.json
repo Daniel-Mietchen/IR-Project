@@ -294,19 +294,38 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "single",
-            "dose",
-            "nevirapine"
+            "Emtricitabine/Tenofovir Disoproxil Fumarate",
+            "Lamivudine/Zidovudine",
+            "Lopinavir/Ritonavir",
+            "single dose Nevirapine"
       ],
       "description": [
             "one",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
+            "one",
+            "tablet",
+            "take",
+            "orally",
+            "twice",
+            "daily",
+            "three",
+            "capsule",
+            "take",
+            "orally",
+            "twice",
+            "daily",
             "200",
             "mg",
             "tablet",
@@ -315,7 +334,6 @@
       ],
       "arm_group_label": [],
       "other_name": [
-            "sd",
             "nvp"
       ],
       "criteria": [
@@ -473,14 +491,27 @@
             "week",
             "postpartum"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099632.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00099632"
 }

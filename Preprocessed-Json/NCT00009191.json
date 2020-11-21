@@ -213,14 +213,13 @@
             "health"
       ],
       "condition": [
-            "depression"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sertraline",
-            "zoloft"
+            "Sertraline [Zoloft]"
       ],
       "criteria": [
             "inclusion",
@@ -367,9 +366,13 @@
             "another",
             "antidepressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009191.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00009191"
 }

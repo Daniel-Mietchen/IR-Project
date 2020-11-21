@@ -276,15 +276,16 @@
             "patient"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
+            "neoplasm",
+            "metastasis",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "psc",
-            "833"
+            "PSC 833"
       ],
       "criteria": [
             "biopsy",
@@ -413,9 +414,17 @@
             "adequate",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001302.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "interaction"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00001302"
 }

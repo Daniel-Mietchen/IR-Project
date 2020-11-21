@@ -157,15 +157,17 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Lamivudine/Zidovudine",
+            "HIV-1 Immunogen",
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -193,12 +195,21 @@
             "take",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "combivir"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00005002"
 }

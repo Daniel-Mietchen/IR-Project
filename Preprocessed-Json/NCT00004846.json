@@ -261,14 +261,14 @@
             "enrollment"
       ],
       "condition": [
-            "hiv",
+            "c",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "001"
+            "ABC/Gen-Probe/Chiron HIV-1/HCV 001"
       ],
       "criteria": [
             "eligible",
@@ -302,9 +302,17 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004846.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "c",
+            "infection"
+      ],
+      "id": "NCT00004846"
 }

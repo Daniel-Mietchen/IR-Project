@@ -119,14 +119,15 @@
             "ad"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ibuprofen"
+            "Lovostatin",
+            "Ibuprofen"
       ],
       "criteria": [
             "inclusion",
@@ -216,9 +217,17 @@
             "disease",
             "history"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046358.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00046358"
 }

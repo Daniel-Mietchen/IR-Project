@@ -175,29 +175,42 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "oxaliplatin",
+            "bortezomib",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oxaliplatin",
+            "bortezomib",
+            "oxaliplatin",
+            "bortezomib",
+            "oxaliplatin",
+            "bortezomib",
             "oxaliplatin",
             "bortezomib"
       ],
       "other_name": [
-            "pharmacological",
+            "341",
             "study"
       ],
       "criteria": [
@@ -339,12 +352,13 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066625.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00066625"
 }

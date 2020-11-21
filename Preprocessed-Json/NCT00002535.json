@@ -205,13 +205,20 @@
             "cease"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "lymphokine-activated killer cells",
+            "therapeutic tumor infiltrating lymphocytes",
+            "cyclophosphamide",
             "indomethacin"
       ],
       "criteria": [
@@ -514,12 +521,17 @@
             "tumor",
             "collection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002535.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002535"
 }

@@ -31,13 +31,14 @@
             "drug"
       ],
       "condition": [
-            "colorectal",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "tezacitabine",
             "oxaliplatin"
       ],
       "criteria": [
@@ -63,12 +64,15 @@
             "treatment",
             "oxaliplatin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051688.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051688"
 }

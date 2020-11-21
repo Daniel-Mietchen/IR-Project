@@ -238,22 +238,51 @@
             "15",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "ibritumomab",
-            "tiuxetan"
+            "rituximab",
+            "Cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "radiation therapy",
+            "Yttrium-90 ibritumomab tiuxetan",
+            "Indium-111 ibritumomab tiuxetan"
       ],
       "description": [
-            "5",
+            "part",
+            "zevalin",
+            "regimen",
+            "mg",
+            "cgy",
+            "total",
             "mci"
       ],
       "arm_group_label": [
-            "chop",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
+            "rt",
+            "zevalin",
             "rt",
             "zevalin"
       ],
@@ -472,12 +501,24 @@
             "participation",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "monoclonal"
+      ],
+      "id": "NCT00070018"
 }

@@ -207,22 +207,20 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "mouse",
-            "membrane",
-            "antigen",
-            "plasmid",
-            "dna",
-            "vaccine"
+            "human prostate-specific membrane antigen plasmid DNA vaccine",
+            "mouse prostate-specific membrane antigen plasmid DNA vaccine"
       ],
       "arm_group_label": [
-            "mouse",
+            "psma",
+            "psma",
+            "psma",
             "psma"
       ],
       "criteria": [
@@ -411,12 +409,24 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096629.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00096629"
 }

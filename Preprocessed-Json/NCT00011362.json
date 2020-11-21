@@ -279,17 +279,52 @@
             "age"
       ],
       "condition": [
-            "bronchopulmonary",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
+            "premature",
             "dysplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone",
-            "late"
+            "Dexamethasone Early",
+            "Dexamethasone Late"
       ],
       "description": [
+            "course",
+            "dexamethasone",
+            "dose",
+            "give",
+            "twice",
+            "day",
+            "mg",
+            "per",
+            "kilogram",
+            "body",
+            "weight",
+            "per",
+            "dose",
+            "five",
+            "day",
+            "mg",
+            "mg",
+            "mg",
+            "per",
+            "kilogram",
+            "per",
+            "dose",
+            "three",
+            "day",
+            "follow",
+            "two",
+            "week",
             "saline",
             "two",
             "week",
@@ -310,9 +345,7 @@
             "week",
             "saline"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -362,12 +395,21 @@
             "nervous",
             "system"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "15",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011362.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "steroid"
+      ],
+      "mesh_term": [
+            "weight",
+            "dysplasia",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00011362"
 }

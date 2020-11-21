@@ -280,7 +280,8 @@
             "thereafter"
       ],
       "condition": [
-            "untreated",
+            "childhood",
+            "medulloblastoma",
             "childhood",
             "supratentorial",
             "primitive",
@@ -288,26 +289,58 @@
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "conformal",
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "cyclophosphamide",
+            "vincristine sulfate",
+            "etoposide",
+            "therapeutic conventional surgery",
+            "3-dimensional conformal radiation therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
+            "iv",
+            "po",
+            "surgery",
             "conformal",
             "radiation",
             "therapy"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "surgery",
+            "radiation",
+            "therapy",
+            "surgery",
+            "radiation",
+            "therapy",
+            "surgery",
+            "radiation",
+            "therapy",
+            "surgery",
+            "radiation",
+            "therapy",
+            "surgery",
+            "radiation",
+            "therapy",
             "surgery",
             "radiation",
             "therapy"
       ],
-      "other_name": [],
+      "other_name": [
+            "sulfate",
+            "pfs",
+            "conformal",
+            "radiation",
+            "therapy"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -360,12 +393,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006461.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "phosphate"
+      ],
+      "id": "NCT00006461"
 }

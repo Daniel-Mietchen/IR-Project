@@ -69,7 +69,17 @@
             "combination"
       ],
       "condition": [
-            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "cancer",
+            "iiia",
+            "non",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
             "iiib",
             "non",
             "small",
@@ -78,9 +88,11 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "S-3304"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -134,7 +146,7 @@
             "irradiation",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -143,6 +155,19 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078390.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unresectable",
+            "locally",
+            "advance",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "3304"
+      ],
+      "id": "NCT00078390"
 }

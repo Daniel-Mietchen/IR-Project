@@ -242,30 +242,67 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "rectum",
+            "ii",
+            "rectal",
+            "cancer",
             "iii",
             "rectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Radiation",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bevacizumab",
+            "fluorouracil",
+            "external beam radiation therapy",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "external",
+            "beam",
+            "radiation",
+            "therapy",
+            "surgery",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "fluorouracil",
+            "radiation",
+            "therapy",
+            "bevacizumab",
+            "fluorouracil",
+            "radiation",
+            "therapy",
+            "bevacizumab",
+            "fluorouracil",
+            "radiation",
+            "therapy",
+            "bevacizumab",
+            "fluorouracil",
+            "radiation",
+            "therapy",
             "bevacizumab",
             "fluorouracil",
             "radiation",
             "therapy"
       ],
       "other_name": [
-            "ebrt"
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf"
       ],
       "criteria": [
             "inclusion",
@@ -790,12 +827,16 @@
             "use",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052559.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00052559"
 }

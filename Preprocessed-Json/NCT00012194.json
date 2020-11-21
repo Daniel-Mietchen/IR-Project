@@ -160,30 +160,33 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "7-hydroxystaurosporine",
+            "cisplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "cisplatin",
+            "cisplatin",
             "cisplatin"
       ],
-      "other_name": [
-            "ddp"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -424,12 +427,13 @@
             "hear",
             "loss"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012194.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00012194"
 }

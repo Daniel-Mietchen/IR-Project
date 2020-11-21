@@ -266,16 +266,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "liposomal",
-            "amphotericin",
-            "b"
+            "caspofungin acetate",
+            "liposomal amphotericin B"
       ],
       "criteria": [
             "disease",
@@ -480,12 +478,22 @@
             "concurrent",
             "alcohol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008359.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00008359"
 }

@@ -43,14 +43,14 @@
             "best",
             "dose"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Intramuscular Olanzapine Depot",
+            "Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -163,7 +163,7 @@
             "visit",
             "1"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -172,6 +172,7 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088478.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00088478"
 }

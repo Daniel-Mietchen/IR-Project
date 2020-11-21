@@ -162,18 +162,20 @@
             "stenosis"
       ],
       "condition": [
-            "spinal",
             "stenosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "physical",
-            "therapy"
+            "Surgical decompression",
+            "Physical therapy"
       ],
       "description": [
-            "2",
+            "decompression",
+            "require",
+            "fusion",
             "physical",
             "therapy",
             "session",
@@ -185,12 +187,8 @@
             "home",
             "program"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "strengthen"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -232,12 +230,20 @@
             "metastatic",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022776.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "medical",
+            "rehabilitation"
+      ],
+      "mesh_term": [
+            "pathologic",
+            "stenosis"
+      ],
+      "id": "NCT00022776"
 }

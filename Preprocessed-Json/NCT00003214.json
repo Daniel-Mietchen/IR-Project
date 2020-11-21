@@ -174,13 +174,22 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "in vitro sensitivity-directed chemotherapy",
             "paclitaxel"
       ],
       "criteria": [
@@ -243,14 +252,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003214.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003214"
 }

@@ -225,17 +225,27 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "carboplatin",
+            "paclitaxel",
+            "conventional surgery"
       ],
       "arm_group_label": [
+            "chemo",
+            "follow",
+            "surgery",
+            "chemo",
+            "follow",
+            "surgery",
+            "chemo",
+            "follow",
             "surgery",
             "alone"
       ],
@@ -465,12 +475,24 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004011.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00004011"
 }

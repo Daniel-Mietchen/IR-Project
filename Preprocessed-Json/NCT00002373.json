@@ -117,14 +117,14 @@
             "56"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "maribavir"
+            "Maribavir"
       ],
       "criteria": [
             "inclusion",
@@ -438,14 +438,21 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002373.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002373"
 }

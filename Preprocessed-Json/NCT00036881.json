@@ -209,15 +209,21 @@
             "year"
       ],
       "condition": [
-            "radiation",
+            "neck",
+            "cancer",
+            "complication",
             "toxicity"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
+            "zinc sulfate",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "sulfate"
       ],
       "criteria": [
             "disease",
@@ -308,12 +314,17 @@
             "multivitamin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036881.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "sulfate"
+      ],
+      "id": "NCT00036881"
 }

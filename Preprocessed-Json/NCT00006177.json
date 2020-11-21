@@ -377,7 +377,7 @@
             "obtain"
       ],
       "condition": [
-            "mood",
+            "disorder",
             "disorder"
       ],
       "criteria": [
@@ -1183,7 +1183,7 @@
             "separation",
             "anxiety"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "42",
             "month"
@@ -1192,6 +1192,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006177.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "adolescent",
+            "bipolar"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00006177"
 }

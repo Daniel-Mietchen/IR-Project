@@ -139,21 +139,32 @@
             "month"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PEG-interferon alfa-2b",
+            "PEG-interferon alfa-2b",
+            "PEG-interferon alfa-2b"
+      ],
       "description": [
             "dose",
             "give",
-            "subcutaneously"
+            "subcutaneously",
+            "give",
+            "subcutaneously",
+            "give"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "iii"
       ],
       "other_name": [],
@@ -404,11 +415,19 @@
             "autoimmune",
             "disorder"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085384.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00085384"
 }

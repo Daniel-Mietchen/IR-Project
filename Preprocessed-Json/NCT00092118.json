@@ -39,19 +39,27 @@
             "rhinitis"
       ],
       "condition": [
-            "rhinitis",
             "allergic",
             "perennial"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "Montelukast",
+            "Comparator: Placebo"
       ],
       "description": [
-            "one",
+            "10",
+            "mg",
+            "tablet",
+            "take",
+            "daily",
+            "bed",
+            "time",
+            "6",
+            "week",
             "placebo",
             "tablet",
             "take",
@@ -61,9 +69,7 @@
             "6",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -93,7 +99,7 @@
             "tract",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -102,6 +108,11 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092118.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "allergic",
+            "allergic",
+            "perennial"
+      ],
+      "id": "NCT00092118"
 }

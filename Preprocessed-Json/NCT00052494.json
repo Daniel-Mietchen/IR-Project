@@ -197,17 +197,23 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "cisplatin",
+            "imatinib mesylate",
+            "irinotecan hydrochloride"
       ],
       "arm_group_label": [
+            "cisplatin",
+            "irinotecan",
+            "cisplatin",
+            "irinotecan",
             "cisplatin",
             "irinotecan"
       ],
@@ -446,9 +452,23 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052494.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "mesylate"
+      ],
+      "id": "NCT00052494"
 }

@@ -39,14 +39,12 @@
             "benefit",
             "exist"
       ],
-      "condition": [
-            "adenocarcinoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hemab"
+            "ING-1(heMAb)"
       ],
       "criteria": [
             "inclusion",
@@ -419,12 +417,19 @@
             "subject",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "monoclonal",
+            "antibody"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00051675"
 }

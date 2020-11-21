@@ -425,7 +425,6 @@
             "decease"
       ],
       "condition": [
-            "gaucher",
             "disease"
       ],
       "criteria": [
@@ -460,7 +459,7 @@
             "comply",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -469,6 +468,12 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029965.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gaucher"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00029965"
 }

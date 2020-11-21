@@ -114,14 +114,15 @@
             "determine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Nelfinavir mesylate",
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -226,7 +227,7 @@
             "therapy",
             "naive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -235,6 +236,13 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002380.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00002380"
 }

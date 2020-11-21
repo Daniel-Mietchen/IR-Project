@@ -191,17 +191,70 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "cisplatin",
+            "doxorubicin",
+            "mitomycin",
             "embolization"
       ],
       "description": [
-            "immediately",
+            "30",
+            "mg",
+            "mitomycin",
+            "30",
+            "mg",
+            "cisplatin",
+            "100",
+            "mg",
+            "powder",
+            "form",
+            "dissolve",
+            "cc",
+            "contrast",
+            "agent",
+            "isovue",
+            "optiray",
+            "30",
+            "mg",
+            "mitomycin",
+            "30",
+            "mg",
+            "cisplatin",
+            "100",
+            "mg",
+            "powder",
+            "form",
+            "dissolve",
+            "cc",
+            "contrast",
+            "agent",
+            "isovue",
+            "optiray",
+            "30",
+            "mg",
+            "mitomycin",
+            "30",
+            "mg",
+            "cisplatin",
+            "100",
+            "mg",
+            "powder",
+            "form",
+            "dissolve",
+            "cc",
+            "contrast",
+            "agent",
+            "isovue",
+            "optiray",
             "follow",
             "delivery",
             "chemoemulsion",
@@ -241,12 +294,25 @@
             "alcohol"
       ],
       "arm_group_label": [
-            "neuroendocrine",
+            "carcinoma",
+            "hepatic",
+            "metastasis",
+            "carcinoma",
+            "hepatic",
+            "metastasis",
+            "carcinoma",
+            "hepatic",
+            "metastasis",
+            "carcinoma",
             "hepatic",
             "metastasis"
       ],
       "other_name": [
-            "tace"
+            "ii",
+            "119875",
+            "rdf",
+            "pfs",
+            "chemoembolization"
       ],
       "criteria": [
             "inclusion",
@@ -346,12 +412,22 @@
             "contrast",
             "allergy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003907.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003907"
 }

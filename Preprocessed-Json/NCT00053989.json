@@ -192,7 +192,6 @@
             "day",
             "60",
             "follow",
-            "taper",
             "regimen",
             "patient",
             "receive",
@@ -320,23 +319,45 @@
             "year"
       ],
       "condition": [
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "umbilical",
-            "cord",
-            "blood",
-            "transplantation"
+            "anti-thymocyte globulin",
+            "graft-versus-tumor induction therapy",
+            "sargramostim",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "methylprednisolone",
+            "mycophenolate mofetil",
+            "tacrolimus",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "umbilical cord blood transplantation"
       ],
-      "description": [
-            "iv"
-      ],
-      "other_name": [
-            "fludara"
-      ],
+      "description": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -728,7 +749,7 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -737,6 +758,29 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053989.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "aplastic",
+            "disorder",
+            "disease",
+            "phosphate",
+            "serum",
+            "mofetil",
+            "acid",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00053989"
 }

@@ -184,16 +184,14 @@
             "year"
       ],
       "condition": [
-            "coronary",
             "artery",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "duplex",
-            "decoy"
+            "CGT003 (E2F Duplex Decoy)"
       ],
       "criteria": [
             "patient",
@@ -305,7 +303,7 @@
             "2400",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -314,6 +312,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042081.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "occlusion"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease"
+      ],
+      "id": "NCT00042081"
 }

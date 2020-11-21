@@ -304,7 +304,6 @@
             "endpoint"
       ],
       "condition": [
-            "hematologic",
             "neoplasm"
       ],
       "criteria": [
@@ -448,12 +447,19 @@
             "2",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071045.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hla",
+            "donor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00071045"
 }

@@ -147,13 +147,16 @@
             "therapy"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "docetaxel",
+            "PI-88"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -313,12 +316,16 @@
             "4",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097851.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00097851"
 }

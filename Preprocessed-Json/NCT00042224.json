@@ -34,29 +34,43 @@
             "treatment",
             "clozapine"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "clozapine"
+            "Electroconvulsive Therapy (ECT)",
+            "Clozapine"
       ],
       "description": [
+            "use",
+            "augment",
+            "clozapine",
+            "schizophrenic",
             "patient",
+            "continue",
+            "psychotic",
+            "symptom",
+            "despite",
+            "optimal",
+            "treatment",
+            "clozapine",
             "psychotic",
             "symptom",
             "receive",
             "clozapine"
       ],
       "arm_group_label": [
-            "2",
+            "ect",
+            "plus",
+            "clozapine",
+            "ect",
+            "plus",
+            "clozapine",
             "clozapine"
       ],
-      "other_name": [
-            "clozaril"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -227,7 +241,7 @@
             "affective",
             "symptom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -236,6 +250,11 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042224.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "electroconvulsive",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00042224"
 }

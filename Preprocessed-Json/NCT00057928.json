@@ -198,13 +198,16 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "gemcitabine hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -346,11 +349,20 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057928.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ivb",
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00057928"
 }

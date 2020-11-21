@@ -124,7 +124,7 @@
             "sample"
       ],
       "condition": [
-            "opportunistic",
+            "disease",
             "infection"
       ],
       "criteria": [
@@ -161,9 +161,17 @@
             "important",
             "information"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001477.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "opportunistic",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection"
+      ],
+      "id": "NCT00001477"
 }

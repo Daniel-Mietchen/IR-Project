@@ -204,22 +204,80 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "160",
-            "mg",
-            "trimethoprim",
-            "800",
-            "mg",
-            "sulfamethoxazole"
+            "ciprofloxacin",
+            "ofloxacin",
+            "160 mg trimethoprim and 800 mg sulfamethoxazole"
       ],
       "description": [
-            "begin",
+            "oral",
+            "ciprofloxacin",
+            "start",
+            "chemotherapy",
+            "multiple",
+            "myeloma",
+            "assign",
+            "treatment",
+            "consist",
+            "ciprofloxacin",
+            "cipro",
+            "500",
+            "mg",
+            "po",
+            "tablet",
+            "every",
+            "12",
+            "hour",
+            "two",
+            "month",
+            "patient",
+            "continue",
+            "observe",
+            "one",
+            "additional",
+            "month",
+            "study",
+            "continue",
+            "regular",
+            "myeloma",
+            "chemotherapy",
+            "oral",
+            "ofloxacin",
+            "start",
+            "chemotherapy",
+            "multiple",
+            "myeloma",
+            "assign",
+            "treatment",
+            "consist",
+            "ofloxacin",
+            "500",
+            "mg",
+            "po",
+            "tablet",
+            "every",
+            "12",
+            "hour",
+            "two",
+            "month",
+            "patient",
+            "continue",
+            "observe",
+            "one",
+            "additional",
+            "month",
+            "study",
+            "continue",
+            "regular",
+            "myeloma",
+            "chemotherapy",
             "oral",
             "start",
             "chemotherapy",
@@ -241,13 +299,13 @@
             "every",
             "12",
             "hour",
-            "two",
-            "month"
+            "two"
       ],
-      "arm_group_label": [],
-      "other_name": [
-            "bactrim"
+      "arm_group_label": [
+            "ofloxacin",
+            "ofloxacin"
       ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "patient",
@@ -421,7 +479,7 @@
             "chemotherapy",
             "dexamethasone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -430,6 +488,20 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002850.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "myeloma",
+            "plasma",
+            "cell",
+            "agent",
+            "sulfamethoxazole",
+            "drug",
+            "combination",
+            "antitubercular"
+      ],
+      "id": "NCT00002850"
 }

@@ -163,11 +163,12 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "zileuton"
@@ -204,7 +205,6 @@
             "stage",
             "cell",
             "lung",
-            "cancer",
             "patient",
             "curatively",
             "treat",
@@ -400,15 +400,12 @@
             "month",
             "since",
             "prior",
-            "corticosteroid",
             "concurrent",
-            "corticosteroid",
             "concurrent",
             "anticancer",
             "hormonal",
             "agent",
             "note",
-            "systemic",
             "inhale",
             "include",
             "chronic",
@@ -423,7 +420,6 @@
             "since",
             "prior",
             "lipoxygenase",
-            "inhibitor",
             "3",
             "month",
             "since",
@@ -449,7 +445,6 @@
             "multivitamin",
             "concurrent",
             "lipoxygenase",
-            "inhibitor",
             "concurrent",
             "investigational",
             "agent",
@@ -488,18 +483,30 @@
             "patch",
             "allow",
             "note",
-            "systemic",
             "inhale",
             "include",
             "chronic",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056004.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00056004"
 }

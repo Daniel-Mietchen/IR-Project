@@ -120,14 +120,23 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Celecoxib",
+            "ZD1839"
+      ],
       "description": [
+            "orally",
+            "two",
+            "time",
+            "day",
+            "take",
+            "meal",
             "250",
             "mg",
             "po",
@@ -137,12 +146,8 @@
             "without",
             "food"
       ],
-      "arm_group_label": [
-            "celecoxib"
-      ],
-      "other_name": [
-            "gefitinib"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -456,12 +461,22 @@
             "hypericum",
             "perforatum"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068653.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00068653"
 }

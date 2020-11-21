@@ -413,22 +413,23 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "sentinel",
-            "node",
-            "resection",
-            "follow",
-            "node",
-            "examination"
+            "conventional surgery",
+            "Sentinel node resection followed by node examination"
       ],
       "description": [
-            "sentinel",
+            "node",
+            "resection",
+            "immediately",
+            "follow",
+            "axillary",
+            "dissection",
             "node",
             "resection",
             "follow",
@@ -446,7 +447,9 @@
             "node"
       ],
       "arm_group_label": [
-            "arm",
+            "conventional",
+            "axillary",
+            "dissection",
             "ii",
             "sentinel",
             "node",
@@ -669,14 +672,21 @@
             "lumpectomy",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003830.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003830"
 }

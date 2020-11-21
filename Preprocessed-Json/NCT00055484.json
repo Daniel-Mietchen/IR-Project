@@ -128,11 +128,10 @@
             "migraine"
       ],
       "condition": [
-            "migraine",
             "headache"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "zonisamide"
@@ -431,7 +430,7 @@
             "screen",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -440,6 +439,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055484.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "migraine",
+            "prophylaxis"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00055484"
 }

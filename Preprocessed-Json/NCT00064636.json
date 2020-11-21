@@ -68,17 +68,17 @@
             "docetaxel"
       ],
       "condition": [
+            "cell",
+            "lung",
+            "cancer",
             "solid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "velcade",
-            "tm",
-            "bortezomib",
-            "injection"
+            "VELCADE TM (bortezomib) for Injection, or PS-341"
       ],
       "criteria": [
             "adult",
@@ -487,12 +487,16 @@
             "patient",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064636.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00064636"
 }

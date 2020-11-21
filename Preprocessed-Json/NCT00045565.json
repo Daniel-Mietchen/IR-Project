@@ -224,27 +224,35 @@
             "thereafter"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "arsenic trioxide",
+            "radiation therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
             "radiation",
             "therapy"
       ],
       "arm_group_label": [
-            "group",
+            "b",
             "b"
       ],
       "other_name": [
-            "therapy",
+            "iii",
+            "oxide",
+            "sesquioxide",
+            "acid",
+            "anhydride",
             "radiation"
       ],
       "criteria": [
@@ -479,12 +487,15 @@
             "ato",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045565.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "trioxide"
+      ],
+      "id": "NCT00045565"
 }

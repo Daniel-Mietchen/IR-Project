@@ -454,17 +454,12 @@
             "memory",
             "encode"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "magstim",
-            "rapid",
-            "magnetic",
-            "stimulator"
+            "Magstim Rapid Magnetic Stimulator"
       ],
       "criteria": [
             "inclusion",
@@ -521,9 +516,13 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051870.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nonverbal",
+            "memory"
+      ],
+      "id": "NCT00051870"
 }

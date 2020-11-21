@@ -65,17 +65,26 @@
             "m"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Natalizumab",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "300",
+            "mg",
+            "iv",
+            "infusion",
+            "every",
+            "4",
+            "week",
+            "116",
+            "week",
             "iv",
             "infusion",
             "every",
@@ -85,12 +94,10 @@
             "week"
       ],
       "arm_group_label": [
-            "group",
+            "1",
             "2"
       ],
-      "other_name": [
-            "tysabri"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -216,7 +223,7 @@
             "screen",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -225,6 +232,16 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027300.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "remit",
+            "multiple",
+            "sclerosis"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "sclerosis"
+      ],
+      "id": "NCT00027300"
 }

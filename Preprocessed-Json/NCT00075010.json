@@ -98,18 +98,23 @@
             "medication"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "valproic",
-            "acid"
+            "Decitabine",
+            "Valproic acid"
       ],
       "description": [
-            "20",
+            "vein",
+            "1",
+            "hour",
+            "time",
+            "10",
+            "day",
             "give",
             "orally",
             "daily",
@@ -117,7 +122,8 @@
             "day"
       ],
       "arm_group_label": [
-            "decitabine",
+            "valproic",
+            "acid",
             "valproic",
             "acid"
       ],
@@ -387,12 +393,20 @@
             "candidate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075010.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00075010"
 }

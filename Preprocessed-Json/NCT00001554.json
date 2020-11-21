@@ -255,17 +255,13 @@
             "procedure"
       ],
       "condition": [
-            "neurologic",
             "manifestation"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "intraoperative",
-            "infrared",
-            "ir",
-            "neuroimaging"
+            "intraoperative infrared (IR) neuroimaging"
       ],
       "criteria": [
             "adult",
@@ -286,9 +282,16 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001554.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thermal",
+            "image"
+      ],
+      "mesh_term": [
+            "manifestation"
+      ],
+      "id": "NCT00001554"
 }

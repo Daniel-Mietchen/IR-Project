@@ -264,18 +264,18 @@
             "failure"
       ],
       "condition": [
-            "kidney",
             "failure",
             "chronic"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "combination",
-            "diet",
-            "control",
-            "exercise"
+            "low protein diet",
+            "resistance training",
+            "combination of diet control and exercise"
       ],
       "criteria": [
             "men",
@@ -299,7 +299,7 @@
             "hypertensive",
             "diabetic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -308,6 +308,14 @@
             "89",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "exercise"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00018317"
 }

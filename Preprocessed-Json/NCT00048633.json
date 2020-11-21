@@ -70,18 +70,15 @@
             "immunohistochemistry"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "chemotherapy"
+            "Chemotherapy"
       ],
-      "arm_group_label": [
-            "tariquidar"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -371,9 +368,19 @@
             "chemotherapy",
             "combination"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048633.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chemotherapy",
+            "resistance",
+            "advance",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00048633"
 }

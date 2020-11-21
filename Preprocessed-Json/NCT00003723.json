@@ -132,18 +132,15 @@
             "month"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "gemcitabine",
             "1000",
             "day",
             "1",
@@ -292,12 +289,19 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003723.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sarcomatous",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003723"
 }

@@ -167,18 +167,28 @@
             "utmdacc"
       ],
       "condition": [
-            "liver",
+            "cell",
+            "transplantation",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Procedure",
+            "Device"
       ],
       "intervention_name": [
-            "cobe",
-            "spectrum"
+            "Hepatic artery infusion of CD34+ cells",
+            "Cobe Spectra"
       ],
       "description": [
-            "mononuclear",
+            "donor",
+            "cell",
+            "infuse",
+            "directly",
+            "liver",
+            "groin",
+            "catheter",
+            "hepatic",
+            "artery",
             "cell",
             "mnc",
             "collect",
@@ -191,12 +201,12 @@
             "spectrum"
       ],
       "arm_group_label": [
-            "hepatic",
+            "artery",
+            "infusion",
             "artery",
             "infusion"
       ],
       "other_name": [
-            "blood",
             "cell",
             "separator"
       ],
@@ -260,9 +270,15 @@
             "b",
             "c"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062543.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sct"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00062543"
 }

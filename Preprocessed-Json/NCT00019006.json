@@ -192,19 +192,58 @@
             "month"
       ],
       "condition": [
+            "colon",
+            "cancer",
             "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "rectal",
+            "cancer",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "pancreatic",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iii",
+            "cell",
+            "lung",
+            "cancer",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "cell",
+            "lung",
+            "cancer",
+            "ivb",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "colon",
+            "cancer",
             "iva",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ra",
-            "peptide",
-            "cancer",
-            "vaccine"
+            "Detox-B adjuvant",
+            "ras peptide cancer vaccine"
       ],
       "criteria": [
             "1",
@@ -542,11 +581,25 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019006.xml"
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "neoplasm",
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "neoplasm",
+            "adjuvant"
+      ],
+      "id": "NCT00019006"
 }

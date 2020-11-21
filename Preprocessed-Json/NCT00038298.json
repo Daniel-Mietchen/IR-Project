@@ -49,19 +49,39 @@
             "study"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "amg",
-            "719"
+            "Placebo",
+            "AMG 719",
+            "AGM 719",
+            "AMG 719",
+            "placebo to AMG 719"
       ],
       "description": [
-            "placebo",
+            "give",
+            "3",
+            "time",
+            "weekly",
+            "mg",
+            "3",
+            "time",
+            "weekly",
+            "mg",
+            "3",
+            "time",
+            "weekly",
+            "mg",
+            "3",
+            "time",
+            "weekly",
             "dose",
             "give",
             "3",
@@ -69,7 +89,9 @@
             "weekly"
       ],
       "arm_group_label": [
-            "placebo"
+            "mg",
+            "mg",
+            "mg"
       ],
       "criteria": [
             "men",
@@ -95,12 +117,15 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038298.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00038298"
 }

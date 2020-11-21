@@ -44,17 +44,32 @@
             "regimen"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan"
+            "cetuximab",
+            "Irinotecan",
+            "Irinotecan"
       ],
       "description": [
-            "vial",
+            "iv",
+            "400",
+            "week",
+            "1",
+            "250",
+            "weekly",
+            "decision",
+            "iv",
+            "350",
+            "q",
+            "3",
+            "week",
+            "decision",
             "iv",
             "350",
             "q",
@@ -63,12 +78,9 @@
             "decision"
       ],
       "arm_group_label": [
-            "arm",
             "b"
       ],
-      "other_name": [
-            "erbitux"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -125,12 +137,15 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063141.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00063141"
 }

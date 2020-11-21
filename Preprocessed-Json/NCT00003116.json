@@ -205,19 +205,64 @@
             "period"
       ],
       "condition": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
+            "administer",
+            "subcutaneously",
+            "twice",
+            "day",
+            "begin",
+            "3",
+            "hour",
+            "completion",
+            "cell",
+            "infusion",
+            "continue",
+            "blood",
+            "count",
+            "recover",
+            "oral",
+            "busulfan",
+            "every",
+            "6",
+            "hour",
+            "day",
+            "iv",
+            "twice",
+            "day",
+            "day",
+            "iv",
+            "6",
+            "hour",
+            "day",
+            "10",
+            "hour",
+            "day",
+            "0",
+            "2",
+            "dose",
             "allogeneic",
             "peripheral",
             "blood",
@@ -498,7 +543,7 @@
             "ventricular",
             "dysrhythmias"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -507,6 +552,19 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003116.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00003116"
 }

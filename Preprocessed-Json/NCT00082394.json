@@ -74,18 +74,19 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "combivir"
+            "Trizivir",
+            "atazanavir",
+            "Combivir"
       ],
-      "other_name": [
-            "atazanavir"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -136,12 +137,22 @@
             "week",
             "dose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082394.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tolerability"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00082394"
 }

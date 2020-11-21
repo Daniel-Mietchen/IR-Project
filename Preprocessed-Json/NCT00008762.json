@@ -182,7 +182,6 @@
             "cf"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "criteria": [
@@ -195,12 +194,15 @@
             "40",
             "predict"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008762.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00008762"
 }

@@ -147,18 +147,16 @@
             "measurement",
             "calcaneus"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "alendronate"
+            "PTH",
+            "Alendronate"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -402,9 +400,7 @@
             "replacement",
             "tsh"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "55",
             "year"
@@ -413,6 +409,10 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005005.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "postmenopausal"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005005"
 }

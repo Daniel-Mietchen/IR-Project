@@ -206,7 +206,6 @@
             "year"
       ],
       "condition": [
-            "malignant",
             "neoplasm",
             "eye",
             "brain",
@@ -216,11 +215,61 @@
             "system"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "carmustine",
+            "radiation therapy",
+            "O6-Benzylguanine"
+      ],
       "description": [
-            "120",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "cycle",
+            "6",
+            "hour",
+            "dose",
+            "experimental",
+            "arm",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "2",
+            "cycle",
+            "active",
+            "comparator",
+            "arm",
+            "use",
+            "one",
+            "fraction",
+            "per",
+            "day",
+            "dose",
+            "180",
+            "cgy",
+            "per",
+            "fraction",
+            "initial",
+            "target",
+            "volume",
+            "dose",
+            "5040",
+            "cgy",
+            "28",
+            "fraction",
+            "boost",
+            "target",
+            "volume",
+            "1080",
+            "cgy",
+            "6",
+            "fraction",
             "iv",
             "1",
             "hour",
@@ -229,6 +278,16 @@
             "cycle"
       ],
       "arm_group_label": [
+            "bcnu",
+            "radiation",
+            "therapy",
+            "radiation",
+            "therapy",
+            "bcnu",
+            "radiation",
+            "therapy",
+            "radiation",
+            "therapy",
             "bcnu",
             "radiation",
             "therapy"
@@ -249,7 +308,6 @@
             "past",
             "28",
             "day",
-            "mri",
             "gadolinium",
             "perform",
             "registration",
@@ -259,7 +317,6 @@
             "biopsy",
             "require",
             "preoperative",
-            "mri",
             "gadolinium",
             "2",
             "noncontiguous",
@@ -495,12 +552,20 @@
             "drug",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017147.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "6"
+      ],
+      "id": "NCT00017147"
 }

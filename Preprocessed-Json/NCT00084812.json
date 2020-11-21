@@ -132,14 +132,12 @@
             "repeat",
             "every",
             "21",
-            "day",
             "absence",
             "disease",
             "progression",
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "receive",
             "safingol",
             "day",
@@ -187,7 +185,6 @@
             "level"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -195,13 +192,15 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
             "safingol"
       ],
       "arm_group_label": [
-            "safingol",
+            "cisplatin",
             "cisplatin"
       ],
       "criteria": [
@@ -385,12 +384,21 @@
             "investigational",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084812.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00084812"
 }

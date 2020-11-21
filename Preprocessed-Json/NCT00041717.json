@@ -88,19 +88,24 @@
             "take"
       ],
       "condition": [
-            "muscle",
+            "cord",
+            "injury",
             "spasticity"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Fampridine-SR",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "bid",
+            "twice",
+            "daily"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -171,7 +176,7 @@
             "value",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -180,6 +185,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041717.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "muscle",
+            "spasticity"
+      ],
+      "mesh_term": [
+            "injury",
+            "cord",
+            "injury",
+            "spasticity"
+      ],
+      "id": "NCT00041717"
 }

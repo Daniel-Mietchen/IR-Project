@@ -309,19 +309,16 @@
             "hour"
       ],
       "condition": [
-            "pneumococcal",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "pneumococcal",
-            "conjugate",
-            "vaccine"
+            "Pneumococcal polysaccharide-protein conjugate vaccine"
       ],
       "description": [
-            "injection",
             "administer",
             "three",
             "time",
@@ -329,12 +326,8 @@
             "24",
             "week"
       ],
-      "arm_group_label": [
-            "5"
-      ],
-      "other_name": [
-            "pnccv"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -472,12 +465,20 @@
             "vaccine",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "10",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099658.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mtct"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00099658"
 }

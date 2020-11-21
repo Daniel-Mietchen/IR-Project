@@ -87,30 +87,38 @@
             "treatment"
       ],
       "condition": [
-            "generalize",
+            "disorder",
+            "phobia",
             "anxiety",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Sertraline",
+            "Cognitive Behavioral Therapy (CBT)",
+            "Placebo"
       ],
       "description": [
-            "participant",
+            "take",
+            "sertraline",
+            "12",
+            "week",
+            "receive",
+            "cbt",
+            "12",
+            "week",
             "take",
             "placebo",
             "capsule",
             "12",
             "week"
       ],
-      "arm_group_label": [
-            "4"
-      ],
-      "other_name": [
-            "zoloft"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -135,7 +143,7 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -144,6 +152,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00052078.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "anxiety",
+            "separation"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00052078"
 }

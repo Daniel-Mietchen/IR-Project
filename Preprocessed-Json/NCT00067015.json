@@ -246,18 +246,49 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bicalutamide",
+            "goserelin acetate",
+            "assessment of therapy complications",
+            "quality-of-life assessment",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "imrt",
+            "gy",
+            "plus",
+            "adjuvant",
+            "androgen",
+            "deprivation",
+            "gy",
+            "plus",
+            "adjuvant",
+            "androgen",
+            "deprivation",
+            "alone",
+            "gy",
+            "gy",
+            "plus",
+            "adjuvant",
+            "androgen",
+            "deprivation",
+            "alone",
+            "gy",
+            "gy",
+            "plus",
+            "adjuvant",
+            "androgen",
+            "deprivation",
+            "alone",
+            "gy",
             "gy",
             "plus",
             "adjuvant",
@@ -411,9 +442,7 @@
             "prostate",
             "cancer"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -422,6 +451,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067015.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00067015"
 }

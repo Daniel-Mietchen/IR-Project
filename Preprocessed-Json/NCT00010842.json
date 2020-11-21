@@ -147,16 +147,19 @@
             "m"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "essential",
-            "fatty",
-            "acid"
+            "Ginkgo biloba",
+            "Alpha-lipoic acid",
+            "Vitamin E/Selenium",
+            "Essential fatty acids"
       ],
       "criteria": [
             "exclusion",
@@ -166,9 +169,14 @@
             "health",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010842.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sclerosis",
+            "acid",
+            "e"
+      ],
+      "id": "NCT00010842"
 }

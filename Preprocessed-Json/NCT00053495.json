@@ -145,26 +145,43 @@
             "smallpox",
             "vaccine"
       ],
-      "condition": [
-            "smallpox"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccinia",
-            "virus",
-            "calf",
-            "lymph",
-            "dryvax"
+            "Vaccinia virus: ACAM2000 smallpox vaccine",
+            "vaccinia virus (calf lymph): Dryvax"
       ],
       "description": [
+            "1",
+            "dose",
             "group",
+            "2",
+            "dose",
+            "group",
+            "3",
+            "dose",
+            "group",
+            "4",
+            "dose",
             "5",
             "dose"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "dose",
+            "1",
+            "2",
+            "dose",
+            "2",
+            "3",
+            "dose",
+            "3",
+            "4",
+            "dose",
+            "4",
             "5",
             "vaccine"
       ],
@@ -315,7 +332,7 @@
             "day",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -324,6 +341,10 @@
             "29",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053495.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "smallpox"
+      ],
+      "mesh_term": [],
+      "id": "NCT00053495"
 }

@@ -108,14 +108,43 @@
             "progression"
       ],
       "condition": [
-            "skin",
+            "neoplasm",
+            "site",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ET743",
+            "ET743"
+      ],
       "description": [
+            "infusion",
+            "day",
+            "1",
+            "8",
+            "15",
+            "every",
+            "28",
+            "day",
+            "approximately",
+            "52",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "dexamethasone",
+            "10",
+            "mg",
+            "administer",
+            "30",
+            "minute",
+            "prior",
+            "trabectedin",
+            "infusion",
             "3",
             "hour",
             "infusion",
@@ -138,9 +167,7 @@
             "trabectedin",
             "infusion"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -202,14 +229,31 @@
             "five",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050427.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "molecular",
+            "mechanism",
+            "pharmacological",
+            "action"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "disease",
+            "disease",
+            "site",
+            "acetate",
+            "1101",
+            "agent",
+            "alkylating",
+            "mechanism",
+            "pharmacological",
+            "action"
+      ],
+      "id": "NCT00050427"
 }

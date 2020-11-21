@@ -171,14 +171,17 @@
             "cancer"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
+            "disease",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "BNP7787",
+            "Placebo"
       ],
       "description": [
             "treatment",
@@ -204,11 +207,33 @@
             "treatment",
             "cycle",
             "8",
+            "week",
+            "treatment",
+            "regimen",
+            "administer",
+            "study",
+            "single",
+            "iv",
+            "doxe",
+            "paclitaxel",
+            "80",
+            "herceptin",
+            "give",
+            "1",
+            "hour",
+            "either",
+            "placebo",
+            "give",
+            "45",
+            "minute",
+            "week",
+            "one",
+            "treatment",
+            "cycle",
+            "8",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "also",
             "know",
@@ -355,14 +380,22 @@
             "study",
             "period"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039780.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prevention"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "syndrome",
+            "disease",
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00039780"
 }

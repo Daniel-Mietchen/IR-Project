@@ -242,14 +242,19 @@
             "tanzania"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metronidazole"
+            "Erythromycin",
+            "Nevirapine",
+            "Ampicillin sodium",
+            "Metronidazole"
       ],
       "criteria": [
             "inclusion",
@@ -324,11 +329,20 @@
             "anticoagulant",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021671.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent",
+            "estolate",
+            "ethylsuccinate",
+            "stearate"
+      ],
+      "id": "NCT00021671"
 }

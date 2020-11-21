@@ -335,30 +335,36 @@
             "population"
       ],
       "condition": [
-            "hemophilia"
+            "disease",
+            "viral",
+            "human",
+            "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "intervention",
-            "observational",
-            "study"
+            "No interventions - observational study"
       ],
       "arm_group_label": [
-            "hemophilic",
             "individual"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005305.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "viral",
+            "human",
+            "disease"
+      ],
+      "id": "NCT00005305"
 }

@@ -252,7 +252,10 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "childhood",
             "solid",
             "tumor",
@@ -260,11 +263,10 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "liposomal",
-            "cytarabine"
+            "liposomal cytarabine"
       ],
       "criteria": [
             "disease",
@@ -490,7 +492,7 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -499,6 +501,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003073.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003073"
 }

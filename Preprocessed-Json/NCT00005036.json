@@ -251,23 +251,90 @@
             "death"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "colon",
+            "adenocarcinoma",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "ring",
+            "adenocarcinoma",
+            "colon",
+            "ring",
+            "adenocarcinoma",
+            "rectum",
+            "iiia",
+            "colon",
+            "cancer",
+            "iiia",
+            "rectal",
+            "cancer",
+            "iiib",
+            "colon",
+            "cancer",
+            "iiib",
+            "rectal",
+            "cancer",
+            "iiic",
+            "colon",
+            "cancer",
+            "iiic",
+            "rectal",
+            "cancer",
+            "iva",
+            "colon",
+            "cancer",
+            "iva",
+            "rectal",
+            "cancer",
+            "ivb",
+            "colon",
+            "cancer",
             "ivb",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "irinotecan hydrochloride",
+            "oxaliplatin",
+            "leucovorin calcium",
+            "fluorouracil",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "irinotecan",
+            "ii",
+            "oxalipatin",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "ii",
+            "oxalipatin",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "ii",
+            "oxalipatin",
+            "fluorouracil",
+            "leucovorin",
+            "calcium",
+            "irinotecan",
             "ii",
             "oxalipatin",
             "fluorouracil",
@@ -275,7 +342,6 @@
             "calcium"
       ],
       "other_name": [
-            "quality",
             "life",
             "assessment"
       ],
@@ -507,12 +573,18 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005036.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "mucinous",
+            "dietary"
+      ],
+      "id": "NCT00005036"
 }

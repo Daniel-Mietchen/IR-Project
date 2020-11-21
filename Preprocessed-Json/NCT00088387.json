@@ -239,14 +239,15 @@
             "test"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lithium"
+            "Divalproex",
+            "Lithium"
       ],
       "criteria": [
             "inclusion",
@@ -531,9 +532,16 @@
             "lumbar",
             "puncture"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088387.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ad"
+      ],
+      "mesh_term": [
+            "disease",
+            "carbonate"
+      ],
+      "id": "NCT00088387"
 }

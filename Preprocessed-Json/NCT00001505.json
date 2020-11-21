@@ -176,7 +176,8 @@
             "need"
       ],
       "condition": [
-            "systemic",
+            "volunteer",
+            "disease",
             "disease"
       ],
       "criteria": [
@@ -224,7 +225,7 @@
             "nurse",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -233,6 +234,12 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001505.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "compensation"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001505"
 }

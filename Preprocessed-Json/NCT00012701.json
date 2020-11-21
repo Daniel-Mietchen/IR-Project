@@ -164,7 +164,9 @@
             "analysis"
       ],
       "condition": [
-            "clinical",
+            "positive",
+            "level",
+            "care",
             "reminder"
       ],
       "criteria": [
@@ -176,9 +178,12 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012701.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "seropositivity"
+      ],
+      "id": "NCT00012701"
 }

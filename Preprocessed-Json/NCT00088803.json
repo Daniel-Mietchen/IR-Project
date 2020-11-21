@@ -145,15 +145,17 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "polymorphism",
-            "analysis"
+            "molecular genetic technique",
+            "polymerase chain reaction",
+            "polymorphism analysis"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -187,12 +189,22 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088803.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stage",
+            "v",
+            "wilms",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tumor"
+      ],
+      "id": "NCT00088803"
 }

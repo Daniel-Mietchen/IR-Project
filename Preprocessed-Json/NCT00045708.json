@@ -208,26 +208,35 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "astrocytoma",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "gliosarcoma",
             "adult",
             "brain",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "ixabepilone",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "ixabepilone",
             "ixabepilone"
       ],
       "other_name": [
-            "pharmacological",
+            "b",
+            "lactam",
             "study"
       ],
       "criteria": [
@@ -527,12 +536,15 @@
             "discus",
             "situation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045708.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b"
+      ],
+      "id": "NCT00045708"
 }

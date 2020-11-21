@@ -198,29 +198,43 @@
             "day"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "ixabepilone",
+            "carboplatin",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "ixabepilone",
+            "carboplatin",
+            "ixabepilone",
+            "carboplatin",
+            "ixabepilone",
+            "carboplatin",
             "ixabepilone",
             "carboplatin"
       ],
       "other_name": [
-            "pharmacological",
+            "b",
+            "lactam",
             "study"
       ],
       "criteria": [
@@ -475,12 +489,15 @@
             "inhibitor",
             "cytochrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028561.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b"
+      ],
+      "id": "NCT00028561"
 }

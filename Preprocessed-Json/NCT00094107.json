@@ -63,17 +63,15 @@
             "shrinkage"
       ],
       "condition": [
-            "skin",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "axitinib"
+            "Axitinib [AG-013736]"
       ],
       "description": [
-            "vegfr",
             "vascular",
             "endothelial",
             "growth",
@@ -100,9 +98,7 @@
             "toxicity",
             "occur"
       ],
-      "arm_group_label": [
-            "axitinib"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -134,12 +130,19 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094107.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiangiogenesis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "inhibitor"
+      ],
+      "id": "NCT00094107"
 }

@@ -151,15 +151,23 @@
             "month"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "methotrexate",
+            "vinblastine sulfate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -265,12 +273,23 @@
             "bladder",
             "irradiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002919.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002919"
 }

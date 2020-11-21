@@ -170,18 +170,22 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "neutropenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "epoetin alfa",
+            "filgrastim",
+            "recombinant flt3 ligand",
+            "recombinant interleukin-3",
+            "sargramostim",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -238,12 +242,10 @@
             "bilirubin",
             "le",
             "time",
-            "normal",
             "sgot",
             "sgpt",
             "le",
             "time",
-            "normal",
             "alkaline",
             "phosphatase",
             "le",
@@ -311,7 +313,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
@@ -320,6 +322,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005787.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "alfa",
+            "ligand",
+            "protein"
+      ],
+      "id": "NCT00005787"
 }

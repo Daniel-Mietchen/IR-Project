@@ -409,14 +409,12 @@
             "one",
             "visit"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alendronate"
+            "Alendronate"
       ],
       "criteria": [
             "inclusion",
@@ -1271,9 +1269,7 @@
             "mild",
             "extent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
@@ -1282,6 +1278,15 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006180.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "metabolic"
+      ],
+      "id": "NCT00006180"
 }

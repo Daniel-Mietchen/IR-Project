@@ -401,14 +401,14 @@
             "trial",
             "reach"
       ],
-      "condition": [
-            "amblyopia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "spectacle"
+            "Eye patch",
+            "Spectacles"
       ],
       "criteria": [
             "inclusion",
@@ -491,7 +491,7 @@
             "bandage",
             "adhesive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -500,6 +500,7 @@
             "7",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091923.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00091923"
 }

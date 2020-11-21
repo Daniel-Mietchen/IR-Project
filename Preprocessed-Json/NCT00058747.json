@@ -70,17 +70,14 @@
             "production"
       ],
       "condition": [
-            "leukemia",
             "myeloid",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "autologous",
-            "complex",
-            "plus"
+            "Autologous HSP-70 Protein-Peptide Complex (AG-858) Plus Gleevec\u2122."
       ],
       "criteria": [
             "inclusion",
@@ -225,12 +222,24 @@
             "carcinoma",
             "skin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058747.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myeloid",
+            "leukemia",
+            "chronic"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00058747"
 }

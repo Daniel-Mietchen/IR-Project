@@ -183,19 +183,24 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "7-hydroxystaurosporine",
+            "topotecan hydrochloride"
       ],
       "arm_group_label": [
+            "combination",
+            "topotecan",
             "combination",
             "topotecan"
       ],
@@ -423,9 +428,7 @@
             "therapy",
             "patient"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -434,6 +437,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045175.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00045175"
 }

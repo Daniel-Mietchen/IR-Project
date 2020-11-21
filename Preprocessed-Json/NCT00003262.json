@@ -212,15 +212,30 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "bleomycin sulfate",
+            "filgrastim",
+            "Stanford V regimen",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "etoposide",
+            "mechlorethamine hydrochloride",
+            "prednisone",
+            "vinblastine sulfate",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -313,12 +328,23 @@
             "inhibitor",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003262.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00003262"
 }

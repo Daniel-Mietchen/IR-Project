@@ -121,26 +121,32 @@
             "toxicity"
       ],
       "condition": [
-            "primary",
+            "myelomonocytic",
+            "leukemia",
+            "thrombocythemia",
+            "vera",
             "myelofibrosis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "glivec"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -210,7 +216,6 @@
             "standard",
             "diagnostic",
             "criterion",
-            "mmm",
             "cmmol",
             "patient",
             "mmm",
@@ -614,12 +619,20 @@
             "lovenox",
             "heparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039416.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myelofibrosis",
+            "vera",
+            "myelomonocytic",
+            "chronic",
+            "essential",
+            "mesylate"
+      ],
+      "id": "NCT00039416"
 }

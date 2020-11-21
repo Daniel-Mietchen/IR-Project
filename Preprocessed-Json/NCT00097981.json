@@ -135,17 +135,83 @@
             "week"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxil"
+            "Thalidomide",
+            "Dexamethasone",
+            "DOXIL"
       ],
       "description": [
-            "doxil",
+            "receive",
+            "thalidomide",
+            "orally",
+            "every",
+            "night",
+            "bedtime",
+            "without",
+            "food",
+            "day",
+            "dose",
+            "gradually",
+            "increase",
+            "cycle",
+            "1",
+            "start",
+            "50",
+            "mg",
+            "1",
+            "7",
+            "day",
+            "100",
+            "mg",
+            "8",
+            "14",
+            "day",
+            "150",
+            "mg",
+            "15",
+            "21",
+            "day",
+            "200",
+            "mg",
+            "22",
+            "28",
+            "day",
+            "thalidomide",
+            "200",
+            "mg",
+            "per",
+            "day",
+            "administer",
+            "subsequent",
+            "cycle",
+            "participant",
+            "receive",
+            "thalidomide",
+            "minimum",
+            "4",
+            "cycle",
+            "maximum",
+            "12",
+            "cycle",
+            "receive",
+            "dexamethasone",
+            "40",
+            "mg",
+            "orally",
+            "day",
+            "1",
+            "4",
+            "9",
+            "12",
+            "17",
+            "20",
             "40",
             "administer",
             "iintravenously",
@@ -154,7 +220,12 @@
             "1"
       ],
       "arm_group_label": [
-            "thalidomide",
+            "dexamethasone",
+            "dexamethasone",
+            "doxil",
+            "dexamethasone",
+            "dexamethasone",
+            "doxil",
             "dexamethasone",
             "doxil"
       ],
@@ -245,12 +316,27 @@
             "anticoagulation",
             "dvt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pegylated",
+            "liposomal",
+            "hydrochloride",
+            "doxorubicin",
+            "injection"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "doxorubicin",
+            "1101"
+      ],
+      "id": "NCT00097981"
 }

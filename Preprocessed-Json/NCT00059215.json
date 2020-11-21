@@ -60,25 +60,36 @@
             "open"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clopidogrel"
+            "Prasugrel (CS-747)",
+            "Clopidogrel"
       ],
       "description": [
-            "administer",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "clopidogrel"
+            "40",
+            "mg",
+            "mg",
+            "md",
+            "60",
+            "mg",
+            "mg",
+            "md",
+            "60",
+            "mg",
+            "mg",
+            "md"
       ],
-      "other_name": [
-            "efient"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -170,7 +181,7 @@
             "year",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -179,6 +190,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059215.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "hydrochloride"
+      ],
+      "id": "NCT00059215"
 }

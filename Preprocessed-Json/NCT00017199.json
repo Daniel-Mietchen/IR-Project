@@ -107,12 +107,13 @@
             "month"
       ],
       "condition": [
-            "islet",
+            "carcinoid",
+            "tumor",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
@@ -335,12 +336,24 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017199.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glucagonoma"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "carcinoid",
+            "syndrome",
+            "neoplasm",
+            "islet",
+            "cell"
+      ],
+      "id": "NCT00017199"
 }

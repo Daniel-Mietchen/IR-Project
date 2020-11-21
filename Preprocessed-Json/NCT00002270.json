@@ -32,15 +32,17 @@
             "infection"
       ],
       "condition": [
-            "leukoencephalopathy",
+            "infection",
             "progressive",
             "multifocal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Interferon alfa-2b",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -105,7 +107,7 @@
             "interferon",
             "reason"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -114,6 +116,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002270.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "progressive",
+            "multifocal"
+      ],
+      "id": "NCT00002270"
 }

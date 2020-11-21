@@ -260,7 +260,9 @@
             "disease"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "arteriosclerosis",
             "disease"
       ],
       "study_pop": [],
@@ -277,9 +279,7 @@
             "graft",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -288,6 +288,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005433.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00005433"
 }

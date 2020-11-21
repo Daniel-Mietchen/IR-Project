@@ -253,7 +253,6 @@
             "substudy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -346,12 +345,19 @@
             "pip",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00005915"
 }

@@ -301,13 +301,15 @@
             "18",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "autologous immunoglobulin idiotype-KLH conjugate vaccine",
+            "rituximab",
             "sargramostim"
       ],
       "criteria": [
@@ -391,9 +393,7 @@
             "prednisone",
             "chop",
             "plus",
-            "rituximab",
             "note",
-            "chop",
             "follow",
             "rituximab",
             "time",
@@ -597,12 +597,22 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089115.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "idiotypes"
+      ],
+      "id": "NCT00089115"
 }

@@ -229,16 +229,14 @@
             "metabolism"
       ],
       "condition": [
-            "heart",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "pet",
-            "scan"
+            "PET scan"
       ],
       "criteria": [
             "leave",
@@ -350,9 +348,17 @@
             "severe",
             "bronchospasm"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001402.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "heart",
+            "failure"
+      ],
+      "mesh_term": [
+            "failure",
+            "dilate"
+      ],
+      "id": "NCT00001402"
 }

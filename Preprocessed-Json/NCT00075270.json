@@ -36,26 +36,26 @@
             "cancer"
       ],
       "condition": [
-            "neoplasm",
             "breast"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lapatinib"
+            "Paclitaxel",
+            "GW572016 (Lapatinib)"
       ],
       "description": [
-            "oral",
+            "comparator",
             "lapatinib"
       ],
       "arm_group_label": [
-            "arm",
+            "2",
+            "1",
             "1"
       ],
-      "other_name": [
-            "paclitaxel"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -172,14 +172,17 @@
             "inform",
             "consent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075270.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00075270"
 }

@@ -171,18 +171,23 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium"
       ],
       "arm_group_label": [
-            "irinotecan",
+            "leucovorin",
+            "fluorouracil",
+            "leucovorin",
+            "fluorouracil",
             "leucovorin",
             "fluorouracil"
       ],
@@ -424,9 +429,16 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006103.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006103"
 }

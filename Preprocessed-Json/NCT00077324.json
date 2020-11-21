@@ -127,17 +127,30 @@
             "patient"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Genetic",
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "proteomic profiling",
+            "surface-enhanced laser desorption/ionization-time of flight mass spectrometry",
+            "biopsy",
             "surgery"
       ],
       "arm_group_label": [
-            "surgery",
+            "blood",
+            "serum",
+            "collection",
+            "blood",
+            "serum",
+            "collection",
+            "blood",
+            "serum",
+            "collection",
             "blood",
             "serum",
             "collection"
@@ -333,12 +346,22 @@
             "operative",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077324.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00077324"
 }

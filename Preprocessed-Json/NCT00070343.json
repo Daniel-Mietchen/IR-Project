@@ -146,13 +146,14 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "oblimersen sodium",
             "dacarbazine"
       ],
       "criteria": [
@@ -212,7 +213,6 @@
             "least",
             "8",
             "note",
-            "hematopoietic",
             "growth",
             "factor",
             "transfusion",
@@ -457,9 +457,15 @@
             "prophylaxis",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070343.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00070343"
 }

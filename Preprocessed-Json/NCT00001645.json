@@ -185,7 +185,6 @@
             "practice"
       ],
       "condition": [
-            "parasitic",
             "disease"
       ],
       "criteria": [
@@ -225,12 +224,19 @@
             "parasitic",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parasitic",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001645"
 }

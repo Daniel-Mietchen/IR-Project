@@ -162,15 +162,16 @@
             "week"
       ],
       "condition": [
-            "mental",
+            "behavior",
             "retardation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sertraline",
-            "hydrochloride"
+            "bromocriptine",
+            "sertraline hydrochloride"
       ],
       "criteria": [
             "protocol",
@@ -276,7 +277,7 @@
             "function",
             "assessment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -285,6 +286,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004300.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stereotype",
+            "behavior"
+      ],
+      "mesh_term": [
+            "disability",
+            "movement",
+            "disorder"
+      ],
+      "id": "NCT00004300"
 }

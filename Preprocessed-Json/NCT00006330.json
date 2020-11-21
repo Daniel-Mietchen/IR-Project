@@ -133,14 +133,15 @@
             "hawthorn"
       ],
       "condition": [
-            "heart",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hawthorn"
+            "Digoxin",
+            "Hawthorn"
       ],
       "criteria": [
             "inclusion",
@@ -183,7 +184,7 @@
             "require",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -192,6 +193,13 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006330.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "drug",
+            "interaction"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00006330"
 }

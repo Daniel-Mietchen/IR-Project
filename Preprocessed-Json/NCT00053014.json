@@ -240,22 +240,25 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "therapeutic allogeneic lymphocytes",
+            "cyclosporine",
+            "fludarabine",
+            "mycophenolate mofetil",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
-      "other_name": [
-            "mmf"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -412,7 +415,7 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -421,6 +424,22 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053014.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00053014"
 }

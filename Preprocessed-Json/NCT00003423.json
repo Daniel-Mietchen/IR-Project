@@ -390,15 +390,32 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "asparaginase",
+            "cyclophosphamide",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "etoposide",
+            "mercaptopurine",
+            "methotrexate",
+            "prednisolone",
+            "thioguanine",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -443,12 +460,21 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003423.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "childhood",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003423"
 }

@@ -91,12 +91,11 @@
             "close"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
@@ -238,12 +237,24 @@
             "allow",
             "recovery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002632.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "salivary",
+            "gland",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "gland",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002632"
 }

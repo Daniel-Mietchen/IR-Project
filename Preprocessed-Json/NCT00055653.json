@@ -426,14 +426,32 @@
             "study"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "melphalan",
+            "methylprednisolone",
+            "umbilical cord blood transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -584,11 +602,8 @@
             "immunoglobulin",
             "negative",
             "undifferentiated",
-            "leukemia",
             "infant",
-            "leukemia",
             "biphenotypic",
-            "leukemia",
             "chronic",
             "myelogenous",
             "leukemia",
@@ -616,7 +631,6 @@
             "tolerate",
             "interferon",
             "blast",
-            "crisis",
             "greater",
             "30",
             "promyelocytes",
@@ -665,7 +679,6 @@
             "recent",
             "therapy",
             "note",
-            "patient",
             "third",
             "greater",
             "medullary",
@@ -903,7 +916,6 @@
             "rest",
             "must",
             "improve",
-            "exercise",
             "shorten",
             "fraction",
             "greater",
@@ -914,7 +926,6 @@
             "dlco",
             "greater",
             "45",
-            "predict",
             "correct",
             "hemoglobin",
             "fec",
@@ -1005,12 +1016,28 @@
             "error",
             "metabolism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055653.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disease",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "phosphate",
+            "serum",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00055653"
 }

@@ -141,16 +141,16 @@
             "transplantation"
       ],
       "condition": [
-            "hepatocellular",
+            "b",
+            "liver",
+            "failure",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hbig",
-            "epivir",
-            "hepsera"
+            "HBIG, Epivir, Hepsera"
       ],
       "criteria": [
             "patient",
@@ -173,12 +173,19 @@
             "hepatitis",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059267.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b",
+            "hepatocellular",
+            "failure",
+            "failure",
+            "acute"
+      ],
+      "id": "NCT00059267"
 }

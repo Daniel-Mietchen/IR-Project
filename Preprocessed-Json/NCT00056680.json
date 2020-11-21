@@ -213,18 +213,17 @@
             "year"
       ],
       "condition": [
-            "premature",
             "birth"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "brazelton",
-            "neonatal",
-            "behavioral",
-            "assessment",
-            "scale"
+            "Psychoeducational video",
+            "Infant massage",
+            "Brazelton Neonatal Behavioral Assessment Scale"
       ],
       "criteria": [
             "inclusion",
@@ -267,7 +266,7 @@
             "actual",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "32",
             "week"
@@ -276,6 +275,12 @@
             "37",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056680.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intervention"
+      ],
+      "mesh_term": [
+            "birth"
+      ],
+      "id": "NCT00056680"
 }

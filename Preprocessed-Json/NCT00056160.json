@@ -126,17 +126,36 @@
             "cycle"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "CC-5013",
+            "Dexamethasone"
       ],
       "description": [
-            "subject",
+            "treatment",
+            "group",
+            "take",
+            "25",
+            "mg",
+            "lenalidomide",
+            "orally",
+            "daily",
+            "day",
+            "1",
+            "21",
+            "match",
+            "placebo",
+            "capsule",
+            "daily",
+            "day",
+            "22",
+            "28",
+            "cycle",
             "treatment",
             "group",
             "take",
@@ -174,9 +193,7 @@
             "cycle"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "decadron"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -291,12 +308,20 @@
             "take",
             "thalidomide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056160.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00056160"
 }

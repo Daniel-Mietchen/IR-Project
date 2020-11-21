@@ -169,21 +169,23 @@
             "year"
       ],
       "condition": [
-            "recurrent",
             "neuroblastoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "fenretinide",
+            "pharmacological study"
       ],
       "description": [
-            "optional",
+            "orally",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "fenretinide",
             "fenretinide"
       ],
       "criteria": [
@@ -209,7 +211,6 @@
             "1",
             "unidimensionally",
             "measurable",
-            "lesion",
             "least",
             "20",
             "mm",
@@ -278,11 +279,9 @@
             "relapse",
             "progression",
             "must",
-            "histological",
             "morphological",
             "bone",
             "marrow",
-            "confirmation",
             "viable",
             "tumor",
             "ct",
@@ -495,12 +494,13 @@
             "anticancer",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053326.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00053326"
 }

@@ -40,14 +40,15 @@
             "graft"
       ],
       "condition": [
-            "kidney",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clopidogrel"
+            "Aggrenox",
+            "Clopidogrel"
       ],
       "criteria": [
             "fistula",
@@ -466,12 +467,22 @@
             "patient",
             "refusal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067119.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vascular",
+            "access"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "dipyridamole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00067119"
 }

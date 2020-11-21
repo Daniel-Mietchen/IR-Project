@@ -61,16 +61,15 @@
             "liver"
       ],
       "condition": [
-            "cirrhosis"
+            "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "interferon gamma-1b"
       ],
       "description": [
-            "100",
             "200",
             "mcg",
             "sq",
@@ -165,7 +164,7 @@
             "screen",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -174,6 +173,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043303.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "cirrhosis"
+      ],
+      "mesh_term": [
+            "c",
+            "cirrhosis"
+      ],
+      "id": "NCT00043303"
 }

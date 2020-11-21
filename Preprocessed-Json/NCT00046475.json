@@ -104,15 +104,13 @@
             "visit"
       ],
       "condition": [
-            "hypotension",
             "orthostatic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "midodrine",
-            "hydrochloride"
+            "Midodrine Hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -377,12 +375,15 @@
             "risk",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046475.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "orthostatic"
+      ],
+      "id": "NCT00046475"
 }

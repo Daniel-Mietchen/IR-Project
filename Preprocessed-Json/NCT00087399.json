@@ -227,17 +227,19 @@
             "year"
       ],
       "condition": [
-            "hot",
+            "cancer",
             "flash"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gabapentin",
             "antidepressant"
       ],
       "arm_group_label": [
-            "gabapentin",
+            "antidepressant",
             "antidepressant"
       ],
       "criteria": [
@@ -417,14 +419,22 @@
             "concurrent",
             "antidepressant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087399.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "agent",
+            "acid"
+      ],
+      "id": "NCT00087399"
 }

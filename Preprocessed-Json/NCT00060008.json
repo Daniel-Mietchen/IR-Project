@@ -165,17 +165,22 @@
             "study"
       ],
       "condition": [
-            "precancerous",
+            "type",
+            "1",
             "condition"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "gadopentetate",
-            "dimeglumine"
+            "fludeoxyglucose F 18",
+            "gadopentetate dimeglumine"
       ],
       "arm_group_label": [
+            "scan",
+            "mr",
+            "perfusion",
             "scan",
             "mr",
             "perfusion"
@@ -335,12 +340,23 @@
             "stratum",
             "2"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060008.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "plexiform",
+            "neurofibroma"
+      ],
+      "mesh_term": [
+            "condition",
+            "1",
+            "sheath",
+            "neoplasm",
+            "plexiform"
+      ],
+      "id": "NCT00060008"
 }

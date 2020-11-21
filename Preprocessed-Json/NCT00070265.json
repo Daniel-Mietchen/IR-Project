@@ -222,30 +222,52 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "metastasis",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oxaliplatin",
+            "capecitabine",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
+            "surgical",
+            "resection",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oxaliplatin",
+            "capecitabine",
+            "surgery",
+            "oxaliplatin",
+            "capecitabine",
+            "surgery",
+            "oxaliplatin",
+            "capecitabine",
+            "surgery",
             "oxaliplatin",
             "capecitabine",
             "surgery"
       ],
-      "other_name": [
-            "xeloda"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -460,9 +482,15 @@
             "oral",
             "anticoagulation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070265.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "metastasis",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00070265"
 }

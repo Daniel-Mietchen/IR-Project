@@ -103,16 +103,28 @@
             "week"
       ],
       "condition": [
-            "cirrhosis"
+            "b",
+            "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Telbivudine",
+            "Lamivudine",
+            "Placebo"
       ],
       "description": [
-            "telbivudine",
+            "oral",
+            "tablet",
+            "104",
+            "week",
+            "oral",
+            "tablet",
+            "104",
+            "week",
             "match",
             "placebo",
             "lamivudine",
@@ -121,7 +133,12 @@
             "tablet"
       ],
       "arm_group_label": [
-            "lamivudine",
+            "600",
+            "mg",
+            "100",
+            "mg",
+            "600",
+            "mg",
             "100",
             "mg"
       ],
@@ -206,7 +223,7 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -215,6 +232,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076336.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "chronic",
+            "b",
+            "cirrhosis",
+            "b",
+            "chronic"
+      ],
+      "id": "NCT00076336"
 }

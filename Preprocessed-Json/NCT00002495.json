@@ -136,26 +136,35 @@
             "7",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "standard",
-            "subtotal",
-            "nodal",
-            "irradiation"
+            "doxorubicin hydrochloride",
+            "vinblastine",
+            "standard subtotal nodal irradiation"
       ],
       "description": [
+            "day",
+            "1",
+            "15",
+            "day",
+            "1",
+            "15",
             "cgy",
             "deliver",
             "20",
             "fraction"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "nodal",
+            "rt",
+            "nodal",
+            "rt",
+            "rt",
             "nodal",
             "rt"
       ],
@@ -346,12 +355,23 @@
             "stag",
             "laparotomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002495.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00002495"
 }

@@ -166,28 +166,39 @@
             "study"
       ],
       "condition": [
-            "recurrent",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "ALVAC-hB7.1",
+            "recombinant interferon gamma",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "ip",
+            "ip",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "recombinant",
+            "interferon",
+            "gamma",
+            "recombinant",
+            "interferon",
+            "gamma",
             "recombinant",
             "interferon",
             "gamma"
       ],
-      "other_name": [],
+      "other_name": [
+            "interferon"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -259,11 +270,14 @@
             "prior",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004032.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "glandular",
+            "epithelial"
+      ],
+      "id": "NCT00004032"
 }

@@ -243,18 +243,33 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "leucovorin calcium"
       ],
       "description": [
+            "600",
+            "x",
+            "7",
+            "day",
+            "continuous",
+            "iv",
+            "begin",
+            "within",
+            "24",
+            "hour",
+            "surgery",
             "give",
+            "425",
+            "iv",
+            "push",
+            "day",
             "surgery",
             "dose",
             "iv",
@@ -262,10 +277,13 @@
             "day"
       ],
       "arm_group_label": [
+            "perioperative",
             "perioperative"
       ],
       "other_name": [
-            "lcv"
+            "factor",
+            "acid",
+            "tetrahydrofolate"
       ],
       "criteria": [
             "eligibility",
@@ -533,12 +551,23 @@
             "c",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002525.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "dietary"
+      ],
+      "id": "NCT00002525"
 }

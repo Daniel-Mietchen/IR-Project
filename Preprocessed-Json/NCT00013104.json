@@ -230,7 +230,6 @@
             "guideline"
       ],
       "condition": [
-            "ischemic",
             "heart",
             "disease"
       ],
@@ -240,9 +239,15 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013104.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "ischemia",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00013104"
 }

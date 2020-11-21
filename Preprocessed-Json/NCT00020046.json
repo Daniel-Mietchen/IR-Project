@@ -166,14 +166,19 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "prostate",
+            "cancer",
+            "prostate",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "thalidomide"
       ],
       "criteria": [
@@ -351,11 +356,19 @@
             "month",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00020046.xml"
+      "keyword": [
+            "stage",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00020046"
 }

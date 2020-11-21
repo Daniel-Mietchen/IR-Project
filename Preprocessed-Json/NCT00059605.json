@@ -413,28 +413,23 @@
             "anderson"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
       "intervention_name": [
-            "dotap"
+            "DOTAP:Chol-fus1"
       ],
       "description": [
-            "infusion",
             "dotap",
             "vein",
             "every",
             "3",
             "week"
       ],
-      "arm_group_label": [
-            "dotap"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "dotap",
             "liposome"
       ],
       "criteria": [
@@ -637,12 +632,8 @@
             "count",
             "anc",
             "1500",
-            "10",
-            "3",
             "platelet",
             "count",
-            "10",
-            "3",
             "prothrombin",
             "time",
             "pt",
@@ -902,9 +893,17 @@
             "entry",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059605.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gene",
+            "transfer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00059605"
 }

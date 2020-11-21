@@ -229,13 +229,16 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -438,14 +441,23 @@
             "anticancer",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052312.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "papillary",
+            "serous",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00052312"
 }

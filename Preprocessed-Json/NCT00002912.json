@@ -173,18 +173,18 @@
             "6",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "etoposide",
+            "mitoxantrone hydrochloride",
             "valspodar"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -380,12 +380,21 @@
             "blast",
             "count"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00002912"
 }

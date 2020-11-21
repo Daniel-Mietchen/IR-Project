@@ -152,25 +152,27 @@
       "condition": [
             "uterine",
             "corpus",
+            "sarcoma",
+            "corpus",
             "leiomyosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Thalidomide",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
             "thalidomide"
       ],
-      "other_name": [
-            "thal"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -483,11 +485,10 @@
             "bisphosphonates",
             "zoledronate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025220.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00025220"
 }

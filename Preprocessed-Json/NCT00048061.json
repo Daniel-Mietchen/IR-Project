@@ -40,22 +40,57 @@
             "individual"
       ],
       "condition": [
-            "post",
             "menopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "vitamin"
+            "Ibandronate [Bonviva/Boniva]",
+            "Ibandronate [Bonviva/Boniva]",
+            "Ibandronate [Bonviva/Boniva]",
+            "Ibandronate [Bonviva/Boniva]",
+            "Calcium",
+            "Vitamin D"
       ],
       "description": [
-            "400"
+            "po",
+            "daily",
+            "po",
+            "monthly",
+            "single",
+            "day",
+            "po",
+            "monthly",
+            "2",
+            "consecutive",
+            "day",
+            "po",
+            "monthly"
       ],
       "arm_group_label": [
-            "ibandronate",
+            "mg",
+            "mg",
+            "100",
+            "mg",
+            "150",
+            "mg",
+            "mg",
+            "mg",
+            "100",
+            "mg",
+            "150",
+            "mg",
+            "mg",
+            "mg",
+            "100",
+            "mg",
             "150",
             "mg"
       ],
@@ -118,9 +153,7 @@
             "2",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "55",
             "year"
@@ -129,6 +162,11 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048061.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal",
+            "acid",
+            "dietary"
+      ],
+      "id": "NCT00048061"
 }

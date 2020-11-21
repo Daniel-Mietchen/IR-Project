@@ -431,7 +431,9 @@
             "proband"
       ],
       "condition": [
-            "metabolic",
+            "disease",
+            "disease",
+            "disease",
             "syndrome",
             "x"
       ],
@@ -469,7 +471,7 @@
             "parent",
             "possible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "22",
             "year"
@@ -478,6 +480,15 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005314.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "syndrome",
+            "x",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005314"
 }

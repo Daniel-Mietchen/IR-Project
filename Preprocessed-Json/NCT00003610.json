@@ -141,18 +141,27 @@
             "complete"
       ],
       "condition": [
-            "radiation",
+            "neck",
+            "cancer",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Dietary Supplement",
+            "Other",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "capsaicin",
+            "placebo",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "placebo",
+            "radiation",
+            "therapy",
+            "radiation",
+            "therapy",
+            "radiation",
+            "therapy",
             "radiation",
             "therapy"
       ],
@@ -241,12 +250,16 @@
             "tube",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003610.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00003610"
 }

@@ -176,21 +176,22 @@
             "schedule"
       ],
       "condition": [
-            "regional",
+            "neuroblastoma",
+            "unresectable",
+            "neuroblastoma",
+            "neuroblastoma",
             "neuroblastoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "r"
+            "R(+)XK469"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "chemotherapy"
       ],
       "other_name": [],
@@ -348,7 +349,7 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -357,6 +358,7 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028522.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00028522"
 }

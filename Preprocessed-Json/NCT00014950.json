@@ -208,16 +208,15 @@
             "country"
       ],
       "condition": [
-            "pseudomonas",
+            "fibrosis",
+            "disease",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cf",
-            "newborn",
-            "screen"
+            "CF newborn screening"
       ],
       "criteria": [
             "inclusion",
@@ -255,7 +254,7 @@
             "parental",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -264,6 +263,15 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014950.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "risk",
+            "communication"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "infection"
+      ],
+      "id": "NCT00014950"
 }

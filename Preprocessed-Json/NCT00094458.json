@@ -333,23 +333,39 @@
             "study"
       ],
       "condition": [
-            "crohn",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab",
-            "ifx",
-            "placebo",
-            "infusion",
-            "azathioprine",
-            "aza",
-            "cap"
+            "infliximab infusion; AZA placebo caps",
+            "infliximab (IFX) infusion; azathioprine (AZA) caps",
+            "infliximab (IFX) placebo infusion; azathioprine (AZA) caps"
       ],
       "description": [
+            "5",
+            "week",
+            "0",
+            "2",
+            "6",
+            "14",
+            "22",
+            "placebo",
             "aza",
+            "capsule",
+            "daily",
+            "ifx",
+            "infusion",
+            "5",
+            "week",
+            "0",
+            "2",
+            "6",
+            "14",
+            "22",
             "daily",
             "placebo",
             "ifx",
@@ -361,9 +377,7 @@
             "14",
             "22"
       ],
-      "arm_group_label": [
-            "001"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -442,7 +456,7 @@
             "310",
             "pound"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -451,6 +465,14 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094458.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sonic"
+      ],
+      "mesh_term": [
+            "disease",
+            "factor",
+            "immunologic"
+      ],
+      "id": "NCT00094458"
 }

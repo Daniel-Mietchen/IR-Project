@@ -240,21 +240,30 @@
             "men"
       ],
       "condition": [
-            "cardiomyopathy",
+            "disease",
+            "disease",
+            "accident",
+            "disease",
             "congestive"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005156.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "dilate"
+      ],
+      "id": "NCT00005156"
 }

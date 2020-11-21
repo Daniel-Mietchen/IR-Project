@@ -281,14 +281,13 @@
             "hydroxyurea"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hydroxyurea"
+            "Hydroxyurea"
       ],
       "criteria": [
             "patient",
@@ -594,9 +593,19 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001818.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cytotoxic",
+            "agent"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001818"
 }

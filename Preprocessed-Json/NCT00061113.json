@@ -69,17 +69,33 @@
             "study"
       ],
       "condition": [
+            "disorder",
+            "abuse",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "cbt"
+            "Fluoxetine + outpatient cognitive behavioral therapy",
+            "fluoxetine",
+            "placebo + CBT"
       ],
       "description": [
-            "single",
+            "fix",
+            "morning",
+            "dose",
+            "20",
+            "mg",
+            "x",
+            "15",
+            "week",
+            "qd",
+            "x",
+            "16",
+            "week",
             "fix",
             "morning",
             "dose",
@@ -87,12 +103,8 @@
             "16",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "prozac"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -153,7 +165,7 @@
             "laboratory",
             "abnormality"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -162,6 +174,15 @@
             "19",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061113.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "marijuana",
+            "dependence"
+      ],
+      "mesh_term": [
+            "abuse",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00061113"
 }

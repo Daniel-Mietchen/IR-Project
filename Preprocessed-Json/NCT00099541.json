@@ -57,16 +57,16 @@
             "surgery"
       ],
       "condition": [
-            "pleural",
+            "lung",
+            "cancer",
             "effusion",
             "malignant"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "zoledronic acid"
       ],
       "criteria": [
             "inclusion",
@@ -179,12 +179,28 @@
             "compliance",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099541.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unresectable",
+            "stage",
+            "iiib",
+            "nsclc",
+            "pleural",
+            "effusion"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "effusion",
+            "effusion",
+            "malignant",
+            "acid"
+      ],
+      "id": "NCT00099541"
 }

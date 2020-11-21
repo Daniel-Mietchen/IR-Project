@@ -63,7 +63,6 @@
             "high",
             "risk",
             "must",
-            "identify",
             "although",
             "past",
             "study",
@@ -244,13 +243,14 @@
             "s"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -259,6 +259,10 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005752.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005752"
 }

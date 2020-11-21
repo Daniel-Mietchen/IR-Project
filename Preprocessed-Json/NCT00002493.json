@@ -143,17 +143,20 @@
             "year"
       ],
       "condition": [
-            "psychosocial",
+            "cancer",
             "effect",
             "cancer",
             "treatment"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -333,11 +336,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002493.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosocial",
+            "effect",
+            "cancer",
+            "treatment"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002493"
 }

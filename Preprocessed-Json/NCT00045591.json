@@ -196,23 +196,27 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "celecoxib",
+            "Celecoxib"
       ],
       "description": [
-            "400",
+            "mg",
+            "po",
+            "bid",
             "mg",
             "po",
             "bid"
       ],
       "arm_group_label": [
-            "celecoxib",
+            "100",
+            "mg",
             "400",
             "mg"
       ],
@@ -497,9 +501,7 @@
             "concurrent",
             "fluconazole"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -508,6 +510,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045591.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00045591"
 }

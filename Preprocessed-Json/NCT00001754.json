@@ -314,7 +314,8 @@
             "know"
       ],
       "condition": [
-            "skeletal",
+            "bone",
+            "disease",
             "dysplasia"
       ],
       "criteria": [
@@ -455,9 +456,20 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001754.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "ii",
+            "collagen",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "developmental"
+      ],
+      "id": "NCT00001754"
 }

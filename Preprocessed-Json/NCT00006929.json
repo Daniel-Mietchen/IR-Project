@@ -270,30 +270,60 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "suramin",
+            "carboplatin",
+            "paclitaxel",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "suramin",
+            "paclitaxel",
+            "carboplatin",
+            "suramin",
+            "paclitaxel",
+            "carboplatin",
+            "suramin",
+            "paclitaxel",
+            "carboplatin",
+            "suramin",
+            "paclitaxel",
+            "carboplatin",
             "suramin",
             "paclitaxel",
             "carboplatin"
       ],
       "other_name": [
-            "pharmacological",
+            "f",
+            "205",
+            "309",
             "study"
       ],
       "criteria": [
@@ -487,12 +517,17 @@
             "indicator",
             "lesion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006929.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00006929"
 }

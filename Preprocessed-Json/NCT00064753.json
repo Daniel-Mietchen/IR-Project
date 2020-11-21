@@ -80,18 +80,51 @@
             "recipient"
       ],
       "condition": [
-            "death"
+            "kidney",
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "low",
-            "dose",
-            "multivitamin"
+            "High Dose Multivitamin",
+            "Low Dose Multivitamin"
       ],
       "description": [
+            "pyridoxine",
+            "hcl",
+            "50",
+            "mg",
+            "folic",
+            "acid",
+            "mg",
             "vitamin",
+            "mg",
+            "vitamin",
+            "thiamine",
+            "mg",
+            "vitamin",
+            "riboflavin",
+            "mg",
+            "vitamin",
+            "c",
+            "ascorbic",
+            "acid",
+            "60",
+            "mg",
+            "300",
+            "mcg",
+            "niacinamide",
+            "20",
+            "mg",
+            "pantothenic",
+            "acid",
+            "calcium",
+            "pantothenate",
+            "10",
+            "mg",
             "pyridoxine",
             "hcl",
             "mg",
@@ -125,13 +158,12 @@
             "mg"
       ],
       "arm_group_label": [
-            "low",
+            "dose",
+            "multivitamin",
             "dose",
             "multivitamin"
       ],
-      "other_name": [
-            "multivitamin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -227,7 +259,7 @@
             "transplant",
             "except"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -236,6 +268,25 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064753.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "transplant",
+            "recipient"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "insufficiency",
+            "chronic",
+            "b",
+            "12",
+            "b",
+            "6",
+            "acid",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00064753"
 }

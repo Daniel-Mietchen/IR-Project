@@ -96,16 +96,26 @@
             "intolerance",
             "isoniazid"
       ],
-      "condition": [
-            "tuberculosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rez"
+            "Rifampin",
+            "Pyrazinamide",
+            "Ethambutol",
+            "REZ"
       ],
       "description": [
+            "rez",
+            "intermittent",
+            "rez",
+            "intermittent",
+            "rez",
+            "intermittent",
             "give",
             "2",
             "3",
@@ -587,12 +597,16 @@
             "drug",
             "intolerance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023374.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [],
+      "id": "NCT00023374"
 }

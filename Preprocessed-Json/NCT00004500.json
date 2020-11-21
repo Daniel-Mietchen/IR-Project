@@ -85,15 +85,61 @@
             "month"
       ],
       "condition": [
-            "meconium",
             "aspiration"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "standard",
-            "care"
+            "Lucinactant",
+            "Standard Care"
       ],
       "description": [
+            "lucinactant",
+            "suspension",
+            "administer",
+            "10",
+            "mg",
+            "total",
+            "phospholipid",
+            "tpl",
+            "bronchoalveolar",
+            "lavage",
+            "within",
+            "90",
+            "minute",
+            "randomization",
+            "dose",
+            "determine",
+            "base",
+            "infant",
+            "body",
+            "weight",
+            "total",
+            "dose",
+            "16",
+            "2",
+            "lavage",
+            "procedure",
+            "32",
+            "overall",
+            "infant",
+            "receive",
+            "2",
+            "dose",
+            "lucinactant",
+            "dose",
+            "consist",
+            "separate",
+            "lavage",
+            "procedure",
+            "lung",
+            "within",
+            "15",
+            "minute",
+            "60",
+            "minute",
             "standard",
             "care",
             "sc",
@@ -137,11 +183,9 @@
             "sc"
       ],
       "arm_group_label": [
-            "standard",
             "care"
       ],
       "other_name": [
-            "negative",
             "control"
       ],
       "criteria": [
@@ -221,12 +265,21 @@
             "15",
             "minute"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "48",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004500.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "aspiration",
+            "syndrome",
+            "surfactant"
+      ],
+      "id": "NCT00004500"
 }

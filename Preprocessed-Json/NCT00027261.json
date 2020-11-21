@@ -242,19 +242,14 @@
             "response"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "alvac",
-            "2",
-            "120",
-            "b",
-            "mn",
-            "gnp"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)"
       ],
       "criteria": [
             "inclusion",
@@ -443,7 +438,7 @@
             "active",
             "tuberculosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -452,6 +447,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027261.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00027261"
 }

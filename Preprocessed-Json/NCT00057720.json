@@ -24,17 +24,17 @@
             "population"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hcl",
-            "liposome",
-            "injection"
+            "TLK286 HCl for injection",
+            "topotecan hydrochloride for injection",
+            "doxorubicin HCl liposome injection"
       ],
       "criteria": [
             "inclusion",
@@ -110,14 +110,19 @@
             "lactate",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057720.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovary"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00057720"
 }

@@ -35,17 +35,16 @@
             "option"
       ],
       "condition": [
-            "chronic",
+            "b",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "entecavir"
+            "Entecavir"
       ],
       "description": [
-            "tablet",
             "oral",
             "1",
             "mg",
@@ -60,9 +59,7 @@
             "give",
             "country"
       ],
-      "other_name": [
-            "baraclude"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -72,12 +69,19 @@
             "access",
             "program"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096811.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic",
+            "disease"
+      ],
+      "id": "NCT00096811"
 }

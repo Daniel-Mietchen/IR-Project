@@ -259,15 +259,23 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Drug",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "rabies",
-            "vaccine"
+            "Abacavir sulfate, Lamivudine and Zidovudine",
+            "Cyclosporine",
+            "Hepatitis A Vaccine (Inactivated)",
+            "Efavirenz",
+            "Pneumococcal Conjugate Vaccine, Heptavalent",
+            "Rabies Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -465,12 +473,25 @@
             "reaction",
             "abc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031070.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumococcal",
+            "conjugate",
+            "vaccine",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00031070"
 }

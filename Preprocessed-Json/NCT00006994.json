@@ -200,16 +200,33 @@
             "year"
       ],
       "condition": [
-            "pain"
+            "neck",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "glutamine",
+            "radiation therapy",
+            "l-glutamine placebo"
       ],
       "description": [
-            "20",
+            "cc",
+            "three",
+            "time",
+            "daily",
+            "60",
+            "day",
+            "institutional",
+            "standard",
+            "minimum",
+            "cgy",
+            "daily",
+            "dose",
+            "cgy",
             "cc",
             "three",
             "time",
@@ -218,7 +235,12 @@
             "day"
       ],
       "arm_group_label": [
-            "placebo",
+            "suspension",
+            "radiation",
+            "suspension",
+            "radiation",
+            "suspension",
+            "radiation",
             "suspension",
             "radiation"
       ],
@@ -336,7 +358,7 @@
             "study",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -345,6 +367,18 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006994.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00006994"
 }

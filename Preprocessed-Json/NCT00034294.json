@@ -67,12 +67,19 @@
             "week"
       ],
       "condition": [
+            "diarrhea",
+            "enterocolitis",
+            "difficile",
+            "diarrhea",
+            "colitis",
             "diarrhea"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GT160-246"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -97,12 +104,18 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034294.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colitis"
+      ],
+      "mesh_term": [
+            "pseudomembranous"
+      ],
+      "id": "NCT00034294"
 }

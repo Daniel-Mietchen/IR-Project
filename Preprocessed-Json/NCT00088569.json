@@ -411,14 +411,12 @@
             "activation",
             "performance"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "water"
+            "0-15 Water"
       ],
       "criteria": [
             "inclusion",
@@ -499,9 +497,12 @@
             "stimulate",
             "electrode"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088569.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "id": "NCT00088569"
 }

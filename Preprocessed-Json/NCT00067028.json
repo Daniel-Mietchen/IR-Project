@@ -712,16 +712,58 @@
             "anderson"
       ],
       "condition": [
-            "chronic",
+            "myeloid",
+            "leukemia",
+            "syndrome",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Clofarabine",
+            "Idarubicin",
+            "Ara-C"
+      ],
       "description": [
-            "start",
+            "40",
+            "vein",
+            "1",
+            "hour",
+            "daily",
+            "5",
+            "day",
+            "idarubicin",
+            "vein",
+            "30",
+            "minute",
+            "around",
+            "one",
+            "hour",
+            "clofarabine",
+            "first",
+            "3",
+            "day",
+            "5",
+            "day",
+            "idarubicin",
+            "plus",
+            "vein",
+            "30",
+            "minute",
+            "around",
+            "one",
+            "hour",
+            "clofarabine",
+            "first",
+            "3",
+            "day",
+            "5",
+            "day",
+            "cycle",
             "dose",
             "vein",
             "2",
@@ -735,11 +777,13 @@
             "cycle"
       ],
       "arm_group_label": [
-            "clofarabine",
+            "idarubicin",
+            "idarubicin",
+            "idarubicin",
+            "idarubicin",
             "idarubicin"
       ],
       "other_name": [
-            "cytosine",
             "arabinosine",
             "hydrochloride"
       ],
@@ -935,7 +979,7 @@
             "fraction",
             "30"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -944,6 +988,19 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067028.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "idamycin"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis"
+      ],
+      "id": "NCT00067028"
 }

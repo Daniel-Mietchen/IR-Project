@@ -141,15 +141,14 @@
             "drug"
       ],
       "condition": [
-            "hiv",
+            "disorder",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "selegiline",
-            "hydrochloride"
+            "Selegiline hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -191,12 +190,19 @@
             "cardiac",
             "device"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027040.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "proton"
+      ],
+      "mesh_term": [
+            "infection",
+            "disorder"
+      ],
+      "id": "NCT00027040"
 }

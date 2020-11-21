@@ -229,27 +229,41 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "doxorubicin",
             "bortezomib"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "velcade"
+            "hydrochloride",
+            "pfs",
+            "rdf",
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -589,12 +603,21 @@
             "interaction",
             "doxorubicin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083226.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00083226"
 }

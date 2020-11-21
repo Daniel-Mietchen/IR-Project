@@ -324,15 +324,13 @@
             "infusion"
       ],
       "condition": [
-            "paraproteinemias"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "intravenous",
-            "immunoglobulin",
-            "ivig"
+            "intravenous immunoglobulin (IVIg)"
       ],
       "criteria": [
             "select",
@@ -486,9 +484,24 @@
             "iga",
             "deficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001287.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "inflammatory",
+            "demyelinate",
+            "polyneuropathy"
+      ],
+      "mesh_term": [
+            "chronic",
+            "inflammatory",
+            "demyelinate",
+            "disease",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00001287"
 }

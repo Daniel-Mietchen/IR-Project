@@ -300,15 +300,22 @@
             "2",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "sargramostim",
+            "cyclophosphamide",
+            "cytarabine",
+            "gemtuzumab ozogamicin",
+            "liposomal daunorubicin citrate",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -448,9 +455,7 @@
             "time",
             "upper",
             "limit",
-            "normal",
             "note",
-            "unless",
             "due",
             "leukemia",
             "infiltration",
@@ -625,12 +630,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005962.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00005962"
 }

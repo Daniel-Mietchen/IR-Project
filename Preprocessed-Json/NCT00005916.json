@@ -484,13 +484,19 @@
             "immunocompetence"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rV-PSA",
+            "rF-PSA",
+            "rV-B7.1"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -857,14 +863,19 @@
             "may",
             "exacerbate"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005916.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005916"
 }

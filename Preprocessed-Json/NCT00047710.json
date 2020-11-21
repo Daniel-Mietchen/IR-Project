@@ -65,17 +65,39 @@
             "chemotherapy"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiotherapy"
+            "Bevacizumab",
+            "Capecitabine",
+            "Radiotherapy"
       ],
       "description": [
-            "radiography",
+            "2",
+            "week",
+            "prior",
+            "radiotherapy",
+            "dose",
+            "5",
+            "vein",
+            "radiotherapy",
+            "four",
+            "week",
+            "every",
+            "2",
+            "week",
+            "three",
+            "dose",
+            "take",
+            "mouth",
+            "twice",
+            "day",
+            "radiotherapy",
             "give",
             "day",
             "5",
@@ -85,11 +107,10 @@
             "fraction",
             "week"
       ],
-      "arm_group_label": [
-            "bevacizumab"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "xrt"
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -272,9 +293,15 @@
             "receive",
             "capecitabine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047710.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00047710"
 }

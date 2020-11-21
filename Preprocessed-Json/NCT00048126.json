@@ -39,23 +39,30 @@
             "individual"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine",
-            "xeloda"
+            "Irinotecan",
+            "capecitabine [Xeloda]"
       ],
       "description": [
+            "iv",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "6",
+            "week",
+            "cycle",
             "po",
             "bid"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -91,12 +98,15 @@
             "month",
             "completion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048126.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00048126"
 }

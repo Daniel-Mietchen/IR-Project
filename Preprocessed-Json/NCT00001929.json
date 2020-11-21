@@ -73,14 +73,14 @@
             "pd"
       ],
       "condition": [
-            "parkinson",
+            "disorder",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "eliprodil"
+            "Eliprodil"
       ],
       "criteria": [
             "patient",
@@ -131,9 +131,16 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001929.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "levodopa"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00001929"
 }

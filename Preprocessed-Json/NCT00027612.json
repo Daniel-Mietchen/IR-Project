@@ -208,24 +208,27 @@
             "toxicity"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "carmustine",
+            "irinotecan hydrochloride",
+            "radiation therapy"
       ],
-      "description": [
-            "iv"
-      ],
+      "description": [],
       "arm_group_label": [
-            "irinotecan",
+            "carmustine",
+            "radiation",
+            "carmustine",
+            "radiation",
             "carmustine",
             "radiation"
       ],
@@ -298,12 +301,23 @@
             "radiotherapy",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00027612"
 }

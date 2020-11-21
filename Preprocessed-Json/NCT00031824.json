@@ -234,22 +234,26 @@
             "year"
       ],
       "condition": [
-            "graft",
             "versus",
             "host",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclosporine",
+            "hydroxychloroquine",
+            "prednisone",
             "tacrolimus"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "newly",
             "diagnose",
             "extensive",
@@ -453,7 +457,6 @@
             "malignancy",
             "require",
             "note",
-            "histologic",
             "confirmation",
             "may",
             "consistent",
@@ -658,7 +661,7 @@
             "cholestyramine",
             "bicarbonate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -667,6 +670,17 @@
             "29",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031824.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "versus",
+            "host",
+            "disease"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00031824"
 }

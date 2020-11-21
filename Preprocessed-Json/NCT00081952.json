@@ -106,13 +106,14 @@
             "diary"
       ],
       "condition": [
-            "hot",
             "flash"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "L-norleucine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -133,11 +134,15 @@
             "2",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081952.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "postmenopause"
+      ],
+      "mesh_term": [
+            "flash"
+      ],
+      "id": "NCT00081952"
 }

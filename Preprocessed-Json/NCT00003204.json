@@ -294,29 +294,102 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "iii",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "iii",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "iii",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
+            "iii",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "iv",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "iv",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "iv",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
             "iv",
             "small",
             "lymphocytic",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "vincristine sulfate",
+            "prednisone",
+            "rituximab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "po",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "cyclophosphamide",
+            "fludarabine",
+            "ii",
+            "cyclophosphamide",
+            "vincristine",
+            "prednisone",
+            "cyclophosphamide",
+            "fludarabine",
+            "ii",
+            "cyclophosphamide",
+            "vincristine",
+            "prednisone",
+            "ii",
+            "cyclophosphamide",
+            "vincristine",
+            "prednisone",
+            "iii",
+            "rituximab",
+            "cyclophosphamide",
+            "fludarabine",
+            "ii",
+            "cyclophosphamide",
+            "vincristine",
+            "prednisone",
             "iii",
             "rituximab"
       ],
       "other_name": [
-            "rituxan"
+            "sulfate",
+            "pfs",
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -573,12 +646,19 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003204.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "lymphocytic",
+            "chronic",
+            "phosphate",
+            "monoclonal"
+      ],
+      "id": "NCT00003204"
 }

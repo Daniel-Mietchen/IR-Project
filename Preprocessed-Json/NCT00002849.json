@@ -201,18 +201,19 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
             "dexamethasone"
       ],
       "description": [
-            "40",
-            "mg",
+            "2",
+            "year",
             "po",
             "1",
             "4",
@@ -221,15 +222,14 @@
             "q",
             "35",
             "day",
-            "3",
-            "cycle"
+            "3"
       ],
       "arm_group_label": [
-            "induction",
+            "maintenance",
             "maintenance"
       ],
       "other_name": [
-            "decadron"
+            "interferon"
       ],
       "criteria": [
             "disease",
@@ -412,12 +412,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002849.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "systemic",
+            "amyloidosis"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00002849"
 }

@@ -566,14 +566,19 @@
             "gy"
       ],
       "condition": [
-            "liver",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "rV-CEA(6D)/TRICOM-rF-CEA(6D)/TRICOM",
+            "rF-CEA(6D)/TRICOM",
+            "Recombinant Fowlpox-GM-CSF",
+            "Celecoxib"
       ],
       "criteria": [
             "inclusion",
@@ -1035,12 +1040,20 @@
             "core",
             "antibody"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081848.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00081848"
 }

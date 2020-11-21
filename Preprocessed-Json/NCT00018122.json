@@ -232,7 +232,6 @@
             "procedure"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "criteria": [
@@ -275,9 +274,7 @@
             "also",
             "qualify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -286,6 +283,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018122.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "islet",
+            "cell",
+            "transplant"
+      ],
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00018122"
 }

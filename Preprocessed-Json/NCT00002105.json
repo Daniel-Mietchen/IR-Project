@@ -96,15 +96,18 @@
             "biopsied"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "Doxorubicin hydrochloride (liposomal)",
+            "Bleomycin sulfate",
+            "Vincristine sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -286,12 +289,21 @@
             "3",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "carrier"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi",
+            "doxorubicin"
+      ],
+      "id": "NCT00002105"
 }

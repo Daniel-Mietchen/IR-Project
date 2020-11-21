@@ -287,7 +287,6 @@
             "recommend",
             "biopsy",
             "subset",
-            "participant",
             "arm",
             "undergo",
             "breast",
@@ -357,15 +356,21 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "ultrasound",
-            "image"
+            "breast imaging study",
+            "comparison of screening methods",
+            "magnetic resonance imaging",
+            "radiomammography",
+            "ultrasound imaging"
       ],
       "criteria": [
             "disease",
@@ -477,7 +482,6 @@
             "least",
             "1",
             "breast",
-            "mammogram",
             "unknown",
             "breast",
             "density",
@@ -492,7 +496,6 @@
             "fibroglandular",
             "density",
             "recent",
-            "mammogram",
             "interpret",
             "negative",
             "benign",
@@ -639,19 +642,15 @@
             "medication",
             "valium",
             "ativan",
-            "sedative",
             "must",
             "intravenous",
-            "access",
             "weight",
             "300",
-            "pound",
             "physically",
             "able",
             "tolerate",
             "position",
             "mri",
-            "scanner",
             "able",
             "undergo",
             "mri",
@@ -663,7 +662,6 @@
             "ultrasound",
             "mammogram",
             "time",
-            "point",
             "agree",
             "undergo",
             "mri",
@@ -674,7 +672,6 @@
             "biopsy",
             "need",
             "note",
-            "mri",
             "component",
             "study",
             "prior",
@@ -827,14 +824,19 @@
             "concurrent",
             "dialysis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072501.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00072501"
 }

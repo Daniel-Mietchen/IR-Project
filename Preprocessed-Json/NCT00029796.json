@@ -283,16 +283,14 @@
             "disease"
       ],
       "condition": [
-            "kidney",
             "failure",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "soy",
-            "isoflavones"
+            "soy isoflavones"
       ],
       "criteria": [
             "inclusion",
@@ -425,7 +423,7 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -434,6 +432,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029796.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic",
+            "reaction"
+      ],
+      "id": "NCT00029796"
 }

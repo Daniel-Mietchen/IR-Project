@@ -265,31 +265,50 @@
             "entry"
       ],
       "condition": [
-            "extensive",
             "stage",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cisplatin",
+            "etoposide",
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "cisplatin",
+            "etoposide",
+            "bevacizumab",
+            "cisplatin",
+            "etoposide",
+            "bevacizumab",
+            "cisplatin",
+            "etoposide",
+            "bevacizumab",
             "cisplatin",
             "etoposide",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -641,12 +660,20 @@
             "evaluable",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079040.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate",
+            "monoclonal"
+      ],
+      "id": "NCT00079040"
 }

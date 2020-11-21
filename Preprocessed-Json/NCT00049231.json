@@ -141,13 +141,16 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
+            "EF5",
+            "immunohistochemistry staining method",
             "biopsy"
       ],
       "criteria": [
@@ -276,14 +279,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iva",
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00049231"
 }

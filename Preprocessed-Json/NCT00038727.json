@@ -117,17 +117,25 @@
             "http"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "boost",
-            "lifestyle"
+            "Group Lifestyle",
+            "Metformin",
+            "Boost Lifestyle"
       ],
       "description": [
+            "group",
+            "lifestyle",
+            "session",
+            "twice",
+            "per",
+            "day",
             "addition",
             "quarterly",
             "group",
@@ -141,23 +149,31 @@
             "minute"
       ],
       "arm_group_label": [
-            "1",
+            "bls",
+            "ml",
+            "gls",
+            "ml",
             "bls"
       ],
-      "other_name": [
-            "glucophage"
-      ],
+      "other_name": [],
       "criteria": [
             "participation",
             "volunteer",
             "dpp"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "microvascular",
+            "disease"
+      ],
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00038727"
 }

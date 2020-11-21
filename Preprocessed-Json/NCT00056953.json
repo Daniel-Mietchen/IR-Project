@@ -158,16 +158,15 @@
             "plan"
       ],
       "condition": [
-            "hiv",
+            "behavior",
+            "behavior",
             "seronegativity"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "peer",
-            "mentor",
-            "program"
+            "Peer mentoring program"
       ],
       "criteria": [
             "inclusion",
@@ -185,7 +184,7 @@
             "parental",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -194,6 +193,10 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056953.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "peer",
+            "mentor"
+      ],
+      "id": "NCT00056953"
 }

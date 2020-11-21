@@ -28,19 +28,15 @@
             "woman"
       ],
       "condition": [
-            "osteoporosis",
             "postmenopausal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "risedronate",
-            "duration",
-            "intervention",
-            "12",
-            "mo"
+            "MK0217, alendronate sodium/Duration of Intervention: 12 mo",
+            "Comparator: risedronate / Duration of Intervention: 12 mo"
       ],
       "criteria": [
             "inclusion",
@@ -55,14 +51,16 @@
             "study",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092040.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal",
+            "sodium"
+      ],
+      "id": "NCT00092040"
 }

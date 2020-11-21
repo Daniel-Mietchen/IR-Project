@@ -249,17 +249,14 @@
             "licensure"
       ],
       "condition": [
-            "health",
+            "traffic",
             "behavior"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "teen",
-            "drive",
-            "program",
-            "parent"
+            "Teen Driving: Program for parents"
       ],
       "description": [
             "behavioral",
@@ -287,7 +284,6 @@
             "driver"
       ],
       "arm_group_label": [
-            "teen",
             "drive",
             "program",
             "parent"
@@ -310,7 +306,7 @@
             "interview",
             "english"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -319,6 +315,10 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062829.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "health",
+            "education"
+      ],
+      "id": "NCT00062829"
 }

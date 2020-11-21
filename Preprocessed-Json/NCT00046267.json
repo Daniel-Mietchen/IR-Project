@@ -182,14 +182,14 @@
             "count"
       ],
       "condition": [
-            "diabetes",
+            "infection",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "niacin"
+            "Niacin"
       ],
       "criteria": [
             "inclusion",
@@ -561,12 +561,21 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046267.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "infection",
+            "acid"
+      ],
+      "id": "NCT00046267"
 }

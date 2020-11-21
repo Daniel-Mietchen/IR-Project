@@ -31,18 +31,25 @@
             "time",
             "ramipril"
       ],
-      "condition": [
-            "albuminuria"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ramipril",
-            "placebo"
+            "Ramipril + Irbesartan",
+            "Ramipril + Placebo"
       ],
       "description": [
-            "tablet",
+            "capsule",
+            "oral",
+            "ramipril",
+            "irbesartan",
+            "target",
+            "dose",
+            "daily",
+            "20",
+            "week",
             "capsule",
             "oral",
             "ramipril",
@@ -54,9 +61,7 @@
             "week"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "avapro"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -249,12 +254,21 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095290.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "albuminuria",
+            "hypertensive",
+            "subject",
+            "elevate",
+            "cardiovascular",
+            "risk"
+      ],
+      "mesh_term": [],
+      "id": "NCT00095290"
 }

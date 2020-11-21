@@ -88,15 +88,13 @@
             "medication"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tobramycin",
-            "inhalation"
+            "Tobramycin for Inhalation"
       ],
       "criteria": [
             "inclusion",
@@ -201,7 +199,7 @@
             "prior",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -210,6 +208,13 @@
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006280.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cystic",
+            "fibrosis"
+      ],
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00006280"
 }

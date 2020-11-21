@@ -281,15 +281,16 @@
             "case"
       ],
       "condition": [
-            "chromosome",
+            "syndrome",
             "abnormality"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "serum",
-            "screen"
+            "Ultrasound",
+            "Serum screen"
       ],
       "criteria": [
             "inclusion",
@@ -340,9 +341,7 @@
             "multiple",
             "gestation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
@@ -351,6 +350,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006445.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "aneuploidy"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "aberration",
+            "disorder"
+      ],
+      "id": "NCT00006445"
 }

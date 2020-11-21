@@ -211,28 +211,43 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "pegfilgrastim",
+            "docetaxel",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "description": [
+            "mg",
+            "injection",
+            "day",
+            "1",
+            "cycle",
+            "mg",
+            "per",
+            "every",
+            "14",
+            "day",
+            "4",
+            "cycle",
+            "mastectomy",
+            "end",
             "treatment",
             "prior",
             "definitive",
             "breast",
             "surgery"
       ],
-      "arm_group_label": [
-            "docetaxel"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "definitive",
             "surgery"
       ],
       "criteria": [
@@ -383,14 +398,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080626.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080626"
 }

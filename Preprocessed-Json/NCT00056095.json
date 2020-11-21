@@ -208,18 +208,23 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -313,9 +318,7 @@
             "bilirubin",
             "le",
             "time",
-            "uln",
             "note",
-            "unless",
             "due",
             "gilbert",
             "disease",
@@ -402,7 +405,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -411,6 +414,19 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056095.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "phosphate"
+      ],
+      "id": "NCT00056095"
 }

@@ -107,14 +107,17 @@
             "etc"
       ],
       "condition": [
-            "obesity"
+            "mellitus",
+            "type",
+            "2"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "motivational",
-            "interview"
+            "Behavioral Group Weight Loss Intervention",
+            "Motivational Interviewing"
       ],
       "criteria": [
             "inclusion",
@@ -163,14 +166,22 @@
             "18",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "motivational",
+            "enhancement"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00007800"
 }

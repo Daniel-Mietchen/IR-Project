@@ -363,7 +363,16 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "myeloproliferative",
+            "disorder",
+            "syndrome",
+            "disease",
+            "neoplasm",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
@@ -371,20 +380,63 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "irradiation"
+            "anti-thymocyte globulin",
+            "busulfan",
+            "carboplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "fludarabine phosphate",
+            "melphalan",
+            "thiotepa",
+            "total-body irradiation"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "twice",
             "daily",
             "3",
             "day"
       ],
       "arm_group_label": [
-            "regimen",
+            "2",
+            "7",
+            "8",
+            "9",
+            "1",
+            "9",
+            "6",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6",
+            "8",
+            "9",
+            "5",
+            "4",
+            "7",
+            "4",
+            "6",
+            "3",
+            "5",
             "8"
       ],
       "criteria": [
@@ -480,9 +532,7 @@
             "follow",
             "myelofibrosis",
             "polycythemia",
-            "vera",
             "essential",
-            "thrombocythemia",
             "refractory",
             "anemia",
             "refractory",
@@ -639,7 +689,6 @@
             "blood",
             "transplant",
             "note",
-            "patient",
             "25",
             "year",
             "age",
@@ -859,7 +908,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -868,6 +917,23 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003816.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "childhood",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "aplastic",
+            "disorder",
+            "disease",
+            "phosphate",
+            "serum",
+            "phosphate"
+      ],
+      "id": "NCT00003816"
 }

@@ -167,12 +167,16 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "dactinomycin",
+            "isolated limb perfusion",
             "melphalan"
       ],
       "criteria": [
@@ -304,12 +308,21 @@
             "prior",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004250.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004250"
 }

@@ -135,7 +135,6 @@
             "response"
       ],
       "condition": [
-            "sars",
             "virus"
       ],
       "criteria": [
@@ -204,9 +203,18 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066209.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "acute",
+            "respiratory",
+            "syndrome",
+            "infection"
+      ],
+      "id": "NCT00066209"
 }

@@ -147,17 +147,15 @@
             "abc"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate",
-            "lamivudine",
-            "zidovudine"
+            "Abacavir sulfate",
+            "Abacavir sulfate, lamivudine, and zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -277,7 +275,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -286,6 +284,13 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087945.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00087945"
 }

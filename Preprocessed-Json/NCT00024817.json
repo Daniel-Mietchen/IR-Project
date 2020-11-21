@@ -257,13 +257,14 @@
             "record"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -272,6 +273,10 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00024817.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00024817"
 }

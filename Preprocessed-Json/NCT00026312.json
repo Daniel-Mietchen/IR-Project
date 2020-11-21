@@ -553,22 +553,87 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "resectable",
+            "neuroblastoma",
+            "unresectable",
+            "neuroblastoma",
+            "neuroblastoma",
+            "neuroblastoma",
+            "4",
+            "neuroblastoma",
             "neuroblastoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Other",
+            "Other",
+            "Other",
+            "Biological"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Aldesleukin",
+            "Dinutuximab",
+            "Isotretinoin",
+            "Laboratory Biomarker Analysis",
+            "Pharmacological Study",
+            "Quality-of-Life Assessment",
+            "Sargramostim"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "po",
+            "study",
+            "study",
+            "study",
             "iv",
             "sc"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
+            "isotretinoin",
+            "close",
+            "accrual",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
+            "isotretinoin",
+            "close",
+            "accrual",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
+            "isotretinoin",
+            "close",
+            "accrual",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
+            "isotretinoin",
+            "close",
+            "accrual",
+            "ii",
+            "sargramostim",
+            "dinutuximab",
+            "aldesleukin",
+            "isotretinoin",
             "ii",
             "sargramostim",
             "dinutuximab",
@@ -576,7 +641,20 @@
             "isotretinoin"
       ],
       "other_name": [
-            "sargramostatin"
+            "2",
+            "human",
+            "human",
+            "antibody",
+            "retinoic",
+            "acid",
+            "acid",
+            "acid",
+            "acid",
+            "acid",
+            "life",
+            "assessment",
+            "factor",
+            "2"
       ],
       "criteria": [
             "inclusion",
@@ -1186,12 +1264,15 @@
             "agree",
             "stop"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026312.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00026312"
 }

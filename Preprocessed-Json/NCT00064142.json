@@ -197,26 +197,46 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "kaposi",
+            "sarcoma",
             "kaposi",
             "sarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "halofuginone hydrobromide",
+            "placebo",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "topically",
+            "topically",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "halofuginone",
+            "hydrobromide",
+            "ii",
+            "placebo",
+            "halofuginone",
+            "hydrobromide",
+            "ii",
+            "placebo",
+            "halofuginone",
+            "hydrobromide",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "pharmacological",
+            "hbr",
+            "19110",
             "study"
       ],
       "criteria": [
@@ -550,12 +570,15 @@
             "potentially",
             "toxic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064142.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "kaposi"
+      ],
+      "id": "NCT00064142"
 }

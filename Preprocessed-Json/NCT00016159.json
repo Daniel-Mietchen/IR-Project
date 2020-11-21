@@ -229,13 +229,19 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "lintuzumab",
+            "arsenic trioxide",
+            "idarubicin",
             "tretinoin"
       ],
       "criteria": [
@@ -358,9 +364,22 @@
             "therapy",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016159.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "promyelocytic",
+            "acute",
+            "trioxide"
+      ],
+      "id": "NCT00016159"
 }

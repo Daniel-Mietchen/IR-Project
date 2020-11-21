@@ -48,19 +48,35 @@
             "individual"
       ],
       "condition": [
-            "hepatitis",
             "c",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "peginterferon",
-            "pegasys"
+            "ribavirin [Copegus]",
+            "ribavirin [Copegus]",
+            "peginterferon alfa-2a (PEG-IFN alfa-2a) [Pegasys]",
+            "peginterferon alfa-2a (PEG-IFN alfa-2a) [Pegasys]"
       ],
       "description": [
-            "270",
+            "po",
+            "bid",
+            "48",
+            "week",
+            "po",
+            "bid",
+            "48",
+            "week",
+            "microgram",
+            "sc",
+            "weekly",
+            "48",
+            "week",
             "microgram",
             "sc",
             "weekly",
@@ -68,6 +84,39 @@
             "week"
       ],
       "arm_group_label": [
+            "180",
+            "mg",
+            "1200",
+            "mg",
+            "270",
+            "mg",
+            "ribavirin",
+            "1200",
+            "mg",
+            "180",
+            "mg",
+            "ribavirin",
+            "1600",
+            "mg",
+            "270",
+            "mg",
+            "ribavirin",
+            "1600",
+            "mg",
+            "180",
+            "mg",
+            "1200",
+            "mg",
+            "180",
+            "mg",
+            "ribavirin",
+            "1600",
+            "mg",
+            "270",
+            "mg",
+            "ribavirin",
+            "1200",
+            "mg",
             "270",
             "mg",
             "ribavirin",
@@ -139,12 +188,18 @@
             "levovirin",
             "amantadine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077649.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00077649"
 }

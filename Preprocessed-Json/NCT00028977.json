@@ -121,18 +121,17 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "herba",
-            "scutellaria",
-            "barbatae",
-            "hsb"
+            "herba scutellaria barbata",
+            "herba scutellaria Barbatae (HSB)"
       ],
       "other_name": [
-            "traditional",
             "chinese",
             "medicine"
       ],
@@ -316,14 +315,20 @@
             "allowance",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00028977"
 }

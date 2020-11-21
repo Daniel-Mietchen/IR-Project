@@ -443,17 +443,19 @@
             "breastfeed"
       ],
       "condition": [
-            "quadriplegia"
+            "cord",
+            "injury"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "intramuscular",
-            "diaphragm",
-            "electrode"
+            "intramuscular diaphragm electrodes",
+            "Intramuscular diaphragm electrodes"
       ],
       "description": [
+            "diaphragm",
             "test",
             "safety",
             "efficacy",
@@ -481,9 +483,7 @@
             "ventilator",
             "support"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "protocol",
             "entry",
@@ -540,12 +540,21 @@
             "deformity",
             "obesity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010374.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "spinal",
+            "cord",
+            "injury"
+      ],
+      "mesh_term": [
+            "cord",
+            "injury"
+      ],
+      "id": "NCT00010374"
 }

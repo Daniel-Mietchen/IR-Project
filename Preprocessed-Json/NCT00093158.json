@@ -65,16 +65,15 @@
             "complication"
       ],
       "condition": [
-            "acute",
+            "angina",
+            "infarction",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "angiomax",
-            "bivalirudin",
-            "anticoagulant"
+            "Angiomax (bivalirudin) anticoagulant"
       ],
       "criteria": [
             "inclusion",
@@ -126,22 +125,18 @@
             "follow",
             "four",
             "feature",
-            "age",
             "65",
             "year",
-            "aspirin",
             "take",
             "within",
             "last",
             "7",
             "day",
-            "two",
             "episode",
             "angina",
             "last",
             "24",
             "hour",
-            "three",
             "follow",
             "risk",
             "factor",
@@ -197,19 +192,16 @@
             "documentation",
             "one",
             "follow",
-            "prior",
             "angiography",
             "coronary",
             "stenosis",
             "50",
-            "prior",
             "pci",
             "coronary",
             "artery",
             "bypass",
             "graft",
             "cabg",
-            "prior",
             "definite",
             "document",
             "myocardial",
@@ -480,12 +472,24 @@
             "complete",
             "phase"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093158.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "coronary",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infarction",
+            "coronary",
+            "syndrome",
+            "unstable",
+            "disease"
+      ],
+      "id": "NCT00093158"
 }

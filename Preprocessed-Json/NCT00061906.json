@@ -116,18 +116,16 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "celecoxib"
       ],
       "description": [
-            "treatment",
             "administer",
             "outpatient",
             "basis",
@@ -149,9 +147,7 @@
             "improve",
             "absorption"
       ],
-      "other_name": [
-            "celexib"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -458,12 +454,25 @@
             "disease",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061906.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "papillary",
+            "thyroid",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00061906"
 }

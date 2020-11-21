@@ -204,18 +204,21 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "busulfan",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "methotrexate",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -377,12 +380,10 @@
             "within",
             "broad",
             "serotype",
-            "0101",
             "v",
             "0102",
             "crossover",
             "group",
-            "0101",
             "v",
             "0301",
             "allow",
@@ -470,12 +471,25 @@
             "methotrexate",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027924.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "phosphate"
+      ],
+      "id": "NCT00027924"
 }

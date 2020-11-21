@@ -268,29 +268,104 @@
             "death"
       ],
       "condition": [
-            "undifferentiated",
+            "ovarian",
+            "mix",
+            "epithelial",
+            "tumor",
+            "clear",
+            "cell",
+            "cystadenocarcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "mucinous",
+            "cystadenocarcinoma",
+            "serous",
+            "cystadenocarcinoma",
+            "peritoneal",
+            "carcinoma",
+            "iii",
+            "ovarian",
+            "cancer",
             "ovarian",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "Carboplatin",
+            "Cyclophosphamide",
+            "Filgrastim",
+            "Paclitaxel",
+            "Peripheral Blood Stem Cell Transplantation",
+            "Topotecan Hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "sq",
+            "iv",
+            "autologous",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
+            "transplantation",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "combination",
+            "chemotherapy",
+            "pbsc",
+            "combination",
+            "chemotherapy",
+            "pbsc",
             "combination",
             "chemotherapy",
             "pbsc"
       ],
       "other_name": [
-            "topotecan",
+            "hexal",
+            "aq",
+            "bi",
+            "amino",
+            "monohydrate",
+            "monohydrate",
+            "monohydrate",
+            "138719",
+            "methionyl",
+            "human",
+            "granulocyte",
+            "colony",
+            "stimulate",
+            "factor",
+            "konzentrat",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
+            "transplantation",
+            "stem",
+            "cell",
+            "support",
+            "stem",
+            "cell",
+            "transplantation",
+            "hcl",
             "hydrochloride",
             "oral"
       ],
@@ -501,14 +576,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004221.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "endometrioid",
+            "serous",
+            "mucinous",
+            "paclitaxel"
+      ],
+      "id": "NCT00004221"
 }

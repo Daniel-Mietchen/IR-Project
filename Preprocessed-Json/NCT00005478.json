@@ -205,13 +205,14 @@
             "record"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -220,6 +221,10 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005478.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005478"
 }

@@ -147,16 +147,15 @@
             "patient"
       ],
       "condition": [
-            "chronic",
             "inflammatory",
             "demyelinate",
             "polyradiculoneuropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon Beta-1a"
       ],
       "criteria": [
             "inclusion",
@@ -268,7 +267,6 @@
             "prior",
             "screen",
             "exclusion",
-            "criterion",
             "associate",
             "systemic",
             "disorder",
@@ -455,7 +453,7 @@
             "additional",
             "exclusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -464,6 +462,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "avonex"
+      ],
+      "mesh_term": [
+            "chronic",
+            "inflammatory",
+            "demyelinate"
+      ],
+      "id": "NCT00099489"
 }

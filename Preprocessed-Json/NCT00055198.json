@@ -28,7 +28,7 @@
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "daptomycin"
@@ -52,7 +52,6 @@
             "hospitalization",
             "treatment",
             "injectable",
-            "antibiotic",
             "site",
             "infection",
             "complicate",
@@ -140,12 +139,22 @@
             "medical",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055198.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bacterial",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00055198"
 }

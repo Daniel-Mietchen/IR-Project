@@ -187,14 +187,30 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "filgrastim",
+            "sargramostim",
+            "therapeutic immune globulin",
+            "cyclophosphamide",
+            "methotrexate",
+            "tacrolimus",
+            "allogeneic bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -407,7 +423,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
@@ -416,6 +432,23 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002809.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "serum",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00002809"
 }

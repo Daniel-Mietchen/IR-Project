@@ -209,13 +209,14 @@
             "population"
       ],
       "condition": [
-            "cerebral",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aspirin",
             "ticlopidine"
       ],
       "criteria": [
@@ -421,7 +422,7 @@
             "total",
             "bilirubin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "29",
             "year"
@@ -430,6 +431,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ischemic",
+            "stroke"
+      ],
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00004727"
 }

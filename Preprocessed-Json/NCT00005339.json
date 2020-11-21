@@ -210,21 +210,25 @@
             "record"
       ],
       "condition": [
-            "blood",
+            "viral",
+            "human",
+            "transfusion",
             "donor"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005339.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "viral",
+            "human"
+      ],
+      "id": "NCT00005339"
 }

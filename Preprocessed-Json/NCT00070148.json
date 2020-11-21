@@ -173,35 +173,40 @@
             "year"
       ],
       "condition": [
-            "weight",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "change"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oxandrolone",
-            "20",
-            "mg"
+            "Megestrol Acetate",
+            "Oxandrolone 20 mg"
       ],
       "description": [
-            "20",
+            "mouth",
+            "12",
+            "week",
             "3",
             "month",
             "12",
             "week"
       ],
       "arm_group_label": [
-            "arm",
+            "800",
+            "mg",
             "1",
             "oxandrolone",
             "20",
             "mg",
             "daily"
       ],
-      "other_name": [
-            "oxandrin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -707,12 +712,27 @@
             "index",
             "35"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070148.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "weight",
+            "loss",
+            "weight",
+            "change",
+            "acetate"
+      ],
+      "id": "NCT00070148"
 }

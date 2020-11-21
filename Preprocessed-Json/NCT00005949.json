@@ -122,25 +122,33 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "aldesleukin",
+            "gp100:209-217(210M) peptide vaccine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "aldesleukin",
+            "aldesleukin",
             "aldesleukin"
       ],
-      "other_name": [],
+      "other_name": [
+            "human"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -159,7 +167,6 @@
             "extensive",
             "recurrent",
             "disease",
-            "0201",
             "positive",
             "genotyping",
             "measurable",
@@ -339,12 +346,13 @@
             "first",
             "course"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005949.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00005949"
 }

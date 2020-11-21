@@ -343,18 +343,15 @@
             "evaluation"
       ],
       "condition": [
-            "lymphoproliferative",
+            "virus",
+            "infection",
             "disorder"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "intravenous",
-            "injection",
-            "ebv",
-            "specific",
-            "ctls"
+            "Intravenous injection of EBV specific CTLs"
       ],
       "description": [
             "patient",
@@ -448,12 +445,18 @@
             "supplemental",
             "oxygen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058604.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "virus",
+            "infection"
+      ],
+      "id": "NCT00058604"
 }

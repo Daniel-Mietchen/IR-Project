@@ -271,15 +271,23 @@
             "month"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "megestrol acetate",
+            "paclitaxel",
+            "tamoxifen citrate"
       ],
       "criteria": [
             "disease",
@@ -493,11 +501,20 @@
             "investigator",
             "discretion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "endometrial",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel",
+            "acetate"
+      ],
+      "id": "NCT00016341"
 }

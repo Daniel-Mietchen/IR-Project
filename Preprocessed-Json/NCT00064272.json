@@ -157,23 +157,27 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "vomit",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "ginger extract",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "iii"
       ],
       "criteria": [
@@ -185,7 +189,6 @@
             "cancer",
             "currently",
             "receive",
-            "chemotherapy",
             "contain",
             "chemotherapeutic",
             "agent",
@@ -212,7 +215,6 @@
             "least",
             "1",
             "prior",
-            "chemotherapy",
             "course",
             "contain",
             "chemotherapeutic",
@@ -250,7 +252,6 @@
             "brain",
             "metastasis",
             "note",
-            "chemotherapy",
             "may",
             "adjuvant",
             "neoadjuvant",
@@ -391,7 +392,7 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -400,6 +401,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064272.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00064272"
 }

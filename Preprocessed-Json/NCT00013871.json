@@ -236,16 +236,23 @@
             "evaluation"
       ],
       "condition": [
-            "pertussis"
+            "infection",
+            "b",
+            "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "hepatitis",
-            "b",
-            "vaccine",
-            "recombinant"
+            "Diphtheria & Tetanus Toxoids & Acellular Pertussis Vaccine Adsorbed",
+            "Measles-Mumps-Rubella Vaccine (Live)",
+            "Pneumococcal Vaccine, Polyvalent (23-valent)",
+            "Pneumococcal Conjugate Vaccine, Heptavalent",
+            "Hepatitis B Vaccine (Recombinant)"
       ],
       "criteria": [
             "inclusion",
@@ -453,7 +460,7 @@
             "vaccine",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -462,6 +469,20 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00013871.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pertussis",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "b",
+            "cough",
+            "infection",
+            "pneumococcal",
+            "conjugate",
+            "vaccine"
+      ],
+      "id": "NCT00013871"
 }

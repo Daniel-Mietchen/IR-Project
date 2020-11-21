@@ -179,15 +179,15 @@
             "dvt"
       ],
       "condition": [
-            "venous",
+            "disease",
+            "embolism",
             "thromboembolism"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "tomography",
-            "compute"
+            "Tomography, X-ray Computed"
       ],
       "criteria": [
             "18",
@@ -201,7 +201,7 @@
             "pulmonary",
             "embolism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -210,6 +210,11 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007085.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "thromboembolism",
+            "embolism"
+      ],
+      "id": "NCT00007085"
 }

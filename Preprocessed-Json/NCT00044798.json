@@ -106,17 +106,35 @@
             "measure"
       ],
       "condition": [
-            "depression"
+            "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "sham",
-            "rtms"
+            "Repetitive transcranial magnetic stimulation (rTMS)",
+            "Citalopram",
+            "Sham rTMS"
       ],
       "description": [
+            "receive",
+            "15",
+            "treatment",
+            "rtms",
+            "3",
+            "week",
+            "complete",
+            "treatment",
+            "rtms",
+            "sham",
+            "rtms",
             "participant",
+            "take",
+            "citalopram",
+            "9",
+            "week",
             "receive",
             "15",
             "treatment",
@@ -125,9 +143,7 @@
             "3",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -155,7 +171,7 @@
             "vascular",
             "depression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "51",
             "year"
@@ -164,6 +180,12 @@
             "89",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044798.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "age"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00044798"
 }

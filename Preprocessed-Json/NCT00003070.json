@@ -157,7 +157,7 @@
             "accrue"
       ],
       "condition": [
-            "unspecified",
+            "toxicity",
             "childhood",
             "solid",
             "tumor",
@@ -165,13 +165,59 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "enalapril maleate",
+            "quality-of-life assessment"
       ],
       "arm_group_label": [
-            "stratum",
+            "1",
+            "anthracycline",
+            "dose",
+            "2",
+            "anthracycline",
+            "dose",
+            "3",
+            "anthracycline",
+            "dose",
+            "4",
+            "anthracycline",
+            "dose",
+            "5",
+            "anthracycline",
+            "dose",
+            "6",
+            "anthracycline",
+            "dose",
+            "7",
+            "anthracycline",
+            "dose",
+            "8",
+            "anthracycline",
+            "dose",
+            "1",
+            "anthracycline",
+            "dose",
+            "2",
+            "anthracycline",
+            "dose",
+            "3",
+            "anthracycline",
+            "dose",
+            "4",
+            "anthracycline",
+            "dose",
+            "5",
+            "anthracycline",
+            "dose",
+            "6",
+            "anthracycline",
+            "dose",
+            "7",
+            "anthracycline",
+            "dose",
             "8",
             "anthracycline",
             "dose"
@@ -323,12 +369,17 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003070.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac",
+            "toxicity"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003070"
 }

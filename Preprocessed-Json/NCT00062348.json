@@ -226,15 +226,20 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "boronophenylalanine-fructose complex",
+            "sodium borocaptate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -257,12 +262,10 @@
             "thyroid",
             "cancer",
             "liver",
-            "metastasis",
             "secondary",
             "colorectal",
             "adenocarcinoma",
             "note",
-            "liver",
             "metastasis",
             "eligible",
             "provide",
@@ -440,12 +443,23 @@
             "treatment",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062348.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tongue",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00062348"
 }

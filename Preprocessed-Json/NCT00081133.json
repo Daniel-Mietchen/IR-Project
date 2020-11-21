@@ -326,15 +326,14 @@
             "2",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "arsenic trioxide",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -350,16 +349,13 @@
             "follow",
             "phase",
             "blastic",
-            "phase",
             "accelerate",
-            "phase",
             "appropriate",
             "donor",
             "stem",
             "cell",
             "transplantation",
             "note",
-            "must",
             "receive",
             "imatinib",
             "mesylate",
@@ -518,12 +514,32 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081133.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "chromosome",
+            "crisis",
+            "trioxide",
+            "mesylate"
+      ],
+      "id": "NCT00081133"
 }

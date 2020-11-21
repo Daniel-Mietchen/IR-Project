@@ -43,24 +43,42 @@
             "individual"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mycophenolate",
-            "mofetil",
-            "cellcept"
+            "Corticosteroids",
+            "Neoral",
+            "Neoral",
+            "Zenapax",
+            "mycophenolate mofetil [CellCept]"
       ],
       "description": [
+            "prescribe",
+            "dose",
+            "target",
+            "trough",
+            "level",
+            "dose",
+            "target",
+            "trough",
+            "level",
+            "iv",
+            "first",
+            "dose",
+            "every",
+            "2",
+            "week",
             "po",
             "bid"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -88,12 +106,16 @@
             "skin",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048152.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00048152"
 }

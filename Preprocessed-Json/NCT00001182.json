@@ -138,17 +138,13 @@
             "program"
       ],
       "condition": [
-            "tooth",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "current",
-            "standard",
-            "care",
-            "treatment"
+            "current standard of care treatments"
       ],
       "criteria": [
             "patient",
@@ -160,9 +156,15 @@
             "staff",
             "dentist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001182.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "therapeutic"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001182"
 }

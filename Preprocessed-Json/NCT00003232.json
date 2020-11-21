@@ -220,14 +220,20 @@
             "patient"
       ],
       "condition": [
-            "quality",
+            "cancer",
             "life"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "clodronate disodium",
+            "mitoxantrone hydrochloride",
+            "prednisone",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -421,11 +427,17 @@
             "bisphosphonate",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003232.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00003232"
 }

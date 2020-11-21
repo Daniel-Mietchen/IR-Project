@@ -23,27 +23,29 @@
             "diabetes"
       ],
       "condition": [
-            "diabetic",
             "retinopathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ruboxistaurin",
             "placebo"
       ],
       "description": [
+            "mg",
+            "daily",
             "qd",
+            "oral",
+            "36",
+            "month",
             "oral",
             "36",
             "month"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "arxxant"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -101,12 +103,16 @@
             "renal",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090519.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "edema",
+            "retinopathy"
+      ],
+      "id": "NCT00090519"
 }

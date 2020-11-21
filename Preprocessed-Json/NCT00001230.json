@@ -396,9 +396,7 @@
             "helminth",
             "infection"
       ],
-      "condition": [
-            "onchocerciasis"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -475,7 +473,7 @@
             "disease",
             "coagulopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -484,6 +482,11 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001230.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "filarial",
+            "infection"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001230"
 }

@@ -194,17 +194,29 @@
             "acrin"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "chest",
-            "radiography"
+            "low-dose helical computed tomography",
+            "chest radiography"
       ],
       "description": [
+            "ldct",
+            "computerize",
+            "tomography",
+            "image",
+            "technique",
+            "without",
+            "contrast",
+            "scan",
+            "do",
+            "neck",
+            "diaphragm",
+            "one",
             "chest",
             "study",
             "single",
@@ -214,11 +226,9 @@
             "upright"
       ],
       "arm_group_label": [
-            "chest"
+            "ct"
       ],
-      "other_name": [
-            "cxr"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -341,7 +351,7 @@
             "eligibility",
             "assessment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -350,6 +360,14 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00047385.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00047385"
 }

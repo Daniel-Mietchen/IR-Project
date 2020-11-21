@@ -56,15 +56,13 @@
             "center"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "zoledronic acid"
       ],
       "criteria": [
             "inclusion",
@@ -332,14 +330,20 @@
             "fully",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087659.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adt",
+            "bmd"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00087659"
 }

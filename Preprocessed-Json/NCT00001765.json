@@ -441,16 +441,16 @@
             "survival"
       ],
       "condition": [
-            "chronic",
             "granulomatous",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "baxter",
-            "isolex"
+            "Nexell Isolex with T-cell Depletion",
+            "Baxter isolex 300i"
       ],
       "criteria": [
             "inclusion",
@@ -624,9 +624,18 @@
             "disease",
             "thrombocytopenia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001765.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "granulomatous",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "chronic"
+      ],
+      "id": "NCT00001765"
 }

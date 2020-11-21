@@ -212,17 +212,23 @@
             "month"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "arsenic trioxide",
             "tretinoin"
       ],
       "arm_group_label": [
-            "treatment",
+            "ii",
+            "failure",
             "failure"
       ],
       "criteria": [
@@ -379,7 +385,6 @@
             "platelet",
             "count",
             "least",
-            "unless",
             "cause",
             "marrow",
             "infiltration",
@@ -479,12 +484,24 @@
             "except",
             "leukapheresis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006220.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "trioxide"
+      ],
+      "id": "NCT00006220"
 }

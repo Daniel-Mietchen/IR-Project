@@ -342,14 +342,13 @@
             "medication"
       ],
       "condition": [
-            "uveitis"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporin",
-            "implant"
+            "Cyclosporin A Implant"
       ],
       "criteria": [
             "inclusion",
@@ -560,9 +559,15 @@
             "currently",
             "active"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001737.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "uveitis"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001737"
 }

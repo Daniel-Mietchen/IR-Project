@@ -294,17 +294,15 @@
             "offer"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant"
+            "Recombinant interleukin-2 (rIL-2)"
       ],
       "description": [
-            "recombinant",
             "dose",
             "miu",
             "give",
@@ -322,9 +320,7 @@
             "cycle"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "aldesleukin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -415,12 +411,18 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004978.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00004978"
 }

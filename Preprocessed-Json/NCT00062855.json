@@ -292,20 +292,19 @@
             "six",
             "month"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "genetic"
+            "Procedure",
+            "Genetic"
       ],
       "intervention_name": [
-            "gene",
-            "modify",
-            "neuroblastoma",
-            "cell"
+            "Skin Biopsy",
+            "Gene Modified Neuroblastoma Cells"
       ],
       "arm_group_label": [
-            "gene",
+            "modify",
+            "neuroblastoma",
+            "cell",
             "modify",
             "neuroblastoma",
             "cell"
@@ -334,7 +333,6 @@
             "week",
             "4",
             "week",
-            "5",
             "complete",
             "evaluation",
             "evidence",
@@ -494,12 +492,17 @@
             "use",
             "condom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062855.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gene",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00062855"
 }

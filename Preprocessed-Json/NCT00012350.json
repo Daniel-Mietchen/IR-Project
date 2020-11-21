@@ -133,22 +133,20 @@
             "month"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fti"
+            "FTI"
       ],
       "arm_group_label": [
-            "oral",
             "fti",
             "treatment"
       ],
       "other_name": [
-            "farnesyl",
+            "inhibitor",
             "transferase",
             "inhibitor"
       ],
@@ -371,12 +369,22 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012350.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "plasma",
+            "cell",
+            "neoplasm"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00012350"
 }

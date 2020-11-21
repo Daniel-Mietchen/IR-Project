@@ -174,14 +174,29 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "cancer",
+            "unknown",
+            "primary",
+            "cancer",
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer",
+            "skin",
+            "cancer",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "filgrastim",
+            "docetaxel",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -351,12 +366,32 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014456.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "unknown",
+            "primary"
+      ],
+      "id": "NCT00014456"
 }

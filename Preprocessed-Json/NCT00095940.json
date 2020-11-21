@@ -301,29 +301,72 @@
             "day"
       ],
       "condition": [
-            "recurrent",
+            "childhood",
+            "anaplastic",
+            "astrocytoma",
+            "childhood",
+            "brain",
+            "stem",
+            "glioma",
+            "childhood",
+            "ependymoma",
+            "childhood",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "childhood",
+            "glioblastoma",
+            "childhood",
+            "gliosarcoma",
+            "childhood",
+            "medulloblastoma",
             "childhood",
             "oligodendroglioma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "magnetic",
-            "resonance",
-            "image"
+            "lapatinib ditosylate",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis",
+            "pharmacological study",
+            "positron emission tomography",
+            "magnetic resonance imaging"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "surgery",
+            "study",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "surgery",
+            "lapatinib",
+            "surgery",
+            "lapatinib",
+            "surgery",
+            "lapatinib",
+            "surgery",
+            "lapatinib",
+            "surgery",
+            "lapatinib",
             "surgery",
             "lapatinib"
       ],
       "other_name": [
-            "nuclear",
+            "study",
+            "scan",
+            "emission",
+            "compute",
+            "image",
             "magnetic",
             "resonance",
             "image"
@@ -801,12 +844,17 @@
             "uncontrolled",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095940.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00095940"
 }

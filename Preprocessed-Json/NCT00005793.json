@@ -277,21 +277,27 @@
             "4",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan"
+            "Cytarabine",
+            "Daunorubicin",
+            "Etoposide",
+            "Topotecan"
       ],
       "arm_group_label": [
-            "combination",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "other_name": [
-            "topotecan",
+            "hydrochloride",
             "hydrochloride"
       ],
       "criteria": [
@@ -417,7 +423,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -426,6 +432,17 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005793.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00005793"
 }

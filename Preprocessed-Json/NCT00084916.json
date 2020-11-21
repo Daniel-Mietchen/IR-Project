@@ -144,26 +144,84 @@
             "month"
       ],
       "condition": [
-            "secondary",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelomonocytic",
+            "leukemia",
+            "novo",
+            "myelodysplastic",
+            "syndrome",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "anemia",
+            "excess",
+            "blast",
+            "anemia",
+            "excess",
+            "blast",
+            "transformation",
+            "chronic",
+            "myelogenous",
+            "leukemia",
             "myelodysplastic",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -242,7 +300,6 @@
             "time",
             "upper",
             "limit",
-            "normal",
             "bilirubin",
             "2",
             "creatinine",
@@ -333,12 +390,32 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084916.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "refractory",
+            "myelomonocytic",
+            "chronic",
+            "crisis",
+            "refractory",
+            "excess",
+            "blast",
+            "aplastic"
+      ],
+      "id": "NCT00084916"
 }

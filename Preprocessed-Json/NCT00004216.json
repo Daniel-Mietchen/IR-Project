@@ -218,7 +218,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -226,9 +225,19 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "salmonella VNP20009",
+            "cefixime",
+            "ceftriaxone sodium",
+            "ciprofloxacin",
+            "trimethoprim-sulfamethoxazole"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -545,12 +554,25 @@
             "immune",
             "system"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004216.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00004216"
 }

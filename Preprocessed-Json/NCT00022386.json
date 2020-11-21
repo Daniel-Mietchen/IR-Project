@@ -100,13 +100,15 @@
             "study"
       ],
       "condition": [
-            "fatigue"
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "epoetin alfa",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -247,14 +249,19 @@
             "treatment",
             "anemia"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022386.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fatigue"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "alfa"
+      ],
+      "id": "NCT00022386"
 }

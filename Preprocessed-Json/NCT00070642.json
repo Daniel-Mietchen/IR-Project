@@ -20,19 +20,45 @@
             "melanoma"
       ],
       "condition": [
-            "carcinoma",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cpg",
-            "7909",
-            "injection"
+            "CPG 7909 Injection",
+            "dacarbazine",
+            "Chemotherapy",
+            "CPG 7909 Injection",
+            "CPG 7909 Injection"
       ],
       "description": [
-            "cpg",
+            "7909",
+            "injection",
+            "administer",
+            "subcutaneously",
+            "dose",
+            "40",
+            "mg",
+            "weekly",
+            "cycle",
+            "disease",
+            "progression",
+            "cycle",
+            "disease",
+            "progression",
+            "7909",
+            "injection",
+            "administer",
+            "subcutaneously",
+            "dose",
+            "10",
+            "mg",
+            "weekly",
             "7909",
             "injection",
             "administer",
@@ -43,15 +69,25 @@
             "weekly"
       ],
       "arm_group_label": [
-            "cpg",
+            "7909",
+            "injection",
+            "plus",
+            "chemotherapy",
+            "7909",
+            "injection",
+            "plus",
+            "chemotherapy",
+            "alone",
+            "7909",
+            "injection",
+            "10",
+            "mg",
             "7909",
             "injection",
             "40",
             "mg"
       ],
-      "other_name": [
-            "promune"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -91,12 +127,18 @@
             "cns",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy",
+            "skin",
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00070642"
 }

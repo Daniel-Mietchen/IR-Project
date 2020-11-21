@@ -268,7 +268,9 @@
             "others"
       ],
       "condition": [
-            "cardiovascular",
+            "arteriosclerosis",
+            "disease",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -293,9 +295,7 @@
             "severe",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -304,6 +304,14 @@
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069797.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00069797"
 }

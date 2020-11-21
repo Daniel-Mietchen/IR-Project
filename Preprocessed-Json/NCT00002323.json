@@ -91,14 +91,15 @@
             "month"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Nevirapine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -314,12 +315,18 @@
             "study",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002323.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nevirapine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002323"
 }

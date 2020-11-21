@@ -213,17 +213,64 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "cisplatin",
+            "cyclophosphamide",
+            "dexamethasone",
+            "etoposide",
             "thalidomide"
       ],
       "description": [
-            "arm",
+            "1",
+            "2",
+            "300",
+            "mcg",
+            "pt",
+            "60",
+            "kg",
+            "480",
+            "mcg",
+            "pt",
+            "60",
+            "kg",
+            "sc",
+            "begin",
+            "day",
+            "5",
+            "1",
+            "2",
+            "15",
+            "continuous",
+            "iv",
+            "day",
+            "1",
+            "2",
+            "400",
+            "continuous",
+            "iv",
+            "day",
+            "1",
+            "2",
+            "40",
+            "po",
+            "day",
+            "1",
+            "2",
+            "40",
+            "continuous",
+            "iv",
+            "day",
             "2",
             "800",
             "max",
@@ -232,12 +279,24 @@
             "daily"
       ],
       "arm_group_label": [
-            "chemo",
+            "thalidomide",
+            "without",
+            "thalidomide",
+            "thalidomide",
+            "without",
+            "thalidomide",
+            "thalidomide",
+            "without",
+            "thalidomide",
+            "thalidomide",
+            "without",
+            "thalidomide",
+            "thalidomide",
+            "without",
+            "thalidomide",
             "thalidomide"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -459,12 +518,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005834.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "phosphate",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00005834"
 }

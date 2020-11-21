@@ -157,14 +157,13 @@
             "progression"
       ],
       "condition": [
-            "malignant",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pivanex"
+            "Pivanex"
       ],
       "criteria": [
             "inclusion",
@@ -384,12 +383,24 @@
             "dose",
             "corticosteroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087477.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignant",
+            "melanoma",
+            "pivanex",
+            "histone",
+            "deacetylases",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "deacetylase",
+            "inhibitor"
+      ],
+      "id": "NCT00087477"
 }

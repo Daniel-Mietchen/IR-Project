@@ -292,14 +292,16 @@
             "agent"
       ],
       "condition": [
-            "lymphoproliferative",
+            "infection",
+            "deficiency",
+            "syndrome",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "acid"
+            "all-trans-retinoic acid with IFN-alpha2a"
       ],
       "criteria": [
             "disease",
@@ -557,9 +559,18 @@
             "unstable",
             "child"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001438.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "disorder"
+      ],
+      "id": "NCT00001438"
 }

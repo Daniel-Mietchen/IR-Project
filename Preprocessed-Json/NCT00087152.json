@@ -118,7 +118,6 @@
             "receive",
             "oral",
             "imatinib",
-            "mesylate",
             "daily",
             "day",
             "oral",
@@ -172,30 +171,35 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "Capecitabine",
+            "Imatinib mesylate"
       ],
       "description": [
-            "400",
+            "mouth",
+            "twice",
+            "daily",
+            "day",
+            "21",
+            "day",
+            "cycle",
             "mg",
             "mouth",
             "daily"
       ],
       "arm_group_label": [
-            "imatinib",
+            "mesylate",
+            "capecitabine",
             "mesylate",
             "capecitabine"
       ],
-      "other_name": [
-            "gleevec"
-      ],
+      "other_name": [],
       "criteria": [
             "histologically",
             "cytologically",
@@ -383,14 +387,21 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087152.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00087152"
 }

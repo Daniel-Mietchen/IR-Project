@@ -38,13 +38,13 @@
             "infection"
       ],
       "condition": [
-            "cytopenia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Sargramostim"
       ],
       "criteria": [
             "inclusion",
@@ -175,9 +175,7 @@
             "agent",
             "addict"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -186,6 +184,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002008.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "factor"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "disease"
+      ],
+      "id": "NCT00002008"
 }

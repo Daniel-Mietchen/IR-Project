@@ -74,15 +74,16 @@
             "provide"
       ],
       "condition": [
-            "pulmonary",
+            "arterial",
+            "hypertension",
+            "syndrome",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "iloprost",
-            "placebo"
+            "Iloprost or placebo"
       ],
       "criteria": [
             "inclusion",
@@ -168,7 +169,7 @@
             "vsd",
             "pda"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -177,6 +178,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086463.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostacyclin"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "primary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "id": "NCT00086463"
 }

@@ -235,7 +235,6 @@
             "child"
       ],
       "condition": [
-            "brain",
             "neoplasm"
       ],
       "criteria": [
@@ -248,12 +247,18 @@
             "metropolitan",
             "taiwan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042445.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "taiwan"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00042445"
 }

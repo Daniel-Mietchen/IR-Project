@@ -209,15 +209,19 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "celecoxib",
+            "fluorouracil",
+            "leucovorin calcium",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -484,7 +488,6 @@
             "concurrent",
             "lithium",
             "concurrent",
-            "chronic",
             "use",
             "full",
             "dose",
@@ -524,7 +527,6 @@
             "receptor",
             "pathway",
             "note",
-            "chronic",
             "use",
             "define",
             "frequency",
@@ -539,7 +541,7 @@
             "throughout",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -548,6 +550,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085163.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00085163"
 }

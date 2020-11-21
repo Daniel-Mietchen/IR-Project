@@ -205,17 +205,25 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "bronchoalveolar lavage",
+            "screening questionnaire administration",
+            "sputum cytology",
+            "bronchoscopic and lung imaging studies",
+            "bronchoscopy",
+            "computed tomography",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -300,14 +308,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012103.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00012103"
 }

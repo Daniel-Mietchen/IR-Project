@@ -207,18 +207,55 @@
             "48"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "optimize",
-            "background",
-            "therapy"
+            "Maraviroc (UK-427,857)",
+            "optimized background therapy",
+            "Maraviroc (UK-427,857)",
+            "optimized background therapy",
+            "optimized background therapy"
       ],
       "description": [
+            "150",
+            "mg",
+            "take",
+            "daily",
+            "obt",
+            "maraviroc",
+            "150",
+            "mg",
+            "take",
+            "twice",
+            "daily",
+            "obt",
+            "alone",
+            "obt",
+            "drug",
+            "base",
+            "treatment",
+            "history",
+            "resistance",
+            "test",
+            "150",
+            "mg",
+            "take",
+            "twice",
+            "daily",
+            "obt",
+            "drug",
+            "base",
+            "treatment",
+            "history",
+            "resistance",
+            "test",
             "obt",
             "drug",
             "base",
@@ -227,12 +264,8 @@
             "resistance",
             "test"
       ],
-      "arm_group_label": [
-            "3"
-      ],
-      "other_name": [
-            "selzentry"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -461,12 +494,15 @@
             "ability",
             "evaluate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098722.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00098722"
 }

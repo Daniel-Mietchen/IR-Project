@@ -132,17 +132,19 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
-            "stem",
-            "cell",
-            "transplantation"
+            "cyclophosphamide",
+            "filgrastim",
+            "methylprednisolone",
+            "Autologous Stem Cell Transplantation"
       ],
       "criteria": [
             "protocol",
@@ -306,12 +308,24 @@
             "aneurysm",
             "clip"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00017628.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00017628"
 }

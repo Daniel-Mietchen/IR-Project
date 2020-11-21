@@ -50,14 +50,19 @@
             "receive"
       ],
       "condition": [
-            "traumatic",
+            "alzheimer",
+            "disease",
+            "parkinson",
+            "disease",
             "brain",
             "injury"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AVP-923"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -96,7 +101,7 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -105,6 +110,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056524.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "emotional"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "injury"
+      ],
+      "id": "NCT00056524"
 }

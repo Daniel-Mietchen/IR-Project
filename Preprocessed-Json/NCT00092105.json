@@ -37,16 +37,17 @@
             "week"
       ],
       "condition": [
-            "rhinitis",
+            "bronchial",
             "allergic",
             "perennial"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "MK0476, montelukast sodium",
+            "Comparator: placebo"
       ],
       "criteria": [
             "inclusion",
@@ -84,7 +85,7 @@
             "tract",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -93,6 +94,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rhinitis",
+            "allergic"
+      ],
+      "mesh_term": [
+            "allergic",
+            "allergic",
+            "perennial"
+      ],
+      "id": "NCT00092105"
 }

@@ -198,7 +198,9 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "malignancy",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -206,10 +208,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "zoledronic acid",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -403,12 +407,22 @@
             "12",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003884.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00003884"
 }

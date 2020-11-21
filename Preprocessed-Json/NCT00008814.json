@@ -42,7 +42,6 @@
             "stimulus"
       ],
       "condition": [
-            "infant",
             "newborn",
             "disease"
       ],
@@ -55,12 +54,20 @@
             "month",
             "old"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "4",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008814.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mri",
+            "functional"
+      ],
+      "mesh_term": [
+            "newborn",
+            "disease"
+      ],
+      "id": "NCT00008814"
 }

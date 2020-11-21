@@ -221,21 +221,22 @@
             "year"
       ],
       "condition": [
-            "lymphoproliferative",
             "disorder"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "beta-glucan",
             "rituximab"
       ],
       "description": [
-            "give",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "group",
+            "ii",
             "ii"
       ],
       "criteria": [
@@ -321,7 +322,6 @@
             "platelet",
             "count",
             "note",
-            "exclude",
             "patient",
             "ptld",
             "lymphoblastic",
@@ -437,12 +437,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087009.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "cns",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00087009"
 }

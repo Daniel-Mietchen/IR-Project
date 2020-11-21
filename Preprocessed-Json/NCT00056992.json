@@ -139,14 +139,13 @@
             "placebo"
       ],
       "condition": [
-            "carcinoma",
             "hepatocellular"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "20"
+            "ADI-PEG 20"
       ],
       "criteria": [
             "histologically",
@@ -270,9 +269,12 @@
             "measurable",
             "evaluable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056992.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular"
+      ],
+      "id": "NCT00056992"
 }

@@ -120,17 +120,14 @@
             "year"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "strontium",
-            "chloride",
-            "sr",
-            "89"
+            "strontium chloride Sr 89"
       ],
       "criteria": [
             "disease",
@@ -245,11 +242,17 @@
             "castration",
             "allow"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002503.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00002503"
 }

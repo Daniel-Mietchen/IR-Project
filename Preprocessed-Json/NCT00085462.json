@@ -155,7 +155,6 @@
             "iv",
             "minute",
             "day",
-            "0",
             "stratum",
             "2",
             "blood",
@@ -171,9 +170,7 @@
             "iv",
             "minute",
             "day",
-            "0",
             "note",
-            "day",
             "0",
             "day",
             "last",
@@ -250,15 +247,25 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "aldesleukin",
+            "filgrastim",
+            "gp100-fowlpox vaccine",
+            "therapeutic autologous lymphocytes",
+            "therapeutic tumor infiltrating lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -274,7 +281,6 @@
             "therapy",
             "include",
             "therapy",
-            "0201",
             "positive",
             "progressive",
             "disease",
@@ -483,12 +489,20 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085462.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00085462"
 }
