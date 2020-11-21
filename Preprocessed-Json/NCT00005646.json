@@ -113,17 +113,15 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "paclitaxel"
       ],
       "description": [
-            "150",
             "iv",
             "3",
             "hour",
@@ -133,9 +131,7 @@
             "per",
             "cycle"
       ],
-      "arm_group_label": [
-            "paclitaxel"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -292,7 +288,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -301,6 +297,21 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "paclitaxel"
+      ],
+      "id": "NCT00005646"
 }

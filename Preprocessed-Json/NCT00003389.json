@@ -333,27 +333,88 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiotherapy"
+            "Doxorubicin",
+            "Bleomycin",
+            "Vinblastine",
+            "Dacarbazine",
+            "Vincristine",
+            "Mechlorethamine",
+            "Etoposide",
+            "Prednisone",
+            "Cyclophosphamide",
+            "Radiotherapy"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "abvd",
+            "b",
+            "stanford",
+            "v",
+            "abvd",
+            "b",
+            "stanford",
+            "v",
+            "abvd",
+            "b",
+            "stanford",
+            "v",
+            "abvd",
+            "b",
+            "stanford",
+            "v",
+            "b",
+            "stanford",
+            "v",
+            "b",
+            "stanford",
+            "v",
+            "b",
+            "stanford",
+            "v",
+            "b",
+            "stanford",
+            "v",
+            "abvd",
             "b",
             "stanford",
             "v"
       ],
       "other_name": [
-            "cpm"
+            "rdf",
+            "pfs",
+            "sulfate",
+            "aq",
+            "carboxamide",
+            "triazeno",
+            "imidazole",
+            "carboxamide",
+            "pfs",
+            "sulfate",
+            "mustard"
       ],
       "criteria": [
             "inclusion",
@@ -458,12 +519,24 @@
             "hiv",
             "positive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003389.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00003389"
 }

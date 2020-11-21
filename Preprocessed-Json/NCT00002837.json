@@ -287,27 +287,44 @@
             "dose"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "Filgrastim (G-CSF)",
+            "Cyclophosphamide",
+            "Doxorubicin Hydrochloride",
+            "Paclitaxel",
+            "Peripheral Blood Stem Cell Transplantation"
       ],
       "arm_group_label": [
-            "doxorubicin",
+            "paclitaxel",
+            "cyclophosphamide",
+            "pbpc",
+            "paclitaxel",
+            "cyclophosphamide",
+            "pbpc",
+            "paclitaxel",
+            "cyclophosphamide",
+            "pbpc",
+            "paclitaxel",
+            "cyclophosphamide",
+            "pbpc",
             "paclitaxel",
             "cyclophosphamide",
             "pbpc"
       ],
       "other_name": [
-            "sct"
+            "pfs",
+            "rdf",
+            "cell",
+            "transplant"
       ],
       "criteria": [
             "disease",
@@ -446,7 +463,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -455,6 +472,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002837.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00002837"
 }

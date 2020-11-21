@@ -102,24 +102,35 @@
             "month"
       ],
       "condition": [
-            "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "medication"
+            "Brief Supportive Psychotherapy",
+            "CBASP",
+            "Medication Only"
       ],
       "description": [
-            "antidepressant",
+            "supportive",
+            "psychotherapy",
+            "develop",
+            "chronic",
+            "depression",
             "medication"
       ],
       "arm_group_label": [
-            "medication"
+            "supportive",
+            "psychotherapy"
       ],
       "other_name": [
-            "one",
+            "behavioral",
+            "analysis",
+            "system",
+            "psychotherapy",
             "five",
             "antidepressant"
       ],
@@ -190,7 +201,7 @@
             "psychiatric",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -199,6 +210,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057551.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00057551"
 }

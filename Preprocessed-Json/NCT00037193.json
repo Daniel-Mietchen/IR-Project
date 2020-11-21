@@ -154,7 +154,6 @@
             "study"
       ],
       "condition": [
-            "secondary",
             "hyperparathyroidism"
       ],
       "criteria": [
@@ -185,12 +184,15 @@
             "greater",
             "4"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037193.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "secondary"
+      ],
+      "id": "NCT00037193"
 }

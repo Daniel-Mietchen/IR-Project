@@ -220,17 +220,21 @@
             "study"
       ],
       "condition": [
-            "melanoma",
+            "cancer",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "recombinant interferon alfa",
+            "recombinant interleukin-12"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "ii",
             "iii"
       ],
       "criteria": [
@@ -450,12 +454,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004244.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00004244"
 }

@@ -223,26 +223,31 @@
             "enrol"
       ],
       "condition": [
-            "graft",
+            "myelogenous",
+            "leukemia",
+            "aml",
+            "lymphocytic",
+            "leukemia",
             "v",
             "host",
             "disease",
             "gvhd"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "thymoglobulin",
-            "globulin",
-            "rabbit"
+            "Thymoglobulin [Anti-Thymocyte Globulin (Rabbit)]",
+            "Thymoglobulin [Anti-Thymocyte Globulin (Rabbit)]"
       ],
       "description": [
-            "total",
+            "dose",
             "dose"
       ],
       "arm_group_label": [
-            "2",
+            "low",
+            "dose",
             "high",
             "dose"
       ],
@@ -490,7 +495,7 @@
             "cardiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -499,6 +504,25 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088543.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "v",
+            "host",
+            "disease",
+            "gvhd"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "v",
+            "host",
+            "disease",
+            "serum"
+      ],
+      "id": "NCT00088543"
 }

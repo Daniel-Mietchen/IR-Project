@@ -277,17 +277,58 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "allogeneic bone marrow transplantation",
+            "radiation therapy"
       ],
       "description": [
+            "1",
+            "every",
+            "6",
+            "hour",
+            "iv",
+            "2",
+            "hour",
+            "day",
+            "2",
+            "60",
+            "every",
+            "24",
+            "hr",
+            "2",
+            "dose",
+            "iv",
+            "2",
+            "hr",
+            "day",
+            "arm",
+            "per",
+            "publish",
+            "schedule",
+            "15",
+            "day",
+            "1",
+            "10",
+            "day",
+            "3",
+            "6",
+            "11",
+            "iv",
+            "0",
             "arm",
             "1200",
             "cgy",
@@ -298,9 +339,7 @@
             "200",
             "fraction"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -490,7 +529,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -499,6 +538,17 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005866.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00005866"
 }

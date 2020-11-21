@@ -209,29 +209,46 @@
             "month"
       ],
       "condition": [
-            "tumor",
             "metastatic",
             "brain"
       ],
       "intervention_type": [
-            "procedure"
+            "Radiation",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "radiation therapy",
+            "thalidomide",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "conventional",
+            "radiation",
+            "therapy",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "radiation",
+            "therapy",
+            "ii",
+            "radiation",
+            "therapy",
+            "thalidomide",
+            "ii",
+            "radiation",
+            "therapy",
+            "thalidomide",
+            "radiation",
+            "therapy",
             "ii",
             "radiation",
             "therapy",
             "thalidomide"
       ],
       "other_name": [
-            "quality",
+            "radiation",
             "life",
             "assessment"
       ],
@@ -367,12 +384,13 @@
             "anticoagulant",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033254.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00033254"
 }

@@ -144,17 +144,15 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temozolomide"
       ],
       "description": [
-            "150",
             "repeat",
             "cycle",
             "every",
@@ -172,9 +170,7 @@
             "six",
             "month"
       ],
-      "arm_group_label": [
-            "temozolomide"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -415,12 +411,26 @@
             "pamidronate",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022711.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intermediate",
+            "type",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00022711"
 }

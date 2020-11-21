@@ -360,17 +360,13 @@
             "health"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "hiv",
-            "symptom",
-            "education",
-            "program"
+            "HIV Symptom Education Program"
       ],
       "criteria": [
             "inclusion",
@@ -390,11 +386,16 @@
             "diagnosis",
             "aid"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065819.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "symptom",
+            "management"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00065819"
 }

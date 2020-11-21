@@ -175,14 +175,16 @@
             "abnormality"
       ],
       "condition": [
-            "seizure"
+            "epilepsy",
+            "spasm",
+            "disease",
+            "epilepsy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "18",
-            "fdg"
+            "18 FDG"
       ],
       "criteria": [
             "inclusion",
@@ -208,9 +210,20 @@
             "comply",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001325.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lennox",
+            "gastaut",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "partial",
+            "infantile",
+            "generalize"
+      ],
+      "id": "NCT00001325"
 }

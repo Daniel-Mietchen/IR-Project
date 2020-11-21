@@ -28,16 +28,15 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tyrosine",
-            "kinase",
-            "kdr"
+            "ZD6474",
+            "VEGF-receptor tyrosine kinase (KDR)"
       ],
       "criteria": [
             "inclusion",
@@ -203,12 +202,22 @@
             "recurrent",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047788.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00047788"
 }

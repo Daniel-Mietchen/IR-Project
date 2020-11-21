@@ -209,18 +209,28 @@
             "study",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "carmustine",
+            "cisplatin",
+            "cyclophosphamide",
+            "dexamethasone",
+            "etoposide",
+            "melphalan",
+            "paclitaxel",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -452,7 +462,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -461,6 +471,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003402.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00003402"
 }

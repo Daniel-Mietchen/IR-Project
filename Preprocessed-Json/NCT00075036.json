@@ -250,7 +250,6 @@
             "group"
       ],
       "condition": [
-            "kidney",
             "failure",
             "chronic"
       ],
@@ -329,12 +328,21 @@
             "parent",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ethnic",
+            "bias"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00075036"
 }

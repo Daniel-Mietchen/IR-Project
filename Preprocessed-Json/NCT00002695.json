@@ -178,15 +178,20 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "DNA stability analysis",
+            "microsatellite instability analysis",
+            "mutation analysis",
+            "laboratory biomarker analysis"
       ],
       "criteria": [
             "disease",
@@ -283,12 +288,28 @@
             "lesion",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00002695"
 }

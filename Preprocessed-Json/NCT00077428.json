@@ -238,30 +238,68 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "oral",
+            "cavity",
+            "salivary",
+            "gland",
+            "cancer",
+            "gland",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "iii",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "oral",
+            "cavity",
+            "iii",
+            "salivary",
+            "gland",
+            "cancer",
+            "iv",
+            "adenoid",
+            "cystic",
+            "carcinoma",
+            "oral",
+            "cavity",
             "iv",
             "salivary",
             "gland",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bortezomib",
+            "doxorubicin hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "doxorubicin",
+            "hydrochloride",
+            "bortezomib",
+            "doxorubicin",
+            "hydrochloride",
             "bortezomib",
             "doxorubicin",
             "hydrochloride"
       ],
       "other_name": [
-            "adriamycin",
+            "341",
+            "pfs",
             "rdf"
       ],
       "criteria": [
@@ -437,12 +475,19 @@
             "therapy",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077428.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "gland",
+            "neoplasm",
+            "adenoid",
+            "cystic",
+            "doxorubicin"
+      ],
+      "id": "NCT00077428"
 }

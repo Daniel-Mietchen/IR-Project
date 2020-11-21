@@ -117,22 +117,22 @@
             "study"
       ],
       "condition": [
-            "desmoid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine",
-            "sulfate"
+            "methotrexate",
+            "vinblastine sulfate"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "treatment",
             "treatment"
       ],
       "other_name": [
-            "nsc",
+            "000740",
             "49842"
       ],
       "criteria": [
@@ -228,12 +228,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003019.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "desmoid",
+            "tumor"
+      ],
+      "mesh_term": [
+            "aggressive"
+      ],
+      "id": "NCT00003019"
 }

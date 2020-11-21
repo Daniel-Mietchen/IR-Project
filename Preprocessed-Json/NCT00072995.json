@@ -331,16 +331,16 @@
             "schoensj"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "low",
-            "saturate",
-            "fat"
+            "Four Diets Differing in Macronutrient Composition",
+            "Diets Low in Saturated Fat"
       ],
       "criteria": [
             "inclusion",
@@ -446,7 +446,7 @@
             "unstable",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -455,6 +455,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072995.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00072995"
 }

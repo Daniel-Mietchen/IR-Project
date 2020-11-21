@@ -57,14 +57,21 @@
             "ddc"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Thymopentin",
+            "Stavudine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -212,12 +219,18 @@
             "drug",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002109.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stavudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002109"
 }

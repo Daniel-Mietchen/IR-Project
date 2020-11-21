@@ -33,11 +33,11 @@
             "body"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pemetrexed"
@@ -96,12 +96,24 @@
             "vitamin",
             "supplement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035061.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "urothelium"
+      ],
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00035061"
 }

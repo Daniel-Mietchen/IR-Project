@@ -225,7 +225,10 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "adult",
             "solid",
             "tumor",
@@ -233,9 +236,11 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Drug"
       ],
       "intervention_name": [
+            "calcitriol",
             "carboplatin"
       ],
       "criteria": [
@@ -405,12 +410,23 @@
             "pea",
             "bean"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008086.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00008086"
 }

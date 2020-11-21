@@ -161,7 +161,6 @@
             "physician"
       ],
       "condition": [
-            "sickle",
             "cell",
             "disease"
       ],
@@ -213,12 +212,20 @@
             "year",
             "age"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081523.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemolytic",
+            "disorder"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00081523"
 }

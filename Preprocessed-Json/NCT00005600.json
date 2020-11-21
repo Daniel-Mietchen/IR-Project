@@ -133,15 +133,14 @@
             "study"
       ],
       "condition": [
+            "cancer",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -238,14 +237,19 @@
             "axillary",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005600.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complication"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "complication"
+      ],
+      "id": "NCT00005600"
 }

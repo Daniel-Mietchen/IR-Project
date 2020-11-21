@@ -60,26 +60,37 @@
             "inc"
       ],
       "condition": [
-            "emphysema"
+            "obstructive",
+            "pulmonary",
+            "disease",
+            "bronchitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "salmeterol"
+            "arformoterol",
+            "Salmeterol"
       ],
       "description": [
-            "salmeterol",
+            "inhalation",
+            "solution",
+            "50",
+            "mcg",
+            "qd",
             "mdi",
             "42",
             "mcg",
             "bid"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "racemic",
+            "inhalation",
+            "solution",
+            "r",
+            "r",
+            "mdi",
             "formoterol"
       ],
       "criteria": [
@@ -437,12 +448,23 @@
             "administration",
             "contraindicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064415.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "chronic",
+            "fumarate",
+            "xinafoate"
+      ],
+      "id": "NCT00064415"
 }

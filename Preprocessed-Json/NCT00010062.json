@@ -138,15 +138,15 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -263,7 +263,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -272,6 +272,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010062.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00010062"
 }

@@ -220,13 +220,15 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "chemotherapy"
@@ -329,11 +331,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002895.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002895"
 }

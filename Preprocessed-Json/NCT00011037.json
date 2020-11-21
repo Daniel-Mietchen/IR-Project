@@ -238,25 +238,37 @@
             "provide"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "mn",
-            "placebo"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "MN rgp120/HIV-1",
+            "ALVAC(2)120(B,MN)GNP (vCP1452) placebo",
+            "MN rgp120/HIV-1 placebo"
       ],
       "description": [
-            "alum",
+            "x",
+            "7",
+            "administer",
+            "intramuscularly",
+            "mg",
+            "administer",
+            "intramuscularly",
+            "placebo",
+            "administer",
+            "intramuscularly",
             "placebo",
             "administer",
             "intramuscularly"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -420,7 +432,7 @@
             "thimerosal",
             "neomycin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -429,6 +441,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011037.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00011037"
 }

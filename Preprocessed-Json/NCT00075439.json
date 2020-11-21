@@ -155,24 +155,33 @@
             "entry"
       ],
       "condition": [
-            "wdha",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
+            "polypeptide",
+            "tumor",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
+            "islet",
+            "cell",
+            "carcinoma",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "zd",
             "1839"
       ],
       "criteria": [
@@ -631,12 +640,21 @@
             "situ",
             "cervix"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075439.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "carcinoid",
+            "syndrome",
+            "neoplasm",
+            "islet",
+            "cell"
+      ],
+      "id": "NCT00075439"
 }

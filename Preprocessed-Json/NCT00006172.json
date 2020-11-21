@@ -139,24 +139,40 @@
             "treatment"
       ],
       "condition": [
-            "chronic",
+            "disorder",
+            "disorder",
             "depression"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "negative",
-            "ion",
-            "generator"
+            "Bright light box",
+            "High-output negative ion generator",
+            "Low-output negative ion generator"
       ],
       "description": [
+            "light",
+            "therapy",
+            "shortly",
+            "awaken",
+            "ion",
+            "exposure",
+            "shortly",
+            "awaken",
             "ion",
             "exposure",
             "shortly",
             "awaken"
       ],
       "arm_group_label": [
+            "light",
+            "box",
+            "negative",
+            "ion",
+            "generator",
             "negative",
             "ion",
             "generator"
@@ -215,7 +231,7 @@
             "program",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -224,6 +240,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006172.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phototherapy"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00006172"
 }

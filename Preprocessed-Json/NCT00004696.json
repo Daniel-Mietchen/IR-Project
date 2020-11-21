@@ -145,10 +145,11 @@
             "record"
       ],
       "condition": [
-            "pain"
+            "newborn",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "morphine"
@@ -287,12 +288,20 @@
             "analgesia",
             "score"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004696.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "newborn",
+            "disease"
+      ],
+      "id": "NCT00004696"
 }

@@ -40,14 +40,13 @@
             "population"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zalcitabine"
+            "Zalcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -292,7 +291,6 @@
             "medical",
             "monitor",
             "enter",
-            "study",
             "unwillingness",
             "deem",
             "unable",
@@ -300,12 +298,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002256.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002256"
 }

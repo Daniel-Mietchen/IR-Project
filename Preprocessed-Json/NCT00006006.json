@@ -118,18 +118,17 @@
             "toxicity"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
             "thalidomide"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -289,12 +288,21 @@
             "barbiturate",
             "alcohol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006006.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006006"
 }

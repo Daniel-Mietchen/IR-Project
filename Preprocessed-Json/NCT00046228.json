@@ -148,20 +148,69 @@
             "hour"
       ],
       "condition": [
-            "myocardial",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abciximab",
-            "reteplase",
-            "abciximab",
-            "placebo",
-            "abciximab"
+            "abciximab placebo; reteplase placebo, abciximab, abciximab",
+            "Abciximab; reteplase; abciximab placebo; abciximab",
+            "abciximab; reteplase placebo; abciximab placebo; abciximab",
+            "abciximab placebo; reteplase placebo, abciximab, abciximab",
+            "abciximab; reteplase placebo; abciximab placebo; abciximab",
+            "Abciximab; reteplase; abciximab placebo; abciximab"
       ],
       "description": [
+            "bolus",
+            "placebo",
+            "bolus",
+            "bolus",
+            "max",
+            "10",
+            "infusion",
+            "x",
+            "bolus",
+            "5",
+            "unit",
+            "bolus",
+            "placebo",
+            "bolus",
+            "max",
+            "10",
+            "infusion",
+            "x",
+            "bolus",
+            "placebo",
+            "bolus",
+            "placebo",
+            "bolus",
+            "max",
+            "10",
+            "infusion",
+            "x",
+            "bolus",
+            "placebo",
+            "bolus",
+            "bolus",
+            "max",
+            "10",
+            "infusion",
+            "x",
+            "bolus",
+            "placebo",
+            "bolus",
+            "placebo",
+            "bolus",
+            "max",
+            "10",
+            "infusion",
+            "x",
             "bolus",
             "5",
             "unit",
@@ -173,9 +222,7 @@
             "infusion",
             "x"
       ],
-      "arm_group_label": [
-            "001"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -214,12 +261,24 @@
             "qualify",
             "electrocardiogram"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046228.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "safety",
+            "efficacy"
+      ],
+      "mesh_term": [
+            "infarction",
+            "monoclonal",
+            "fab",
+            "fragment",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00046228"
 }

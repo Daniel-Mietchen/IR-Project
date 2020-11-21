@@ -232,7 +232,10 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "neck",
+            "cancer",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -240,11 +243,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lurtotecan",
-            "liposome"
+            "cisplatin",
+            "lurtotecan liposome"
       ],
       "criteria": [
             "disease",
@@ -529,12 +533,21 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00006036"
 }

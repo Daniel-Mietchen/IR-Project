@@ -197,7 +197,14 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "bile",
+            "duct",
+            "cancer",
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -205,11 +212,14 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "epirubicin",
-            "hydrochloride"
+            "capecitabine",
+            "carboplatin",
+            "epirubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -443,12 +453,28 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021047.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "duct",
+            "neoplasm"
+      ],
+      "id": "NCT00021047"
 }

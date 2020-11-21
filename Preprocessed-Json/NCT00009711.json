@@ -142,16 +142,18 @@
             "study"
       ],
       "condition": [
-            "pulmonary",
+            "effect",
+            "secondary",
+            "cancer",
+            "therapy",
+            "child",
             "complication"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -232,12 +234,16 @@
             "regimen",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009711.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "complication"
+      ],
+      "id": "NCT00009711"
 }

@@ -153,30 +153,37 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bortezomib",
+            "paclitaxel",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "paclitaxel",
+            "bortezomib",
+            "paclitaxel",
             "bortezomib",
             "paclitaxel"
       ],
       "other_name": [
-            "taxol"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -354,12 +361,15 @@
             "skeletal",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030368.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00030368"
 }

@@ -156,14 +156,14 @@
             "disorder"
       ],
       "condition": [
-            "mood",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dehydroepiandrosterone"
+            "Dehydroepiandrosterone"
       ],
       "criteria": [
             "inclusion",
@@ -386,9 +386,17 @@
             "pregnant",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mood",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001487"
 }

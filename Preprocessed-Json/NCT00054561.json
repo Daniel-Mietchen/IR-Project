@@ -255,16 +255,20 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Dietary Supplement",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "recombinant interferon alfa",
+            "vitamin E",
+            "isotretinoin",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -307,7 +311,6 @@
             "resection",
             "radiotherapy",
             "chemoradiotherapy",
-            "alone",
             "resection",
             "follow",
             "week",
@@ -315,7 +318,6 @@
             "prior",
             "surgery",
             "note",
-            "radiotherapy",
             "must",
             "gy",
             "gy",
@@ -487,12 +489,27 @@
             "contain",
             "vitamin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054561.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "e"
+      ],
+      "id": "NCT00054561"
 }

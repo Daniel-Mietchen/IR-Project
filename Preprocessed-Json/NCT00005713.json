@@ -292,19 +292,15 @@
             "country"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "continue",
-            "preventative",
-            "care"
+            "Continuing, preventative care"
       ],
       "description": [
-            "train",
             "intervention",
             "clinic",
             "staff",
@@ -330,7 +326,6 @@
             "management"
       ],
       "arm_group_label": [
-            "continue",
             "preventative",
             "care",
             "asthma"
@@ -363,7 +358,7 @@
             "follow",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -372,6 +367,9 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005713.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005713"
 }

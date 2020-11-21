@@ -114,16 +114,17 @@
             "arm"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "flutamide",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -219,14 +220,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006214.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "id": "NCT00006214"
 }

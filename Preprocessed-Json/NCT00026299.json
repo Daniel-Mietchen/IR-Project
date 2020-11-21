@@ -235,21 +235,31 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ZD1839",
             "oxaliplatin"
       ],
       "arm_group_label": [
-            "phase",
+            "2",
+            "oxaliplatin",
+            "plus",
+            "oxaliplatin",
+            "2",
+            "oxaliplatin",
+            "plus",
+            "2",
+            "oxaliplatin",
+            "alone",
             "oxaliplatin"
       ],
       "other_name": [
-            "eloxatin"
+            "iressa"
       ],
       "criteria": [
             "disease",
@@ -520,12 +530,19 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026299.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00026299"
 }

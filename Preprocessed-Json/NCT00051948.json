@@ -21,13 +21,14 @@
             "cancer"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "TLK286"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -100,14 +101,15 @@
             "radiation",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051948.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051948"
 }

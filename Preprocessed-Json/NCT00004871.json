@@ -177,14 +177,16 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "phenylbutyrate"
+            "azacitidine",
+            "sodium phenylbutyrate"
       ],
       "criteria": [
             "disease",
@@ -436,12 +438,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004871.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disease",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "disorder",
+            "disease",
+            "acid"
+      ],
+      "id": "NCT00004871"
 }

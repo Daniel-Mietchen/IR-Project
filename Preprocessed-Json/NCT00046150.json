@@ -48,15 +48,13 @@
             "sign"
       ],
       "condition": [
-            "diabetes",
             "type"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "glulisine"
+            "Insulin glulisine (HMR1964)"
       ],
       "criteria": [
             "inclusion",
@@ -400,12 +398,19 @@
             "previously",
             "treat"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046150.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "globin",
+            "zinc",
+            "glulisine",
+            "aspart"
+      ],
+      "id": "NCT00046150"
 }

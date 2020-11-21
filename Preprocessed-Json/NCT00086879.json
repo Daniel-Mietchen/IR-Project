@@ -110,7 +110,6 @@
             "patient",
             "receive",
             "oral",
-            "erlotinib",
             "daily",
             "day",
             "course",
@@ -124,7 +123,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "treat",
             "enzyme",
             "induce",
@@ -163,7 +161,6 @@
             "patient",
             "receive",
             "oral",
-            "temozolomide",
             "daily",
             "day",
             "course",
@@ -227,16 +224,19 @@
             "study"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carmustine",
+            "erlotinib hydrochloride",
             "temozolomide"
       ],
       "criteria": [
@@ -522,12 +522,24 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086879.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00086879"
 }

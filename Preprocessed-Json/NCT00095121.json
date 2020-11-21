@@ -248,17 +248,24 @@
             "monitor"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lamivudine"
+            "Placebo (PLB)",
+            "Adefovir Dipivoxil (ADV)",
+            "Lamivudine"
       ],
       "description": [
+            "placebo",
+            "tablet",
+            "oral",
+            "suspension",
             "tablet",
             "administer",
             "accord",
@@ -312,7 +319,10 @@
             "evaluation"
       ],
       "arm_group_label": [
-            "adefovir",
+            "plb",
+            "dipivoxil",
+            "adv",
+            "plb",
             "dipivoxil",
             "adv"
       ],
@@ -369,7 +379,6 @@
             "4",
             "week",
             "baseline",
-            "prothrombin",
             "time",
             "le",
             "equal",
@@ -377,13 +386,11 @@
             "second",
             "normal",
             "range",
-            "total",
             "bilirubin",
             "le",
             "normal",
             "direct",
             "bilirubin",
-            "serum",
             "albumin",
             "greater",
             "3",
@@ -396,7 +403,6 @@
             "bleed",
             "encephalopathy",
             "splenomegaly",
-            "adequate",
             "renal",
             "function",
             "define",
@@ -453,7 +459,7 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -462,6 +468,17 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095121.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adefovir",
+            "dipivoxil"
+      ],
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic",
+            "dipivoxil"
+      ],
+      "id": "NCT00095121"
 }

@@ -493,15 +493,16 @@
             "stimulation"
       ],
       "condition": [
-            "electrical",
             "stimulation",
             "brain"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "eeg"
+            "TMS",
+            "EEG"
       ],
       "criteria": [
             "inclusion",
@@ -579,9 +580,12 @@
             "stimulate",
             "electrode"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048698.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "id": "NCT00048698"
 }

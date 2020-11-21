@@ -193,16 +193,13 @@
             "require"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "polyvalent",
-            "peptide",
-            "vaccine"
+            "HIV-1 C4-V3 Polyvalent Peptide Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -406,7 +403,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -415,6 +412,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001060.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001060"
 }

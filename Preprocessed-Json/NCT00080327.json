@@ -21,28 +21,39 @@
             "episode",
             "schizophrenia"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Aripiprazole",
+            "Aripiprazole",
+            "Aripiprazole",
+            "Placebo"
       ],
       "description": [
-            "tablet",
+            "oral",
+            "daily",
+            "6",
+            "week",
+            "oral",
+            "daily",
+            "6",
+            "week",
+            "oral",
+            "daily",
+            "6",
+            "week",
             "oral",
             "daily",
             "6",
             "week"
       ],
-      "arm_group_label": [
-            "4"
-      ],
-      "other_name": [
-            "abilify"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -58,12 +69,13 @@
             "three",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080327.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00080327"
 }

@@ -116,14 +116,14 @@
             "ml",
             "blood"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "biopsy"
+            "Gamma-camera imaging",
+            "Low-risk biopsy"
       ],
       "criteria": [
             "inclusion",
@@ -174,9 +174,13 @@
             "protocol",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026897.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "image"
+      ],
+      "id": "NCT00026897"
 }

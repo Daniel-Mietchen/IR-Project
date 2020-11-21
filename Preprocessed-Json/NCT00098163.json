@@ -210,17 +210,27 @@
             "12"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "alvac"
+            "ALVAC-HIV vCP1521",
+            "ALVAC HIV-1 vCP1521"
       ],
       "description": [
-            "one",
+            "dose",
+            "vaccine",
+            "administer",
+            "birth",
+            "day",
+            "3",
+            "week",
+            "4",
+            "8",
+            "12",
             "dose",
             "vaccine",
             "placebo",
@@ -233,9 +243,7 @@
             "8",
             "12"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -382,12 +390,20 @@
             "multiple",
             "birth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098163.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00098163"
 }

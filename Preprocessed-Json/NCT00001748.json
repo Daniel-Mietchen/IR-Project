@@ -277,18 +277,18 @@
             "year"
       ],
       "condition": [
-            "myeloid",
+            "v",
+            "host",
+            "disease",
+            "neoplasm",
+            "syndrome",
             "leukemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "progenitor",
-            "cell",
-            "transplant"
+            "Peripheral blood progenitor cell transplant"
       ],
       "criteria": [
             "patient",
@@ -540,9 +540,20 @@
             "two",
             "cycle"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001748.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myeloproliferative",
+            "disorder"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "v",
+            "host",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00001748"
 }

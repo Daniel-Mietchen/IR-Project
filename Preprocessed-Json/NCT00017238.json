@@ -188,27 +188,26 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "KRN5500",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -412,12 +411,12 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017238.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00017238"
 }

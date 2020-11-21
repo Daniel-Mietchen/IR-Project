@@ -402,13 +402,20 @@
             "subject"
       ],
       "condition": [
-            "myocardial",
+            "heart",
+            "failure",
+            "artery",
+            "disease",
             "infarction"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MyoCell\u2122",
+            "MyoCath\u2122"
+      ],
       "criteria": [
             "patient",
             "meet",
@@ -762,7 +769,6 @@
             "study",
             "12",
             "month",
-            "period",
             "illness",
             "investigator",
             "judgment",
@@ -786,7 +792,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -795,6 +801,19 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054678.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "implantable",
+            "cardioverter",
+            "defibrillator"
+      ],
+      "mesh_term": [
+            "failure",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "infarction"
+      ],
+      "id": "NCT00054678"
 }

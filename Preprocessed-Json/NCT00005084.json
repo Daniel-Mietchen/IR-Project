@@ -142,18 +142,20 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "conventional surgery",
+            "magnetic resonance spectroscopic imaging",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -204,12 +206,25 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005084.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00005084"
 }

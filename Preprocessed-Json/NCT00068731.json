@@ -146,19 +146,15 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement"
       ],
       "intervention_name": [
             "lycopene"
       ],
-      "arm_group_label": [
-            "lycopene"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -263,7 +259,6 @@
             "bilirubin",
             "greater",
             "note",
-            "include",
             "patient",
             "liver",
             "involvement",
@@ -370,14 +365,20 @@
             "saw",
             "palmetto"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068731.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00068731"
 }

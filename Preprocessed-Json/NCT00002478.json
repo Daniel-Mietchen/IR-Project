@@ -116,11 +116,11 @@
             "month"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "etoposide"
@@ -261,11 +261,20 @@
             "surgery",
             "recover"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002478.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00002478"
 }

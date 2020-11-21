@@ -235,24 +235,48 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cetuximab",
+            "5-FU",
+            "irinotecan",
+            "leucovorin",
             "oxaliplatin"
       ],
-      "description": [
-            "iv"
-      ],
+      "description": [],
       "arm_group_label": [
-            "arm",
+            "b",
+            "folfiri",
+            "folfox",
+            "folfiri",
+            "b",
+            "folfiri",
+            "c",
+            "folfox",
+            "folfox",
+            "folfiri",
+            "b",
+            "folfiri",
+            "folfiri",
+            "b",
+            "folfiri",
+            "c",
+            "folfox",
+            "folfox",
+            "c",
+            "folfox",
             "folfox"
       ],
       "other_name": [
-            "eloxatin"
+            "folinate"
       ],
       "criteria": [
             "1",
@@ -768,12 +792,21 @@
             "uln",
             "albumin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077233.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00077233"
 }

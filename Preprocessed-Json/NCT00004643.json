@@ -63,12 +63,11 @@
             "week"
       ],
       "condition": [
-            "lupus",
             "erythematosus",
             "systemic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "cytarabine"
@@ -161,7 +160,7 @@
             "day",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -170,6 +169,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004643.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "systemic",
+            "lupus",
+            "erythematosus"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00004643"
 }

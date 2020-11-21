@@ -194,16 +194,14 @@
             "ii"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "implant"
+            "cisplatin-e therapeutic implant"
       ],
       "criteria": [
             "disease",
@@ -413,12 +411,29 @@
             "prior",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002659.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "borate"
+      ],
+      "id": "NCT00002659"
 }

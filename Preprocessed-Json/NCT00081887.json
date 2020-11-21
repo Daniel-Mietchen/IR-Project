@@ -318,16 +318,16 @@
             "anderson"
       ],
       "condition": [
+            "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "clofarabine"
+            "Clofarabine"
       ],
       "description": [
-            "start",
             "dose",
             "10",
             "infusion",
@@ -341,12 +341,9 @@
             "cycle"
       ],
       "arm_group_label": [
-            "weekly",
             "clofarabine"
       ],
-      "other_name": [
-            "clolar"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -490,9 +487,17 @@
             "chronic",
             "hepatitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081887.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clolar"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00081887"
 }

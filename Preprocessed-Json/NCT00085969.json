@@ -28,22 +28,48 @@
             "mellitus"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "exenatide",
-            "20",
-            "mcg",
-            "daily"
+            "Placebo 0.04 mL twice daily",
+            "Placebo 0.04 mL once daily",
+            "Placebo 0.08 mL once daily",
+            "B - Exenatide 10 mcg twice daily",
+            "C - Exenatide 10 mcg once daily",
+            "Exenatide 20 mcg once daily"
       ],
       "description": [
-            "subcutaneously",
+            "inject",
+            "ml",
+            "twice",
+            "daily",
+            "inject",
+            "ml",
+            "daily",
+            "inject",
+            "ml",
+            "daily",
+            "inject",
+            "10",
+            "mcg",
+            "ml",
+            "twice",
+            "daily",
+            "inject",
+            "10",
+            "mcg",
+            "ml",
+            "daily",
             "inject",
             "20",
             "mcg",
@@ -51,14 +77,31 @@
             "daily"
       ],
       "arm_group_label": [
+            "placebo",
+            "ml",
+            "twice",
+            "daily",
+            "placebo",
+            "ml",
+            "daily",
+            "placebo",
+            "ml",
+            "daily",
+            "exenatide",
+            "10",
+            "mcg",
+            "twice",
+            "daily",
+            "exenatide",
+            "10",
+            "mcg",
+            "daily",
             "exenatide",
             "20",
             "mcg",
             "daily"
       ],
-      "other_name": [
-            "synthetic"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -167,7 +210,7 @@
             "prescription",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -176,6 +219,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085969.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lilly"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00085969"
 }

@@ -201,15 +201,18 @@
             "administration"
       ],
       "condition": [
-            "healthy"
+            "gland",
+            "hyperfunction",
+            "gland",
+            "hypofunction",
+            "cushing",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ovine",
-            "hormone",
-            "ocrh"
+            "Ovine Corticotropin-Releasing Hormone (oCRH)"
       ],
       "criteria": [
             "inclusion",
@@ -237,9 +240,22 @@
             "clinic",
             "ward"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001180.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "syndrome",
+            "disease",
+            "hyperfunction",
+            "hormone",
+            "hormone",
+            "borate"
+      ],
+      "id": "NCT00001180"
 }

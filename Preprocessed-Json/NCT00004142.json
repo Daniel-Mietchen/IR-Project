@@ -171,18 +171,57 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiofrequency",
-            "ablation"
+            "Floxuridine",
+            "Fluorouracil (5-FU)",
+            "Conventional surgery",
+            "Radiofrequency ablation"
       ],
       "description": [
-            "radiofrequency",
+            "hepatic",
+            "arterial",
+            "chemotherapy",
+            "day",
+            "treatment",
+            "repeat",
+            "every",
+            "5",
+            "week",
+            "6",
+            "course",
+            "hepatic",
+            "arterial",
+            "chemotherapy",
+            "1",
+            "hour",
+            "day",
+            "15",
+            "22",
+            "29",
+            "treatment",
+            "repeat",
+            "every",
+            "5",
+            "week",
+            "6",
+            "course",
+            "laparotomy",
+            "identify",
+            "target",
+            "tumor",
+            "liver",
+            "use",
+            "intraoperative",
+            "ultrasound",
             "tissue",
             "ablation",
             "20",
@@ -190,12 +229,16 @@
             "tumor"
       ],
       "arm_group_label": [
-            "radiofrequency",
+            "ablation",
+            "hai",
+            "ablation",
+            "hai",
+            "ablation",
+            "hai",
             "ablation",
             "hai"
       ],
       "other_name": [
-            "open",
             "laparotomy"
       ],
       "criteria": [
@@ -328,12 +371,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004142.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00004142"
 }

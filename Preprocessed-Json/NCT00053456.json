@@ -549,7 +549,6 @@
             "epcs"
       ],
       "condition": [
-            "coronary",
             "arteriosclerosis"
       ],
       "criteria": [
@@ -660,9 +659,19 @@
             "mri",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053456.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endothelial",
+            "progenitor",
+            "cell"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00053456"
 }

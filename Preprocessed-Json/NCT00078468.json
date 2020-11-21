@@ -29,13 +29,14 @@
             "chemotherapy"
       ],
       "condition": [
-            "colorectal",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PELITREXOL/AG-2037"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -87,7 +88,6 @@
             "6",
             "month",
             "completion",
-            "therapy",
             "newer",
             "target",
             "investigational",
@@ -215,12 +215,15 @@
             "treatment",
             "progression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078468.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078468"
 }

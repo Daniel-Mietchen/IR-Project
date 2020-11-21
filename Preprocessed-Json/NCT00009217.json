@@ -215,14 +215,31 @@
             "protocol"
       ],
       "condition": [
-            "agitation"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Haloperidol-Haloperidol",
+            "Haloperidol-Placebo"
+      ],
       "description": [
+            "open",
+            "label",
+            "flexible",
+            "dose",
+            "mg",
+            "daily",
+            "20",
+            "week",
+            "follow",
             "haloperidol",
+            "mg",
+            "24",
+            "week",
             "flexible",
             "dose",
             "mg",
@@ -234,9 +251,7 @@
             "week"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "haldol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -426,7 +441,7 @@
             "use",
             "haloperidol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -435,6 +450,17 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009217.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "haloperidol"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "disorder",
+            "agitation",
+            "symptom",
+            "decanoate"
+      ],
+      "id": "NCT00009217"
 }

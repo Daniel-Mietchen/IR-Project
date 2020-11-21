@@ -46,17 +46,29 @@
             "period"
       ],
       "condition": [
-            "systemic",
+            "ulcer",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Bosentan 62.5 mg",
+            "Bosentan 125 mg",
+            "Placebo"
       ],
       "description": [
-            "oral",
+            "tablet",
+            "contain",
+            "mg",
+            "bosentan",
+            "tablet",
+            "contain",
+            "125",
+            "mg",
+            "bosentan",
             "tablet",
             "match",
             "bosentan",
@@ -64,12 +76,8 @@
             "bosentan",
             "tablet"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "ro"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "main",
             "inclusion",
@@ -138,12 +146,21 @@
             "treatment",
             "bosentan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077584.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "systemic",
+            "sclerosis"
+      ],
+      "mesh_term": [
+            "systemic",
+            "diffuse",
+            "ulcer"
+      ],
+      "id": "NCT00077584"
 }

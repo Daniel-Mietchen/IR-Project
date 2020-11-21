@@ -30,14 +30,15 @@
             "cancer"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "ALIMTA",
+            "Carboplatin"
       ],
       "criteria": [
             "inclusion",
@@ -85,12 +86,22 @@
             "amount",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051493.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00051493"
 }

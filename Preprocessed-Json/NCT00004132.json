@@ -274,15 +274,31 @@
             "study"
       ],
       "condition": [
-            "radiation",
+            "toxicity",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "complication",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "palifermin",
+            "cyclophosphamide",
+            "etoposide",
+            "ifosfamide",
+            "quality-of-life assessment",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -482,7 +498,7 @@
             "cryotherapy",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -491,6 +507,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004132.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "injury"
+      ],
+      "id": "NCT00004132"
 }

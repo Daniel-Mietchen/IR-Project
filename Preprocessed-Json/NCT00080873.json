@@ -165,14 +165,19 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "complication"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Traumeel S",
+            "Placebo"
       ],
       "arm_group_label": [
-            "receive",
+            "traumeel",
             "placebo"
       ],
       "criteria": [
@@ -302,7 +307,7 @@
             "mouth",
             "sore"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -311,6 +316,13 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080873"
 }

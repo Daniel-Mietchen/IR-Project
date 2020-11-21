@@ -425,7 +425,6 @@
             "observation"
       ],
       "condition": [
-            "atrial",
             "fibrillation"
       ],
       "criteria": [
@@ -440,9 +439,12 @@
             "anticoagulation",
             "clinic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075985.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrillation"
+      ],
+      "id": "NCT00075985"
 }

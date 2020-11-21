@@ -123,15 +123,15 @@
             "month"
       ],
       "condition": [
-            "spastic",
             "diplegia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "physical",
-            "therapy"
+            "Surgery",
+            "Physical therapy"
       ],
       "criteria": [
             "protocol",
@@ -276,7 +276,7 @@
             "postoperative",
             "physiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -285,6 +285,14 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004751.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "spastic",
+            "diplegia"
+      ],
+      "mesh_term": [
+            "spasticity",
+            "palsy"
+      ],
+      "id": "NCT00004751"
 }

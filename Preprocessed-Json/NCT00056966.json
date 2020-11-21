@@ -335,19 +335,41 @@
             "infusion"
       ],
       "condition": [
-            "hematologic",
             "malignancy"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "infusion"
+            "ANTI-CD45",
+            "CAMPATH-1H",
+            "FK506",
+            "Fludarabine",
+            "Total Body Irradiation",
+            "Stem cell infusion"
       ],
       "description": [
-            "patient",
+            "day",
+            "dose",
+            "per",
+            "institutional",
+            "sop",
+            "day",
+            "30",
+            "dose",
+            "adjust",
+            "maintain",
+            "level",
+            "30",
+            "single",
+            "dose",
+            "450",
+            "cgy",
             "receive",
             "peripheral",
             "blood",
@@ -381,12 +403,8 @@
             "x",
             "substitute"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "tacrolimus"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -664,9 +682,17 @@
             "serum",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056966.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "severe",
+            "aplastic",
+            "anemia"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00056966"
 }

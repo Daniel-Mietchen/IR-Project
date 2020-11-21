@@ -27,18 +27,46 @@
             "hypertension"
       ],
       "condition": [
-            "ocular",
+            "glaucoma",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ophthalmic",
-            "solution"
+            "AL-12182 0.003% Ophthalmic Solution",
+            "AL-12182 Ophthalmic Solution Vehicle",
+            "Latanoprost 0.005% Ophthalmic Solution",
+            "AL-12182 0.01% Ophthalmic Solution",
+            "AL-12182 0.03% Ophthalmic Solution"
       ],
       "description": [
-            "investigational",
+            "ophthalmic",
+            "solution",
+            "intend",
+            "treatment",
+            "glaucoma",
+            "ocular",
+            "hypertension",
+            "market",
+            "ophthalmic",
+            "solution",
+            "intend",
+            "treatment",
+            "glaucoma",
+            "ocular",
+            "hypertension",
+            "ophthalmic",
+            "solution",
+            "intend",
+            "treatment",
+            "glaucoma",
+            "ocular",
+            "hypertension",
             "ophthalmic",
             "solution",
             "intend",
@@ -47,7 +75,10 @@
             "ocular",
             "hypertension"
       ],
-      "arm_group_label": [],
+      "arm_group_label": [
+            "solution",
+            "vehicle"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -78,12 +109,20 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069706.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "poag"
+      ],
+      "mesh_term": [
+            "hypertension",
+            "solution",
+            "solution"
+      ],
+      "id": "NCT00069706"
 }

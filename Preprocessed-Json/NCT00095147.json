@@ -26,18 +26,69 @@
             "placebo"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aba",
-            "ol"
+            "Abatacept (ABA) + Methotrexate (MTX), double-blind (DB)",
+            "Infliximab (INF) + MTX, DB",
+            "Placebo (PLA) + MTX, DB",
+            "PLA + MTX switched to ABA+ MTX, DB",
+            "ABA, open-label (OL)"
       ],
       "description": [
-            "abatacept",
+            "intravenous",
+            "iv",
+            "solution",
+            "infusion",
+            "depend",
+            "participant",
+            "weight",
+            "monthly",
+            "12",
+            "month",
+            "iv",
+            "solution",
+            "infusion",
+            "depend",
+            "participant",
+            "weight",
+            "every",
+            "2",
+            "month",
+            "12",
+            "month",
+            "iv",
+            "solution",
+            "infusion",
+            "depend",
+            "participant",
+            "weight",
+            "monthly",
+            "6",
+            "month",
+            "solution",
+            "infusion",
+            "depend",
+            "participant",
+            "weight",
+            "monthly",
+            "6",
+            "month",
+            "solution",
+            "infusion",
+            "depend",
+            "participant",
+            "weight",
+            "monthly",
+            "6",
+            "month",
             "iv",
             "solution",
             "infusion",
@@ -48,11 +99,21 @@
             "month"
       ],
       "arm_group_label": [
-            "abatacept"
+            "aba",
+            "methotrexate",
+            "mtx",
+            "db",
+            "mtx",
+            "db",
+            "mtx",
+            "db",
+            "mtx",
+            "switch",
+            "abatacept",
+            "mtx",
+            "db"
       ],
-      "other_name": [
-            "orencia"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -117,7 +178,7 @@
             "bear",
             "potential"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -126,6 +187,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095147.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00095147"
 }

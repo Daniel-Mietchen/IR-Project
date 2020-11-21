@@ -106,22 +106,32 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "lymphocyte",
+            "depletion",
+            "hodgkin",
+            "lymphoma",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma",
+            "nodular",
+            "sclerosis",
+            "hodgkin",
+            "lymphoma",
             "adult",
             "hodgkin",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "17-N-allylamino-17-demethoxygeldanamycin/bortezomib"
+      ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -301,12 +311,15 @@
             "proteosome",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082966.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00082966"
 }

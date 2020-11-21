@@ -327,18 +327,78 @@
             "determination"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine",
-            "dose"
+            "Docetaxel - Dose A",
+            "Anastrozole",
+            "cyclophosphamide",
+            "Docetaxel - Dose B",
+            "Doxorubicin hydrochloride",
+            "Tamoxifen Citrate",
+            "Capecitabine - Dose B",
+            "Capecitabine - Dose A"
       ],
       "description": [
+            "1",
+            "docetaxel",
+            "75",
+            "intravenous",
+            "day",
+            "1",
+            "mg",
+            "orally",
+            "daily",
+            "five",
+            "year",
+            "dilute",
+            "100",
+            "ml",
+            "normal",
+            "saline",
+            "n",
+            "administer",
+            "intravenously",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "b",
+            "cohort",
+            "2",
+            "docetaxel",
+            "60",
+            "intravenous",
+            "day",
+            "1",
+            "administer",
+            "slow",
+            "intravenous",
+            "push",
+            "day",
+            "1",
+            "orally",
+            "five",
+            "year",
+            "b",
+            "cohort",
+            "2",
             "capecitabine",
+            "orally",
+            "twice",
+            "daily",
+            "day",
             "1000",
             "orally",
             "twice",
@@ -348,12 +408,32 @@
             "cycle"
       ],
       "arm_group_label": [
-            "dose",
+            "capecitabine",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
+            "2",
+            "reduce",
+            "capecitabine",
             "capecitabine"
       ],
-      "other_name": [
-            "nolvadex"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -504,12 +584,20 @@
             "intent",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005908.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005908"
 }

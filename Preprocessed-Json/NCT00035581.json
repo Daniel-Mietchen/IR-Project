@@ -35,14 +35,14 @@
             "pcr"
       ],
       "condition": [
-            "hiv",
+            "seropositivity",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "poly"
+            "poly I-poly C12U"
       ],
       "description": [
             "mg",
@@ -51,12 +51,8 @@
             "24",
             "week"
       ],
-      "arm_group_label": [
-            "ampligen"
-      ],
-      "other_name": [
-            "rintatolimod"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "1",
             "adult",
@@ -225,12 +221,22 @@
             "mean",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035581.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "early",
+            "virologic",
+            "failure"
+      ],
+      "mesh_term": [
+            "infection",
+            "seropositivity",
+            "u"
+      ],
+      "id": "NCT00035581"
 }

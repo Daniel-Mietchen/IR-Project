@@ -183,18 +183,20 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Radiation",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "Hyperfractionated",
+            "Taxotere/Cisplatin",
+            "conventional surgery"
       ],
       "description": [
-            "conventional",
+            "radiotherapy",
             "surgery"
       ],
       "criteria": [
@@ -426,7 +428,7 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -435,6 +437,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030810.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030810"
 }

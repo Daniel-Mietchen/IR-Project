@@ -205,20 +205,38 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "cladribine",
             "idarubicin"
       ],
       "arm_group_label": [
-            "md"
+            "untreated",
+            "relapse",
+            "aml",
+            "refractory",
+            "aml",
+            "untreated",
+            "relapse",
+            "aml",
+            "refractory",
+            "aml",
+            "untreated",
+            "relapse",
+            "aml",
+            "refractory",
+            "aml"
       ],
       "other_name": [
-            "nsc",
+            "factor",
+            "614629",
+            "105014",
             "256439"
       ],
       "criteria": [
@@ -347,12 +365,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003178.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00003178"
 }

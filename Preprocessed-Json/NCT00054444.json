@@ -173,30 +173,56 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "ib",
+            "cervical",
+            "cancer",
+            "iia",
+            "cervical",
+            "cancer",
+            "iib",
+            "cervical",
+            "cancer",
+            "iii",
+            "cervical",
+            "cancer",
             "iva",
             "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "cisplatin"
+            "Topotecan Hydrochloride Liposomes",
+            "3-Dimensional Conformal Radiation Therapy",
+            "Cisplatin"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "topotecan",
+            "hydrochloride",
+            "radiation",
+            "cisplatin",
+            "topotecan",
+            "hydrochloride",
+            "radiation",
+            "cisplatin",
             "topotecan",
             "hydrochloride",
             "radiation",
             "cisplatin"
       ],
       "other_name": [
-            "radiation",
+            "therapy",
             "conformal",
             "therapy"
       ],
@@ -342,11 +368,15 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054444.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00054444"
 }

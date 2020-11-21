@@ -452,7 +452,6 @@
             "m"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "criteria": [
@@ -636,7 +635,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -645,6 +644,12 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099307.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "sclerosis"
+      ],
+      "id": "NCT00099307"
 }

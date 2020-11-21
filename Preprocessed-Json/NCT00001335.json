@@ -248,12 +248,19 @@
             "regimen"
       ],
       "condition": [
-            "rhabdomyosarcoma"
+            "ewing",
+            "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ADR-529",
+            "Topotecan",
+            "G-CSF"
+      ],
       "criteria": [
             "patient",
             "must",
@@ -487,9 +494,19 @@
             "patient",
             "excluced"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001335.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bid",
+            "radiation",
+            "therapy",
+            "local",
+            "control"
+      ],
+      "mesh_term": [
+            "ewing"
+      ],
+      "id": "NCT00001335"
 }

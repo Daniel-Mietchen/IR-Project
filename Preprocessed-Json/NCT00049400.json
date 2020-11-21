@@ -172,7 +172,8 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -180,18 +181,18 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "BMS-247550"
+      ],
       "description": [
             "infusion",
             "day",
             "1",
             "cycle"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -436,12 +437,24 @@
             "know",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "disease"
+      ],
+      "id": "NCT00049400"
 }

@@ -201,15 +201,17 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "aldesleukin",
+            "ras peptide cancer vaccine",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -360,7 +362,6 @@
             "antigen",
             "negative",
             "note",
-            "unless",
             "due",
             "metastatic",
             "disease",
@@ -497,12 +498,20 @@
             "disease",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019591.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00019591"
 }

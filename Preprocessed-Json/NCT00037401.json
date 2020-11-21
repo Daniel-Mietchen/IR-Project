@@ -304,14 +304,14 @@
             "group"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -320,6 +320,10 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037401.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00037401"
 }

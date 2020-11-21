@@ -28,11 +28,12 @@
             "superior"
       ],
       "condition": [
-            "myocardial",
+            "angina",
+            "infarction",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "enoxaparin"
@@ -295,12 +296,24 @@
             "precede",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "elevation"
+      ],
+      "mesh_term": [
+            "infarction",
+            "coronary",
+            "syndrome",
+            "ischemia",
+            "artery",
+            "disease",
+            "unstable"
+      ],
+      "id": "NCT00043784"
 }

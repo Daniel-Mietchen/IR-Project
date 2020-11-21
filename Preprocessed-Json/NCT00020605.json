@@ -118,7 +118,9 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "impaction",
+            "bowel",
+            "obstruction",
             "adult",
             "solid",
             "tumor",
@@ -126,11 +128,10 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "naloxone",
-            "hydrochloride"
+            "naloxone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -296,12 +297,21 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020605.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "constipation",
+            "impaction",
+            "bowel",
+            "obstruction"
+      ],
+      "mesh_term": [
+            "obstruction"
+      ],
+      "id": "NCT00020605"
 }

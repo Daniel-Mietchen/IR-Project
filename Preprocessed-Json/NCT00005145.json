@@ -400,14 +400,17 @@
             "appropriate"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "disease",
+            "accident",
+            "disease",
             "infarction"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -416,6 +419,14 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005145.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005145"
 }

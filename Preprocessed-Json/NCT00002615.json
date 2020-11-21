@@ -235,15 +235,19 @@
             "year"
       ],
       "condition": [
-            "gastric",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "cisplatin",
+            "epirubicin hydrochloride",
+            "fluorouracil",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -329,9 +333,16 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002615.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "stomach"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002615"
 }

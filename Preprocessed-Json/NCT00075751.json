@@ -204,31 +204,50 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gemcitabine hydrochloride",
+            "carboplatin",
             "bortezomib"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "gemcitabine",
+            "hydrochloride",
+            "carboplatin",
+            "bortezomib",
+            "gemcitabine",
+            "hydrochloride",
+            "carboplatin",
+            "bortezomib",
             "gemcitabine",
             "hydrochloride",
             "carboplatin",
             "bortezomib"
       ],
       "other_name": [
-            "velcade"
+            "hydrochloride",
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -668,12 +687,16 @@
             "data",
             "base"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075751.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00075751"
 }

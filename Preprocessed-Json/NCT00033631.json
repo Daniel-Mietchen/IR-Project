@@ -238,17 +238,54 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "gy"
+            "70.2 Gy 3D-CRT/IMRT",
+            "79.2 Gy 3D-CRT/IMRT"
       ],
       "description": [
+            "deliver",
+            "via",
+            "conformal",
             "radiation",
+            "therapy",
+            "intensity",
+            "modulate",
+            "radiation",
+            "therapy",
+            "imrt",
+            "gy",
+            "minimum",
+            "dose",
+            "fraction",
+            "total",
+            "gy",
+            "39",
+            "fraction",
+            "field",
+            "treat",
+            "daily",
+            "five",
+            "fraction",
+            "per",
+            "week",
+            "2",
+            "plan",
+            "target",
+            "volume",
+            "none",
+            "clinical",
+            "target",
+            "volume",
+            "may",
+            "receive",
+            "le",
+            "gy",
             "deliver",
             "via",
             "conformal",
@@ -288,10 +325,19 @@
             "gy"
       ],
       "arm_group_label": [
+            "gy",
             "gy"
       ],
       "other_name": [
-            "intensity",
+            "conformal",
+            "radiation",
+            "therapy",
+            "modulate",
+            "radiation",
+            "therapy",
+            "conformal",
+            "radiation",
+            "therapy",
             "modulate",
             "radiation",
             "therapy"
@@ -431,14 +477,21 @@
             "phytoestrogen",
             "preparation"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00033631"
 }

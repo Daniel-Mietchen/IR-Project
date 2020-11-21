@@ -398,20 +398,37 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "stem",
-            "cell",
-            "transplantation"
+            "Zevalin Radioimmunotherapy",
+            "Rituximab",
+            "Fludarabine",
+            "Cyclophosphamide",
+            "Allogeneic Stem Cell Transplantation"
       ],
       "description": [
-            "allogeneic",
+            "single",
+            "dose",
+            "zevalin",
+            "day",
+            "1",
+            "day",
+            "8",
+            "3",
+            "day",
+            "3",
+            "day",
+            "give",
+            "day",
+            "fludarabine",
+            "interval",
             "stem",
             "cell",
             "transplantation",
@@ -421,10 +438,19 @@
       ],
       "arm_group_label": [
             "zevalin",
+            "asct",
+            "zevalin",
+            "asct",
+            "zevalin",
+            "asct",
+            "zevalin",
+            "asct",
+            "zevalin",
             "asct"
       ],
       "other_name": [
-            "asct"
+            "zevalin",
+            "phosphate"
       ],
       "criteria": [
             "inclusion",
@@ -531,7 +557,7 @@
             "cardiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -540,6 +566,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048737.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "asct"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "monoclonal"
+      ],
+      "id": "NCT00048737"
 }

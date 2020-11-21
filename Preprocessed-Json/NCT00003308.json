@@ -160,14 +160,16 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "skin",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "radiosurgery"
+            "stereotactic radiosurgery"
       ],
       "criteria": [
             "disease",
@@ -315,12 +317,26 @@
             "purpose",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003308.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00003308"
 }

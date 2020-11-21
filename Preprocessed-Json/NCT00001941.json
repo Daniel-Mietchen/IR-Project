@@ -553,24 +553,30 @@
             "observe"
       ],
       "condition": [
+            "infection",
             "cell",
             "leukemia"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "daclizumab"
       ],
       "arm_group_label": [
-            "phase",
+            "2",
+            "cohort",
+            "4",
+            "cohort",
+            "6",
+            "cohort",
+            "8",
+            "cohort",
             "ii",
             "8",
             "cohort"
       ],
-      "other_name": [
-            "zenapax"
-      ],
+      "other_name": [],
       "criteria": [
             "eligibility",
             "criterion",
@@ -930,12 +936,23 @@
             "cell",
             "leukemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001941.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "monoclonal",
+            "antibody",
+            "daclizumab",
+            "zenapax"
+      ],
+      "mesh_term": [
+            "adult",
+            "infection",
+            "g"
+      ],
+      "id": "NCT00001941"
 }

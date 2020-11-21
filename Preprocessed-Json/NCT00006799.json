@@ -157,14 +157,17 @@
             "month"
       ],
       "condition": [
-            "quality",
+            "neck",
+            "cancer",
             "life"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "megestrol acetate",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -352,12 +355,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006799.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quality",
+            "life"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "acetate"
+      ],
+      "id": "NCT00006799"
 }

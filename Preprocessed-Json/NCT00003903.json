@@ -130,16 +130,13 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -243,11 +240,15 @@
             "concurrent",
             "bisphosphonates"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003903.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteoporosis"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003903"
 }

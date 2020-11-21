@@ -255,15 +255,25 @@
             "complete"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -376,7 +386,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -385,6 +395,24 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006111.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006111"
 }

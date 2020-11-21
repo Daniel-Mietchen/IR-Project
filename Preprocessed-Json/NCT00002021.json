@@ -51,15 +51,14 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
+            "simplex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "foscarnet",
-            "sodium"
+            "Foscarnet sodium"
       ],
       "criteria": [
             "inclusion",
@@ -224,12 +223,25 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002021.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "simplex",
+            "acid"
+      ],
+      "id": "NCT00002021"
 }

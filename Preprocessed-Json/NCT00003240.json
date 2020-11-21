@@ -183,15 +183,27 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "ifosfamide",
+            "mitomycin C",
+            "vinblastine sulfate",
+            "vindesine",
+            "vinorelbine tartrate",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -274,12 +286,23 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003240.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003240"
 }

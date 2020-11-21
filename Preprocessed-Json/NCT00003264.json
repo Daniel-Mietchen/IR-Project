@@ -193,16 +193,16 @@
             "patient"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cisplatin",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -354,12 +354,26 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003264.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00003264"
 }

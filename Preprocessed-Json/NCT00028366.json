@@ -246,16 +246,19 @@
             "treatment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "disoproxil",
-            "fumarate"
+            "Fosamprenavir",
+            "Lopinavir/Ritonavir",
+            "Ritonavir",
+            "Tenofovir disoproxil fumarate"
       ],
       "criteria": [
             "note",
@@ -408,12 +411,24 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028366.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00028366"
 }

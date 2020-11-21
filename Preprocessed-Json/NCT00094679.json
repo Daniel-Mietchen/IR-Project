@@ -163,18 +163,14 @@
             "ass",
             "exam"
       ],
-      "condition": [
-            "amblyopia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "eye",
-            "patch"
+            "Eye patch"
       ],
       "description": [
-            "adhesive",
             "patch",
             "cover",
             "sound",
@@ -182,11 +178,11 @@
       ],
       "arm_group_label": [
             "daily",
+            "patch",
+            "daily",
             "patch"
       ],
-      "other_name": [
-            "opticlude"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -239,7 +235,7 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -248,6 +244,7 @@
             "7",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094679.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00094679"
 }

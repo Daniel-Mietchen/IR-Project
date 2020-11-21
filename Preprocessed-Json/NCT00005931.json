@@ -55,13 +55,15 @@
             "protocol"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SU5416"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -117,12 +119,19 @@
             "allergic",
             "cremophor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005931.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kinase"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00005931"
 }

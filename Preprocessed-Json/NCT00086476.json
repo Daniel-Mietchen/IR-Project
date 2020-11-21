@@ -366,7 +366,6 @@
             "formation"
       ],
       "condition": [
-            "blood",
             "coagulation",
             "disorder"
       ],
@@ -426,7 +425,7 @@
             "12",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -435,6 +434,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086476.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vesicle"
+      ],
+      "mesh_term": [
+            "coagulation",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00086476"
 }

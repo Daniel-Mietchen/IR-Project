@@ -253,16 +253,50 @@
             "survival"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "suramin"
+            "suramin",
+            "suramin",
+            "Suramin"
       ],
       "description": [
+            "meter",
+            "total",
+            "dose",
+            "give",
+            "decrease",
+            "concentration",
+            "250",
+            "cc",
+            "normal",
+            "saline",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "65",
+            "meter",
+            "total",
+            "dose",
+            "give",
+            "decrease",
+            "concentration",
+            "250",
+            "cc",
+            "normal",
+            "saline",
+            "via",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "65",
             "meter",
             "toal",
             "dose",
@@ -280,12 +314,16 @@
             "65"
       ],
       "arm_group_label": [
-            "high",
+            "dose",
+            "suramin",
+            "dose",
+            "suramin",
             "dose",
             "suramin"
       ],
       "other_name": [
-            "nsc",
+            "34936",
+            "34936",
             "34936"
       ],
       "criteria": [
@@ -609,14 +647,20 @@
             "warfarin",
             "aspirin"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002723.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002723"
 }

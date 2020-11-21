@@ -78,17 +78,25 @@
             "dose"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "anastrozole"
+            "Gefitinib",
+            "Anastrozole"
       ],
       "description": [
+            "gefitinib",
+            "iressa",
+            "250",
+            "po",
             "1",
+            "mg",
+            "anastrozole",
+            "arimidex",
             "mg",
             "anastrozole",
             "arimidex",
@@ -97,9 +105,7 @@
             "po"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "arimidex"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -167,14 +173,20 @@
             "disease",
             "eligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077025.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00077025"
 }

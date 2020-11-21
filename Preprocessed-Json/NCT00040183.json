@@ -29,16 +29,13 @@
             "cancer"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tarceva",
-            "erlotinib",
-            "hcl"
+            "Tarceva (erlotinib HCl, OSI-774)"
       ],
       "criteria": [
             "inclusion",
@@ -102,12 +99,21 @@
             "radiation",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040183.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tarceva",
+            "egfr",
+            "erlotinib"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00040183"
 }

@@ -169,14 +169,17 @@
             "examine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Ritonavir",
+            "Nevirapine",
+            "Stavudine"
       ],
       "criteria": [
             "child",
@@ -422,9 +425,15 @@
             "sexually",
             "abstinent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001688.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001688"
 }

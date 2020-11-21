@@ -144,16 +144,14 @@
             "test"
       ],
       "condition": [
-            "panic",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "clinical",
-            "vestibular",
-            "test"
+            "Clinical vestibular tests"
       ],
       "criteria": [
             "protocol",
@@ -238,7 +236,7 @@
             "history",
             "schizophrenia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -247,6 +245,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004367.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00004367"
 }

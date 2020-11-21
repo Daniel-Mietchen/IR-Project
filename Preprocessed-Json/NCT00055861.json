@@ -170,28 +170,43 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bevacizumab",
+            "docetaxel",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "docetaxel",
+            "bevacizumab",
+            "docetaxel",
             "bevacizumab",
             "docetaxel"
       ],
       "other_name": [
-            "txt"
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
+            "56976"
       ],
       "criteria": [
             "inclusion",
@@ -463,14 +478,16 @@
             "inflammatory",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055861.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00055861"
 }

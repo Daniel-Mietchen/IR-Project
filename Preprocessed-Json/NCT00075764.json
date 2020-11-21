@@ -227,21 +227,22 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "anastrozole",
             "fulvestrant"
       ],
       "description": [
-            "give",
+            "orally",
             "intramuscularly"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "criteria": [
@@ -280,10 +281,7 @@
             "hormone",
             "receptor",
             "status",
-            "positive",
-            "positive",
             "note",
-            "positivity",
             "define",
             "estrogen",
             "bind",
@@ -472,14 +470,20 @@
             "antiplatelet",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075764.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00075764"
 }

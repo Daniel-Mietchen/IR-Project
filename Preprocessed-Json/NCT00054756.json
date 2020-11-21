@@ -282,17 +282,14 @@
             "use"
       ],
       "condition": [
-            "thyroid",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "trh",
-            "thyrotropin",
-            "release",
-            "hormone"
+            "TRH (Thyrotropin Releasing Hormone)"
       ],
       "criteria": [
             "diagnostic",
@@ -376,7 +373,7 @@
             "allergy",
             "trh"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -385,6 +382,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054756.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "hormone"
+      ],
+      "id": "NCT00054756"
 }

@@ -78,22 +78,20 @@
             "meropenem",
             "antibiotic"
       ],
-      "condition": [
-            "pneumonia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "merrem",
-            "500",
-            "mg",
-            "3",
-            "hour",
-            "infusion",
-            "every",
-            "8",
-            "hour"
+            "MERREM I.V. 2g as a 3 hour infusion every 8 hours",
+            "vancomycin I.V. 1 g every 12 hours",
+            "tobramycin I.V. 5 mg/kg every 24 hours",
+            "MERREM I.V. 1g as a 30 minute infusion every 8 hours",
+            "MERREM I.V. 500 mg as a 3 hour infusion every 8 hours"
       ],
       "criteria": [
             "inclusion",
@@ -235,12 +233,16 @@
             "profound",
             "hypoxia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050401.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nosocomial"
+      ],
+      "mesh_term": [],
+      "id": "NCT00050401"
 }

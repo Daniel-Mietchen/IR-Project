@@ -106,14 +106,16 @@
             "study",
             "month"
       ],
-      "condition": [
-            "leukemia"
+      "condition": [],
+      "intervention_type": [
+            "Genetic",
+            "Other",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "immunohistochemistry",
-            "stain",
-            "method"
+            "polymerase chain reaction",
+            "flow cytometry",
+            "immunohistochemistry staining method"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -177,12 +179,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005619.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "hairy",
+            "cell",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "hairy",
+            "cell"
+      ],
+      "id": "NCT00005619"
 }

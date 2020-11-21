@@ -450,15 +450,44 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "CHOP regimen",
+            "cyclophosphamide",
+            "cytarabine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "leucovorin calcium",
+            "melphalan",
+            "methotrexate",
+            "methylprednisolone",
+            "mitoxantrone hydrochloride",
+            "prednisone",
+            "therapeutic hydrocortisone",
+            "vincristine sulfate",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -525,11 +554,9 @@
             "greater",
             "2",
             "time",
-            "uln",
             "bilirubin",
             "greater",
             "note",
-            "unless",
             "due",
             "tumor",
             "involvement",
@@ -631,7 +658,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -640,6 +667,22 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003215.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "hemisuccinate",
+            "succinate",
+            "acetate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00003215"
 }

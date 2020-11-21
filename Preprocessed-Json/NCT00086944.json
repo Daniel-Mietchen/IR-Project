@@ -299,28 +299,80 @@
             "survival"
       ],
       "condition": [
-            "recurrent",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma",
             "mantle",
             "cell",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "rituximab",
+            "ifosfamide",
+            "carboplatin",
+            "etoposide",
+            "filgrastim",
+            "pegfilgrastim",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
+            "genase",
+            "combination",
+            "chemotherapy",
             "genase",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
+            "antisense",
+            "oligodeoxynucleotide",
+            "monoclonal",
+            "antibody",
             "sustain",
             "duration"
       ],
@@ -409,7 +461,6 @@
             "platelet",
             "count",
             "bilirubin",
-            "normal",
             "ast",
             "alt",
             "time",
@@ -550,12 +601,17 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086944.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "large",
+            "diffuse"
+      ],
+      "id": "NCT00086944"
 }

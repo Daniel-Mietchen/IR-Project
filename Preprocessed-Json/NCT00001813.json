@@ -155,7 +155,9 @@
             "control"
       ],
       "condition": [
-            "genodermatosis"
+            "syndrome",
+            "cancer",
+            "pigmentosum"
       ],
       "criteria": [
             "eligibility",
@@ -231,7 +233,7 @@
             "laboratory",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -240,6 +242,18 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001813.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dna",
+            "repair"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "pigmentosum",
+            "syndrome",
+            "syndrome",
+            "disease",
+            "genetic"
+      ],
+      "id": "NCT00001813"
 }

@@ -18,19 +18,15 @@
             "osteoporosis"
       ],
       "condition": [
-            "postmenopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "duration",
-            "treatment",
-            "6",
-            "month"
+            "MK0217, alendronate sodium/Duration of Treatment: 6 months",
+            "Comparator: placebo / Duration of Treatment: 6 months"
       ],
       "criteria": [
             "inclusion",
@@ -62,14 +58,15 @@
             "breakdown",
             "bone"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092027.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal"
+      ],
+      "id": "NCT00092027"
 }

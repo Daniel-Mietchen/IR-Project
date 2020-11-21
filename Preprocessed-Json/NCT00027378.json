@@ -217,20 +217,29 @@
             "symptom",
             "population"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "plus",
-            "treatment",
-            "usual"
+            "fluoxetine (Prozac)",
+            "Placebo plus Treatment As Usual"
       ],
       "description": [
-            "placebo",
+            "plus",
+            "treatment",
+            "usual",
+            "tau",
+            "12",
+            "week",
+            "acute",
+            "phase",
+            "plus",
+            "9",
+            "month",
+            "naturalistic",
+            "follow",
             "plus",
             "treatment",
             "usual",
@@ -244,9 +253,7 @@
             "naturalistic",
             "follow"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -317,7 +324,7 @@
             "age",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -326,6 +333,10 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027378.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alcoholism"
+      ],
+      "mesh_term": [],
+      "id": "NCT00027378"
 }

@@ -30,13 +30,16 @@
             "arc"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Zidovudine",
+            "AS-101"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -244,7 +247,7 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -253,6 +256,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002013.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "ammonium",
+            "trichloro",
+            "tellurate"
+      ],
+      "id": "NCT00002013"
 }

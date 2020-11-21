@@ -158,15 +158,17 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "GM2-KLH vaccine",
+            "QS21",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -383,7 +385,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -392,6 +394,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005052.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "21"
+      ],
+      "id": "NCT00005052"
 }

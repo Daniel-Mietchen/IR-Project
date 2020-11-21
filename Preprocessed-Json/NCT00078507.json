@@ -216,22 +216,26 @@
             "life"
       ],
       "condition": [
-            "mandibular",
             "advancement"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "open",
-            "exercise"
+            "Sensory Re-training",
+            "Sensory Retraining",
+            "Opening Exercises"
       ],
       "arm_group_label": [
-            "open",
+            "retrain",
+            "exercise",
+            "retrain",
+            "exercise",
             "exercise"
       ],
       "description": [
-            "facial",
             "exercise"
       ],
       "criteria": [
@@ -287,7 +291,7 @@
             "systemic",
             "neuropathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -296,6 +300,9 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078507.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult"
+      ],
+      "id": "NCT00078507"
 }

@@ -62,19 +62,33 @@
             "intervention"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "rest",
-            "guide",
-            "imagery"
+            "Reiki",
+            "Pretend Reiki",
+            "Rest / Guided Imagery"
       ],
       "description": [
-            "4",
+            "therapy",
+            "8",
+            "biweekly",
+            "session",
+            "30",
+            "minute",
+            "untrained",
+            "pretend",
+            "practitioner",
+            "8",
+            "biweekly",
+            "session",
+            "30",
+            "minute",
             "weekly",
             "session",
             "30",
@@ -107,12 +121,14 @@
             "outcome"
       ],
       "arm_group_label": [
-            "rest",
+            "reiki",
             "guide",
             "imagery"
       ],
       "other_name": [
-            "guide",
+            "therapy",
+            "therapy",
+            "heal",
             "imagery"
       ],
       "criteria": [
@@ -155,11 +171,16 @@
             "affect",
             "psa"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065208.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "energy",
+            "heal"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00065208"
 }

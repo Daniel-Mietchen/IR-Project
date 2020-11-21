@@ -128,12 +128,16 @@
             "study"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "mesothelioma",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "L-alanosine"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -161,7 +165,6 @@
             "sarcoma",
             "bone",
             "include",
-            "osteosarcoma",
             "chondrosarcoma",
             "high",
             "grade",
@@ -178,7 +181,6 @@
             "naive",
             "disease",
             "note",
-            "prior",
             "treatment",
             "cisplatin",
             "doxorubicin",
@@ -490,12 +492,22 @@
             "concurrent",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062283.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00062283"
 }

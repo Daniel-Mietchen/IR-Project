@@ -132,7 +132,7 @@
             "protocol"
       ],
       "condition": [
-            "healthy"
+            "disease"
       ],
       "criteria": [
             "inclusion",
@@ -211,7 +211,7 @@
             "hepatic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -220,6 +220,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001619.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001619"
 }

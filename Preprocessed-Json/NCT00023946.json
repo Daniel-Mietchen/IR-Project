@@ -91,26 +91,72 @@
             "progression"
       ],
       "condition": [
+            "primary",
+            "cholangiocellular",
+            "carcinoma",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "gallbladder",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer",
+            "gallbladder",
+            "cancer",
+            "resectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer",
+            "gallbladder",
+            "cancer",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer",
             "gallbladder",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "ixabepilone",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "ixabepilone",
             "ixabepilone"
       ],
       "other_name": [
-            "ixempra"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -310,12 +356,20 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023946.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "duct",
+            "neoplasm",
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00023946"
 }

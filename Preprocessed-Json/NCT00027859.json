@@ -248,15 +248,19 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "hydrocortisone"
+            "docetaxel",
+            "estramustine phosphate sodium",
+            "ketoconazole",
+            "therapeutic hydrocortisone"
       ],
       "criteria": [
             "disease",
@@ -495,14 +499,23 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027859.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00027859"
 }

@@ -153,23 +153,40 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "recombinant interferon alfa",
+            "oblimersen sodium",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "recombinant",
+            "interferon",
+            "alfa",
+            "oblimersen",
+            "sodium",
+            "recombinant",
+            "interferon",
+            "alfa",
+            "oblimersen",
+            "sodium",
             "recombinant",
             "interferon",
             "alfa",
@@ -177,7 +194,10 @@
             "sodium"
       ],
       "other_name": [
-            "pharmacological",
+            "n",
+            "interferon",
+            "antisense",
+            "oligodeoxynucleotide",
             "study"
       ],
       "criteria": [
@@ -417,12 +437,16 @@
             "inr",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059813.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00059813"
 }

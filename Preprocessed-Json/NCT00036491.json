@@ -176,18 +176,16 @@
             "evaluate"
       ],
       "condition": [
-            "lupus",
             "erythematosus",
             "systemic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Rituximab"
       ],
       "description": [
-            "subject",
             "receive",
             "four",
             "weekly",
@@ -196,9 +194,7 @@
             "dose",
             "375"
       ],
-      "arm_group_label": [
-            "rituximab"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -413,7 +409,7 @@
             "receive",
             "injection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -422,6 +418,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036491.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rituximab"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00036491"
 }

@@ -223,19 +223,32 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "paclitaxel",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "bid",
+            "chemotherapy",
+            "bid",
+            "chemotherapy",
+            "bid",
+            "chemotherapy",
+            "bid",
+            "chemotherapy",
             "bid",
             "chemotherapy"
       ],
@@ -366,13 +379,11 @@
             "greater",
             "2",
             "time",
-            "normal",
             "alkaline",
             "phosphatase",
             "greater",
             "2",
             "time",
-            "normal",
             "greater",
             "2",
             "time",
@@ -469,12 +480,27 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00005087"
 }

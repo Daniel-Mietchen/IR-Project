@@ -29,11 +29,10 @@
             "ra"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ocrelizumab"
@@ -154,7 +153,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -163,6 +162,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077870.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "moderate",
+            "severe",
+            "rheumatoid",
+            "arthritis"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00077870"
 }

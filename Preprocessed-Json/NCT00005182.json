@@ -253,7 +253,12 @@
             "year"
       ],
       "condition": [
-            "myocardial",
+            "disease",
+            "accident",
+            "disease",
+            "vascular",
+            "disease",
+            "disease",
             "infarction"
       ],
       "study_pop": [],
@@ -269,11 +274,22 @@
             "house",
             "list"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005182.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "vascular",
+            "disease",
+            "arterial",
+            "disease"
+      ],
+      "id": "NCT00005182"
 }

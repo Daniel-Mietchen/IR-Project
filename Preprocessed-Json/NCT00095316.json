@@ -121,15 +121,30 @@
             "evaluate",
             "mortality"
       ],
-      "condition": [
-            "candidiasis"
+      "condition": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "placebo"
+            "Caspofungin",
+            "Placebo"
       ],
       "description": [
-            "normal",
+            "antifungal",
+            "agent",
+            "echinocandin",
+            "class",
+            "glucan",
+            "synthase",
+            "inhibitor",
+            "subject",
+            "receive",
+            "caspofungin",
+            "acetate",
+            "iv",
+            "28",
+            "day",
             "saline",
             "equivalent",
             "use",
@@ -147,9 +162,7 @@
             "28",
             "day"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -231,7 +244,6 @@
             "day",
             "prior",
             "icu",
-            "admission",
             "pancreatitis",
             "document",
             "compute",
@@ -380,12 +392,20 @@
             "enrollment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095316.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "candidiasis",
+            "caspofungin",
+            "fungal",
+            "infection",
+            "prophylaxis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00095316"
 }

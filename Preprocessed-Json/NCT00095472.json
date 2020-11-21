@@ -501,16 +501,16 @@
             "stress"
       ],
       "condition": [
-            "sickle",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "nitrite"
+            "L-NMMA",
+            "Sodium Nitrite"
       ],
       "criteria": [
             "inclusion",
@@ -642,12 +642,21 @@
             "current",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095472.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00095472"
 }

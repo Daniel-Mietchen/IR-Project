@@ -249,20 +249,40 @@
             "indinavir"
       ],
       "condition": [
-            "rhabdomyosarcoma"
+            "ewing",
+            "sarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "therapeutic autologous dendritic cells",
+            "indinavir sulfate",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "harvest",
+            "syringe",
+            "contain",
+            "1",
+            "x",
+            "pulse",
+            "dendritic",
+            "cell",
+            "dose",
+            "350",
+            "administer",
+            "every",
+            "8",
+            "hour",
+            "maximum",
+            "dose",
+            "800",
+            "mg",
+            "every",
+            "8",
+            "hour",
             "autologous",
             "cell",
             "minimum",
@@ -280,13 +300,14 @@
             "minute"
       ],
       "arm_group_label": [
-            "peptide",
+            "cell",
+            "therapy",
+            "cell",
+            "therapy",
             "cell",
             "therapy"
       ],
-      "other_name": [
-            "crixivan"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -594,7 +615,7 @@
             "influenza",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -603,6 +624,10 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001566.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "ewing"
+      ],
+      "id": "NCT00001566"
 }

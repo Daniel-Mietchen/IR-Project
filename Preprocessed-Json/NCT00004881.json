@@ -123,7 +123,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -131,10 +130,10 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine"
+            "MVA-MUC1-IL2 vaccine"
       ],
       "criteria": [
             "disease",
@@ -317,12 +316,21 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004881.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004881"
 }

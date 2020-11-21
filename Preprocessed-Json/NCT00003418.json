@@ -186,15 +186,15 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "exemestane",
+            "tamoxifen citrate"
       ],
       "criteria": [
             "disease",
@@ -446,11 +446,18 @@
             "clinically",
             "indicate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003418.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003418"
 }

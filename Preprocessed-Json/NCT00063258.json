@@ -182,17 +182,36 @@
             "provide"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Tarceva (OSI-774)",
+            "Paclitaxel",
+            "Carboplatin"
       ],
       "description": [
+            "start",
+            "day",
+            "1",
+            "stop",
+            "night",
+            "prior",
+            "surgery",
             "dose",
+            "200",
+            "continuous",
+            "iv",
+            "infusion",
+            "3",
+            "hour",
+            "day",
+            "1",
+            "cycle",
             "auc",
             "6",
             "min",
@@ -220,12 +239,13 @@
             "standard"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "tarceva",
+            "tarceva",
+            "alone",
+            "tarceva",
             "alone"
       ],
-      "other_name": [
-            "taxol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -410,9 +430,18 @@
             "may",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063258.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nsclc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel",
+            "hydrochloride"
+      ],
+      "id": "NCT00063258"
 }

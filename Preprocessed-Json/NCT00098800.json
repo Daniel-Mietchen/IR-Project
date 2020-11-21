@@ -213,11 +213,14 @@
             "year"
       ],
       "condition": [
-            "ovarian",
+            "mutation",
+            "carrier",
+            "mutation",
+            "carrier",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "fenretinide"
@@ -302,7 +305,6 @@
             "uln",
             "history",
             "liver",
-            "disease",
             "cholestatic",
             "jaundice",
             "hepatic",
@@ -324,11 +326,9 @@
             "heart",
             "defect",
             "create",
-            "shunt",
             "history",
             "congestive",
             "heart",
-            "failure",
             "thrombophlebitis",
             "thromboembolic",
             "disease",
@@ -347,13 +347,10 @@
             "pulmonary",
             "history",
             "pulmonary",
-            "hypertension",
             "history",
             "pulmonary",
-            "embolus",
             "history",
             "severe",
-            "emphysema",
             "note",
             "patient",
             "undergo",
@@ -484,14 +481,19 @@
             "vitamin",
             "c"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mutation",
+            "carrier"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00098800"
 }

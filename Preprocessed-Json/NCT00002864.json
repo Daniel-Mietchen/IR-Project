@@ -196,26 +196,42 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "octreotide acetate",
+            "tamoxifen citrate"
       ],
       "description": [
+            "lar",
+            "sm",
+            "pa",
+            "lar",
+            "90",
+            "mg",
+            "depot",
+            "injection",
+            "monthly",
+            "2",
+            "year",
+            "plus",
+            "tamoxifen",
             "20",
+            "mg",
+            "po",
+            "daily",
+            "5",
+            "year",
             "mg",
             "po",
             "5",
             "year"
       ],
-      "arm_group_label": [
-            "tamoxifen"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -555,11 +571,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002864.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002864"
 }

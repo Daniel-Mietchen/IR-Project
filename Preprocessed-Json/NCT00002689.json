@@ -139,15 +139,21 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "dexamethasone",
+            "fluorouracil",
+            "brachytherapy",
+            "phosphorus P32",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -261,12 +267,19 @@
             "resection",
             "splenectomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002689.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002689"
 }

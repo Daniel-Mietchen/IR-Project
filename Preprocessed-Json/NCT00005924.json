@@ -317,7 +317,9 @@
             "infection"
       ],
       "condition": [
-            "healthy"
+            "barr",
+            "virus",
+            "infection"
       ],
       "criteria": [
             "inclusion",
@@ -521,12 +523,20 @@
             "gargle",
             "difficult"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005924.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "virus"
+      ],
+      "mesh_term": [
+            "disease",
+            "virus",
+            "infection"
+      ],
+      "id": "NCT00005924"
 }

@@ -223,17 +223,17 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "autologous",
-            "dendritic",
-            "cell"
+            "denileukin diftitox",
+            "recombinant CD40-ligand",
+            "therapeutic autologous dendritic cells"
       ],
       "criteria": [
             "disease",
@@ -541,12 +541,20 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056134.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "diftitox"
+      ],
+      "id": "NCT00056134"
 }

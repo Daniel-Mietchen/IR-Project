@@ -134,21 +134,37 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Indole-3-carbinol",
+            "Indole-3-carbinol",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "mg",
+            "pill",
+            "take",
+            "daily",
+            "mg",
+            "pill",
+            "take",
+            "daily",
             "pill",
             "take",
             "daily",
             "period"
       ],
       "arm_group_label": [
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "breast",
             "cancer"
       ],
@@ -414,9 +430,7 @@
             "dosage",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -425,6 +439,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00033345"
 }

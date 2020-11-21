@@ -195,23 +195,30 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "Filgrastim",
+            "Docetaxel",
+            "Doxorubicin",
+            "Surgery"
       ],
       "arm_group_label": [
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "other_name": [
-            "rubex"
+            "hydrochloride"
       ],
       "description": [
-            "within",
             "6",
             "week",
             "completion",
@@ -439,9 +446,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -450,6 +455,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005800"
 }

@@ -128,17 +128,18 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "canfosfamide",
-            "hydrochloride"
+            "canfosfamide hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -438,14 +439,24 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022347.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00022347"
 }

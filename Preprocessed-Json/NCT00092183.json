@@ -30,19 +30,15 @@
             "chemotherapy"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "ondansetron",
-            "duration",
-            "treatment",
-            "3",
-            "day"
+            "MK0869, aprepitant / Duration of Treatment: 3 days",
+            "Comparator: ondansetron / Duration of Treatment: 3 days"
       ],
       "criteria": [
             "inclusion",
@@ -69,12 +65,19 @@
             "abdomen",
             "pelvis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092183.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nausea",
+            "vomit"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00092183"
 }

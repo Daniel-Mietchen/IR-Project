@@ -255,13 +255,14 @@
             "level"
       ],
       "condition": [
-            "colorectal",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "2-Fluoro-2-deoxyglucose"
+      ],
       "criteria": [
             "patient",
             "greater",
@@ -427,9 +428,15 @@
             "hiv",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001568.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiolabeled"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001568"
 }

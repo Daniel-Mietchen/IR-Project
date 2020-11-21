@@ -493,17 +493,51 @@
             "utmdacc"
       ],
       "condition": [
-            "myelodysplastic",
+            "myelogenous",
+            "leukemia",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine"
+            "Gelonin",
+            "Busulfan",
+            "Fludarabine"
       ],
       "description": [
-            "40",
+            "purge",
+            "3",
+            "purge",
+            "concentration",
+            "fix",
+            "dose",
+            "5",
+            "x",
+            "infuse",
+            "3",
+            "dose",
+            "level",
+            "1",
+            "nanomolar",
+            "nanomolar",
+            "nanomolar",
+            "normal",
+            "saline",
+            "three",
+            "3",
+            "hour",
+            "iv",
+            "every",
+            "24",
+            "hour",
+            "four",
+            "4",
+            "consecutive",
+            "day",
+            "day",
             "100",
             "ml",
             "saline",
@@ -518,12 +552,15 @@
             "6"
       ],
       "arm_group_label": [
-            "gelonin",
+            "purge",
+            "asct",
+            "purge",
+            "asct",
             "purge",
             "asct"
       ],
       "other_name": [
-            "fludarabine",
+            "conjugate",
             "phosphate"
       ],
       "criteria": [
@@ -718,9 +755,24 @@
             "cns",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043810.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peripheral",
+            "stem",
+            "cell"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate",
+            "protein",
+            "gelonium",
+            "multiflorum"
+      ],
+      "id": "NCT00043810"
 }

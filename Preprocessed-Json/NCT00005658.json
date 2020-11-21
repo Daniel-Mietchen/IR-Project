@@ -372,13 +372,14 @@
             "cohort"
       ],
       "condition": [
-            "schizophrenia"
+            "disorder",
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "glycine"
+            "Glycine"
       ],
       "criteria": [
             "patient",
@@ -479,9 +480,18 @@
             "tolerate",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005658.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adjunctive",
+            "glycine",
+            "therapy"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00005658"
 }

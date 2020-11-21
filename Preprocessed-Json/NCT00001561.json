@@ -280,13 +280,19 @@
             "myeloma"
       ],
       "condition": [
-            "multiple",
+            "v",
+            "host",
+            "disease",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Myeloma Immunoglobulin Idiotype Vaccine-KLH",
+            "GM-CSF"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -492,7 +498,7 @@
             "normal",
             "limit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -501,6 +507,20 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001561.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myeloma",
+            "immunoglobulin"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "v",
+            "host",
+            "disease",
+            "idiotypes",
+            "protein"
+      ],
+      "id": "NCT00001561"
 }

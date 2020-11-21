@@ -119,27 +119,39 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "becatecarin"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "becatecarin"
       ],
-      "other_name": [],
+      "other_name": [
+            "analogue",
+            "analogue",
+            "tartrate",
+            "salt"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -168,7 +180,6 @@
             "spiral",
             "ct",
             "scan",
-            "sensitive",
             "relapse",
             "disease",
             "1",
@@ -291,12 +302,18 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084487.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00084487"
 }

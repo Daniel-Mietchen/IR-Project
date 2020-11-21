@@ -277,15 +277,22 @@
             "6",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "rituximab",
+            "CHOP regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -524,7 +531,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -533,6 +540,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00004179"
 }

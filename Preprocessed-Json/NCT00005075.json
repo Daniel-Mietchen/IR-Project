@@ -123,16 +123,13 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "focus",
-            "ultrasound",
-            "ablation"
+            "high-intensity focused ultrasound ablation"
       ],
       "criteria": [
             "disease",
@@ -447,14 +444,20 @@
             "clinical",
             "trial"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005075.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005075"
 }

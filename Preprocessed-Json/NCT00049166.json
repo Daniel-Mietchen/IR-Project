@@ -291,34 +291,96 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "ii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
+            "ii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
             "iv",
             "squamous",
             "cell",
             "carcinoma",
             "oropharynx"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "cisplatin",
+            "intensity-modulated radiation therapy",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "iv",
+            "intensity",
+            "modulate",
+            "radiation",
+            "therapy",
             "study"
       ],
       "arm_group_label": [
-            "regimen",
+            "erlotinib",
+            "hydrochloride",
+            "imrt",
+            "b",
+            "erlotinib",
+            "hydrochloride",
+            "cisplatin",
+            "imrt",
+            "b",
+            "erlotinib",
+            "hydrochloride",
+            "cisplatin",
+            "imrt",
+            "erlotinib",
+            "hydrochloride",
+            "imrt",
+            "b",
+            "erlotinib",
+            "hydrochloride",
+            "cisplatin",
+            "imrt",
+            "erlotinib",
+            "hydrochloride",
+            "imrt",
             "b",
             "erlotinib",
             "hydrochloride",
             "cisplatin",
             "imrt"
       ],
-      "other_name": [
-            "imrt"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -804,12 +866,18 @@
             "drug",
             "coumadin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049166.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00049166"
 }

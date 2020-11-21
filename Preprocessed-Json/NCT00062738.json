@@ -84,21 +84,34 @@
             "design"
       ],
       "condition": [
-            "depression"
+            "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "paroxetine",
+            "Nortriptyline",
             "placebo"
       ],
       "description": [
-            "match",
+            "cr",
+            "25",
+            "mg",
+            "q",
+            "h",
+            "25",
+            "75",
+            "mg",
+            "q",
+            "h",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pamelor"
+            "cr"
       ],
       "criteria": [
             "inclusion",
@@ -116,7 +129,7 @@
             "heart",
             "block"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -125,6 +138,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062738.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paroxetine"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00062738"
 }

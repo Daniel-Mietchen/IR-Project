@@ -356,7 +356,6 @@
             "immunization"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -493,9 +492,15 @@
             "corticosteroid",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001540.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "quantitative"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001540"
 }

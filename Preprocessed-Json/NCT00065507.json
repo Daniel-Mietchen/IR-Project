@@ -41,18 +41,27 @@
             "randomize"
       ],
       "condition": [
-            "hepatitis",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "adv"
+            "Entecavir (ETV)",
+            "Adefovir (ADV)"
       ],
       "description": [
-            "tablet",
+            "oral",
+            "1",
+            "mg",
+            "daily",
+            "96",
+            "week",
+            "time",
+            "last",
+            "patient",
+            "randomize",
             "oral",
             "10",
             "mg",
@@ -97,12 +106,21 @@
             "hdv",
             "coinfection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065507.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatic",
+            "decompensation"
+      ],
+      "mesh_term": [
+            "b",
+            "failure",
+            "dipivoxil"
+      ],
+      "id": "NCT00065507"
 }

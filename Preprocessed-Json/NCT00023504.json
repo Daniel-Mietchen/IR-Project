@@ -315,7 +315,6 @@
             "enrollee"
       ],
       "condition": [
-            "immunologic",
             "disease"
       ],
       "criteria": [
@@ -431,9 +430,18 @@
             "latex",
             "sensitivity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023504.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "immune",
+            "disorder"
+      ],
+      "mesh_term": [
+            "system",
+            "disease"
+      ],
+      "id": "NCT00023504"
 }

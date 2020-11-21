@@ -39,19 +39,20 @@
             "size",
             "individual"
       ],
-      "condition": [
-            "anemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methoxy",
-            "polyethylene",
-            "beta",
-            "mircera"
+            "darbepoetin alfa",
+            "methoxy polyethylene glycol-epoetin beta [Mircera]"
       ],
       "description": [
+            "sc",
+            "start",
+            "dose",
+            "weekly",
             "sc",
             "start",
             "dose",
@@ -59,9 +60,7 @@
             "2",
             "week"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -98,12 +97,18 @@
             "study",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081471.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "chronic",
+            "alfa"
+      ],
+      "id": "NCT00081471"
 }

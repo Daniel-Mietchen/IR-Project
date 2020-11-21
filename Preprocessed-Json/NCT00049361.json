@@ -191,7 +191,10 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "adult",
             "solid",
             "tumor",
@@ -199,11 +202,14 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "temozolomide",
+            "thalidomide",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -371,12 +377,27 @@
             "past",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049361.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00049361"
 }

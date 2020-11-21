@@ -185,13 +185,58 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel"
+            "Cetuximab",
+            "Carboplatin",
+            "Paclitaxel"
       ],
       "description": [
-            "225",
+            "week",
+            "1",
+            "400",
+            "iv",
+            "infusion",
+            "weekly",
+            "maintenance",
+            "dose",
+            "250",
+            "iv",
+            "cycle",
+            "therapy",
+            "define",
+            "3",
+            "week",
+            "arm",
+            "4",
+            "week",
+            "arm",
+            "b",
+            "auc",
+            "6",
+            "infuse",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "subsequently",
+            "every",
+            "3",
+            "week",
+            "auc",
+            "6",
+            "infuse",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "subsequently",
+            "every",
+            "4",
+            "week",
             "infuse",
             "180",
             "minute",
@@ -214,13 +259,17 @@
             "cycle"
       ],
       "arm_group_label": [
-            "arm",
+            "cycle",
+            "b",
+            "cycle",
+            "cycle",
+            "b",
+            "cycle",
+            "cycle",
             "b",
             "cycle"
       ],
-      "other_name": [
-            "taxol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -638,12 +687,24 @@
             "disease",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097227.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00097227"
 }

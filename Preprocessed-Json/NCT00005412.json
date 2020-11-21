@@ -143,21 +143,25 @@
             "record"
       ],
       "condition": [
-            "carotid",
+            "disease",
+            "disease",
             "stenosis"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005412.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "stenosis"
+      ],
+      "id": "NCT00005412"
 }

@@ -189,18 +189,17 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "Ad5CMV-p53 gene",
             "chemotherapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -303,12 +302,21 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004038.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004038"
 }

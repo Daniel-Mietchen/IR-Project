@@ -97,11 +97,9 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "epratuzumab"
@@ -234,14 +232,11 @@
             "le",
             "2",
             "time",
-            "uln",
             "ast",
             "le",
             "2",
             "time",
-            "uln",
             "note",
-            "unless",
             "renal",
             "creatinine",
             "greater",
@@ -362,12 +357,20 @@
             "therapeutic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022685.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00022685"
 }

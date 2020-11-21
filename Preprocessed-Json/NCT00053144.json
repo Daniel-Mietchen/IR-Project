@@ -173,15 +173,14 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "cytarabine",
+            "irinotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -309,12 +308,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "promyelocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00053144"
 }

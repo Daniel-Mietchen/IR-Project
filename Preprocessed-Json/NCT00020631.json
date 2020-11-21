@@ -82,11 +82,10 @@
             "year"
       ],
       "condition": [
-            "radiation",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pirfenidone"
@@ -213,12 +212,19 @@
             "take",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "fibrosis"
+      ],
+      "mesh_term": [
+            "pneumonitis"
+      ],
+      "id": "NCT00020631"
 }

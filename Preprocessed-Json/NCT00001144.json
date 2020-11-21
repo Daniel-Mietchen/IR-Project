@@ -504,21 +504,17 @@
             "survival"
       ],
       "condition": [
-            "graft",
+            "myeloid",
+            "leukemia",
             "v",
             "host",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "modify",
-            "bone",
-            "marrow",
-            "stem",
-            "cell",
-            "transplantation"
+            "Modified bone marrow stem cell transplantation"
       ],
       "criteria": [
             "patient",
@@ -670,9 +666,23 @@
             "discretion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00001144"
 }

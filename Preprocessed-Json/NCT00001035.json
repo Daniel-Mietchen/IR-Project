@@ -142,14 +142,20 @@
             "appropriate"
       ],
       "condition": [
-            "hepatitis",
+            "infection",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Interferon alfa-2b",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -308,12 +314,23 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001035.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis",
+            "c"
+      ],
+      "mesh_term": [
+            "disease",
+            "c",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001035"
 }

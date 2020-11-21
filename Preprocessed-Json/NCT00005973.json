@@ -123,28 +123,32 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "BMS-214662",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "fti",
+            "inhibitor",
             "bm",
             "214662"
       ],
@@ -324,9 +328,10 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005973.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00005973"
 }

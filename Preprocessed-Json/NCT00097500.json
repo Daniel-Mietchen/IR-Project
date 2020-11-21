@@ -31,30 +31,55 @@
             "metformin"
       ],
       "condition": [
-            "type",
             "2",
             "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metformin"
+            "exenatide",
+            "Insulin glargine",
+            "Metformin"
       ],
       "description": [
-            "patient",
+            "injection",
+            "titrate",
+            "maximum",
+            "three",
+            "time",
+            "day",
+            "order",
+            "meet",
+            "define",
+            "blood",
+            "glucose",
+            "target",
+            "injection",
+            "day",
+            "titrate",
+            "necessary",
+            "order",
+            "meet",
+            "define",
+            "blood",
+            "glucose",
+            "target",
             "usual",
             "dosage"
       ],
       "arm_group_label": [
-            "insulin",
+            "arm",
+            "glargine",
+            "arm",
+            "arm",
             "glargine",
             "arm"
       ],
-      "other_name": [
-            "lantus"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -108,7 +133,7 @@
             "month",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -117,6 +142,18 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097500.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lilly"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "globin",
+            "zinc",
+            "glargine"
+      ],
+      "id": "NCT00097500"
 }

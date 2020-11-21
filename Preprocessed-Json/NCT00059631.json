@@ -348,17 +348,32 @@
             "anderson"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib"
+            "Mitoxantrone (Novantrone)",
+            "Bortezomib (PS-341)"
       ],
       "description": [
-            "start",
+            "dose",
+            "3",
+            "four",
+            "weekly",
+            "intravenous",
+            "injection",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "eight",
+            "5",
+            "week",
+            "cycle",
             "dose",
             "four",
             "weekly",
@@ -375,7 +390,7 @@
             "cycle"
       ],
       "arm_group_label": [
-            "bortezomib",
+            "mitoxantrone",
             "mitoxantrone"
       ],
       "other_name": [],
@@ -726,14 +741,18 @@
             "accord",
             "protocol"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "proteasome"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00059631"
 }

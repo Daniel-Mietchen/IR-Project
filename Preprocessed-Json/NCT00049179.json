@@ -166,18 +166,21 @@
             "within",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemtuzumab",
-            "ozogamicin"
+            "cytarabine",
+            "gemtuzumab ozogamicin"
       ],
       "description": [
-            "ind",
+            "consol",
+            "200",
+            "continuous",
+            "iv",
+            "day",
             "consol",
             "6",
             "iv",
@@ -345,12 +348,25 @@
             "agent",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00049179"
 }

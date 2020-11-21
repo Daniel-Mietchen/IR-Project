@@ -325,17 +325,29 @@
             "year"
       ],
       "condition": [
-            "leukemia"
+            "versus",
+            "host",
+            "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "therapeutic allogeneic lymphocytes",
+            "cytarabine",
+            "fludarabine phosphate",
+            "idarubicin",
+            "methotrexate",
+            "tacrolimus",
+            "in vitro-treated peripheral blood stem cell transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -518,7 +530,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -527,6 +539,22 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004878.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "versus",
+            "host",
+            "disease"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "v",
+            "host",
+            "disease",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "phosphate"
+      ],
+      "id": "NCT00004878"
 }

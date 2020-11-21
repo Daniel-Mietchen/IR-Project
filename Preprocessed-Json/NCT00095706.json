@@ -82,17 +82,13 @@
             "cancer"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bevacizumab",
-            "drug",
-            "herceptin",
-            "drug"
+            "Bevacizumab (drug), Herceptin (drug)"
       ],
       "criteria": [
             "inclusion",
@@ -207,9 +203,7 @@
             "vegf",
             "bevacizumab"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -218,6 +212,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095706.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "avastin"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "growth",
+            "factor"
+      ],
+      "id": "NCT00095706"
 }

@@ -108,11 +108,10 @@
             "study"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "raltitrexed"
@@ -346,12 +345,20 @@
             "disease",
             "progression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004254.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004254"
 }

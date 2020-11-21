@@ -348,16 +348,14 @@
             "patient"
       ],
       "condition": [
-            "myositis",
             "inclusion",
             "body"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alemtuzumab",
-            "campath"
+            "Alemtuzumab (Campath)"
       ],
       "criteria": [
             "patient",
@@ -549,7 +547,7 @@
             "autoimmune",
             "thyroiditis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -558,6 +556,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079768.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inclusion",
+            "body",
+            "myositis"
+      ],
+      "mesh_term": [
+            "inclusion",
+            "body",
+            "monoclonal"
+      ],
+      "id": "NCT00079768"
 }

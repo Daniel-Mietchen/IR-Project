@@ -321,16 +321,23 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "vaccine",
-            "placebo"
+            "MRK Ad5 HIV-1 gag vaccine",
+            "Vaccine placebo"
       ],
       "description": [
-            "mrk",
+            "gag",
+            "vaccine",
+            "inject",
+            "upper",
+            "arm",
+            "muscle",
             "gag",
             "placebo",
             "vaccine",
@@ -339,9 +346,7 @@
             "arm",
             "muscle"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -534,7 +539,7 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -543,6 +548,13 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080106.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenovirus",
+            "vector"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00080106"
 }

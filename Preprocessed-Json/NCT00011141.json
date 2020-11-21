@@ -60,16 +60,13 @@
             "imd"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
-            "lactobacillus",
-            "administration"
+            "Oral lactobacillus administration"
       ],
       "criteria": [
             "recently",
@@ -83,7 +80,7 @@
             "1",
             "diabetes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -92,6 +89,13 @@
             "95",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011141.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00011141"
 }

@@ -258,15 +258,25 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "gemcitabine hydrochloride",
+            "vinorelbine ditartrate",
+            "cytogenetic analysis",
+            "loss of heterozygosity analysis",
+            "microarray analysis",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -320,7 +330,6 @@
             "disease",
             "malignant",
             "pleural",
-            "effusion",
             "detect",
             "preoperative",
             "evaluation",
@@ -360,14 +369,12 @@
             "area",
             "fluorodeoxyglucose",
             "fdg",
-            "uptake",
             "outside",
             "area",
             "primary",
             "tumor",
             "lung",
             "note",
-            "effusion",
             "visible",
             "ct",
             "scan",
@@ -394,9 +401,7 @@
             "bidimensionally",
             "measurable",
             "evaluable",
-            "disease",
             "note",
-            "lesion",
             "apparent",
             "chest",
             "ct",
@@ -562,12 +567,23 @@
             "study",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057798.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00057798"
 }

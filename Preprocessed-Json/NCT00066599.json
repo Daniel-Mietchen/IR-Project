@@ -105,7 +105,6 @@
             "daily",
             "day",
             "oral",
-            "voriconazole",
             "twice",
             "daily",
             "begin",
@@ -143,14 +142,12 @@
             "daily",
             "day",
             "oral",
-            "voriconazole",
             "twice",
             "daily",
             "begin",
             "day",
             "5",
             "note",
-            "patient",
             "unable",
             "tolerate",
             "oral",
@@ -197,10 +194,16 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "voriconazole"
@@ -384,7 +387,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -393,6 +396,19 @@
             "11",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066599.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "neoplasm",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00066599"
 }

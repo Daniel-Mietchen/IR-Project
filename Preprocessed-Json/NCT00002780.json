@@ -171,18 +171,25 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "cytokine therapy",
+            "sargramostim",
+            "carboplatin",
+            "cyclophosphamide",
+            "thiotepa",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -335,14 +342,21 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002780.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002780"
 }

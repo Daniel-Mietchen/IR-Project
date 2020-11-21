@@ -77,18 +77,21 @@
             "patient"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "microarray",
-            "analysis"
+            "cytogenetic analysis",
+            "gene mapping",
+            "microarray analysis"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
             "1"
       ],
       "study_pop": [],
@@ -175,12 +178,22 @@
             "patient",
             "sibling"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055848.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00055848"
 }

@@ -190,26 +190,41 @@
             "accrue"
       ],
       "condition": [
-            "hot",
+            "cancer",
             "flash"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "megestrol",
-            "acetate",
-            "placebo",
-            "40"
+            "Megestrol Acetate 20mg/day",
+            "Megestrol Acetate 40 mg/day",
+            "Megestrol Acetate Placebo 20 mg/day",
+            "Megestrol Acetate Placebo 40 mg/day"
       ],
       "description": [
+            "blind",
             "megestrol",
+            "acetate",
+            "20",
+            "blind",
+            "megestrol",
+            "acetate",
+            "40",
+            "acetate",
+            "placebo",
+            "20",
             "acetate",
             "placebo",
             "40"
       ],
       "arm_group_label": [
-            "megestrol",
+            "20",
+            "40",
+            "20",
             "40"
       ],
       "other_name": [],
@@ -408,14 +423,21 @@
             "e",
             "soy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005975.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "acetate"
+      ],
+      "id": "NCT00005975"
 }

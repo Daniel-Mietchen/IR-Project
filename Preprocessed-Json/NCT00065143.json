@@ -189,13 +189,17 @@
             "leukemia"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloid",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "clofarabine",
+            "Ara-C"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -400,7 +404,7 @@
             "entry",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -409,6 +413,17 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065143.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome",
+            "md"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00065143"
 }

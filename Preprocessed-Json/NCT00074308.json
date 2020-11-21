@@ -197,28 +197,44 @@
             "mtd"
       ],
       "condition": [
-            "unspecified",
+            "melanoma",
+            "iii",
+            "melanoma",
+            "iv",
+            "melanoma",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "bevacizumab",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "iv",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "57148",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
             "study"
       ],
       "criteria": [
@@ -543,12 +559,16 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074308.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mesylate",
+            "monoclonal"
+      ],
+      "id": "NCT00074308"
 }

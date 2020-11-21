@@ -133,15 +133,17 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine",
-            "sulfate"
+            "aldesleukin",
+            "sargramostim",
+            "vinblastine sulfate"
       ],
       "criteria": [
             "disease",
@@ -301,12 +303,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003181.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00003181"
 }

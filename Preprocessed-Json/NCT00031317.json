@@ -292,14 +292,15 @@
             "depression"
       ],
       "condition": [
-            "panic",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clozapine"
+            "Paroxetine",
+            "Clozapine"
       ],
       "criteria": [
             "inclusion",
@@ -534,9 +535,17 @@
             "treat",
             "fluoxetine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "uptake",
+            "inhibitor"
+      ],
+      "id": "NCT00031317"
 }

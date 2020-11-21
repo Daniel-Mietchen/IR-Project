@@ -136,15 +136,17 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "autologous tumor cell vaccine",
+            "therapeutic autologous dendritic cells",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -291,7 +293,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -300,6 +302,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00023985"
 }

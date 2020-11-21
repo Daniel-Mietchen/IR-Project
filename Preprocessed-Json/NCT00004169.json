@@ -194,15 +194,20 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "carboplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -331,12 +336,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004169.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00004169"
 }

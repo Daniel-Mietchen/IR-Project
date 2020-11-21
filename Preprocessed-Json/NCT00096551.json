@@ -470,14 +470,17 @@
             "give"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant"
+            "Recombinant Vaccinia-PSA(L155)/TRICOM (PROSTVAC-V/TRICOM)",
+            "Recombinant Fowlpox-PSA(L155)/TRICOM (PROSTVAC-F/TRICOM)",
+            "Recombinant Fowlpox-GM-CSF"
       ],
       "criteria": [
             "inclusion",
@@ -1095,14 +1098,19 @@
             "egg",
             "product"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096551.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096551"
 }

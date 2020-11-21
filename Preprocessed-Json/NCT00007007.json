@@ -95,17 +95,24 @@
             "month"
       ],
       "condition": [
-            "radiation",
+            "effect",
+            "cancer",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "management of therapy complications",
+            "quality-of-life assessment"
       ],
       "arm_group_label": [
-            "whole",
+            "brain",
+            "radiation",
+            "therapy",
+            "neurocognitive",
+            "assessment",
             "brain",
             "radiation",
             "therapy",
@@ -188,9 +195,16 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007007.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "effect"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "injury"
+      ],
+      "id": "NCT00007007"
 }

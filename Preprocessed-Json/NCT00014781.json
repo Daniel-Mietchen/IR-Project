@@ -145,7 +145,6 @@
             "collect"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "criteria": [
@@ -230,7 +229,7 @@
             "pregnant",
             "prisoner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -239,6 +238,13 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014781.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00014781"
 }

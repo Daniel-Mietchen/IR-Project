@@ -44,17 +44,13 @@
             "detachment"
       ],
       "condition": [
-            "retinal",
             "detachment"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "denufosol",
-            "tetrasodium",
-            "intravitreal",
-            "injection"
+            "denufosol tetrasodium (INS37217) Intravitreal Injection"
       ],
       "criteria": [
             "inclusion",
@@ -259,12 +255,20 @@
             "require",
             "one"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "retinal",
+            "break"
+      ],
+      "mesh_term": [
+            "detachment",
+            "disorder"
+      ],
+      "id": "NCT00083967"
 }

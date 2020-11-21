@@ -184,23 +184,24 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "gemcitabine hydrochloride",
+            "radiation therapy"
       ],
       "description": [
+            "iv",
             "gy",
             "tumor",
             "bed"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "radiation",
             "radiation"
       ],
       "criteria": [
@@ -383,12 +384,19 @@
             "carcinoma",
             "pancreas"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003546.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003546"
 }

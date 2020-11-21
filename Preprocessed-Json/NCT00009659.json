@@ -406,15 +406,12 @@
             "ass",
             "endpoint"
       ],
-      "condition": [
-            "postmenopause"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cdb",
-            "2914"
+            "CDB 2914"
       ],
       "criteria": [
             "participant",
@@ -758,11 +755,14 @@
             "uterus",
             "hysterectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009659.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hormone",
+            "replacement"
+      ],
+      "mesh_term": [],
+      "id": "NCT00009659"
 }

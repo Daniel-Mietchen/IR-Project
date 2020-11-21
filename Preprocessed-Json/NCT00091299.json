@@ -145,7 +145,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -153,14 +152,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "warfarin"
       ],
-      "arm_group_label": [
-            "warfarin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -192,7 +189,6 @@
             "wild",
             "type",
             "allelle",
-            "1",
             "18",
             "hemoglobin",
             "9",
@@ -280,8 +276,6 @@
             "2",
             "allele",
             "either",
-            "2",
-            "3",
             "brain",
             "metastasis",
             "history",
@@ -370,12 +364,21 @@
             "john",
             "wort"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091299.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00091299"
 }

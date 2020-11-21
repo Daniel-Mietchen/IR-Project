@@ -527,16 +527,15 @@
             "asd"
       ],
       "condition": [
-            "stress",
             "disorder",
             "traumatic",
             "acute"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "propranolol"
+            "Propranolol"
       ],
       "criteria": [
             "inclusion",
@@ -867,9 +866,20 @@
             "participate",
             "md"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069355.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stress",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "traumatic",
+            "disorder",
+            "traumatic",
+            "acute"
+      ],
+      "id": "NCT00069355"
 }

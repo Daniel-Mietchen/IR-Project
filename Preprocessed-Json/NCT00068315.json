@@ -215,27 +215,76 @@
             "thereafter"
       ],
       "condition": [
-            "waldenstrom",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "lymphoid",
+            "tissue",
+            "cancer",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "small",
+            "cleave",
+            "cell",
+            "lymphoma",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
+            "mantle",
+            "cell",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "marginal",
+            "zone",
+            "lymphoma",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "bortezomib",
+            "fludarabine phosphate",
             "rituximab"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "bortezomib",
+            "fludarabine",
+            "rituximab",
+            "bortezomib",
+            "fludarabine",
+            "rituximab",
             "bortezomib",
             "fludarabine",
             "rituximab"
       ],
       "other_name": [
-            "rituxan"
+            "341",
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -518,12 +567,22 @@
             "macroglobulinemia",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068315.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "marginal",
+            "zone",
+            "macroglobulinemia",
+            "phosphate"
+      ],
+      "id": "NCT00068315"
 }

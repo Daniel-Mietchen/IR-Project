@@ -135,15 +135,17 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "bevacizumab",
+            "cytarabine",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -380,12 +382,23 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015951.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "growth",
+            "factor"
+      ],
+      "id": "NCT00015951"
 }

@@ -223,18 +223,21 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "letrozole",
+            "tamoxifen citrate"
       ],
       "description": [
-            "tamoxifen",
+            "mg",
+            "daily",
+            "oral",
+            "administration",
             "20",
             "mg",
             "daily",
@@ -242,6 +245,8 @@
             "administration"
       ],
       "arm_group_label": [
+            "letrozole",
+            "tamoxifen",
             "letrozole",
             "tamoxifen"
       ],
@@ -688,14 +693,21 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004205.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lobular",
+            "breast",
+            "carcinoma",
+            "situ"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004205"
 }

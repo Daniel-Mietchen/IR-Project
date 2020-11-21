@@ -270,17 +270,17 @@
             "child"
       ],
       "condition": [
-            "caries",
             "dental"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "xylitol",
-            "gum",
-            "fennobon",
-            "finland"
+            "Cervitec chlorhexidine varnish",
+            "Duraphat fluoride varnish",
+            "xylitol gum from Fennobon, Finland"
       ],
       "criteria": [
             "criterion",
@@ -305,7 +305,7 @@
             "cognitive",
             "impairment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "month"
@@ -314,6 +314,19 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066040.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mutans",
+            "streptococci",
+            "infection"
+      ],
+      "mesh_term": [
+            "caries",
+            "fluoride",
+            "topical",
+            "preparation",
+            "topical",
+            "gluconate"
+      ],
+      "id": "NCT00066040"
 }

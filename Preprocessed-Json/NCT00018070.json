@@ -500,15 +500,15 @@
             "therapy"
       ],
       "condition": [
-            "macular",
             "degeneration"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "laser",
-            "treatment"
+            "Angiography",
+            "Laser Treatment"
       ],
       "criteria": [
             "inclusion",
@@ -882,12 +882,22 @@
             "therapy",
             "amd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018070.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amd"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "neovascularization",
+            "glucosamine",
+            "glycan",
+            "sulfate"
+      ],
+      "id": "NCT00018070"
 }

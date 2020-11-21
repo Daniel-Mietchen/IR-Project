@@ -144,7 +144,10 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "toxicity",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -152,9 +155,17 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "sargramostim",
+            "amifostine trihydrate",
+            "cisplatin",
+            "cyclophosphamide",
             "etoposide"
       ],
       "criteria": [
@@ -322,7 +333,7 @@
             "amifostine",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -331,6 +342,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003269.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003269"
 }

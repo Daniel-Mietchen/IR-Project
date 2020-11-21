@@ -154,15 +154,13 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amonafide",
-            "dihydrochloride"
+            "amonafide dihydrochloride"
       ],
       "criteria": [
             "disease",
@@ -180,7 +178,6 @@
             "follow",
             "prior",
             "therapy",
-            "regimen",
             "adjuvant",
             "therapy",
             "contain",
@@ -539,14 +536,20 @@
             "study",
             "enrollment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074100.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00074100"
 }

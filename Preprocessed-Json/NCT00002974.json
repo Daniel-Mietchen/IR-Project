@@ -153,15 +153,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermia",
-            "treatment"
+            "carboplatin",
+            "etoposide",
+            "ifosfamide",
+            "hyperthermia treatment"
       ],
       "criteria": [
             "disease",
@@ -382,7 +385,7 @@
             "agent",
             "aspirin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -391,6 +394,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002974.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002974"
 }

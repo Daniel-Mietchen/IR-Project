@@ -133,13 +133,17 @@
             "year"
       ],
       "condition": [
-            "urethral",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "ifosfamide",
             "paclitaxel"
       ],
       "criteria": [
@@ -220,12 +224,27 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002684.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "urethral",
+            "cancer",
+            "associate",
+            "invasive",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "mustard",
+            "paclitaxel"
+      ],
+      "id": "NCT00002684"
 }

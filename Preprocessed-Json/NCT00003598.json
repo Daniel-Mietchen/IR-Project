@@ -155,10 +155,11 @@
             "study"
       ],
       "condition": [
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tretinoin"
@@ -295,14 +296,24 @@
             "per",
             "day"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003598.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "3"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "condition"
+      ],
+      "id": "NCT00003598"
 }

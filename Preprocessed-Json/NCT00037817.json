@@ -698,19 +698,49 @@
             "enrol"
       ],
       "condition": [
+            "esophageal",
             "cancer",
+            "small",
+            "cell",
+            "lung",
+            "cancer",
+            "lung",
+            "carcinoma",
+            "mesothelioma",
             "origin",
             "metastasis",
             "lung",
             "pleura"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "Decitabine",
+            "Depsipeptide",
+            "Celecoxib"
       ],
       "description": [
+            "dose",
+            "level",
+            "day",
+            "4",
+            "day",
+            "10",
+            "34",
+            "day",
+            "cycle",
+            "dose",
+            "level",
+            "day",
+            "4",
+            "day",
+            "10",
+            "34",
+            "day",
+            "cycle",
             "po",
             "bid",
             "day",
@@ -718,9 +748,7 @@
             "34",
             "cycle"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1219,7 +1247,7 @@
             "diuretic",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1228,6 +1256,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037817.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pleural",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "lung"
+      ],
+      "id": "NCT00037817"
 }

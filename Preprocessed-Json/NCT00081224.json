@@ -219,17 +219,30 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
+            "capecitabine",
+            "celecoxib",
+            "radiation therapy",
             "surgery"
       ],
       "arm_group_label": [
-            "celecoxib",
+            "capecitabine",
+            "radiation",
+            "surgery",
+            "capecitabine",
+            "radiation",
+            "surgery",
+            "capecitabine",
+            "radiation",
+            "surgery",
             "capecitabine",
             "radiation",
             "surgery"
@@ -555,12 +568,21 @@
             "sorivudine",
             "brivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081224.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00081224"
 }

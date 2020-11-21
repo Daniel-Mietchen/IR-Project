@@ -177,15 +177,13 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "arsenic trioxide"
       ],
       "criteria": [
             "disease",
@@ -434,9 +432,7 @@
             "therapy",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -445,6 +441,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075413.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "trioxide"
+      ],
+      "id": "NCT00075413"
 }

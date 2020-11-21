@@ -314,18 +314,13 @@
             "wound"
       ],
       "condition": [
-            "wind",
             "heal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "slpi",
-            "secretory",
-            "leukocyte",
-            "protease",
-            "inhibitor"
+            "SLPI (Secretory Leukocyte Protease Inhibitor)"
       ],
       "criteria": [
             "healthy",
@@ -460,9 +455,23 @@
             "planus",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005569.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "injury",
+            "inhibitor",
+            "leukocyte",
+            "peptidase",
+            "inhibitor",
+            "protease",
+            "inhibitor",
+            "agent"
+      ],
+      "id": "NCT00005569"
 }

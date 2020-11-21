@@ -149,7 +149,44 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "iiia",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iiia",
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "iiib",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iiib",
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "iiic",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iiic",
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "primary",
             "peritoneal",
@@ -157,18 +194,31 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "cisplatin",
+            "alvocidib",
+            "cisplatin/flavopiridol"
+      ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
             "2"
       ],
-      "other_name": [],
+      "other_name": [
+            "1275"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -374,14 +424,18 @@
             "routine",
             "factor"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083122.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00083122"
 }

@@ -205,15 +205,22 @@
             "enter"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "adjuvant therapy",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -308,12 +315,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002883.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002883"
 }

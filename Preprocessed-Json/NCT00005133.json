@@ -874,7 +874,11 @@
             "analyse"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "disease",
+            "accident",
+            "mellitus",
             "failure",
             "congestive"
       ],
@@ -882,7 +886,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
@@ -891,6 +895,15 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005133.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "failure",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005133"
 }

@@ -259,31 +259,43 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "prostate",
+            "cancer",
+            "prostate",
+            "cancer",
+            "iia",
+            "prostate",
+            "cancer",
             "iib",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "photodynamic",
-            "therapy"
+            "motexafin lutetium",
+            "photodynamic therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
             "photodynamic",
             "therapy"
       ],
       "arm_group_label": [
-            "treatment",
+            "motexafin",
+            "lutetium",
+            "pdt",
             "motexafin",
             "lutetium",
             "pdt"
       ],
       "other_name": [
-            "therapy",
+            "texaphrin",
+            "texaphyrin",
+            "infusion",
             "photodynamic"
       ],
       "criteria": [
@@ -415,14 +427,16 @@
             "prostate",
             "cancer"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005067.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lutetium"
+      ],
+      "id": "NCT00005067"
 }

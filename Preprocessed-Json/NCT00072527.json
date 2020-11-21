@@ -230,21 +230,32 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "carboplatin",
+            "cisplatin",
+            "etoposide",
+            "irinotecan hydrochloride",
+            "radiation therapy"
       ],
-      "description": [
-            "iv"
-      ],
+      "description": [],
       "arm_group_label": [
-            "induction",
+            "consolidation",
+            "chemotherapy",
+            "consolidation",
+            "chemotherapy",
+            "consolidation",
+            "chemotherapy",
+            "consolidation",
+            "chemotherapy",
             "consolidation",
             "chemotherapy"
       ],
@@ -397,12 +408,27 @@
             "x",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00072527"
 }

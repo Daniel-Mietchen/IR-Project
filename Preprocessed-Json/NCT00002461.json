@@ -338,15 +338,30 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "sargramostim",
+            "carmustine",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "autologous bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -748,7 +763,7 @@
             "ventricular",
             "arrhythmia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -757,6 +772,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002461.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00002461"
 }

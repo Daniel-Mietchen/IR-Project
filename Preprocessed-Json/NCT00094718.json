@@ -187,24 +187,29 @@
             "visit"
       ],
       "condition": [
-            "west",
             "nile",
             "fever",
             "encephalitis"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "WN/DEN4-3'delta30",
+            "Placebo"
       ],
       "description": [
+            "live",
+            "attenuate",
+            "vaccine",
+            "one",
+            "three",
+            "dose",
             "placebo",
             "vaccine"
       ],
-      "arm_group_label": [
-            "4"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -383,7 +388,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -392,6 +397,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094718.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dengue",
+            "virus"
+      ],
+      "mesh_term": [
+            "nile",
+            "fever"
+      ],
+      "id": "NCT00094718"
 }

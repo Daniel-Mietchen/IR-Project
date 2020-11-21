@@ -204,26 +204,30 @@
             "period"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "mgd"
+            "WBRT",
+            "MGd"
       ],
       "description": [
+            "gy",
+            "wbrt",
+            "daily",
+            "total",
+            "10",
+            "day",
             "mg",
             "mgd",
             "plus",
             "wbrt"
       ],
-      "arm_group_label": [
-            "mgd"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "mgd",
             "plus",
             "wbrt"
       ],
@@ -391,12 +395,21 @@
             "except",
             "biopsy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003563.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "gadolinium"
+      ],
+      "id": "NCT00003563"
 }

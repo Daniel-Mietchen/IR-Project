@@ -157,25 +157,24 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "thrombocythemia",
+            "vera",
             "myelofibrosis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tipifarnib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -426,12 +425,17 @@
             "quinolone",
             "sensitivity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047190.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myelofibrosis",
+            "vera",
+            "essential"
+      ],
+      "id": "NCT00047190"
 }

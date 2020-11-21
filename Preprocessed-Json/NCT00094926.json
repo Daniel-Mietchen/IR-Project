@@ -225,25 +225,26 @@
             "phase"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Risperdal Consta",
             "placebo"
       ],
       "description": [
-            "match",
+            "im",
+            "injection",
+            "every",
             "placebo",
             "im",
             "injection",
             "every"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -349,7 +350,7 @@
             "paroxetine",
             "clozapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -358,6 +359,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094926.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "safety",
+            "efficacy",
+            "adjuvant",
+            "therapy"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00094926"
 }

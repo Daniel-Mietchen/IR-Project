@@ -175,14 +175,15 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "docetaxel",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -328,7 +329,7 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -337,6 +338,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022022.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00022022"
 }

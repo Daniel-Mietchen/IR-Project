@@ -319,15 +319,13 @@
             "perform"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "agalsidase",
-            "alfa"
+            "Agalsidase alfa"
       ],
       "description": [
             "agalsidase",
@@ -351,14 +349,14 @@
             "week"
       ],
       "arm_group_label": [
-            "agalsidase",
+            "alfa",
+            "cohort",
+            "1",
             "alfa",
             "cohort",
             "2"
       ],
-      "other_name": [
-            "replagal"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -534,7 +532,7 @@
             "medical",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -543,6 +541,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084084.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatrics"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00084084"
 }

@@ -96,14 +96,39 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin",
-            "paclitaxel"
+            "bexarotene with carboplatin and paclitaxel",
+            "carboplatin and paclitaxel"
       ],
       "description": [
+            "capsule",
+            "400",
+            "combination",
             "carboplatin",
+            "iv",
+            "auc",
+            "6",
+            "every",
+            "3",
+            "week",
+            "paclitaxel",
+            "iv",
+            "200",
+            "every",
+            "3",
+            "week",
+            "subject",
+            "group",
+            "also",
+            "receive",
+            "antilipid",
+            "agent",
+            "select",
+            "discretion",
+            "investigator",
             "iv",
             "auc",
             "6",
@@ -119,6 +144,7 @@
       ],
       "arm_group_label": [
             "carboplatin",
+            "paclitaxel",
             "paclitaxel"
       ],
       "criteria": [
@@ -207,9 +233,17 @@
             "chemotherapy",
             "indication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bexarotene"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00050960"
 }

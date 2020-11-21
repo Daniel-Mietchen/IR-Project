@@ -246,9 +246,7 @@
             "method",
             "development"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -303,12 +301,16 @@
             "biopsy",
             "component"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025831.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "id": "NCT00025831"
 }

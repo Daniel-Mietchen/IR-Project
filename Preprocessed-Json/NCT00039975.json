@@ -283,14 +283,20 @@
             "visit"
       ],
       "condition": [
-            "hypertension"
+            "infection",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "diltiazem",
-            "hcl"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Amlodipine",
+            "Diltiazem HCl"
       ],
       "criteria": [
             "inclusion",
@@ -412,7 +418,7 @@
             "period",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -421,6 +427,19 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039975.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "amlodipine"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "dietary",
+            "protease",
+            "inhibitor",
+            "inhibitor",
+            "channel",
+            "blocker"
+      ],
+      "id": "NCT00039975"
 }

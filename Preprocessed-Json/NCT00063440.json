@@ -152,7 +152,10 @@
             "process"
       ],
       "condition": [
-            "coronary",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
             "arteriosclerosis"
       ],
       "study_pop": [],
@@ -164,7 +167,7 @@
             "mesa",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -173,6 +176,15 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063440.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00063440"
 }

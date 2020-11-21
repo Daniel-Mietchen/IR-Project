@@ -220,16 +220,18 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "iodine",
-            "131"
+            "azacitidine",
+            "liothyronine sodium",
+            "iodine I 131"
       ],
       "criteria": [
             "disease",
@@ -355,9 +357,20 @@
             "plan",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004062.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "thyroid",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00004062"
 }

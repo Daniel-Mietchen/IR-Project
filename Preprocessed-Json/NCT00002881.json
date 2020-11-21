@@ -159,13 +159,22 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "flutamide",
+            "goserelin acetate",
+            "leuprolide acetate",
+            "suramin",
+            "therapeutic hydrocortisone",
             "orchiectomy"
       ],
       "criteria": [
@@ -370,14 +379,22 @@
             "prior",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002881.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002881"
 }

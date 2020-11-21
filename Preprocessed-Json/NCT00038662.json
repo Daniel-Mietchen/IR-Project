@@ -39,14 +39,13 @@
             "objective"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "atrasentan"
+            "Atrasentan"
       ],
       "criteria": [
             "inclusion",
@@ -74,14 +73,15 @@
             "prior",
             "randomization"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038662.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00038662"
 }

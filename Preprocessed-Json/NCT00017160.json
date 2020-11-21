@@ -184,7 +184,25 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "iii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iva",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "iib",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iic",
             "adult",
             "soft",
@@ -192,9 +210,31 @@
             "sarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "doxorubicin",
+            "filgrastim",
+            "ifosfamide",
+            "biological response modifier therapy",
+            "brachytherapy",
+            "chemotherapy",
+            "colony-stimulating factor therapy",
+            "conventional surgery",
+            "cytokine therapy",
+            "intraoperative radiotherapy",
+            "radiation therapy",
             "surgery"
       ],
       "criteria": [
@@ -418,9 +458,14 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017160.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "doxorubicin",
+            "mustard",
+            "factor"
+      ],
+      "id": "NCT00017160"
 }

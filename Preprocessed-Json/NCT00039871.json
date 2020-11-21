@@ -57,20 +57,28 @@
             "protocol"
       ],
       "condition": [
-            "liver",
+            "c",
+            "chronic",
             "cirrhosis"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "rebetol",
-            "ribavirin",
-            "sch",
-            "18908"
+            "PegIntron (peginterferon alfa-2b; SCH 54031)",
+            "REBETOL (ribavirin; SCH 18908)"
       ],
       "description": [
-            "rebetol",
+            "peginterferon",
+            "administer",
+            "dose",
+            "subcutaneously",
+            "sc",
+            "week",
+            "qw",
+            "48",
+            "week",
             "ribavirin",
             "administer",
             "weight",
@@ -81,12 +89,12 @@
             "week"
       ],
       "arm_group_label": [
-            "overall",
+            "study",
+            "population",
             "study",
             "population"
       ],
       "other_name": [
-            "sch",
             "54031"
       ],
       "criteria": [
@@ -153,7 +161,7 @@
             "completion",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -162,6 +170,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039871.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic",
+            "cirrhosis"
+      ],
+      "id": "NCT00039871"
 }

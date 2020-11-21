@@ -107,17 +107,14 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "cyclosporine"
       ],
       "description": [
-            "cyclosporine",
             "dose",
             "base",
             "actual",
@@ -171,12 +168,8 @@
             "renal",
             "toxicity"
       ],
-      "arm_group_label": [
-            "cyclosporine"
-      ],
-      "other_name": [
-            "gengraf"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -297,12 +290,19 @@
             "hiv",
             "positive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "angioimmunoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphadenopathy"
+      ],
+      "id": "NCT00070291"
 }

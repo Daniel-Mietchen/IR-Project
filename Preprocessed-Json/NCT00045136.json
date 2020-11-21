@@ -356,20 +356,20 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "holmium",
-            "ho",
-            "166",
-            "dotmp"
+            "melphalan",
+            "peripheral blood stem cell transplantation",
+            "holmium Ho 166 DOTMP"
       ],
       "criteria": [
             "disease",
@@ -666,7 +666,7 @@
             "day",
             "posttransplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -675,6 +675,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045136.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00045136"
 }

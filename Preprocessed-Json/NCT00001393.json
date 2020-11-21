@@ -322,6 +322,8 @@
             "clone"
       ],
       "condition": [
+            "segmental",
+            "glomerulosclerosis",
             "focal",
             "segmental",
             "glomerulosclerosis"
@@ -593,12 +595,21 @@
             "component",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "month"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001393.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "associate",
+            "nephropathy"
+      ],
+      "mesh_term": [
+            "focal",
+            "segmental"
+      ],
+      "id": "NCT00001393"
 }

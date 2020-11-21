@@ -308,13 +308,64 @@
             "sarcoma"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "immther"
+            "Vincristine",
+            "Doxorubicin",
+            "Cyclophosphamide",
+            "Dexrazoxane",
+            "ImmTher"
       ],
       "description": [
-            "900",
+            "max",
+            "mg",
+            "iv",
+            "x",
+            "1",
+            "repeat",
+            "every",
+            "3",
+            "week",
+            "x",
+            "6",
+            "iv",
+            "30",
+            "min",
+            "x",
+            "1",
+            "repeat",
+            "every",
+            "3",
+            "week",
+            "x",
+            "6",
+            "iv",
+            "daily",
+            "x",
+            "2",
+            "day",
+            "repeat",
+            "every",
+            "3",
+            "week",
+            "x",
+            "6",
+            "iv",
+            "30",
+            "min",
+            "prior",
+            "doxorubicin",
+            "repeat",
+            "every",
+            "3",
+            "week",
+            "x",
+            "6",
             "iv",
             "1",
             "hour",
@@ -324,13 +375,26 @@
             "week"
       ],
       "arm_group_label": [
-            "arm",
+            "vacdxr",
+            "immther",
+            "b",
+            "vacdxr",
+            "vacdxr",
+            "immther",
+            "b",
+            "vacdxr",
+            "vacdxr",
+            "immther",
+            "b",
+            "vacdxr",
+            "vacdxr",
+            "immther",
+            "b",
+            "vacdxr",
             "vacdxr",
             "immther"
       ],
-      "other_name": [
-            "zinecard"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -436,7 +500,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -445,6 +509,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038142.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immther"
+      ],
+      "mesh_term": [
+            "ewing",
+            "doxorubicin"
+      ],
+      "id": "NCT00038142"
 }

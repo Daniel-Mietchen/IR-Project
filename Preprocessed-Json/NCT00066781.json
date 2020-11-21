@@ -72,7 +72,6 @@
             "base",
             "presence",
             "absence",
-            "28",
             "polymorphism",
             "patient",
             "cohort",
@@ -214,23 +213,27 @@
             "year"
       ],
       "condition": [
-            "carcinoma",
             "unknown",
             "primary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "gemcitabine hydrochloride",
+            "irinotecan hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "cohort",
+            "close",
+            "accrual",
+            "ii",
+            "close",
+            "accrual",
             "ii"
       ],
       "criteria": [
@@ -503,12 +506,22 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066781.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "undifferentiated",
+            "carcinoma",
+            "unknown",
+            "primary"
+      ],
+      "mesh_term": [
+            "unknown",
+            "primary"
+      ],
+      "id": "NCT00066781"
 }

@@ -208,13 +208,14 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
             "thalidomide"
       ],
       "criteria": [
@@ -458,12 +459,24 @@
             "antibiotic",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005966.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00005966"
 }

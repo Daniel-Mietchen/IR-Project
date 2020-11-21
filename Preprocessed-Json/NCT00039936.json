@@ -35,16 +35,16 @@
             "self",
             "help"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "partial",
-            "self",
-            "help"
+            "Cognitive Behavior Treatment",
+            "Self Help",
+            "Partial Self Help"
       ],
       "criteria": [
             "meet",
@@ -56,12 +56,18 @@
             "psychotic",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039936.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "behavior"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00039936"
 }

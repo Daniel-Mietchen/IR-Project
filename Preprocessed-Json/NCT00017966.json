@@ -165,7 +165,7 @@
             "parameter"
       ],
       "condition": [
-            "healthy"
+            "disorder"
       ],
       "criteria": [
             "normal",
@@ -216,9 +216,16 @@
             "seizure",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017966.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00017966"
 }

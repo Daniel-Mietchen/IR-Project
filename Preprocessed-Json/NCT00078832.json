@@ -163,25 +163,22 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "anastrozole",
             "placebo"
       ],
       "description": [
-            "arimidex",
+            "inhibitor",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "arimidex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -567,9 +564,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -578,6 +573,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078832.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "breast",
+            "cancer",
+            "chemoprevention"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078832"
 }

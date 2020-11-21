@@ -197,15 +197,17 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "tamoxifen citrate",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -326,14 +328,20 @@
             "systemic",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006030.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006030"
 }

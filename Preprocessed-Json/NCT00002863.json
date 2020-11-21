@@ -158,13 +158,15 @@
             "4",
             "patient"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "chemotherapy",
+            "conventional surgery",
             "cryosurgery"
       ],
       "criteria": [
@@ -281,9 +283,18 @@
             "therapy",
             "sarcoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002863.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002863"
 }

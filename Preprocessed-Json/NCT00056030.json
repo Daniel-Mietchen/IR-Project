@@ -187,17 +187,31 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cetuximab",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "arm_group_label": [
-            "cetuximab",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
             "oxaliplatin",
             "leucovorin",
             "fluorouracil"
@@ -542,12 +556,20 @@
             "1",
             "course"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056030.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00056030"
 }

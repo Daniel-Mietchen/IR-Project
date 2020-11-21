@@ -252,17 +252,15 @@
             "utmdacc"
       ],
       "condition": [
-            "brain",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vioxx"
+            "Vioxx"
       ],
       "description": [
-            "start",
             "dose",
             "patient",
             "age",
@@ -290,12 +288,9 @@
             "treatment"
       ],
       "arm_group_label": [
-            "vioxx",
             "mtd"
       ],
-      "other_name": [
-            "rofecoxib"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -422,7 +417,7 @@
             "metastasis",
             "spine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -431,6 +426,14 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038389.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brain",
+            "stem",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00038389"
 }

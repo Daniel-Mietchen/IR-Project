@@ -116,13 +116,13 @@
             "risk"
       ],
       "condition": [
-            "cancer"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antioxidant"
+            "Antioxidants"
       ],
       "criteria": [
             "inclusion",
@@ -169,7 +169,7 @@
             "bmi",
             "35"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "22",
             "year"
@@ -178,6 +178,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046306.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00046306"
 }

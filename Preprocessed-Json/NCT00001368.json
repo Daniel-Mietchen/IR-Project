@@ -246,16 +246,15 @@
             "artery"
       ],
       "condition": [
-            "hypertension"
+            "atherosclerosis",
+            "accident",
+            "mellitus"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cytokine",
-            "leukocyte",
-            "activation",
-            "profile"
+            "cytokine and leukocyte activation profile"
       ],
       "criteria": [
             "male",
@@ -375,9 +374,17 @@
             "disease",
             "vegetation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001368.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "atherosclerosis"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00001368"
 }

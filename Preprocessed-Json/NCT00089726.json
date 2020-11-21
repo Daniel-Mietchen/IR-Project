@@ -149,14 +149,16 @@
             "year"
       ],
       "condition": [
-            "carcinoma",
+            "cancer",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclophosphamide"
+            "CG8123",
+            "Cyclophosphamide"
       ],
       "criteria": [
             "inclusion",
@@ -265,12 +267,19 @@
             "include",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089726.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00089726"
 }

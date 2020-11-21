@@ -156,11 +156,10 @@
             "treatment"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "oregovomab"
@@ -480,9 +479,7 @@
             "alcoholism",
             "hepatitis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -491,6 +488,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00034138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00034138"
 }

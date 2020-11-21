@@ -135,15 +135,17 @@
             "assessment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "delavirdine",
-            "mesylate"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Delavirdine mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -191,9 +193,15 @@
             "pi",
             "nfv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006326.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006326"
 }

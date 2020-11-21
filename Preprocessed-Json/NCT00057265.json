@@ -48,16 +48,14 @@
             "lamivudine"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "telbivudine",
-            "lamivudine"
+            "telbivudine or lamivudine"
       ],
       "criteria": [
             "inclusion",
@@ -117,7 +115,7 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -126,5 +124,11 @@
             "70",
             "year"
       ],
-      "id": "NCT00057265.xml"
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic"
+      ],
+      "id": "NCT00057265"
 }

@@ -42,14 +42,17 @@
             "rise"
       ],
       "condition": [
-            "fallopian",
+            "neoplasm",
+            "neoplasm",
             "tube",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CP-547,632"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -148,14 +151,18 @@
             "steroid",
             "use"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074867.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00074867"
 }

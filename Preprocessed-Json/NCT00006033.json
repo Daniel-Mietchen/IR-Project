@@ -172,14 +172,17 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "gene therapy",
+            "interleukin-2 gene",
             "methotrexate"
       ],
       "criteria": [
@@ -436,12 +439,28 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006033.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00006033"
 }

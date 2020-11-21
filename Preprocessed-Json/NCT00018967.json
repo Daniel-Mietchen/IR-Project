@@ -93,7 +93,11 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
@@ -101,7 +105,7 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "glucarpidase"
@@ -154,9 +158,15 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurotoxicity"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00018967"
 }

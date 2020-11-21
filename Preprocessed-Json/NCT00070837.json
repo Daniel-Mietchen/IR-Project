@@ -33,16 +33,13 @@
             "body"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "conjugate",
-            "monoclonal",
-            "antibody"
+            "MLN2704 (DM1 conjugated monoclonal antibody MLN591)"
       ],
       "criteria": [
             "inclusion",
@@ -291,14 +288,16 @@
             "experience",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070837.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00070837"
 }

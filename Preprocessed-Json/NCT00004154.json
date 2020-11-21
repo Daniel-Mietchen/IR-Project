@@ -167,15 +167,26 @@
             "study"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Fenretinide",
+            "Placebo"
       ],
       "description": [
             "two",
+            "100",
+            "mg",
+            "capsule",
+            "25",
+            "day",
+            "28",
+            "day",
+            "cycle",
             "placebo",
             "capsule",
             "25",
@@ -184,9 +195,7 @@
             "day",
             "cycle"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
@@ -446,12 +455,22 @@
             "retinoid",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004154.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00004154"
 }

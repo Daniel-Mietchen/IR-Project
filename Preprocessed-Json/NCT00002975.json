@@ -145,19 +145,17 @@
             "group"
       ],
       "condition": [
-            "precancerous",
+            "skin",
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aminolevulinic",
-            "acid"
+            "aminolevulinic acid"
       ],
-      "arm_group_label": [
-            "pdt"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -247,9 +245,18 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002975.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "actinic",
+            "keratosis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition",
+            "acid"
+      ],
+      "id": "NCT00002975"
 }

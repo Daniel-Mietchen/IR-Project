@@ -57,13 +57,15 @@
             "month"
       ],
       "condition": [
-            "chickenpox"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Netivudine",
+            "Acyclovir"
       ],
       "criteria": [
             "inclusion",
@@ -258,12 +260,20 @@
             "methadone",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002315.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "zoster"
+      ],
+      "id": "NCT00002315"
 }

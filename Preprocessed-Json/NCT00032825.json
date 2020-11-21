@@ -375,14 +375,15 @@
             "study"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "Ketaconazole",
+            "Docetaxel"
       ],
       "criteria": [
             "inclusion",
@@ -824,14 +825,18 @@
             "warfarin",
             "exclude"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032825.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00032825"
 }

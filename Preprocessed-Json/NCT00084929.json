@@ -156,18 +156,15 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "ct",
-            "colonography"
+            "CT Colonography"
       ],
       "description": [
-            "ct",
             "colonography",
             "perform",
             "comparison",
@@ -178,11 +175,11 @@
             "assessment"
       ],
       "arm_group_label": [
-            "ct",
             "colonography"
       ],
       "other_name": [
-            "colonoscopy"
+            "colonography",
+            "trial"
       ],
       "criteria": [
             "1",
@@ -263,12 +260,19 @@
             "test",
             "fobt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084929.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00084929"
 }

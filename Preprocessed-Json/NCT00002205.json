@@ -171,14 +171,15 @@
             "thereafter"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amprenavir"
+            "Abacavir sulfate",
+            "Amprenavir"
       ],
       "criteria": [
             "exclusion",
@@ -334,12 +335,22 @@
             "load",
             "suppression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002205.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00002205"
 }

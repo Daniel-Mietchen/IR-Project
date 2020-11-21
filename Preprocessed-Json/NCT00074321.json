@@ -204,27 +204,35 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "irinotecan hydrochloride",
+            "oxaliplatin",
+            "capecitabine",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "po",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -414,12 +422,13 @@
             "therapeutic",
             "intent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074321.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00074321"
 }

@@ -28,18 +28,32 @@
             "escalation",
             "scheme"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "combination"
+            "E7070 + irinotecan combination",
+            "Irinotecan + E7070 combination",
+            "Irinotecan + E7070 combination"
       ],
       "description": [
-            "escalate",
+            "dose",
+            "start",
+            "125",
+            "irinotecan",
+            "plus",
+            "250",
+            "combination",
+            "dose",
+            "start",
+            "100",
+            "irinotecan",
+            "plus",
+            "400",
+            "combination",
             "dose",
             "start",
             "100",
@@ -48,9 +62,7 @@
             "400",
             "combination"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -502,12 +514,16 @@
             "qt",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060567.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00060567"
 }

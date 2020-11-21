@@ -129,15 +129,13 @@
             "zalcitabine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -259,12 +257,18 @@
             "case",
             "basis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002164.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002164"
 }

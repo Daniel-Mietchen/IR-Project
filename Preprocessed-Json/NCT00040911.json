@@ -206,23 +206,51 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "tumor",
+            "nervous",
+            "system",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "neck",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "electroacupuncture therapy",
+            "sham intervention",
+            "quality-of-life assessment"
       ],
       "arm_group_label": [
-            "arm",
+            "alternative",
+            "medicine",
+            "procedure",
+            "ii",
+            "alternative",
+            "medicine",
+            "procedure",
+            "alternative",
+            "medicine",
+            "procedure",
             "ii",
             "alternative",
             "medicine",
             "procedure"
       ],
       "description": [
-            "ancillary",
+            "electroacupuncture",
+            "therapy",
+            "sham",
+            "point",
             "study"
       ],
       "criteria": [
@@ -387,7 +415,7 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -396,6 +424,26 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040911.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "neck",
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00040911"
 }

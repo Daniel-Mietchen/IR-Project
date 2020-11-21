@@ -159,11 +159,10 @@
             "stroke"
       ],
       "condition": [
-            "heart",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pravastatin"
@@ -181,7 +180,7 @@
             "artery",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -190,6 +189,13 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005117.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "endothelial",
+            "dysfunction"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005117"
 }

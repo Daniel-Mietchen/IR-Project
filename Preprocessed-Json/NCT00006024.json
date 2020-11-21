@@ -167,19 +167,23 @@
             "study"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "lomustine",
             "temozolomide"
       ],
       "arm_group_label": [
-            "pre",
+            "post",
+            "radiation",
+            "chemotherapy",
             "post",
             "radiation",
             "chemotherapy"
@@ -342,7 +346,7 @@
             "phenobarbital",
             "cimetidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -351,6 +355,18 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006024.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00006024"
 }

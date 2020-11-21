@@ -149,17 +149,26 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "tumor",
-            "biopsy"
+            "PS-341",
+            "Tumor Biopsy"
       ],
       "arm_group_label": [
+            "biopsy",
+            "follow",
+            "administration",
+            "administration",
+            "follow",
+            "biopsy",
+            "biopsy",
+            "follow",
+            "administration",
             "administration",
             "follow",
             "biopsy"
@@ -350,12 +359,23 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025376.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00025376"
 }

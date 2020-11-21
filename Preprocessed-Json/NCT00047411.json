@@ -189,20 +189,33 @@
             "clinic"
       ],
       "condition": [
-            "death",
+            "disease",
+            "infarction",
+            "disease",
             "sudden",
             "cardiac"
       ],
       "intervention_type": [
-            "device"
+            "Other",
+            "Device"
       ],
       "intervention_name": [
-            "automatic",
-            "external",
-            "defibrillation"
+            "Cardiopulmonary Resuscitation",
+            "Automatic External Defibrillation"
       ],
       "description": [
-            "use",
+            "notification",
+            "em",
+            "telephone",
+            "prompt",
+            "initiation",
+            "cpr",
+            "accordance",
+            "publish",
+            "basic",
+            "life",
+            "support",
+            "guideline",
             "aed",
             "first",
             "accordance",
@@ -218,9 +231,7 @@
             "control",
             "group"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -253,12 +264,24 @@
             "resuscitate",
             "order"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047411.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cpr",
+            "aed"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00047411"
 }

@@ -190,18 +190,22 @@
             "specimen"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "fluorescence",
-            "situ",
-            "hybridization"
+            "DNA ploidy analysis",
+            "comparative genomic hybridization",
+            "cytogenetic analysis",
+            "fluorescence in situ hybridization"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -273,12 +277,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003096.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003096"
 }

@@ -298,26 +298,37 @@
             "mri"
       ],
       "condition": [
-            "multiple",
+            "disease",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "albuterol",
-            "placebo"
+            "Glatiramer acetate",
+            "Albuterol",
+            "Albuterol placebo"
       ],
       "description": [
+            "mg",
+            "administer",
+            "subcutaneously",
+            "daily",
+            "mg",
+            "4",
+            "mg",
             "oral",
+            "capsule",
+            "take",
+            "daily",
             "placebo",
             "capsule",
             "take",
             "daily"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -427,7 +438,7 @@
             "period",
             "recovery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -436,6 +447,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039988.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "copolymer",
+            "1"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "disease",
+            "acetate"
+      ],
+      "id": "NCT00039988"
 }

@@ -229,29 +229,74 @@
             "population"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "infarction",
+            "failure",
+            "congestive",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "ace",
-            "inhibitor"
+            "Beta adrenergic blockers",
+            "Platelet inhibitors",
+            "PTCA and stents",
+            "ACE Inhibitors"
       ],
       "description": [
-            "participant",
+            "receive",
+            "beta",
+            "adrenergic",
+            "blocker",
+            "receive",
+            "platelet",
+            "inhibitor",
+            "undergo",
+            "percutaneous",
+            "coronary",
+            "intervention",
+            "ptca",
+            "coronary",
+            "stenting",
             "receive",
             "ace",
             "inhibitor"
       ],
       "arm_group_label": [
-            "percutaneous",
+            "medical",
+            "therapy",
+            "med",
+            "coronary",
+            "intervention",
+            "pci",
+            "medical",
+            "therapy",
+            "med",
+            "coronary",
+            "intervention",
+            "pci",
+            "coronary",
+            "intervention",
+            "pci",
+            "medical",
+            "therapy",
+            "med",
             "coronary",
             "intervention",
             "pci"
       ],
       "other_name": [
+            "blocker",
+            "drug",
+            "transluminal",
+            "coronary",
+            "angioplasty",
+            "placement",
             "inhibitor"
       ],
       "criteria": [
@@ -570,12 +615,25 @@
             "hypertrophic",
             "cardiomyopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004562.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "infarction",
+            "antagonist",
+            "inhibitor",
+            "agent",
+            "enzyme",
+            "inhibitor",
+            "aggregation",
+            "inhibitor"
+      ],
+      "id": "NCT00004562"
 }

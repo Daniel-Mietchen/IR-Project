@@ -28,20 +28,18 @@
             "receive",
             "chemotherapy"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Darbepoetin Alfa",
+            "Placebo"
       ],
-      "description": [
-            "placebo"
-      ],
+      "description": [],
       "arm_group_label": [
-            "placebo"
+            "alfa"
       ],
       "criteria": [
             "inclusion",
@@ -212,12 +210,18 @@
             "protocol",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091858.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anemia"
+      ],
+      "mesh_term": [
+            "alfa"
+      ],
+      "id": "NCT00091858"
 }

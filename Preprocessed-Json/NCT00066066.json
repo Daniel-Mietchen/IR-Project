@@ -302,16 +302,55 @@
             "background"
       ],
       "condition": [
-            "periodontal",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxycycline"
+            "Scaling and root planing",
+            "Metronidazole",
+            "Amoxicillin",
+            "Doxycycline"
       ],
       "description": [
+            "root",
+            "plan",
+            "srp",
+            "mechanical",
+            "debridement",
+            "tooth",
+            "root",
+            "surface",
+            "standard",
+            "care",
+            "periodontal",
+            "therapy",
+            "meet",
+            "antibiotic",
+            "particularly",
+            "effective",
+            "gram",
+            "negative",
+            "bacterial",
+            "specie",
+            "dose",
+            "study",
+            "250",
+            "mg",
+            "tid",
+            "x",
+            "amox",
+            "broad",
+            "spectrum",
+            "antibiotic",
+            "prescribe",
+            "500",
+            "mg",
+            "tid",
             "atridox",
             "doxycycline",
             "hyclate",
@@ -381,14 +420,18 @@
             "oxytetracycline"
       ],
       "arm_group_label": [
-            "srp",
+            "root",
+            "plan",
+            "alone",
+            "metronidazole",
+            "meet",
+            "amoxicillin",
+            "doxycycline",
             "meet",
             "amoxicillin",
             "doxycycline"
       ],
-      "other_name": [
-            "atridox"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -470,12 +513,16 @@
             "lactose",
             "intolerance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066066.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00066066"
 }

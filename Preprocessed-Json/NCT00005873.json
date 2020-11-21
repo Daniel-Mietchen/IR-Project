@@ -120,11 +120,10 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "rubitecan"
@@ -301,9 +300,17 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005873"
 }

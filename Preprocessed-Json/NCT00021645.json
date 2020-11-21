@@ -350,14 +350,14 @@
             "score"
       ],
       "condition": [
-            "uveitis"
+            "macular",
+            "edema"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "Vitamin E"
       ],
       "criteria": [
             "inclusion",
@@ -594,9 +594,17 @@
             "intercranial",
             "bleed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "macular",
+            "edema"
+      ],
+      "mesh_term": [
+            "edema",
+            "e"
+      ],
+      "id": "NCT00021645"
 }

@@ -325,27 +325,36 @@
             "2",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "fusion",
-            "protein"
+            "hu14.18-Interleukin-2 fusion protein"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "disease",
+            "measurable",
+            "standard",
+            "criterion",
+            "eval",
+            "mibg",
+            "bm",
+            "histology",
             "identify",
             "bm",
             "immunohistochemistry"
       ],
-      "other_name": [],
+      "other_name": [
+            "fusion",
+            "protein",
+            "anti",
+            "antibody",
+            "fuse",
+            "human"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -416,7 +425,6 @@
             "transfusion",
             "hemoglobin",
             "note",
-            "transfusion",
             "allow",
             "patient",
             "know",
@@ -760,12 +768,20 @@
             "antineoplastic",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082758.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "diftitox",
+            "monoclonal"
+      ],
+      "id": "NCT00082758"
 }

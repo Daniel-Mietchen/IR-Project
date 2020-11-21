@@ -193,16 +193,12 @@
             "risk",
             "death"
       ],
-      "condition": [
-            "sepsis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "drotrecogin",
-            "alfa",
-            "activate"
+            "Drotrecogin alfa (activated)"
       ],
       "criteria": [
             "inclusion",
@@ -244,12 +240,17 @@
             "therapeutic",
             "heparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045760.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa",
+            "activate",
+            "c"
+      ],
+      "id": "NCT00045760"
 }

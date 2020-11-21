@@ -121,14 +121,64 @@
             "test"
       ],
       "condition": [
-            "inflammation"
+            "alzheimer",
+            "disease",
+            "stress"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Fish Oil",
+            "Fish Oil and Lipoic acid",
+            "Placebo"
       ],
       "description": [
-            "soybean",
+            "oil",
+            "concentrate",
+            "daily",
+            "dose",
+            "3",
+            "gram",
+            "contain",
+            "675",
+            "milligram",
+            "docosahexanoic",
+            "acid",
+            "975",
+            "milligram",
+            "eicosapentanoic",
+            "acid",
+            "take",
+            "12",
+            "month",
+            "oil",
+            "concentrate",
+            "daily",
+            "dose",
+            "3",
+            "gram",
+            "contain",
+            "675",
+            "milligram",
+            "docosahexanoic",
+            "acid",
+            "975",
+            "milligram",
+            "eicosapentanoic",
+            "acid",
+            "plus",
+            "lipoic",
+            "acid",
+            "daily",
+            "dose",
+            "600",
+            "milligram",
+            "take",
+            "12",
+            "month",
             "oil",
             "3",
             "gram",
@@ -144,10 +194,16 @@
             "month"
       ],
       "arm_group_label": [
-            "placebo"
+            "oil",
+            "oil",
+            "lipoic",
+            "acid"
       ],
       "other_name": [
-            "thiotic",
+            "oil",
+            "concentrate",
+            "fatty",
+            "acid",
             "acid",
             "alpha",
             "lipoic",
@@ -212,12 +268,20 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090402.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dietary",
+            "supplement"
+      ],
+      "mesh_term": [
+            "disease",
+            "acid"
+      ],
+      "id": "NCT00090402"
 }

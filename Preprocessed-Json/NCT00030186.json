@@ -83,14 +83,33 @@
             "dosage"
       ],
       "condition": [
-            "leukemia",
             "myeloid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CEP-701 60mg",
+            "Cep-701 80mg",
+            "Cep-701 40mg"
+      ],
       "description": [
+            "orally",
+            "2",
+            "time",
+            "day",
+            "28",
+            "day",
+            "2",
+            "time",
+            "day",
+            "dependent",
+            "upon",
+            "response",
+            "cycle",
+            "1",
             "2",
             "time",
             "day",
@@ -101,7 +120,8 @@
             "1"
       ],
       "arm_group_label": [
-            "cycle"
+            "1",
+            "2"
       ],
       "criteria": [
             "inclusion",
@@ -185,12 +205,20 @@
             "active",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030186.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mutation"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00030186"
 }

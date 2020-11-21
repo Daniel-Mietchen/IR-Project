@@ -199,29 +199,39 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "carcinoma",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "suramin"
+            "Fluorouracil",
+            "Pharmacological Study",
+            "Suramin"
       ],
       "description": [
-            "give",
+            "iv",
+            "study",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "suramin",
+            "fluorouracil",
+            "suramin",
+            "fluorouracil",
             "suramin",
             "fluorouracil"
       ],
       "other_name": [
-            "timazin"
+            "uracil"
       ],
       "criteria": [
             "inclusion",
@@ -413,12 +423,16 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083109.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00083109"
 }

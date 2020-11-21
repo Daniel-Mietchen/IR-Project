@@ -236,20 +236,47 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "gamma",
-            "ray",
-            "therapy"
+            "Induction chemotherapy",
+            "cisplatin",
+            "fluorouracil",
+            "low-LET cobalt-60 gamma ray therapy"
       ],
       "description": [
-            "180",
+            "100",
+            "iv",
+            "infusion",
+            "90",
+            "minute",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "2",
+            "cycle",
+            "continuous",
+            "iv",
+            "infusion",
+            "24",
+            "hour",
+            "day",
+            "1",
+            "5",
+            "every",
+            "21",
+            "day",
+            "2",
+            "cycle",
             "cgy",
             "per",
             "day",
@@ -260,12 +287,12 @@
             "week"
       ],
       "arm_group_label": [
-            "treatment",
+            "arm",
+            "arm",
+            "arm",
             "arm"
       ],
-      "other_name": [
-            "rt"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -399,7 +426,7 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -408,6 +435,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00002735"
 }

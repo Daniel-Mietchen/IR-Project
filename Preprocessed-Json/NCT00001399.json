@@ -390,14 +390,14 @@
             "vivo"
       ],
       "condition": [
-            "pancytopenia"
+            "fanconi",
+            "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "transduce",
-            "cell"
+            "Transduced CD34+ Cells"
       ],
       "criteria": [
             "inclusion",
@@ -680,12 +680,20 @@
             "marrow",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001399.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fanconi",
+            "anemia"
+      ],
+      "mesh_term": [
+            "anemia",
+            "syndrome"
+      ],
+      "id": "NCT00001399"
 }

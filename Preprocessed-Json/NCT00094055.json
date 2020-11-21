@@ -58,13 +58,14 @@
             "shrinkage"
       ],
       "condition": [
-            "thyroid",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AG013736"
+      ],
       "description": [
             "tablet",
             "5",
@@ -75,9 +76,7 @@
             "progression",
             "toxicity"
       ],
-      "arm_group_label": [
-            "axitinib"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -137,12 +136,17 @@
             "history",
             "hemoptysis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094055.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "neoplasm",
+            "inhibitor"
+      ],
+      "id": "NCT00094055"
 }

@@ -184,16 +184,24 @@
             "study"
       ],
       "condition": [
-            "carcinoma",
             "unknown",
             "primary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "cisplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "fluorouracil",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -375,12 +383,24 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022178.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "newly",
+            "diagnose",
+            "carcinoma",
+            "unknown",
+            "primary"
+      ],
+      "mesh_term": [
+            "unknown",
+            "primary",
+            "doxorubicin"
+      ],
+      "id": "NCT00022178"
 }

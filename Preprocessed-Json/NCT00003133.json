@@ -196,7 +196,7 @@
             "year"
       ],
       "condition": [
-            "transitional",
+            "cancer",
             "cell",
             "cancer",
             "renal",
@@ -204,9 +204,17 @@
             "ureter"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -399,12 +407,31 @@
             "treatment",
             "start"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003133.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00003133"
 }

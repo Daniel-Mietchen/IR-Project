@@ -161,17 +161,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "ibritumomab",
-            "tiuxetan"
+            "rituximab",
+            "yttrium Y 90 ibritumomab tiuxetan"
       ],
       "criteria": [
             "disease",
@@ -250,7 +247,6 @@
             "participation",
             "infection",
             "antibody",
-            "reactivity",
             "human",
             "antibody",
             "pregnant",
@@ -258,7 +254,6 @@
             "pregnancy",
             "test",
             "note",
-            "result",
             "must",
             "available",
             "prior",
@@ -340,12 +335,22 @@
             "diagnostic",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082836.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00082836"
 }

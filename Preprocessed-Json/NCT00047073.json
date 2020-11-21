@@ -153,20 +153,58 @@
             "study"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "supportive",
-            "care"
+            "Rapamycin",
+            "Surgery",
+            "Supportive Care"
       ],
       "description": [
+            "1",
+            "initial",
+            "dose",
+            "day",
+            "1",
+            "day",
+            "day",
+            "surgery",
+            "dose",
+            "surgery",
+            "recovery",
+            "recorvery",
+            "load",
+            "dose",
+            "day",
+            "1",
+            "day",
+            "cycle",
+            "every",
+            "4",
+            "escalation",
+            "level",
+            "2",
+            "level",
+            "3",
+            "level",
+            "4",
+            "2",
+            "utilize",
+            "dose",
+            "establish",
+            "phase",
+            "dose",
+            "schedule",
+            "remain",
+            "resection",
             "corticosteroid",
             "use",
             "smallest",
@@ -176,7 +214,6 @@
             "cerebral",
             "edema",
             "mass",
-            "effect",
             "medication",
             "use",
             "indicate",
@@ -189,7 +226,6 @@
             "institution",
             "infectious",
             "disease",
-            "guideline",
             "neurosurgical",
             "management",
             "require",
@@ -202,12 +238,14 @@
             "document"
       ],
       "arm_group_label": [
-            "phase",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
             "2"
       ],
-      "other_name": [
-            "sirolimus"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -481,12 +519,23 @@
             "except",
             "radiosensitizers"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047073.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00047073"
 }

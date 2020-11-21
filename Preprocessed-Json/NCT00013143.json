@@ -202,23 +202,16 @@
             "proces"
       ],
       "condition": [
-            "adverse",
             "drug",
             "event"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "patient",
-            "risk",
-            "profile",
-            "potential",
-            "ade",
-            "feedback"
+            "Patient risk profiling (potential ADEs) w/provider feedback"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -247,9 +240,15 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013143.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "side",
+            "effect",
+            "adverse",
+            "reaction"
+      ],
+      "id": "NCT00013143"
 }

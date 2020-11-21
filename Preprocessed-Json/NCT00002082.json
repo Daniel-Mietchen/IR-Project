@@ -25,14 +25,13 @@
             "patient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -180,12 +179,22 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002082.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "azithromycin"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002082"
 }

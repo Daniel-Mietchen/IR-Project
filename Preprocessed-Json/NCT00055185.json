@@ -73,17 +73,16 @@
             "data"
       ],
       "condition": [
-            "acquire",
+            "infection",
             "immune",
             "deficiency",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pro",
-            "542"
+            "CD4-IgG2 (PRO 542)"
       ],
       "criteria": [
             "inclusion",
@@ -156,12 +155,24 @@
             "immunoglobulin",
             "preparation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055185.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "immunoadhesins"
+      ],
+      "id": "NCT00055185"
 }

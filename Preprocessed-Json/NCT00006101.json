@@ -148,17 +148,18 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "eflornithine",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "dfmo"
       ],
       "criteria": [
             "disease",
@@ -312,9 +313,7 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "35",
             "year"
@@ -323,6 +322,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006101.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006101"
 }

@@ -151,17 +151,26 @@
             "month"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "dexamethasone",
             "lenalidomide"
       ],
       "description": [
-            "15",
+            "20",
+            "mg",
+            "daily",
+            "10",
+            "mg",
+            "bid",
+            "day",
+            "every",
+            "cycle",
             "21",
             "day",
             "7",
@@ -173,11 +182,9 @@
             "without",
             "dexamethasone"
       ],
-      "arm_group_label": [
-            "revlimid"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "revlimid"
+            "acetate"
       ],
       "criteria": [
             "inclusion",
@@ -356,12 +363,22 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091260.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "systemic",
+            "amyloidosis"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00091260"
 }

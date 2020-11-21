@@ -96,11 +96,10 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "irofulven"
@@ -245,14 +244,20 @@
             "surgery",
             "recover"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "endometrial",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005031"
 }

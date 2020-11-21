@@ -72,14 +72,15 @@
             "achieve"
       ],
       "condition": [
-            "lymphoma"
+            "disease",
+            "kaposi",
+            "cutaneous"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody"
+            "SGN-30 (monoclonal antibody)"
       ],
       "criteria": [
             "inclusion",
@@ -391,12 +392,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051597.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "kaposi",
+            "cutaneous",
+            "monoclonal"
+      ],
+      "id": "NCT00051597"
 }

@@ -160,17 +160,15 @@
             "year"
       ],
       "condition": [
-            "testicular",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "compute",
-            "tomography"
+            "computed tomography"
       ],
       "criteria": [
             "disease",
@@ -268,11 +266,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003420.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "testicular",
+            "teratoma"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00003420"
 }

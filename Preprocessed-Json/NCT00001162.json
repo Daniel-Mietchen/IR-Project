@@ -278,7 +278,9 @@
             "safe"
       ],
       "condition": [
-            "gastrointestinal",
+            "disease",
+            "intestinal",
+            "disease",
             "helminth",
             "infection"
       ],
@@ -339,12 +341,23 @@
             "opinion",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001162.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "echinococcus"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "amebic",
+            "disease",
+            "parasitic"
+      ],
+      "id": "NCT00001162"
 }

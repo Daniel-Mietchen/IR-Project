@@ -252,24 +252,66 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "neuroblastoma",
             "neuroblastoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "pyrazoloacridine",
+            "filgrastim",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "sc",
+            "autologous",
+            "bone",
+            "marrow",
+            "transplantation",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
+            "transplantation",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "cohort",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "pharmacological",
+            "marrow",
+            "transplantation",
+            "autologous",
+            "autologous",
+            "bone",
+            "marrow",
+            "transplantation",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
+            "transplantation",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
             "study"
       ],
       "criteria": [
@@ -801,7 +843,7 @@
             "displace",
             "brain"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -810,6 +852,9 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053950.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "366140"
+      ],
+      "id": "NCT00053950"
 }

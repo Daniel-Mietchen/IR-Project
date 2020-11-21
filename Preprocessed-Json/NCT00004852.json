@@ -67,14 +67,17 @@
             "thereafter"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Efavirenz",
+            "Lamivudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -211,12 +214,18 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004852.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00004852"
 }

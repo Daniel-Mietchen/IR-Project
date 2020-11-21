@@ -279,7 +279,9 @@
             "15"
       ],
       "condition": [
-            "polycystic",
+            "disease",
+            "arteriosclerosis",
+            "disease",
             "ovary",
             "syndrome"
       ],
@@ -287,14 +289,21 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037245.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "ovary",
+            "syndrome",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00037245"
 }

@@ -294,7 +294,6 @@
             "image"
       ],
       "condition": [
-            "low",
             "back",
             "pain"
       ],
@@ -317,9 +316,23 @@
             "medical",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011739.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "low",
+            "back",
+            "pain",
+            "magnetic",
+            "resonance",
+            "image",
+            "mri"
+      ],
+      "mesh_term": [
+            "pain",
+            "back",
+            "pain"
+      ],
+      "id": "NCT00011739"
 }

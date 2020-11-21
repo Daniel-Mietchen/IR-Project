@@ -239,26 +239,40 @@
             "entry"
       ],
       "condition": [
-            "recurrent",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma",
             "small",
             "lymphocytic",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "romidepsin",
+            "rituximab",
+            "fludarabine phosphate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "fludara"
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -672,12 +686,18 @@
             "prolongation",
             "qtc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079443.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00079443"
 }

@@ -88,18 +88,17 @@
             "death"
       ],
       "condition": [
-            "glioblastoma",
             "multiforme"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "emd",
-            "121974"
+            "EMD 121974",
+            "EMD 121974"
       ],
       "description": [
-            "2000",
             "mg",
             "emd",
             "121974",
@@ -115,8 +114,29 @@
             "8",
             "infusion",
             "per",
+            "repeat",
+            "without",
+            "pause",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "develop",
+            "mg",
+            "emd",
+            "121974",
+            "iv",
+            "vein",
+            "twice",
+            "weekly",
+            "day",
+            "1",
+            "4",
             "cycle",
-            "cycle",
+            "total",
+            "8",
+            "infusion",
+            "per",
             "repeat",
             "without",
             "pause",
@@ -126,9 +146,7 @@
             "toxicity",
             "develop"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -546,12 +564,17 @@
             "legal",
             "capacity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093964.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brain",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093964"
 }

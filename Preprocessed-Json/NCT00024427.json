@@ -209,17 +209,25 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
+            "toxicity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fluorouracil",
+            "gemcitabine hydrochloride",
             "triacetyluridine"
       ],
       "description": [
-            "6",
+            "dose",
+            "dose",
+            "treat",
+            "pancreatic",
+            "cancer",
             "gram",
             "12",
             "tablet"
@@ -474,12 +482,21 @@
             "adversely",
             "gemcitabine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024427.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00024427"
 }

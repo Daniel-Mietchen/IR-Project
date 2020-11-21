@@ -153,19 +153,23 @@
             "duration",
             "treatment"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "gene",
-            "rearrangement",
-            "analysis"
+            "comparative genomic hybridization",
+            "cytogenetic analysis",
+            "fluorescence in situ hybridization",
+            "gene rearrangement analysis"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
+            "1",
             "1"
       ],
       "study_pop": [],
@@ -231,12 +235,19 @@
             "year",
             "older"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003863.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003863"
 }

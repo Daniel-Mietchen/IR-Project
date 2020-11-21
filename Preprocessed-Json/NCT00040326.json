@@ -130,21 +130,22 @@
             "participant"
       ],
       "condition": [
-            "seizure"
+            "temporal",
+            "lobe"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "antiepileptic",
-            "drug"
+            "anteromesial temporal resection",
+            "antiepileptic drugs"
       ],
       "description": [
-            "pharmacotherapy"
+            "treatment",
+            "epilepsy"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -426,12 +427,20 @@
             "support",
             "memory"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040326.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hippocampal",
+            "sclerosis"
+      ],
+      "mesh_term": [
+            "temporal",
+            "lobe"
+      ],
+      "id": "NCT00040326"
 }

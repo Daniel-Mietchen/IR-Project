@@ -34,13 +34,14 @@
             "cancer"
       ],
       "condition": [
-            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CP-547,632"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -95,12 +96,15 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074854.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00074854"
 }

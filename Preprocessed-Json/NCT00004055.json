@@ -146,18 +146,23 @@
             "treatment"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "filgrastim",
+            "paclitaxel",
+            "topotecan hydrochloride"
       ],
       "arm_group_label": [
-            "topotecan",
+            "paclitaxel",
+            "filgrastim",
+            "paclitaxel",
+            "filgrastim",
             "paclitaxel",
             "filgrastim"
       ],
@@ -382,12 +387,27 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004055.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "paclitaxel"
+      ],
+      "id": "NCT00004055"
 }

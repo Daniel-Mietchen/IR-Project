@@ -214,15 +214,28 @@
             "study"
       ],
       "condition": [
-            "refractory",
+            "ii",
+            "multiple",
+            "myeloma",
+            "iii",
+            "multiple",
+            "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "arsenic trioxide",
+            "ascorbic acid",
+            "melphalan",
+            "chemosensitization/potentiation",
             "chemotherapy"
       ],
       "criteria": [
@@ -469,12 +482,19 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085345.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acid",
+            "trioxide"
+      ],
+      "id": "NCT00085345"
 }

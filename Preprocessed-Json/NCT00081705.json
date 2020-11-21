@@ -266,14 +266,15 @@
             "forest"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "arteriosclerosis",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -282,6 +283,13 @@
             "34",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081705.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00081705"
 }

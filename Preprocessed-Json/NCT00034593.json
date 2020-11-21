@@ -35,13 +35,14 @@
             "body"
       ],
       "condition": [
-            "urologic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ALIMTA",
             "gemcitabine"
       ],
       "criteria": [
@@ -98,12 +99,23 @@
             "vitamin",
             "supplement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034593.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "urothelium"
+      ],
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00034593"
 }

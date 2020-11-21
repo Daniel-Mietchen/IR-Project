@@ -56,15 +56,17 @@
             "month"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -147,12 +149,21 @@
             "trimetrexate",
             "glucuronate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002434.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis"
+      ],
+      "id": "NCT00002434"
 }

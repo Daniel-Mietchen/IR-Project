@@ -124,17 +124,46 @@
             "depressive",
             "symptom"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "medication"
+            "Cognitive Therapy",
+            "Medications"
       ],
       "description": [
-            "antidepressant",
+            "session",
+            "occur",
+            "weekly",
+            "acute",
+            "treatment",
+            "monthly",
+            "continuation",
+            "acute",
+            "treatment",
+            "may",
+            "last",
+            "18",
+            "month",
+            "remit",
+            "patient",
+            "continue",
+            "medication",
+            "36",
+            "month",
+            "initial",
+            "randomization",
+            "meet",
+            "criterion",
+            "recovery",
+            "recovery",
+            "patient",
+            "receive",
+            "combine",
+            "treatment",
+            "discontinue",
             "medication",
             "distribute",
             "clinically",
@@ -182,12 +211,15 @@
             "symptom"
       ],
       "arm_group_label": [
+            "therapy",
+            "plus",
+            "medication",
+            "therapy",
+            "plus",
             "medication",
             "alone"
       ],
-      "other_name": [
-            "adm"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -220,12 +252,16 @@
             "personality",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057577.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00057577"
 }

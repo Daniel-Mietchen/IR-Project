@@ -61,13 +61,14 @@
             "carboplatin"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "CT-2103 (poly(L)glutamate-paclitaxel)",
             "carboplatin"
       ],
       "criteria": [
@@ -300,14 +301,19 @@
             "nurse",
             "mother"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069901.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carboplatin"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00069901"
 }

@@ -115,15 +115,13 @@
             "record"
       ],
       "condition": [
-            "liver",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "choline",
-            "chloride"
+            "Choline Chloride"
       ],
       "criteria": [
             "inclusion",
@@ -218,7 +216,7 @@
             "methotrexate",
             "amiodarone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -227,6 +225,12 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "choline"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00031135"
 }

@@ -147,27 +147,25 @@
             "year"
       ],
       "condition": [
-            "gastrointestinal",
             "stromal",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "imatinib mesylate",
+            "conventional surgery"
       ],
       "description": [
-            "undergo",
+            "orally",
             "surgical",
             "resection"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "surgery",
+            "57148",
             "conventional"
       ],
       "criteria": [
@@ -388,12 +386,17 @@
             "prophylaxis",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028002.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor",
+            "mesylate"
+      ],
+      "id": "NCT00028002"
 }

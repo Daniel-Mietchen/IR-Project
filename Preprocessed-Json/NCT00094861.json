@@ -85,20 +85,31 @@
             "ongoing"
       ],
       "condition": [
+            "cell",
             "lung",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Palifermin",
+            "Placebo",
+            "Radiotherapy",
+            "Paclitaxel",
+            "Carboplatin"
       ],
-      "arm_group_label": [
-            "palifermin"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "kepivance"
+            "human",
+            "keratinocyte",
+            "growth",
+            "factor"
       ],
       "criteria": [
             "inclusion",
@@ -467,12 +478,21 @@
             "prevent",
             "regular"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094861.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "disorder",
+            "paclitaxel"
+      ],
+      "id": "NCT00094861"
 }

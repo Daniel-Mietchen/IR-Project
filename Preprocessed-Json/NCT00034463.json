@@ -40,13 +40,17 @@
             "metastatic",
             "cancer"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ALIMTA",
+            "folic acid",
+            "multi-vitamins"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -77,12 +81,19 @@
             "breast",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034463.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chemotherapy"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "acid"
+      ],
+      "id": "NCT00034463"
 }

@@ -52,14 +52,17 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zalcitabine"
+            "Saquinavir",
+            "Zidovudine",
+            "Zalcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -197,12 +200,20 @@
             "proteinase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001040.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "protease",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001040"
 }

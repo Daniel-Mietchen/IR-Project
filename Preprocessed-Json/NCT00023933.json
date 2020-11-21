@@ -159,26 +159,29 @@
             "progression"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "iodine",
-            "131",
-            "monoclonal",
-            "antibody"
+            "iodine I 131 monoclonal antibody CC49-deltaCH2"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "monoclonal",
             "antibody"
       ],
@@ -317,12 +320,17 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023933.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00023933"
 }

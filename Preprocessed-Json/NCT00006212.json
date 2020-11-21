@@ -211,15 +211,19 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "vinblastine sulfate",
+            "phosphorus P32",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -341,12 +345,23 @@
             "primary",
             "site"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006212.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00006212"
 }

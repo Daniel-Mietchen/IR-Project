@@ -219,30 +219,86 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iii",
+            "colon",
+            "cancer",
+            "iii",
+            "rectal",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bevacizumab",
+            "oxaliplatin",
+            "leucovorin calcium",
             "fluorouracil"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "bevacizumab",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "iii",
+            "bevacizumab",
+            "bevacizumab",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "ii",
+            "oxaliplatin",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "bevacizumab",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
+            "ii",
+            "oxaliplatin",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "bevacizumab",
+            "oxaliplatin",
+            "leucovorin",
+            "fluorouracil",
             "ii",
             "oxaliplatin",
             "leucovorin",
             "calcium",
             "fluorouracil"
       ],
-      "other_name": [],
+      "other_name": [
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -429,12 +485,19 @@
             "oxaliplatin",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025337.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "dietary",
+            "monoclonal"
+      ],
+      "id": "NCT00025337"
 }

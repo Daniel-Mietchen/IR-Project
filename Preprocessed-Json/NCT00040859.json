@@ -148,17 +148,19 @@
             "year"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "capecitabine",
             "oxaliplatin"
       ],
       "arm_group_label": [
-            "oxaliplatin",
+            "capecitabine",
             "capecitabine"
       ],
       "criteria": [
@@ -380,12 +382,20 @@
             "oxaliplatin",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040859.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00040859"
 }

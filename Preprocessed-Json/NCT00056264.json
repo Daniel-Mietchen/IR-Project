@@ -170,13 +170,15 @@
             "24"
       ],
       "condition": [
-            "copd"
+            "obstructive",
+            "pulmonary",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab"
+            "Infliximab"
       ],
       "criteria": [
             "inclusion",
@@ -224,12 +226,23 @@
             "1",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056264.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "remicade"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive"
+      ],
+      "id": "NCT00056264"
 }

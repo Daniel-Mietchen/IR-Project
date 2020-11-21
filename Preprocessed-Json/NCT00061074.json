@@ -26,15 +26,14 @@
             "replacement"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nicotrol"
+            "Nicotrol"
       ],
       "criteria": [
             "inclusion",
@@ -54,9 +53,7 @@
             "disease",
             "exclude"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -65,6 +62,13 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061074.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "smoke"
+      ],
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00061074"
 }

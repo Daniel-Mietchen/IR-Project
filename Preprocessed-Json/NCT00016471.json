@@ -143,15 +143,18 @@
             "gene"
       ],
       "condition": [
-            "congenital",
+            "syndrome",
+            "pigmentosa",
             "hear",
             "impairment"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "electroretinogram"
+            "Audiogram",
+            "Electroretinogram"
       ],
       "criteria": [
             "inclusion",
@@ -187,9 +190,14 @@
             "usher",
             "syndrome"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016471.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pigmentosa",
+            "syndrome",
+            "loss"
+      ],
+      "id": "NCT00016471"
 }

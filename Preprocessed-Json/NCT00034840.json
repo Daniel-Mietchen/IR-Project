@@ -53,15 +53,12 @@
             "treatment",
             "period"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "telmisartan",
-            "valsartan"
+            "telmisartan, valsartan"
       ],
       "criteria": [
             "inclusion",
@@ -394,12 +391,16 @@
             "comply",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034840.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "boehringer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00034840"
 }

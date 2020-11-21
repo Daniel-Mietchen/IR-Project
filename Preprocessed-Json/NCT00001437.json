@@ -146,11 +146,10 @@
             "response"
       ],
       "condition": [
-            "radiation",
             "injury"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pentoxifylline"
@@ -312,9 +311,15 @@
             "fertile",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001437.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "trental"
+      ],
+      "mesh_term": [
+            "injury"
+      ],
+      "id": "NCT00001437"
 }

@@ -43,13 +43,16 @@
             "divalproex"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "olanzapine",
+            "divalproex sodium",
             "placebo"
       ],
       "criteria": [
@@ -136,7 +139,7 @@
             "study",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -145,6 +148,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094549.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "acid"
+      ],
+      "id": "NCT00094549"
 }

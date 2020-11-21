@@ -34,14 +34,14 @@
             "regimen"
       ],
       "condition": [
-            "gastroesophageal",
+            "stomach",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pegamotecan"
+            "Pegamotecan"
       ],
       "criteria": [
             "inclusion",
@@ -249,12 +249,20 @@
             "camptothecin",
             "analog"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gastric",
+            "neoplasm"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00080002"
 }

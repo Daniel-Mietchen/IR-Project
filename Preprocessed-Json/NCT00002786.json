@@ -127,17 +127,15 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "tumor",
-            "infiltrate",
-            "lymphocyte"
+            "aldesleukin",
+            "therapeutic tumor infiltrating lymphocytes"
       ],
       "criteria": [
             "disease",
@@ -349,7 +347,7 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -358,6 +356,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002786.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002786"
 }

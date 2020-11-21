@@ -185,33 +185,53 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "lung",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
             "ib",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "conventional",
-            "surgery"
+            "paclitaxel",
+            "carboplatin",
+            "therapeutic conventional surgery"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
             "surgery"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "surgery",
+            "chemotherapy",
+            "ii",
+            "surgery",
+            "chemotherapy",
+            "surgery",
+            "observation",
             "ii",
             "surgery",
             "chemotherapy"
       ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -309,12 +329,16 @@
             "x",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002852.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00002852"
 }

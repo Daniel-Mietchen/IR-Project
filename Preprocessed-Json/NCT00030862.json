@@ -131,15 +131,15 @@
             "year"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "cisplatin",
+            "irinotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -431,12 +431,19 @@
             "phenytoin",
             "phenobarbital"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030862.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030862"
 }

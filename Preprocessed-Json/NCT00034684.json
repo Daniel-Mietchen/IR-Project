@@ -42,17 +42,17 @@
             "leukemia"
       ],
       "condition": [
-            "leukemia",
+            "syndrome",
+            "myeloid",
+            "chronic",
+            "crisis",
             "lymphocytic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "farnesyl",
-            "protein",
-            "transferase",
-            "inhibitor"
+            "Farnesyl Protein Transferase Inhibitor"
       ],
       "criteria": [
             "inclusion",
@@ -122,12 +122,25 @@
             "prior",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034684.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukemia",
+            "lymphocytic"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "lymphoid",
+            "crisis",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00034684"
 }

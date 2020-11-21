@@ -195,14 +195,12 @@
             "event",
             "observe"
       ],
-      "condition": [
-            "glioblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "transmid"
+            "TransMID"
       ],
       "criteria": [
             "inclusion",
@@ -569,9 +567,13 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gbm"
+      ],
+      "mesh_term": [],
+      "id": "NCT00088400"
 }

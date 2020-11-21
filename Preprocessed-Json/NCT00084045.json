@@ -264,15 +264,15 @@
             "age"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "postpartum",
-            "hiv"
+            "Intrapartum HIV counseling/testing",
+            "Postpartum HIV counseling/testing"
       ],
       "criteria": [
             "inclusion",
@@ -330,14 +330,19 @@
             "require",
             "abortion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084045.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "perinatal",
+            "transmission"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00084045"
 }

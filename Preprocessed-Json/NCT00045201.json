@@ -76,7 +76,6 @@
             "relation",
             "presence",
             "absence",
-            "28",
             "polymorphism",
             "patient",
             "advance",
@@ -240,28 +239,33 @@
             "month"
       ],
       "condition": [
-            "adult",
             "solid",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "Erlotinib Hydrochloride",
+            "Irinotecan Hydrochloride"
       ],
       "description": [
-            "give",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "enzyme",
+            "inhibitor",
+            "chemotherapy",
             "enzyme",
             "inhibitor",
             "chemotherapy"
       ],
-      "other_name": [],
+      "other_name": [
+            "11",
+            "11"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -517,12 +521,15 @@
             "therapeutic",
             "intent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045201.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00045201"
 }

@@ -364,13 +364,14 @@
             "ps"
       ],
       "condition": [
-            "xerostomia"
+            "sjogren",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "Thalidomide"
       ],
       "criteria": [
             "primary",
@@ -411,11 +412,17 @@
             "study",
             "participant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001599.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dry",
+            "mouth"
+      ],
+      "mesh_term": [
+            "sjogren",
+            "syndrome"
+      ],
+      "id": "NCT00001599"
 }

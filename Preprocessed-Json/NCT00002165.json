@@ -53,15 +53,13 @@
             "failure"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -112,12 +110,18 @@
             "saquinavir",
             "ritonavir"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002165.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002165"
 }

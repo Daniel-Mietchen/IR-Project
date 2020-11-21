@@ -726,7 +726,8 @@
             "treatment"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -787,7 +788,7 @@
             "medication",
             "status"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -796,6 +797,10 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005267.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005267"
 }

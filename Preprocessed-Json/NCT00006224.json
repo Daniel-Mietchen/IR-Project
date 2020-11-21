@@ -104,15 +104,13 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -263,14 +261,22 @@
             "preclude",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006224.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00006224"
 }

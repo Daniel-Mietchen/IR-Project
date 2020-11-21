@@ -201,7 +201,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -209,10 +208,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "morphine sulfate",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -355,12 +356,18 @@
             "mao",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020618.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [
+            "pain"
+      ],
+      "id": "NCT00020618"
 }

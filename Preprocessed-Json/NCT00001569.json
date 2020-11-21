@@ -186,13 +186,18 @@
             "chpp"
       ],
       "condition": [
-            "peritoneal",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Cisplatin",
+            "Paclitaxel",
+            "5-FU"
+      ],
       "criteria": [
             "patient",
             "must",
@@ -247,9 +252,16 @@
             "cm",
             "diameter"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001569.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "taxol"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00001569"
 }

@@ -273,7 +273,8 @@
             "success"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -283,9 +284,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -294,6 +293,10 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005699.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005699"
 }

@@ -230,13 +230,13 @@
             "assistance",
             "statistician"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "L-carnitine"
+      ],
       "criteria": [
             "inclusion",
             "patient",
@@ -299,12 +299,17 @@
             "seizure",
             "stroke"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034450.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "terminal",
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00034450"
 }

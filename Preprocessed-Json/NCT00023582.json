@@ -218,7 +218,9 @@
             "database"
       ],
       "condition": [
-            "syphilis"
+            "infection",
+            "genitalis",
+            "seronegativity"
       ],
       "criteria": [
             "inclusion",
@@ -273,14 +275,20 @@
             "participate",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023582.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "genitalis"
+      ],
+      "id": "NCT00023582"
 }

@@ -31,14 +31,15 @@
             "lymphoma"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "etoposide"
+            "Mitoxantrone hydrochloride",
+            "Etoposide"
       ],
       "criteria": [
             "inclusion",
@@ -173,12 +174,23 @@
             "pcp",
             "prophylaxis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002003.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "lymphoma",
+            "immunoblastic",
+            "phosphate"
+      ],
+      "id": "NCT00002003"
 }

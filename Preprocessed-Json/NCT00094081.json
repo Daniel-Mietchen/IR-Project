@@ -26,16 +26,18 @@
             "radiation"
       ],
       "condition": [
-            "head",
             "neck",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "tirapazamine (SR259075)",
+            "cisplatin",
+            "Radiation Therapy"
       ],
       "criteria": [
             "inclusion",
@@ -87,12 +89,19 @@
             "metastatic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094081.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hypopharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00094081"
 }

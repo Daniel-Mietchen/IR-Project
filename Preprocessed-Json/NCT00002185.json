@@ -104,15 +104,14 @@
             "period"
       ],
       "condition": [
-            "hiv",
+            "kaposi",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -301,12 +300,19 @@
             "abuse",
             "suspect"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002185.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "kaposi"
+      ],
+      "id": "NCT00002185"
 }

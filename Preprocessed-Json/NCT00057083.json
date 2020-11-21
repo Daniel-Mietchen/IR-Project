@@ -196,16 +196,16 @@
             "model"
       ],
       "condition": [
-            "remote",
+            "satisfaction",
             "consultation"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "telemedicine",
-            "care"
+            "Telemedicine Care"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -359,12 +359,15 @@
             "eligible",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relation"
+      ],
+      "id": "NCT00057083"
 }

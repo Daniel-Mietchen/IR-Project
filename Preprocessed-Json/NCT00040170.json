@@ -86,13 +86,14 @@
             "tolerate"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MVA-MUC1-IL2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -111,14 +112,19 @@
             "hormone",
             "treatment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040170.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00040170"
 }

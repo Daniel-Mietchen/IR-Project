@@ -107,27 +107,38 @@
             "relapse"
       ],
       "condition": [
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
             "ureter",
+            "urethral",
+            "cancer",
+            "cell",
+            "carcinoma",
+            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "arsenic trioxide"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "arsenic",
             "trioxide"
       ],
       "other_name": [
-            "trisenox"
+            "iii",
+            "oxide",
+            "sesquioxide",
+            "acid",
+            "anhydride"
       ],
       "criteria": [
             "inclusion",
@@ -231,12 +242,22 @@
             "x",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009867.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "neoplasm",
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "trioxide"
+      ],
+      "id": "NCT00009867"
 }

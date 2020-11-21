@@ -135,7 +135,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -143,11 +142,10 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "lurtotecan",
-            "liposome"
+            "lurtotecan liposome"
       ],
       "criteria": [
             "disease",
@@ -356,12 +354,21 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003891"
 }

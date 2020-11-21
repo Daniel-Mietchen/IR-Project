@@ -32,7 +32,12 @@
             "woman"
       ],
       "condition": [
-            "headache"
+            "fibroid",
+            "tract",
+            "infection",
+            "blood",
+            "pressure",
+            "disease"
       ],
       "criteria": [
             "inclusion",
@@ -79,14 +84,22 @@
             "menstrual",
             "symptom"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067249.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "social",
+            "determinant",
+            "health"
+      ],
+      "mesh_term": [
+            "disease",
+            "tract",
+            "infection"
+      ],
+      "id": "NCT00067249"
 }

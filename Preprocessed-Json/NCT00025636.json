@@ -419,18 +419,34 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carmustine",
+            "cisplatin",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "etoposide",
+            "melphalan",
+            "methotrexate",
+            "vincristine sulfate",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -616,7 +632,7 @@
             "methotrexate",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -625,6 +641,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025636.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00025636"
 }

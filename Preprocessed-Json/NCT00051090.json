@@ -184,17 +184,55 @@
             "week"
       ],
       "condition": [
-            "hepatitis",
+            "infection",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir"
+            "Telbivudine",
+            "Lamivudine",
+            "Efavirenz",
+            "Didanosine",
+            "Abacavir"
       ],
       "description": [
-            "administer",
+            "orally",
+            "daily",
+            "dosage",
+            "600",
+            "mg",
+            "period",
+            "48",
+            "week",
+            "orally",
+            "total",
+            "daily",
+            "dosage",
+            "300",
+            "mg",
+            "week",
+            "orally",
+            "daily",
+            "dose",
+            "600",
+            "mg",
+            "orally",
+            "total",
+            "dosage",
+            "either",
+            "400",
+            "mg",
+            "250",
+            "mg",
+            "determine",
+            "individual",
+            "weight",
             "orally",
             "twice",
             "daily",
@@ -336,12 +374,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051090.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "b"
+      ],
+      "id": "NCT00051090"
 }

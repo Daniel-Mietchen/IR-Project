@@ -175,15 +175,23 @@
             "week"
       ],
       "condition": [
-            "leukoencephalopathy",
+            "infection",
             "progressive",
             "multifocal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Filgrastim",
+            "Cytarabine",
+            "Zidovudine",
+            "Zalcitabine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -374,7 +382,7 @@
             "treatment",
             "pml"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -383,6 +391,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001048.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "injection",
+            "spinal"
+      ],
+      "mesh_term": [
+            "infection",
+            "progressive",
+            "multifocal"
+      ],
+      "id": "NCT00001048"
 }

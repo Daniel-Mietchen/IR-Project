@@ -45,26 +45,64 @@
             "tolerate"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Albumin-bound paclitaxel",
+            "Carboplatin",
+            "Herceptin\u00ae"
+      ],
       "description": [
-            "administer",
+            "intravenous",
+            "infusion",
+            "dose",
+            "calculate",
+            "use",
+            "modify",
+            "calvert",
+            "formula",
+            "creatinine",
+            "clearance",
+            "substitute",
+            "gfr",
+            "total",
+            "dose",
+            "mg",
+            "target",
+            "auc",
+            "x",
+            "creatinine",
+            "clearance",
+            "25",
+            "note",
+            "auc",
+            "6",
+            "initially",
+            "target",
+            "could",
+            "decrease",
+            "due",
+            "toxicity",
             "iv",
             "infusion"
       ],
       "arm_group_label": [
             "paclitaxel",
             "carboplatin",
+            "herceptin",
+            "paclitaxel",
+            "carboplatin",
+            "herceptin",
+            "paclitaxel",
+            "carboplatin",
             "herceptin"
       ],
-      "other_name": [
-            "trastuzumab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -253,14 +291,21 @@
             "nurse",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093145.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00093145"
 }

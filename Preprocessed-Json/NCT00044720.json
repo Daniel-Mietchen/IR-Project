@@ -24,13 +24,17 @@
       ],
       "condition": [
             "kidney",
+            "failure",
+            "v",
+            "host",
+            "disease",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rapamune"
+            "Rapamune"
       ],
       "criteria": [
             "inclusion",
@@ -63,12 +67,24 @@
             "patient",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044720.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "transplant"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "v",
+            "host",
+            "disease",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00044720"
 }

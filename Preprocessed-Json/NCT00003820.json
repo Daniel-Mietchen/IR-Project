@@ -95,15 +95,14 @@
             "month"
       ],
       "condition": [
-            "hodgkin",
             "lymphoma",
             "category"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Rituximab"
       ],
       "description": [
             "initial",
@@ -334,12 +333,15 @@
             "infection",
             "hepatitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003820.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00003820"
 }

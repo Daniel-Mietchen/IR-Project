@@ -113,10 +113,11 @@
             "accrue"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "aldesleukin"
@@ -260,12 +261,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00002746"
 }

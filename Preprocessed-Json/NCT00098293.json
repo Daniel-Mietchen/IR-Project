@@ -245,13 +245,32 @@
       ],
       "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "maraviroc"
+            "Maraviroc + Zidovudine/Lamivudine",
+            "Efavirenz + Zidovudine/Lamivudine",
+            "Maraviroc (UK-427,857) + Zidovudine/Lamivudine"
       ],
       "description": [
-            "maraviroc",
+            "300",
+            "mg",
+            "daily",
+            "add",
+            "300",
+            "mg",
+            "twice",
+            "daily",
+            "600",
+            "mg",
+            "daily",
+            "add",
+            "300",
+            "mg",
+            "twice",
+            "daily",
             "300",
             "mg",
             "twice",
@@ -262,9 +281,7 @@
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -433,12 +450,16 @@
             "ability",
             "evaluate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098293.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00098293"
 }

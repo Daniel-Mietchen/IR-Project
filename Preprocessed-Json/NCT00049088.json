@@ -170,29 +170,48 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "docetaxel",
+            "bevacizumab",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "docetaxel",
+            "bevacizumab",
+            "docetaxel",
+            "bevacizumab",
+            "docetaxel",
+            "bevacizumab",
             "docetaxel",
             "bevacizumab"
       ],
       "other_name": [
-            "pharmacological",
+            "56976",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
             "study"
       ],
       "criteria": [
@@ -396,12 +415,15 @@
             "commercial",
             "investigational"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049088.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00049088"
 }

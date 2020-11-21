@@ -183,19 +183,18 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "autologous",
-            "cytotoxic",
-            "lymphocyte"
+            "allogeneic Epstein-Barr virus-specific cytotoxic T lymphocytes",
+            "autologous Epstein-Barr virus-specific cytotoxic T lymphocytes"
       ],
       "criteria": [
             "disease",
@@ -287,9 +286,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005606.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "disorder"
+      ],
+      "id": "NCT00005606"
 }

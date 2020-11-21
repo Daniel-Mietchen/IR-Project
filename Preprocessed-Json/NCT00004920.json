@@ -168,13 +168,14 @@
             "month"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
             "raltitrexed"
       ],
       "criteria": [
@@ -361,12 +362,20 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004920.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004920"
 }

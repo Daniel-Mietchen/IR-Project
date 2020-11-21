@@ -176,15 +176,13 @@
             "ped"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gpi",
-            "1485"
+            "GPI 1485"
       ],
       "criteria": [
             "inclusion",
@@ -442,9 +440,7 @@
             "end",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -453,6 +449,13 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090376.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostatectomy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "dysfunction"
+      ],
+      "id": "NCT00090376"
 }

@@ -207,18 +207,24 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leuprolide",
-            "acetate"
+            "Flutamide",
+            "Leuprolide Acetate"
       ],
       "description": [
-            "50",
+            "mg",
+            "intramuscularly",
+            "every",
+            "3",
+            "month",
+            "12",
+            "month",
             "mg",
             "tablet",
             "orally",
@@ -227,13 +233,12 @@
             "month"
       ],
       "arm_group_label": [
-            "arm",
+            "leuprolide",
+            "flutamide",
             "leuprolide",
             "flutamide"
       ],
-      "other_name": [
-            "bicalutamide"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -389,11 +394,18 @@
             "compliance",
             "protocol"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003645"
 }

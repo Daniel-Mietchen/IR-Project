@@ -196,21 +196,32 @@
             "month"
       ],
       "condition": [
-            "neurotoxicity"
+            "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Ginkgo Biloba",
+            "Placebo"
       ],
       "description": [
-            "patient",
+            "take",
+            "120",
+            "mg",
+            "per",
+            "day",
+            "60",
+            "mg",
+            "bid",
             "take",
             "1",
             "tablet",
             "bid"
       ],
       "arm_group_label": [
-            "placebo"
+            "biloba"
       ],
       "criteria": [
             "disease",
@@ -373,14 +384,22 @@
             "indapamide",
             "metolazone"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "syndrome"
+      ],
+      "id": "NCT00046891"
 }

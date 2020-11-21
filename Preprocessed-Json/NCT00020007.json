@@ -173,15 +173,18 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermia",
-            "treatment"
+            "isolated perfusion",
+            "paclitaxel",
+            "hyperthermia treatment"
       ],
       "criteria": [
             "disease",
@@ -455,12 +458,22 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020007.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "carcinoid",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00020007"
 }

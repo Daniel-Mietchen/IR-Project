@@ -35,29 +35,73 @@
             "transplantation"
       ],
       "condition": [
-            "heart",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Daclizumab",
+            "Methylprednisolone",
+            "Mycophenolate mofetil",
+            "Placebo",
             "cyclosporine"
       ],
       "description": [
-            "cyclosporine",
+            "administer",
+            "1",
+            "iv",
+            "within",
+            "12",
+            "hour",
+            "day",
+            "1",
+            "day",
+            "8",
+            "22",
+            "36",
+            "50",
+            "administer",
+            "mg",
+            "iv",
+            "switch",
+            "oral",
+            "follow",
+            "taper",
+            "till",
+            "365",
+            "day",
+            "mofetil",
+            "administer",
+            "gram",
+            "bid",
+            "begin",
+            "either",
+            "iv",
+            "orally",
+            "require",
+            "365",
+            "day",
+            "placebo",
+            "administer",
+            "day",
+            "1",
+            "8",
+            "22",
+            "36",
+            "50",
             "administer",
             "iv",
             "orally",
             "365",
             "day"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "zenapax"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -221,12 +265,22 @@
             "72",
             "hour"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048165.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mofetil",
+            "g",
+            "acid",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00048165"
 }

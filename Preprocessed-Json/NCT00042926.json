@@ -90,21 +90,31 @@
             "patient"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "technetium",
-            "tc",
-            "sulfur",
-            "colloid"
+            "immunohistochemistry staining method",
+            "conventional surgery",
+            "lymphangiography",
+            "radionuclide imaging",
+            "sentinel lymph node biopsy",
+            "technetium Tc 99m sulfur colloid"
       ],
       "arm_group_label": [
-            "radiolymphoscintigraphy",
+            "surgery",
+            "surgery",
+            "surgery",
+            "surgery",
+            "surgery",
             "surgery"
       ],
       "criteria": [
@@ -361,12 +371,31 @@
             "hour",
             "radiolymphoscintigraphy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042926.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "tc",
+            "sulfur",
+            "colloid"
+      ],
+      "id": "NCT00042926"
 }

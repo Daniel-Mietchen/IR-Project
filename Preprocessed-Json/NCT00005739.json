@@ -271,29 +271,41 @@
             "1994"
       ],
       "condition": [
-            "tuberculosis"
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "clinic",
+            "Community-based directly observed therapy (DOT)",
+            "Clinic directly observed therapy (DOT)"
+      ],
+      "description": [
+            "intervention",
+            "conduct",
+            "train",
+            "graduate",
+            "tb",
             "directly",
             "observe",
             "therapy",
-            "dot"
-      ],
-      "description": [
+            "dot",
+            "program",
+            "peer",
+            "worker",
             "traditional",
             "preventive",
             "treatment"
       ],
       "arm_group_label": [
+            "therapy",
+            "case",
             "treatment",
             "control"
       ],
       "other_name": [
-            "clinic",
+            "dot",
             "dot"
       ],
       "study_pop": [],
@@ -318,12 +330,15 @@
             "york",
             "city"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005739.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005739"
 }

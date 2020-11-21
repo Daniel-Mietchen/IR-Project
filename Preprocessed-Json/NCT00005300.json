@@ -353,21 +353,25 @@
             "year"
       ],
       "condition": [
-            "blood",
+            "sickle",
+            "cell",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005300.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00005300"
 }

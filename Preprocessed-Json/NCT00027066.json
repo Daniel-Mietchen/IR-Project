@@ -160,23 +160,42 @@
             "stroke",
             "patient"
       ],
-      "condition": [
-            "stroke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "warfarin",
-            "placebo"
+            "Active Aspirin",
+            "Active Warfarin",
+            "Aspirin placebo",
+            "Warfarin placebo"
       ],
       "description": [
+            "tablet",
+            "daily",
+            "score",
+            "tablet",
+            "daily",
+            "aspirin",
+            "placebo",
+            "pill",
             "score",
             "placebo",
             "tablet"
       ],
       "arm_group_label": [
-            "active",
+            "aspirin",
+            "warfarin",
+            "placebo",
+            "warfarin",
+            "aspirin",
+            "placebo",
+            "warfarin",
+            "aspirin",
+            "placebo",
             "aspirin",
             "warfarin",
             "placebo"
@@ -218,7 +237,7 @@
             "cardioembolic",
             "source"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -227,6 +246,10 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027066.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "warfarin"
+      ],
+      "mesh_term": [],
+      "id": "NCT00027066"
 }

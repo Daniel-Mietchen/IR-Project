@@ -243,13 +243,23 @@
             "study"
       ],
       "condition": [
-            "oropharyngeal",
+            "oral",
+            "cavity",
+            "cancer",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "cisplatin",
+            "fluorouracil",
+            "ONYX-015"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -475,7 +485,7 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -484,6 +494,21 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006106.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006106"
 }

@@ -377,7 +377,7 @@
             "strategy"
       ],
       "condition": [
-            "healthy"
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -530,12 +530,18 @@
             "mb",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013832.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dysphagia"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00013832"
 }

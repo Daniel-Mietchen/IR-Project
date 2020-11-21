@@ -1175,7 +1175,16 @@
             "qvr"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "disease",
+            "infarction",
+            "failure",
+            "mellitus",
+            "type",
+            "2",
             "mellitus"
       ],
       "study_pop": [],
@@ -1186,7 +1195,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -1195,6 +1204,25 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus",
+            "dependent"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "failure",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "disease",
+            "infarction",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00005487"
 }

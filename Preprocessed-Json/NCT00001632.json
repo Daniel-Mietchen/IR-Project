@@ -285,7 +285,7 @@
             "hcm"
       ],
       "condition": [
-            "leave",
+            "cardiomyopathy",
             "ventricular",
             "hypertrophy"
       ],
@@ -396,9 +396,18 @@
             "form",
             "cardiomyopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001632.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hypertrophic",
+            "cardiomyopathy"
+      ],
+      "mesh_term": [
+            "hypertrophic",
+            "leave",
+            "ventricular"
+      ],
+      "id": "NCT00001632"
 }

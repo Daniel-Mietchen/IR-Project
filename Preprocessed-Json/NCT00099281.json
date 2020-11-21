@@ -69,14 +69,13 @@
             "function"
       ],
       "condition": [
-            "metastasis"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ymb",
-            "1002"
+            "YMB 1002"
       ],
       "criteria": [
             "inclusion",
@@ -103,14 +102,20 @@
             "quality",
             "life"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099281.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00099281"
 }

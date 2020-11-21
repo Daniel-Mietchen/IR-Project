@@ -154,29 +154,52 @@
             "month"
       ],
       "condition": [
-            "relapse",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelogenous",
+            "leukemia",
+            "positive",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "decitabine",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
+            "decitabine",
+            "imatinib",
+            "mesylate",
+            "decitabine",
             "imatinib",
             "mesylate",
             "decitabine"
       ],
       "other_name": [
-            "dac"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -289,9 +312,20 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054431.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "myeloid",
+            "accelerate",
+            "phase",
+            "mesylate"
+      ],
+      "id": "NCT00054431"
 }

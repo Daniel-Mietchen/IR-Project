@@ -181,18 +181,54 @@
             "arm"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "dexamethasone",
+            "floxuridine",
+            "fluorouracil",
+            "leucovorin calcium",
+            "laparotomy",
+            "conventional surgery"
       ],
       "arm_group_label": [
-            "arm",
+            "laparotomy",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "laparotomy",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "ii",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "laparotomy",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "ii",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "laparotomy",
+            "conventional",
+            "surgery",
+            "chemotherapy",
+            "laparotomy",
+            "conventional",
+            "surgery",
+            "chemotherapy",
             "ii",
             "conventional",
             "surgery",
@@ -404,12 +440,22 @@
             "radiotherapy",
             "liver"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002716.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00002716"
 }

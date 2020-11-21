@@ -21,13 +21,14 @@
             "melanoma"
       ],
       "condition": [
-            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "talabostat (PT-100) tablets",
             "cisplatin"
       ],
       "criteria": [
@@ -165,12 +166,15 @@
             "lactate",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083252.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00083252"
 }

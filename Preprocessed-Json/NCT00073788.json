@@ -264,18 +264,16 @@
             "hrv"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "pet",
-            "scan"
+            "PET Scans"
       ],
       "description": [
-            "pet",
             "scan",
             "look",
             "coronary",
@@ -296,7 +294,7 @@
             "artery"
       ],
       "arm_group_label": [
-            "control",
+            "ptsd",
             "group"
       ],
       "study_pop": [],
@@ -414,7 +412,7 @@
             "examination",
             "period"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -423,6 +421,13 @@
             "68",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073788.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disorder",
+            "traumatic",
+            "disorder"
+      ],
+      "id": "NCT00073788"
 }

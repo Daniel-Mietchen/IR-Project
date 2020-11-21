@@ -128,15 +128,17 @@
             "specify"
       ],
       "condition": [
-            "melanoma",
+            "cancer",
+            "cancer",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "Corynebacterium granulosum P40",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -201,7 +203,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -210,6 +212,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002455.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002455"
 }

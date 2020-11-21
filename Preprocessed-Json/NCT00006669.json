@@ -142,15 +142,26 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "rituximab",
+            "sargramostim",
+            "EPOCH regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -267,7 +278,6 @@
             "platelet",
             "count",
             "least",
-            "unless",
             "bone",
             "marrow",
             "involvement",
@@ -333,12 +343,23 @@
             "prior",
             "rituximab"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00006669"
 }

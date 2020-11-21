@@ -174,13 +174,20 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Combination Vaccine (NefTat and gp120W61D) Formulated with AS02A",
+            "NefTat",
+            "AS02A Adjuvant",
+            "gp120W61D"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -351,7 +358,7 @@
             "contract",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -360,6 +367,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027365.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "gene",
+            "product",
+            "nef"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00027365"
 }

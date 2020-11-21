@@ -214,20 +214,20 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "magnetic",
-            "resonance",
-            "spectroscopic",
-            "image"
+            "conventional surgery",
+            "magnetic resonance imaging",
+            "magnetic resonance spectroscopic imaging"
       ],
       "criteria": [
             "disease",
@@ -286,7 +286,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -295,6 +295,18 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00005083"
 }

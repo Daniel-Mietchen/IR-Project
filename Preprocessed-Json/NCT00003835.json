@@ -274,23 +274,54 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "colon",
             "iii",
             "colon",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "leucovorin calcium",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "ii",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "irinotrcan",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "ii",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "irinotrcan",
+            "ii",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
+            "irinotrcan",
+            "leucovorin",
+            "calcium",
+            "fluorouracil",
             "ii",
             "leucovorin",
             "calcium",
@@ -395,12 +426,16 @@
             "limit",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003835.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "dietary"
+      ],
+      "id": "NCT00003835"
 }

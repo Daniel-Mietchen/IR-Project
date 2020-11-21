@@ -249,14 +249,14 @@
             "information"
       ],
       "condition": [
-            "diabetes",
+            "fibrosis",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ibuprofen"
+            "Ibuprofen"
       ],
       "criteria": [
             "cystic",
@@ -265,7 +265,7 @@
             "glucose",
             "tolerance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -274,6 +274,10 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082238.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "fibrosis"
+      ],
+      "id": "NCT00082238"
 }

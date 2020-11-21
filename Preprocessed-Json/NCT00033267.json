@@ -125,26 +125,24 @@
             "year"
       ],
       "condition": [
-            "recurrent",
             "mantle",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temsirolimus"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -389,12 +387,13 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033267.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00033267"
 }

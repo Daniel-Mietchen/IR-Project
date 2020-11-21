@@ -181,15 +181,30 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "melanoma",
+            "iv",
+            "renal",
+            "cell",
+            "cancer",
+            "renal",
+            "cell",
+            "cancer",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "flt3 ligand",
+            "gp100 antigen",
+            "MART-1 antigen",
+            "Montanide ISA-51",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "protocol",
@@ -323,8 +338,20 @@
             "autoimmune",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "id": "NCT00019396.xml"
+      "keyword": [
+            "stage",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "ligand",
+            "protein"
+      ],
+      "id": "NCT00019396"
 }

@@ -230,7 +230,14 @@
             "year"
       ],
       "condition": [
-            "quality",
+            "breast",
+            "cancer",
+            "iiia",
+            "breast",
+            "cancer",
+            "ii",
+            "breast",
+            "cancer",
             "life"
       ],
       "criteria": [
@@ -329,7 +336,7 @@
             "hypothyroidism",
             "hyperthyroidism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -338,5 +345,13 @@
             "80",
             "year"
       ],
-      "id": "NCT00019643.xml"
+      "keyword": [
+            "stage",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00019643"
 }

@@ -101,17 +101,14 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "graft versus host disease prophylaxis/therapy",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -231,12 +228,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003538.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00003538"
 }

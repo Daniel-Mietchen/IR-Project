@@ -89,15 +89,14 @@
             "suffer",
             "mortality"
       ],
-      "condition": [
-            "smoke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "transdermal",
-            "nicotine"
+            "Naltrexone Hydrochloride",
+            "Transdermal Nicotine"
       ],
       "criteria": [
             "adult",
@@ -130,7 +129,7 @@
             "use",
             "history"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -139,6 +138,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018213.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "tobacco",
+            "dependence"
+      ],
+      "mesh_term": [],
+      "id": "NCT00018213"
 }

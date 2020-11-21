@@ -77,14 +77,12 @@
             "treatment",
             "day",
             "fludarabine",
-            "campath",
             "iv",
             "day",
             "day",
             "rest",
             "day",
             "0",
-            "stem",
             "cell",
             "transplant",
             "infusion",
@@ -252,16 +250,19 @@
             "stimulation"
       ],
       "condition": [
-            "graft",
             "failure"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplantation"
+            "Fludarabine",
+            "CAMPATH 1H",
+            "FK506",
+            "Stem Cell Transplantation"
       ],
       "criteria": [
             "inclusion",
@@ -443,12 +444,13 @@
             "hematological",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048399.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00048399"
 }

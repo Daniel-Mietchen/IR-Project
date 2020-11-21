@@ -148,15 +148,17 @@
             "study"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "radiosurgery"
+            "surgical procedure",
+            "radiation therapy",
+            "stereotactic radiosurgery"
       ],
       "criteria": [
             "inclusion",
@@ -255,12 +257,20 @@
             "sit",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003320.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00003320"
 }

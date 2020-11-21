@@ -165,11 +165,10 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "capecitabine"
@@ -182,9 +181,7 @@
             "day",
             "cycle"
       ],
-      "arm_group_label": [
-            "capecitabine"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
@@ -340,12 +337,21 @@
             "sorivudine",
             "brivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049335.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00049335"
 }

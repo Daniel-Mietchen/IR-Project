@@ -182,16 +182,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "pain"
+      "condition": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
+            "gabapentin",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -358,10 +358,8 @@
             "concurrent",
             "monoamine",
             "oxidase",
-            "inhibitor",
             "concurrent",
             "opioid",
-            "analgesic",
             "concurrent",
             "adjuvant",
             "analgesic",
@@ -389,12 +387,22 @@
             "peripheral",
             "neuropathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027963.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [
+            "nervous",
+            "system",
+            "disease",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00027963"
 }

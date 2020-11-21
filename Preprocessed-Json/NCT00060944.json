@@ -117,17 +117,49 @@
             "prior",
             "infusion"
       ],
-      "condition": [
-            "leiomyosarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Yondelis",
+            "Yondelis",
+            "Dexamethasone",
+            "Dexamethasone"
       ],
       "description": [
-            "pretreatment",
+            "administer",
+            "infusion",
+            "day",
+            "1",
+            "every",
+            "treatment",
+            "cycle",
+            "administer",
+            "infusion",
+            "day",
+            "1",
+            "8",
+            "15",
+            "treatment",
+            "cycle",
+            "10",
+            "mg",
+            "dexamethasone",
+            "30",
+            "minute",
+            "prior",
+            "yondelis",
+            "infusion",
+            "day",
+            "1",
+            "8",
+            "15",
+            "treatment",
+            "cycle",
             "20",
             "mg",
             "dexamethasone",
@@ -143,7 +175,14 @@
             "infusion"
       ],
       "arm_group_label": [
-            "yondelis",
+            "every",
+            "3",
+            "week",
+            "schedule",
+            "weekly",
+            "schedule",
+            "weekly",
+            "schedule",
             "every",
             "3",
             "week",
@@ -252,12 +291,19 @@
             "year",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060944.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic"
+      ],
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00060944"
 }

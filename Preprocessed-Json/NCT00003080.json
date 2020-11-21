@@ -263,18 +263,23 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "endocrine-modulating drug therapy",
+            "melphalan",
+            "mitoxantrone hydrochloride",
+            "tamoxifen citrate",
+            "thiotepa",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -375,9 +380,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -386,6 +389,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003080.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003080"
 }

@@ -169,26 +169,36 @@
             "center"
       ],
       "condition": [
-            "anemia",
+            "disease",
+            "stem",
+            "cell",
+            "transplantation",
             "sickle",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "immunosuppression"
+            "Hematopoietic Stem Cell Transplantation",
+            "Immunosuppression"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029393.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00029393"
 }

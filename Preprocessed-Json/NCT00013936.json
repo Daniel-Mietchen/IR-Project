@@ -452,7 +452,6 @@
             "evaluate"
       ],
       "condition": [
-            "vision",
             "disorder"
       ],
       "criteria": [
@@ -545,9 +544,17 @@
             "require",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013936.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "visual",
+            "acuity",
+            "test"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00013936"
 }

@@ -269,7 +269,11 @@
             "death"
       ],
       "condition": [
-            "diabetes",
+            "mellitus",
+            "dependent",
+            "disease",
+            "infarction",
+            "disease",
             "mellitus"
       ],
       "criteria": [
@@ -286,12 +290,21 @@
             "30",
             "minority"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031213.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "infarction",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00031213"
 }

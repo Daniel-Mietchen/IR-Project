@@ -181,17 +181,22 @@
             "8",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "alemtuzumab",
+            "fludarabine phosphate"
       ],
       "description": [
+            "mg",
+            "subq",
+            "injection",
+            "tiw",
+            "6",
+            "week",
             "iv",
             "infusion",
             "x",
@@ -203,9 +208,7 @@
             "9",
             "13"
       ],
-      "arm_group_label": [
-            "fludarabine"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "1",
@@ -429,12 +432,23 @@
             "test",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004857.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00004857"
 }

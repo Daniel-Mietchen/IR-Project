@@ -239,7 +239,18 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "myeloproliferative",
+            "disorder",
+            "sweat",
+            "hot",
+            "flash",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "neoplasm",
+            "condition",
             "adult",
             "solid",
             "tumor",
@@ -247,12 +258,16 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "amoxicillin-clavulanate potassium",
+            "ciprofloxacin",
+            "moxifloxacin hydrochloride",
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -556,12 +571,38 @@
             "qtc",
             "interval"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062231.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "flash",
+            "disorder",
+            "disease",
+            "condition",
+            "acid",
+            "clavulanate",
+            "combination",
+            "acid",
+            "ethinyl",
+            "estradiol",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00062231"
 }

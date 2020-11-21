@@ -246,7 +246,9 @@
             "state"
       ],
       "condition": [
-            "ovarian",
+            "neoplasm",
+            "neoplastic",
+            "syndrome",
             "neoplasm"
       ],
       "criteria": [
@@ -258,9 +260,20 @@
             "institution",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001898.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "express",
+            "sequence",
+            "tag"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "syndrome",
+            "hereditary"
+      ],
+      "id": "NCT00001898"
 }

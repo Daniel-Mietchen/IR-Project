@@ -240,7 +240,8 @@
             "sample"
       ],
       "condition": [
-            "blood",
+            "disease",
+            "disease",
             "coagulation",
             "disorder"
       ],
@@ -256,12 +257,19 @@
             "mesa",
             "sit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091494.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "coagulation",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00091494"
 }

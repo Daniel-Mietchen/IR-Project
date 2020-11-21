@@ -306,21 +306,25 @@
             "patient"
       ],
       "condition": [
-            "bipolar",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Procedure"
       ],
       "intervention_name": [
-            "align",
-            "prescription",
-            "fall",
-            "due",
-            "date"
+            "Unit of use medication packaging",
+            "Mailed reminders to patient when medication refills are due",
+            "Note to Mental Health Provider when refill is overdue",
+            "Aligning all prescriptions to fall due on same date"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "1",
+            "1",
             "1"
       ],
       "criteria": [
@@ -375,12 +379,21 @@
             "2",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antipsychotic",
+            "agent"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00057135"
 }

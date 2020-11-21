@@ -102,15 +102,18 @@
             "allow"
       ],
       "condition": [
-            "respiratory",
             "distress",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hormone"
+            "betamethasone",
+            "dexamethasone",
+            "thyrotropin-releasing hormone"
       ],
       "criteria": [
             "protocol",
@@ -197,11 +200,23 @@
             "research",
             "project"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004778.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "distress",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "hormone"
+      ],
+      "id": "NCT00004778"
 }

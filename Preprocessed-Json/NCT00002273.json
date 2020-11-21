@@ -36,14 +36,13 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -303,14 +302,23 @@
             "antimetabolite",
             "interferon"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002273.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "triphosphate"
+      ],
+      "id": "NCT00002273"
 }

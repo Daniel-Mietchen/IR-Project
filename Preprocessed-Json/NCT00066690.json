@@ -199,18 +199,69 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "receptor",
+            "positive",
+            "breast",
+            "cancer",
+            "receptor",
+            "positive",
+            "tumor",
+            "breast",
+            "carcinoma",
+            "ia",
+            "breast",
+            "cancer",
+            "ib",
+            "breast",
+            "cancer",
+            "iia",
+            "breast",
+            "cancer",
+            "iib",
+            "breast",
+            "cancer",
             "iiia",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Procedure",
+            "Other",
+            "Radiation",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "triptorelin"
+            "Exemestane",
+            "Laboratory Biomarker Analysis",
+            "Oophorectomy",
+            "Quality-of-Life Assessment",
+            "Radiation Therapy",
+            "Tamoxifen",
+            "Triptorelin"
       ],
       "description": [
+            "orally",
+            "daily",
+            "5",
+            "year",
+            "plus",
+            "ovarian",
+            "function",
+            "suppression",
+            "study",
+            "bilateral",
+            "surgical",
+            "oophorectomy",
+            "study",
+            "ovarian",
+            "irradiation",
+            "orally",
+            "daily",
+            "5",
+            "year",
             "mg",
             "im",
             "injection",
@@ -220,7 +271,16 @@
       ],
       "arm_group_label": [],
       "other_name": [
-            "decapeptyl",
+            "castration",
+            "life",
+            "assessment",
+            "radiotherapy",
+            "radiation",
+            "citrate",
+            "citras",
+            "factor",
+            "analogue",
+            "depot",
             "depot"
       ],
       "criteria": [
@@ -1004,9 +1064,7 @@
             "protocol",
             "requirement"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -1015,6 +1073,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066690.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "function",
+            "suppression",
+            "exemestane"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "pamoate"
+      ],
+      "id": "NCT00066690"
 }

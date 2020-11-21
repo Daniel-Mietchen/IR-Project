@@ -233,11 +233,12 @@
             "month"
       ],
       "condition": [
-            "drug",
+            "cancer",
+            "change",
             "toxicity"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "triptorelin"
@@ -253,11 +254,8 @@
             "intramuscular",
             "injection"
       ],
-      "arm_group_label": [
-            "triptorelin"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "trelstar",
             "depot"
       ],
       "criteria": [
@@ -472,14 +470,26 @@
             "bilateral",
             "oophorectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "44",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090844.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "side",
+            "effect",
+            "adverse",
+            "reaction",
+            "pamoate"
+      ],
+      "id": "NCT00090844"
 }

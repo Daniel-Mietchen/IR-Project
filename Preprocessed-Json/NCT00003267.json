@@ -158,15 +158,20 @@
             "year"
       ],
       "condition": [
-            "vaginal",
+            "cancer",
+            "cancer",
+            "complication",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "infection prophylaxis and management",
+            "management of therapy complications",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -257,9 +262,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003267.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complication"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "neoplasm",
+            "complication",
+            "neoplasm"
+      ],
+      "id": "NCT00003267"
 }

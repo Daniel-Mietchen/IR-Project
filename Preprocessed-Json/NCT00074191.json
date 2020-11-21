@@ -287,15 +287,20 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "procarbazine",
-            "hydrochloride"
+            "cytarabine",
+            "dexamethasone",
+            "lomustine",
+            "methotrexate",
+            "procarbazine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -471,7 +476,7 @@
             "biopsy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -480,6 +485,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074191.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00074191"
 }

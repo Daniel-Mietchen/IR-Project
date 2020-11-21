@@ -222,13 +222,13 @@
             "week"
       ],
       "condition": [
-            "cryptosporidiosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nitazoxanide"
+            "Nitazoxanide"
       ],
       "criteria": [
             "inclusion",
@@ -332,7 +332,7 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -341,6 +341,14 @@
             "19",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055107.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "adminstration",
+            "schedule"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00055107"
 }

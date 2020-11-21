@@ -150,13 +150,17 @@
             "treatment"
       ],
       "condition": [
-            "hepatitis"
+            "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ribavirin"
+            "Merimepodib",
+            "PEG-Interferon-alpha 2a (Pegasys\u00ae)",
+            "Ribavirin (Copegus\u00ae)"
       ],
       "criteria": [
             "inclusion",
@@ -338,7 +342,7 @@
             "clinical",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -347,6 +351,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088504.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis"
+      ],
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00088504"
 }

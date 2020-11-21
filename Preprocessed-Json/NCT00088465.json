@@ -50,16 +50,14 @@
             "treatment"
       ],
       "condition": [
-            "schizoaffective",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "intramuscular",
-            "olanzapine",
-            "depot"
+            "Intramuscular olanzapine depot"
       ],
       "description": [
             "milligram",
@@ -69,12 +67,10 @@
             "interval"
       ],
       "arm_group_label": [
-            "intramuscular",
             "olanzapine",
             "depot"
       ],
       "other_name": [
-            "zyprexa",
             "adhera"
       ],
       "criteria": [
@@ -154,7 +150,7 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -163,6 +159,9 @@
             "76",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088465.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00088465"
 }

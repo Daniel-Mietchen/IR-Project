@@ -23,15 +23,19 @@
             "subject"
       ],
       "condition": [
-            "chronic",
+            "hyperparathyroidism",
             "kidney",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "calcijex"
+            "Zemplar",
+            "42 Ca carbonate absorption via single tracer method",
+            "Calcijex"
       ],
       "criteria": [
             "inclusion",
@@ -241,12 +245,22 @@
             "treatment",
             "phase"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073710.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "hyperparathyroidism"
+      ],
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "chronic",
+            "secondary"
+      ],
+      "id": "NCT00073710"
 }

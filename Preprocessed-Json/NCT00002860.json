@@ -127,25 +127,21 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "Surgery"
       ],
       "description": [
-            "complete",
             "surgical",
             "resection",
             "metastatic",
             "melanoma"
       ],
-      "arm_group_label": [
-            "surgery"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -292,12 +288,17 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002860"
 }

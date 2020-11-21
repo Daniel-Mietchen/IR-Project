@@ -91,17 +91,15 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "indium",
-            "111",
-            "folic",
-            "acid"
+            "radionuclide imaging",
+            "indium In 111 folic acid"
       ],
       "criteria": [
             "disease",
@@ -240,9 +238,7 @@
             "antiinflammatory",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -251,6 +247,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003763.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00003763"
 }

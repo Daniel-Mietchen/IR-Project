@@ -269,7 +269,8 @@
             "protocol"
       ],
       "condition": [
-            "multiple",
+            "disorder",
+            "retardation",
             "abnormalies"
       ],
       "criteria": [
@@ -496,9 +497,17 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001403.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "overgrowth"
+      ],
+      "mesh_term": [
+            "disability",
+            "disorder",
+            "syndrome"
+      ],
+      "id": "NCT00001403"
 }

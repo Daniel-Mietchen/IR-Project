@@ -252,14 +252,14 @@
             "replication"
       ],
       "condition": [
-            "stroke"
+            "cell",
+            "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "transfusion",
-            "therapy"
+            "transfusion therapy"
       ],
       "description": [
             "blood",
@@ -273,7 +273,6 @@
             "therapy"
       ],
       "arm_group_label": [
-            "transfusion",
             "group"
       ],
       "criteria": [
@@ -496,7 +495,7 @@
             "randomize",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -505,6 +504,15 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072761.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transfusion",
+            "therapy"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "infarction"
+      ],
+      "id": "NCT00072761"
 }

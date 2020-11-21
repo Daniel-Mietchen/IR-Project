@@ -291,23 +291,26 @@
             "year"
       ],
       "condition": [
-            "schizophrenia"
+            "schizophrenia",
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clozapine"
+            "Olanzapine",
+            "Clozapine"
       ],
       "description": [
-            "tablet",
+            "8",
+            "week",
             "8",
             "week"
       ],
-      "arm_group_label": [
-            "clozapine"
-      ],
+      "arm_group_label": [],
       "other_name": [
+            "zyprexa",
             "clozaril"
       ],
       "criteria": [
@@ -507,7 +510,7 @@
             "mg",
             "clozapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -516,6 +519,14 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001656.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosis"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "childhood"
+      ],
+      "id": "NCT00001656"
 }

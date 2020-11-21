@@ -571,15 +571,14 @@
             "patient",
             "respond"
       ],
-      "condition": [
-            "cutaneous"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "LMB-2"
+      ],
       "description": [
-            "30",
             "every",
             "day",
             "qod",
@@ -917,12 +916,19 @@
             "require",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080535.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oncology"
+      ],
+      "mesh_term": [
+            "cutaneous",
+            "monoclonal"
+      ],
+      "id": "NCT00080535"
 }

@@ -35,17 +35,41 @@
             "nsclc"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cp"
+            "gemcitabine/Eloxatin (GEMOX)",
+            "carboplatin/paclitaxel (CP)"
       ],
       "description": [
-            "cp",
+            "oxaliplatin",
+            "21",
+            "day",
+            "cycle",
+            "gemcitabine",
+            "1000",
+            "administer",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "130",
+            "administer",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "gemcitabine",
+            "administration",
+            "every",
+            "21",
+            "day",
+            "cycle",
             "21",
             "day",
             "cycle",
@@ -73,7 +97,7 @@
             "cycle"
       ],
       "arm_group_label": [
-            "stratum",
+            "1",
             "2"
       ],
       "criteria": [
@@ -199,12 +223,16 @@
             "lactate",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087802.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00087802"
 }

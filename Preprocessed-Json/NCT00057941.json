@@ -183,29 +183,53 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "anastrozole",
+            "gefitinib",
+            "fulvestrant",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "orally",
+            "intramuscularly",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "anastrozole",
+            "gefitinib",
+            "anastrozole",
+            "gefitinib",
+            "ii",
+            "fulvestrant",
+            "gefitinib",
+            "ii",
+            "fulvestrant",
+            "gefitinib",
+            "anastrozole",
+            "gefitinib",
             "ii",
             "fulvestrant",
             "gefitinib"
       ],
       "other_name": [
-            "ici"
+            "1839"
       ],
       "criteria": [
             "inclusion",
@@ -559,14 +583,15 @@
             "situ",
             "cervix"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057941.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00057941"
 }

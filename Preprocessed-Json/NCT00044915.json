@@ -32,24 +32,29 @@
             "hour"
       ],
       "condition": [
-            "acute",
             "ischemic",
             "stroke"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Repinotan HCl (BAYX3702)",
+            "Placebo"
       ],
       "description": [
+            "patient",
+            "receive",
+            "mg",
+            "repinotan",
             "patient",
             "receive",
             "mg",
             "placebo"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "criteria": [
@@ -412,12 +417,22 @@
             "cancer",
             "aid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "ischemic",
+            "stroke",
+            "without",
+            "hemorrhage"
+      ],
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00044915"
 }

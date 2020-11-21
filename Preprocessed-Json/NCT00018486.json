@@ -50,7 +50,6 @@
             "involve"
       ],
       "condition": [
-            "hear",
             "loss"
       ],
       "criteria": [
@@ -61,7 +60,7 @@
             "80",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -70,6 +69,9 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018486.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00018486"
 }

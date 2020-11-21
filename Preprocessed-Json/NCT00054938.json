@@ -190,16 +190,22 @@
             "year"
       ],
       "condition": [
-            "lupus"
+            "lupus",
+            "erythematosus"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "heart",
-            "health",
-            "educational",
-            "program"
+            "pravastatin",
+            "aspirin",
+            "ramipril",
+            "Vitamins: B6, B12, and folate",
+            "heart health educational program"
       ],
       "criteria": [
             "inclusion",
@@ -297,12 +303,19 @@
             "limit",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054938.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cholesterol"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00054938"
 }

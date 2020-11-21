@@ -101,18 +101,30 @@
             "function"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "total",
-            "laparoscopic",
-            "hysterectomy"
+            "Total Abdominal Hysterectomy",
+            "Total Laparoscopic Hysterectomy"
       ],
       "description": [
+            "patient",
+            "clinical",
+            "stage",
+            "disease",
+            "removal",
+            "uterus",
+            "tube",
+            "ovary",
+            "consider",
+            "current",
+            "standard",
+            "treatment",
+            "australia",
             "technique",
             "total",
             "laparoscopic",
@@ -138,11 +150,9 @@
             "vaginal",
             "surgery"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "keyhole",
+            "hysterectomy",
             "hysterectomy"
       ],
       "criteria": [
@@ -228,14 +238,18 @@
             "qol",
             "measurement"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096408.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "survival"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096408"
 }

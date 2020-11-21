@@ -113,13 +113,13 @@
             "addiction",
             "research"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "NPI-028"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -144,7 +144,7 @@
             "past",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -153,6 +153,7 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010907.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00010907"
 }

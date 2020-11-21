@@ -107,15 +107,17 @@
             "study"
       ],
       "condition": [
-            "precancerous",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "condition"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "beta",
-            "alethine"
+            "beta alethine"
       ],
       "criteria": [
             "disease",
@@ -312,12 +314,24 @@
             "nonsteroidal",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006466.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "condition"
+      ],
+      "id": "NCT00006466"
 }

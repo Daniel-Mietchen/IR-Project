@@ -302,21 +302,30 @@
             "record"
       ],
       "condition": [
-            "hiv",
+            "disease",
+            "immunodeficiency",
+            "syndrome",
+            "disease",
             "infection"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005228.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "disease",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00005228"
 }

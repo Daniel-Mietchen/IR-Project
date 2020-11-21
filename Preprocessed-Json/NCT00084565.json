@@ -163,15 +163,17 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "estramustine phosphate sodium",
+            "paclitaxel",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -420,14 +422,20 @@
             "estramustine",
             "administration"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084565.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00084565"
 }

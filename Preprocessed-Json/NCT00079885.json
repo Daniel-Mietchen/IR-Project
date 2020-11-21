@@ -55,11 +55,13 @@
             "levofloxacin"
       ],
       "condition": [
-            "cross",
+            "acquire",
+            "pneumonia",
+            "pneumonia",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "tigecycline"
@@ -141,12 +143,20 @@
             "onset",
             "symptom"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079885.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bacterial",
+            "pneumonia"
+      ],
+      "mesh_term": [
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00079885"
 }

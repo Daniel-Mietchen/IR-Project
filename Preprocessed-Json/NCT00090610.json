@@ -163,17 +163,49 @@
             "describe"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Docetaxel",
+            "Carboplatin"
       ],
       "description": [
             "arm",
+            "1",
+            "mg",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "six",
+            "cycle",
+            "disease",
+            "progression",
+            "combine",
+            "arm",
+            "2",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "six",
+            "cycle",
+            "disease",
+            "progression",
+            "follow",
+            "carboplatin",
             "1",
             "auc",
             "6",
@@ -190,8 +222,6 @@
             "disease",
             "progression",
             "combine",
-            "docetaxel",
-            "arm",
             "2",
             "auc",
             "6",
@@ -210,14 +240,20 @@
             "docetaxel"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "combination",
+            "therapy",
+            "2",
+            "sequential",
+            "therapy",
+            "1",
+            "combination",
+            "therapy",
             "2",
             "sequential",
             "therapy"
       ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -491,14 +527,20 @@
             "debulking",
             "recurrence"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090610.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse",
+            "ovarian",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00090610"
 }

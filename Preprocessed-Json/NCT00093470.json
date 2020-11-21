@@ -127,29 +127,33 @@
             "year"
       ],
       "condition": [
-            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
             "acute",
             "myeloid",
             "leukemia",
             "remission"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "tipifarnib"
+            "Clinical Observation",
+            "Tipifarnib"
       ],
       "description": [
-            "give",
+            "observation",
             "po"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
+            "clinical",
+            "observation",
             "tipifarnib"
       ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -408,12 +412,18 @@
             "take",
             "hepatic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093470.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00093470"
 }

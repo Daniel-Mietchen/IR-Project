@@ -119,20 +119,14 @@
             "maximum",
             "accrual"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "tositumomab",
-            "iodine",
-            "131",
-            "tositumomab"
+            "tositumomab and iodine I 131 tositumomab"
       ],
       "description": [
-            "dosimetric",
             "dose",
             "unlabeled",
             "give",
@@ -457,12 +451,23 @@
             "iv",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004874.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "monoclonal",
+            "antibody",
+            "iodine"
+      ],
+      "id": "NCT00004874"
 }

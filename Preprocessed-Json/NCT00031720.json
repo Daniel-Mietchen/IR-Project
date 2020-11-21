@@ -211,18 +211,28 @@
             "month"
       ],
       "condition": [
-            "hot",
+            "cancer",
+            "flash",
             "flush"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "soy protein",
+            "isoflavones",
+            "Tamoxifen",
+            "Placebo"
       ],
       "description": [
-            "oral"
+            "orally",
+            "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "criteria": [
@@ -376,14 +386,20 @@
             "performance",
             "status"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031720.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash"
+      ],
+      "id": "NCT00031720"
 }

@@ -226,17 +226,13 @@
             "treatment"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "human",
-            "recombinant",
-            "growth",
-            "hormone"
+            "Human recombinant growth hormone"
       ],
       "criteria": [
             "inclusion",
@@ -253,7 +249,7 @@
             "height",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -262,6 +258,9 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005112.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00005112"
 }

@@ -43,17 +43,27 @@
             "clot",
             "lung"
       ],
-      "condition": [
-            "arthroplasty"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "SB-424323",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "mg",
+            "oral",
+            "bid",
+            "28",
+            "day",
+            "125",
+            "mg",
+            "oral",
+            "bid",
+            "28",
+            "day",
             "placebo",
             "oral",
             "bid",
@@ -61,7 +71,12 @@
             "day"
       ],
       "arm_group_label": [
-            "placebo"
+            "500",
+            "mg",
+            "bid",
+            "125",
+            "mg",
+            "bid"
       ],
       "criteria": [
             "inclusion",
@@ -112,12 +127,18 @@
             "study",
             "sponsor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041509.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "deep",
+            "vein",
+            "thrombosis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00041509"
 }

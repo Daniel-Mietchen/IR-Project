@@ -210,18 +210,20 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "O6-benzylguanine",
+            "polifeprosan 20 with carmustine implant",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -416,12 +418,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "6"
+      ],
+      "id": "NCT00004892"
 }

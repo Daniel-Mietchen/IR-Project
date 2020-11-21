@@ -54,11 +54,10 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cirrhosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "colchicine"
@@ -71,12 +70,19 @@
             "child",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004368.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "cirrhosis"
+      ],
+      "id": "NCT00004368"
 }

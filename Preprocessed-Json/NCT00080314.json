@@ -23,17 +23,23 @@
             "depression"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Aripiprazole",
+            "Placebo"
       ],
       "description": [
+            "oral",
+            "2",
             "tablet",
+            "daily",
+            "8",
+            "week",
             "oral",
             "0",
             "mg",
@@ -42,9 +48,7 @@
             "week"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "abilify"
-      ],
+      "other_name": [],
       "criteria": [
             "age",
             "men",
@@ -61,7 +65,7 @@
             "depressive",
             "episode"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -70,6 +74,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080314.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bipolar",
+            "1",
+            "disorder",
+            "depress"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00080314"
 }

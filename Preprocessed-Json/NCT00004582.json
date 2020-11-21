@@ -50,14 +50,15 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Lopinavir/Ritonavir",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -124,9 +125,18 @@
             "alcohol",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004582.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00004582"
 }

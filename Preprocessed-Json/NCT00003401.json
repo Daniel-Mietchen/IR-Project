@@ -208,21 +208,34 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "carmustine",
+            "cisplatin",
+            "cyclophosphamide",
+            "dexamethasone",
+            "etoposide",
+            "gemcitabine hydrochloride",
+            "melphalan",
+            "paclitaxel",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -364,7 +377,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -373,6 +386,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003401.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00003401"
 }

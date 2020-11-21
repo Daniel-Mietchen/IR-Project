@@ -145,25 +145,27 @@
             "study"
       ],
       "condition": [
-            "rectal",
+            "cancer",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "celecoxib",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "celecoxib",
             "ii",
             "placebo"
       ],
-      "other_name": [
-            "plcb"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -813,12 +815,15 @@
             "fluconazole",
             "lithium"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005094.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005094"
 }

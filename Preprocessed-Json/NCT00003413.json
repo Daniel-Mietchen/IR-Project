@@ -250,15 +250,25 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "filgrastim",
+            "carmustine",
+            "cisplatin",
+            "melphalan",
+            "paclitaxel",
+            "peripheral blood stem cell transplantation",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -391,9 +401,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -402,6 +410,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003413.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003413"
 }

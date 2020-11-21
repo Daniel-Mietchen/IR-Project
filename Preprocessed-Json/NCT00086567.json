@@ -331,7 +331,9 @@
             "disease"
       ],
       "condition": [
-            "epithelial",
+            "tube",
+            "cancer",
+            "neoplasm",
             "ovarian",
             "cancer"
       ],
@@ -649,9 +651,7 @@
             "case",
             "basis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -660,6 +660,19 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086567.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "glandular",
+            "epithelial",
+            "neoplasm"
+      ],
+      "id": "NCT00086567"
 }

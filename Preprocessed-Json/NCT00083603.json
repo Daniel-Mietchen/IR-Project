@@ -341,22 +341,68 @@
             "13"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rMVA-HIV (rMVA-HIV env/gag + rMVA-HIV tat/rev/nef-RT)",
+            "rFPV-HIV (rFPV-HIV env/gag + rFPV-HIV tat/rev/nef-RT)",
+            "Empty TBC-FPV",
+            "rMVA-HIV (rMVA-HIV env/gag + rMVA-HIV tat/rev/nef-RT)",
+            "rMVA-HIV (rMVA-HIV env/gag + rMVA-HIV tat/rev/nef-RT)",
+            "TBC-MVA and TBC-FPV",
+            "TBC-MVA and TBC-FPV",
+            "TBC-MVA and TBC-FPV"
+      ],
       "description": [
-            "empty",
+            "pfu",
+            "administer",
+            "deltoid",
+            "administer",
+            "two",
+            "separate",
+            "intramuscular",
+            "injection",
+            "leave",
+            "deltoid",
+            "right",
+            "deltoid",
+            "fpv",
+            "administer",
+            "two",
+            "separate",
+            "1",
+            "ml",
+            "intramuscular",
+            "injection",
+            "one",
+            "deltoid",
+            "pfu",
+            "administer",
+            "deltoid",
+            "pfu",
+            "administer",
+            "deltoid",
+            "mva",
+            "administer",
+            "deltoid",
+            "mva",
+            "administer",
+            "deltoid",
             "mva",
             "administer",
             "deltoid"
       ],
-      "arm_group_label": [
-            "16"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "note",
             "vaccination",
@@ -619,7 +665,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -628,6 +674,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083603.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pox",
+            "vector"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00083603"
 }

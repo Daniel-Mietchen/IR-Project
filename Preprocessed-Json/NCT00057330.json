@@ -230,29 +230,31 @@
             "herpes"
       ],
       "condition": [
-            "herpes",
             "simplex",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "glaxosmithkline",
-            "gsk",
-            "biologicals",
-            "license",
-            "hepatitis",
-            "vaccine"
+            "HSV vaccine or SB208141, GSK Biologicals' glycoprotein D (gD)-Alum/3-deacylated form of Monophosphoryl Lipid A (MPL) candidate genital herpes vaccine",
+            "Havrix\u2122, GlaxoSmithKline (GSK) Biologicals' licensed Hepatitis A vaccine"
       ],
       "description": [
+            "vaccine",
+            "administer",
+            "intramuscularly",
+            "deltoid",
             "vaccine",
             "administer",
             "intramuscularly",
             "deltoid"
       ],
       "arm_group_label": [
-            "havrix",
+            "simplex",
+            "virus",
+            "group",
             "group"
       ],
       "criteria": [
@@ -614,9 +616,7 @@
             "study",
             "vaccine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -625,6 +625,10 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057330.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "simplex",
+            "lipid"
+      ],
+      "id": "NCT00057330"
 }

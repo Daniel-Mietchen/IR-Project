@@ -85,14 +85,15 @@
             "prestudy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ritonavir"
+            "Indinavir sulfate",
+            "Ritonavir"
       ],
       "criteria": [
             "inclusion",
@@ -168,12 +169,18 @@
             "select",
             "nrti"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005118.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00005118"
 }

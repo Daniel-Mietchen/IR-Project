@@ -251,15 +251,27 @@
             "patient"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "CMF regimen",
+            "cyclophosphamide",
+            "fluorouracil",
+            "methotrexate",
+            "tamoxifen citrate",
+            "thiotepa",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -412,9 +424,7 @@
             "surgery",
             "require"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -423,6 +433,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003680.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "breast",
+            "neoplasm"
+      ],
+      "id": "NCT00003680"
 }

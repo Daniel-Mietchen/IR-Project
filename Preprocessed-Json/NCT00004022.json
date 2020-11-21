@@ -205,15 +205,21 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "aldesleukin",
+            "autologous tumor cell vaccine",
+            "muromonab-CD3",
+            "therapeutic autologous lymphocytes",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -340,12 +346,17 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004022.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004022"
 }

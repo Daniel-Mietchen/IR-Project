@@ -184,20 +184,40 @@
             "outcome"
       ],
       "condition": [
-            "bipolar",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "low",
-            "dosage",
-            "electroconvulsive",
-            "therapy"
+            "High dosage electroconvulsive therapy",
+            "Nortriptyline",
+            "Venlafaxine",
+            "Lithium",
+            "Low dosage electroconvulsive therapy"
       ],
       "description": [
-            "participant",
+            "receive",
+            "high",
+            "dosage",
+            "right",
+            "unilateral",
+            "ect",
+            "six",
+            "time",
+            "seizure",
+            "threshold",
+            "receive",
+            "nortriptyline",
+            "receive",
+            "venlafaxine",
+            "receive",
+            "lithium",
             "receive",
             "low",
             "dosage",
@@ -210,7 +230,51 @@
             "threshold"
       ],
       "arm_group_label": [
-            "low",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "venlafaxine",
+            "dosage",
+            "ect",
+            "placebo",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "venlafaxine",
+            "dosage",
+            "ect",
+            "venlafaxine",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "venlafaxine",
+            "dosage",
+            "ect",
+            "placebo",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "venlafaxine",
+            "dosage",
+            "ect",
+            "placebo",
+            "dosage",
+            "ect",
+            "nortriptyline",
+            "dosage",
+            "ect",
+            "venlafaxine",
             "dosage",
             "ect",
             "placebo"
@@ -312,12 +376,22 @@
             "2",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045916.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antidepressive",
+            "agent"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "hydrochloride",
+            "carbonate"
+      ],
+      "id": "NCT00045916"
 }

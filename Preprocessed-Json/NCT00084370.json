@@ -115,17 +115,21 @@
             "oophorectomy"
       ],
       "condition": [
-            "ovarian",
+            "mutation",
+            "carrier",
+            "mutation",
+            "carrier",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "celecoxib",
             "oophorectomy"
       ],
       "description": [
-            "patient",
             "receive",
             "os",
             "celecoxib",
@@ -138,7 +142,8 @@
             "oophorectomy"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
             "ii"
       ],
       "criteria": [
@@ -156,9 +161,7 @@
             "history",
             "least",
             "2",
-            "ovarian",
             "breast",
-            "cancer",
             "among",
             "patient",
             "relative",
@@ -176,15 +179,12 @@
             "1",
             "2",
             "relative",
-            "breast",
-            "ovarian",
             "cancer",
             "ashkenazi",
             "jewish",
             "ethnicity",
             "prior",
             "breast",
-            "cancer",
             "mutation",
             "probability",
             "20",
@@ -371,14 +371,19 @@
             "clinical",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084370.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mutation",
+            "carrier"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00084370"
 }

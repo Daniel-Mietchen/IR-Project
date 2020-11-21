@@ -35,18 +35,16 @@
             "surgery"
       ],
       "condition": [
-            "coronary",
+            "disease",
             "artery",
             "bypass",
             "surgery"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "angiomax",
-            "bivalirudin",
-            "anticoagulant"
+            "Angiomax (bivalirudin) anticoagulant"
       ],
       "description": [
             "250",
@@ -111,9 +109,7 @@
             "aptt",
             "recommend"
       ],
-      "other_name": [
-            "bivalirudin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "least",
@@ -396,12 +392,20 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073580.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thrombocytopenia",
+            "thrombosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00073580"
 }

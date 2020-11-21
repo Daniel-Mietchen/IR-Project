@@ -94,16 +94,17 @@
             "study"
       ],
       "condition": [
-            "neuroendocrine",
+            "unknown",
+            "primary",
+            "carcinoma",
             "carcinoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "irinotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -296,12 +297,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004922.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neuroendocrine",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "neoplasm",
+            "unknown",
+            "primary",
+            "neuroendocrine",
+            "merkel",
+            "cell"
+      ],
+      "id": "NCT00004922"
 }

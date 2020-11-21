@@ -91,16 +91,37 @@
             "indicate"
       ],
       "condition": [
-            "mental",
+            "disorder",
+            "disorder",
+            "psychotic",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Topiramate",
+            "Placebo"
       ],
       "description": [
+            "period",
+            "400",
+            "two",
+            "tablet",
+            "twice",
+            "day",
+            "28",
+            "period",
+            "600",
+            "three",
+            "tablet",
+            "twice",
+            "day",
+            "least",
+            "6",
+            "month",
             "period",
             "equal",
             "number",
@@ -115,9 +136,7 @@
             "28",
             "day"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -264,7 +283,7 @@
             "neurological",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -273,6 +292,18 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035802.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neuroprotectiive",
+            "agent"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "disorder",
+            "disorder",
+            "psychotic"
+      ],
+      "id": "NCT00035802"
 }

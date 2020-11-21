@@ -182,14 +182,17 @@
             "anemia"
       ],
       "condition": [
-            "hematologic",
+            "fanconi",
+            "anemia",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Antithymocyte globulin",
+            "Cyclosporine"
       ],
       "criteria": [
             "inclusion",
@@ -321,9 +324,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001749.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diamond",
+            "blackfan",
+            "anemia"
+      ],
+      "mesh_term": [
+            "disease",
+            "anemia",
+            "syndrome",
+            "serum"
+      ],
+      "id": "NCT00001749"
 }

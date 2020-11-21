@@ -202,21 +202,38 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "lomustine",
+            "vincristine sulfate",
+            "adjuvant therapy",
+            "iodine I 131 monoclonal antibody 3F8",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "histologic",
+            "proof",
+            "medulloblastoma",
+            "proof",
+            "medulloblastoma",
+            "proof",
+            "medulloblastoma",
+            "proof",
+            "medulloblastoma",
+            "proof",
+            "medulloblastoma",
             "proof",
             "medulloblastoma"
       ],
@@ -404,12 +421,25 @@
             "gfr",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058370.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00058370"
 }

@@ -188,15 +188,21 @@
             "b"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "chemotherapy",
+            "cisplatin",
+            "paclitaxel",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -319,12 +325,20 @@
             "chemotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002711.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002711"
 }

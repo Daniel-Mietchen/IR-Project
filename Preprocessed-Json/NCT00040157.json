@@ -33,13 +33,14 @@
             "include"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ACH126-443 (Beta-L-Fd4C)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -247,12 +248,20 @@
             "substance",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040157.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "achillion"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00040157"
 }

@@ -156,21 +156,21 @@
             "4",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "weekly"
+            "2-chlorodeoxyadenosine (CDA) daily",
+            "2-chlorodeoxyadenosine weekly"
       ],
       "description": [
-            "weekly",
+            "administration",
             "administration"
       ],
       "arm_group_label": [
-            "cda",
+            "day",
             "week"
       ],
       "criteria": [
@@ -255,12 +255,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prolymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "hairy",
+            "cell"
+      ],
+      "id": "NCT00003746"
 }

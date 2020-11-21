@@ -43,13 +43,16 @@
             "age"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Glucovance (metformin HCl/glyburide)",
+            "metformin HCl",
             "glyburide"
       ],
       "criteria": [
@@ -71,7 +74,7 @@
             "therapy",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -80,6 +83,18 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035542.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus",
+            "type",
+            "ii"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00035542"
 }

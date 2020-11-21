@@ -45,21 +45,27 @@
             "group"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "psychosocial",
-            "treatment"
+            "Nefazodone",
+            "Psychosocial Treatment"
       ],
       "arm_group_label": [
-            "match",
+            "placebo",
+            "tablet",
             "placebo",
             "tablet"
       ],
       "other_name": [
+            "relapse",
+            "prevention",
+            "therapy",
             "individual",
             "dig",
             "counsel"
@@ -129,7 +135,7 @@
             "present",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -138,6 +144,17 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015210.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cocaine",
+            "use",
+            "disorder",
+            "dependence",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00015210"
 }

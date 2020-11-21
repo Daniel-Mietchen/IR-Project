@@ -198,12 +198,17 @@
             "arm"
       ],
       "condition": [
-            "oral",
+            "neck",
+            "cancer",
             "complication"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "pilocarpine hydrochloride",
+            "Placebo"
       ],
       "description": [
             "pilocarpine",
@@ -211,7 +216,7 @@
             "tablet"
       ],
       "arm_group_label": [
-            "placebo"
+            "hydrocloride"
       ],
       "criteria": [
             "disease",
@@ -294,7 +299,7 @@
             "drug",
             "tricyclic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -303,6 +308,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003139.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oropharyngeal",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00003139"
 }

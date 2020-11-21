@@ -80,15 +80,14 @@
       ],
       "condition": [
             "heart",
+            "defect",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "inpatient",
-            "evaluation",
-            "management"
+            "inpatient evaluation and management"
       ],
       "criteria": [
             "patient",
@@ -138,9 +137,17 @@
             "ionize",
             "radiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001460.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "arrhythmia"
+      ],
+      "mesh_term": [
+            "disease",
+            "defect",
+            "congenital"
+      ],
+      "id": "NCT00001460"
 }

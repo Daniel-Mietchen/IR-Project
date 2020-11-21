@@ -40,15 +40,18 @@
             "week"
       ],
       "condition": [
-            "heart",
+            "metabolism",
+            "inborn",
+            "error",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "MK0653, ezetimibe",
+            "Comparator: placebo"
       ],
       "criteria": [
             "inclusion",
@@ -82,7 +85,7 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -91,6 +94,17 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092898.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sitosterolemia"
+      ],
+      "mesh_term": [
+            "disease",
+            "inborn",
+            "error",
+            "metabolism",
+            "inborn",
+            "error"
+      ],
+      "id": "NCT00092898"
 }

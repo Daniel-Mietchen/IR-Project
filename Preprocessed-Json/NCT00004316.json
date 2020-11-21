@@ -148,11 +148,11 @@
             "week"
       ],
       "condition": [
-            "vulvar",
+            "cystitis",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "capsaicin"
@@ -210,14 +210,21 @@
             "vaginal",
             "discharge"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004316.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vulvar",
+            "vestibulitis"
+      ],
+      "mesh_term": [
+            "interstitial",
+            "vestibulitis",
+            "disease"
+      ],
+      "id": "NCT00004316"
 }

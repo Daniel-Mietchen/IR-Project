@@ -134,13 +134,14 @@
             "m"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rhIGF-1 (CEP-151)"
+      ],
       "criteria": [
             "patient",
             "must",
@@ -393,9 +394,16 @@
             "month",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multiple",
+            "sclerosis"
+      ],
+      "mesh_term": [
+            "sclerosis"
+      ],
+      "id": "NCT00001669"
 }

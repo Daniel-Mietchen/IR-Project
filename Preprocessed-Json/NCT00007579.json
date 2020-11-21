@@ -515,7 +515,6 @@
             "extension"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "criteria": [
@@ -527,9 +526,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -538,6 +535,13 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007579.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00007579"
 }

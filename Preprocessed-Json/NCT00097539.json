@@ -53,17 +53,19 @@
             "prescribe"
       ],
       "condition": [
-            "growth",
             "disorder"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "somatropin"
+            "Somatrem",
+            "Somatropin"
       ],
       "arm_group_label": [
-            "participant",
+            "growth",
+            "disorder",
             "growth",
             "disorder"
       ],
@@ -115,9 +117,17 @@
             "active",
             "neoplasia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097539.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatric",
+            "growth",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00097539"
 }

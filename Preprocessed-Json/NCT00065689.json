@@ -81,14 +81,14 @@
             "summary"
       ],
       "condition": [
-            "dementia"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "light",
-            "therapy"
+            "high-intensity light therapy"
       ],
       "criteria": [
             "inclusion",
@@ -107,12 +107,18 @@
             "eye",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065689.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agitation"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00065689"
 }

@@ -37,14 +37,15 @@
             "patient"
       ],
       "condition": [
-            "systemic",
             "lupus",
             "erythematosus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GL701"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -275,14 +276,17 @@
             "determine",
             "investigator"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037128.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "erythematosus",
+            "systemic"
+      ],
+      "id": "NCT00037128"
 }

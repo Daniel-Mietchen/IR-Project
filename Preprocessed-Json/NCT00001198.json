@@ -414,7 +414,10 @@
             "amendment"
       ],
       "condition": [
-            "schizoaffective",
+            "structure",
+            "onset",
+            "psychotic",
+            "disorder",
             "disorder"
       ],
       "criteria": [
@@ -493,12 +496,20 @@
             "consent",
             "capacity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001198.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "observational"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "childhood"
+      ],
+      "id": "NCT00001198"
 }

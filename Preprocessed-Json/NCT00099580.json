@@ -40,18 +40,27 @@
             "failure"
       ],
       "condition": [
-            "congestive",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "AC2592",
             "placebo"
       ],
       "description": [
-            "continuous",
+            "subcutaneous",
+            "infusion",
+            "via",
+            "pump",
+            "dose",
+            "base",
+            "subject",
+            "body",
+            "weight",
             "subcutaneous",
             "infusion",
             "via",
@@ -62,9 +71,7 @@
             "body",
             "weight"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "main",
             "inclusion",
@@ -153,12 +160,19 @@
             "circulatory",
             "support"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099580.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metabolic",
+            "abnormality"
+      ],
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00099580"
 }

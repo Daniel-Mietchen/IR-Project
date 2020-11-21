@@ -168,16 +168,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "uv",
-            "light",
-            "therapy"
+            "bexarotene",
+            "methoxsalen",
+            "UV light therapy"
       ],
       "criteria": [
             "disease",
@@ -447,12 +447,20 @@
             "atorvastatin",
             "fenofibrate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030589.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "cutaneous"
+      ],
+      "id": "NCT00030589"
 }

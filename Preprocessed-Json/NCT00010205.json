@@ -97,28 +97,29 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "benzoylphenylurea",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "benzoylphenylurea",
             "benzoylphenylurea"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -304,12 +305,12 @@
             "therapy",
             "hiv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010205.xml"
+      "healthy_volunteers": "No",
+      "id": "NCT00010205"
 }

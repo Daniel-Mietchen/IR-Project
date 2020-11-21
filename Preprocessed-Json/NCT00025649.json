@@ -291,18 +291,32 @@
             "4",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "melphalan",
+            "vincristine sulfate",
+            "autologous bone marrow transplantation",
+            "conventional surgery",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -357,12 +371,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025649.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00025649"
 }

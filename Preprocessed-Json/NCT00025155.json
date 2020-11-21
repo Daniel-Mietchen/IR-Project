@@ -109,27 +109,28 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "cavity",
+            "cancer",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ixabepilone"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "ixabepilone"
       ],
       "other_name": [
-            "ixempra"
+            "b",
+            "lactam"
       ],
       "criteria": [
             "inclusion",
@@ -383,11 +384,15 @@
             "protective",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025155.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00025155"
 }

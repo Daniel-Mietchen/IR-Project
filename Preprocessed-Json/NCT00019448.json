@@ -251,13 +251,18 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "melanoma",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "gp100 antigen",
+            "interleukin-2"
+      ],
       "criteria": [
             "protocol",
             "entry",
@@ -377,11 +382,16 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019448.xml"
+      "keyword": [
+            "stage",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00019448"
 }

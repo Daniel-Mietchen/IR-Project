@@ -325,19 +325,23 @@
             "pe"
       ],
       "condition": [
-            "lung",
+            "embolism",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086151.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "embolism"
+      ],
+      "id": "NCT00086151"
 }

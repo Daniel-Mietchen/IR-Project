@@ -185,7 +185,10 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -193,23 +196,19 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amifostine"
+            "Amifostine"
       ],
       "description": [
-            "500",
             "mg",
             "three",
             "time",
             "week"
       ],
-      "arm_group_label": [
-            "amifostine"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "amifostine",
             "trihydrate"
       ],
       "criteria": [
@@ -355,12 +354,28 @@
             "oxidase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078845.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "nervous",
+            "system",
+            "disease",
+            "syndrome"
+      ],
+      "id": "NCT00078845"
 }

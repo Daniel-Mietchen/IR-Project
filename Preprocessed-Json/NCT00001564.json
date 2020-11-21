@@ -211,13 +211,28 @@
             "ar"
       ],
       "condition": [
-            "rhabdomyosarcoma"
+            "ewing",
+            "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ligand"
+            "EF-1 Peptide",
+            "EF-2 Peptide",
+            "PXFK Peptide",
+            "E7 Peptide",
+            "IL-2",
+            "IL-4",
+            "GM-CSF",
+            "CD40 Ligand"
       ],
       "criteria": [
             "inclusion",
@@ -603,12 +618,19 @@
             "influenza",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fusion",
+            "protein"
+      ],
+      "mesh_term": [
+            "ewing"
+      ],
+      "id": "NCT00001564"
 }

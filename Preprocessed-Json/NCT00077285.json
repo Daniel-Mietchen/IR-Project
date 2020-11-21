@@ -222,7 +222,6 @@
             "week",
             "course",
             "6",
-            "7",
             "patient",
             "receive",
             "vincristine",
@@ -257,7 +256,6 @@
             "2",
             "course",
             "note",
-            "patient",
             "develop",
             "disease",
             "progression",
@@ -388,7 +386,6 @@
             "maintenance",
             "therapy",
             "maintenance",
-            "therapy",
             "patient",
             "receive",
             "irinotecan",
@@ -405,7 +402,6 @@
             "6",
             "course",
             "note",
-            "patient",
             "develop",
             "disease",
             "progression",
@@ -442,7 +438,6 @@
             "year",
             "annually",
             "thereafter",
-            "start",
             "8",
             "patient",
             "undergo",
@@ -454,18 +449,44 @@
             "discretion",
             "pi"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "irinotecan hydrochloride",
+            "vincristine sulfate",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "pt",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
+            "rhabdomyosarcoma",
             "rhabdomyosarcoma"
       ],
       "criteria": [
@@ -697,12 +718,22 @@
             "fetus",
             "newborn"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077285.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00077285"
 }

@@ -143,14 +143,17 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "docetaxel",
+            "pain therapy",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -293,14 +296,18 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003781.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003781"
 }

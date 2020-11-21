@@ -46,17 +46,26 @@
             "phd"
       ],
       "condition": [
-            "anemia"
+            "disease",
+            "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "darbepoetin",
-            "alfa"
+            "Placebo",
+            "darbepoetin alfa"
       ],
       "description": [
-            "start",
+            "dose",
+            "frequency",
+            "change",
+            "resemble",
+            "dose",
+            "active",
+            "treatment",
+            "group",
             "dose",
             "subcutaneous",
             "sc",
@@ -71,9 +80,7 @@
             "hb",
             "target"
       ],
-      "arm_group_label": [
-            "active"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -113,12 +120,17 @@
             "week",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093015.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "alfa"
+      ],
+      "id": "NCT00093015"
 }

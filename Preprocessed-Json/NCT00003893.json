@@ -246,15 +246,31 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "CMF regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "fluorouracil",
+            "methotrexate",
+            "mitomycin C",
+            "mitoxantrone hydrochloride",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -420,11 +436,18 @@
             "trial",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003893.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003893"
 }

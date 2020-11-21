@@ -178,13 +178,27 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
+            "mesothelioma",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "allogeneic tumor cell vaccine",
+            "autologous tumor cell vaccine",
+            "recombinant interferon alfa",
+            "recombinant interferon gamma",
+            "sargramostim",
             "cyclophosphamide"
       ],
       "criteria": [
@@ -328,12 +342,25 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002475.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002475"
 }

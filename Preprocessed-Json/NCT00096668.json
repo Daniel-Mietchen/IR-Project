@@ -96,19 +96,15 @@
             "response"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tocosol",
-            "r",
-            "paclitaxel"
+            "TOCOSOL(R) Paclitaxel"
       ],
       "arm_group_label": [
-            "tocosol",
             "paclitaxel"
       ],
       "criteria": [
@@ -299,14 +295,20 @@
             "coumarin",
             "derivative"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096668.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tocosol",
+            "paclitaxel"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00096668"
 }

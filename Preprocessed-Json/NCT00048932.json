@@ -134,17 +134,54 @@
             "day"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abatacept"
+            "Double-blind Abatacept",
+            "Double-blind Placebo",
+            "Open-label Abatacept"
       ],
       "description": [
-            "concentrate",
+            "dilute",
+            "solution",
+            "iv",
+            "500",
+            "mg",
+            "body",
+            "weight",
+            "60",
+            "kg",
+            "750",
+            "mg",
+            "body",
+            "weight",
+            "kg",
+            "1000",
+            "mg",
+            "body",
+            "weight",
+            "100",
+            "kg",
+            "daily",
+            "day",
+            "1",
+            "15",
+            "29",
+            "dilute",
+            "solution",
+            "iv",
+            "0",
+            "mg",
+            "daily",
+            "day",
+            "1",
+            "15",
+            "29",
             "dilute",
             "solution",
             "iv",
@@ -171,6 +208,8 @@
             "day"
       ],
       "arm_group_label": [
+            "abatacept",
+            "placebo",
             "abatacept"
       ],
       "other_name": [],
@@ -232,12 +271,15 @@
             "3",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048932.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00048932"
 }

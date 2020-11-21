@@ -170,14 +170,16 @@
             "year"
       ],
       "condition": [
-            "small",
+            "condition",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "arginine butyrate",
             "ganciclovir"
       ],
       "criteria": [
@@ -325,12 +327,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006340.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disorder",
+            "neoplasm",
+            "condition",
+            "triphosphate",
+            "acid",
+            "butyrate"
+      ],
+      "id": "NCT00006340"
 }

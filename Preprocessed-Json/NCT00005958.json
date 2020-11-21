@@ -185,7 +185,7 @@
             "year"
       ],
       "condition": [
-            "transitional",
+            "cancer",
             "cell",
             "cancer",
             "renal",
@@ -193,11 +193,14 @@
             "ureter"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "filgrastim",
+            "docetaxel",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -381,12 +384,29 @@
             "fever",
             "prophylaxis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005958.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00005958"
 }

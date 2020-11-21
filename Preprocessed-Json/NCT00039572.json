@@ -167,14 +167,18 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "complex"
+            "boronophenylalanine-fructose complex"
       ],
       "criteria": [
             "disease",
@@ -278,12 +282,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039572.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00039572"
 }

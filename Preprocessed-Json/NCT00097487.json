@@ -31,7 +31,7 @@
             "taxane"
       ],
       "condition": [
-            "metastasis"
+            "cancer"
       ],
       "criteria": [
             "inclusion",
@@ -84,8 +84,6 @@
             "function",
             "indicate",
             "follow",
-            "anc",
-            "platelet",
             "count",
             "adequate",
             "renal",
@@ -198,14 +196,20 @@
             "study",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00097487"
 }

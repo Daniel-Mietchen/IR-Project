@@ -26,29 +26,44 @@
             "mania"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "haloperidol"
+            "Placebo",
+            "Aripiprazole",
+            "Haloperidol"
       ],
       "description": [
-            "capsule",
+            "oral",
+            "0",
+            "mg",
+            "daily",
+            "3",
+            "week",
+            "switch",
+            "arm",
+            "b",
+            "additional",
+            "9",
+            "week",
+            "oral",
+            "mg",
+            "daily",
+            "12",
+            "week",
             "oral",
             "mg",
             "daily",
             "12",
             "week"
       ],
-      "arm_group_label": [
-            "c"
-      ],
-      "other_name": [
-            "abilify"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -61,12 +76,19 @@
             "consider",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097266.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bipolar",
+            "mania"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00097266"
 }

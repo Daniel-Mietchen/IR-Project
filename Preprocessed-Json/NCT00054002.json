@@ -120,18 +120,21 @@
             "year"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "porfimer",
-            "sodium"
+            "adjuvant therapy",
+            "conventional surgery",
+            "porfimer sodium"
       ],
       "description": [
-            "iv"
+            "surgery",
+            "surgery"
       ],
       "criteria": [
             "disease",
@@ -304,12 +307,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sarcomatous",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "ether"
+      ],
+      "id": "NCT00054002"
 }

@@ -237,16 +237,16 @@
             "arm",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "gamma",
-            "ray",
-            "therapy"
+            "cyclophosphamide",
+            "allogeneic bone marrow transplantation",
+            "low-LET cobalt-60 gamma ray therapy"
       ],
       "criteria": [
             "disease",
@@ -468,12 +468,19 @@
             "chest",
             "abdomen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002553.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002553"
 }

@@ -486,16 +486,15 @@
             "leakage"
       ],
       "condition": [
-            "retinal",
+            "degeneration",
             "vein",
             "occlusion"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "triamcinolone",
-            "acetonide"
+            "Triamcinolone Acetonide (TAC-PF)"
       ],
       "criteria": [
             "inclusion",
@@ -1001,12 +1000,23 @@
             "month",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071227.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amd"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "vein",
+            "occlusion",
+            "hexacetonide",
+            "acetonide",
+            "diacetate"
+      ],
+      "id": "NCT00071227"
 }

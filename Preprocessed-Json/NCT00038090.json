@@ -209,29 +209,32 @@
             "interval"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Thalidomide",
+            "Dexamethasone"
       ],
       "description": [
-            "20",
+            "mg",
+            "capsule",
+            "mouth",
+            "daily",
+            "even",
             "take",
             "mouth",
             "morning",
             "day"
       ],
       "arm_group_label": [
-            "thalidomide",
+            "dexamethasone",
             "dexamethasone"
       ],
-      "other_name": [
-            "decadron"
-      ],
+      "other_name": [],
       "criteria": [
             "previously",
             "untreated",
@@ -318,9 +321,19 @@
             "agent",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038090.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "decadron"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00038090"
 }

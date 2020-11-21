@@ -194,18 +194,23 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "mesna",
+            "paclitaxel",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -353,9 +358,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -364,6 +367,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002628.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002628"
 }

@@ -215,16 +215,15 @@
             "cad"
       ],
       "condition": [
-            "coronary",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "stress",
-            "echocardiography",
-            "dobutamine"
+            "Myocardial contrast echocardiography",
+            "Stress echocardiography with dobutamine"
       ],
       "criteria": [
             "patient",
@@ -331,9 +330,20 @@
             "echocardiographic",
             "window"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001889.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "artery",
+            "disease"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease"
+      ],
+      "id": "NCT00001889"
 }

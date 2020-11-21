@@ -216,28 +216,30 @@
             "technique"
       ],
       "condition": [
-            "inflammatory",
+            "colitis",
             "bowel",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Rosiglitazone",
+            "Placebo"
       ],
       "description": [
-            "pill",
+            "orally",
+            "twice",
+            "daily",
+            "12",
+            "week",
             "look",
             "identical",
             "rosiglitazone"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "avandia"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -506,12 +508,20 @@
             "currently",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065065.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "colitis"
+      ],
+      "mesh_term": [
+            "ulcerative",
+            "bowel",
+            "disease"
+      ],
+      "id": "NCT00065065"
 }

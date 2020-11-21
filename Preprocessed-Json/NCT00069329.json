@@ -324,28 +324,26 @@
             "escalation"
       ],
       "condition": [
-            "papilledema"
+            "system",
+            "malformation",
+            "neurogenic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "anakinra"
       ],
       "description": [
-            "daily",
             "injection",
             "subcutaneous",
             "injection"
       ],
       "arm_group_label": [
-            "nomid",
             "treatment",
             "arm"
       ],
-      "other_name": [
-            "kineret"
-      ],
+      "other_name": [],
       "criteria": [
             "criterion",
             "1",
@@ -691,9 +689,26 @@
             "disease",
             "consultation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069329.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cinca",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "abnormality",
+            "disease",
+            "periodic",
+            "syndrome",
+            "neurogenic",
+            "system",
+            "malformation",
+            "1",
+            "receptor",
+            "antagonist",
+            "protein"
+      ],
+      "id": "NCT00069329"
 }

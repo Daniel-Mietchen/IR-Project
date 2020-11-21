@@ -59,17 +59,82 @@
             "psoriasis"
       ],
       "condition": [
-            "arthritis",
             "psoriatic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Onercept",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "administer",
+            "subcutaneously",
+            "three",
+            "time",
+            "week",
+            "dose",
+            "150",
+            "mg",
+            "12",
+            "week",
+            "first",
+            "treatment",
+            "ft",
+            "period",
+            "subject",
+            "show",
+            "75",
+            "percent",
+            "improvement",
+            "pasi",
+            "score",
+            "week",
+            "12",
+            "observe",
+            "24",
+            "week",
+            "without",
+            "treatment",
+            "relapse",
+            "whichever",
+            "occur",
+            "first",
+            "subject",
+            "reassign",
+            "either",
+            "onercept",
+            "150",
+            "mg",
+            "placebo",
+            "subcutaneously",
+            "three",
+            "time",
+            "week",
+            "16",
+            "week",
+            "subject",
+            "show",
+            "75",
+            "percent",
+            "improvement",
+            "pasi",
+            "score",
+            "week",
+            "12",
+            "receive",
+            "onercept",
+            "150",
+            "mg",
+            "subcutaneously",
+            "three",
+            "time",
+            "week",
+            "40",
+            "week",
+            "treatment",
             "placebo",
             "administer",
             "subcutaneously",
@@ -107,11 +172,8 @@
             "16",
             "week"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "recombinant",
             "human",
             "tumor",
             "necrosis",
@@ -645,12 +707,18 @@
             "use",
             "onercept"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090129.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "placebo"
+      ],
+      "mesh_term": [
+            "psoriatic"
+      ],
+      "id": "NCT00090129"
 }

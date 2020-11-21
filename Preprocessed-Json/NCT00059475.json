@@ -131,7 +131,6 @@
             "human",
             "leukocyte",
             "antigen",
-            "0201",
             "type",
             "vaccine",
             "base",
@@ -349,7 +348,6 @@
             "human",
             "leukocyte",
             "antigen",
-            "0201",
             "positive",
             "patient",
             "high",
@@ -416,19 +414,53 @@
             "peptide",
             "immunization"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "melanoma",
-            "antigen",
-            "recognize",
-            "mart"
+            "Glycoprotein 100 (GP100): 209-217 (210M)",
+            "Interleukin-2 (IL-2)",
+            "Montanide ISA 51",
+            "Melanoma antigen recognized by T-cells (MART)-1: 27-35",
+            "27-35 (27L): melanoma antigen recognized by T-cells (MART)-1",
+            "melanoma antigen recognized by T-cells (MART)-1: 26-35(27L)"
       ],
       "arm_group_label": [
+            "x",
+            "4",
+            "hd",
+            "hd",
+            "hd",
+            "hd",
+            "hd",
+            "peptide",
+            "x",
+            "4",
+            "hd",
+            "peptide",
+            "x",
+            "4",
+            "hd",
+            "x",
+            "4",
+            "hd",
+            "hd",
+            "peptide",
+            "x",
+            "4",
+            "hd",
+            "x",
+            "4",
+            "hd",
+            "peptide",
+            "x",
+            "4",
             "hd"
       ],
       "description": [
@@ -454,7 +486,6 @@
             "human",
             "leukocyte",
             "antigen",
-            "0201",
             "patient",
             "age",
             "greater",
@@ -785,12 +816,16 @@
             "count",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059475.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00059475"
 }

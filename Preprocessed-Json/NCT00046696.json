@@ -76,13 +76,13 @@
             "disease",
             "progression"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "NM-3"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -389,12 +389,16 @@
             "greater",
             "240"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046696.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "live",
+            "cancer"
+      ],
+      "id": "NCT00046696"
 }

@@ -177,21 +177,17 @@
             "severe",
             "sepsis"
       ],
-      "condition": [
-            "sepsis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Drotrecogin alfa (activated)",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "xigris"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -257,12 +253,17 @@
             "blood",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00049764.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa",
+            "activate",
+            "c"
+      ],
+      "id": "NCT00049764"
 }

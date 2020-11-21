@@ -396,17 +396,21 @@
             "yet"
       ],
       "condition": [
-            "nicotine",
+            "cessation",
+            "tolerance",
+            "management",
             "replacement",
             "therapy"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "nicotine",
-            "replacement",
-            "therapy"
+            "Mood Tolearance",
+            "Mood Management",
+            "Nicotine Replacement therapy"
       ],
       "criteria": [
             "outpatient",
@@ -422,9 +426,10 @@
             "replacement",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075972.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [],
+      "id": "NCT00075972"
 }

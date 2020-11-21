@@ -53,14 +53,15 @@
             "response"
       ],
       "condition": [
-            "hiv",
+            "infection",
+            "retinitis",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Ganciclovir"
       ],
       "criteria": [
             "exclusion",
@@ -238,12 +239,24 @@
             "cmv",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002025.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "retinitis",
+            "triphosphate"
+      ],
+      "id": "NCT00002025"
 }

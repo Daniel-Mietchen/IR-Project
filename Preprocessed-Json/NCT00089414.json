@@ -277,27 +277,36 @@
             "mrmd"
       ],
       "condition": [
-            "depression"
+            "syndrome",
+            "dysphoric",
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cdb",
-            "2914"
+            "Yasmin",
+            "Placebo",
+            "CDB 2914"
       ],
       "description": [
-            "drug",
             "administer",
             "dependent",
             "upon",
             "arm"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "progesterone",
+            "combination",
+            "30",
+            "ug",
+            "ethinyl",
+            "estradiol",
+            "3",
+            "mg",
+            "drospirenone",
             "antagonist"
       ],
       "criteria": [
@@ -521,9 +530,7 @@
             "last",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -532,6 +539,24 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00089414.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mrmd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "syndrome",
+            "dysphoric",
+            "disorder",
+            "estradiol",
+            "phosphate",
+            "oral",
+            "ethinyl",
+            "estradiol",
+            "combination",
+            "17",
+            "valerate",
+            "agent"
+      ],
+      "id": "NCT00089414"
 }

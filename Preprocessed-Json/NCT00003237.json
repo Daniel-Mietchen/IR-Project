@@ -134,15 +134,18 @@
             "month"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "cisplatin",
+            "paclitaxel",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -313,12 +316,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003237.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003237"
 }

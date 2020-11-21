@@ -128,27 +128,43 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
             "mantle",
             "cell",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -685,12 +701,19 @@
             "enter",
             "database"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016094.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "lymphoma",
+            "anaplastic",
+            "monoclonal"
+      ],
+      "id": "NCT00016094"
 }

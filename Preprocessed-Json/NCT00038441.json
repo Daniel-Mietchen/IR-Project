@@ -280,13 +280,14 @@
             "week"
       ],
       "condition": [
-            "brain",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "DTI-015"
+      ],
       "description": [
             "inject",
             "catheter",
@@ -564,7 +565,7 @@
             "also",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -573,6 +574,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038441.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignant",
+            "glioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00038441"
 }

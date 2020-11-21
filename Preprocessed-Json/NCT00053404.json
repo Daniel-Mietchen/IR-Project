@@ -173,7 +173,6 @@
             "function"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "study_pop": [],
@@ -272,12 +271,19 @@
             "haart",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053404.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "resistance"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00053404"
 }

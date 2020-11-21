@@ -202,22 +202,57 @@
             "year"
       ],
       "condition": [
-            "small",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "disease",
+            "condition",
             "intestine",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
+            "anti-thymocyte globulin",
+            "graft-versus-tumor induction therapy",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "peripheral blood stem cell transplantation"
+      ],
+      "description": [
+            "globulin",
+            "iv",
+            "least",
+            "4",
+            "hour",
+            "day",
+            "undergo",
+            "filgrastim",
+            "allogeneic",
             "peripheral",
             "blood",
             "stem",
             "cell",
-            "transplantation"
-      ],
-      "description": [
-            "patient",
+            "transplantation",
+            "day",
+            "0",
+            "iv",
+            "2",
+            "hour",
+            "day",
+            "iv",
+            "30",
+            "minute",
+            "day",
             "undergo",
             "filgrastim",
             "allogeneic",
@@ -641,12 +676,29 @@
             "protocol",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006379.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease",
+            "neoplasm",
+            "condition",
+            "phosphate",
+            "serum"
+      ],
+      "id": "NCT00006379"
 }

@@ -362,18 +362,25 @@
             "questionnaire"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "antiretroviral",
-            "regimen"
+            "Structured treatment interruption",
+            "Antiretroviral regimen"
       ],
       "description": [
+            "interruption",
+            "schedule",
+            "dependent",
+            "arm",
             "participant",
+            "enrol",
+            "step",
+            "2",
             "take",
             "combination",
             "arv",
@@ -381,9 +388,7 @@
             "prescribe",
             "physician"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "note",
             "step",
@@ -573,12 +578,21 @@
             "cytokine",
             "infusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084032.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phi"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00084032"
 }

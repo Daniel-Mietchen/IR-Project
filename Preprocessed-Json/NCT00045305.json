@@ -262,17 +262,45 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "total",
-            "body",
-            "irradiation"
+            "Cyclosporine",
+            "Methotrexate",
+            "Photopheresis",
+            "Mycofenolate mofetil",
+            "Pentostatin",
+            "allogeneic bone marrow",
+            "peripheral blood stem cell",
+            "Total body irradiation"
       ],
       "description": [
+            "antibiotic",
+            "immunosuppressamt",
+            "property",
+            "isolate",
+            "penicillium",
+            "spp",
+            "analogue",
+            "allogeneic",
+            "bone",
+            "marrow",
+            "mobilize",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
             "total",
             "600",
             "cgy",
@@ -283,11 +311,12 @@
             "fractionate",
             "dose"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "radiation",
+            "sodium",
+            "pfs",
+            "acid",
+            "mofetil",
             "therapy"
       ],
       "criteria": [
@@ -546,7 +575,7 @@
             "myeloid",
             "leukemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -555,6 +584,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045305.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00045305"
 }

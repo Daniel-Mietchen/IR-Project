@@ -214,11 +214,10 @@
             "day"
       ],
       "condition": [
-            "otitis",
             "medium"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "levofloxacin"
@@ -463,7 +462,7 @@
             "use",
             "corticosteroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -472,6 +471,12 @@
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044473.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "quinolones"
+      ],
+      "mesh_term": [
+            "medium"
+      ],
+      "id": "NCT00044473"
 }

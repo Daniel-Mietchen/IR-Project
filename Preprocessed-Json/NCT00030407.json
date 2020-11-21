@@ -167,16 +167,31 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "Celecoxib",
+            "Docetaxel"
       ],
       "description": [
+            "day",
+            "first",
+            "cycle",
+            "patient",
+            "start",
+            "celecoxib",
+            "400",
+            "mg",
+            "po",
+            "bid",
+            "daily",
+            "dose",
+            "give",
+            "meal",
             "day",
             "1",
             "8",
@@ -193,7 +208,7 @@
             "day"
       ],
       "arm_group_label": [
-            "celecoxib",
+            "docetaxel",
             "docetaxel"
       ],
       "other_name": [],
@@ -495,12 +510,23 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030407.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00030407"
 }

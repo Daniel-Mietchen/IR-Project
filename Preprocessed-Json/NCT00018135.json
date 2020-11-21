@@ -193,14 +193,17 @@
             "use"
       ],
       "condition": [
-            "renal",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sevelamer"
+            "calcium acetate",
+            "aluminum hydroxide",
+            "Sevelamer"
       ],
       "criteria": [
             "inclusion",
@@ -225,12 +228,22 @@
             "level",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "high",
+            "ipth",
+            "level"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "acetate",
+            "hydroxide"
+      ],
+      "id": "NCT00018135"
 }

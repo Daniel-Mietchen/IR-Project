@@ -559,20 +559,42 @@
             "acuity"
       ],
       "condition": [
-            "diabetic",
             "macular",
             "edema"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "mild",
-            "macular",
-            "grid",
-            "photocoagulation"
+            "modified-ETDRS photocoagulation",
+            "Mild Macular Grid photocoagulation"
       ],
       "description": [
+            "treatment",
+            "session",
+            "give",
+            "single",
+            "multiple",
+            "sitting",
+            "investigator",
+            "discretion",
+            "long",
+            "entire",
+            "treatment",
+            "session",
+            "complete",
+            "within",
+            "6",
+            "week",
+            "retreatment",
+            "phase",
+            "1",
+            "study",
+            "occur",
+            "8",
+            "month",
+            "visit",
             "treatment",
             "session",
             "give",
@@ -599,13 +621,18 @@
             "visit"
       ],
       "arm_group_label": [
-            "mild",
+            "early",
+            "treatment",
+            "diabetic",
+            "retinopathy",
+            "study",
+            "etdrs",
             "macular",
             "grid",
             "mmg"
       ],
       "other_name": [
-            "mmg",
+            "photocoagulation",
             "photocoagulation"
       ],
       "criteria": [
@@ -937,12 +964,18 @@
             "gather",
             "eye"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dme"
+      ],
+      "mesh_term": [
+            "edema"
+      ],
+      "id": "NCT00071773"
 }

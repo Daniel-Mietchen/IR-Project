@@ -52,16 +52,39 @@
             "cancer"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "chemo"
+            "Herceptin\u2122 (Her)",
+            "Herceptin\u2122 (Her) + chemo"
       ],
       "description": [
+            "load",
+            "dose",
+            "4",
+            "iv",
+            "follow",
+            "2",
+            "iv",
+            "weekly",
+            "load",
+            "dose",
+            "8",
+            "iv",
+            "follow",
+            "6",
+            "iv",
+            "every",
+            "3",
+            "week",
+            "time",
+            "progression",
+            "add",
+            "chemotherapy",
             "load",
             "dose",
             "4",
@@ -330,9 +353,7 @@
             "indicator",
             "lesion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -341,6 +362,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004935.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004935"
 }

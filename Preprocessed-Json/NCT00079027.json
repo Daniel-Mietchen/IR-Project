@@ -235,16 +235,15 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hepatic",
-            "artery",
-            "embolization"
+            "doxorubicin hydrochloride",
+            "hepatic artery embolization"
       ],
       "criteria": [
             "disease",
@@ -441,12 +440,23 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00079027"
 }

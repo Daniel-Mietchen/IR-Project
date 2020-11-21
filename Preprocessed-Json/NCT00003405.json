@@ -302,15 +302,26 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "recombinant interferon alfa",
+            "amifostine trihydrate",
+            "bromodeoxyuridine",
+            "cytarabine",
+            "idarubicin",
+            "idoxuridine",
+            "isotretinoin",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -449,12 +460,23 @@
             "prior",
             "retinoids"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003405.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "monocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00003405"
 }

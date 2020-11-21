@@ -26,18 +26,35 @@
             "tumor"
       ],
       "condition": [
-            "biliary",
             "tract",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "plus",
-            "leucovorin"
+            "becatecarin",
+            "5-Fluorouracil Plus Leucovorin"
       ],
       "description": [
+            "140",
+            "x",
+            "day",
+            "mode",
+            "administration",
+            "via",
+            "central",
+            "venous",
+            "catheter",
+            "duration",
+            "treatment",
+            "day",
+            "1",
+            "5",
+            "28",
+            "day",
+            "cycle",
             "leucovorin",
             "lv",
             "dose",
@@ -200,12 +217,21 @@
             "hiv",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090025.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "biliary",
+            "tree"
+      ],
+      "mesh_term": [
+            "tract",
+            "neoplasm"
+      ],
+      "id": "NCT00090025"
 }

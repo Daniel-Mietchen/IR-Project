@@ -65,14 +65,15 @@
             "study"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methotrexate"
+            "Tacrolimus (Prograf\u00ae)",
+            "Methotrexate"
       ],
       "criteria": [
             "inclusion",
@@ -119,12 +120,18 @@
             "normal",
             "range"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036153.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tacrolimus"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00036153"
 }

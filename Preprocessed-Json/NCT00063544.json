@@ -298,7 +298,8 @@
             "fund"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -311,7 +312,7 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "11",
             "year"
@@ -320,6 +321,11 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063544.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obesity"
+      ],
+      "id": "NCT00063544"
 }

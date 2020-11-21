@@ -19,14 +19,16 @@
             "shock"
       ],
       "condition": [
-            "septic",
+            "shock",
             "shock"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dobutamine"
+            "Levosimendan",
+            "Dobutamine"
       ],
       "criteria": [
             "inclusion",
@@ -58,12 +60,19 @@
             "av",
             "block"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093301.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sepsis"
+      ],
+      "mesh_term": [
+            "septic",
+            "cardiogenic"
+      ],
+      "id": "NCT00093301"
 }

@@ -66,28 +66,70 @@
             "individual"
       ],
       "condition": [
-            "hepatitis",
             "c",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "peginterferon",
-            "pegasys"
+            "Ribavirin",
+            "Ribavirin",
+            "peginterferon alfa-2a [Pegasys]",
+            "peginterferon alfa-2a [Pegasys]",
+            "peginterferon alfa-2a [Pegasys]",
+            "peginterferon alfa-2a [Pegasys]"
       ],
       "description": [
+            "po",
+            "daily",
+            "72",
+            "week",
+            "po",
+            "daily",
+            "48",
+            "week",
+            "microgram",
+            "sc",
+            "weekly",
+            "12",
+            "week",
+            "follow",
             "180",
+            "microgram",
+            "sc",
+            "weekly",
+            "60",
+            "week",
+            "microgram",
+            "sc",
+            "weekly",
+            "12",
+            "week",
+            "follow",
+            "180",
+            "microgram",
+            "sc",
+            "weekly",
+            "36",
+            "week",
+            "microgram",
+            "sc",
+            "weekly",
+            "72",
+            "week",
             "microgram",
             "sc",
             "weekly",
             "48",
             "week"
       ],
-      "arm_group_label": [
-            "4"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -152,12 +194,18 @@
             "virus",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087646.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00087646"
 }

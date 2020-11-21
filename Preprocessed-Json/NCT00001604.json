@@ -58,7 +58,6 @@
             "genetic",
             "genome",
             "link",
-            "stutter",
             "researcher",
             "study",
             "pattern",
@@ -248,9 +247,7 @@
             "mri",
             "fmri"
       ],
-      "condition": [
-            "stutter"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -308,12 +305,16 @@
             "neurological",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001604.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stutter"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001604"
 }

@@ -201,13 +201,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "doxorubicin hydrochloride",
             "ifosfamide"
       ],
       "criteria": [
@@ -334,7 +334,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -343,6 +343,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003212.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00003212"
 }

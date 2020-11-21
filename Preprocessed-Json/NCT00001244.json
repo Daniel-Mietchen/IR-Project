@@ -430,9 +430,7 @@
             "option",
             "population"
       ],
-      "condition": [
-            "cvid"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -597,12 +595,22 @@
             "feature",
             "immunodeficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001244.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immune",
+            "response"
+      ],
+      "mesh_term": [
+            "deficiency",
+            "syndrome",
+            "variable",
+            "immunodeficiency"
+      ],
+      "id": "NCT00001244"
 }

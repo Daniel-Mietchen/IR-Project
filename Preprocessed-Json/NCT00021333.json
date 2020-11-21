@@ -189,15 +189,21 @@
             "year"
       ],
       "condition": [
-            "lung",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -391,12 +397,26 @@
             "condition",
             "stable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021333.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "esthesioneuroblastoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00021333"
 }

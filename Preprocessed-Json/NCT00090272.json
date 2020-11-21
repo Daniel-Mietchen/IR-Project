@@ -55,15 +55,15 @@
             "day"
       ],
       "condition": [
-            "colorectal",
             "surgery"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "cefotetan"
+            "MK0826, ertapenem sodium",
+            "Comparator: cefotetan"
       ],
       "criteria": [
             "inclusion",
@@ -97,12 +97,16 @@
             "bowel",
             "preparation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090272.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "wind",
+            "infection"
+      ],
+      "id": "NCT00090272"
 }

@@ -208,27 +208,33 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "cavity",
+            "cancer",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "recombinant interleukin-12"
       ],
       "description": [
-            "give",
             "intraperitoneally"
       ],
       "arm_group_label": [
-            "treatment",
             "recombinant"
       ],
       "other_name": [
-            "ro"
+            "lymphocyte",
+            "maturation",
+            "factor",
+            "killer",
+            "cell",
+            "stimulatory",
+            "factor"
       ],
       "criteria": [
             "inclusion",
@@ -366,14 +372,17 @@
             "prior",
             "laparotomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016289.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm"
+      ],
+      "id": "NCT00016289"
 }

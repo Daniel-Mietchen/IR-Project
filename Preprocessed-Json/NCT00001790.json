@@ -444,13 +444,13 @@
             "b",
             "initiate"
       ],
-      "condition": [
-            "neutropenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "FK463"
+      ],
       "criteria": [
             "child",
             "age",
@@ -635,9 +635,13 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001790.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fungemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001790"
 }

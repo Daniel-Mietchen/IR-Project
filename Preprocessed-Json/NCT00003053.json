@@ -121,15 +121,17 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "cisplatin",
+            "etoposide",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -214,12 +216,23 @@
             "surgery",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003053.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003053"
 }

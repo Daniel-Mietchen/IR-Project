@@ -47,14 +47,14 @@
             "hiv"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -198,12 +198,27 @@
             "antibody",
             "hpmpc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002095.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "triphosphate"
+      ],
+      "id": "NCT00002095"
 }

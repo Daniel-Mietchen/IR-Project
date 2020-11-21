@@ -263,15 +263,29 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "megestrol acetate",
+            "melphalan",
+            "tamoxifen citrate",
+            "thiotepa",
+            "conventional surgery",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -448,12 +462,21 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002680.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acetate"
+      ],
+      "id": "NCT00002680"
 }

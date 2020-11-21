@@ -201,7 +201,12 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "stromal",
+            "tumor",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iv",
             "adult",
             "soft",
@@ -209,22 +214,24 @@
             "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hydrochloride"
+            "alvocidib",
+            "doxorubicin hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
             "chemotherapy"
       ],
       "other_name": [
-            "adriamycin",
+            "1275",
+            "pfs",
             "rdf"
       ],
       "criteria": [
@@ -233,7 +240,6 @@
             "histologically",
             "cytologically",
             "confirm",
-            "sarcoma",
             "unresectable",
             "disease",
             "locally",
@@ -478,12 +484,17 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098579.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor",
+            "doxorubicin"
+      ],
+      "id": "NCT00098579"
 }

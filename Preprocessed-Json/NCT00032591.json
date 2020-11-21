@@ -228,26 +228,21 @@
             "year"
       ],
       "condition": [
-            "atrial",
             "fibrillation"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "high",
-            "quality",
-            "anticoagulation",
-            "management",
-            "hqacm",
-            "conventional",
-            "monthly",
-            "test"
+            "Weekly patient self-testing of prothrombin time",
+            "High quality anticoagulation management (HQACM) with conventional monthly testing"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "description": [
-            "hqacm",
             "test",
             "every",
             "4",
@@ -257,9 +252,7 @@
             "value",
             "change"
       ],
-      "other_name": [
-            "hqacm"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -375,12 +368,21 @@
             "caregiver",
             "skill"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032591.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mechanical",
+            "heart",
+            "valve",
+            "mhv"
+      ],
+      "mesh_term": [
+            "fibrillation"
+      ],
+      "id": "NCT00032591"
 }

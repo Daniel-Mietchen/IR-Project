@@ -18,17 +18,19 @@
             "postmenopausal",
             "osteoporosis"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "denosumab"
+            "placebo",
+            "Denosumab"
       ],
       "description": [
-            "denosumab",
+            "administer",
+            "subcutaneous",
+            "injection",
             "60",
             "mg",
             "administer",
@@ -36,11 +38,12 @@
             "injection"
       ],
       "arm_group_label": [
-            "denosumab",
             "60",
             "mg"
       ],
-      "other_name": [],
+      "other_name": [
+            "162"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -75,9 +78,7 @@
             "spinal",
             "entry"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "60",
             "year"
@@ -86,6 +87,13 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00089791.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "postmenopausal",
+            "osteoporosis"
+      ],
+      "mesh_term": [
+            "postmenopausal"
+      ],
+      "id": "NCT00089791"
 }

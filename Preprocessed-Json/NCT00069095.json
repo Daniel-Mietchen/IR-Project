@@ -225,19 +225,79 @@
             "death"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "bevacizumab",
-            "5"
+            "Oxaliplatin 130 mg/m^2",
+            "Capecitabine 1000 mg/m^2",
+            "Bevacizumab 7.5 mg/kg",
+            "Placebo for bevacizumab 7.5 mg/kg",
+            "Oxaliplatin 85 mg/m^2",
+            "Leucovorin 200 mg/m^2",
+            "Fluorouracil 400 mg/m^2",
+            "Bevacizumab 5 mg/kg",
+            "Placebo for bevacizumab 5 mg/kg"
       ],
       "description": [
-            "placebo",
+            "administer",
+            "2",
+            "h",
+            "infusion",
+            "first",
+            "dose",
+            "capecitabine",
+            "take",
+            "within",
+            "30",
+            "min",
+            "end",
+            "breakfast",
+            "dinner",
+            "administer",
+            "30",
+            "90",
+            "min",
+            "infusion",
+            "control",
+            "bevacizumab",
+            "volume",
+            "equivalent",
+            "bevacizumab",
+            "administer",
+            "30",
+            "90",
+            "min",
+            "infusion",
+            "85",
+            "administer",
+            "simultaneously",
+            "leucovorin",
+            "2",
+            "h",
+            "infusion",
+            "administer",
+            "simultaneously",
+            "oxaliplatin",
+            "85",
+            "2",
+            "h",
+            "infusion",
+            "administer",
+            "30",
+            "90",
+            "min",
+            "infusion",
             "control",
             "bevacizumab",
             "volume",
@@ -250,10 +310,16 @@
             "min",
             "infusion"
       ],
-      "arm_group_label": [],
-      "other_name": [
-            "avastin"
+      "arm_group_label": [
+            "bevacizumab",
+            "bevacizumab",
+            "bevacizumab",
+            "bevacizumab",
+            "bevacizumab",
+            "bevacizumab",
+            "bevacizumab"
       ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -291,12 +357,15 @@
             "adjuvant",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069095.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00069095"
 }

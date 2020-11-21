@@ -203,15 +203,19 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "aldesleukin",
+            "recombinant interferon alfa",
+            "fluorouracil",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -432,7 +436,7 @@
             "drug",
             "device"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -441,6 +445,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003664.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00003664"
 }

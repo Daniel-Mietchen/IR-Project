@@ -226,14 +226,14 @@
             "dose"
       ],
       "condition": [
-            "liver",
+            "infection",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -448,12 +448,22 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001001.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "biological",
+            "availability"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001001"
 }

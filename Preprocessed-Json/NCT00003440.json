@@ -356,29 +356,97 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "iiic",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "paclitaxel",
+            "trastuzumab",
+            "quality-of-life assessment",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "1",
+            "hour",
+            "3",
+            "hour",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "paclitaxel",
+            "b",
+            "paclitaxel",
+            "c",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "trastuzumab",
+            "e",
+            "paclitaxel",
+            "trastuzumab",
+            "f",
+            "paclitaxel",
+            "trastuzumab",
+            "c",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "trastuzumab",
+            "e",
+            "paclitaxel",
+            "trastuzumab",
+            "f",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "b",
+            "paclitaxel",
+            "c",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "trastuzumab",
+            "e",
+            "paclitaxel",
+            "trastuzumab",
+            "f",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "b",
+            "paclitaxel",
+            "c",
+            "paclitaxel",
+            "trastuzumab",
+            "paclitaxel",
+            "trastuzumab",
+            "e",
+            "paclitaxel",
+            "trastuzumab",
             "f",
             "paclitaxel",
             "trastuzumab"
       ],
       "other_name": [
-            "quality",
             "life",
             "assessment"
       ],
@@ -665,14 +733,16 @@
             "aminotransferase",
             "ast"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003440.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003440"
 }

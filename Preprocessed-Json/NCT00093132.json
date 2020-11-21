@@ -101,17 +101,17 @@
             "treatment"
       ],
       "condition": [
+            "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "satraplatin"
+            "Satraplatin"
       ],
       "description": [
-            "satraplatin",
             "member",
             "class",
             "chemotherapy",
@@ -132,9 +132,7 @@
             "give",
             "orally"
       ],
-      "arm_group_label": [
-            "satraplatin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -186,12 +184,21 @@
             "cytotoxic",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093132.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carcinoma",
+            "cell",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00093132"
 }

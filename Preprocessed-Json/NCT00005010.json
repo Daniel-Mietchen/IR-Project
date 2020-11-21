@@ -296,15 +296,18 @@
             "retransplantation"
       ],
       "condition": [
-            "chronic",
+            "renal",
+            "disease",
             "allograft",
             "nephropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pravastatin"
+            "Irbesartan",
+            "Pravastatin"
       ],
       "criteria": [
             "inclusion",
@@ -390,12 +393,16 @@
             "condition",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005010.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00005010"
 }

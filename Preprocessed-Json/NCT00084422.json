@@ -94,7 +94,6 @@
             "receive",
             "oral",
             "twice",
-            "daily",
             "day",
             "course",
             "repeat",
@@ -152,17 +151,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "lestaurtinib"
       ],
       "description": [
-            "give",
             "orally",
             "twice",
             "daily",
@@ -593,12 +589,17 @@
             "itraconazole",
             "voriconazole"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084422.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00084422"
 }

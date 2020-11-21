@@ -313,15 +313,12 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gemtuzumab",
-            "ozogamicin"
+            "gemtuzumab ozogamicin"
       ],
       "criteria": [
             "disease",
@@ -537,12 +534,23 @@
             "kinase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "61",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091234.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myelomonocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00091234"
 }

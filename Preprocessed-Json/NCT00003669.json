@@ -167,15 +167,13 @@
             "fdaaa"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arzoxifene",
-            "hydrochloride"
+            "arzoxifene hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -372,14 +370,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "endometrial",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003669"
 }

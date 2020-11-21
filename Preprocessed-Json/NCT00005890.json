@@ -99,11 +99,10 @@
             "failure"
       ],
       "condition": [
-            "septic",
             "shock"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "corticotropin"
@@ -214,7 +213,7 @@
             "hypersensitivity",
             "corticotropin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -223,6 +222,14 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "septic",
+            "shock"
+      ],
+      "mesh_term": [
+            "septic",
+            "hormone"
+      ],
+      "id": "NCT00005890"
 }

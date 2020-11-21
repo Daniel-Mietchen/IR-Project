@@ -170,16 +170,13 @@
             "year"
       ],
       "condition": [
-            "caries",
             "dental"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "dental",
-            "amalgam",
-            "restoration"
+            "Dental amalgam restorations"
       ],
       "criteria": [
             "age",
@@ -211,7 +208,7 @@
             "neurologic",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -220,6 +217,13 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066118.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "disease"
+      ],
+      "mesh_term": [
+            "caries"
+      ],
+      "id": "NCT00066118"
 }

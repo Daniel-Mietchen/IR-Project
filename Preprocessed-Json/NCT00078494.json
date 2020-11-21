@@ -116,8 +116,6 @@
             "type",
             "patient",
             "type",
-            "1101",
-            "2402",
             "type",
             "two",
             "vaccine",
@@ -324,8 +322,6 @@
             "available"
       ],
       "detailed_description": [
-            "1101",
-            "2402",
             "positive",
             "patient",
             "locally",
@@ -380,19 +376,18 @@
             "npc"
       ],
       "condition": [
-            "nasopharyngeal",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "EBV-LMP-2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
             "1",
-            "1101",
-            "2402",
             "patient",
             "greater",
             "18",
@@ -531,8 +526,6 @@
             "use",
             "patient",
             "bear",
-            "1101",
-            "2402",
             "however",
             "patient",
             "follow",
@@ -806,9 +799,15 @@
             "use",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078494.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "npc"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078494"
 }

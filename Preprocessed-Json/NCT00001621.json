@@ -73,7 +73,6 @@
             "protocol"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "criteria": [
@@ -160,12 +159,20 @@
             "exclude",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001621.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "function",
+            "test"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001621"
 }

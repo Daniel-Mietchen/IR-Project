@@ -211,21 +211,60 @@
             "year"
       ],
       "condition": [
-            "lymphoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "filgrastim",
+            "cyclophosphamide",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "prednisone",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
             "2"
       ],
       "other_name": [
-            "nsc",
+            "125066",
+            "stimulate",
+            "factor",
+            "614629",
+            "26271",
+            "169780",
+            "123127",
+            "141540",
+            "pred",
+            "10023",
             "67574"
       ],
       "criteria": [
@@ -294,12 +333,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005578.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00005578"
 }

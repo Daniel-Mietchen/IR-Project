@@ -249,13 +249,15 @@
             "cancer"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABI-007"
+      ],
       "criteria": [
             "patient",
             "eligible",
@@ -380,12 +382,20 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "taxane"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00046527"
 }

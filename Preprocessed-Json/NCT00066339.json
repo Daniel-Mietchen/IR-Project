@@ -135,11 +135,10 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "gefitinib"
@@ -170,9 +169,7 @@
             "letrozole",
             "adjuvant",
             "metastatic",
-            "set",
             "note",
-            "endocrine",
             "therapy",
             "must",
             "last",
@@ -417,9 +414,7 @@
             "therapy",
             "initiate",
             "study",
-            "enrollment",
             "note",
-            "bisphosphonates",
             "may",
             "initiate",
             "study",
@@ -427,12 +422,24 @@
             "treatment",
             "hypercalcemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066339.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "inhibitor",
+            "receptor",
+            "modulators",
+            "antagonist"
+      ],
+      "id": "NCT00066339"
 }

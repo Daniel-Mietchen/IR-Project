@@ -135,15 +135,19 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "flutamide",
+            "goserelin",
+            "leuprolide acetate",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -241,14 +245,21 @@
             "deprivation",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002889.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002889"
 }

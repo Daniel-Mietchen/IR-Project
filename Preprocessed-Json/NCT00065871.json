@@ -288,16 +288,14 @@
             "add",
             "study"
       ],
-      "condition": [
-            "contraception"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "contraceptive",
-            "prescribe",
-            "pharmacist"
+            "Contraceptive Screening by Pharmacist",
+            "Contraceptive Prescribing by Pharmacist"
       ],
       "criteria": [
             "inclusion",
@@ -341,9 +339,7 @@
             "pay",
             "service"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -352,6 +348,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065871.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vaginal",
+            "contraceptive",
+            "ring"
+      ],
+      "mesh_term": [
+            "agent"
+      ],
+      "id": "NCT00065871"
 }

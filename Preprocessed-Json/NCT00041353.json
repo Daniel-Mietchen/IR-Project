@@ -148,17 +148,17 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "cytology specimen collection procedure",
+            "comparison of screening methods",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -280,14 +280,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041353.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lobular",
+            "breast",
+            "carcinoma",
+            "situ"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00041353"
 }

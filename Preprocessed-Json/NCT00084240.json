@@ -59,13 +59,16 @@
             "trial"
       ],
       "condition": [
-            "malaria",
             "falciparum"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Azithromycin/Chloroquine",
+            "Sulfadoxine-Pyrimethamine/Chloroquine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -308,7 +311,7 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -317,6 +320,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084240.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "falciparum",
+            "pyrimethamine",
+            "drug",
+            "combination",
+            "diphosphate"
+      ],
+      "id": "NCT00084240"
 }

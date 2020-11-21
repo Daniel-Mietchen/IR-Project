@@ -182,13 +182,18 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "melanoma",
+            "iii",
+            "melanoma",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "dendritic cell-gp100-MART-1 antigen vaccine",
             "sargramostim"
       ],
       "criteria": [
@@ -334,11 +339,16 @@
             "antigen",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00019890.xml"
+      "keyword": [
+            "stage",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00019890"
 }

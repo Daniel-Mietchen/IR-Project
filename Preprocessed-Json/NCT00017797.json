@@ -238,7 +238,7 @@
             "medication"
       ],
       "condition": [
-            "pregnancy"
+            "infection"
       ],
       "criteria": [
             "inclusion",
@@ -413,14 +413,19 @@
             "drug",
             "alcohol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017797.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glucose",
+            "intolerance"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00017797"
 }

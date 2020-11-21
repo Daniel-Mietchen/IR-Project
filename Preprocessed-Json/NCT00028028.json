@@ -171,29 +171,36 @@
             "thereafter"
       ],
       "condition": [
-            "extensive",
             "stage",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "pharmacological",
+            "cycle",
+            "inhibitor",
+            "779",
             "study"
       ],
       "criteria": [
@@ -494,12 +501,18 @@
             "week",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028028.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00028028"
 }

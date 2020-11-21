@@ -131,18 +131,17 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
+            "surgery",
             "radiation"
       ],
-      "arm_group_label": [
-            "radiation"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -295,14 +294,21 @@
             "microwave",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00023686"
 }

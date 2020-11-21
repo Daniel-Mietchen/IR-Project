@@ -222,14 +222,14 @@
             "thereafter"
       ],
       "condition": [
-            "kidney",
+            "infection",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valsartan"
+            "Valsartan"
       ],
       "criteria": [
             "inclusion",
@@ -503,12 +503,22 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089518.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "disease",
+            "receptor",
+            "antagonist"
+      ],
+      "id": "NCT00089518"
 }

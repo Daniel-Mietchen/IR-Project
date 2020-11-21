@@ -214,15 +214,14 @@
             "option"
       ],
       "condition": [
-            "lymphoproliferative",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "autologous",
-            "ctl"
+            "EBV-specific autologous CTL"
       ],
       "criteria": [
             "pediatric",
@@ -231,7 +230,7 @@
             "liver",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -240,6 +239,14 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063648.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "lymphoproliferative",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00063648"
 }

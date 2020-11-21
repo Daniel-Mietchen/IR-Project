@@ -167,19 +167,25 @@
             "record"
       ],
       "condition": [
-            "neurologic",
+            "disease",
+            "disease",
             "manifestation"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007397.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "manifestation"
+      ],
+      "id": "NCT00007397"
 }

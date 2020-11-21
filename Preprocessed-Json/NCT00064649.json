@@ -35,19 +35,30 @@
             "finasteride"
       ],
       "condition": [
-            "benign",
             "prostatic",
             "hyperplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Device",
+            "Device",
+            "Drug"
       ],
       "intervention_name": [
-            "finasteride",
-            "alfuzosin"
+            "Transurethral Microwave Thermotherapy (TUMT)",
+            "Transurethral Needle Ablation (TUNA) Therapy",
+            "Finasteride and Alfuzosin"
       ],
       "description": [
-            "finasteride",
+            "minimally",
+            "invasive",
+            "surgical",
+            "therapy",
+            "bph",
+            "minimally",
+            "invasive",
+            "surgical",
+            "therapy",
+            "bph",
             "daily",
             "dose",
             "5",
@@ -58,9 +69,7 @@
             "10",
             "mg"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "patient",
@@ -425,14 +434,19 @@
             "completion",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064649.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "medical",
+            "therapy"
+      ],
+      "mesh_term": [
+            "hyperplasia"
+      ],
+      "id": "NCT00064649"
 }

@@ -179,17 +179,15 @@
             "delirium"
       ],
       "condition": [
-            "respiration",
             "artificial"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "sbt",
-            "spontaneous",
-            "breathe",
-            "trial"
+            "SAT: Spontaneous Awakening Trial",
+            "SBT: Spontaneous Breathing Trial"
       ],
       "criteria": [
             "inclusion",
@@ -237,12 +235,16 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097630.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ventilation",
+            "wean"
+      ],
+      "id": "NCT00097630"
 }

@@ -265,14 +265,12 @@
             "medication",
             "prednisone"
       ],
-      "condition": [
-            "thrombocytopenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "daclizumab"
+            "Daclizumab"
       ],
       "criteria": [
             "inclusion",
@@ -331,7 +329,6 @@
             "study",
             "entry",
             "le",
-            "note",
             "patient",
             "receive",
             "ivig",
@@ -496,9 +493,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049725.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "itp"
+      ],
+      "mesh_term": [
+            "thrombocytopenic",
+            "idiopathic",
+            "monoclonal",
+            "g"
+      ],
+      "id": "NCT00049725"
 }

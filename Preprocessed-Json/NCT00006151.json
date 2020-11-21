@@ -57,7 +57,6 @@
             "moderate",
             "heavy",
             "smoker",
-            "15",
             "cpd",
             "interest",
             "smoke",
@@ -132,19 +131,16 @@
             "nonefficacy"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "behavioral",
-            "therapy"
+            "Behavioral Therapy"
       ],
       "description": [
-            "weekly",
             "behavioral",
             "therapy",
             "base",
@@ -160,7 +156,9 @@
             "taper"
       ],
       "arm_group_label": [
-            "placebo"
+            "drop",
+            "ad",
+            "c"
       ],
       "criteria": [
             "inclusion",
@@ -206,7 +204,7 @@
             "month",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -215,6 +213,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006151.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "motivational",
+            "interview"
+      ],
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00006151"
 }

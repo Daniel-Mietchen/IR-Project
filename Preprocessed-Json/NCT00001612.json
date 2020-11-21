@@ -90,7 +90,6 @@
             "etdrs"
       ],
       "condition": [
-            "diabetic",
             "retinopathy"
       ],
       "criteria": [
@@ -112,9 +111,18 @@
             "enrol",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "wilmer",
+            "eye",
+            "institute"
+      ],
+      "mesh_term": [
+            "disease",
+            "retinopathy"
+      ],
+      "id": "NCT00001612"
 }

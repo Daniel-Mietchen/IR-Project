@@ -222,21 +222,26 @@
             "enrol"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "recombinant interferon alfa",
+            "sargramostim",
+            "cyclophosphamide",
+            "dexamethasone",
+            "melphalan",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -341,7 +346,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -350,6 +355,17 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003007.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00003007"
 }

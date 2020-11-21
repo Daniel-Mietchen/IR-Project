@@ -129,18 +129,18 @@
             "treatment"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cisplatin",
+            "gemcitabine hydrochloride"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "cisplatin",
             "cisplatin"
       ],
       "criteria": [
@@ -335,12 +335,20 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002998.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002998"
 }

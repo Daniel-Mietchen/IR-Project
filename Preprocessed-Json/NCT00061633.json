@@ -53,19 +53,22 @@
             "patient"
       ],
       "condition": [
-            "wind",
+            "bacterial",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vancomycin",
-            "antistaphylococcal",
-            "penicillin"
+            "Telavancin",
+            "Vancomycin or antistaphylococcal penicillin"
       ],
       "description": [
-            "vancomycin",
+            "iv",
+            "intravenously",
+            "14",
+            "day",
             "1",
             "gram",
             "iv",
@@ -93,7 +96,6 @@
             "day"
       ],
       "arm_group_label": [
-            "standard",
             "care",
             "csssi"
       ],
@@ -203,12 +205,18 @@
             "gangrene",
             "mediastinitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061633.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "infection",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00061633"
 }

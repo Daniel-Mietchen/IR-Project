@@ -145,19 +145,16 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fosbretabulin",
-            "disodium"
+            "fosbretabulin disodium"
       ],
       "description": [
-            "combretastatin",
             "phosphate",
             "iv",
             "10",
@@ -189,14 +186,12 @@
             "cr"
       ],
       "other_name": [
-            "combretastatin",
             "phosphate"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "anaplastic",
             "poorly",
             "differentiate",
@@ -251,7 +246,6 @@
             "screen",
             "direct",
             "indirect",
-            "laryngoscopy",
             "note",
             "patient",
             "bulky",
@@ -583,12 +577,24 @@
             "cytotoxic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060242.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "thyroid",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "carcinoma",
+            "anaplastic"
+      ],
+      "id": "NCT00060242"
 }

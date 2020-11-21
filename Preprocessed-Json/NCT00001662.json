@@ -153,13 +153,14 @@
             "test"
       ],
       "condition": [
-            "dementia"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ampalex"
+            "CX516 (Ampalex)"
       ],
       "criteria": [
             "inclusion",
@@ -499,9 +500,16 @@
             "test",
             "item"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001662.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alzheimer",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001662"
 }

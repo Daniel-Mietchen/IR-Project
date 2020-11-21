@@ -35,15 +35,16 @@
             "therapy"
       ],
       "condition": [
-            "tuberculosis",
+            "infection",
+            "infection",
             "mycobacterium",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -141,9 +142,20 @@
             "intolerance",
             "azithromycin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002085.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mycobacterium",
+            "infection",
+            "atypical"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002085"
 }

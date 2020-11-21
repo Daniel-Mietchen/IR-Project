@@ -32,21 +32,15 @@
             "cancer"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "afp",
-            "gene",
-            "hepatocellular",
-            "carcinoma",
-            "vaccine"
+            "AFP gene hepatocellular carcinoma vaccine"
       ],
       "description": [
-            "patient",
             "receive",
             "three",
             "biweekly",
@@ -58,7 +52,6 @@
             "2",
             "ml",
             "montanide",
-            "group",
             "afp",
             "peptide",
             "dose",
@@ -80,7 +73,13 @@
             "ug"
       ],
       "arm_group_label": [
+            "first",
+            "dose",
             "group",
+            "b",
+            "dose",
+            "group",
+            "2",
             "3",
             "dose",
             "level",
@@ -369,12 +368,22 @@
             "cytotoxic",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005629.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00005629"
 }

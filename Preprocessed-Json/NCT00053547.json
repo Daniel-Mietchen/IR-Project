@@ -32,17 +32,16 @@
             "disease"
       ],
       "condition": [
-            "end",
+            "hyperparathyroidism",
             "stage",
             "renal",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paricalcitol",
-            "injection"
+            "paricalcitol injection"
       ],
       "criteria": [
             "subject",
@@ -52,7 +51,7 @@
             "secondary",
             "hyperparathyroidism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -61,6 +60,11 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053547.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "chronic",
+            "secondary"
+      ],
+      "id": "NCT00053547"
 }

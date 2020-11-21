@@ -174,19 +174,35 @@
             "infusion",
             "transplant"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "total",
-            "body",
-            "irradiation"
+            "CAMPATH-1H",
+            "Anti-CD45",
+            "Ara-C",
+            "Cyclophosphamide",
+            "Mesna",
+            "Total Body Irradiation"
       ],
       "description": [
-            "150",
+            "accord",
+            "institutional",
+            "sop",
+            "400",
+            "3000",
+            "q",
+            "45",
+            "45",
+            "divide",
+            "5",
+            "dose",
             "cgy",
             "x",
             "2",
@@ -199,9 +215,7 @@
             "match",
             "unrelated"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -313,12 +327,18 @@
             "lactate",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukemia"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00057005"
 }

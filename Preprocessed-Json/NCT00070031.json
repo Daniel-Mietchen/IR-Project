@@ -126,11 +126,10 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "edotecarin"
@@ -226,9 +225,7 @@
             "brain",
             "metastasis",
             "carcinomatous",
-            "meningitis",
             "note",
-            "baseline",
             "ct",
             "scan",
             "mri",
@@ -523,14 +520,21 @@
             "anticancer",
             "treatment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00070031"
 }

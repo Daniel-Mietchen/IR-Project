@@ -220,7 +220,6 @@
             "possible"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "criteria": [
@@ -270,9 +269,15 @@
             "renal",
             "hepatic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001385.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "scintimammography"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001385"
 }

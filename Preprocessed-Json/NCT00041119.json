@@ -420,21 +420,64 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "AC regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ca",
+            "4",
+            "course",
+            "ii",
+            "ca",
+            "6",
+            "course",
+            "close",
+            "accrual",
+            "iii",
+            "paclitaxel",
+            "4",
+            "course",
+            "iv",
+            "paclitaxel",
+            "6",
+            "course",
+            "close",
+            "ii",
+            "ca",
+            "6",
+            "course",
+            "close",
+            "accrual",
+            "ca",
+            "4",
+            "course",
+            "ii",
+            "ca",
+            "6",
+            "course",
+            "close",
+            "accrual",
+            "iii",
+            "paclitaxel",
+            "4",
+            "course",
             "iv",
             "paclitaxel",
             "6",
@@ -1078,14 +1121,23 @@
             "text",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041119.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00041119"
 }

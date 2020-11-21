@@ -242,14 +242,15 @@
             "effect"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Tumor Necrosis Factor",
+            "Interferon gamma-1b"
       ],
       "criteria": [
             "inclusion",
@@ -439,7 +440,7 @@
             "necrosis",
             "factor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -448,6 +449,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001004.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex"
+      ],
+      "id": "NCT00001004"
 }

@@ -206,14 +206,13 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ampligen"
+            "Ampligen"
       ],
       "criteria": [
             "inclusion",
@@ -326,9 +325,7 @@
             "alcohol",
             "abuse"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -337,6 +334,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001000.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "antiviral",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "u"
+      ],
+      "id": "NCT00001000"
 }

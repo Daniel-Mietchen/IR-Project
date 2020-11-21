@@ -151,7 +151,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -159,14 +158,24 @@
             "specific"
       ],
       "intervention_type": [
-            "behavioral"
+            "Other",
+            "Other",
+            "Other",
+            "Behavioral"
       ],
       "intervention_name": [
-            "questionaire",
-            "pain"
+            "massage therapy",
+            "visit with a volunteer",
+            "period of quiet time",
+            "questionaire about pain"
       ],
       "arm_group_label": [
-            "period",
+            "massage",
+            "volunteer",
+            "quiet",
+            "time",
+            "massage",
+            "volunteer",
             "quiet",
             "time"
       ],
@@ -206,7 +215,7 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -215,6 +224,9 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082290.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "id": "NCT00082290"
 }

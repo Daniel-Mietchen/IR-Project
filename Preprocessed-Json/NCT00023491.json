@@ -440,6 +440,9 @@
             "damage"
       ],
       "condition": [
+            "v",
+            "host",
+            "disease",
             "sjogren",
             "syndrome"
       ],
@@ -478,11 +481,21 @@
             "childbearing",
             "abortion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023491.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "salivary",
+            "gland",
+            "dysfunction"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease",
+            "sjogren",
+            "syndrome"
+      ],
+      "id": "NCT00023491"
 }

@@ -254,28 +254,52 @@
             "month"
       ],
       "condition": [
-            "squamous",
+            "keratosis",
+            "cell",
+            "carcinoma",
+            "skin",
+            "skin",
+            "cancer",
             "cell",
             "carcinoma",
             "skin"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "liposomal T4N5 lotion",
+            "placebo",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "topically",
+            "topically",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "liposomal",
+            "lotion",
+            "ii",
+            "placebo",
+            "liposomal",
+            "lotion",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "plcb"
+            "endonuclease",
+            "v",
+            "liposomal",
+            "lotion",
+            "endonuclease",
+            "v",
+            "liposomal",
+            "lotion",
+            "liposomal",
+            "lotion"
       ],
       "criteria": [
             "inclusion",
@@ -524,12 +548,20 @@
             "100",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089180.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "actinic",
+            "basal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00089180"
 }

@@ -467,15 +467,32 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "asparaginase",
+            "cyclophosphamide",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "mercaptopurine",
+            "methotrexate",
+            "prednisone",
+            "thioguanine",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -633,7 +650,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -642,6 +659,18 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005603.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "doxorubicin"
+      ],
+      "id": "NCT00005603"
 }

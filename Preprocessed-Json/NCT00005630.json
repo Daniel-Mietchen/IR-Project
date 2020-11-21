@@ -142,13 +142,14 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "ras peptide cancer vaccine",
             "sargramostim"
       ],
       "criteria": [
@@ -296,12 +297,22 @@
             "antiinflammatory",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005630.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00005630"
 }

@@ -145,13 +145,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bryostatin 1",
             "cladribine"
       ],
       "criteria": [
@@ -370,12 +370,24 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003174.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "1"
+      ],
+      "id": "NCT00003174"
 }

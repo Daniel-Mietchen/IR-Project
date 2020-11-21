@@ -207,7 +207,8 @@
             "variation"
       ],
       "condition": [
-            "hypertriglyceridemia"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -217,7 +218,7 @@
             "hispanic",
             "hypertriglyceridemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -226,6 +227,10 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086437.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00086437"
 }

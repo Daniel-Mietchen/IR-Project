@@ -155,15 +155,13 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody"
+            "monoclonal antibody muJ591"
       ],
       "criteria": [
             "disease",
@@ -336,14 +334,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003391.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00003391"
 }

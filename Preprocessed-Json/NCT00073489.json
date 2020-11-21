@@ -40,14 +40,15 @@
             "population"
       ],
       "condition": [
-            "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "OSI-461"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -149,12 +150,20 @@
             "nurse",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cll"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00073489"
 }

@@ -169,18 +169,23 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "paclitaxel",
+            "topotecan hydrochloride",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "topotecan",
+            "paclitaxel",
+            "radiotherapy",
+            "paclitaxel",
+            "radiotherapy",
             "paclitaxel",
             "radiotherapy"
       ],
@@ -340,12 +345,26 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003281.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "paclitaxel"
+      ],
+      "id": "NCT00003281"
 }

@@ -195,23 +195,18 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "conventional surgery"
       ],
       "description": [
-            "salvage",
             "prostatectomy"
       ],
-      "arm_group_label": [
-            "surgery"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -304,14 +299,20 @@
             "interstitial",
             "radiotherapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002938.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002938"
 }

@@ -200,15 +200,15 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "chemotherapy",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -293,11 +293,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003695"
 }

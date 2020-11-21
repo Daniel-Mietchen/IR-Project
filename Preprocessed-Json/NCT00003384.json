@@ -184,26 +184,36 @@
             "week"
       ],
       "condition": [
-            "stage",
+            "condition",
             "0",
             "cervical",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Cervical Papanicolaou Test",
+            "Conization",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "pap",
+            "smear",
+            "cone",
+            "biopsy",
             "study"
       ],
-      "arm_group_label": [
-            "diagnostic"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "conization",
+            "pap",
+            "test",
+            "biopsy",
+            "biopsy",
+            "cervix",
+            "cervix",
             "uterine",
             "cervix"
       ],
@@ -286,14 +296,21 @@
             "prior",
             "hysterectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003384.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "cervical",
+            "dysplasia",
+            "intraepithelial",
+            "neoplasia",
+            "condition"
+      ],
+      "id": "NCT00003384"
 }

@@ -230,17 +230,17 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "evaluation",
-            "cancer",
-            "risk",
-            "factor"
+            "counseling intervention",
+            "physiologic testing",
+            "evaluation of cancer risk factors"
       ],
       "criteria": [
             "disease",
@@ -355,7 +355,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
@@ -364,6 +364,13 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087360.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087360"
 }

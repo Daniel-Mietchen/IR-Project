@@ -153,18 +153,18 @@
             "14",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "RevM10 gene",
+            "RevM10/polAS gene",
+            "in vitro-treated peripheral blood stem cell transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -331,12 +331,17 @@
             "opportunistic",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003942.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003942"
 }

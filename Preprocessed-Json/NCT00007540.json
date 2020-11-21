@@ -570,7 +570,7 @@
             "cancer"
       ],
       "condition": [
-            "prostatic",
+            "cancer",
             "neoplasm"
       ],
       "criteria": [
@@ -584,14 +584,20 @@
             "psa",
             "le"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007540.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cag",
+            "repeat",
+            "sequence"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00007540"
 }

@@ -338,7 +338,8 @@
             "measure"
       ],
       "condition": [
-            "healthy"
+            "disease",
+            "ataxia"
       ],
       "criteria": [
             "patient",
@@ -381,9 +382,16 @@
             "celiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006492.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diet"
+      ],
+      "mesh_term": [
+            "disease",
+            "ataxia"
+      ],
+      "id": "NCT00006492"
 }

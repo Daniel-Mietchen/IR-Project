@@ -202,17 +202,13 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "psa",
-            "dendritic",
-            "cell",
-            "vaccine"
+            "PSA RNA-pulsed dendritic cell vaccine"
       ],
       "criteria": [
             "disease",
@@ -457,14 +453,20 @@
             "azathioprine",
             "cyclosporine"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004211.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004211"
 }

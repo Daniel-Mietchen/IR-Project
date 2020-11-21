@@ -21,13 +21,14 @@
             "patient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rgp120/HIV-1IIIB"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -150,12 +151,19 @@
             "zidovudine",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "aid",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001992"
 }

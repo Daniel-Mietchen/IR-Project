@@ -110,14 +110,14 @@
             "glucosamaine",
             "chondroitin"
       ],
-      "condition": [
-            "osteoarthritis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "chondroitin"
+            "Glucosamine",
+            "Chondroitin"
       ],
       "criteria": [
             "inclusion",
@@ -141,12 +141,17 @@
             "alternative",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086229.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "complementary",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00086229"
 }

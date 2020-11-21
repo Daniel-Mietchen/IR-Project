@@ -159,14 +159,13 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "laromustine"
@@ -203,7 +202,6 @@
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "primary",
             "brain",
             "tumor",
@@ -219,7 +217,6 @@
             "standard",
             "therapy",
             "note",
-            "patient",
             "intrinsic",
             "brain",
             "stem",
@@ -267,7 +264,6 @@
             "hemoglobin",
             "8",
             "note",
-            "unsupported",
             "hepatic",
             "bilirubin",
             "time",
@@ -495,12 +491,25 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00098761.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00098761"
 }

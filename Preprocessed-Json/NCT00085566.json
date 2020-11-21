@@ -228,17 +228,22 @@
             "toxicity"
       ],
       "condition": [
-            "prostate",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "everolimus",
             "gefitinib"
       ],
       "arm_group_label": [
-            "everolimus",
+            "gefitinib",
             "gefitinib"
       ],
       "criteria": [
@@ -557,9 +562,7 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -568,6 +571,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085566.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00085566"
 }

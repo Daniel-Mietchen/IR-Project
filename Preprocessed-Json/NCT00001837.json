@@ -175,7 +175,7 @@
             "protocol"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "criteria": [
@@ -185,11 +185,16 @@
             "nci",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001837.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "premenopause"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00001837"
 }

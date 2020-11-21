@@ -78,19 +78,27 @@
             "mg"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rtv",
-            "oral",
-            "solution"
+            "TPV oral solution",
+            "TPV oral solution",
+            "RTV oral solution",
+            "RTV oral solution"
       ],
       "description": [
-            "ritonavir",
+            "oral",
+            "solution",
+            "oral",
+            "solution",
+            "oral",
+            "solution",
             "oral",
             "solution"
       ],
@@ -428,7 +436,7 @@
             "reduce",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -437,6 +445,12 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076999.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "solution"
+      ],
+      "id": "NCT00076999"
 }

@@ -230,7 +230,12 @@
             "relapse"
       ],
       "condition": [
-            "recurrent",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "transitional",
             "cell",
             "cancer",
@@ -238,24 +243,40 @@
             "pelvis",
             "ureter"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gemcitabine hydrochloride",
+            "cisplatin",
+            "gefitinib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gemcitabine",
+            "cisplatin",
+            "gefitinib",
+            "gemcitabine",
+            "cisplatin",
+            "gefitinib",
+            "gemcitabine",
+            "cisplatin",
+            "gefitinib",
             "gemcitabine",
             "cisplatin",
             "gefitinib"
       ],
       "other_name": [
-            "zd",
+            "hydrochloride",
             "1839"
       ],
       "criteria": [
@@ -615,12 +636,18 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041106.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00041106"
 }

@@ -137,18 +137,22 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "cytarabine",
+            "etoposide",
+            "hydroxyurea",
+            "mitoxantrone hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -229,7 +233,7 @@
             "since",
             "interferon"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
@@ -238,6 +242,21 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002674.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "positive",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "phosphate"
+      ],
+      "id": "NCT00002674"
 }

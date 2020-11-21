@@ -287,14 +287,14 @@
             "24",
             "hour"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Granulocyte colony-stimulating factor",
+            "Dexamethasone"
       ],
       "criteria": [
             "male",
@@ -372,9 +372,14 @@
             "10",
             "9"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001842.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001842"
 }

@@ -139,13 +139,16 @@
             "study"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "docetaxel"
@@ -361,12 +364,24 @@
             "amenable",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002903.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00002903"
 }

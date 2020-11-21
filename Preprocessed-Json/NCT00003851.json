@@ -281,18 +281,21 @@
             "year"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "gonzalez",
-            "regimen"
+            "proteolytic enzymes",
+            "gemcitabine hydrochloride",
+            "Gonzalez regimen"
       ],
       "arm_group_label": [
-            "nutritional",
+            "arm",
+            "arm",
             "arm"
       ],
       "criteria": [
@@ -473,7 +476,7 @@
             "hypoglycemic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -482,6 +485,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003851.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003851"
 }

@@ -121,17 +121,15 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "gemcitabine hydrochloride",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -372,14 +370,21 @@
             "site",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005991.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005991"
 }

@@ -139,28 +139,37 @@
             "month"
       ],
       "condition": [
-            "smolder",
+            "gammopathy",
+            "undetermined",
+            "significance",
+            "myeloma",
             "multiple",
             "myeloma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "celecoxib",
+            "placebo",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "celecoxib",
+            "ii",
+            "placebo",
+            "celecoxib",
             "ii",
             "placebo"
       ],
-      "other_name": [
-            "celebrex"
-      ],
+      "other_name": [],
       "criteria": [
             "criterion",
             "30",
@@ -402,12 +411,20 @@
             "ecog",
             "zubrod"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099047.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "gammopathy",
+            "undetermined",
+            "significance"
+      ],
+      "id": "NCT00099047"
 }

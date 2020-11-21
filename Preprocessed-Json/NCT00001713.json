@@ -212,14 +212,16 @@
             "lower",
             "extremity"
       ],
-      "condition": [
-            "thrombophlebitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "warfarin"
+            "Recombinant Tissue Plasminogen Activator",
+            "Heparin",
+            "Warfarin"
       ],
       "criteria": [
             "inclusion",
@@ -398,9 +400,17 @@
             "kinetic",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001713.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dvt"
+      ],
+      "mesh_term": [
+            "heparin",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00001713"
 }

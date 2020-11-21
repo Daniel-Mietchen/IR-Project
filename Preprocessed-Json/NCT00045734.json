@@ -142,27 +142,46 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "grade",
+            "meningioma",
+            "grade",
+            "ii",
+            "meningioma",
+            "grade",
+            "iii",
+            "meningioma",
+            "meningeal",
+            "hemangiopericytoma",
+            "meningioma",
             "adult",
             "brain",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "imatinib mesylate",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "pharmacological",
+            "57148",
             "study"
       ],
       "criteria": [
@@ -491,12 +510,15 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045734.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mesylate"
+      ],
+      "id": "NCT00045734"
 }

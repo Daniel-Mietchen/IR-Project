@@ -144,15 +144,15 @@
             "participation"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nelfinavir",
-            "mesylate"
+            "Capravirine",
+            "Nelfinavir mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -213,12 +213,20 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00004985"
 }

@@ -250,26 +250,51 @@
             "year"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive",
             "phase",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Dasatinib",
+            "Imatinib Mesylate",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "iii",
+            "dasatinib",
+            "qd",
+            "imatinib",
+            "mesylate",
+            "ii",
+            "bid",
+            "imatinib",
+            "mesylate",
+            "qd",
+            "imatinib",
+            "mesylate",
+            "ii",
+            "bid",
+            "imatinib",
+            "mesylate",
             "iii",
             "dasatinib"
       ],
-      "other_name": [],
+      "other_name": [
+            "57148",
+            "571"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -707,12 +732,20 @@
             "data",
             "base"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070499.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00070499"
 }

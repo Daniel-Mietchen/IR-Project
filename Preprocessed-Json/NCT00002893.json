@@ -158,13 +158,16 @@
             "enter"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fluorouracil",
+            "leucovorin calcium",
             "raltitrexed"
       ],
       "criteria": [
@@ -266,9 +269,16 @@
             "since",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002893.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002893"
 }

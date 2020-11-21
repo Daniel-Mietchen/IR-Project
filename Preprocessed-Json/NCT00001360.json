@@ -159,7 +159,7 @@
             "attention"
       ],
       "condition": [
-            "healthy"
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -314,7 +314,7 @@
             "mri",
             "scan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -323,6 +323,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001360.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "magnetic",
+            "resonance",
+            "image"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001360"
 }

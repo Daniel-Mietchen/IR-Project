@@ -244,18 +244,26 @@
             "study"
       ],
       "condition": [
-            "endometrial",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "medroxyprogesterone",
+            "tamoxifen citrate",
+            "adjuvant therapy"
       ],
       "arm_group_label": [
-            "tamoxifen",
+            "plus",
+            "mpa",
+            "alone",
+            "plus",
+            "mpa",
+            "alone",
             "plus",
             "mpa"
       ],
@@ -555,14 +563,22 @@
             "intergroup",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002920.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paget",
+            "disease",
+            "breast"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "acetate"
+      ],
+      "id": "NCT00002920"
 }

@@ -112,25 +112,26 @@
             "ass",
             "patient"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clozapine"
+            "Olanzapine",
+            "Clozapine"
       ],
       "description": [
-            "participant",
+            "receive",
+            "olanzapine",
+            "12",
+            "week",
             "receive",
             "12",
             "week",
             "clozapine"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -170,7 +171,7 @@
             "olanzapine",
             "clozapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -179,6 +180,9 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048828.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "childhood"
+      ],
+      "id": "NCT00048828"
 }

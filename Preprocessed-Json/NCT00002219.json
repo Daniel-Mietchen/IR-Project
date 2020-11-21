@@ -75,15 +75,17 @@
             "28"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir",
-            "dipivoxil"
+            "Nelfinavir mesylate",
+            "Levocarnitine",
+            "Adefovir dipivoxil"
       ],
       "criteria": [
             "inclusion",
@@ -170,7 +172,7 @@
             "entry",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -179,6 +181,13 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002219.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00002219"
 }

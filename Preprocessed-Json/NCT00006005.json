@@ -105,10 +105,10 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "thalidomide"
@@ -293,11 +293,17 @@
             "investigational",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006005.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "stromal",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006005"
 }

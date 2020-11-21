@@ -242,16 +242,19 @@
             "age"
       ],
       "condition": [
-            "endometrial",
+            "disease",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "macrobiotic",
-            "dietary",
-            "intervention"
+            "American Heart Association Step 1 diet",
+            "American Heart Association Step 2 diet + 10 g/day flax seed",
+            "Macrobiotic dietary intervention"
       ],
       "criteria": [
             "inclusion",
@@ -271,9 +274,7 @@
             "body",
             "weight"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -282,6 +283,14 @@
             "72",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010829.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "endometrial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00010829"
 }

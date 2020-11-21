@@ -184,32 +184,67 @@
             "indicate"
       ],
       "condition": [
-            "stage",
+            "tumor",
+            "clear",
+            "cell",
+            "cystadenocarcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "mix",
+            "epithelial",
+            "carcinoma",
+            "mucinous",
+            "cystadenocarcinoma",
+            "serous",
+            "cystadenocarcinoma",
+            "undifferentiated",
+            "adenocarcinoma",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "paclitaxel",
+            "cisplatin",
+            "topotecan hydrochloride",
             "filgrastim"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "sc"
       ],
       "arm_group_label": [
-            "treatment",
+            "paclitaxel",
+            "cisplatin",
+            "topotecan",
+            "hydrochloride",
+            "paclitaxel",
+            "cisplatin",
+            "topotecan",
+            "hydrochloride",
+            "paclitaxel",
+            "cisplatin",
+            "topotecan",
+            "hydrochloride",
             "paclitaxel",
             "cisplatin",
             "topotecan",
             "hydrochloride"
       ],
-      "other_name": [
-            "neupogen"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -322,11 +357,19 @@
             "recent",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002913.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "endometrioid",
+            "tumor",
+            "serous",
+            "mucinous",
+            "paclitaxel"
+      ],
+      "id": "NCT00002913"
 }

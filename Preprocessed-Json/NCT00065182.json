@@ -43,13 +43,16 @@
       "condition": [
             "lung",
             "cancer",
+            "cancer",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "Topotecan/Docetaxel combination",
+            "Docetaxel"
       ],
       "other_name": [
             "combination"
@@ -228,12 +231,19 @@
             "steroid",
             "premedication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065182.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nsclc"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00065182"
 }

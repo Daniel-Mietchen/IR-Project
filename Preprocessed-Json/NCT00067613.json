@@ -295,17 +295,62 @@
             "sit"
       ],
       "condition": [
-            "bronchopulmonary",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
+            "premature",
             "dysplasia",
             "bpd"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "standard",
-            "management",
-            "practice"
+            "Benchmarking Management Practices",
+            "Standard Management Practices"
       ],
       "description": [
+            "benchmarking",
+            "intervention",
+            "include",
+            "feedback",
+            "use",
+            "exist",
+            "data",
+            "nrn",
+            "generic",
+            "database",
+            "key",
+            "care",
+            "practice",
+            "survey",
+            "nicu",
+            "collect",
+            "data",
+            "perception",
+            "continuous",
+            "quality",
+            "improvement",
+            "cqi",
+            "best",
+            "exist",
+            "visit",
+            "center",
+            "lowest",
+            "rat",
+            "practice",
+            "change",
+            "site",
+            "team",
+            "select",
+            "practice",
+            "modification",
+            "center",
             "center",
             "assign",
             "control",
@@ -340,9 +385,7 @@
             "benchmarking",
             "technique"
       ],
-      "arm_group_label": [
-            "control"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -363,12 +406,22 @@
             "database",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "36",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067613.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "chronic",
+            "lung",
+            "disease",
+            "cld"
+      ],
+      "mesh_term": [
+            "weight",
+            "dysplasia"
+      ],
+      "id": "NCT00067613"
 }

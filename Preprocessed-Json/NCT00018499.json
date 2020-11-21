@@ -75,7 +75,6 @@
             "strategy"
       ],
       "condition": [
-            "brain",
             "injury"
       ],
       "criteria": [
@@ -200,7 +199,7 @@
             "cord",
             "injury"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
@@ -209,6 +208,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018499.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "traumatic",
+            "brain",
+            "injury"
+      ],
+      "mesh_term": [
+            "injury",
+            "injury"
+      ],
+      "id": "NCT00018499"
 }

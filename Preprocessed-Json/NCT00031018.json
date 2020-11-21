@@ -354,13 +354,18 @@
             "inflammation"
       ],
       "condition": [
+            "disorder",
             "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Aricept",
+            "IFN-alpha2A"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -508,12 +513,20 @@
             "contain",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hayflick",
+            "phenomenon"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00031018"
 }

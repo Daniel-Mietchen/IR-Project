@@ -274,14 +274,14 @@
             "mutation"
       ],
       "condition": [
-            "heart",
+            "hypertrophic",
             "hypertrophy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine"
+            "Cyclosporine A"
       ],
       "criteria": [
             "patient",
@@ -416,9 +416,16 @@
             "mri",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001965.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hypertrophic",
+            "cardiomyopathy"
+      ],
+      "mesh_term": [
+            "hypertrophic"
+      ],
+      "id": "NCT00001965"
 }

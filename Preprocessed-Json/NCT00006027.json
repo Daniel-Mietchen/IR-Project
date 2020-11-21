@@ -191,15 +191,19 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "paclitaxel",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -345,14 +349,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "papillary",
+            "serous",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006027"
 }

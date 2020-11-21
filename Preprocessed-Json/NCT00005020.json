@@ -247,7 +247,6 @@
             "provide"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -319,12 +318,22 @@
             "therapy",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005020.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00005020"
 }

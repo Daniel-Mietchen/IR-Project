@@ -169,30 +169,39 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "omacetaxine",
-            "mepesuccinate"
+            "Recombinant Interferon Alfa",
+            "Cytarabine",
+            "Omacetaxine Mepesuccinate"
       ],
       "description": [
-            "homoharringtonine",
+            "subcutaneous",
+            "injection",
+            "subcutaneous",
+            "injection",
             "administer",
             "continuous",
             "infusion",
             "day"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "cytarabine",
+            "homoharringtonine",
+            "cytarabine",
+            "homoharringtonine",
             "cytarabine",
             "homoharringtonine"
       ],
       "other_name": [
-            "homoharringtonine"
+            "alpha",
+            "arabinosine",
+            "hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -284,12 +293,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003239.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cytosine",
+            "arabinosine",
+            "hydrochloride"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid"
+      ],
+      "id": "NCT00003239"
 }

@@ -227,20 +227,41 @@
             "record"
       ],
       "condition": [
-            "inflammation"
+            "disease",
+            "disease",
+            "accident",
+            "infarction",
+            "thromboembolism",
+            "disease",
+            "infection",
+            "infection",
+            "infection",
+            "infection"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005496.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
+            "thromboembolism",
+            "disease",
+            "artery",
+            "disease",
+            "infection",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00005496"
 }

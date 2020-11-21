@@ -249,9 +249,7 @@
             "afni",
             "software"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inpatient",
             "alcoholic",
@@ -638,7 +636,7 @@
             "criterion",
             "none"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -647,6 +645,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001675.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001675"
 }

@@ -394,15 +394,18 @@
             "sertraline"
       ],
       "condition": [
-            "depressive",
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "venlafaxine",
-            "effexor"
+            "buproprion (Wellbutrin)",
+            "sertraline (Zoloft)",
+            "venlafaxine (Effexor)"
       ],
       "criteria": [
             "subject",
@@ -564,9 +567,17 @@
             "seizure",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001483.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sertraline"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "hydrochloride"
+      ],
+      "id": "NCT00001483"
 }

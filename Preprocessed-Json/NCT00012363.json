@@ -115,18 +115,27 @@
             "study"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "gemcitabine hydrochloride",
+            "irinotecan hydrochloride"
       ],
       "description": [
-            "100",
+            "iv",
+            "30",
+            "min",
+            "day",
+            "1",
+            "8",
+            "q",
+            "21",
+            "day",
             "iv",
             "90",
             "min",
@@ -136,7 +145,7 @@
             "q"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "irinotecan",
             "irinotecan"
       ],
       "other_name": [],
@@ -365,12 +374,20 @@
             "therapy",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012363.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00012363"
 }

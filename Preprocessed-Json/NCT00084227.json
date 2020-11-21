@@ -28,13 +28,16 @@
             "falciparum"
       ],
       "condition": [
-            "malaria",
             "falciparum"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Azithromycin/Chloroquine",
+            "Atovaquone/Proguanil"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -302,12 +305,19 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084227.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "falciparum",
+            "diphosphate",
+            "proguanil",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00084227"
 }

@@ -328,14 +328,16 @@
             "tumor",
             "burden"
       ],
-      "condition": [
-            "pheochromocytoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "123"
+            "[131]I-MIBG",
+            "6-[18F]Fluorodopamine",
+            "[123]I-MIBG"
       ],
       "criteria": [
             "inclusion",
@@ -665,7 +667,7 @@
             "entry",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -674,6 +676,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028106.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carbidopa"
+      ],
+      "mesh_term": [],
+      "id": "NCT00028106"
 }

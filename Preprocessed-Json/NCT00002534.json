@@ -268,15 +268,28 @@
             "4",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "anti-thymocyte globulin",
+            "cyclophosphamide",
+            "cytarabine",
+            "methylprednisolone",
+            "thiotepa",
+            "allogeneic bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -524,9 +537,22 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002534.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "undifferentiated",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "serum",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00002534"
 }

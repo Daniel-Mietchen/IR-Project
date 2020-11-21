@@ -25,12 +25,11 @@
             "therapy"
       ],
       "condition": [
-            "infant",
             "newborn",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "metoclopramide"
@@ -49,12 +48,21 @@
             "growth",
             "retardation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008736.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "infant",
+            "premature"
+      ],
+      "mesh_term": [
+            "birth",
+            "newborn",
+            "disease"
+      ],
+      "id": "NCT00008736"
 }

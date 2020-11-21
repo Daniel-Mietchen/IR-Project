@@ -249,21 +249,36 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "lomustine",
+            "procarbazine hydrochloride",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "intensive",
+            "chemotherapy",
+            "radiation",
+            "therapy",
+            "chemotherapy",
+            "radiation",
+            "therapy",
+            "chemotherapy",
+            "radiation",
+            "therapy",
+            "therapy",
+            "rt",
+            "alone",
             "chemotherapy",
             "radiation",
             "therapy"
@@ -469,12 +484,24 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002569.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "mix",
+            "glioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002569"
 }

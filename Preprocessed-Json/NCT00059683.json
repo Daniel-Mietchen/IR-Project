@@ -225,18 +225,15 @@
             "hospital"
       ],
       "condition": [
-            "labor",
             "premature"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "cervical",
-            "cerclage"
+            "cervical cerclage"
       ],
       "description": [
-            "cerclage",
             "circumferential",
             "stitch",
             "suture",
@@ -245,7 +242,6 @@
             "cervix"
       ],
       "arm_group_label": [
-            "cervical",
             "cerclage",
             "group"
       ],
@@ -356,14 +352,21 @@
             "randomize",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059683.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "length"
+      ],
+      "mesh_term": [
+            "birth",
+            "labor",
+            "premature"
+      ],
+      "id": "NCT00059683"
 }

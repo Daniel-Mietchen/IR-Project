@@ -494,7 +494,6 @@
             "control"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -795,9 +794,18 @@
             "study",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025922.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00025922"
 }

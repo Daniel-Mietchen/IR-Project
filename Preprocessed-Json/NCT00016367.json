@@ -223,18 +223,47 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "Trastuzumab",
+            "Cisplatin",
+            "Gemcitabine Hydrochloride"
       ],
       "description": [
-            "regimen",
+            "trastuzumab",
+            "iv",
+            "90",
+            "minute",
+            "day",
+            "2",
+            "b",
+            "trastuzumab",
+            "iv",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "15",
+            "cisplatin",
+            "iv",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "follow",
+            "b",
+            "cisplatin",
+            "iv",
+            "2",
+            "hour",
+            "day",
+            "1",
             "gemcitabine",
             "iv",
             "30",
@@ -248,8 +277,6 @@
             "day",
             "8",
             "follow",
-            "trastuzumab",
-            "regimen",
             "b",
             "gemcitabine",
             "iv",
@@ -267,12 +294,11 @@
             "trastuzumab"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "b",
             "b"
       ],
-      "other_name": [
-            "gemcitabine"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -453,12 +479,23 @@
             "measurable",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016367.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00016367"
 }

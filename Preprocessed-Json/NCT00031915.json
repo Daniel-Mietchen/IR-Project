@@ -110,14 +110,16 @@
             "study"
       ],
       "condition": [
-            "sarcoma"
+            "malignant",
+            "fibrous",
+            "histiocytoma",
+            "bone"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -289,12 +291,23 @@
             "systemic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fibrosarcomatous",
+            "osteosarcoma"
+      ],
+      "mesh_term": [
+            "benign",
+            "fibrous",
+            "malignant",
+            "fibrous",
+            "mesylate"
+      ],
+      "id": "NCT00031915"
 }

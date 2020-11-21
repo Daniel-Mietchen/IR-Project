@@ -234,18 +234,20 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "conventional surgery",
+            "iodine I 131 monoclonal antibody 81C6",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -398,12 +400,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003478.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00003478"
 }

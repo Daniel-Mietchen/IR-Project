@@ -236,19 +236,26 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
             "bicalutamide",
-            "placebo"
+            "eflornithine",
+            "oral eflornithine placebo",
+            "oral bicalutamide placebo"
       ],
       "arm_group_label": [
-            "arm",
+            "iii",
+            "ii",
+            "iii",
+            "iv",
+            "ii",
             "iv"
       ],
       "criteria": [
@@ -402,14 +409,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00086736"
 }

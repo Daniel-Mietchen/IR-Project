@@ -180,23 +180,71 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bicalutamide",
+            "flutamide",
+            "goserelin acetate",
+            "leuprolide acetate",
+            "SU5416",
+            "radiation therapy"
       ],
       "description": [
+            "mg",
             "daily",
+            "1",
+            "month",
+            "mg",
+            "3",
+            "time",
+            "daily",
+            "1",
+            "month",
+            "mg",
+            "month",
+            "4",
+            "month",
+            "mg",
+            "month",
+            "4",
+            "month",
+            "infusion",
+            "assign",
+            "dose",
             "5",
             "day",
             "week"
       ],
       "arm_group_label": [
+            "combination",
+            "hormone",
+            "radiation",
+            "therapy",
+            "combination",
+            "hormone",
+            "radiation",
+            "therapy",
+            "combination",
+            "hormone",
+            "radiation",
+            "therapy",
+            "combination",
+            "hormone",
+            "radiation",
+            "therapy",
+            "combination",
+            "hormone",
+            "radiation",
+            "therapy",
             "combination",
             "hormone",
             "radiation",
@@ -391,11 +439,18 @@
             "therapy",
             "patient"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026377.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00026377"
 }

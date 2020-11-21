@@ -231,17 +231,22 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "rituximab",
+            "carboplatin",
+            "etoposide",
             "ifosfamide"
       ],
       "description": [
-            "5",
             "subcutaneous",
             "injection",
             "day",
@@ -252,6 +257,14 @@
             "cycle"
       ],
       "arm_group_label": [
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "criteria": [
@@ -390,12 +403,22 @@
             "progression",
             "occur"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006708.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "burkitt",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00006708"
 }

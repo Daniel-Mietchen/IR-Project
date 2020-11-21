@@ -273,14 +273,14 @@
             "80",
             "power"
       ],
-      "condition": [
-            "pregnancy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zinc"
+            "Low phytic acid maize",
+            "Zinc"
       ],
       "criteria": [
             "inclusion",
@@ -332,9 +332,7 @@
             "live",
             "child"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -343,6 +341,10 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00098202.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "maize"
+      ],
+      "mesh_term": [],
+      "id": "NCT00098202"
 }

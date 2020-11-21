@@ -161,16 +161,16 @@
             "month"
       ],
       "condition": [
-            "respiratory",
+            "hypertension",
+            "dysplasia",
             "distress",
             "syndrome"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "cpr",
-            "instruction"
+            "CPR instruction"
       ],
       "criteria": [
             "protocol",
@@ -240,9 +240,24 @@
             "2",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004805.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "distress",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "dysplasia"
+      ],
+      "id": "NCT00004805"
 }

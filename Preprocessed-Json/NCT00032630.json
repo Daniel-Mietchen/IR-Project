@@ -351,20 +351,23 @@
             "utilization"
       ],
       "condition": [
-            "ischemic",
             "heart",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "coronary",
-            "artery",
-            "bypass"
+            "Coronary artery bypass - on-pump",
+            "Coronary artery bypass - off-pump"
       ],
       "description": [
-            "cabg",
+            "procedure",
+            "perform",
+            "heart",
+            "lung",
+            "machine",
             "procedure",
             "perform",
             "without",
@@ -374,7 +377,7 @@
             "machine"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "criteria": [
@@ -432,9 +435,15 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032630.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "ischemia",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00032630"
 }

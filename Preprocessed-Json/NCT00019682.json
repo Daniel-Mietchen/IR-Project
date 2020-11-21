@@ -233,30 +233,76 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "melanoma",
+            "iiia",
+            "skin",
+            "melanoma",
+            "iiib",
+            "skin",
+            "melanoma",
+            "iiic",
+            "skin",
+            "melanoma",
             "iv",
             "skin",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Drug",
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Aldesleukin",
+            "gp100 Antigen",
+            "Montanide ISA 51 VG",
+            "Quality-of-Life Assessment",
+            "Questionnaire Administration",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "sc",
+            "sc",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "aldesleukin",
+            "ii",
+            "antigen",
+            "montanide",
+            "aldesleukin",
+            "ii",
+            "antigen",
+            "montanide",
+            "aldesleukin",
+            "ii",
+            "antigen",
+            "montanide",
+            "aldesleukin",
+            "aldesleukin",
+            "ii",
+            "antigen",
+            "montanide",
+            "aldesleukin",
+            "aldesleukin",
+            "ii",
+            "antigen",
+            "montanide",
+            "aldesleukin",
+            "aldesleukin",
             "ii",
             "antigen",
             "montanide",
             "aldesleukin"
       ],
       "other_name": [
-            "quality",
+            "100",
             "life",
             "assessment"
       ],
@@ -545,12 +591,16 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019682.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00019682"
 }

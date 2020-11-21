@@ -207,30 +207,47 @@
             "dose"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "decitabine",
+            "valproic acid",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "decitabine",
+            "valproic",
+            "acid",
+            "decitabine",
+            "valproic",
+            "acid",
+            "decitabine",
+            "valproic",
+            "acid",
             "decitabine",
             "valproic",
             "acid"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -491,12 +508,17 @@
             "pain",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084981.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "acid"
+      ],
+      "id": "NCT00084981"
 }

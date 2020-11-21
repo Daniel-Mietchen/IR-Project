@@ -41,14 +41,17 @@
             "dose"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Atazanavir",
+            "Lamivudine/Zidovudine",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -174,12 +177,22 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013897.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00013897"
 }

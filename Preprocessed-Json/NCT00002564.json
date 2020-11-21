@@ -178,16 +178,15 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "dietary",
-            "intervention"
+            "educational intervention",
+            "therapeutic dietary intervention"
       ],
       "criteria": [
             "disease",
@@ -561,9 +560,7 @@
             "malignancy",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "48",
             "year"
@@ -572,6 +569,14 @@
             "78",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002564"
 }

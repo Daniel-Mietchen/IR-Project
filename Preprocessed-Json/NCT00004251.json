@@ -115,11 +115,10 @@
             "month"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "letrozole"
@@ -130,9 +129,7 @@
             "per",
             "day"
       ],
-      "arm_group_label": [
-            "letrozole"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -326,14 +323,21 @@
             "investigational",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004251.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004251"
 }

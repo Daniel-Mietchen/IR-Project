@@ -260,17 +260,26 @@
             "age"
       ],
       "condition": [
-            "herpes",
             "simplex"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Acyclovir",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "suspension",
+            "300",
+            "3",
+            "time",
+            "per",
+            "day",
+            "tid",
+            "6",
+            "month",
             "identical",
             "oral",
             "acyclovir",
@@ -278,9 +287,7 @@
             "appearance",
             "taste"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -624,12 +631,21 @@
             "include",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "28",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031447.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herpes",
+            "simplex",
+            "acyclovir",
+            "infant"
+      ],
+      "mesh_term": [
+            "simplex"
+      ],
+      "id": "NCT00031447"
 }

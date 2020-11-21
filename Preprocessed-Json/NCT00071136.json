@@ -44,13 +44,14 @@
             "treatment"
       ],
       "condition": [
-            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "pemetrexed",
             "gemcitabine"
       ],
       "criteria": [
@@ -124,12 +125,15 @@
             "agent",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071136.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00071136"
 }

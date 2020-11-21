@@ -339,17 +339,40 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen"
+            "Cyclophosphamide",
+            "Docetaxel",
+            "Doxorubicin",
+            "Tamoxifen"
       ],
       "description": [
-            "20",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "4",
+            "cycle",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "4",
+            "cycle",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "fo",
+            "4",
+            "cycle",
             "mg",
             "daily",
             "5",
@@ -363,7 +386,16 @@
             "cycle"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "2",
+            "3",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "1",
+            "2",
             "3"
       ],
       "criteria": [
@@ -625,11 +657,19 @@
             "replacement",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002707.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002707"
 }

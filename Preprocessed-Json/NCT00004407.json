@@ -95,15 +95,13 @@
             "record"
       ],
       "condition": [
-            "diabetic",
             "neuropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immune",
-            "globulin"
+            "immune globulin"
       ],
       "criteria": [
             "protocol",
@@ -293,12 +291,22 @@
             "secondary",
             "diabetes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004407.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "neuropathy",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00004407"
 }

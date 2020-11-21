@@ -101,13 +101,14 @@
             "take"
       ],
       "condition": [
-            "stomatitis"
+            "oral",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nystatin"
+            "Nystatin"
       ],
       "criteria": [
             "patient",
@@ -166,9 +167,19 @@
             "immunotherapy",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001812.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "swish",
+            "swallow"
+      ],
+      "mesh_term": [
+            "disease",
+            "system",
+            "disease",
+            "oral"
+      ],
+      "id": "NCT00001812"
 }

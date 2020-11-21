@@ -364,14 +364,15 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "Aldesleukin"
       ],
       "criteria": [
             "inclusion",
@@ -611,12 +612,20 @@
             "add",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006291"
 }

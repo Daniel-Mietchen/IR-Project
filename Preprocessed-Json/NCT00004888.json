@@ -289,30 +289,58 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "pegylated liposomal doxorubicin hydrochloride",
+            "docetaxel",
+            "trastuzumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "combination",
+            "chemotherapy",
+            "ii",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
+            "ii",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "ii",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
             "ii",
             "combination",
             "chemotherapy",
             "trastuzumab"
       ],
       "other_name": [
-            "moab"
+            "hydrochloride",
+            "liposome",
+            "56976"
       ],
       "criteria": [
             "inclusion",
@@ -705,14 +733,16 @@
             "4",
             "week"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004888.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00004888"
 }

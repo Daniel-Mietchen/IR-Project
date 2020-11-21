@@ -54,25 +54,30 @@
             "individual"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "enfuvirtide",
-            "fuzeon"
+            "Optimized Background ARVs",
+            "enfuvirtide [Fuzeon]",
+            "enfuvirtide [Fuzeon]"
       ],
       "description": [
+            "prescribe",
+            "sc",
+            "daily",
+            "48",
+            "week",
             "sc",
             "bid",
             "48",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -130,12 +135,15 @@
             "agent",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089492.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00089492"
 }

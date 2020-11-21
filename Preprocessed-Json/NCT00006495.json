@@ -242,14 +242,15 @@
             "remain"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "immunogen"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "HIV-1 Immunogen"
       ],
       "criteria": [
             "inclusion",
@@ -446,12 +447,20 @@
             "prior",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006495.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006495"
 }

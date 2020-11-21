@@ -115,18 +115,19 @@
             "patient"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "immunohistochemistry staining method",
+            "biopsy",
             "surgery"
       ],
-      "arm_group_label": [
-            "surgery"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -372,12 +373,20 @@
             "resection",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003901.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003901"
 }

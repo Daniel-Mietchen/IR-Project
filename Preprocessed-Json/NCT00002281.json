@@ -94,13 +94,17 @@
             "cocultures"
       ],
       "condition": [
-            "cytopenia"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Filgrastim",
+            "Epoetin alfa",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -336,7 +340,7 @@
             "possibly",
             "addict"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -345,6 +349,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002281.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "complex",
+            "alfa"
+      ],
+      "id": "NCT00002281"
 }

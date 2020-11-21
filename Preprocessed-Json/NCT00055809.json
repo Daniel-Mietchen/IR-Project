@@ -188,28 +188,46 @@
             "survival"
       ],
       "condition": [
-            "regional",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
             "gastrointestinal",
             "carcinoid",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "PEG-interferon alfa-2b",
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "optional",
+            "sc",
+            "iv",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "bevacizumab",
+            "bevacizumab",
             "ii"
       ],
       "other_name": [
-            "rhumab",
+            "interferon",
+            "glycol",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -544,12 +562,20 @@
             "platelet",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055809.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "carcinoid",
+            "syndrome",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00055809"
 }

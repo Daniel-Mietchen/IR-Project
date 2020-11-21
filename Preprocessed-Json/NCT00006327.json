@@ -49,14 +49,14 @@
             "ass"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "mn"
+            "MN rgp120/HIV-1 and A244 rgp120/HIV-1"
       ],
       "criteria": [
             "inclusion",
@@ -185,7 +185,7 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -194,6 +194,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006327.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "aidsvax"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006327"
 }

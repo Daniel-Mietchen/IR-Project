@@ -415,14 +415,15 @@
             "sd"
       ],
       "condition": [
-            "voice",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lorazepam"
+            "Dextromethorphan",
+            "Lorazepam"
       ],
       "criteria": [
             "inclusion",
@@ -702,7 +703,7 @@
             "study",
             "remove"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -711,6 +712,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055549.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "macular",
+            "tension",
+            "dysphonia"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00055549"
 }

@@ -229,14 +229,15 @@
             "treatment"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "riboflavin"
+            "Thiamine hydrochloride",
+            "Riboflavin"
       ],
       "criteria": [
             "inclusion",
@@ -383,12 +384,19 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031057.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lactic",
+            "acid"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00031057"
 }

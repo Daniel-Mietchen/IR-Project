@@ -20,17 +20,12 @@
             "8",
             "week"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "quetiapine",
-            "fumarate",
-            "v",
-            "risperidone"
+            "quetiapine fumarate vs risperidone"
       ],
       "criteria": [
             "inclusion",
@@ -54,7 +49,7 @@
             "ill",
             "cgi"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -63,6 +58,9 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00034905.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fumarate"
+      ],
+      "id": "NCT00034905"
 }

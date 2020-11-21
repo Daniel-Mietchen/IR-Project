@@ -69,14 +69,17 @@
             "count"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Delavirdine mesylate",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -116,12 +119,19 @@
             "1",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002236.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002236"
 }

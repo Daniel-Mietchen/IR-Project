@@ -43,14 +43,13 @@
             "level"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Zidovudine"
       ],
       "criteria": [
             "exclusion",
@@ -124,7 +123,7 @@
             "marrow",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -133,6 +132,17 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002284.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "marrow",
+            "transplantation"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002284"
 }

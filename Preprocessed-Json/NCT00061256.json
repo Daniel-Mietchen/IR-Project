@@ -170,14 +170,17 @@
             "48"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin"
+            "Alendronate",
+            "Calcium carbonate",
+            "Vitamin D"
       ],
       "criteria": [
             "inclusion",
@@ -514,12 +517,21 @@
             "prior",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061256.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "dietary",
+            "carbonate"
+      ],
+      "id": "NCT00061256"
 }

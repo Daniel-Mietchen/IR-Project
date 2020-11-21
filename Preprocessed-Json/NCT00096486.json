@@ -179,17 +179,18 @@
             "toxicity"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "everolimus",
             "gefitinib"
       ],
       "arm_group_label": [
-            "gefitinib",
+            "everolimus",
             "everolimus"
       ],
       "criteria": [
@@ -409,7 +410,7 @@
             "oncolytic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -418,6 +419,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00096486.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00096486"
 }

@@ -176,15 +176,15 @@
             "study"
       ],
       "condition": [
-            "peritoneal",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "gene"
+            "Ad5CMV-p53 gene"
       ],
       "criteria": [
             "disease",
@@ -361,14 +361,21 @@
             "colostomy",
             "ileostomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003450.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00003450"
 }

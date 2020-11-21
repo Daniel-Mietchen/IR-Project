@@ -128,14 +128,17 @@
             "phase"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Abacavir sulfate",
+            "Lamivudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -333,12 +336,18 @@
             "protocol",
             "evaluation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002389.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002389"
 }

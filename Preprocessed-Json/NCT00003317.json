@@ -154,17 +154,36 @@
             "arm"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
+            "carboplatin",
+            "paclitaxel",
+            "radiation therapy",
             "surgery"
       ],
       "arm_group_label": [
-            "surgery",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "radiotherapy",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "radiotherapy",
+            "paclitaxel",
+            "carboplatin",
+            "radiotherapy",
+            "paclitaxel",
+            "carboplatin",
             "paclitaxel",
             "carboplatin",
             "radiotherapy"
@@ -298,12 +317,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003317.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00003317"
 }

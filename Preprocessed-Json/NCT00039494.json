@@ -279,28 +279,45 @@
             "year"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
+            "erlotinib hydrochloride",
+            "3-dimensional conformal radiation therapy",
             "temozolomide"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "radiation",
+            "temozolomide",
+            "erlotinib",
+            "hydrochloride",
+            "radiation",
+            "temozolomide",
             "erlotinib",
             "hydrochloride",
             "radiation",
             "temozolomide"
       ],
       "other_name": [
-            "tmz"
+            "conformal",
+            "radiation",
+            "therapy",
+            "52365"
       ],
       "criteria": [
             "inclusion",
@@ -483,12 +500,15 @@
             "concurrent",
             "warfarin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039494.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00039494"
 }

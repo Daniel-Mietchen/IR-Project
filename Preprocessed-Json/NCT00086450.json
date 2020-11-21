@@ -380,18 +380,63 @@
             "cost"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "mellitus",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Procedure",
+            "Device"
       ],
       "intervention_name": [
-            "percutaneous",
-            "coronary",
-            "intervention"
+            "Coronary Artery Bypass Graft",
+            "Percutaneous Coronary Intervention"
       ],
       "description": [
+            "cabg",
+            "participant",
+            "receive",
+            "general",
+            "anesthesia",
+            "breathe",
+            "tube",
+            "place",
+            "throat",
+            "unconscious",
+            "operation",
+            "incision",
+            "make",
+            "chest",
+            "bone",
+            "muscle",
+            "allow",
+            "surgeon",
+            "access",
+            "heart",
+            "diseased",
+            "vessel",
+            "surgeon",
+            "use",
+            "one",
+            "healthy",
+            "vessel",
+            "either",
+            "artery",
+            "shoulder",
+            "vein",
+            "leg",
+            "bypass",
+            "diseased",
+            "vessel",
+            "healthy",
+            "vessel",
+            "bypass",
+            "provide",
+            "need",
+            "blood",
+            "supply",
+            "heart",
             "pci",
             "participant",
             "two",
@@ -415,7 +460,6 @@
             "use",
             "study",
             "taxus",
-            "cypher",
             "participant",
             "receive",
             "local",
@@ -464,13 +508,13 @@
             "artery"
       ],
       "arm_group_label": [
-            "percutaneous",
+            "artery",
+            "bypass",
+            "graft",
             "coronary",
             "intervention"
       ],
-      "other_name": [
-            "pci"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -729,12 +773,20 @@
             "require",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086450.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00086450"
 }

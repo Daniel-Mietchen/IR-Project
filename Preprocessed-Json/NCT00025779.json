@@ -205,14 +205,19 @@
             "medication"
       ],
       "condition": [
-            "pervasive",
+            "deficit",
+            "disorder",
+            "hyperactivity",
+            "disorder",
             "development",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "methylphenidate",
             "guanfacine"
       ],
       "criteria": [
@@ -259,7 +264,7 @@
             "study",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -268,6 +273,23 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025779.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pervasive",
+            "development",
+            "disorder"
+      ],
+      "mesh_term": [
+            "deficit",
+            "disorder",
+            "hyperactivity",
+            "disorder",
+            "spectrum",
+            "disorder",
+            "development",
+            "disorder",
+            "pervasive",
+            "disability"
+      ],
+      "id": "NCT00025779"
 }

@@ -141,17 +141,16 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pemetrexed",
-            "disodium"
+            "pemetrexed disodium"
       ],
       "criteria": [
             "disease",
@@ -279,12 +278,10 @@
             "phosphatase",
             "3",
             "time",
-            "uln",
             "ast",
             "alt",
             "3",
             "time",
-            "uln",
             "note",
             "5",
             "time",
@@ -456,11 +453,18 @@
             "malignant",
             "tumor"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087087"
 }

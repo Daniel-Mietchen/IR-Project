@@ -144,15 +144,17 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "exisulind",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -191,9 +193,7 @@
             "period",
             "assign",
             "control",
-            "group",
             "note",
-            "additional",
             "historical",
             "control",
             "may",
@@ -313,14 +313,22 @@
             "cardiovascular",
             "prophylaxis"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078910.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "sulfone"
+      ],
+      "id": "NCT00078910"
 }

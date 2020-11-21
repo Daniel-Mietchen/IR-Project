@@ -114,23 +114,25 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "imatinib mesylate"
       ],
       "arm_group_label": [
-            "570",
+            "imatinib",
+            "mesylate",
+            "imatinib",
+            "mesylate",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "ind",
+            "57148",
             "55666"
       ],
       "criteria": [
@@ -404,12 +406,21 @@
             "concurrent",
             "anticonvulsant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004932.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "mesylate"
+      ],
+      "id": "NCT00004932"
 }

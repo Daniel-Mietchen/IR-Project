@@ -263,22 +263,15 @@
             "complete"
       ],
       "condition": [
-            "pressure",
             "ulcer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "telemedicine",
-            "system",
-            "assessment",
-            "status",
-            "pressure",
-            "ulcer"
+            "Web-based telemedicine system for assessment of status of pressure ulcers"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -333,12 +326,15 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012597.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "ulcer"
+      ],
+      "id": "NCT00012597"
 }

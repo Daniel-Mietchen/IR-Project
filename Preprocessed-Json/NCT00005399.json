@@ -233,12 +233,17 @@
             "ratio"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "ischemia",
+            "stenosis",
+            "mellitus",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "intervention"
+            "No interventions"
       ],
       "description": [
             "intervention"
@@ -255,7 +260,7 @@
             "define",
             "area"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -264,6 +269,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005399.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "ischemia",
+            "artery",
+            "disease",
+            "stenosis"
+      ],
+      "id": "NCT00005399"
 }

@@ -277,14 +277,21 @@
             "response"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Diphtheria & Tetanus Toxoids & Acellular Pertussis Vaccine Adsorbed",
+            "Diphtheria and Tetanus Toxoids Adsorbed",
+            "Tetanus and Diphtheria Toxoids Adsorbed",
+            "Bacteriophage phi X 174",
+            "Aldesleukin"
       ],
       "criteria": [
             "inclusion",
@@ -409,7 +416,7 @@
             "reflect",
             "change"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -418,6 +425,12 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006066.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006066"
 }

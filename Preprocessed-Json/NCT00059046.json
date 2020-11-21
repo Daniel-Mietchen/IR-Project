@@ -285,7 +285,6 @@
             "reproducible"
       ],
       "condition": [
-            "serotonin",
             "transporter"
       ],
       "criteria": [
@@ -530,9 +529,13 @@
             "hiv",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059046.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00059046"
 }

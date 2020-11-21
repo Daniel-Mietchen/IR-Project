@@ -260,21 +260,30 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "lomustine",
+            "procarbazine hydrochloride",
+            "thiotepa",
+            "vincristine sulfate",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -398,12 +407,24 @@
             "biopsy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003101.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "anaplastic",
+            "oligodendroglioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003101"
 }

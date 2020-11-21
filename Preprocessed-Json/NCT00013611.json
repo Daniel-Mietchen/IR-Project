@@ -313,14 +313,13 @@
             "monitor"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "proleukin"
+            "Proleukin"
       ],
       "description": [
             "recombinant",
@@ -356,7 +355,6 @@
             "goal"
       ],
       "arm_group_label": [
-            "proleukin",
             "plus",
             "antiretroviral",
             "therapy"
@@ -1202,12 +1200,19 @@
             "week",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013611.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00013611"
 }

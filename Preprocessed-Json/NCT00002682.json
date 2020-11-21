@@ -142,18 +142,29 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tetracycline",
-            "hydrochloride"
+            "Amoxicillin",
+            "Bismuth Subsalicylate",
+            "Clarithromycin",
+            "Metronidazole Hydrochloride",
+            "Omeprazole",
+            "Tetracycline Hydrochloride"
       ],
       "arm_group_label": [
-            "antibiotic",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
             "treatment"
       ],
       "criteria": [
@@ -230,7 +241,7 @@
             "chemotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -239,6 +250,21 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002682.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extranodal",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "lymphoid",
+            "tissue"
+      ],
+      "mesh_term": [
+            "marginal",
+            "zone",
+            "agent",
+            "antitubercular",
+            "subsalicylate"
+      ],
+      "id": "NCT00002682"
 }

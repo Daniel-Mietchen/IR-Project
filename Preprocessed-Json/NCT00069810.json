@@ -268,7 +268,8 @@
             "disease"
       ],
       "condition": [
-            "kidney",
+            "disease",
+            "disease",
             "failure",
             "chronic"
       ],
@@ -328,12 +329,22 @@
             "wave",
             "velocity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069810.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "insufficiency",
+            "chronic",
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00069810"
 }

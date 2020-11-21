@@ -76,23 +76,32 @@
             "completion"
       ],
       "condition": [
-            "pathological",
             "gamble"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Bupropion",
+            "Placebo"
       ],
       "description": [
-            "21",
+            "subject",
+            "randomly",
+            "control",
+            "double",
+            "blind",
+            "study",
+            "receive",
+            "bupropion",
             "subject",
             "receive",
             "placebo"
       ],
       "arm_group_label": [
-            "subject",
+            "receivng",
+            "bupropion",
             "receive",
             "placebo"
       ],
@@ -245,12 +254,13 @@
             "gambler",
             "anonymous"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055393.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00055393"
 }

@@ -343,14 +343,28 @@
             "trial"
       ],
       "condition": [
+            "ewing",
+            "sarcoma",
+            "sarcoma",
             "sarcoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Filgrastim",
+            "Filgrastim-SD/01"
+      ],
       "description": [
-            "100",
+            "sc",
+            "daily",
+            "start",
+            "hour",
+            "last",
+            "dose",
+            "chemotherapy",
+            "anc",
             "sc",
             "hour",
             "last",
@@ -359,9 +373,7 @@
             "single",
             "dose"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -509,12 +521,19 @@
             "embryonal",
             "rhabdomyosarcoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004853.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor"
+      ],
+      "mesh_term": [
+            "ewing",
+            "synovial"
+      ],
+      "id": "NCT00004853"
 }

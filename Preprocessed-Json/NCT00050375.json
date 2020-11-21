@@ -41,11 +41,10 @@
             "origin"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "oregovomab"
@@ -417,14 +416,18 @@
             "day",
             "enrollment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050375.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00050375"
 }

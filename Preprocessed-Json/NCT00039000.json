@@ -75,14 +75,13 @@
             "randomize"
       ],
       "condition": [
-            "malignant",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oncophage"
+            "HSPPC-96 or Oncophage"
       ],
       "criteria": [
             "eligibility",
@@ -258,12 +257,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039000.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy",
+            "cancer",
+            "melanoma",
+            "skin",
+            "cancer",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00039000"
 }

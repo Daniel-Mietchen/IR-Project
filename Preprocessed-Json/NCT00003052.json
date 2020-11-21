@@ -228,15 +228,22 @@
             "within",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "conventional surgery",
+            "hyperthermia treatment",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -432,7 +439,7 @@
             "mutilative",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -441,6 +448,19 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003052.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003052"
 }

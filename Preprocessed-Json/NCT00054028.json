@@ -199,27 +199,42 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "suramin",
+            "paclitaxel",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "suramin",
+            "paclitaxel",
+            "suramin",
+            "paclitaxel",
             "suramin",
             "paclitaxel"
       ],
       "other_name": [
-            "pharmacological",
+            "f",
+            "205",
+            "309",
             "study"
       ],
       "criteria": [
@@ -495,14 +510,16 @@
             "skeletal",
             "metastasis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054028.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00054028"
 }

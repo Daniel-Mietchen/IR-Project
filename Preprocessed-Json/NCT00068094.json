@@ -101,13 +101,15 @@
       ],
       "condition": [
             "liver",
+            "steatosis",
+            "mellitus",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "powder"
+            "Probiotic-containing powder"
       ],
       "criteria": [
             "inclusion",
@@ -141,7 +143,7 @@
             "become",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -150,6 +152,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00068094.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bacteria"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "liver",
+            "fatty",
+            "liver",
+            "disease"
+      ],
+      "id": "NCT00068094"
 }

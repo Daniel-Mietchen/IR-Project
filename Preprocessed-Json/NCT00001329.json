@@ -158,7 +158,9 @@
             "outflow"
       ],
       "condition": [
-            "hypertension"
+            "nervous",
+            "system",
+            "disease"
       ],
       "criteria": [
             "must",
@@ -171,9 +173,21 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001329.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "autonomic",
+            "failure"
+      ],
+      "mesh_term": [
+            "system",
+            "disease",
+            "nervous",
+            "system",
+            "disease",
+            "dysautonomias"
+      ],
+      "id": "NCT00001329"
 }

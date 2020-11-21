@@ -347,14 +347,19 @@
             "survival"
       ],
       "condition": [
+            "hemolytic",
+            "anemia",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sirolimus",
-            "rapamune"
+            "Radiotherapy",
+            "Alemtuzumab (Campath )",
+            "Sirolimus (Rapamune )"
       ],
       "criteria": [
             "inclusion",
@@ -592,7 +597,6 @@
             "eligible",
             "hsct",
             "ac",
-            "hydroxyurea",
             "3",
             "osteonecrosis",
             "2",
@@ -607,7 +611,6 @@
             "score",
             "eligible",
             "hsct",
-            "hydroxyurea",
             "total",
             "hemoglobin",
             "increase",
@@ -635,7 +638,6 @@
             "le",
             "htan",
             "1",
-            "hydroxyurea",
             "hydroxyurea",
             "maximum",
             "tolerate",
@@ -869,7 +871,7 @@
             "50",
             "intermedia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -878,6 +880,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061568.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dba"
+      ],
+      "mesh_term": [
+            "hemolytic",
+            "hemolytic",
+            "congenital"
+      ],
+      "id": "NCT00061568"
 }

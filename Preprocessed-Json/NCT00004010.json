@@ -528,22 +528,50 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "filgrastim",
+            "ABVD regimen",
+            "cyclophosphamide",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "prednisone",
+            "procarbazine hydrochloride",
+            "vinblastine sulfate",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "beacopp",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
+            "therapy",
             "therapy"
       ],
       "other_name": [
-            "nsc",
             "67574"
       ],
       "criteria": [
@@ -694,12 +722,24 @@
             "hodgkin",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004010.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00004010"
 }

@@ -113,14 +113,21 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Enfuvirtide",
+            "Ritonavir",
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -259,12 +266,18 @@
             "transplant",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002239.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002239"
 }

@@ -54,7 +54,6 @@
             "chart",
             "test",
             "group",
-            "n",
             "invaplex",
             "50",
             "8",
@@ -71,7 +70,6 @@
             "8",
             "480",
             "microgram",
-            "minimum",
             "6",
             "interval",
             "le",
@@ -145,17 +143,12 @@
             "vaccination",
             "dose"
       ],
-      "condition": [
-            "diarrhea"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "shigella",
-            "flexneri",
-            "invaplex",
-            "50"
+            "Shigella flexneri 2a Invaplex 50"
       ],
       "criteria": [
             "inclusion",
@@ -207,7 +200,7 @@
             "regular",
             "basis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -216,6 +209,10 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082069.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diarrhea"
+      ],
+      "mesh_term": [],
+      "id": "NCT00082069"
 }

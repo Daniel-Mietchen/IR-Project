@@ -158,18 +158,26 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Genetic",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "technetium",
-            "tc",
-            "sulfur",
-            "colloid"
+            "isosulfan blue",
+            "polymerase chain reaction",
+            "immunohistochemistry staining method",
+            "lymphangiography",
+            "radionuclide imaging",
+            "sentinel lymph node biopsy",
+            "technetium Tc 99m sulfur colloid"
       ],
       "criteria": [
             "disease",
@@ -239,7 +247,7 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -248,6 +256,21 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012168.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "tc",
+            "sulfur",
+            "colloid"
+      ],
+      "id": "NCT00012168"
 }

@@ -70,24 +70,83 @@
             "otherwise"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mycophenolate",
-            "mofetil"
+            "Tacrolimus Modified Release (MR)",
+            "Tacrolimus",
+            "cyclosporine microemulsion",
+            "mycophenolate mofetil"
       ],
       "description": [
-            "oral"
+            "target",
+            "range",
+            "whole",
+            "blood",
+            "tacrolimus",
+            "trough",
+            "concentration",
+            "7",
+            "16",
+            "day",
+            "0",
+            "90",
+            "5",
+            "15",
+            "thereafter",
+            "target",
+            "range",
+            "whole",
+            "blood",
+            "tacrolimus",
+            "trough",
+            "concentration",
+            "recommend",
+            "trough",
+            "concentration",
+            "range",
+            "prograf",
+            "7",
+            "16",
+            "day",
+            "0",
+            "90",
+            "5",
+            "15",
+            "thereafter",
+            "target",
+            "range",
+            "whole",
+            "blood",
+            "cyclosporine",
+            "trough",
+            "concentration",
+            "125",
+            "400",
+            "day",
+            "0",
+            "90",
+            "100",
+            "300",
+            "thereafter"
       ],
       "arm_group_label": [
-            "cyclosporine"
+            "modify",
+            "release",
+            "modify",
+            "release"
       ],
       "other_name": [
-            "cellcept",
+            "fkmr",
+            "astagraf",
+            "xl",
+            "csa",
             "mmf"
       ],
       "criteria": [
@@ -164,12 +223,19 @@
             "prior",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064701.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tacrolimus"
+      ],
+      "mesh_term": [
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00064701"
 }

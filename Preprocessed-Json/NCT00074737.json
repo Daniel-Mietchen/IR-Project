@@ -369,29 +369,47 @@
             "agent"
       ],
       "condition": [
-            "acute",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cytarabine"
+            "cenersen",
+            "Idarubicin",
+            "Cytarabine"
       ],
       "description": [
             "standard",
+            "care",
+            "care",
+            "aml",
             "care",
             "high",
             "dose"
       ],
       "arm_group_label": [
-            "cenersen",
+            "idarubicin",
+            "idarubicin",
+            "cytarabine",
+            "idarubicin",
+            "hdac",
+            "idarubicin",
+            "idarubicin",
+            "cytarabine",
+            "idarubicin",
+            "hdac",
+            "idarubicin",
+            "cytarabine",
             "idarubicin",
             "hdac"
       ],
       "other_name": [
-            "hdac"
+            "sodium",
+            "1"
       ],
       "criteria": [
             "inclusion",
@@ -605,12 +623,20 @@
             "e",
             "multivitamin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074737.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antisense"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00074737"
 }

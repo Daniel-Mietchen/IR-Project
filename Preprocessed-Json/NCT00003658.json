@@ -236,13 +236,17 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "rituximab",
+            "cyclophosphamide",
             "pentostatin"
       ],
       "criteria": [
@@ -443,12 +447,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003658.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00003658"
 }

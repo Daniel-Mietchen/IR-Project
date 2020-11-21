@@ -132,13 +132,14 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "OSI-774"
+      ],
       "description": [
             "orally",
             "active",
@@ -635,12 +636,25 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "hydrochloride"
+      ],
+      "id": "NCT00045487"
 }

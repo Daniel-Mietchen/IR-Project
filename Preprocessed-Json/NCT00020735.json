@@ -253,18 +253,20 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "toremifene",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "arm_group_label": [
-            "oral",
+            "toremifene",
             "toremifene"
       ],
       "criteria": [
@@ -374,9 +376,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -385,6 +385,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00020735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00020735"
 }

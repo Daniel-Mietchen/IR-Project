@@ -196,13 +196,18 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "oblimersen sodium",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "criteria": [
@@ -426,12 +431,21 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00055822"
 }

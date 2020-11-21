@@ -244,15 +244,14 @@
             "determine"
       ],
       "condition": [
-            "liver",
             "cirrhosis",
             "biliary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "methotrexate"
+            "Methotrexate"
       ],
       "criteria": [
             "inclusion",
@@ -460,7 +459,7 @@
             "ludwig",
             "classification"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -469,6 +468,14 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006168.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver"
+      ],
+      "mesh_term": [
+            "cirrhosis",
+            "cirrhosis",
+            "biliary"
+      ],
+      "id": "NCT00006168"
 }

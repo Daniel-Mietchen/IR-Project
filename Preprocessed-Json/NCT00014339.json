@@ -228,17 +228,22 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "Wobe-Mugos E",
+            "melphalan",
+            "prednisone",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -443,12 +448,23 @@
             "medically",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014339.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00014339"
 }

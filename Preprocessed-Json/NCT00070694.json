@@ -484,13 +484,14 @@
             "depression"
       ],
       "condition": [
-            "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MDL100.907"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1058,7 +1059,6 @@
             "allow",
             "receive",
             "psychotherapy",
-            "trial",
             "subject",
             "may",
             "include",
@@ -1144,9 +1144,21 @@
             "enrol",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070694.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "major",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "agent",
+            "receptor",
+            "antagonist",
+            "100907"
+      ],
+      "id": "NCT00070694"
 }

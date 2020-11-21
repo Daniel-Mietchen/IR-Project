@@ -229,31 +229,56 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "paclitaxel",
+            "trastuzumab",
+            "erlotinib hydrochloride",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "paclitaxel",
+            "trastuzumab",
+            "erlotinib",
+            "hydrochloride",
+            "paclitaxel",
+            "trastuzumab",
+            "erlotinib",
+            "hydrochloride",
+            "paclitaxel",
+            "trastuzumab",
+            "erlotinib",
+            "hydrochloride",
+            "paclitaxel",
+            "trastuzumab",
+            "erlotinib",
+            "hydrochloride",
             "paclitaxel",
             "trastuzumab",
             "erlotinib",
             "hydrochloride"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -506,12 +531,16 @@
             "ventricular",
             "arrhythmia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042809.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "paclitaxel",
+            "hydrochloride"
+      ],
+      "id": "NCT00042809"
 }

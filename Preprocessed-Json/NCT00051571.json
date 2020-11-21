@@ -66,14 +66,15 @@
             "tissue"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "SGN-15",
+            "Docetaxel"
       ],
       "criteria": [
             "inclusion",
@@ -265,12 +266,20 @@
             "disease",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051571.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00051571"
 }

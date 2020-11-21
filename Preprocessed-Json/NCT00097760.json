@@ -29,17 +29,44 @@
             "m"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Natalizumab",
+            "Natalizumab",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "300",
+            "mg",
+            "iv",
+            "infusion",
+            "every",
+            "4",
+            "week",
+            "addition",
+            "20",
+            "mg",
+            "glatiramer",
+            "acetate",
+            "sc",
+            "daily",
+            "20",
+            "week",
+            "300",
+            "mg",
+            "iv",
+            "infusion",
+            "every",
+            "4",
+            "week",
+            "20",
+            "week",
             "iv",
             "infusion",
             "every",
@@ -57,12 +84,11 @@
             "week"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
             "2"
       ],
-      "other_name": [
-            "tysabri"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -127,7 +153,7 @@
             "20",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -136,6 +162,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097760.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "m"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "sclerosis",
+            "acetate"
+      ],
+      "id": "NCT00097760"
 }

@@ -61,22 +61,14 @@
             "begin",
             "treatment"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavior",
-            "therapy",
-            "alcohol",
-            "smoke",
-            "cessation"
+            "Cognitive Behavior Therapy for alcohol and smoking cessation"
       ],
       "description": [
-            "individual",
             "treatment",
             "session",
             "schedule",
@@ -162,7 +154,10 @@
             "guideline"
       ],
       "arm_group_label": [
-            "nicotine",
+            "patch",
+            "plus",
+            "placebo",
+            "gum",
             "patch",
             "plus",
             "active",
@@ -307,12 +302,16 @@
             "site",
             "homeless"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064844.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alcoholism"
+      ],
+      "mesh_term": [],
+      "id": "NCT00064844"
 }

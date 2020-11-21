@@ -232,7 +232,9 @@
             "pad"
       ],
       "condition": [
-            "peripheral",
+            "disease",
+            "occlusive",
+            "disease",
             "vascular",
             "disease"
       ],
@@ -240,7 +242,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "59",
             "year"
@@ -249,6 +251,16 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046592.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "arterial",
+            "disease",
+            "vascular",
+            "disease",
+            "occlusive",
+            "disease"
+      ],
+      "id": "NCT00046592"
 }

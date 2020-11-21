@@ -338,7 +338,6 @@
             "tesla"
       ],
       "condition": [
-            "neurologic",
             "manifestation"
       ],
       "criteria": [
@@ -502,9 +501,15 @@
             "drug",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006424.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "spectroscopy"
+      ],
+      "mesh_term": [
+            "manifestation"
+      ],
+      "id": "NCT00006424"
 }

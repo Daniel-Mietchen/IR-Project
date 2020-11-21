@@ -470,14 +470,14 @@
             "objective",
             "trial"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bay"
+            "Bevacizumab",
+            "BAY 43-9006"
       ],
       "criteria": [
             "inclusion",
@@ -1035,12 +1035,19 @@
             "human",
             "antibody"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095459.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "uresectable",
+            "solid",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00095459"
 }

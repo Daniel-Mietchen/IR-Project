@@ -240,18 +240,26 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "recombinant interferon gamma",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "cytarabine",
+            "idarubicin",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -368,7 +376,7 @@
             "acetaminophen",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -377,6 +385,18 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002761.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002761"
 }

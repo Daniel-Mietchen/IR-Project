@@ -136,14 +136,15 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "adjuvant"
+            "D1/3-MAGE-3-His fusion protein",
+            "SB-AS02B adjuvant"
       ],
       "criteria": [
             "disease",
@@ -359,9 +360,14 @@
             "iv",
             "melanoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042783.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00042783"
 }

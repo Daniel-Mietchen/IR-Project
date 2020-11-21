@@ -153,14 +153,15 @@
             "level"
       ],
       "condition": [
-            "hiv",
+            "infection",
+            "deficiency",
             "seronegativity"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin"
+            "Vitamin A"
       ],
       "criteria": [
             "inclusion",
@@ -171,11 +172,18 @@
             "criterion",
             "pregnant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "shed"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "blindness",
+            "palmitate"
+      ],
+      "id": "NCT00053612"
 }

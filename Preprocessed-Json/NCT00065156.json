@@ -84,17 +84,15 @@
             "assessment"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "lenalidomide"
       ],
       "description": [
-            "10",
             "mg",
             "orally",
             "daily",
@@ -135,9 +133,7 @@
             "continuous",
             "regimen"
       ],
-      "arm_group_label": [
-            "lenalidomide"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -288,7 +284,6 @@
             "abnormality",
             "platelet",
             "count",
-            "50",
             "lab",
             "abnormality",
             "serum",
@@ -438,12 +433,20 @@
             "drug",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065156.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "celgene"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "aberration",
+            "disorder"
+      ],
+      "id": "NCT00065156"
 }

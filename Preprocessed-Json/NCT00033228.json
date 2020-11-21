@@ -169,22 +169,35 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MKC1106-MT",
+            "MKC1106-MT",
+            "MKC1106-MT"
+      ],
       "description": [
-            "cancer",
+            "vaccine",
+            "immunotherapy",
+            "500",
+            "ug",
+            "vaccine",
+            "immunotherapy",
+            "1000",
+            "ug",
             "vaccine",
             "immunotherapy",
             "1500",
             "ug"
       ],
       "arm_group_label": [
-            "cohort",
+            "1",
+            "2",
             "3"
       ],
       "criteria": [
@@ -376,12 +389,17 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033228.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00033228"
 }

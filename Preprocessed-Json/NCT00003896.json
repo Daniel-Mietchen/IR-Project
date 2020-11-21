@@ -167,21 +167,31 @@
             "year"
       ],
       "condition": [
-            "peritoneal",
+            "tube",
+            "cancer",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "liposomal doxorubicin",
             "paclitaxel"
       ],
       "arm_group_label": [
+            "doxorubicin",
+            "doxorubicin",
             "doxorubicin"
       ],
       "other_name": [
-            "taxol"
+            "liposomal",
+            "doxorubicin",
+            "hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -403,11 +413,22 @@
             "undetermined",
             "etiology"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003896.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00003896"
 }

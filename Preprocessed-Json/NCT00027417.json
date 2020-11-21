@@ -82,22 +82,18 @@
             "record"
       ],
       "condition": [
-            "heart",
             "defect",
             "congenital"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "cardiopulmonary",
-            "bypass",
-            "cardiac",
-            "surgery"
+            "Liothyronine sodium/triiodothyronine",
+            "Cardiopulmonary bypass and cardiac surgery"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -145,12 +141,21 @@
             "additional",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "2",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027417.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cardiac",
+            "surgery"
+      ],
+      "mesh_term": [
+            "abnormality",
+            "defect",
+            "congenital"
+      ],
+      "id": "NCT00027417"
 }

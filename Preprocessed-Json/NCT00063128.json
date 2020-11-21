@@ -37,29 +37,38 @@
             "device"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "human",
             "insulin",
-            "inhalation",
-            "powder",
-            "hiip"
+            "human insulin inhalation powder (HIIP)"
       ],
       "description": [
+            "subcutaneous",
+            "regular",
+            "human",
+            "insulin",
+            "30",
+            "60",
+            "minute",
+            "meal",
             "administer",
+            "insulin",
+            "lispro",
+            "within",
+            "15",
+            "minute",
+            "abdomen",
             "hiip",
             "within",
             "15",
             "minute",
-            "meal",
-            "administer",
             "dose",
             "increment",
             "equivalent",
@@ -69,8 +78,6 @@
             "6",
             "iu",
             "subcutaneous",
-            "insulin",
-            "target",
             "treatment",
             "goal",
             "treatment",
@@ -81,9 +88,7 @@
             "injectable",
             "insulin"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -192,12 +197,20 @@
             "due",
             "discomfort"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063128.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "globin",
+            "zinc"
+      ],
+      "id": "NCT00063128"
 }

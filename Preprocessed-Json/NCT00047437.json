@@ -166,21 +166,18 @@
             "subject"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "supervise",
-            "exercise",
-            "train",
-            "program"
+            "Supervised Exercise Training Program"
       ],
       "description": [
-            "exercise",
             "30",
             "minute",
             "minimum",
@@ -189,9 +186,7 @@
             "per",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -496,12 +491,17 @@
             "morbidity",
             "mortality"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047437.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00047437"
 }

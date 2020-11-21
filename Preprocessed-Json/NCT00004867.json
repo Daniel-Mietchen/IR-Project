@@ -80,16 +80,45 @@
             "identify"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiotherapy"
+            "conventional surgery",
+            "positron emission tomography",
+            "radionuclide imaging",
+            "fludeoxyglucose F 18",
+            "chemotherapy",
+            "Radiotherapy"
       ],
       "arm_group_label": [
+            "scan",
+            "neoadjuvant",
+            "chemotherapy",
+            "surgery",
+            "scan",
+            "neoadjuvant",
+            "chemotherapy",
+            "surgery",
+            "scan",
+            "neoadjuvant",
+            "chemotherapy",
+            "surgery",
+            "scan",
+            "neoadjuvant",
+            "chemotherapy",
+            "surgery",
+            "scan",
+            "neoadjuvant",
+            "chemotherapy",
+            "surgery",
             "scan",
             "neoadjuvant",
             "chemotherapy",
@@ -391,12 +420,19 @@
             "scan",
             "perform"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004867.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004867"
 }

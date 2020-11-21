@@ -209,14 +209,12 @@
             "estradiol",
             "calculate"
       ],
-      "condition": [
-            "postmenopause"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "estrogen"
+            "Estrogen"
       ],
       "criteria": [
             "postmenopausal",
@@ -231,9 +229,7 @@
             "3",
             "week"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "35",
             "year"
@@ -242,6 +238,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029757.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "surgical",
+            "menopause"
+      ],
+      "mesh_term": [],
+      "id": "NCT00029757"
 }

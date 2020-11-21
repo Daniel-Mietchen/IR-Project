@@ -231,7 +231,6 @@
             "study"
       ],
       "condition": [
-            "perimenopausal",
             "depression"
       ],
       "criteria": [
@@ -504,9 +503,7 @@
             "study",
             "test"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
@@ -515,6 +512,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001231.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "behavior"
+      ],
+      "id": "NCT00001231"
 }

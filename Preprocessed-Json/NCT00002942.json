@@ -211,21 +211,20 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "peripheral",
+            "bone",
+            "marrow",
+            "collection",
             "blood",
             "progenitor",
             "cell"
@@ -425,7 +424,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -434,6 +433,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002942.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002942"
 }

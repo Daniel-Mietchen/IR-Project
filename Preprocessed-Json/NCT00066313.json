@@ -228,15 +228,15 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "vandetanib",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -315,7 +315,6 @@
             "administer",
             "completion",
             "prior",
-            "chemotherapy",
             "cns",
             "metastasis",
             "asymptomatic",
@@ -337,7 +336,6 @@
             "necrosis",
             "bleed",
             "note",
-            "randomization",
             "may",
             "take",
             "place",
@@ -621,7 +619,7 @@
             "concurrent",
             "antagonist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -630,6 +628,20 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066313.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00066313"
 }

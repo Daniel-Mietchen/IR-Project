@@ -195,26 +195,26 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "3D-CRT"
+      ],
       "description": [
-            "3",
             "dimensional",
             "conformal",
             "radiation",
             "therapy"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "2",
             "3"
       ],
       "other_name": [
-            "3",
             "dimensional",
             "conformal",
             "radiation",
@@ -315,14 +315,21 @@
             "prostate",
             "cancer"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002602.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002602"
 }

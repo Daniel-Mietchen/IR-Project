@@ -258,13 +258,18 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "curcumin",
+            "rutin",
+            "quercetin",
             "sulindac"
       ],
       "criteria": [
@@ -567,12 +572,19 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003365"
 }

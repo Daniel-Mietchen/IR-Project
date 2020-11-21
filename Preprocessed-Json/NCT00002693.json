@@ -250,15 +250,16 @@
             "study",
             "year"
       ],
-      "condition": [
-            "neutropenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "filgrastim",
+            "carboplatin",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -455,12 +456,21 @@
             "aminoglycoside",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002693.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neutropenia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00002693"
 }

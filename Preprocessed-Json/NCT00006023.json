@@ -126,11 +126,10 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "capecitabine"
@@ -328,9 +327,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -339,6 +336,14 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006023.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006023"
 }

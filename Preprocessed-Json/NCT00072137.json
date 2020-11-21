@@ -236,28 +236,80 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "urothelial",
+            "carcinoma",
+            "bladder",
+            "carcinoma",
+            "bladder",
+            "cancer",
+            "ii",
+            "bladder",
+            "cancer",
+            "iii",
+            "bladder",
+            "cancer",
             "iv",
             "bladder",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Recombinant Fowlpox-TRICOM Vaccine",
+            "Recombinant Fowlpox GM-CSF Vaccine Adjuvant",
+            "Therapeutic Conventional Surgery",
+            "Pharmacological Study",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "intravesically",
+            "intravesically",
+            "cystectomy",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
+            "close",
+            "accrual",
+            "c",
+            "rftricom",
+            "close",
+            "accrual",
+            "c",
+            "rftricom",
+            "close",
+            "accrual",
+            "b",
+            "close",
+            "accrual",
+            "c",
+            "rftricom",
+            "close",
+            "accrual",
+            "b",
+            "close",
+            "accrual",
+            "c",
+            "rftricom",
+            "close",
+            "accrual",
+            "b",
+            "close",
+            "accrual",
             "c",
             "rftricom"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -602,9 +654,17 @@
             "require",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072137.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell"
+      ],
+      "id": "NCT00072137"
 }

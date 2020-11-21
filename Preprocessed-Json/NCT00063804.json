@@ -283,16 +283,17 @@
             "receive"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
-      "arm_group_label": [
-            "3"
+      "intervention_name": [
+            "Ritonavir",
+            "AMD070"
       ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -463,9 +464,7 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -474,6 +473,10 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063804.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00063804"
 }

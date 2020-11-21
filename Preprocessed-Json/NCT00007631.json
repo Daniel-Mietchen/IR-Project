@@ -323,18 +323,22 @@
             "2001"
       ],
       "condition": [
-            "skin",
+            "basal",
+            "cell",
+            "squamous",
+            "cell",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Tretinoin 0.1% cream or placebo",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "description": [
-            "patient",
             "receive",
             "placebo",
             "amount",
@@ -447,9 +451,21 @@
             "patient",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "topical",
+            "tretinoin",
+            "cream"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm",
+            "basal",
+            "cell"
+      ],
+      "id": "NCT00007631"
 }

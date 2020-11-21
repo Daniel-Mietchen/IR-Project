@@ -233,14 +233,13 @@
             "count"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "Aldesleukin"
       ],
       "criteria": [
             "note",
@@ -404,9 +403,15 @@
             "affect",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038259.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sti"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00038259"
 }

@@ -196,17 +196,40 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "mesna"
+            "etoposide",
+            "ifosfamide",
+            "topotecan hydrochloride",
+            "autologous bone marrow transplantation",
+            "Mesna"
       ],
       "description": [
-            "mesna",
+            "iv",
+            "500",
+            "24",
+            "hour",
+            "day",
+            "iv",
+            "2",
+            "hour",
+            "total",
+            "dose",
+            "day",
+            "total",
+            "dose",
+            "64",
+            "iv",
+            "30",
+            "minute",
+            "day",
             "iv",
             "30",
             "minute",
@@ -220,11 +243,10 @@
             "dose",
             "day"
       ],
-      "arm_group_label": [
-            "time"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "mesnex",
+            "r",
+            "r",
             "r"
       ],
       "criteria": [
@@ -443,12 +465,10 @@
             "sgpt",
             "greater",
             "time",
-            "normal",
             "severe",
             "hepatic",
             "dysfunction",
             "note",
-            "unless",
             "due",
             "primary",
             "malignancy",
@@ -569,7 +589,7 @@
             "ventricular",
             "arrhythmia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -578,6 +598,17 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006373.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00006373"
 }

@@ -38,13 +38,14 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "abacavir/lamivudine/zidovudine",
             "tenofovir"
       ],
       "other_name": [],
@@ -127,12 +128,22 @@
             "evaluate",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038506.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "trizivir",
+            "tenofovir"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00038506"
 }

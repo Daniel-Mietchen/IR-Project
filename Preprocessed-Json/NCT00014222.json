@@ -355,20 +355,46 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "epoetin alfa",
+            "filgrastim",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "fluorouracil",
             "paclitaxel"
       ],
       "description": [
-            "175"
+            "iu",
+            "day",
+            "600",
+            "830"
       ],
       "arm_group_label": [
-            "arm",
+            "2",
+            "2",
+            "1",
+            "cef",
+            "2",
+            "3",
+            "2",
+            "3",
+            "1",
+            "cef",
+            "1",
+            "cef",
+            "2",
             "3"
       ],
       "criteria": [
@@ -410,7 +436,6 @@
             "completion",
             "adjuvant",
             "chemotherapy",
-            "regimen",
             "patient",
             "positive",
             "sentinel",
@@ -679,14 +704,24 @@
             "osteoporosis",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014222.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel",
+            "alfa"
+      ],
+      "id": "NCT00014222"
 }

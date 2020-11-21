@@ -67,16 +67,26 @@
             "caregiver"
       ],
       "condition": [
-            "depression"
+            "alzheimer",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Sertraline (Zoloft)",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "range",
+            "25",
+            "125",
+            "mg",
+            "per",
+            "day",
+            "24",
+            "week",
             "design",
             "mimic",
             "sertraline",
@@ -85,9 +95,7 @@
             "24",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "ability",
@@ -142,12 +150,19 @@
             "nurse",
             "facility"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00086138"
 }

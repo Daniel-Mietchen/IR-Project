@@ -275,18 +275,57 @@
             "month"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "oxaliplatin",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "description": [
-            "start",
+            "surgery",
+            "180",
+            "infusion",
+            "day",
+            "8",
+            "43",
+            "infusion",
+            "day",
+            "1",
+            "36",
+            "surgery",
+            "85",
+            "iv",
+            "infusion",
+            "day",
+            "1",
+            "15",
+            "29",
+            "surgery",
+            "85",
+            "iv",
+            "infusion",
+            "day",
+            "1",
+            "15",
+            "29",
+            "surgical",
+            "technique",
+            "depend",
+            "upon",
+            "location",
+            "extent",
+            "tumor",
+            "individual",
+            "surgeon",
+            "preference",
             "day",
             "8",
             "patient",
@@ -303,15 +342,24 @@
             "cgy"
       ],
       "arm_group_label": [
+            "plus",
+            "rt",
+            "surgery",
+            "chemo",
+            "plus",
+            "rt",
+            "surgery",
+            "chemo",
+            "plus",
+            "rt",
+            "surgery",
             "chemo",
             "plus",
             "rt",
             "surgery",
             "chemo"
       ],
-      "other_name": [
-            "eloxatin"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -520,12 +568,21 @@
             "esophageal",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086996.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "esophageal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00086996"
 }

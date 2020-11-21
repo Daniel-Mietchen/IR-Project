@@ -147,17 +147,15 @@
             "month"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "cetuximab"
       ],
       "description": [
-            "1",
             "time",
             "cetuximab",
             "iv",
@@ -170,12 +168,8 @@
             "60",
             "minute"
       ],
-      "arm_group_label": [
-            "cetuximab"
-      ],
-      "other_name": [
-            "erbitux"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -189,7 +183,6 @@
             "esophagus",
             "locate",
             "20",
-            "cm",
             "incisor",
             "gastroesophageal",
             "junction",
@@ -199,7 +192,6 @@
             "gastric",
             "cardia",
             "note",
-            "tumor",
             "locate",
             "26",
             "cm",
@@ -364,12 +356,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "esophageal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096031"
 }

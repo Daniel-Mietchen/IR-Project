@@ -101,18 +101,17 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "doxorubicin hydrochloride",
+            "topotecan hydrochloride"
       ],
       "arm_group_label": [
-            "doxorubicin",
+            "topotecan",
             "topotecan"
       ],
       "criteria": [
@@ -314,9 +313,18 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006125.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anaplastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00006125"
 }

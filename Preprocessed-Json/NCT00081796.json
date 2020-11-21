@@ -77,12 +77,14 @@
             "day"
       ],
       "condition": [
-            "metastasis"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "larotaxel (RPR109881, XRP9881)",
             "capecitabine"
       ],
       "criteria": [
@@ -155,12 +157,20 @@
             "ct",
             "scan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081796.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00081796"
 }

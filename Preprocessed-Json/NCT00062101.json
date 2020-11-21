@@ -167,24 +167,47 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "celecoxib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "po",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "group",
+            "erlotinib",
+            "hydrochloride",
+            "celecoxib",
+            "ii",
+            "erlotinib",
+            "hydrochloride",
+            "erlotinib",
+            "hydrochloride",
+            "celecoxib",
+            "erlotinib",
+            "hydrochloride",
+            "celecoxib",
             "ii",
             "erlotinib",
             "hydrochloride"
@@ -217,7 +240,6 @@
             "1",
             "unidimensionally",
             "measurable",
-            "lesion",
             "least",
             "20",
             "mm",
@@ -439,12 +461,17 @@
             "valproic",
             "acid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062101.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "hydrochloride"
+      ],
+      "id": "NCT00062101"
 }

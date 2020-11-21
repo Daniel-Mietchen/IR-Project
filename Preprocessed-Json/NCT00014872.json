@@ -161,7 +161,7 @@
             "population"
       ],
       "condition": [
-            "obesity"
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -172,9 +172,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "12",
             "year"
@@ -183,6 +181,9 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014872.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00014872"
 }

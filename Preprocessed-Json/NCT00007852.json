@@ -231,21 +231,83 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
+            "rituximab",
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "melphalan",
+            "autologous hematopoietic stem cell transplantation"
+      ],
+      "description": [
+            "375",
+            "administer",
+            "approximately",
+            "one",
+            "week",
+            "apart",
+            "prior",
+            "collection",
             "hematopoietic",
             "stem",
             "cell",
-            "transplantation"
-      ],
-      "description": [
-            "follow",
+            "rituxan",
+            "dose",
+            "375",
+            "iv",
+            "give",
+            "either",
+            "day",
+            "prior",
+            "initiation",
+            "bcnu",
+            "day",
+            "day",
+            "bcnu",
+            "administer",
+            "beam",
+            "chemotherapy",
+            "regimen",
+            "day",
+            "fourth",
+            "infusion",
+            "rituxan",
+            "375",
+            "give",
+            "30",
+            "day",
+            "20",
+            "day",
+            "approximately",
+            "6",
+            "month",
+            "patient",
+            "progressive",
+            "lymphoma",
+            "receive",
+            "four",
+            "weekly",
+            "dose",
+            "rituxan",
+            "375",
+            "iv",
+            "300",
+            "iv",
+            "day",
+            "day",
+            "bid",
+            "day",
+            "iv",
+            "day",
             "chemotherapy",
             "day",
             "0",
@@ -261,11 +323,12 @@
             "venous",
             "line"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "beam",
+            "chemotherapy",
+            "regimen",
+            "chemotherapy",
+            "regimen",
             "chemotherapy",
             "regimen"
       ],
@@ -321,7 +384,6 @@
             "platelet",
             "count",
             "hemoglobin",
-            "unless",
             "due",
             "lymphomatous",
             "involvement",
@@ -391,12 +453,19 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007852.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00007852"
 }

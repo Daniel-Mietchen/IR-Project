@@ -83,28 +83,41 @@
             "study"
       ],
       "condition": [
-            "mucopolysaccharidosis",
             "ii"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "Iduronate-2-sulfatase enzyme replacement therapy",
+            "iduronate-2-sulfatase enzyme replacement therapy",
+            "Placebo"
       ],
       "description": [
-            "patient",
+            "receive",
+            "weekly",
+            "infusion",
+            "idursulfase",
+            "dose",
+            "receive",
+            "every",
+            "week",
+            "infusion",
+            "idursulfase",
+            "dose",
             "receive",
             "weekly",
             "infusion",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "weekly",
+            "every",
+            "week"
       ],
-      "other_name": [
-            "elaprase"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -323,9 +336,7 @@
             "hypersensitivity",
             "component"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "5",
             "year"
@@ -334,6 +345,12 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069641.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "deficiency"
+      ],
+      "mesh_term": [
+            "ii"
+      ],
+      "id": "NCT00069641"
 }

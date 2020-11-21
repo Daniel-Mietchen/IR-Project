@@ -530,14 +530,13 @@
             "patient"
       ],
       "condition": [
-            "cerebrovascular",
             "accident"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Interferon beta-1a"
       ],
       "criteria": [
             "inclusion",
@@ -743,7 +742,7 @@
             "symptom",
             "onset"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -752,6 +751,10 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097318.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [],
+      "id": "NCT00097318"
 }

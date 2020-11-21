@@ -171,7 +171,6 @@
             "partner"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -204,12 +203,22 @@
             "study",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001093.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001093"
 }

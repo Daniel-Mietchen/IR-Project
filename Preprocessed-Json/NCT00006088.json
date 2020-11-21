@@ -135,7 +135,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -143,11 +142,10 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "vinorelbine tartrate"
       ],
       "criteria": [
             "disease",
@@ -511,7 +509,7 @@
             "opiate",
             "laxative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -520,6 +518,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006088.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006088"
 }

@@ -264,15 +264,19 @@
             "year"
       ],
       "condition": [
-            "ovarian",
+            "tube",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "carboplatin",
+            "paclitaxel",
+            "topotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -473,9 +477,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -484,6 +486,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006454.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00006454"
 }

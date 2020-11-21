@@ -139,15 +139,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "bleomycin sulfate",
+            "rituximab",
+            "prednisolone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -223,12 +226,17 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031902.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00031902"
 }

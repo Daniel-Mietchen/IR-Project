@@ -292,8 +292,6 @@
             "study",
             "eligibility",
             "collect",
-            "v",
-            "e",
             "risk",
             "factor",
             "information",
@@ -380,7 +378,7 @@
             "population"
       ],
       "condition": [
-            "thromboembolism"
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -390,9 +388,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -401,6 +397,9 @@
             "89",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094185.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00094185"
 }

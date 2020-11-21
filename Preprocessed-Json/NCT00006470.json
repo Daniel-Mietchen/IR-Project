@@ -182,15 +182,17 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "monoclonal antibody 11D10 anti-idiotype vaccine",
+            "monoclonal antibody 3H1 anti-idiotype vaccine",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -543,12 +545,25 @@
             "systemic",
             "antihistamine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006470.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "monoclonal",
+            "idiotypes"
+      ],
+      "id": "NCT00006470"
 }

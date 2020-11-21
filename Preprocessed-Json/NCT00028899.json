@@ -237,15 +237,19 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "asparaginase",
+            "cytarabine",
+            "gemtuzumab ozogamicin",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -389,12 +393,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028899.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "previously",
+            "treat",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00028899"
 }

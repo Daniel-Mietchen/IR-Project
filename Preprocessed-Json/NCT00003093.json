@@ -252,20 +252,35 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "filgrastim",
+            "sargramostim",
+            "carboplatin",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
-      "arm_group_label": [
-            "treatment"
+      "arm_group_label": [],
+      "other_name": [
+            "factor",
+            "614629",
+            "stimulate",
+            "factor",
+            "613795"
       ],
-      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -392,12 +407,20 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003093.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00003093"
 }

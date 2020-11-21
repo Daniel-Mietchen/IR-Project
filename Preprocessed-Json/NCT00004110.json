@@ -198,13 +198,15 @@
             "5",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "monoclonal antibody 3F8",
+            "etoposide",
             "isotretinoin"
       ],
       "criteria": [
@@ -428,9 +430,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004110.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "monoclonal",
+            "phosphate"
+      ],
+      "id": "NCT00004110"
 }

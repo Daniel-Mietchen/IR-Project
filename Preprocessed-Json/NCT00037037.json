@@ -170,15 +170,21 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "MAGE-10.A2",
+            "MART-1 antigen",
+            "NY-ESO-1 peptide vaccine",
+            "sargramostim",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -418,12 +424,17 @@
             "pain",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037037.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00037037"
 }

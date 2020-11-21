@@ -72,15 +72,15 @@
             "illness"
       ],
       "condition": [
-            "schizoaffective",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "haloperidol",
-            "decanoate"
+            "quetiapine",
+            "haloperidol decanoate"
       ],
       "criteria": [
             "inclusion",
@@ -131,7 +131,7 @@
             "medication",
             "inappropriate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -140,6 +140,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "haloperidol",
+            "decanoate"
+      ],
+      "mesh_term": [
+            "disorder",
+            "acid",
+            "decanoate",
+            "fumarate"
+      ],
+      "id": "NCT00018642"
 }

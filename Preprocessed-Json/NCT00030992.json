@@ -365,18 +365,43 @@
             "cycle"
       ],
       "condition": [
-            "renal",
             "cell",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "diphenhydramine"
+            "BMS-247550",
+            "Ranitidine",
+            "Diphenhydramine"
       ],
       "description": [
-            "50",
+            "hour",
+            "infusion",
+            "five",
+            "successive",
+            "day",
+            "daily",
+            "x",
+            "5",
+            "every",
+            "three",
+            "week",
+            "start",
+            "dose",
+            "6",
+            "total",
+            "per",
+            "cycle",
+            "dose",
+            "30",
+            "mg",
+            "minute",
+            "prior",
+            "ixabepilone",
             "mg",
             "intravenously",
             "minute",
@@ -384,9 +409,7 @@
             "ixabepilone"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "diphedryl"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -707,12 +730,21 @@
             "cremophor",
             "el"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "b"
+      ],
+      "id": "NCT00030992"
 }

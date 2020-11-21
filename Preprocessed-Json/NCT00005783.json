@@ -327,18 +327,16 @@
             "toxicity"
       ],
       "condition": [
-            "sickle",
+            "sc",
+            "disease",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "human",
-            "stem",
-            "cell",
-            "factor"
+            "Recombinant-methionyl human stem cell factor"
       ],
       "criteria": [
             "inclusion",
@@ -535,9 +533,20 @@
             "investigational",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005783.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "disorder"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "sc",
+            "disease"
+      ],
+      "id": "NCT00005783"
 }

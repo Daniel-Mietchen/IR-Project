@@ -358,9 +358,7 @@
             "control",
             "database"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "adult",
             "patient",
@@ -412,9 +410,14 @@
             "bronchospastic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001528.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "positron",
+            "emission",
+            "tomography"
+      ],
+      "id": "NCT00001528"
 }

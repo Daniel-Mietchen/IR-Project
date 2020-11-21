@@ -33,14 +33,13 @@
             "examine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Fluconazole"
       ],
       "criteria": [
             "inclusion",
@@ -319,12 +318,18 @@
             "triazole",
             "compound"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002010.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coccidioidomycosis"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002010"
 }

@@ -204,31 +204,78 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "erlotinib",
-            "hydrochloride"
+            "cetuximab",
+            "gemcitabine hydrochloride",
+            "bevacizumab",
+            "erlotinib hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "cetuximab",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "cetuximab",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "erlotinib",
+            "cetuximab",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "erlotinib",
             "ii",
             "gemcitabine",
             "hydrochloride",
             "bevacizumab",
             "erlotinib"
       ],
-      "other_name": [],
+      "other_name": [
+            "monoclonal",
+            "antibody",
+            "antibody",
+            "hydrochloride",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -602,12 +649,17 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091026.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride",
+            "monoclonal"
+      ],
+      "id": "NCT00091026"
 }

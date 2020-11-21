@@ -103,16 +103,14 @@
             "record"
       ],
       "condition": [
-            "pulmonary",
             "alveolar",
             "proteinosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "factor",
-            "sargramostim"
+            "GM-CSF (granulocyte-macrophage colony-stimulating factor, sargramostim)"
       ],
       "criteria": [
             "inclusion",
@@ -186,7 +184,7 @@
             "liver",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -195,6 +193,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030056.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "injection",
+            "subcutaneous"
+      ],
+      "mesh_term": [
+            "alveolar",
+            "proteinosis"
+      ],
+      "id": "NCT00030056"
 }

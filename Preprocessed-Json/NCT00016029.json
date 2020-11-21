@@ -159,15 +159,23 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "screen",
-            "colonoscopy"
+            "screening questionnaire administration",
+            "barium enema injection",
+            "computed tomography",
+            "computed tomography colonography",
+            "diagnostic colonoscopy",
+            "screening colonoscopy"
       ],
       "criteria": [
             "disease",
@@ -345,12 +353,19 @@
             "device",
             "biologics"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016029.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00016029"
 }

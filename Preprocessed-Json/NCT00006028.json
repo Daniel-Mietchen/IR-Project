@@ -160,17 +160,18 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cisplatin",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -442,11 +443,19 @@
             "preclude",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006028.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00006028"
 }

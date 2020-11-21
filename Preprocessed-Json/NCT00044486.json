@@ -103,15 +103,15 @@
             "episode"
       ],
       "condition": [
-            "neutropenia"
+            "myelocytic",
+            "acute",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "posaconazole",
-            "oral",
-            "suspension"
+            "Posaconazole oral suspension"
       ],
       "criteria": [
             "inclusion",
@@ -305,12 +305,24 @@
             "time",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044486.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anticipate",
+            "prolong",
+            "profound",
+            "neutropenia"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00044486"
 }

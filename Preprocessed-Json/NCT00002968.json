@@ -277,27 +277,39 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "colon",
+            "ring",
+            "adenocarcinoma",
+            "colon",
+            "iia",
+            "colon",
+            "cancer",
+            "iib",
+            "colon",
+            "cancer",
             "iic",
             "colon",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "edrecolomab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "edrecolomab",
             "edrecolomab"
       ],
       "other_name": [
-            "panorex"
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -517,12 +529,17 @@
             "x",
             "normal"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002968.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "mucinous",
+            "monoclonal"
+      ],
+      "id": "NCT00002968"
 }

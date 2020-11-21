@@ -33,17 +33,15 @@
             "hcc"
       ],
       "condition": [
-            "carcinoma",
             "hepatocellular"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "trans",
-            "arterial",
-            "chemoembolization",
-            "tace"
+            "Thymalfasin (thymosin alpha-1)",
+            "Trans arterial chemoembolization (TACE)"
       ],
       "criteria": [
             "inclusion",
@@ -264,12 +262,15 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082082.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular"
+      ],
+      "id": "NCT00082082"
 }

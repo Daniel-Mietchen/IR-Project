@@ -180,31 +180,93 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma",
+            "diffuse",
+            "small",
+            "cleave",
+            "cell",
+            "lymphoma",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma",
+            "lymphoblastic",
+            "lymphoma",
+            "lymphoma",
+            "primary",
+            "cns",
+            "lymphoma",
+            "small",
+            "noncleaved",
+            "cell",
+            "lymphoma",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma",
+            "hodgkin",
+            "lymphoma",
+            "metastasis",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "childhood",
+            "large",
+            "cell",
+            "lymphoma",
+            "childhood",
+            "lymphoblastic",
+            "lymphoma",
+            "childhood",
+            "medulloblastoma",
+            "childhood",
+            "small",
+            "noncleaved",
+            "cell",
+            "lymphoma",
+            "childhood",
+            "hodgkin",
+            "lymphoma",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "topotecan hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "topotecan",
+            "hydrochloride",
             "topotecan",
             "hydrochloride"
       ],
-      "other_name": [
-            "topo"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -538,7 +600,7 @@
             "penetrate",
             "barrier"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -547,6 +609,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005811.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "large",
+            "diffuse",
+            "immunoblastic",
+            "lymphoma",
+            "disease",
+            "myeloid",
+            "carcinomatosis"
+      ],
+      "id": "NCT00005811"
 }

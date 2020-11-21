@@ -195,20 +195,25 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "survivor",
+            "dysfunction",
+            "reproductive",
+            "issue",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "therapeutic testosterone",
             "placebo"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -390,11 +395,18 @@
             "decrease",
             "libido"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075855.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer",
+            "survivor"
+      ],
+      "mesh_term": [
+            "enanthate",
+            "undecanoate",
+            "17"
+      ],
+      "id": "NCT00075855"
 }

@@ -250,15 +250,17 @@
             "study"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "BCG vaccine",
+            "valrubicin",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -381,12 +383,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003759.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "vaccine"
+      ],
+      "id": "NCT00003759"
 }

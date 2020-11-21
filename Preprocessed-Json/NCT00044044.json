@@ -20,23 +20,38 @@
             "patient",
             "schizophrenia"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Lurasidone 20 mg",
+            "Lurasidone 40mg",
+            "Lurasidone 80 mg",
+            "Haloperidol 10mg",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "tablet",
+            "tablet",
+            "2",
+            "tablet",
+            "tablet",
             "placebo",
             "lurasdione",
             "haloperidol"
       ],
       "arm_group_label": [
-            "placebo"
+            "20",
+            "mg",
+            "40",
+            "mg",
+            "80",
+            "mg"
       ],
       "criteria": [
             "inclusion",
@@ -104,7 +119,7 @@
             "baseline",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -113,6 +128,13 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044044.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lurasidone"
+      ],
+      "mesh_term": [
+            "hydrochloride",
+            "decanoate"
+      ],
+      "id": "NCT00044044"
 }

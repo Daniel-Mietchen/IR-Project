@@ -398,7 +398,7 @@
             "severity"
       ],
       "condition": [
-            "sleep",
+            "disease",
             "apnea",
             "syndrome"
       ],
@@ -414,9 +414,14 @@
             "neighbor",
             "proband"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005299.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005299"
 }

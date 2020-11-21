@@ -85,17 +85,17 @@
       ],
       "condition": [
             "pulmonary",
+            "fibrosis",
+            "disease",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "actimmune"
+            "Interferon gamma-1b (\"Actimmune\")"
       ],
       "description": [
-            "200",
             "mcg",
             "sq",
             "per",
@@ -712,7 +712,7 @@
             "bosentan",
             "nac"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -721,6 +721,17 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075998.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intermune"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "interstitial",
+            "pneumonia"
+      ],
+      "id": "NCT00075998"
 }

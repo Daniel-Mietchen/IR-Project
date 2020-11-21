@@ -39,13 +39,16 @@
             "alone"
       ],
       "condition": [
-            "osteoporosis",
             "postmenopausal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "teriparatide",
+            "raloxifene",
             "placebo"
       ],
       "criteria": [
@@ -121,9 +124,7 @@
             "agent",
             "serm"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -132,6 +133,10 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00046137.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal",
+            "hydrochloride"
+      ],
+      "id": "NCT00046137"
 }

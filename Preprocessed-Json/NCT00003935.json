@@ -171,23 +171,24 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "etoposide",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "nsc",
+            "141540",
             "067574"
       ],
       "criteria": [
@@ -295,7 +296,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -304,6 +305,21 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003935.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "brain",
+            "stem",
+            "glioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003935"
 }

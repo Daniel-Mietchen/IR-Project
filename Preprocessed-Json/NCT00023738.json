@@ -248,15 +248,24 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "semaxanib",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -546,12 +555,24 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023738.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "inhibitor"
+      ],
+      "id": "NCT00023738"
 }

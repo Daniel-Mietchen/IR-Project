@@ -500,18 +500,22 @@
             "36",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "aldesleukin"
+            "ara-C",
+            "Daunorubicin",
+            "Etoposide",
+            "PSC-833",
+            "Aldesleukin"
       ],
-      "arm_group_label": [
-            "adep"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -589,7 +593,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -598,6 +602,15 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002925.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002925"
 }

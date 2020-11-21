@@ -140,18 +140,17 @@
             "patient"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "conventional surgery"
       ],
       "arm_group_label": [
-            "lymph",
+            "node",
+            "sample",
             "node",
             "dissection"
       ],
@@ -433,12 +432,20 @@
             "radiotherapy",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003831.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003831"
 }

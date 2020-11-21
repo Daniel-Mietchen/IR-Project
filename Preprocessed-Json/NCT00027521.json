@@ -129,15 +129,15 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "electroporation",
-            "therapy"
+            "bleomycin sulfate",
+            "electroporation therapy"
       ],
       "criteria": [
             "disease",
@@ -275,9 +275,16 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027521.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00027521"
 }

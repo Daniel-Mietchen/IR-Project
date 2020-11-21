@@ -296,15 +296,24 @@
             "strategy"
       ],
       "condition": [
-            "proteinuria"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "losartan"
+            "Losartan 50mg",
+            "Losartan 100mg"
       ],
       "description": [
+            "first",
+            "14",
+            "day",
+            "subject",
+            "randomize",
+            "take",
+            "losartan",
             "14",
             "day",
             "dose",
@@ -312,9 +321,7 @@
             "losartan",
             "daily"
       ],
-      "arm_group_label": [
-            "losartan"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -414,12 +421,21 @@
             "vascular",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067990.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "post",
+            "transplant",
+            "proteinuria"
+      ],
+      "mesh_term": [
+            "disease",
+            "ii"
+      ],
+      "id": "NCT00067990"
 }

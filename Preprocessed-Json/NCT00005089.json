@@ -195,17 +195,56 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "description": [
+            "day",
+            "cycle",
+            "1",
+            "day",
+            "cycle",
+            "day",
+            "10",
+            "cycle",
+            "1",
+            "day",
+            "21",
+            "cycle",
+            "day",
+            "10",
+            "cycle",
+            "1",
+            "day",
+            "21",
+            "cycle",
+            "mg",
+            "day",
+            "cycle",
+            "1",
+            "day",
+            "cycle",
+            "day",
+            "10",
+            "cycle",
+            "1",
+            "day",
+            "3",
+            "cycle",
             "cgy",
             "give",
             "25",
@@ -218,7 +257,16 @@
             "rituximab"
       ],
       "arm_group_label": [
-            "chop",
+            "rituximab",
+            "rt",
+            "rituximab",
+            "rt",
+            "rituximab",
+            "rt",
+            "rituximab",
+            "rt",
+            "rituximab",
+            "rt",
             "rituximab",
             "rt"
       ],
@@ -378,12 +426,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005089.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "adult",
+            "burkitt",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00005089"
 }

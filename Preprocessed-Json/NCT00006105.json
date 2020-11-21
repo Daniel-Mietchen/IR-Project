@@ -131,17 +131,31 @@
             "study"
       ],
       "condition": [
+            "cancer",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "amifostine trihydrate",
+            "cisplatin",
+            "gemcitabine hydrochloride",
+            "adjuvant therapy"
       ],
       "arm_group_label": [
-            "administration",
+            "cisplatin",
+            "gemcitabine",
+            "amifostine",
+            "cisplatin",
+            "gemcitabine",
+            "amifostine",
+            "cisplatin",
+            "gemcitabine",
+            "amifostine",
             "cisplatin",
             "gemcitabine",
             "amifostine"
@@ -275,12 +289,19 @@
             "experimental",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00006105"
 }

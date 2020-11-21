@@ -431,17 +431,34 @@
             "anderson"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine"
+            "Paclitaxel",
+            "Docetaxel",
+            "Capecitabine"
       ],
       "description": [
-            "1500",
+            "vein",
+            "iv",
+            "weekly",
+            "1",
+            "hour",
+            "x",
+            "12",
+            "week",
+            "vein",
+            "iv",
+            "1",
+            "hour",
+            "every",
+            "3",
+            "week",
             "mouth",
             "twice",
             "daily",
@@ -450,13 +467,14 @@
             "week"
       ],
       "arm_group_label": [
-            "docetaxel",
+            "paclitaxel",
+            "wp",
+            "capecitabine",
+            "dx",
             "capecitabine",
             "dx"
       ],
-      "other_name": [
-            "xeloda"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -886,11 +904,18 @@
             "grade",
             "1"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050167.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "operable",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00050167"
 }

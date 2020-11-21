@@ -139,19 +139,20 @@
             "ug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "2",
-            "placebo",
-            "patch"
+            "1 Transdermal Testosterone (Patch)",
+            "2 Placebo Patch"
       ],
       "description": [
-            "placebo",
+            "microgram",
+            "twice",
+            "week",
             "patch",
             "0",
             "microgram",
@@ -161,7 +162,9 @@
             "week"
       ],
       "arm_group_label": [
-            "2",
+            "transdermal",
+            "testosterone",
+            "patch",
             "placebo",
             "patch",
             "identical",
@@ -262,9 +265,7 @@
             "protocol",
             "creatinine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -273,6 +274,16 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095212.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "enanthate",
+            "undecanoate",
+            "17"
+      ],
+      "id": "NCT00095212"
 }

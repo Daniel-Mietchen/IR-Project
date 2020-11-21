@@ -97,15 +97,13 @@
             "perform"
       ],
       "condition": [
-            "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "adi",
-            "peg"
+            "ADI PEG"
       ],
       "criteria": [
             "inclusion",
@@ -220,9 +218,16 @@
             "require",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029900.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "arginine",
+            "deiminase"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00029900"
 }

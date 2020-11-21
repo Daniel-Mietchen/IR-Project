@@ -256,7 +256,7 @@
             "intervention"
       ],
       "condition": [
-            "anemia",
+            "disease",
             "sickle",
             "cell"
       ],
@@ -264,7 +264,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -273,6 +273,11 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035763.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00035763"
 }

@@ -364,13 +364,16 @@
             "p"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "rifabutin",
+            "isoniazid",
             "efavirenz"
       ],
       "criteria": [
@@ -453,12 +456,15 @@
             "day",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018083.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00018083"
 }

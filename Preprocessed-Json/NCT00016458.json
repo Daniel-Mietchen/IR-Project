@@ -59,13 +59,14 @@
             "year"
       ],
       "condition": [
-            "systemic",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "anti-thymocyte globulin",
             "cyclophosphamide"
       ],
       "criteria": [
@@ -251,12 +252,21 @@
             "concurrent",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016458.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "systemic",
+            "sclerosis"
+      ],
+      "mesh_term": [
+            "systemic",
+            "diffuse",
+            "serum"
+      ],
+      "id": "NCT00016458"
 }

@@ -65,27 +65,34 @@
             "600",
             "patient"
       ],
-      "condition": [
-            "arrhythmia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "azimilide",
-            "dihydrochloride"
+            "Azimilide Dihydrochloride",
+            "placebo",
+            "Azimilide Dihydrochloride"
       ],
       "description": [
-            "75",
+            "mg",
+            "azimilide",
+            "day",
+            "one",
+            "year",
+            "tablet",
+            "daily",
+            "one",
+            "year",
             "mg",
             "azimilide",
             "day",
             "one",
             "year"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -177,12 +184,13 @@
             "440",
             "msec"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035490.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00035490"
 }

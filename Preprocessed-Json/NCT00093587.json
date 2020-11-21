@@ -384,14 +384,27 @@
             "study"
       ],
       "condition": [
-            "leukemia"
+            "versus",
+            "host",
+            "disease"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -590,7 +603,7 @@
             "treatment",
             "modality"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -599,6 +612,25 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093587.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "v",
+            "host",
+            "disease",
+            "serum"
+      ],
+      "id": "NCT00093587"
 }

@@ -137,15 +137,15 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "arzoxifene hydrochloride",
+            "tamoxifen citrate"
       ],
       "criteria": [
             "disease",
@@ -319,9 +319,7 @@
             "treatment",
             "malignancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -330,6 +328,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005886.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer",
+            "situ"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005886"
 }

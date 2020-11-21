@@ -245,7 +245,6 @@
             "possible"
       ],
       "condition": [
-            "movement",
             "disorder"
       ],
       "criteria": [
@@ -282,12 +281,20 @@
             "attorney",
             "dpa"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018889.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inherit",
+            "movement",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00018889"
 }

@@ -325,7 +325,6 @@
             "data"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "criteria": [
@@ -387,12 +386,20 @@
             "year",
             "younger"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001469.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer",
+            "hereditary"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001469"
 }

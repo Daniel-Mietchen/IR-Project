@@ -85,13 +85,20 @@
             "match"
       ],
       "condition": [
-            "thalassemia"
+            "cell",
+            "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclophosphamide"
+            "Campath -1H",
+            "Dilantin",
+            "Busulfan",
+            "Cyclophosphamide"
       ],
       "criteria": [
             "inclusion",
@@ -249,12 +256,16 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040469.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00040469"
 }

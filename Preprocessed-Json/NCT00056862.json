@@ -214,22 +214,26 @@
             "3"
       ],
       "condition": [
-            "hepatitis",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ribavirin"
+            "Peginterferon alfa-2a",
+            "Peginterferon alfa-2a",
+            "Ribavirin"
       ],
       "description": [
-            "800"
+            "90"
       ],
-      "arm_group_label": [],
-      "other_name": [
-            "copegus"
+      "arm_group_label": [
+            "rbv",
+            "rbv"
       ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -481,12 +485,21 @@
             "equivalent",
             "higher"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056862.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hcv"
+      ],
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00056862"
 }

@@ -200,13 +200,14 @@
             "participant"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Lopinavir/Ritonavir"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -329,12 +330,20 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038480.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00038480"
 }

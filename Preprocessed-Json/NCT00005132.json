@@ -354,15 +354,15 @@
             "lipid"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "9",
             "year"
@@ -371,6 +371,13 @@
             "19",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005132.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005132"
 }

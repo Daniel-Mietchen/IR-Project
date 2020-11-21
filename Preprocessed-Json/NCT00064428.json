@@ -136,7 +136,6 @@
             "stratum",
             "1",
             "fondaparinux",
-            "sc",
             "versus",
             "sc",
             "8",
@@ -148,7 +147,6 @@
             "stratum",
             "2",
             "fondaparinux",
-            "sc",
             "8",
             "day",
             "hospital",
@@ -187,7 +185,6 @@
             "discharge",
             "whichever",
             "earlier",
-            "first",
             "dose",
             "intravenous",
             "bolus",
@@ -196,18 +193,49 @@
             "6",
             "month"
       ],
-      "condition": [
-            "thromboembolism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "control",
-            "ufh"
+            "fondaparinux - UFH not indicated",
+            "Control - UFH not indicated",
+            "Fondaparinux - UFH indicated",
+            "Control - UFH"
       ],
       "description": [
-            "ufh",
+            "od",
+            "sc",
+            "dose",
+            "iv",
+            "x",
+            "8",
+            "day",
+            "discharge",
+            "od",
+            "sc",
+            "dose",
+            "iv",
+            "x",
+            "8",
+            "day",
+            "discharge",
+            "od",
+            "sc",
+            "dose",
+            "iv",
+            "x",
+            "8",
+            "day",
+            "discharge",
+            "iv",
+            "bolus",
+            "x",
+            "hr",
+            "infusion",
             "iv",
             "bolus",
             "infusion",
@@ -223,7 +251,12 @@
             "discharge"
       ],
       "arm_group_label": [
-            "control",
+            "ufh",
+            "indicate",
+            "ufh",
+            "indicate",
+            "ufh",
+            "indicate",
             "unfractionated",
             "heparin"
       ],
@@ -366,12 +399,20 @@
             "rescue",
             "pci"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064428.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "coronary",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00064428"
 }

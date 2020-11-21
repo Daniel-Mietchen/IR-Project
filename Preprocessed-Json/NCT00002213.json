@@ -98,14 +98,17 @@
             "266"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -411,12 +414,21 @@
             "protocol",
             "evaluation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002213.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00002213"
 }

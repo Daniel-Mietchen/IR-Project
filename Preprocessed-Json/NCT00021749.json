@@ -53,14 +53,14 @@
             "patient"
       ],
       "condition": [
-            "cll"
+            "lymphocytic",
+            "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "oblimerson",
-            "sodium"
+            "Oblimerson sodium, G3139"
       ],
       "criteria": [
             "age",
@@ -95,12 +95,20 @@
             "since",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021749.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oblimerson"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00021749"
 }

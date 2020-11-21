@@ -228,17 +228,15 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "bevacizumab"
       ],
       "description": [
-            "give",
             "iv",
             "evey",
             "two",
@@ -248,8 +246,6 @@
             "week",
             "prior",
             "first",
-            "chemoembolization",
-            "patient",
             "cross",
             "bevacizumab",
             "arm",
@@ -259,12 +255,8 @@
             "14",
             "dose"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
-      "other_name": [
-            "avastin"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -664,12 +656,22 @@
             "treatment",
             "complication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049322.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00049322"
 }

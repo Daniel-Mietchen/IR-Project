@@ -649,26 +649,22 @@
             "pregnancy"
       ],
       "condition": [
-            "premature",
+            "relate",
             "birth"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "randomize",
-            "control",
-            "periodontal",
-            "therapy"
+            "multi-center, randomized, controled periodontal therapy"
       ],
       "description": [
-            "periodontal",
             "therapy"
       ],
       "arm_group_label": [
-            "periodontal",
             "treatment"
       ],
       "other_name": [
-            "periodontal",
             "therapy"
       ],
       "criteria": [
@@ -748,14 +744,15 @@
             "without",
             "clear"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097656.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "birth"
+      ],
+      "id": "NCT00097656"
 }

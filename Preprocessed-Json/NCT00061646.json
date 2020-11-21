@@ -31,13 +31,16 @@
             "nsclc"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABT-510/Thrombospondin-1 mimetic",
+            "Carboplatin/Taxol"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -279,12 +282,23 @@
             "active",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "pleural",
+            "effusion",
+            "iv",
+            "nsclc"
+      ],
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00061646"
 }

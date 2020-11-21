@@ -143,32 +143,55 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "variant",
+            "squamous",
+            "differentiation",
+            "uterine",
+            "corpus",
+            "carcinoma",
+            "uterine",
+            "corpus",
+            "cancer",
+            "ii",
+            "uterine",
+            "corpus",
+            "cancer",
+            "iii",
+            "uterine",
+            "corpus",
+            "cancer",
             "iv",
             "uterine",
             "corpus",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "conventional",
-            "surgery"
+            "Laboratory Biomarker Analysis",
+            "Medroxyprogesterone",
+            "Therapeutic Conventional Surgery"
       ],
       "description": [
-            "undergo",
+            "study",
+            "im",
             "surgical",
             "hysterectomy"
       ],
       "arm_group_label": [
-            "treatment",
+            "medroxyprogesterone",
+            "medroxyprogesterone",
             "medroxyprogesterone"
       ],
-      "other_name": [
-            "curretab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -241,14 +264,18 @@
             "concurrent",
             "rifampin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064025.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "endometrioid",
+            "neoplasm",
+            "adenosquamous",
+            "acetate"
+      ],
+      "id": "NCT00064025"
 }

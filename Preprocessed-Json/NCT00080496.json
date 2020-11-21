@@ -18,14 +18,17 @@
             "pneumonia"
       ],
       "condition": [
-            "bacterial",
             "pneumonia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cilastatin"
+            "Tigecycline",
+            "Imipenem",
+            "Cilastatin"
       ],
       "criteria": [
             "inclusion",
@@ -102,7 +105,7 @@
             "dialysis",
             "plasmapheresis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -111,6 +114,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080496.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pneumonia"
+      ],
+      "mesh_term": [
+            "bacterial"
+      ],
+      "id": "NCT00080496"
 }

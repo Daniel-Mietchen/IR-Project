@@ -160,14 +160,14 @@
             "enrol"
       ],
       "condition": [
-            "cervix",
+            "infection",
             "dysplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "isotretinoin"
+            "Isotretinoin"
       ],
       "criteria": [
             "inclusion",
@@ -232,14 +232,22 @@
             "okay",
             "pregnant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001073.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "keratolytic",
+            "agent"
+      ],
+      "mesh_term": [
+            "infection",
+            "intraepithelial",
+            "lesion",
+            "cervix"
+      ],
+      "id": "NCT00001073"
 }

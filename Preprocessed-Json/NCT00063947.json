@@ -256,30 +256,54 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
             "iii",
             "pancreatic",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "gemcitabine hydrochloride",
+            "radiation therapy",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "iv",
+            "radiotherapy",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "radiotherapy",
+            "gemcitabine",
+            "erlotinib",
+            "hydrochloride",
+            "radiotherapy",
+            "gemcitabine",
+            "erlotinib",
+            "hydrochloride",
+            "radiotherapy",
+            "gemcitabine",
+            "erlotinib",
+            "hydrochloride",
             "radiotherapy",
             "gemcitabine",
             "erlotinib",
             "hydrochloride"
       ],
       "other_name": [
-            "therapy",
+            "hydrochloride",
             "radiation"
       ],
       "criteria": [
@@ -323,7 +347,6 @@
             "metastatic",
             "disease",
             "stag",
-            "laparoscopy",
             "locally",
             "recurrent",
             "disease",
@@ -342,7 +365,6 @@
             "metastatic",
             "disease",
             "stag",
-            "laparoscopy",
             "islet",
             "cell",
             "pancreatic",
@@ -508,12 +530,16 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063947.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00063947"
 }

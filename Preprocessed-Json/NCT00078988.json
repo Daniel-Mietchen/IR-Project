@@ -344,23 +344,50 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
+            "filgrastim",
+            "carboplatin",
+            "etoposide",
+            "isotretinoin",
+            "thiotepa",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
+      ],
+      "description": [
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "blood",
             "stem",
             "cell",
-            "transplantation"
-      ],
-      "description": [
-            "filgrastim",
+            "bone",
+            "marrow",
+            "reinfused",
+            "72",
+            "hour",
+            "follow",
+            "completion",
+            "last",
+            "dose",
+            "chemotherapy",
+            "day",
+            "0",
             "give",
             "daily",
             "afternoon",
@@ -383,13 +410,49 @@
             "filgrastim"
       ],
       "arm_group_label": [
-            "arm",
+            "chemotherapy",
+            "ascr",
+            "ii",
+            "chemotherapy",
+            "ascr",
+            "chemotherapy",
+            "ascr",
+            "ii",
+            "chemotherapy",
+            "ascr",
+            "chemotherapy",
+            "ascr",
+            "chemotherapy",
+            "ascr",
+            "iii",
+            "isotretinoin",
+            "chemotherapy",
+            "ascr",
+            "ii",
+            "chemotherapy",
+            "ascr",
+            "chemotherapy",
+            "ascr",
+            "ii",
+            "chemotherapy",
+            "ascr",
+            "chemotherapy",
+            "ascr",
             "ii",
             "chemotherapy",
             "ascr"
       ],
       "other_name": [
-            "peripheral",
+            "factor",
+            "614629",
+            "241240",
+            "141540",
+            "acid",
+            "329481",
+            "tspa",
+            "6396",
+            "cell",
+            "reinfusion",
             "stem",
             "cell",
             "collection"
@@ -541,12 +604,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078988.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00078988"
 }

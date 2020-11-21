@@ -163,11 +163,10 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
             "brachytherapy"
@@ -435,11 +434,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002873.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tubular",
+            "ductal",
+            "breast",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002873"
 }

@@ -207,7 +207,6 @@
             "dose",
             "mtds",
             "determine",
-            "mtd",
             "phase",
             "ii",
             "dose",
@@ -268,15 +267,22 @@
             "level"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "dexamethasone",
+            "floxuridine",
+            "irinotecan hydrochloride",
+            "adjuvant therapy",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -370,12 +376,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003753.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00003753"
 }

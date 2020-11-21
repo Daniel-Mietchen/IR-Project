@@ -102,14 +102,19 @@
             "investigational"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Hydroxyurea",
+            "Abacavir sulfate",
+            "Efavirenz",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -287,12 +292,21 @@
             "alcohol",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00005018"
 }

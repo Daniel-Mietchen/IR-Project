@@ -443,14 +443,12 @@
             "chromatography",
             "hplc"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fcway"
+            "FCWAY"
       ],
       "criteria": [
             "inclusion",
@@ -695,9 +693,14 @@
             "cranial",
             "mass"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011752.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00011752"
 }

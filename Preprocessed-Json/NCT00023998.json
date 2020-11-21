@@ -308,26 +308,76 @@
             "year"
       ],
       "condition": [
-            "metastatic",
             "osteosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Procedure",
+            "Radiation",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "doxorubicin hydrochloride",
+            "cisplatin",
+            "methotrexate",
+            "leucovorin calcium",
+            "filgrastim",
+            "therapeutic conventional surgery",
+            "radiation therapy",
+            "etoposide",
+            "ifosfamide",
+            "trastuzumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "orally",
+            "iv",
+            "resection",
+            "radiotherapy",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
-            "moab"
+            "pfs",
+            "rdf",
+            "radiation"
       ],
       "criteria": [
             "inclusion",
@@ -452,12 +502,15 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023998.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00023998"
 }

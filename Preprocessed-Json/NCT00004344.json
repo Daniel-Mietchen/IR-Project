@@ -67,13 +67,14 @@
             "month"
       ],
       "condition": [
-            "precocious",
             "puberty"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "leuprolide",
             "testosterone"
       ],
       "criteria": [
@@ -89,14 +90,19 @@
             "testotoxicosis",
             "boy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004344.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "precocious"
+      ],
+      "id": "NCT00004344"
 }

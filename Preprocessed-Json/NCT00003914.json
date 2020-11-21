@@ -122,15 +122,13 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dolastatin",
-            "10"
+            "dolastatin 10"
       ],
       "criteria": [
             "disease",
@@ -314,12 +312,24 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003914.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "10"
+      ],
+      "id": "NCT00003914"
 }

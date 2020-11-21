@@ -119,14 +119,16 @@
             "study"
       ],
       "condition": [
-            "vulvar",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antineoplaston"
+            "antineoplaston A10",
+            "antineoplaston AS2-1"
       ],
       "criteria": [
             "disease",
@@ -307,14 +309,22 @@
             "antineoplastic",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003525.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "vulvar",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00003525"
 }

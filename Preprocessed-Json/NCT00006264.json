@@ -187,13 +187,15 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "ganciclovir",
             "zidovudine"
       ],
       "criteria": [
@@ -348,7 +350,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -357,6 +359,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006264.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "cns",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "triphosphate"
+      ],
+      "id": "NCT00006264"
 }

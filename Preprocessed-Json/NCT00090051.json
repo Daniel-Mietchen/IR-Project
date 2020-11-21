@@ -40,22 +40,32 @@
             "symptom"
       ],
       "condition": [
-            "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclophosphamide"
+            "Rituximab",
+            "Fludarabine Phosphate",
+            "Cyclophosphamide"
       ],
       "description": [
-            "intravenous",
+            "repeat",
+            "dose",
+            "repeat",
+            "dose",
             "repeat",
             "dose"
       ],
       "arm_group_label": [
+            "fcr",
+            "fc",
+            "fcr",
+            "fc",
             "fcr"
       ],
       "criteria": [
@@ -278,12 +288,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090051.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00090051"
 }

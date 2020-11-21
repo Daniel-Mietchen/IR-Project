@@ -134,17 +134,24 @@
             "avastin"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tarceva"
+            "Avastin",
+            "Tarceva"
       ],
       "description": [
-            "100",
+            "vein",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "cycle",
             "mg",
             "mouth",
             "daily",
@@ -152,11 +159,13 @@
             "week"
       ],
       "arm_group_label": [
-            "avastin",
+            "tarceva",
             "tarceva"
       ],
       "other_name": [
-            "erlotinib",
+            "vegf",
+            "monoclonal",
+            "antibody",
             "hydrocholoride"
       ],
       "criteria": [
@@ -413,12 +422,22 @@
             "g",
             "tube"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043823.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "erlotinib",
+            "hydrocholoride"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "hydrochloride",
+            "monoclonal"
+      ],
+      "id": "NCT00043823"
 }

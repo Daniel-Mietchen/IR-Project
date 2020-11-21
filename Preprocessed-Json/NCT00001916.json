@@ -295,7 +295,9 @@
             "implication"
       ],
       "condition": [
-            "osteoporosis"
+            "disease",
+            "metabolic",
+            "involutional"
       ],
       "criteria": [
             "female",
@@ -420,9 +422,23 @@
             "past",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001916.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "affective",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "disease",
+            "disease",
+            "metabolic",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00001916"
 }

@@ -142,18 +142,18 @@
             "year"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "epirubicin hydrochloride",
+            "gemcitabine hydrochloride"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "epirubicin",
             "epirubicin"
       ],
       "criteria": [
@@ -295,12 +295,20 @@
             "concurrent",
             "cimetidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017186.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00017186"
 }

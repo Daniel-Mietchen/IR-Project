@@ -137,30 +137,43 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "capecitabine",
+            "gefitinib",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "po",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "capecitabine",
+            "gefitinib",
+            "capecitabine",
+            "gefitinib",
+            "capecitabine",
+            "gefitinib",
             "capecitabine",
             "gefitinib"
       ],
       "other_name": [
-            "pharmacological",
+            "1839",
             "study"
       ],
       "criteria": [
@@ -303,12 +316,13 @@
             "carbamazepine",
             "barbiturate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039390.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00039390"
 }

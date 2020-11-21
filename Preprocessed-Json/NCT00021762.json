@@ -348,16 +348,15 @@
             "parameter"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "structure",
-            "treatment",
-            "interruption"
+            "HIV-1 Immunogen",
+            "Structured Treatment Interruption"
       ],
       "criteria": [
             "inclusion",
@@ -500,9 +499,17 @@
             "assign",
             "randomly"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021762.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "therapeutic",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00021762"
 }

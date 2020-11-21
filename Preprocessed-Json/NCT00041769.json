@@ -394,17 +394,13 @@
             "test"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "drug",
-            "monitor",
-            "tdm"
+            "Therapeutic Drug Monitoring (TDM)"
       ],
       "criteria": [
             "note",
@@ -612,12 +608,22 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041769.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00041769"
 }

@@ -185,7 +185,9 @@
             "problem"
       ],
       "condition": [
-            "diabetic",
+            "mellitus",
+            "type",
+            "1",
             "nephropathy"
       ],
       "study_pop": [],
@@ -202,7 +204,7 @@
             "past",
             "puberty"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
@@ -211,6 +213,14 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067886.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "mellitus",
+            "type",
+            "1",
+            "nephropathy"
+      ],
+      "id": "NCT00067886"
 }

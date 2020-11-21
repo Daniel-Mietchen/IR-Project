@@ -166,13 +166,17 @@
             "period"
       ],
       "condition": [
+            "injury",
             "foot",
+            "ulcer",
             "wound"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GAM501"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -229,12 +233,20 @@
             "monofilament",
             "area"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065663.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ulcer"
+      ],
+      "mesh_term": [
+            "injury",
+            "foot",
+            "ulcer"
+      ],
+      "id": "NCT00065663"
 }

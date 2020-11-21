@@ -297,7 +297,6 @@
             "tool"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "criteria": [
@@ -324,9 +323,15 @@
             "age",
             "40"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042107.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "neurodegenerative"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00042107"
 }

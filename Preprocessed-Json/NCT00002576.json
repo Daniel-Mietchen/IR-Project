@@ -113,15 +113,20 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "mitoxantrone hydrochloride",
+            "prednisolone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -211,12 +216,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002576.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "adult",
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002576"
 }

@@ -159,10 +159,11 @@
       ],
       "condition": [
             "skin",
+            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "isotretinoin"
@@ -380,12 +381,23 @@
             "approve",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025012.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "melanoma"
+      ],
+      "mesh_term": [
+            "basal",
+            "cell",
+            "neoplasm",
+            "cell",
+            "nevus",
+            "syndrome"
+      ],
+      "id": "NCT00025012"
 }

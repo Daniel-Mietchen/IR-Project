@@ -373,15 +373,13 @@
             "patient"
       ],
       "condition": [
-            "healthy"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "silymarin",
-            "milk",
-            "thistle"
+            "Silymarin (milk thistle)"
       ],
       "criteria": [
             "age",
@@ -534,9 +532,16 @@
             "dextromethorphan",
             "preparation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011635.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "milk",
+            "thistle"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00011635"
 }

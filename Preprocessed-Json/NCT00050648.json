@@ -150,29 +150,40 @@
             "work",
             "body"
       ],
-      "condition": [
-            "psoriasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporine",
-            "daclizumab"
+            "Daclizumab",
+            "Cyclosporine",
+            "cyclosporine and Daclizumab"
       ],
       "description": [
+            "medication",
+            "every",
+            "week",
+            "odd",
+            "week",
+            "week",
+            "orally",
+            "day",
+            "0",
+            "day",
+            "90",
+            "total",
+            "13",
+            "week",
             "plus",
             "low",
             "dose",
             "cyclosporine",
             "2"
       ],
-      "arm_group_label": [
-            "cyclosporine"
-      ],
-      "other_name": [
-            "neoral"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -293,12 +304,18 @@
             "history",
             "neoplasm"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050648.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "skin"
+      ],
+      "mesh_term": [
+            "g"
+      ],
+      "id": "NCT00050648"
 }

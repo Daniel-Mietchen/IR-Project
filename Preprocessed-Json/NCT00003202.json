@@ -254,15 +254,17 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "gemcitabine hydrochloride",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -427,12 +429,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003202.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003202"
 }

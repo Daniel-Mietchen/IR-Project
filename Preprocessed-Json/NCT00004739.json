@@ -194,15 +194,13 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "antiretroviral",
-            "therapy"
+            "Antiretroviral therapy"
       ],
       "criteria": [
             "inclusion",
@@ -343,7 +341,7 @@
             "family",
             "history"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -352,6 +350,15 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004739.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pediatric",
+            "hiv",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "inhibitor"
+      ],
+      "id": "NCT00004739"
 }

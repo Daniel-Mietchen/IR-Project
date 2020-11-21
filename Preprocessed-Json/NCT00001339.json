@@ -145,18 +145,14 @@
             "ineffective"
       ],
       "condition": [
-            "adrenal",
             "cortical",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "vincristine",
-            "etoposide",
-            "mitotane"
+            "doxorubicin, vincristine, and etoposide with mitotane"
       ],
       "criteria": [
             "primary",
@@ -319,9 +315,15 @@
             "pregnancy",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001339.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "carcinoma",
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00001339"
 }

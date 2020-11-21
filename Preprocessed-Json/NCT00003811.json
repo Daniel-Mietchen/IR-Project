@@ -196,15 +196,28 @@
             "year"
       ],
       "condition": [
-            "ovarian",
+            "germ",
+            "cell",
+            "tumor",
+            "toxicity",
+            "germ",
+            "cell",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "bleomycin sulfate",
+            "amifostine trihydrate",
+            "cisplatin",
+            "etoposide",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -307,12 +320,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003811.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "malignant",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "phosphate"
+      ],
+      "id": "NCT00003811"
 }

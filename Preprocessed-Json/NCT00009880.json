@@ -324,15 +324,22 @@
             "month"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "fluorouracil",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -490,9 +497,18 @@
             "esophageal",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009880.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00009880"
 }

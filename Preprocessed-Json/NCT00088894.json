@@ -384,29 +384,89 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "ii",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Biological",
+            "Other",
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "gemcitabine hydrochloride",
+            "bevacizumab",
+            "placebo",
+            "laboratory biomarker analysis",
+            "pharmacogenomic studies",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "placebo",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "placebo",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "placebo",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
+            "ii",
+            "gemcitabine",
+            "hydrochloride",
+            "placebo",
+            "gemcitabine",
+            "hydrochloride",
+            "bevacizumab",
             "ii",
             "gemcitabine",
             "hydrochloride",
             "placebo"
       ],
       "other_name": [
-            "pharmacological",
+            "hydrochloride",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
+            "study",
             "study"
       ],
       "criteria": [
@@ -723,12 +783,16 @@
             "abdomen",
             "chest"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088894.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00088894"
 }

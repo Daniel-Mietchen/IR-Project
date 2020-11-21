@@ -312,18 +312,15 @@
             "spirometry"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "asthma",
-            "education"
+            "Asthma self-management education"
       ],
       "description": [
-            "treatment",
             "group",
             "child",
             "family",
@@ -385,7 +382,6 @@
             "spanish"
       ],
       "arm_group_label": [
-            "asthma",
             "education"
       ],
       "criteria": [
@@ -409,7 +405,7 @@
             "asthma",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -418,6 +414,9 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005711.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005711"
 }

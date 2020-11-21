@@ -228,20 +228,29 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "yttrium Y 90 monoclonal antibody MN-14"
       ],
       "description": [
-            "intravenous",
+            "prescribe",
+            "physician",
+            "week",
+            "prior",
+            "treatment",
+            "week",
+            "prior",
+            "treatment",
             "infusion",
             "30",
             "min",
@@ -473,12 +482,21 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004085.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00004085"
 }

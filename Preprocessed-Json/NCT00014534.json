@@ -223,18 +223,27 @@
             "thereafter"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "filgrastim",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "1000",
+            "mg",
+            "sub",
+            "q",
+            "iv",
+            "sq",
+            "iv",
             "sq",
             "iv",
             "gem",
@@ -248,7 +257,12 @@
             "arm"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "doxorubicin",
+            "pegfilgrastim",
+            "cisplatin",
+            "doxorubicin",
+            "pegfilgrastim",
+            "cisplatin",
             "doxorubicin",
             "pegfilgrastim"
       ],
@@ -421,12 +435,25 @@
             "radiotherapy",
             "bladder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014534.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "doxorubicin"
+      ],
+      "id": "NCT00014534"
 }

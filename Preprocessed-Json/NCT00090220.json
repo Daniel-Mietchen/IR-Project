@@ -141,7 +141,10 @@
             "study"
       ],
       "condition": [
-            "human",
+            "adult",
+            "female",
+            "participant",
+            "infection",
             "papillomavirus",
             "recombinant",
             "vaccine",
@@ -153,14 +156,23 @@
             "18"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "Quadrivalent Human Papillomavirus (Types 6, 11, 16, 18) Recombinant Vaccine",
+            "Comparator: Placebo"
       ],
       "description": [
-            "placebo",
+            "intramuscular",
+            "injection",
+            "three",
+            "ml",
+            "dose",
+            "6",
+            "month",
+            "base",
+            "study",
             "intramuscular",
             "injection",
             "three",
@@ -170,7 +182,11 @@
             "month"
       ],
       "arm_group_label": [
-            "placebo",
+            "vaccine",
+            "base",
+            "study",
+            "base",
+            "study",
             "base",
             "study"
       ],
@@ -276,9 +292,7 @@
             "lesion",
             "hysterectomy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "24",
             "year"
@@ -287,6 +301,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090220.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00090220"
 }

@@ -224,7 +224,9 @@
             "year"
       ],
       "condition": [
-            "pulmonary",
+            "disease",
+            "disease",
+            "disease",
             "fibrosis"
       ],
       "criteria": [
@@ -280,7 +282,7 @@
             "age",
             "one"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -289,6 +291,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001456.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "disease",
+            "syndrome"
+      ],
+      "id": "NCT00001456"
 }

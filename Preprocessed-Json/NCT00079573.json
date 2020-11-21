@@ -154,17 +154,16 @@
             "body",
             "composition"
       ],
-      "condition": [
-            "obesity"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "ornish",
-            "diet",
-            "low",
-            "fat"
+            "Atkins diet (extremely low carbohydrate)",
+            "Zone diet (low carbohydrate, high protein)",
+            "Ornish diet (very low fat)"
       ],
       "criteria": [
             "inclusion",
@@ -250,9 +249,7 @@
             "beck",
             "inventory"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
@@ -261,6 +258,12 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079573.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diet"
+      ],
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00079573"
 }

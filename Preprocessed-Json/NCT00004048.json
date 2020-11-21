@@ -245,18 +245,24 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "doxorubicin hydrochloride",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "indium In 111 monoclonal antibody MN-14",
+            "yttrium Y 90 monoclonal antibody MN-14"
       ],
       "criteria": [
             "disease",
@@ -448,7 +454,7 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -457,6 +463,19 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004048.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thyroid",
+            "gland",
+            "medullary",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "monoclonal",
+            "doxorubicin"
+      ],
+      "id": "NCT00004048"
 }

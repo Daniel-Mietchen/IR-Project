@@ -265,18 +265,47 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cetuximab C225",
+            "cisplatin",
+            "radiation therapy"
       ],
       "description": [
+            "iv",
+            "120",
+            "minute",
+            "day",
+            "1",
+            "250",
+            "iv",
+            "60",
+            "minute",
+            "day",
+            "8",
+            "weekly",
+            "iv",
+            "minute",
+            "start",
+            "day",
+            "15",
+            "every",
+            "3",
+            "week",
+            "3",
+            "day",
+            "1",
+            "22",
+            "43",
+            "radiation",
+            "therapy",
             "rt",
             "70",
             "gy",
@@ -290,7 +319,8 @@
             "fraction"
       ],
       "arm_group_label": [
-            "cisplatin",
+            "radiation",
+            "radiation",
             "radiation"
       ],
       "other_name": [],
@@ -586,12 +616,26 @@
             "situ",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096174.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00096174"
 }

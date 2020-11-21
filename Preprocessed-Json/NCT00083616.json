@@ -81,17 +81,16 @@
             "survival"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "panitumumab"
+            "Panitumumab"
       ],
       "description": [
-            "panitumumab",
             "6",
             "every",
             "2",
@@ -102,12 +101,8 @@
             "iv",
             "infusion"
       ],
-      "arm_group_label": [
-            "panitumumab"
-      ],
-      "other_name": [
-            "vectibix"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -247,12 +242,20 @@
             "week",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083616.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amgen"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "monoclonal"
+      ],
+      "id": "NCT00083616"
 }

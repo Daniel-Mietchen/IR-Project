@@ -172,13 +172,19 @@
             "study"
       ],
       "condition": [
-            "sarcoma"
+            "effect",
+            "secondary",
+            "cancer",
+            "therapy",
+            "child"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "management of therapy complications",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -223,12 +229,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003801.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "previously",
+            "treat",
+            "childhood",
+            "rhabdomyosarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003801"
 }

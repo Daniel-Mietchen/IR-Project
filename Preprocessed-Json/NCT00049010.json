@@ -125,17 +125,24 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Genetic",
+            "Genetic",
+            "Genetic",
+            "Other"
+      ],
       "intervention_name": [
-            "immunohistochemistry",
-            "stain",
-            "method"
+            "comparative genomic hybridization",
+            "cytogenetic analysis",
+            "fluorescence in situ hybridization",
+            "immunohistochemistry staining method"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
+            "1",
             "1"
       ],
       "criteria": [
@@ -242,12 +249,18 @@
             "per",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049010.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00049010"
 }

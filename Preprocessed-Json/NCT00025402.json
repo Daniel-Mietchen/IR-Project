@@ -464,15 +464,32 @@
             "5",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "recombinant interferon alfa",
+            "busulfan",
+            "cyclophosphamide",
+            "cytarabine",
+            "etoposide",
+            "hydroxyurea",
+            "idarubicin",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -581,9 +598,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025402.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "atypical",
+            "chronic",
+            "myeloid",
+            "leukemia",
+            "negative"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00025402"
 }

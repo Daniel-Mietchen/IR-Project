@@ -114,18 +114,40 @@
             "progression"
       ],
       "condition": [
-            "genital",
+            "neoplasm",
+            "gland",
+            "neoplasm",
+            "site",
+            "disease",
+            "disease",
             "disease",
             "female"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Trabectedin",
+            "Dexamethasone"
       ],
       "description": [
-            "dexamethasone",
+            "administer",
+            "intravenous",
+            "infusion",
+            "day",
+            "1",
+            "8",
+            "15",
+            "every",
+            "28",
+            "day",
+            "approximately",
+            "3",
+            "year",
+            "absence",
+            "disease",
+            "progression",
             "10",
             "mg",
             "administer",
@@ -136,9 +158,7 @@
             "trabectedin",
             "infusion"
       ],
-      "arm_group_label": [
-            "trabectedin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -197,14 +217,30 @@
             "five",
             "year"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050414.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alkylating",
+            "agent"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "site",
+            "disease",
+            "disease",
+            "female",
+            "gland",
+            "neoplasm",
+            "disease",
+            "acetate",
+            "1101",
+            "agent",
+            "alkylating"
+      ],
+      "id": "NCT00050414"
 }

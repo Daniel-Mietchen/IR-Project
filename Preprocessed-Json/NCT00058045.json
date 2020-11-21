@@ -147,18 +147,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "human",
-            "stem",
-            "cell",
-            "factor"
+            "aldesleukin",
+            "recombinant human stem cell factor"
       ],
       "criteria": [
             "disease",
@@ -220,7 +216,6 @@
             "count",
             "greater",
             "note",
-            "transfusion",
             "growth",
             "factor",
             "allow",
@@ -429,12 +424,16 @@
             "block",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058045.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00058045"
 }

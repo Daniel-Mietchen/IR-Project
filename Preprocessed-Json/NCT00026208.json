@@ -217,15 +217,59 @@
             "year"
       ],
       "condition": [
-            "lymphoma",
+            "hodgkin",
+            "disease",
+            "disease",
             "hodgkin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "bleomycin",
+            "cyclophosphamide",
+            "prednisone",
+            "vincristine",
+            "Adriamycin",
+            "Velban",
+            "VP-16"
+      ],
       "description": [
-            "60",
+            "iv",
+            "week",
+            "2",
+            "4",
+            "6",
+            "8",
+            "oral",
+            "every",
+            "day",
+            "taper",
+            "10",
+            "mg",
+            "qod",
+            "last",
+            "2",
+            "week",
+            "chemotherapy",
+            "iv",
+            "wk",
+            "2",
+            "4",
+            "6",
+            "8",
+            "iv",
+            "wk",
+            "1",
+            "3",
+            "5",
+            "7",
             "x",
             "2",
             "iv",
@@ -238,7 +282,12 @@
             "44"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "stanford",
+            "stanford",
+            "stanford",
+            "stanford",
+            "stanford",
+            "stanford",
             "stanford"
       ],
       "criteria": [
@@ -386,7 +435,7 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -395,6 +444,9 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026208.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00026208"
 }

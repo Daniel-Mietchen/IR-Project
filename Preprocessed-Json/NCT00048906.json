@@ -281,13 +281,14 @@
             "appendix"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "DRX005B"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -455,9 +456,15 @@
             "medical",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048906.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fabry"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00048906"
 }

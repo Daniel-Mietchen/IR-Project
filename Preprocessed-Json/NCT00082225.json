@@ -506,18 +506,33 @@
             "cell",
             "wish"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "ebv",
-            "specific",
-            "cell"
+            "CD45 antibodies",
+            "EBV specific T cells"
       ],
       "description": [
+            "antibody",
+            "solution",
+            "administer",
+            "syringe",
+            "pump",
+            "incremental",
+            "dose",
+            "mg",
+            "first",
+            "hour",
+            "10",
+            "thereafter",
+            "maximum",
+            "infusion",
+            "time",
+            "8",
+            "hr",
             "follow",
             "dose",
             "level",
@@ -530,15 +545,14 @@
             "follow",
             "dose",
             "schedule",
-            "2",
             "x",
             "5",
             "x",
-            "1",
             "x"
       ],
       "arm_group_label": [
-            "ebv",
+            "specific",
+            "cell",
             "specific",
             "cell"
       ],
@@ -736,9 +750,13 @@
             "fda",
             "reviewer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082225.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00082225"
 }

@@ -151,32 +151,58 @@
             "month"
       ],
       "condition": [
-            "extensive",
             "stage",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "carboplatin",
+            "etoposide",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
+            "oblimersen",
+            "sodium",
+            "carboplatin",
+            "etoposide",
             "oblimersen",
             "sodium",
             "carboplatin",
             "etoposide"
       ],
       "other_name": [
-            "pharmacological",
+            "antisense",
+            "oligodeoxynucleotide",
             "study"
       ],
       "criteria": [
@@ -318,12 +344,19 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017251.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00017251"
 }

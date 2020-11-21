@@ -373,15 +373,21 @@
             "year"
       ],
       "condition": [
-            "hodgkin",
             "lymphoma"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "dacarbazine",
+            "doxorubicin hydrochloride",
+            "vinblastine",
+            "radiation therapy"
       ],
       "description": [
             "20",
@@ -389,7 +395,18 @@
             "daily"
       ],
       "arm_group_label": [
+            "abvd",
             "radiotherapy",
+            "alone",
+            "abvd",
+            "radiotherapy",
+            "alone",
+            "abvd",
+            "radiotherapy",
+            "alone",
+            "abvd",
+            "radiotherapy",
+            "alone",
             "abvd",
             "radiotherapy"
       ],
@@ -976,12 +993,23 @@
             "adequate",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002561.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "doxorubicin"
+      ],
+      "id": "NCT00002561"
 }

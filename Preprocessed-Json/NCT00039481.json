@@ -268,31 +268,75 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "toxicity",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "oblimersen sodium",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "cyclophosphamide",
+            "filgrastim",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "sc",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
+            "oblimersen",
+            "sodium",
+            "cytotoxic",
+            "chemotherapy",
             "oblimersen",
             "sodium",
             "cytotoxic",
             "chemotherapy"
       ],
       "other_name": [
-            "pharmacological",
+            "antisense",
+            "oligodeoxynucleotide",
+            "pfs",
+            "rdf",
             "study"
       ],
       "criteria": [
@@ -567,7 +611,7 @@
             "cancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -576,6 +620,9 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039481.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00039481"
 }

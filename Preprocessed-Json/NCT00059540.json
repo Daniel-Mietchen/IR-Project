@@ -354,7 +354,9 @@
             "enrol"
       ],
       "condition": [
-            "prenatal",
+            "abuse",
+            "newborn",
+            "woman",
             "care"
       ],
       "study_pop": [],
@@ -412,9 +414,15 @@
             "viability",
             "infant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059540.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00059540"
 }

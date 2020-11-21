@@ -43,7 +43,6 @@
             "time"
       ],
       "condition": [
-            "weight",
             "gain"
       ],
       "study_pop": [],
@@ -83,7 +82,7 @@
             "bmi",
             "30"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
@@ -92,6 +91,12 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072917.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "overfeed"
+      ],
+      "mesh_term": [
+            "gain"
+      ],
+      "id": "NCT00072917"
 }

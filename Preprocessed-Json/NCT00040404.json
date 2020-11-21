@@ -20,23 +20,38 @@
             "disease"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo",
-            "comparator"
+            "CEP-1347 10mg",
+            "CEP1347 25mg",
+            "CEP-1347 50mg",
+            "Placebo Comparator"
       ],
       "description": [
-            "placebo",
+            "derivative",
+            "retain",
+            "neuroprotective",
+            "property",
+            "derivative",
+            "retain",
+            "neuroprotective",
+            "property",
+            "derivative",
+            "retain",
+            "neuroprotective",
+            "property",
             "capsule",
             "match",
             "capsule"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -297,12 +312,20 @@
             "drug",
             "include"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040404.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parkinson",
+            "disease",
+            "idiopathic"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00040404"
 }

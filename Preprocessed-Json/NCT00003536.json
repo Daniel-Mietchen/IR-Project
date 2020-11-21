@@ -180,16 +180,33 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "iv",
+            "breast",
+            "cancer",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "differentiation",
-            "therapy"
+            "antineoplaston A10",
+            "methotrexate",
+            "alternative product therapy",
+            "biological therapy",
+            "biologically based therapies",
+            "cancer prevention intervention",
+            "chemotherapy",
+            "complementary and alternative therapy",
+            "differentiation therapy"
       ],
       "criteria": [
             "disease",
@@ -411,9 +428,12 @@
             "phenytoin",
             "sulfonamide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003536.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003536"
 }

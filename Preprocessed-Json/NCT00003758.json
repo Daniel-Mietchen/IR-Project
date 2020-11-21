@@ -173,18 +173,20 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "cytarabine",
+            "idarubicin",
+            "allogeneic bone marrow transplantation",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -316,7 +318,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -325,6 +327,19 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003758.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00003758"
 }

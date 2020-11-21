@@ -224,13 +224,14 @@
             "questionnaire"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MedSignals\u2122"
+      ],
       "description": [
             "electronic",
             "device",
@@ -259,9 +260,7 @@
             "report",
             "function"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -328,12 +327,19 @@
             "course",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071500.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00071500"
 }

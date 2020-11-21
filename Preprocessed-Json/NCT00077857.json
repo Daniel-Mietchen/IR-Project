@@ -70,17 +70,27 @@
             "individual"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "docetaxel"
+            "capecitabine (Xeloda\u00ae)",
+            "docetaxel (Taxotere\u00ae)"
       ],
       "description": [
-            "75",
+            "1250",
+            "orally",
+            "twice",
+            "day",
+            "day",
+            "1",
+            "14",
+            "3",
+            "week",
+            "cycle",
             "intravenous",
             "day",
             "1",
@@ -89,7 +99,12 @@
             "cycle"
       ],
       "arm_group_label": [
-            "825",
+            "capecitabine",
+            "docetaxel",
+            "capecitabine",
+            "docetaxel",
+            "capecitabine",
+            "docetaxel",
             "capecitabine",
             "docetaxel"
       ],
@@ -128,14 +143,15 @@
             "docetaxel",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077857.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00077857"
 }

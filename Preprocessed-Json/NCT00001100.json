@@ -130,11 +130,10 @@
             "effectiveness"
       ],
       "condition": [
-            "cytomegalovirus",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ganciclovir"
@@ -200,12 +199,17 @@
             "brain",
             "involvement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001100.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "infection",
+            "triphosphate"
+      ],
+      "id": "NCT00001100"
 }

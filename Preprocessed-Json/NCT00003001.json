@@ -162,15 +162,17 @@
             "accrue"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "gemcitabine hydrochloride",
+            "leucovorin calcium"
       ],
       "criteria": [
             "disease",
@@ -276,9 +278,17 @@
             "acid",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003001.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003001"
 }

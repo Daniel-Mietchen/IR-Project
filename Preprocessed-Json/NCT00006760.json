@@ -238,25 +238,44 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "filgrastim",
+            "ifosfamide",
+            "vinorelbine tartrate"
       ],
       "description": [
             "iv",
+            "minute",
+            "begin",
+            "hour",
+            "completion",
+            "vinorelbine",
+            "continue",
+            "daily",
+            "blood",
+            "count",
+            "recover",
+            "24",
+            "hour",
+            "day",
             "minute",
             "day",
             "1",
             "5"
       ],
       "arm_group_label": [
-            "treatment",
+            "ifosfamide",
+            "vinorelbine",
+            "filgrastim",
+            "ifosfamide",
+            "vinorelbine",
+            "filgrastim",
             "ifosfamide",
             "vinorelbine",
             "filgrastim"
@@ -450,12 +469,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006760.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "mustard"
+      ],
+      "id": "NCT00006760"
 }

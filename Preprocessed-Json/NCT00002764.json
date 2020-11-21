@@ -212,14 +212,22 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "filgrastim",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -395,12 +403,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002764.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002764"
 }

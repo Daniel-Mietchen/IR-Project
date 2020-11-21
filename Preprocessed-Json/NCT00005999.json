@@ -84,15 +84,13 @@
             "month"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "arsenic trioxide"
       ],
       "criteria": [
             "disease",
@@ -293,14 +291,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005999.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenocarcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "trioxide"
+      ],
+      "id": "NCT00005999"
 }

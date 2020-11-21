@@ -295,13 +295,16 @@
             "adult"
       ],
       "condition": [
-            "nutrition"
+            "disease",
+            "activity"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "intervention"
+            "Team-based intervention",
+            "One-on-one intervention"
       ],
       "criteria": [
             "inclusion",
@@ -328,9 +331,16 @@
             "1",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006181.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cardiovascular",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00006181"
 }

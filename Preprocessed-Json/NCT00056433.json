@@ -491,15 +491,18 @@
             "subgroup"
       ],
       "condition": [
-            "sickle",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sildenafil"
+            "Hydroxyurea",
+            "L-Arginine",
+            "Sildenafil"
       ],
       "criteria": [
             "inclusion",
@@ -612,12 +615,23 @@
             "nitrate",
             "nitroglycerin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056433.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "citrate",
+            "oxide"
+      ],
+      "id": "NCT00056433"
 }

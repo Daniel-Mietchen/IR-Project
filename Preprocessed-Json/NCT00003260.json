@@ -184,13 +184,22 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "FOLFIRI regimen",
+            "FOLFOX regimen",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "criteria": [
@@ -369,7 +378,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -378,6 +387,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003260.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003260"
 }

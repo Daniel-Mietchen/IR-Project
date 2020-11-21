@@ -193,20 +193,17 @@
             "study"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "sargramostim",
-            "plasmid",
-            "dna",
-            "hepatocellular",
-            "carcinoma",
-            "vaccine",
-            "adjuvant"
+            "alpha fetoprotein adenoviral vector vaccine",
+            "alpha fetoprotein plasmid DNA vaccine",
+            "sargramostim plasmid DNA hepatocellular carcinoma vaccine adjuvant"
       ],
       "criteria": [
             "disease",
@@ -234,7 +231,6 @@
             "upper",
             "limit",
             "normal",
-            "0201",
             "positive",
             "dna",
             "subtyping",
@@ -385,12 +381,24 @@
             "concurrent",
             "cyclosporine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093548.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00093548"
 }

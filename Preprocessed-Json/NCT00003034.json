@@ -168,21 +168,22 @@
             "study"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "doxorubicin hydrochloride",
             "ranpirnase"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm"
+            "ii"
       ],
       "criteria": [
             "disease",
@@ -340,12 +341,21 @@
             "resection",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003034.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003034"
 }

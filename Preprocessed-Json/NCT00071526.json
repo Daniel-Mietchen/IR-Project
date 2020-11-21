@@ -364,7 +364,10 @@
             "population"
       ],
       "condition": [
-            "healthy",
+            "type",
+            "1",
+            "type",
+            "2",
             "volunteer"
       ],
       "criteria": [
@@ -634,7 +637,7 @@
             "free",
             "diet"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -643,6 +646,20 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071526.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "mellitus",
+            "type",
+            "1",
+            "acid"
+      ],
+      "id": "NCT00071526"
 }

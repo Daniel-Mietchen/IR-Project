@@ -74,15 +74,16 @@
             "study"
       ],
       "condition": [
-            "neoplasm"
+            "tumor",
+            "refractory",
+            "standard",
+            "therapy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "kanglaite",
-            "injection",
-            "klt"
+            "Kanglaite Injection (KLT)"
       ],
       "criteria": [
             "patient",
@@ -129,12 +130,15 @@
             "marrow",
             "status"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031031.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efficacy"
+      ],
+      "id": "NCT00031031"
 }

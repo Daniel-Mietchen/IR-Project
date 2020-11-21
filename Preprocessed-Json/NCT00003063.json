@@ -189,15 +189,19 @@
             "patient"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "levamisole",
-            "hydrochloride"
+            "recombinant interferon alfa",
+            "fluorouracil",
+            "leucovorin calcium",
+            "levamisole hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -281,12 +285,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003063.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003063"
 }

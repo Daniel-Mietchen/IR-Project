@@ -366,7 +366,6 @@
             "protocol"
       ],
       "condition": [
-            "retinal",
             "disease"
       ],
       "criteria": [
@@ -428,12 +427,21 @@
             "3",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006188.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "eye",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00006188"
 }

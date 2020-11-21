@@ -57,7 +57,7 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pemetrexed"
@@ -69,8 +69,6 @@
             "21",
             "day",
             "disease",
-            "progression",
-            "b",
             "900",
             "iv",
             "q",
@@ -79,9 +77,7 @@
             "disease",
             "progression"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -191,12 +187,16 @@
             "vitamin",
             "supplementation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078260.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00078260"
 }

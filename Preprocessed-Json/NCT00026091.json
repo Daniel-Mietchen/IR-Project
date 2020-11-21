@@ -142,28 +142,44 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "primary",
             "peritoneal",
             "cavity",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "fenretinide",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "fenretinide",
+            "fenretinide",
             "fenretinide"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -351,11 +367,15 @@
             "nurse",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026091.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00026091"
 }

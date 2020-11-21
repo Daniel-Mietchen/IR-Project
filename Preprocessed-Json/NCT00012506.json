@@ -188,16 +188,14 @@
             "medicine"
       ],
       "condition": [
-            "arthritis",
             "juvenile",
             "rheumatoid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tnfr",
-            "fc"
+            "TNFR:Fc"
       ],
       "criteria": [
             "must",
@@ -355,7 +353,7 @@
             "spondyloarthropathy",
             "entheseopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -364,6 +362,9 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012506.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "juvenile"
+      ],
+      "id": "NCT00012506"
 }

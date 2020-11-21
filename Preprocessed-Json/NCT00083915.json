@@ -71,17 +71,53 @@
             "survival"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "dexamethasone"
+            "Cisplatin",
+            "Cyclophosphamide",
+            "Adriamycin",
+            "Etoposide",
+            "Melphalan",
+            "Thalidomide",
+            "Dexamethasone"
       ],
       "description": [
-            "40",
+            "continuous",
+            "infusion",
+            "day",
+            "continuous",
+            "infusion",
+            "day",
+            "continuous",
+            "infusion",
+            "continuous",
+            "infusion",
+            "iv",
+            "20",
+            "minute",
+            "arm",
+            "1",
+            "iv",
+            "20",
+            "minute",
+            "day",
+            "arm",
+            "2",
+            "po",
+            "continue",
+            "day",
+            "hold",
+            "platelet",
             "mg",
             "po",
             "day",
@@ -91,7 +127,34 @@
             "day"
       ],
       "arm_group_label": [
-            "auto",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
+            "transplant",
+            "high",
+            "dose",
+            "melphalan",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
+            "transplant",
+            "melphalan",
+            "dt",
+            "pace",
             "transplant",
             "melphalan",
             "dt",
@@ -442,12 +505,24 @@
             "greater",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "melphalan"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "doxorubicin",
+            "phosphate",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00083915"
 }

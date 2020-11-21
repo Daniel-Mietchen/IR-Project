@@ -242,21 +242,32 @@
             "risk"
       ],
       "condition": [
-            "lung",
+            "respiratory",
+            "distress",
+            "syndrome",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005318.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "lung",
+            "injury"
+      ],
+      "id": "NCT00005318"
 }

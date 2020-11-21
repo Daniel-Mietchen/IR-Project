@@ -118,17 +118,16 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "sargramostim"
       ],
       "arm_group_label": [
-            "aerosolize",
             "sargramostim"
       ],
       "criteria": [
@@ -304,12 +303,22 @@
             "immunosuppressive",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006483.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00006483"
 }

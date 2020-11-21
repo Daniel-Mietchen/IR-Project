@@ -250,17 +250,29 @@
             "month"
       ],
       "condition": [
-            "metastatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "talc"
+            "talc",
+            "Talc"
       ],
       "description": [
-            "4",
+            "5",
+            "gram",
+            "talc",
+            "100",
+            "cc",
+            "saline",
+            "via",
+            "chest",
+            "tube",
+            "bedside",
+            "one",
+            "time",
             "5",
             "gram",
             "talc",
@@ -273,7 +285,10 @@
             "time"
       ],
       "arm_group_label": [
-            "talc",
+            "slurry",
+            "via",
+            "chest",
+            "tube",
             "via",
             "insufflation"
       ],
@@ -412,7 +427,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -421,6 +436,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002622.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "malignant",
+            "pleural",
+            "effusion"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "effusion",
+            "effusion",
+            "malignant"
+      ],
+      "id": "NCT00002622"
 }

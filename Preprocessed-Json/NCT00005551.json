@@ -248,15 +248,17 @@
             "organization"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "apnea",
+            "syndrome",
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "30",
             "year"
@@ -265,6 +267,13 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005551.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005551"
 }

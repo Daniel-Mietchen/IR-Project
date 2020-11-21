@@ -135,18 +135,21 @@
             "ssm"
       ],
       "condition": [
-            "coronary",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "supportive",
-            "stress",
-            "management"
+            "Cognitive behavior therapy",
+            "Supportive Stress Management"
       ],
       "description": [
+            "12",
+            "weekly",
+            "individual",
+            "session",
             "12",
             "weekly",
             "individual",
@@ -160,9 +163,7 @@
             "depressogenic",
             "stressor"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -203,12 +204,22 @@
             "coronary",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042198.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relaxation",
+            "technique"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00042198"
 }

@@ -216,22 +216,15 @@
             "complete"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "help",
-            "decision",
-            "make",
-            "prostate",
-            "cancer",
-            "treatment"
+            "Help with decision making on prostate cancer treatment"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -285,9 +278,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
@@ -296,6 +287,9 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00012935.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00012935"
 }

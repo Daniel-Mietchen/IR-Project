@@ -311,7 +311,7 @@
             "hptn"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "study_pop": [],
@@ -515,12 +515,20 @@
             "domestic",
             "violence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028119.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "preventive",
+            "health",
+            "service"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00028119"
 }

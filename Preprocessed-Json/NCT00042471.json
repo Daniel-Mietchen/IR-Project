@@ -25,20 +25,20 @@
             "insulin"
       ],
       "condition": [
-            "diabetes",
+            "mellitus",
+            "type",
+            "1",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pramlintide",
-            "acetate"
+            "Pramlintide acetate"
       ],
       "description": [
-            "pramlintide",
             "acetate",
             "injection",
             "clear",
@@ -66,12 +66,10 @@
             "injection"
       ],
       "arm_group_label": [
-            "pramlintide",
             "acetate",
             "injection"
       ],
       "other_name": [
-            "symlin",
             "pramlintide",
             "acetate"
       ],
@@ -91,7 +89,7 @@
             "prior",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -100,6 +98,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042471.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "mellitus",
+            "type",
+            "1",
+            "amyloid",
+            "polypeptide"
+      ],
+      "id": "NCT00042471"
 }

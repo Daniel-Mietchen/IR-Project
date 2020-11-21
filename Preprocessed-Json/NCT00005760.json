@@ -613,7 +613,11 @@
             "profile"
       ],
       "condition": [
-            "obesity"
+            "intolerance",
+            "mellitus",
+            "non",
+            "insulin",
+            "dependent"
       ],
       "criteria": [
             "patient",
@@ -914,11 +918,22 @@
             "year",
             "eligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005760.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "visceral",
+            "abdominal",
+            "adipose",
+            "tissue"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "intolerance",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00005760"
 }

@@ -370,15 +370,13 @@
             "age"
       ],
       "condition": [
-            "retinopathy",
             "prematurity"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "retinal",
-            "ablation"
+            "retinal ablation"
       ],
       "criteria": [
             "infant",
@@ -403,12 +401,17 @@
             "prematurity",
             "rop"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "42",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027222.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "birth",
+            "prematurity"
+      ],
+      "id": "NCT00027222"
 }

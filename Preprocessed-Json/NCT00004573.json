@@ -120,11 +120,10 @@
             "resistance"
       ],
       "condition": [
-            "cytomegalovirus",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ganciclovir"
@@ -224,12 +223,20 @@
             "dementia",
             "reason"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004573.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cytomegalovirus",
+            "viremia"
+      ],
+      "mesh_term": [
+            "infection",
+            "triphosphate"
+      ],
+      "id": "NCT00004573"
 }

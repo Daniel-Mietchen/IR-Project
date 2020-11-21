@@ -147,27 +147,45 @@
             "month"
       ],
       "condition": [
-            "human",
+            "cancer",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "3",
             "papilloma",
             "virus",
             "infection"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "HspE7",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "subcutaneously",
+            "large",
+            "loop",
+            "excision",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "control",
             "ii",
             "control"
       ],
-      "other_name": [],
+      "other_name": [
+            "16",
+            "vaccine",
+            "peptide",
+            "epitope",
+            "vaccine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -273,14 +291,21 @@
             "study",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054041.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "disease",
+            "situ",
+            "intraepithelial",
+            "neoplasia",
+            "infection"
+      ],
+      "id": "NCT00054041"
 }

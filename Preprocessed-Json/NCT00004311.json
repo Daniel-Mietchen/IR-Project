@@ -88,14 +88,16 @@
             "spironolactone"
       ],
       "condition": [
-            "polycystic",
+            "nigricans",
             "ovary",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "leuprolide acetate",
             "spironolactone"
       ],
       "criteria": [
@@ -137,11 +139,19 @@
             "enter",
             "control"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004311.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "resistance",
+            "ovary",
+            "syndrome",
+            "nigricans"
+      ],
+      "id": "NCT00004311"
 }

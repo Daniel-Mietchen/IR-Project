@@ -197,17 +197,15 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "docetaxel"
       ],
       "description": [
-            "patient",
             "receive",
             "docetaxel",
             "iv",
@@ -224,7 +222,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
             "patient",
             "receive",
             "docetaxel",
@@ -244,8 +241,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
-            "quality",
             "life",
             "ass",
             "baseline",
@@ -255,8 +250,6 @@
             "study",
             "treatment",
             "study",
-            "completion",
-            "patient",
             "follow",
             "1",
             "month",
@@ -264,12 +257,8 @@
             "month",
             "thereafter"
       ],
-      "arm_group_label": [
-            "docetaxel"
-      ],
-      "other_name": [
-            "docefrez"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -463,12 +452,22 @@
             "agent",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075374.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00075374"
 }

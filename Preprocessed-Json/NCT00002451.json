@@ -97,14 +97,19 @@
             "tabulate"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -133,12 +138,19 @@
             "agent",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002451.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002451"
 }

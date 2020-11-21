@@ -320,29 +320,56 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "peritoneal",
+            "carcinoma",
+            "iii",
+            "ovarian",
+            "cancer",
             "iv",
             "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "conventional",
-            "surgery"
+            "Paclitaxel",
+            "Carboplatin",
+            "Gemcitabine Hydrochloride",
+            "Pegylated Liposomal Doxorubicin Hydrochloride",
+            "Topotecan Hydrochloride",
+            "Therapeutic Conventional Surgery"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "surgery"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "ii",
+            "v",
+            "iii",
+            "iv",
             "v"
       ],
       "other_name": [
-            "topo"
+            "hcl",
+            "liposome"
       ],
       "criteria": [
             "inclusion",
@@ -604,11 +631,14 @@
             "surgical",
             "resection"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011986.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00011986"
 }

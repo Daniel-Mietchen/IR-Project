@@ -202,27 +202,47 @@
             "screen"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "medroxyprogesterone",
+            "ethinyl estradiol",
+            "norgestrel",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "intramuscularly",
+            "orally",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "medroxyprogesterone",
+            "ii",
+            "ethinyl",
+            "estradiol",
+            "norgestrel",
+            "ii",
+            "ethinyl",
+            "estradiol",
+            "norgestrel",
+            "medroxyprogesterone",
             "ii",
             "ethinyl",
             "estradiol",
             "norgestrel"
       ],
-      "other_name": [],
+      "other_name": [
+            "acetate",
+            "dosepak",
+            "e"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -476,9 +496,7 @@
             "principal",
             "investigator"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "25",
             "year"
@@ -487,6 +505,17 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033358.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "hereditary",
+            "nonpolyposis",
+            "estradiol",
+            "phosphate",
+            "acetate",
+            "17",
+            "valerate"
+      ],
+      "id": "NCT00033358"
 }

@@ -230,15 +230,23 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "recombinant fowlpox GM-CSF vaccine adjuvant",
+            "recombinant fowlpox-CEA(6D)/TRICOM vaccine",
+            "recombinant vaccinia-CEA(6D)-TRICOM vaccine",
+            "carboplatin",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -577,12 +585,23 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091039.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00091039"
 }

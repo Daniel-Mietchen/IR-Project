@@ -94,15 +94,13 @@
             "study"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "exatecan",
-            "mesylate"
+            "exatecan mesylate"
       ],
       "criteria": [
             "disease",
@@ -280,14 +278,22 @@
             "inhibit",
             "enzyme"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004866.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00004866"
 }

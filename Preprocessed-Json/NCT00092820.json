@@ -34,15 +34,18 @@
             "week"
       ],
       "condition": [
-            "heart",
+            "metabolism",
+            "inborn",
+            "error",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "MK0653, ezetimibe",
+            "Comparator: placebo"
       ],
       "criteria": [
             "inclusion",
@@ -73,12 +76,24 @@
             "require",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092820.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "homozygous",
+            "sitosterolemia"
+      ],
+      "mesh_term": [
+            "disease",
+            "inborn",
+            "error",
+            "metabolism",
+            "inborn",
+            "error"
+      ],
+      "id": "NCT00092820"
 }

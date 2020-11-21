@@ -298,7 +298,6 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -425,7 +424,7 @@
             "protocol",
             "team"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -434,6 +433,13 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016783.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "interruption"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00016783"
 }

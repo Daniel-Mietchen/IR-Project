@@ -329,15 +329,40 @@
             "cancer"
       ],
       "condition": [
-            "renal",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "image"
+            "docetaxel",
+            "tariquidar",
+            "99mTc-sestamibi imaging"
       ],
       "description": [
-            "bolus",
+            "receive",
+            "docetaxel",
+            "intravenous",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "8",
+            "receive",
+            "tariquidar",
+            "intravenous",
+            "iv",
+            "30",
+            "minute",
+            "day",
+            "8",
+            "22",
             "injection",
             "29",
             "mci",
@@ -346,7 +371,41 @@
             "study"
       ],
       "arm_group_label": [
-            "pt",
+            "receive",
+            "docetaxel",
+            "day",
+            "1",
+            "8",
+            "tariquidar",
+            "day",
+            "receive",
+            "docetaxel",
+            "day",
+            "1",
+            "8",
+            "tariquidar",
+            "day",
+            "receive",
+            "docetaxel",
+            "day",
+            "1",
+            "8",
+            "tariquidar",
+            "day",
+            "receive",
+            "docetaxel",
+            "day",
+            "1",
+            "8",
+            "tariquidar",
+            "day",
+            "receive",
+            "docetaxel",
+            "day",
+            "1",
+            "8",
+            "tariquidar",
+            "day",
             "receive",
             "docetaxel",
             "day",
@@ -355,9 +414,7 @@
             "tariquidar",
             "day"
       ],
-      "other_name": [
-            "cardiolite"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -703,12 +760,25 @@
             "neurologic",
             "toxicity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069160.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "tc",
+            "sestamibi"
+      ],
+      "id": "NCT00069160"
 }

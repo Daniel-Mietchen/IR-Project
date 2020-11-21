@@ -204,17 +204,32 @@
             "disease"
       ],
       "condition": [
-            "dental",
             "caries"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "fluoride",
-            "varnish"
+            "Chlorhexidine gluconate",
+            "Fluoride Varnish"
       ],
       "description": [
+            "chlorhexidine",
+            "gluconate",
+            "solution",
+            "mouth",
+            "rinse",
+            "twice",
+            "daily",
+            "14",
+            "day",
+            "rinse",
+            "14",
+            "day",
+            "repeat",
+            "3",
+            "month",
             "fv",
             "every",
             "6",
@@ -227,9 +242,15 @@
       "arm_group_label": [
             "caregiver",
             "fv",
+            "child",
+            "caregiver",
+            "fv",
             "child"
       ],
       "other_name": [
+            "omnii",
+            "oral",
+            "pharmaceutical",
             "omnii",
             "oral",
             "pharmaceutical"
@@ -307,7 +328,7 @@
             "hospitalization",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -316,6 +337,16 @@
             "33",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066950.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "early",
+            "childhood",
+            "caries"
+      ],
+      "mesh_term": [
+            "caries",
+            "gluconate",
+            "topical"
+      ],
+      "id": "NCT00066950"
 }

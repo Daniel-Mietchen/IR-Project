@@ -179,14 +179,14 @@
             "20",
             "month"
       ],
-      "condition": [
-            "pertussis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine"
+            "diphtheria-tetanus-pertussis vaccine containing whole-cell pertussis",
+            "diphtheria-tetanus vaccine"
       ],
       "criteria": [
             "protocol",
@@ -281,7 +281,7 @@
             "1",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "week"
@@ -290,6 +290,13 @@
             "12",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004800.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "cough"
+      ],
+      "id": "NCT00004800"
 }

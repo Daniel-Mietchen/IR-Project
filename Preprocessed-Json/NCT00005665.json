@@ -199,17 +199,15 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "alpha"
+            "interferon alpha"
       ],
       "criteria": [
             "inclusion",
@@ -289,7 +287,7 @@
             "hepatotoxic",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -298,6 +296,12 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005665.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00005665"
 }

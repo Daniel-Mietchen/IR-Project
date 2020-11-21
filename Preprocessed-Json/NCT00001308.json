@@ -350,7 +350,8 @@
             "package"
       ],
       "condition": [
-            "voice",
+            "disorder",
+            "syndrome",
             "disorder"
       ],
       "criteria": [
@@ -680,7 +681,7 @@
             "chronic",
             "benxodiazepines"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -689,6 +690,15 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001308.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "motor",
+            "control"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001308"
 }

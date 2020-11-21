@@ -89,14 +89,17 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon"
+            "Zidovudine",
+            "Zalcitabine",
+            "Interferon alfa-n1"
       ],
       "criteria": [
             "inclusion",
@@ -280,12 +283,19 @@
             "patient",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002086.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002086"
 }

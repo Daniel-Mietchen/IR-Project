@@ -429,24 +429,27 @@
             "ii"
       ],
       "condition": [
+            "large",
+            "granular",
+            "lymphocytic",
             "leukemia",
             "large",
             "granular",
             "lymphocytic"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Hu-MiK-Beta-1"
+      ],
       "description": [
             "administer",
             "intravenous",
             "infusion",
             "minute"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -542,7 +545,6 @@
             "6",
             "month",
             "combination",
-            "patient",
             "treat",
             "stable",
             "dose",
@@ -944,7 +946,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -953,6 +955,13 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076180.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "lymphoid",
+            "large",
+            "granular",
+            "lymphocytic"
+      ],
+      "id": "NCT00076180"
 }

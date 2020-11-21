@@ -30,14 +30,16 @@
             "patient"
       ],
       "condition": [
-            "hiv",
+            "esophageal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Itraconazole",
+            "Fluconazole"
       ],
       "criteria": [
             "inclusion",
@@ -167,12 +169,19 @@
             "drug",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002132.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunocompromised",
+            "host"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002132"
 }

@@ -123,15 +123,13 @@
             "patient"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "tamoxifen citrate"
       ],
       "criteria": [
             "disease",
@@ -197,7 +195,7 @@
             "percutaneous",
             "injection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -206,6 +204,16 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003424.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "primary",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm"
+      ],
+      "id": "NCT00003424"
 }

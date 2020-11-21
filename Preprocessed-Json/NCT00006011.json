@@ -237,33 +237,89 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "clear",
+            "cell",
+            "adenocarcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "variant",
+            "squamous",
+            "differentiation",
+            "serous",
+            "adenocarcinoma",
             "iii",
             "uterine",
             "corpus",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel"
+            "Doxorubicin Hydrochloride",
+            "Cisplatin",
+            "Filgrastim",
+            "Pegfilgrastim",
+            "Paclitaxel"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "doxorubicin",
+            "cisplatin",
+            "filgrastim",
+            "pegfilgrastim",
+            "ii",
+            "doxorubicin",
+            "cisplatin",
+            "paclitaxel",
+            "filgrastim",
+            "doxorubicin",
+            "cisplatin",
+            "filgrastim",
+            "pegfilgrastim",
+            "ii",
+            "doxorubicin",
+            "cisplatin",
+            "paclitaxel",
+            "filgrastim",
+            "doxorubicin",
+            "cisplatin",
+            "filgrastim",
+            "pegfilgrastim",
+            "ii",
+            "doxorubicin",
+            "cisplatin",
+            "paclitaxel",
+            "filgrastim",
+            "doxorubicin",
+            "cisplatin",
+            "filgrastim",
+            "pegfilgrastim",
+            "ii",
+            "doxorubicin",
+            "cisplatin",
+            "paclitaxel",
+            "filgrastim",
             "ii",
             "doxorubicin",
             "cisplatin",
             "paclitaxel",
             "filgrastim"
       ],
-      "other_name": [
-            "tax"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -414,11 +470,19 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006011.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "endometrioid",
+            "serous",
+            "neoplasm",
+            "clear",
+            "cell",
+            "adenosquamous",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00006011"
 }

@@ -235,13 +235,19 @@
             "study"
       ],
       "condition": [
-            "ovarian",
+            "neck",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "dimesna",
             "paclitaxel"
       ],
       "criteria": [
@@ -451,12 +457,26 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003569.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "syndrome",
+            "paclitaxel"
+      ],
+      "id": "NCT00003569"
 }

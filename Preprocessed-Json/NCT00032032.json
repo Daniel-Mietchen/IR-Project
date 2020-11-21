@@ -107,7 +107,6 @@
             "radiotherapy",
             "patient",
             "undergo",
-            "radiotherapy",
             "daily",
             "5",
             "day",
@@ -236,18 +235,23 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "carboplatin",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiotherapy",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
             "paclitaxel",
             "carboplatin"
       ],
@@ -449,12 +453,24 @@
             "surgery",
             "nsclc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032032.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00032032"
 }

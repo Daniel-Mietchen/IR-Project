@@ -221,21 +221,75 @@
             "analysis",
             "2013"
       ],
-      "condition": [
-            "tuberculosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "isoniazid",
-            "inh",
-            "daily",
-            "9",
-            "month"
+            "RPT + INH once weekly for 3 months given by DOT",
+            "Isoniazid (INH) daily for 9 months"
       ],
       "description": [
-            "isoniazid",
+            "rpt",
+            "900",
+            "mg",
+            "x",
+            "12",
+            "dose",
+            "3",
+            "month",
+            "person",
+            "kg",
+            "person",
+            "kg",
+            "follow",
+            "dose",
+            "give",
+            "kg",
+            "300",
+            "mg",
+            "kg",
+            "450",
+            "mg",
+            "kg",
+            "600",
+            "mg",
+            "kg",
+            "750",
+            "inh",
+            "15",
+            "round",
+            "nearest",
+            "50",
+            "100",
+            "mg",
+            "900",
+            "mg",
+            "max",
+            "weekly",
+            "x",
+            "12",
+            "dose",
+            "12",
+            "year",
+            "old",
+            "inh",
+            "25",
+            "round",
+            "nearest",
+            "50",
+            "100",
+            "mg",
+            "900",
+            "mg",
+            "max",
+            "year",
+            "give",
+            "directly",
+            "observe",
+            "therapy",
+            "dot",
             "inh",
             "5",
             "round",
@@ -268,7 +322,8 @@
             "give"
       ],
       "arm_group_label": [
-            "daily",
+            "isoniazid",
+            "rifapentine",
             "isoniazid"
       ],
       "other_name": [],
@@ -505,12 +560,18 @@
             "weight",
             "kg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023452.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "latent",
+            "tb",
+            "infection"
+      ],
+      "mesh_term": [],
+      "id": "NCT00023452"
 }

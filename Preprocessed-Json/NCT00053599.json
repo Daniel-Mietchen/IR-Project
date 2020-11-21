@@ -204,14 +204,13 @@
             "test"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "simvastatin"
+            "Simvastatin"
       ],
       "criteria": [
             "mild",
@@ -427,12 +426,21 @@
             "cooperate",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053599.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mild",
+            "moderate",
+            "alzheimer",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00053599"
 }

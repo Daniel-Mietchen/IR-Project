@@ -362,13 +362,13 @@
             "dose",
             "level"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "VCR-HIVDNA006-00-VP"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -962,9 +962,15 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045838.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [],
+      "id": "NCT00045838"
 }

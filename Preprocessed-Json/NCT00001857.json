@@ -365,13 +365,14 @@
             "efficacy"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "BG9588"
+      ],
       "criteria": [
             "must",
             "candidate",
@@ -518,9 +519,13 @@
             "positive",
             "crossmatch"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001857.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tolerance"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001857"
 }

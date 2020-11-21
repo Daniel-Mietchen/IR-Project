@@ -64,15 +64,16 @@
             "fast"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rosiglitazone/metformin"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -103,7 +104,7 @@
             "woman",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -112,6 +113,18 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067951.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "2",
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00067951"
 }

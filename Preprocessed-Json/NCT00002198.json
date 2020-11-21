@@ -53,15 +53,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -298,7 +296,7 @@
             "dose",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -307,6 +305,12 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002198.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002198"
 }

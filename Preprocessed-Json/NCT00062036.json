@@ -271,15 +271,25 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "aldesleukin",
+            "filgrastim",
+            "incomplete Freund's adjuvant",
+            "interleukin-2 gene",
+            "therapeutic tumor infiltrating lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -515,7 +525,7 @@
             "systemic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -524,6 +534,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00062036"
 }

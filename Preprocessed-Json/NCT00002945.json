@@ -291,18 +291,30 @@
             "5",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "aldesleukin",
+            "filgrastim",
+            "cyclophosphamide",
+            "cytarabine",
+            "etoposide",
+            "idarubicin",
+            "melphalan",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "description": [
-            "deliver",
             "cancer",
             "cell"
       ],
@@ -444,12 +456,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002945.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate"
+      ],
+      "id": "NCT00002945"
 }

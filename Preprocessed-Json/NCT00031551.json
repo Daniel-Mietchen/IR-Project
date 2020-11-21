@@ -574,24 +574,24 @@
             "time",
             "course"
       ],
-      "condition": [
-            "stomatitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Etanercept",
+            "Placebo"
       ],
       "arm_group_label": [
-            "main",
+            "study",
+            "etanercept",
+            "mouthwash",
             "study",
             "placebo",
             "mouthwash"
       ],
-      "other_name": [
-            "enbrel"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -674,12 +674,16 @@
             "reaction",
             "etanercept"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031551.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammation"
+      ],
+      "mesh_term": [],
+      "id": "NCT00031551"
 }

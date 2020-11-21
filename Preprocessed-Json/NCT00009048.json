@@ -330,11 +330,12 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "iv",
-            "levodopa"
+            "EMD 128130",
+            "IV Levodopa"
       ],
       "criteria": [
             "male",
@@ -481,9 +482,16 @@
             "stimulation",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009048.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "parkinson",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00009048"
 }

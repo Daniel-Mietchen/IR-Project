@@ -156,18 +156,25 @@
             "month",
             "treatment"
       ],
-      "condition": [
-            "osteopenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "calcium",
-            "phosphate"
+            "Calcium carbonate",
+            "Calcium Phosphate"
       ],
       "description": [
-            "participant",
+            "receive",
+            "teriparatide",
+            "vitamin",
+            "course",
+            "study",
+            "also",
+            "receive",
+            "calcium",
+            "carbonate",
             "receive",
             "teriparatide",
             "vitamin",
@@ -179,7 +186,9 @@
             "phosphate"
       ],
       "arm_group_label": [
-            "calcium",
+            "carbonate",
+            "treatment",
+            "group",
             "phosphate",
             "treatment",
             "group"
@@ -235,9 +244,7 @@
             "therapy",
             "bone"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "60",
             "year"
@@ -246,6 +253,15 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074711.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "calcium"
+      ],
+      "mesh_term": [
+            "disease",
+            "metabolic",
+            "dietary",
+            "carbonate"
+      ],
+      "id": "NCT00074711"
 }

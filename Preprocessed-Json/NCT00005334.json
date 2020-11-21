@@ -303,20 +303,27 @@
             "record"
       ],
       "condition": [
-            "depression"
+            "disease",
+            "disease",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005334.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00005334"
 }

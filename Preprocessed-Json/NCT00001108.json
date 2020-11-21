@@ -404,14 +404,25 @@
             "contact"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Saquinavir",
+            "Nevirapine",
+            "Lamivudine",
+            "Stavudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -572,7 +583,7 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -581,6 +592,12 @@
             "22",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001108.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001108"
 }

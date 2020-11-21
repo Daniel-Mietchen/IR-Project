@@ -40,20 +40,19 @@
             "organ"
       ],
       "condition": [
-            "puberty",
             "precocious"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "anastrozole"
+            "Bicalutamide",
+            "Anastrozole"
       ],
-      "description": [
-            "oral"
-      ],
+      "description": [],
       "arm_group_label": [
-            "bicalutamide",
+            "anastrozole",
             "anastrozole"
       ],
       "other_name": [],
@@ -286,9 +285,7 @@
             "time",
             "enrollment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "2",
             "year"
@@ -297,6 +294,15 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094328.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "familial",
+            "precocious",
+            "puberty",
+            "fmpp"
+      ],
+      "mesh_term": [
+            "precocious"
+      ],
+      "id": "NCT00094328"
 }

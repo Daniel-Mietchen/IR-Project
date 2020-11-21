@@ -270,14 +270,13 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "peginterferon"
+            "Peginterferon alfa-2b"
       ],
       "criteria": [
             "inclusion",
@@ -391,7 +390,7 @@
             "positive",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -400,6 +399,12 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006325.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00006325"
 }

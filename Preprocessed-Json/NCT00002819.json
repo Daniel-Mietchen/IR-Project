@@ -222,18 +222,23 @@
             "month"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "carboplatin",
+            "cyclophosphamide",
+            "mitoxantrone hydrochloride",
+            "paclitaxel",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -483,14 +488,20 @@
             "prior",
             "anthracyclines"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002819.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brenner",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00002819"
 }

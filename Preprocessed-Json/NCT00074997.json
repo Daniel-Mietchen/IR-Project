@@ -224,18 +224,24 @@
       ],
       "condition": [],
       "intervention_type": [
-            "genetic"
+            "Other",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "cell"
+            "Placebo",
+            "OZ1",
+            "CD34+ cells"
       ],
       "description": [
-            "autologous",
+            "intravenous",
+            "infusion",
+            "placebo",
+            "intravenous",
+            "infusion",
             "cell"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -387,7 +393,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -396,6 +402,10 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074997.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [],
+      "id": "NCT00074997"
 }

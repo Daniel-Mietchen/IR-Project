@@ -239,15 +239,18 @@
             "2",
             "year"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "iobenguane",
-            "131"
+            "filgrastim",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "iobenguane I 131"
       ],
       "criteria": [
             "disease",
@@ -616,7 +619,7 @@
             "concurrent",
             "hemodialysis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -625,6 +628,11 @@
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00083135"
 }

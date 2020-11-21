@@ -186,17 +186,27 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "trastuzumab",
+            "CMF regimen",
+            "cyclophosphamide",
+            "fluorouracil",
             "methotrexate"
       ],
       "arm_group_label": [
-            "cmf",
+            "herceptin",
+            "herceptin",
+            "herceptin",
+            "herceptin",
             "herceptin"
       ],
       "criteria": [
@@ -472,14 +482,20 @@
             "except",
             "hypercalcemia"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036868.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00036868"
 }

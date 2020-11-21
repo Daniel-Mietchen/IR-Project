@@ -184,16 +184,18 @@
             "year"
       ],
       "condition": [
-            "prostate",
+            "condition",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "vitamin",
-            "e"
+            "selenium",
+            "soy protein isolate",
+            "vitamin E"
       ],
       "criteria": [
             "disease",
@@ -380,14 +382,26 @@
             "intraepithelial",
             "neoplasia"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064194.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "high",
+            "grade",
+            "prostatic",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition",
+            "intraepithelial",
+            "neoplasia",
+            "e"
+      ],
+      "id": "NCT00064194"
 }

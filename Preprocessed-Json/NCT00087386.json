@@ -102,22 +102,26 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "melanoma",
+            "iii",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tanespimycin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "tanespimycin",
             "tanespimycin"
       ],
       "other_name": [],
@@ -412,12 +416,13 @@
             "herbal",
             "extract"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087386.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00087386"
 }

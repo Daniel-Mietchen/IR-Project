@@ -170,7 +170,7 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "skin",
             "adult",
             "solid",
             "tumor",
@@ -178,11 +178,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PI-88"
+      ],
       "description": [
-            "250",
             "inject",
             "subcutaneously",
             "four",
@@ -194,7 +195,6 @@
       ],
       "arm_group_label": [],
       "other_name": [
-            "mannopentaose",
             "phosphate",
             "sulfate"
       ],
@@ -741,7 +741,7 @@
             "anticoagulant",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -750,6 +750,11 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00073892"
 }

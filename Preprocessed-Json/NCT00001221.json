@@ -321,16 +321,15 @@
             "ability"
       ],
       "condition": [
+            "dysgenesis",
             "turner",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "growth",
-            "hormone",
-            "humatrope"
+            "Growth Hormone (Humatrope)"
       ],
       "criteria": [
             "inclusion",
@@ -547,11 +546,21 @@
             "require",
             "protocol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001221.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "growth",
+            "hormone"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "dysgenesis",
+            "ovarian",
+            "insufficiency",
+            "abnormality",
+            "estradiol"
+      ],
+      "id": "NCT00001221"
 }

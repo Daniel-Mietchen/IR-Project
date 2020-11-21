@@ -77,9 +77,11 @@
       ],
       "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "magnesium sulfate",
             "nimodipine"
       ],
       "criteria": [
@@ -214,11 +216,16 @@
             "fetal",
             "anomaly"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004399.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "sulfate"
+      ],
+      "id": "NCT00004399"
 }

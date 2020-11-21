@@ -110,19 +110,35 @@
             "candidate"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "whole",
-            "breast",
-            "irradiation"
+            "immunohistochemistry staining method",
+            "lymphangiography",
+            "sentinel lymph node biopsy",
+            "therapeutic conventional surgery",
+            "whole breast irradiation"
       ],
       "arm_group_label": [
-            "surgery",
+            "radiotherapy",
+            "adjuvant",
+            "therapy",
+            "radiotherapy",
+            "adjuvant",
+            "therapy",
+            "radiotherapy",
+            "adjuvant",
+            "therapy",
+            "radiotherapy",
+            "adjuvant",
+            "therapy",
             "radiotherapy",
             "adjuvant",
             "therapy"
@@ -450,14 +466,21 @@
             "treatment",
             "hidradenitis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003854.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003854"
 }

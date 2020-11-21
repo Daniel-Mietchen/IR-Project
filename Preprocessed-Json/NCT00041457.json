@@ -185,7 +185,7 @@
             "sample"
       ],
       "condition": [
-            "peripheral",
+            "disease",
             "vascular",
             "disease"
       ],
@@ -197,9 +197,18 @@
             "data",
             "use"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041457.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "thromboembolism",
+            "vascular",
+            "disease",
+            "arterial",
+            "disease"
+      ],
+      "id": "NCT00041457"
 }

@@ -168,21 +168,32 @@
             "chf"
       ],
       "condition": [
-            "heart",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "match",
-            "metoprolol",
-            "succinate"
+            "Enoximone",
+            "Metoprolol succinate",
+            "Placebo to match enoximone",
+            "Placebo to match metoprolol succinate"
       ],
       "description": [
-            "placebo",
+            "administer",
+            "orally",
+            "succinate",
+            "administer",
+            "orally",
+            "match",
+            "match",
+            "enoximone",
+            "administer",
+            "orally",
             "match",
             "metoprolol",
             "succinate",
@@ -190,7 +201,31 @@
             "orally"
       ],
       "arm_group_label": [
+            "enoximone",
+            "plus",
+            "active",
+            "er",
+            "metoprolol",
+            "enoximone",
+            "plus",
+            "active",
+            "er",
+            "metoprolol",
+            "enoximone",
+            "plus",
+            "active",
+            "er",
+            "metoprolol",
+            "enoximone",
+            "plus",
+            "active",
+            "er",
+            "metoprolol",
+            "enoximone",
+            "plus",
             "placebo",
+            "er",
+            "metoprolol",
             "enoximone",
             "plus",
             "placebo",
@@ -834,12 +869,18 @@
             "require",
             "hospitalization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077948.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intolerant"
+      ],
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00077948"
 }

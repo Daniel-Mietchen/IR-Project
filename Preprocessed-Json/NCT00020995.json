@@ -142,16 +142,13 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "dietary",
-            "intervention"
+            "therapeutic dietary intervention"
       ],
       "criteria": [
             "disease",
@@ -235,9 +232,7 @@
             "palmetto",
             "supplement"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -246,6 +241,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00020995.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00020995"
 }

@@ -218,19 +218,28 @@
             "vaccine"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "sickle",
+            "cell",
+            "infection",
             "accident"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037388.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "sickle",
+            "cell",
+            "disease"
+      ],
+      "id": "NCT00037388"
 }

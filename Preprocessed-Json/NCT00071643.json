@@ -84,26 +84,49 @@
             "month"
       ],
       "condition": [
-            "cerebrovascular",
             "accident"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Behavioral",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Problem Solving Therapy",
+            "Escitalopram",
+            "Placebo"
       ],
       "description": [
-            "participant",
+            "solve",
+            "therapy",
+            "aim",
+            "make",
+            "patient",
+            "aware",
+            "symptom",
+            "problem",
+            "link",
+            "behavior",
+            "associate",
+            "solve",
+            "receive",
+            "escitalopram",
+            "selective",
+            "serotonin",
+            "reuptake",
+            "inhibitor",
             "receive",
             "placebo",
             "pill"
       ],
       "arm_group_label": [
-            "3",
+            "problem",
+            "solve",
+            "therapy",
+            "escitalopram",
             "placebo"
       ],
-      "other_name": [
-            "lexapro"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -167,7 +190,7 @@
             "prior",
             "stroke"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "31",
             "year"
@@ -176,6 +199,12 @@
             "89",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071643.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00071643"
 }

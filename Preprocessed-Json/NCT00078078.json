@@ -496,7 +496,8 @@
             "parameter"
       ],
       "condition": [
-            "inborn",
+            "acid",
+            "metabolism",
             "error"
       ],
       "criteria": [
@@ -689,9 +690,19 @@
             "feed",
             "tube"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078078.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metabolic",
+            "disease"
+      ],
+      "mesh_term": [
+            "acid",
+            "metabolism",
+            "inborn",
+            "error"
+      ],
+      "id": "NCT00078078"
 }

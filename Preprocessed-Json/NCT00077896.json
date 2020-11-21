@@ -273,17 +273,14 @@
             "trial"
       ],
       "condition": [
-            "pick",
             "disease",
             "brain"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "direct",
-            "current",
-            "polarization"
+            "Direct Current Polarization"
       ],
       "criteria": [
             "inclusion",
@@ -328,9 +325,19 @@
             "childhood",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077896.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ftd"
+      ],
+      "mesh_term": [
+            "dementia",
+            "primary",
+            "progressive",
+            "disease",
+            "brain"
+      ],
+      "id": "NCT00077896"
 }

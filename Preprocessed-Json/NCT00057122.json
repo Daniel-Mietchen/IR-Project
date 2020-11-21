@@ -305,22 +305,25 @@
             "expense"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifampin"
+            "Isoniazid",
+            "Rifapentine",
+            "Rifampin"
       ],
       "description": [
-            "rifampin",
+            "900",
+            "mg",
             "600",
             "mg"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -342,12 +345,19 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057122.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "preventive",
+            "therapy"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00057122"
 }

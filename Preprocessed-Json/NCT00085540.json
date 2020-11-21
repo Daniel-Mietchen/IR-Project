@@ -200,32 +200,39 @@
             "mtd"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "astrocytoma",
+            "anaplastic",
+            "oligodendroglioma",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "gliosarcoma",
             "adult",
             "brain",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "depsipeptide"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "phase",
+            "1",
+            "dose",
+            "escalation",
+            "romidepsin",
             "2",
             "dose",
             "phase",
             "1",
             "romidepsin"
       ],
-      "other_name": [
-            "romidepsin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -637,12 +644,13 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085540.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00085540"
 }

@@ -204,27 +204,68 @@
             "year"
       ],
       "condition": [
-            "undifferentiated",
+            "tube",
+            "carcinoma",
+            "ovarian",
+            "mix",
+            "epithelial",
+            "tumor",
+            "brenner",
+            "tumor",
+            "clear",
+            "cell",
+            "cystadenocarcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "mucinous",
+            "cystadenocarcinoma",
+            "serous",
+            "cystadenocarcinoma",
+            "peritoneal",
+            "carcinoma",
+            "iii",
+            "ovarian",
+            "cancer",
+            "iv",
+            "ovarian",
+            "cancer",
             "ovarian",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "Carboplatin",
+            "Paclitaxel Poliglumex",
+            "Pharmacological Study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "paclitaxel",
+            "poliglumex",
+            "carboplatin",
+            "paclitaxel",
+            "poliglumex",
+            "carboplatin",
             "paclitaxel",
             "poliglumex",
             "carboplatin"
       ],
       "other_name": [
-            "xyotax"
+            "hexal",
+            "aq",
+            "polyglutamate",
+            "polymer",
+            "conjugate",
+            "acid",
+            "paclitaxel"
       ],
       "criteria": [
             "inclusion",
@@ -454,14 +495,22 @@
             "protective",
             "reagent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060359.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "endometrioid",
+            "tube",
+            "neoplasm",
+            "tumor",
+            "serous",
+            "mucinous",
+            "paclitaxel"
+      ],
+      "id": "NCT00060359"
 }

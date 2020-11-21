@@ -250,20 +250,30 @@
             "portion"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "etoposide phosphate",
+            "paclitaxel",
+            "thiotepa",
+            "topotecan hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -420,14 +430,27 @@
             "concurrent",
             "acetaminophen"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003064.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00003064"
 }

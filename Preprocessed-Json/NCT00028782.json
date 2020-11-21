@@ -171,25 +171,40 @@
             "malignancy"
       ],
       "condition": [
-            "recurrent",
+            "malignant",
+            "mesothelioma",
+            "malignant",
+            "mesothelioma",
+            "ascites",
+            "peritoneal",
+            "cavity",
+            "cancer",
             "malignant",
             "mesothelioma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "etanidazole",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "surgery",
             "study"
       ],
       "arm_group_label": [
-            "diagnostic",
+            "etanidazole",
+            "etanidazole",
             "etanidazole"
       ],
-      "other_name": [],
+      "other_name": [
+            "derivative"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -339,12 +354,15 @@
             "malignancy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028782.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00028782"
 }

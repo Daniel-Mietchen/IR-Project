@@ -105,14 +105,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
+      "condition": [],
+      "intervention_type": [
+            "Genetic",
+            "Genetic",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cytogenetic analysis",
+            "mutation analysis",
+            "laboratory biomarker analysis"
       ],
       "criteria": [
             "disease",
@@ -188,12 +190,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00003291"
 }

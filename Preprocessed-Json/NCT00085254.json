@@ -412,26 +412,74 @@
             "month"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "cilengitide",
+            "temozolomide",
+            "radiation therapy",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
+            "radiotherapy",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "phase",
+            "1",
+            "safety",
+            "run",
+            "ii",
+            "ii",
+            "arm",
+            "2",
+            "1",
+            "safety",
+            "run",
+            "ii",
+            "ii",
+            "arm",
+            "2",
+            "1",
+            "safety",
+            "run",
+            "ii",
+            "ii",
+            "arm",
+            "2",
+            "1",
+            "safety",
+            "run",
+            "ii",
+            "ii",
+            "arm",
+            "2",
+            "1",
+            "safety",
+            "run",
+            "ii",
             "ii",
             "arm",
             "2"
       ],
       "other_name": [
-            "pharmacological",
+            "121974",
+            "52365",
+            "radiation",
             "study"
       ],
       "criteria": [
@@ -637,12 +685,13 @@
             "disease",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085254.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00085254"
 }

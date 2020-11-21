@@ -153,18 +153,24 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "autologous tumor cell vaccine",
+            "sargramostim",
+            "tumor-draining lymph node lymphocyte therapy",
+            "cyclophosphamide",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -306,12 +312,23 @@
             "antiproliferatives",
             "immunosuppressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003185.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003185"
 }

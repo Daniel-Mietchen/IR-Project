@@ -334,26 +334,56 @@
             "thereafter"
       ],
       "condition": [
-            "tumor",
+            "cell",
+            "lung",
+            "cancer",
+            "iv",
+            "cell",
+            "lung",
+            "cancer",
             "metastatic",
             "brain"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Radiation",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
+            "erlotinib hydrochloride",
+            "3-dimensional conformal radiation therapy",
+            "stereotactic radiosurgery",
             "temozolomide"
       ],
       "description": [
-            "give",
+            "orally",
+            "undergo",
+            "radiation",
+            "therapy",
+            "daily",
+            "approximately",
+            "3",
+            "week",
+            "undergo",
+            "surgery",
+            "radiation",
+            "therapy",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "iii",
+            "ii",
+            "iii",
+            "ii",
+            "iii",
             "ii"
       ],
       "other_name": [
-            "tmz"
+            "conformal",
+            "radiation",
+            "therapy",
+            "52365"
       ],
       "criteria": [
             "inclusion",
@@ -654,12 +684,17 @@
             "iii",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096265.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "hydrochloride"
+      ],
+      "id": "NCT00096265"
 }

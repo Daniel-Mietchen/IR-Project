@@ -417,7 +417,9 @@
             "coi"
       ],
       "condition": [
-            "hypnosis"
+            "syncope",
+            "tachycardia",
+            "syndrome"
       ],
       "criteria": [
             "inclusion",
@@ -551,9 +553,18 @@
             "monitor",
             "device"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061009.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "orthostatic",
+            "tachycardia",
+            "syndrome",
+            "vasovagal"
+      ],
+      "id": "NCT00061009"
 }

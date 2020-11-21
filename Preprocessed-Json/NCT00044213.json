@@ -82,22 +82,28 @@
             "base"
       ],
       "condition": [
-            "coronary",
             "artery",
             "disease"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Drug",
+            "Drug",
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "high",
-            "dose",
-            "vitamin",
-            "placebo"
+            "EDTA",
+            "EDTA Placebo",
+            "High Dose Vitamin",
+            "High Dose Vitamin Placebo"
       ],
       "description": [
-            "participant",
+            "receive",
+            "40",
+            "infusion",
+            "standard",
+            "chelation",
+            "solution",
             "receive",
             "40",
             "infusion",
@@ -105,7 +111,33 @@
             "placebo"
       ],
       "arm_group_label": [
-            "edta",
+            "high",
+            "dose",
+            "vitamin",
+            "high",
+            "dose",
+            "vitamin",
+            "placebo",
+            "placebo",
+            "high",
+            "dose",
+            "vitamin",
+            "placebo",
+            "high",
+            "dose",
+            "vitamin",
+            "placebo",
+            "high",
+            "dose",
+            "vitamin",
+            "placebo",
+            "high",
+            "dose",
+            "vitamin",
+            "high",
+            "dose",
+            "vitamin",
+            "placebo",
             "placebo",
             "high",
             "dose",
@@ -199,12 +231,20 @@
             "infusion",
             "weekly"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044213.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease",
+            "acid",
+            "acid"
+      ],
+      "id": "NCT00044213"
 }

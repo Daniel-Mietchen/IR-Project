@@ -141,17 +141,34 @@
             "examiner"
       ],
       "condition": [
-            "hypertension",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
+            "premature",
+            "distress",
+            "syndrome",
+            "rds",
             "pulmonary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Inhaled nitric oxide",
+            "Placebo"
       ],
       "description": [
-            "start",
+            "5",
+            "ppm",
+            "could",
+            "increase",
+            "10",
+            "ppm",
             "5",
             "ppm",
             "could",
@@ -160,7 +177,8 @@
             "ppm"
       ],
       "arm_group_label": [
-            "placebo"
+            "nitric",
+            "oxide"
       ],
       "criteria": [
             "inclusion",
@@ -309,12 +327,28 @@
             "cpap",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016523.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "hypoplasia"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "insufficiency",
+            "weight",
+            "pulmonary",
+            "oxide"
+      ],
+      "id": "NCT00016523"
 }

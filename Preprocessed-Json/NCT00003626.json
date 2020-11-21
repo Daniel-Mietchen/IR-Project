@@ -93,15 +93,13 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dolastatin",
-            "10"
+            "dolastatin 10"
       ],
       "criteria": [
             "disease",
@@ -243,11 +241,18 @@
             "prior",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003626.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "10"
+      ],
+      "id": "NCT00003626"
 }

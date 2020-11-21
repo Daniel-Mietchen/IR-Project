@@ -32,15 +32,14 @@
             "6",
             "week"
       ],
-      "condition": [
-            "hypercholesterolemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "atorvastatin"
+            "MK0653A, ezetimibe (+) simvastatin",
+            "Comparator: atorvastatin"
       ],
       "criteria": [
             "inclusion",
@@ -63,7 +62,7 @@
             "study",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -72,6 +71,9 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092690.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "calcium"
+      ],
+      "id": "NCT00092690"
 }

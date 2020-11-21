@@ -396,22 +396,60 @@
             "12",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "asparaginase",
+            "cyclophosphamide",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "leucovorin calcium",
+            "mercaptopurine",
+            "methotrexate",
+            "thioguanine",
+            "vincristine sulfate"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
+            "treatment",
             "treatment"
       ],
       "other_name": [
-            "ind",
+            "coli",
+            "109229",
+            "026271",
+            "7089",
+            "arabinoside",
+            "063878",
+            "82151",
+            "034521",
+            "factor",
+            "acid",
+            "003590",
+            "000755",
+            "000740",
+            "4291",
+            "752",
+            "067574",
             "7161"
       ],
       "criteria": [
@@ -464,12 +502,23 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003671.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00003671"
 }

@@ -50,14 +50,13 @@
             "cycle"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan"
+            "Irinotecan"
       ],
       "criteria": [
             "inclusion",
@@ -119,14 +118,15 @@
             "clinical",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072852.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00072852"
 }

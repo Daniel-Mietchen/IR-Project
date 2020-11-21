@@ -231,19 +231,22 @@
             "year"
       ],
       "condition": [
-            "chronic",
             "myeloproliferative",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "cytarabine",
+            "idarubicin",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -379,7 +382,6 @@
             "greater",
             "2",
             "time",
-            "uln",
             "unless",
             "due",
             "extramedullary",
@@ -400,7 +402,6 @@
             "active",
             "congestive",
             "heart",
-            "failure",
             "lvef",
             "least",
             "50",
@@ -466,12 +467,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006367.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "essential",
+            "thrombocythemia"
+      ],
+      "mesh_term": [
+            "myelofibrosis",
+            "disorder"
+      ],
+      "id": "NCT00006367"
 }

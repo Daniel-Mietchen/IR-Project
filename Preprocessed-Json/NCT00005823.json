@@ -195,7 +195,6 @@
             "either",
             "intensive",
             "nonintensive",
-            "chemotherapy",
             "intensive",
             "chemotherapy",
             "induction",
@@ -339,7 +338,6 @@
             "arm",
             "enter",
             "nonintensive",
-            "arm",
             "patient",
             "achieve",
             "complete",
@@ -409,7 +407,6 @@
             "hour",
             "daily",
             "day",
-            "chemotherapy",
             "patient",
             "randomize",
             "1",
@@ -469,7 +466,6 @@
             "16",
             "week",
             "note",
-            "patient",
             "liver",
             "function",
             "test",
@@ -509,12 +505,29 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "etoposide",
+            "hydroxyurea",
+            "idarubicin",
+            "mitoxantrone hydrochloride",
+            "thioguanine",
+            "tretinoin",
             "valspodar"
       ],
       "criteria": [
@@ -617,12 +630,28 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005823.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00005823"
 }

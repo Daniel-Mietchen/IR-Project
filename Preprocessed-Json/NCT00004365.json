@@ -70,7 +70,6 @@
             "minute"
       ],
       "condition": [
-            "growth",
             "hormone",
             "deficiency"
       ],
@@ -104,7 +103,7 @@
             "3",
             "dwarf"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -113,6 +112,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "system",
+            "disease",
+            "pituitary"
+      ],
+      "id": "NCT00004365"
 }

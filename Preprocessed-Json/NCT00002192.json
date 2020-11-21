@@ -104,14 +104,20 @@
             "ethambutol"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "azithromycin"
+            "Rifapentine",
+            "Ethambutol hydrochloride",
+            "Clarithromycin",
+            "Azithromycin"
       ],
       "criteria": [
             "inclusion",
@@ -272,12 +278,21 @@
             "prior",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002192.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rifapentine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00002192"
 }

@@ -189,15 +189,18 @@
             "4",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "chlorambucil",
+            "dexamethasone",
+            "fludarabine phosphate",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -265,9 +268,7 @@
             "bilirubin",
             "greater",
             "time",
-            "uln",
             "note",
-            "unless",
             "attributable",
             "lymphoma",
             "renal",
@@ -339,7 +340,7 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -348,6 +349,18 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006250.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "follicular",
+            "phosphate"
+      ],
+      "id": "NCT00006250"
 }

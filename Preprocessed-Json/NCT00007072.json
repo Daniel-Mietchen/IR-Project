@@ -69,13 +69,14 @@
             "thereafter"
       ],
       "condition": [
-            "thalassemia",
             "major"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "azacitidine",
             "phenylbutyrate"
       ],
       "criteria": [
@@ -230,12 +231,19 @@
             "syndrome",
             "leukemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007072.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thalassemia",
+            "major"
+      ],
+      "mesh_term": [
+            "acid"
+      ],
+      "id": "NCT00007072"
 }

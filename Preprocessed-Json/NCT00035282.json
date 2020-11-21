@@ -25,17 +25,16 @@
             "week"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "unspecified"
+            "aprepitant",
+            "Comparator: placebo (unspecified)"
       ],
       "other_name": [],
       "criteria": [
@@ -44,12 +43,17 @@
             "depressive",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035282.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00035282"
 }

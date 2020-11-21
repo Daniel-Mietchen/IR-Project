@@ -55,26 +55,39 @@
             "rat"
       ],
       "condition": [
-            "shift",
+            "sleepiness",
             "work",
             "sleep",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Armodafinil 150 mg/day",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "150",
+            "mg",
+            "take",
+            "30",
+            "minute",
+            "1",
+            "hour",
+            "start",
+            "night",
+            "shift",
+            "later",
+            "2300",
+            "night",
+            "work",
             "placebo",
             "tablet",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -376,7 +389,7 @@
             "stimulant",
             "modafinil"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -385,6 +398,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080288.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nuvigil"
+      ],
+      "mesh_term": [
+            "wake",
+            "disorder",
+            "excessive",
+            "somnolence",
+            "disorder",
+            "circadian",
+            "rhythm"
+      ],
+      "id": "NCT00080288"
 }

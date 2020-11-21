@@ -359,13 +359,14 @@
             "dose"
       ],
       "condition": [
-            "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "VNP20009"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -809,9 +810,15 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004988.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00004988"
 }

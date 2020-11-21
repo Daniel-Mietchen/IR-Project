@@ -134,15 +134,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "arsenic trioxide",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -379,12 +378,28 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053248.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "positive",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "trioxide",
+            "mesylate"
+      ],
+      "id": "NCT00053248"
 }

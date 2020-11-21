@@ -437,22 +437,32 @@
             "individual"
       ],
       "condition": [
-            "hiv",
+            "c",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "standard",
-            "dose",
+            "Double dose pegylated interferon with weight based Ribavirin",
+            "standard dose pegylated interferon alfa -2a and ribavirin"
+      ],
+      "description": [
+            "interferon",
+            "alfa",
+            "weekly",
+            "weight",
+            "base",
+            "ribavirin",
+            "4",
+            "week",
             "pegylated",
             "interferon",
             "alfa",
-            "ribavirin"
-      ],
-      "description": [
-            "pegylated",
+            "weekly",
+            "remainder",
+            "treatment",
             "interferon",
             "alfa",
             "weekly",
@@ -463,13 +473,12 @@
             "treatment"
       ],
       "arm_group_label": [
-            "standard",
+            "dose",
+            "arm",
             "dose",
             "arm"
       ],
-      "other_name": [
-            "pegasys"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -960,12 +969,19 @@
             "breastfeed",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085917.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "c",
+            "infection"
+      ],
+      "id": "NCT00085917"
 }

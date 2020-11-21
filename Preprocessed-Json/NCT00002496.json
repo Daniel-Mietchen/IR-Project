@@ -250,16 +250,26 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "chemotherapy",
+            "cisplatin",
+            "fluorouracil",
+            "conventional surgery",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -430,12 +440,24 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002496.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00002496"
 }

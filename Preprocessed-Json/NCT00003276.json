@@ -128,19 +128,15 @@
             "year"
       ],
       "condition": [
-            "gallbladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "irinotecan hydrochloride"
       ],
-      "arm_group_label": [
-            "irinotecan"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -358,12 +354,20 @@
             "condition",
             "laxative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003276.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "gallbladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003276"
 }

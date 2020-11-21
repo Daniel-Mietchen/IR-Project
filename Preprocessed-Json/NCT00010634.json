@@ -289,13 +289,15 @@
             "brief",
             "summary"
       ],
-      "condition": [
-            "periodontitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Connective Tissue Nutrient Formula",
+            "Adaptogenic herbs",
             "glutamine"
       ],
       "criteria": [
@@ -304,12 +306,13 @@
             "adult",
             "periodontitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010634.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00010634"
 }

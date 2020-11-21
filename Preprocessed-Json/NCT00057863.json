@@ -107,29 +107,40 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "cervical",
+            "carcinoma",
+            "iva",
+            "cervical",
+            "cancer",
             "ivb",
             "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oxaliplatin"
+            "Paclitaxel",
+            "Oxaliplatin"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "paclitaxel",
+            "oxaliplatin",
             "paclitaxel",
             "oxaliplatin"
       ],
-      "other_name": [
-            "tax"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -457,12 +468,20 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057863.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm",
+            "adenosquamous",
+            "paclitaxel"
+      ],
+      "id": "NCT00057863"
 }

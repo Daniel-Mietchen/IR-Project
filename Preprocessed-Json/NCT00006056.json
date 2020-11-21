@@ -145,18 +145,37 @@
             "year"
       ],
       "condition": [
+            "syndrome",
+            "versus",
+            "host",
+            "disease",
+            "lymphoproliferative",
+            "syndrome",
+            "erythrophagocytic",
+            "lymphohistiocytosis",
+            "lymphohistiocytosis",
             "hemophagocytic",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "hematopoietic",
-            "stem",
-            "cell",
-            "transplantation"
+            "anti-thymocyte globulin",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "etoposide",
+            "filgrastim",
+            "methotrexate",
+            "allogeneic hematopoietic stem cell transplantation"
       ],
       "criteria": [
             "protocol",
@@ -459,12 +478,25 @@
             "active",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006056.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemophagocytic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease",
+            "hemophagocytic",
+            "syndrome",
+            "disorder",
+            "serum"
+      ],
+      "id": "NCT00006056"
 }

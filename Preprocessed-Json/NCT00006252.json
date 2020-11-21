@@ -234,22 +234,64 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "donor",
-            "lymphocyte"
+            "fludarabine phosphate",
+            "Cyclophosphamide",
+            "PBSC",
+            "G-CSF",
+            "Donor lymphocytes"
       ],
       "description": [
+            "iv",
+            "infusion",
+            "5",
+            "day",
+            "day",
+            "thru",
+            "iv",
+            "infusion",
+            "x",
+            "3",
+            "day",
+            "day",
+            "thru",
+            "cell",
+            "via",
+            "infusion",
+            "day",
+            "0",
+            "subq",
+            "injection",
+            "anc",
+            "3",
+            "day",
+            "begin",
+            "day",
+            "5",
             "via",
             "infusion"
       ],
       "arm_group_label": [
-            "allogeneic",
+            "stem",
+            "cell",
+            "tx",
+            "stem",
+            "cell",
+            "tx",
+            "stem",
+            "cell",
+            "tx",
+            "stem",
+            "cell",
+            "tx",
             "stem",
             "cell",
             "tx"
@@ -473,7 +515,6 @@
             "count",
             "least",
             "note",
-            "unless",
             "attributable",
             "disease",
             "hepatic",
@@ -489,9 +530,7 @@
             "greater",
             "3",
             "time",
-            "uln",
             "note",
-            "unless",
             "attributable",
             "disease",
             "renal",
@@ -569,12 +608,25 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006252.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphocytic",
+            "chronic",
+            "prolymphocytic",
+            "phosphate"
+      ],
+      "id": "NCT00006252"
 }

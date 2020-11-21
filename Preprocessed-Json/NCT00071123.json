@@ -327,7 +327,9 @@
             "process"
       ],
       "condition": [
-            "remit",
+            "major",
+            "depressive",
+            "disorder",
             "major",
             "depressive",
             "disorder"
@@ -603,7 +605,7 @@
             "primary",
             "mdd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -612,6 +614,14 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071123.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00071123"
 }

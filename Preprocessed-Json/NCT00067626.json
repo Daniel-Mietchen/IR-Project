@@ -261,16 +261,17 @@
             "test"
       ],
       "condition": [
-            "impair",
+            "resistance",
+            "glucose",
+            "tolerance",
             "fast",
             "glucose"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "chromium"
+            "Chromium"
       ],
       "description": [
             "mcg",
@@ -282,9 +283,7 @@
             "placebo",
             "crossover"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -515,12 +514,23 @@
             "data",
             "analysis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067626.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complementary",
+            "alternative",
+            "medicine"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "resistance",
+            "state",
+            "intolerance"
+      ],
+      "id": "NCT00067626"
 }

@@ -256,15 +256,17 @@
             "respectively"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "aldesleukin",
+            "gp100 antigen",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -390,7 +392,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -399,6 +401,11 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003229.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003229"
 }

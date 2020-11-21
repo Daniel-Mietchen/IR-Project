@@ -125,7 +125,6 @@
             "arm",
             "patient",
             "receive",
-            "octreotide",
             "intramuscularly",
             "im",
             "day",
@@ -140,7 +139,6 @@
             "ii",
             "patient",
             "receive",
-            "placebo",
             "im",
             "day",
             "start",
@@ -151,7 +149,6 @@
             "day",
             "chemoradiotherapy",
             "note",
-            "patient",
             "receive",
             "total",
             "2",
@@ -202,15 +199,21 @@
             "year"
       ],
       "condition": [
-            "radiation",
+            "cancer",
+            "cancer",
+            "toxicity",
             "enteritis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "octreotide acetate",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "depot"
       ],
       "criteria": [
             "disease",
@@ -403,7 +406,7 @@
             "antidiarrheal",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -412,6 +415,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075868.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00075868"
 }

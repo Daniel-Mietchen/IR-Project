@@ -121,17 +121,32 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "O6-benzylguanine",
             "carmustine"
       ],
       "description": [
-            "carmustine",
+            "receive",
+            "bg",
+            "iv",
+            "1",
+            "hour",
+            "treatment",
+            "continue",
+            "every",
+            "6",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "iv",
             "1",
             "hour",
@@ -294,12 +309,21 @@
             "advance",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "6"
+      ],
+      "id": "NCT00005981"
 }

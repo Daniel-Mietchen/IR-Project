@@ -111,15 +111,15 @@
             "determination"
       ],
       "condition": [
-            "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "glucowatch",
-            "biographer"
+            "Continuous Glucose Monitoring System (CGMS)",
+            "GlucoWatch G2TM Biographer (GW2B)"
       ],
       "criteria": [
             "inclusion",
@@ -174,7 +174,7 @@
             "device",
             "use"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -183,6 +183,15 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069602.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "blood",
+            "glucose",
+            "profile",
+            "child"
+      ],
+      "mesh_term": [
+            "mellitus"
+      ],
+      "id": "NCT00069602"
 }

@@ -125,25 +125,30 @@
             "pharmaceutical",
             "inc"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "levalbuterol tartrate MDI",
+            "racemic albuterol MDI",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "90",
+            "mcg",
+            "qid",
+            "albuterol",
+            "180",
+            "mcg",
+            "qid",
             "mdi",
             "qid"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "xopenex",
             "mdi"
       ],
       "criteria": [
@@ -405,12 +410,16 @@
             "staff",
             "member"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073827.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoconstriction"
+      ],
+      "mesh_term": [],
+      "id": "NCT00073827"
 }

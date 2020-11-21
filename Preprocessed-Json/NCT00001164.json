@@ -95,7 +95,9 @@
             "appropriate"
       ],
       "condition": [
-            "virus",
+            "dystrophy",
+            "degeneration",
+            "disease",
             "disease"
       ],
       "criteria": [
@@ -132,9 +134,19 @@
             "except",
             "child"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001164.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "viral",
+            "disease"
+      ],
+      "mesh_term": [
+            "dystrophy",
+            "disease",
+            "disease",
+            "degeneration"
+      ],
+      "id": "NCT00001164"
 }

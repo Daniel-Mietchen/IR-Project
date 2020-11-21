@@ -355,9 +355,7 @@
             "disease",
             "asthma"
       ],
-      "condition": [
-            "hypersensitivity"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "must",
@@ -392,9 +390,13 @@
             "le",
             "12"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001908.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "asthma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001908"
 }

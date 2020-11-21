@@ -73,14 +73,19 @@
             "woman"
       ],
       "condition": [
-            "mitral",
+            "ischemia",
+            "arteriosclerosis",
+            "valve",
+            "insufficiency",
             "valve",
             "insufficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "TP10"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -126,14 +131,27 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082121.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complement",
+            "activation"
+      ],
+      "mesh_term": [
+            "ischemia",
+            "artery",
+            "disease",
+            "valve",
+            "insufficiency",
+            "valve",
+            "insufficiency",
+            "system",
+            "protein"
+      ],
+      "id": "NCT00082121"
 }

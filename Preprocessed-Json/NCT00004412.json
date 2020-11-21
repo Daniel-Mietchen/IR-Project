@@ -170,24 +170,41 @@
             "complete"
       ],
       "condition": [
-            "sickle",
+            "ulcer",
             "cell",
             "anemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "Arginine Butyrate",
+            "Standard local care dressing"
+      ],
+      "description": [
+            "determine",
+            "arginine",
+            "butyrate",
+            "accelerate",
+            "heal",
+            "refractory",
+            "leg",
+            "ulcer",
             "standard",
             "local",
             "care",
-            "dress"
-      ],
-      "description": [
+            "alone",
             "heal",
             "leg",
             "ulcer"
       ],
       "arm_group_label": [
-            "crossover"
+            "butyrate",
+            "local",
+            "care",
+            "dress",
+            "butyrate"
       ],
       "criteria": [
             "protocol",
@@ -328,7 +345,7 @@
             "immune",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -337,6 +354,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004412.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thalassemia",
+            "major"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "ulcer",
+            "acid",
+            "butyrate"
+      ],
+      "id": "NCT00004412"
 }

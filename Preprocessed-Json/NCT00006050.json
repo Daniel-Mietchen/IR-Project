@@ -125,13 +125,21 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "FOLFOX regimen",
+            "fluorouracil",
+            "isolated perfusion",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "criteria": [
@@ -262,12 +270,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006050.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "dietary"
+      ],
+      "id": "NCT00006050"
 }

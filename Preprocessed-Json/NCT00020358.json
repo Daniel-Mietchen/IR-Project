@@ -248,15 +248,19 @@
             "accrual"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "aldesleukin",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "tyrosinase peptide"
       ],
       "criteria": [
             "disease",
@@ -464,12 +468,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020358.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00020358"
 }

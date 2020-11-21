@@ -220,19 +220,16 @@
             "complete"
       ],
       "condition": [
-            "lung",
             "disease",
             "obstructive"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "telephone",
-            "monitor"
+            "Telephone Monitoring"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -247,11 +244,14 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00012805.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive"
+      ],
+      "id": "NCT00012805"
 }

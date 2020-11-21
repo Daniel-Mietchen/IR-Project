@@ -271,7 +271,8 @@
             "cvd"
       ],
       "condition": [
-            "inflammation"
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -282,9 +283,13 @@
             "generation",
             "3"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083863.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00083863"
 }

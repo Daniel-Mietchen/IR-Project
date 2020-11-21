@@ -283,14 +283,17 @@
             "expectancy"
       ],
       "condition": [
-            "immunoproliferative",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "klh"
+            "Bacteriophage",
+            "rhuCD40L",
+            "KLH"
       ],
       "criteria": [
             "inclusion",
@@ -437,9 +440,22 @@
             "le",
             "25"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001145.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hyperigm",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disorder",
+            "immunodeficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "type",
+            "1"
+      ],
+      "id": "NCT00001145"
 }

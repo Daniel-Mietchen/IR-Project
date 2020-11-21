@@ -136,7 +136,6 @@
             "condition"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "criteria": [
@@ -172,7 +171,7 @@
             "lung",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -181,6 +180,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001183.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "lung",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00001183"
 }

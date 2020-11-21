@@ -201,7 +201,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
             "patient",
             "stable",
             "respond",
@@ -218,7 +217,6 @@
             "disease",
             "progression",
             "note",
-            "patient",
             "experience",
             "excessive",
             "toxicity",
@@ -274,18 +272,26 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "docetaxel",
+            "imatinib mesylate"
       ],
       "description": [
-            "imatinib",
+            "iv",
+            "weekly",
+            "day",
+            "1",
+            "8",
+            "15",
+            "28",
+            "day",
+            "cycle",
             "mesylate",
             "mg",
             "oral",
@@ -295,13 +301,12 @@
             "cycle"
       ],
       "arm_group_label": [
-            "imatinib",
+            "mesylate",
+            "docetaxel",
             "mesylate",
             "docetaxel"
       ],
-      "other_name": [
-            "gleevec"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -625,12 +630,21 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080665.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00080665"
 }

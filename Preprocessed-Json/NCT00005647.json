@@ -145,18 +145,33 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "paclitaxel",
             "semaxanib"
       ],
       "description": [
-            "patient",
+            "receive",
+            "paclitaxel",
+            "iv",
+            "one",
+            "hour",
+            "day",
+            "1",
+            "treatment",
+            "continue",
+            "weekly",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "receive",
             "iv",
             "one",
@@ -367,12 +382,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005647.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "esthesioneuroblastoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "paclitaxel",
+            "inhibitor"
+      ],
+      "id": "NCT00005647"
 }

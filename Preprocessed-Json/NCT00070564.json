@@ -412,21 +412,54 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "pegfilgrastim",
+            "AC regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ii",
+            "iii",
+            "iv",
+            "v",
             "vi"
       ],
       "criteria": [
@@ -677,7 +710,6 @@
             "equal",
             "lower",
             "limit",
-            "normal",
             "muga",
             "echocardiogram",
             "note",
@@ -768,12 +800,22 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "progesterone",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00070564"
 }

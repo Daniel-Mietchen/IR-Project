@@ -180,24 +180,59 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "del",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
             "childhood",
             "acute",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "busulfan",
+            "etoposide",
+            "aldesleukin",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "undergo",
+            "po",
+            "iv",
+            "iv",
+            "sc",
             "autologous",
             "syngeneic",
             "stem",
@@ -205,7 +240,24 @@
             "rescue"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemo",
+            "stem",
+            "cell",
+            "rescue",
+            "interleukin",
+            "therapy",
+            "chemo",
+            "stem",
+            "cell",
+            "rescue",
+            "interleukin",
+            "therapy",
+            "chemo",
+            "stem",
+            "cell",
+            "rescue",
+            "interleukin",
+            "therapy",
             "chemo",
             "stem",
             "cell",
@@ -214,6 +266,12 @@
             "therapy"
       ],
       "other_name": [
+            "human",
+            "transplantation",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
             "transplantation",
             "peripheral",
             "blood",
@@ -463,12 +521,18 @@
             "le",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003875.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate"
+      ],
+      "id": "NCT00003875"
 }

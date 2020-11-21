@@ -201,18 +201,20 @@
             "annually"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer",
+            "skin",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "silicon",
-            "phthalocyanine",
-            "4"
+            "silicon phthalocyanine 4"
       ],
       "description": [
-            "patient",
             "receive",
             "silicon",
             "phthalocyanine",
@@ -632,12 +634,25 @@
             "dosage",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023790.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "metastasis",
+            "neoplasm",
+            "phthalocyanine"
+      ],
+      "id": "NCT00023790"
 }

@@ -223,13 +223,16 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "capecitabine",
+            "gefitinib",
             "oxaliplatin"
       ],
       "criteria": [
@@ -237,7 +240,6 @@
             "characteristic",
             "histologically",
             "cytologically",
-            "confirm",
             "colorectal",
             "cancer",
             "metastatic",
@@ -253,7 +255,6 @@
             "colon",
             "rectum",
             "note",
-            "confirmation",
             "require",
             "recurrent",
             "metastatic",
@@ -536,7 +537,7 @@
             "colorectal",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -545,6 +546,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087334.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087334"
 }

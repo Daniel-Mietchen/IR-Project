@@ -156,17 +156,67 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "interferon alpha",
+            "13-cis-retinoic acid",
             "paclitaxel"
       ],
       "description": [
-            "paclitaxel",
+            "alpha",
+            "give",
+            "subcutaneously",
+            "6",
+            "million",
+            "unit",
+            "per",
+            "square",
+            "meter",
+            "body",
+            "surface",
+            "area",
+            "day",
+            "1",
+            "2",
+            "week",
+            "6",
+            "week",
+            "follow",
+            "2",
+            "week",
+            "rest",
+            "give",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "acid",
+            "give",
+            "1",
+            "body",
+            "weight",
+            "mouth",
+            "day",
+            "1",
+            "2",
+            "week",
+            "6",
+            "week",
+            "follow",
+            "2",
+            "week",
+            "rest",
+            "give",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "administer",
             "intravenously",
             "premedication",
@@ -190,10 +240,12 @@
             "toxicity"
       ],
       "arm_group_label": [
+            "paclitaxel",
+            "paclitaxel",
             "paclitaxel"
       ],
       "other_name": [
-            "nsc",
+            "377523",
             "125973"
       ],
       "criteria": [
@@ -349,12 +401,26 @@
             "prior",
             "registration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062010.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "paclitaxel"
+      ],
+      "id": "NCT00062010"
 }

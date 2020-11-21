@@ -210,13 +210,15 @@
             "study"
       ],
       "condition": [
-            "precancerous",
+            "cancer",
             "condition"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "HspE7"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -444,14 +446,26 @@
             "treat",
             "cin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075569.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "3"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "intraepithelial",
+            "neoplasia",
+            "condition"
+      ],
+      "id": "NCT00075569"
 }

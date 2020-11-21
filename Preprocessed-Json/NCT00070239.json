@@ -164,7 +164,6 @@
             "maintenance",
             "dose",
             "alvocidib",
-            "mtd",
             "determine",
             "additional",
             "cohort",
@@ -210,7 +209,7 @@
             "thereafter"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -218,22 +217,32 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Radiation",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "positron",
-            "emission",
-            "tomography"
+            "alvocidib",
+            "pharmacological study",
+            "fludeoxyglucose F 18",
+            "fluorine F 18 fluorothymidine",
+            "positron emission tomography"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
+            "study",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "tomography",
+            "1275",
+            "study",
+            "fluorothymidine",
+            "scan",
             "emission",
             "compute"
       ],
@@ -465,7 +474,6 @@
             "least",
             "1",
             "chemotherapy",
-            "regimen",
             "prior",
             "therapy",
             "may",
@@ -491,7 +499,6 @@
             "different",
             "schedule",
             "note",
-            "except",
             "case",
             "chemotherapy",
             "know",
@@ -569,7 +576,6 @@
             "temporarily",
             "close",
             "note",
-            "unless",
             "abnormality",
             "cause",
             "tumor",
@@ -717,12 +723,13 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070239.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00070239"
 }

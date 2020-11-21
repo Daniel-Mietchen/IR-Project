@@ -223,16 +223,55 @@
             "2009"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "mellitus",
+            "dependent"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "interactive",
-            "technology"
+            "Personal contact (PC)",
+            "Interactive technology (IT)"
       ],
       "description": [
+            "arm",
+            "use",
+            "brief",
+            "individual",
+            "contact",
+            "monthly",
+            "basis",
+            "emphasize",
+            "core",
+            "element",
+            "weight",
+            "maintenance",
+            "monthly",
+            "contact",
+            "interventionist",
+            "occur",
+            "30",
+            "month",
+            "end",
+            "phase",
+            "contact",
+            "occur",
+            "approximately",
+            "every",
+            "four",
+            "month",
+            "three",
+            "annually",
+            "telephone",
+            "contact",
+            "occur",
+            "every",
+            "month",
+            "ftf",
+            "contact",
             "website",
             "utilize",
             "collaborative",
@@ -290,7 +329,8 @@
             "wish"
       ],
       "arm_group_label": [
-            "interactive",
+            "contact",
+            "pc",
             "technology"
       ],
       "criteria": [
@@ -321,12 +361,21 @@
             "african",
             "american"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054925.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "loss",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00054925"
 }

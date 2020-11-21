@@ -219,22 +219,24 @@
             "year"
       ],
       "condition": [
-            "melanoma",
+            "cancer",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "peripheral blood stem cell transplantation"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -386,7 +388,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -395,6 +397,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004135.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00004135"
 }

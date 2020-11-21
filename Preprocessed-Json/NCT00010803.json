@@ -153,22 +153,24 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Ginkgo biloba",
+            "Placebo"
       ],
       "description": [
-            "one",
+            "twice",
+            "day",
             "pill",
             "twice",
             "daily"
       ],
       "arm_group_label": [
-            "placebo"
+            "biloba"
       ],
       "other_name": [
-            "identical",
             "appearance",
             "ginkgo",
             "biloba",
@@ -251,12 +253,15 @@
             "blood",
             "count"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "75",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010803.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00010803"
 }

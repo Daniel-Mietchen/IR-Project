@@ -104,9 +104,11 @@
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "growth hormone",
             "oxandrolone"
       ],
       "criteria": [
@@ -132,9 +134,7 @@
             "growth",
             "hormone"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "10",
             "year"
@@ -143,6 +143,16 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004275.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "dysgenesis",
+            "ovarian",
+            "insufficiency"
+      ],
+      "id": "NCT00004275"
 }

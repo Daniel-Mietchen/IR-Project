@@ -200,27 +200,28 @@
             "year"
       ],
       "condition": [
-            "peritoneal",
+            "cancer",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "carboplatin",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "description": [
-            "intravenous",
+            "q",
+            "4",
+            "week",
             "q",
             "4",
             "week"
       ],
       "arm_group_label": [
-            "carboplatin",
+            "doxorubicin",
             "doxorubicin"
       ],
       "criteria": [
@@ -536,9 +537,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -547,6 +546,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043082.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00043082"
 }

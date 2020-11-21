@@ -223,7 +223,9 @@
             "treatment"
       ],
       "condition": [
-            "sickle",
+            "hypertension",
+            "cell",
+            "anemia",
             "cell",
             "disease"
       ],
@@ -317,7 +319,7 @@
             "impair",
             "subject"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -326,6 +328,16 @@
             "99",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011648.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "secondary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00011648"
 }

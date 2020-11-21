@@ -233,16 +233,18 @@
             "year"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "epoetin alfa",
+            "cisplatin",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -504,12 +506,20 @@
             "concurrent",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004917.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anemia"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "alfa"
+      ],
+      "id": "NCT00004917"
 }

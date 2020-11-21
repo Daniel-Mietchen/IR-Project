@@ -148,20 +148,29 @@
             "adjustment",
             "evaluate"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cbt",
-            "plus",
-            "parent",
-            "train"
+            "Cognitive Behavior Therapy Child Only",
+            "CBT plus Parent Training"
       ],
       "description": [
-            "participant",
+            "learn",
+            "apply",
+            "cop",
+            "skill",
+            "problem",
+            "solve",
+            "cognitive",
+            "restructure",
+            "strategy",
+            "build",
+            "positive",
+            "core",
+            "belief",
             "learn",
             "apply",
             "cop",
@@ -204,7 +213,12 @@
             "behavior"
       ],
       "arm_group_label": [
-            "cbt",
+            "behavior",
+            "therapy",
+            "child",
+            "plus",
+            "parent",
+            "train",
             "plus",
             "parent",
             "train"
@@ -229,9 +243,7 @@
             "research",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "9",
             "year"
@@ -240,6 +252,9 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061698.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00061698"
 }

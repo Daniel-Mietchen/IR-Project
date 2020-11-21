@@ -309,7 +309,6 @@
             "measure"
       ],
       "condition": [
-            "mood",
             "disorder"
       ],
       "criteria": [
@@ -408,9 +407,15 @@
             "12",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001478.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "venlafaxine"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001478"
 }

@@ -279,18 +279,38 @@
             "accrue"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "recombinant interferon alfa",
+            "sargramostim",
+            "carmustine",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "melphalan",
+            "methylprednisolone",
+            "prednisone",
+            "vincristine sulfate",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -412,12 +432,29 @@
             "bone",
             "pain"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002599.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "doxorubicin",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00002599"
 }

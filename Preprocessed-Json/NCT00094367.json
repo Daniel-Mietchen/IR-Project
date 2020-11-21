@@ -72,13 +72,14 @@
             "subject"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Abacavir/Lamivudine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -121,12 +122,18 @@
             "subject",
             "ineligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094367.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00094367"
 }

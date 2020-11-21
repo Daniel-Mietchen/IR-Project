@@ -147,14 +147,14 @@
             "medical",
             "status"
       ],
-      "condition": [
-            "dementia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone"
+            "Citalopram",
+            "Risperidone"
       ],
       "criteria": [
             "inclusion",
@@ -295,12 +295,17 @@
             "week",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073658.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "paranoid",
+            "behavior"
+      ],
+      "mesh_term": [],
+      "id": "NCT00073658"
 }

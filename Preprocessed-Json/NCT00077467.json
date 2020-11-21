@@ -130,27 +130,40 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
             "childhood",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bortezomib",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "341",
             "study"
       ],
       "criteria": [
@@ -413,7 +426,7 @@
             "gabapentin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -422,6 +435,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077467.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "promyelocytic",
+            "acute"
+      ],
+      "id": "NCT00077467"
 }

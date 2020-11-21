@@ -44,16 +44,36 @@
             "study"
       ],
       "condition": [
-            "metastasis"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine"
+            "Ixabepilone + Capecitabine",
+            "Capecitabine"
       ],
       "description": [
+            "intravenous",
+            "solution",
+            "iv",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "active",
+            "comparator",
             "tablet",
+            "oral",
+            "2000",
+            "bid",
+            "day",
+            "every",
+            "21",
+            "day",
+            "toxicity",
             "oral",
             "2500",
             "bid",
@@ -63,12 +83,8 @@
             "day",
             "toxicity"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "epothilone"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "patient",
             "must",
@@ -131,14 +147,20 @@
             "capecitabine",
             "xeloda"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080301.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080301"
 }

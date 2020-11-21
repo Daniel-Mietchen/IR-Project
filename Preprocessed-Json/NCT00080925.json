@@ -436,17 +436,44 @@
             "year"
       ],
       "condition": [
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "graft-versus-tumor induction therapy",
+            "rituximab",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "cyclosporine",
+            "cytarabine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "fludarabine phosphate",
+            "prednisone",
+            "vincristine sulfate",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -654,7 +681,6 @@
             "lymphocytic",
             "leukemia",
             "treatment",
-            "failure",
             "fludarabine",
             "chlorambucil",
             "least",
@@ -669,13 +695,11 @@
             "follow",
             "criterion",
             "treatment",
-            "failure",
             "alemtuzumab",
             "least",
             "1",
             "regimen",
             "treatment",
-            "failure",
             "fludarabine",
             "least",
             "1",
@@ -701,7 +725,6 @@
             "del",
             "translocation",
             "note",
-            "treatment",
             "failure",
             "define",
             "relapse",
@@ -746,7 +769,6 @@
             "active",
             "cns",
             "involvement",
-            "malignancy",
             "prior",
             "cns",
             "involvement",
@@ -756,7 +778,6 @@
             "malignancy",
             "allow",
             "note",
-            "active",
             "cns",
             "malignancy",
             "define",
@@ -842,7 +863,6 @@
             "without",
             "transfusion",
             "note",
-            "lower",
             "value",
             "may",
             "accept",
@@ -866,7 +886,6 @@
             "uln",
             "bilirubin",
             "time",
-            "uln",
             "unconjugated",
             "hyperbilirubinemia",
             "consistent",
@@ -909,7 +928,6 @@
             "reaction",
             "assay",
             "note",
-            "higher",
             "level",
             "may",
             "accept",
@@ -1029,7 +1047,7 @@
             "day",
             "transplantation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1038,6 +1056,24 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080925.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease",
+            "phosphate",
+            "doxorubicin"
+      ],
+      "id": "NCT00080925"
 }

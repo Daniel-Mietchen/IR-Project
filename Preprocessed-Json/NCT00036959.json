@@ -202,7 +202,19 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
+            "cancer",
+            "cancer",
             "childhood",
             "solid",
             "tumor",
@@ -210,16 +222,17 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABT-751"
+      ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
             "confirm",
             "solid",
-            "tumor",
             "include",
             "limit",
             "follow",
@@ -254,7 +267,6 @@
             "biopsy",
             "perform",
             "note",
-            "close",
             "accrual",
             "diagnose",
             "except",
@@ -276,7 +288,6 @@
             "exist",
             "measurable",
             "evaluable",
-            "disease",
             "note",
             "require",
             "patient",
@@ -532,12 +543,32 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036959.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "malignant",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00036959"
 }

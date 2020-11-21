@@ -224,15 +224,24 @@
             "study",
             "year"
       ],
-      "condition": [
-            "retinoblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "mesna",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -302,12 +311,17 @@
             "chemotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intraocular",
+            "retinoblastoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002675"
 }

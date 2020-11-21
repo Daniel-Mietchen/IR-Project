@@ -197,32 +197,34 @@
             "asthma"
       ],
       "condition": [
-            "lung",
+            "disease",
             "disease",
             "obstructive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "proton",
-            "pump",
-            "inhibitor"
+            "Esomeprazole",
+            "Placebo proton pump inhibitor"
       ],
       "description": [
-            "placebo",
+            "pump",
+            "inhibitor",
+            "40",
+            "mg",
+            "orally",
+            "twice",
+            "daily",
             "proton",
             "pump",
             "inhibitor"
       ],
       "arm_group_label": [
-            "placebo",
             "esomeprazoe"
       ],
-      "other_name": [
-            "nexium"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -485,12 +487,20 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069823.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "reflux",
+            "pump",
+            "inhibitor"
+      ],
+      "id": "NCT00069823"
 }

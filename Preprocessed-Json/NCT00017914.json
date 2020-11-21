@@ -567,7 +567,6 @@
             "test"
       ],
       "condition": [
-            "inclusion",
             "body",
             "myositis"
       ],
@@ -732,9 +731,18 @@
             "principal",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017914.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "idiopathic",
+            "inflammatory",
+            "myopathy"
+      ],
+      "mesh_term": [
+            "inclusion",
+            "body"
+      ],
+      "id": "NCT00017914"
 }

@@ -105,12 +105,21 @@
             "record"
       ],
       "condition": [
-            "adrenoleukodystrophy"
+            "infantile",
+            "refsum",
+            "disease",
+            "syndrome",
+            "enzyme",
+            "deficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "chenodeoxycholic acid",
+            "cholic acid",
             "ursodiol"
       ],
       "criteria": [
@@ -131,12 +140,24 @@
             "refsum",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004442.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sphingolipidoses"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "disease",
+            "infantile",
+            "syndrome",
+            "acid",
+            "acid"
+      ],
+      "id": "NCT00004442"
 }

@@ -44,15 +44,15 @@
             "alone"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
+            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "motexafin",
-            "gadolinium"
+            "Motexafin Gadolinium"
       ],
       "criteria": [
             "inclusion",
@@ -144,12 +144,23 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054795.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "lung",
+            "neoplasm",
+            "gadolinium"
+      ],
+      "id": "NCT00054795"
 }

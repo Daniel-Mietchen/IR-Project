@@ -658,7 +658,9 @@
             "pressure"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "disease"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -668,9 +670,14 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005221.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00005221"
 }

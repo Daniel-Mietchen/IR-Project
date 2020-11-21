@@ -267,14 +267,13 @@
             "measurement"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "replagal"
+            "Replagal"
       ],
       "criteria": [
             "inclusion",
@@ -412,9 +411,15 @@
             "medical",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071877.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "child"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00071877"
 }

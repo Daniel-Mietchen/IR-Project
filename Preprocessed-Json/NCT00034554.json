@@ -174,18 +174,15 @@
             "vaccination"
       ],
       "condition": [
-            "malignant",
             "melanoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "dna",
-            "vaccine"
+            "gp75 DNA vaccine"
       ],
       "description": [
-            "6",
             "patient",
             "enrol",
             "5",
@@ -263,7 +260,6 @@
             "dose",
             "level",
             "base",
-            "5",
             "patient",
             "safely",
             "complete",
@@ -272,9 +268,7 @@
             "dose",
             "level"
       ],
-      "arm_group_label": [
-            "5"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -549,12 +543,17 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034554.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dna",
+            "vaccine"
+      ],
+      "mesh_term": [],
+      "id": "NCT00034554"
 }

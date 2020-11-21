@@ -331,14 +331,15 @@
             "phase"
       ],
       "condition": [
-            "depression"
+            "dependence"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluoxetine",
-            "prozac"
+            "naltrexone (Revia)",
+            "fluoxetine (Prozac)"
       ],
       "criteria": [
             "inclusion",
@@ -460,7 +461,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -469,6 +470,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006204.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fluoxetine"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006204"
 }

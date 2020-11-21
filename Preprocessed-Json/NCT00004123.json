@@ -194,32 +194,86 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy",
-            "rt"
+            "Doxorubicin hydrochloride (DOX)",
+            "Conventional surgery",
+            "Intraoperative radiation therapy (IORT)",
+            "Radiation Therapy (RT)"
       ],
       "description": [
+            "iv",
+            "bolus",
+            "follow",
+            "immediately",
+            "iv",
+            "4",
+            "day",
+            "every",
+            "week",
             "5",
+            "week",
+            "concurrently",
+            "external",
+            "beam",
+            "radiotherapy",
+            "5",
+            "day",
+            "week",
+            "4",
+            "week",
+            "resection",
+            "primary",
+            "tumor",
+            "adjacent",
+            "gross",
+            "disease",
+            "approximately",
+            "6",
+            "week",
+            "chemoradiotherapy",
+            "radiotherapy",
+            "iort",
+            "tumor",
+            "bed",
+            "gross",
+            "disease",
+            "resect",
+            "area",
+            "maximal",
+            "tumor",
+            "adherence",
+            "retroperitoneum",
+            "encompass",
+            "within",
+            "single",
+            "iort",
+            "field",
+            "maximum",
+            "15",
+            "cm",
             "day",
             "week",
             "4",
             "week"
       ],
       "arm_group_label": [
-            "rt",
+            "dox",
+            "iort",
+            "dox",
+            "iort",
+            "dox",
+            "iort",
             "dox",
             "iort"
       ],
-      "other_name": [
-            "radialtherapy"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -335,12 +389,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004123.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00004123"
 }

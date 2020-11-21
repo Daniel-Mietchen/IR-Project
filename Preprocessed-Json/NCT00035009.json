@@ -22,29 +22,33 @@
             "week"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "paroxetine",
-            "hcl"
+            "MK0869, aprepitant",
+            "Comparator: paroxetine HCL"
       ],
       "criteria": [
             "major",
             "depressive",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035009.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00035009"
 }

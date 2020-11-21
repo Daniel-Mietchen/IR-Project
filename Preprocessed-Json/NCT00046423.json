@@ -114,13 +114,14 @@
             "discretion"
       ],
       "condition": [
-            "metastasis",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABI-007"
+      ],
       "criteria": [
             "least",
             "18",
@@ -188,12 +189,22 @@
             "bilirubin",
             "le"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046423.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "various",
+            "solid",
+            "tumor",
+            "refractory"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "paclitaxel"
+      ],
+      "id": "NCT00046423"
 }

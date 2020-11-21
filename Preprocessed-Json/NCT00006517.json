@@ -320,18 +320,43 @@
             "practice"
       ],
       "condition": [
-            "depression"
+            "affective",
+            "disorder",
+            "disorder"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device",
+            "Device",
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "dawn",
-            "light",
-            "pulse"
+            "bright light box",
+            "dawn simulator",
+            "high-output negative ion generator",
+            "low-output negative ion generator",
+            "dawn light pulse"
       ],
       "description": [
-            "rectangular",
+            "lux",
+            "bright",
+            "light",
+            "therapy",
+            "rise",
+            "bedroom",
+            "illumination",
+            "prior",
+            "air",
+            "ion",
+            "delivery",
+            "bedroom",
+            "prior",
+            "air",
+            "ion",
+            "delivery",
+            "bedroom",
+            "prior",
             "light",
             "pulse",
             "match",
@@ -341,7 +366,15 @@
             "prior"
       ],
       "arm_group_label": [
-            "dawn",
+            "light",
+            "box",
+            "simulator",
+            "negative",
+            "ion",
+            "generator",
+            "negative",
+            "ion",
+            "generator",
             "light",
             "pulse"
       ],
@@ -396,7 +429,7 @@
             "travel",
             "program"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -405,6 +438,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006517.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "biological",
+            "rhythm"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "affective",
+            "disorder"
+      ],
+      "id": "NCT00006517"
 }

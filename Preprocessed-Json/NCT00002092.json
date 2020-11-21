@@ -44,14 +44,13 @@
             "patient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cimetidine"
+            "Cimetidine"
       ],
       "criteria": [
             "inclusion",
@@ -212,12 +211,21 @@
             "nizatidine",
             "axid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cimetidine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002092"
 }

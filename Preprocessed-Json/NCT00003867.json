@@ -139,15 +139,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "capecitabine",
+            "irinotecan hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -276,12 +275,19 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003867.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003867"
 }

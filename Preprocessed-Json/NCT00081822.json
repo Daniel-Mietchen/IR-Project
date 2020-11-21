@@ -234,7 +234,6 @@
             "intracellular",
             "day",
             "3",
-            "bone",
             "marrow",
             "apoptosis",
             "analysis",
@@ -242,7 +241,6 @@
             "intracellular",
             "day",
             "6",
-            "pk",
             "analysis",
             "clofarabine",
             "plasma",
@@ -257,7 +255,6 @@
             "therapy",
             "day",
             "15",
-            "qol",
             "analysis",
             "day",
             "restaging",
@@ -296,7 +293,6 @@
             "remission",
             "induction",
             "day",
-            "5",
             "day",
             "cycle",
             "aggressive",
@@ -350,7 +346,6 @@
             "must",
             "anc",
             "platelet",
-            "5",
             "day",
             "cycle",
             "aggressive",
@@ -410,15 +405,48 @@
             "thereafter"
       ],
       "condition": [
-            "acute",
             "myeloid",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "clofarabine",
+            "Ara-C"
+      ],
       "description": [
+            "clofarabine",
+            "administer",
+            "daily",
+            "intravenous",
+            "infusion",
+            "2",
+            "demonstration",
+            "dlt",
+            "dose",
+            "level",
+            "day",
+            "demonstration",
+            "dose",
+            "level",
+            "day",
+            "phase",
+            "ii",
+            "dose",
+            "additional",
+            "dose",
+            "level",
+            "day",
+            "add",
+            "explore",
+            "increase",
+            "dose",
+            "clofarabine",
+            "intermediate",
+            "dose",
+            "level",
             "administer",
             "continuous",
             "infusion",
@@ -434,11 +462,10 @@
             "2",
             "3"
       ],
-      "arm_group_label": [
-            "clofarabine"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "arabinosyl"
+            "tm",
+            "arabinoside"
       ],
       "criteria": [
             "inclusion",
@@ -700,12 +727,22 @@
             "carcinoma",
             "skin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00081822"
 }

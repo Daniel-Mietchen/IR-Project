@@ -141,13 +141,17 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "toxicity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amifostine trihydrate",
+            "cisplatin",
             "docetaxel"
       ],
       "criteria": [
@@ -269,12 +273,19 @@
             "renal",
             "injury"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004264.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00004264"
 }

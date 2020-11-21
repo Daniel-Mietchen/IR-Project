@@ -465,7 +465,6 @@
             "cohort"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "criteria": [
@@ -565,12 +564,21 @@
             "use",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001248.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mri",
+            "magnetic",
+            "resonance",
+            "image"
+      ],
+      "mesh_term": [
+            "sclerosis"
+      ],
+      "id": "NCT00001248"
 }

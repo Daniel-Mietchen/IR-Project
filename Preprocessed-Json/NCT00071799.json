@@ -154,21 +154,62 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "physician",
-            "choice"
+            "Azacitidine",
+            "Physician Choice"
       ],
       "description": [
-            "physician",
+            "inject",
+            "subcutaneously",
+            "sc",
+            "initial",
+            "dose",
+            "7",
+            "day",
+            "dose",
+            "repeat",
+            "every",
+            "28",
+            "day",
+            "dose",
+            "adjustment",
+            "base",
+            "predefined",
+            "hematology",
+            "renal",
+            "laboratory",
+            "result",
+            "number",
+            "cycle",
+            "azacitidine",
+            "treatment",
+            "continue",
+            "end",
+            "study",
+            "unless",
+            "treatment",
+            "discontinue",
+            "due",
+            "unacceptable",
+            "toxicity",
+            "relapse",
+            "complete",
+            "partial",
+            "response",
+            "transformation",
+            "aml",
+            "disease",
+            "progression",
             "choice",
             "one",
             "three",
             "option",
-            "best",
             "supportive",
             "care",
             "bsc",
@@ -181,7 +222,6 @@
             "28",
             "42",
             "day",
-            "standard",
             "chemotherapy",
             "administer",
             "induction",
@@ -234,12 +274,9 @@
             "care"
       ],
       "arm_group_label": [
-            "conventional",
             "care"
       ],
-      "other_name": [
-            "anthracycline"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -427,12 +464,15 @@
             "vitamin",
             "deficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071799.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00071799"
 }

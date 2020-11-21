@@ -173,15 +173,14 @@
             "2",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "imatinib mesylate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -267,7 +266,6 @@
             "hemoglobin",
             "9",
             "note",
-            "transfusion",
             "allow",
             "hepatic",
             "sgot",
@@ -452,12 +450,21 @@
             "kinase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085475.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "malignant",
+            "fibrous",
+            "histiocytoma"
+      ],
+      "mesh_term": [
+            "mesylate"
+      ],
+      "id": "NCT00085475"
 }

@@ -163,14 +163,29 @@
             "transplantation"
       ],
       "condition": [
-            "lymphoma"
+            "versus",
+            "host",
+            "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "methylprednisolone",
+            "allogeneic bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -394,12 +409,29 @@
             "body",
             "irradiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006451.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "versus",
+            "host",
+            "disease"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease",
+            "serum",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00006451"
 }

@@ -71,17 +71,20 @@
             "center"
       ],
       "condition": [
-            "cancer"
+            "kidney",
+            "disease",
+            "renal",
+            "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Placebo",
             "peginesatide"
       ],
-      "arm_group_label": [
-            "peginesatide"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "injection"
       ],
@@ -126,9 +129,7 @@
             "iron",
             "store"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -137,6 +138,20 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097747.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "red",
+            "blood",
+            "cell",
+            "production"
+      ],
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "chronic",
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00097747"
 }

@@ -197,13 +197,18 @@
             "injection"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Aluminum hydroxide",
+            "QS-21",
+            "rgp120/HIV-1MN"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -389,7 +394,7 @@
             "sexual",
             "behavior"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -398,6 +403,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001044.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide",
+            "21"
+      ],
+      "id": "NCT00001044"
 }

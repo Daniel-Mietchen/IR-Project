@@ -414,7 +414,9 @@
             "sample"
       ],
       "condition": [
-            "cervical",
+            "cell",
+            "carcinoma",
+            "carcinoma",
             "carcinoma"
       ],
       "criteria": [
@@ -565,7 +567,7 @@
             "may",
             "enroll"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -574,6 +576,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026663.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "cancer",
+            "cell"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00026663"
 }

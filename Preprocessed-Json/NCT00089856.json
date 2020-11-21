@@ -36,25 +36,24 @@
             "past"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "chemotherapy",
-            "taxotere",
-            "prednisone"
+            "Immunotherapy with allogeneic prostate vaccine",
+            "Chemotherapy (Taxotere and prednisone)"
       ],
       "description": [
-            "chemotherapy",
+            "allogeneic",
+            "prostate",
+            "vaccine",
             "taxotere",
             "prednisone"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -96,14 +95,20 @@
             "relate",
             "pain"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089856.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00089856"
 }

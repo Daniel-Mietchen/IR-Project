@@ -74,7 +74,6 @@
             "enrol"
       ],
       "condition": [
-            "glycogen",
             "storage",
             "disease",
             "type",
@@ -298,12 +297,24 @@
             "course",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077662.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "glycogenosis",
+            "2"
+      ],
+      "mesh_term": [
+            "storage",
+            "disease",
+            "type",
+            "ii",
+            "storage",
+            "disease"
+      ],
+      "id": "NCT00077662"
 }

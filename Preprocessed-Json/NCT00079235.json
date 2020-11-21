@@ -150,27 +150,35 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -379,12 +387,16 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079235.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00079235"
 }

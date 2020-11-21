@@ -159,27 +159,64 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "peritoneal",
+            "carcinoma",
+            "ovarian",
+            "carcinoma",
             "iv",
             "ovarian",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "Bevacizumab",
+            "Cyclophosphamide",
+            "Laboratory Biomarker Analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "cyclophosphamide",
+            "bevacizumab",
+            "cyclophosphamide",
             "bevacizumab",
             "cyclophosphamide"
       ],
       "other_name": [
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "rhumab",
+            "biosimilar",
+            "biosimilar",
+            "bi",
+            "695502",
+            "monoclonal",
+            "vascular",
+            "endothelial",
+            "growth",
+            "factor",
+            "disulfide",
+            "monoclonal",
+            "light",
+            "chain",
+            "dimer",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "bi",
+            "amino",
+            "monohydrate",
+            "monohydrate",
+            "monohydrate",
             "138719"
       ],
       "criteria": [
@@ -477,11 +514,16 @@
             "platelet",
             "function"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072566.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "growth",
+            "factor",
+            "monoclonal",
+            "g"
+      ],
+      "id": "NCT00072566"
 }

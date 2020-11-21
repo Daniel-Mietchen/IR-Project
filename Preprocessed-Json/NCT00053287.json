@@ -208,17 +208,40 @@
             "study"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "carboplatin",
+            "fludarabine phosphate",
+            "thalidomide",
+            "topotecan hydrochloride"
       ],
       "description": [
-            "topotecan",
+            "iv",
+            "24",
+            "hour",
+            "day",
+            "iv",
+            "minute",
+            "day",
+            "thalidomide",
+            "daily",
+            "begin",
+            "within",
+            "day",
+            "continue",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "iv",
             "continuously",
             "72",
@@ -481,12 +504,30 @@
             "allow",
             "md"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053287.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "disorder",
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00053287"
 }

@@ -277,18 +277,18 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "brachytherapy",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "brachytherapy",
+            "radiation",
             "radiation"
       ],
       "criteria": [
@@ -507,14 +507,20 @@
             "cancer",
             "treatment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032006.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00032006"
 }

@@ -415,7 +415,11 @@
             "generate"
       ],
       "condition": [
-            "vascular",
+            "system",
+            "disease",
+            "ischemic",
+            "attack",
+            "disorder",
             "disease"
       ],
       "criteria": [
@@ -518,12 +522,22 @@
             "removal",
             "scanner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009243.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tia"
+      ],
+      "mesh_term": [
+            "disease",
+            "system",
+            "disease",
+            "attack",
+            "transient"
+      ],
+      "id": "NCT00009243"
 }

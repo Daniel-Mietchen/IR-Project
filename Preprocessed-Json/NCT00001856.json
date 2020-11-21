@@ -139,7 +139,6 @@
             "purpose"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "criteria": [
@@ -228,12 +227,15 @@
             "proteinuria",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001856.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nephrectomy"
+      ],
+      "id": "NCT00001856"
 }

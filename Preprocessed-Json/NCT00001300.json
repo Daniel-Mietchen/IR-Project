@@ -104,13 +104,15 @@
             "randomize",
             "trial"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "doxorubicin",
+            "ifosfamide",
             "mesna"
       ],
       "criteria": [
@@ -332,9 +334,18 @@
             "influenza",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001300.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00001300"
 }

@@ -344,15 +344,17 @@
             "test"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "iv",
-            "apomorphine"
+            "JP 1730",
+            "IV Levodopa",
+            "IV Apomorphine"
       ],
       "criteria": [
             "inclusion",
@@ -569,9 +571,16 @@
             "protocol",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040209.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pd"
+      ],
+      "mesh_term": [
+            "disease",
+            "antagonist"
+      ],
+      "id": "NCT00040209"
 }

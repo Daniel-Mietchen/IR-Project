@@ -188,15 +188,17 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "dactinomycin",
+            "vincristine sulfate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -250,12 +252,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003804.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "wilms",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tumor"
+      ],
+      "id": "NCT00003804"
 }

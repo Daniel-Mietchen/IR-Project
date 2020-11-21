@@ -195,14 +195,15 @@
             "study"
       ],
       "condition": [
-            "diarrhea"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "octreotide",
-            "acetate"
+            "irinotecan hydrochloride",
+            "octreotide acetate"
       ],
       "criteria": [
             "disease",
@@ -435,12 +436,18 @@
             "antiepileptic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006269.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diarrhea"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006269"
 }

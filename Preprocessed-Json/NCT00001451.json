@@ -250,9 +250,7 @@
             "expedite",
             "evaluation"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -298,7 +296,7 @@
             "patient",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -307,6 +305,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001451.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "id": "NCT00001451"
 }

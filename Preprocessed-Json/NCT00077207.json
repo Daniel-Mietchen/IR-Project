@@ -185,31 +185,43 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "carboplatin",
+            "temozolomide",
+            "vincristine sulfate"
       ],
       "description": [
-            "give",
+            "iv",
+            "orally",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "carboplatin",
+            "vincristine",
+            "sulfate",
+            "temozolomide",
+            "carboplatin",
+            "vincristine",
+            "sulfate",
+            "temozolomide",
             "carboplatin",
             "vincristine",
             "sulfate",
             "temozolomide"
       ],
       "other_name": [
-            "nsc",
+            "241240",
+            "362856",
             "67574"
       ],
       "criteria": [
@@ -373,12 +385,24 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "10",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077207.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00077207"
 }

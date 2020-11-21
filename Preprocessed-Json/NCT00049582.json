@@ -144,27 +144,78 @@
             "month"
       ],
       "condition": [
-            "untreated",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "chronic",
+            "myeloid",
+            "leukemia",
+            "negative",
+            "novo",
+            "myelodysplastic",
+            "syndrome",
+            "neoplasm",
+            "unclassifiable",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "myelodysplastic",
+            "syndrome",
             "adult",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "decitabine",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "decitabine",
+            "decitabine",
             "decitabine"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -378,12 +429,28 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049582.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "metastasis",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "disorder",
+            "disease",
+            "myeloid",
+            "chronic",
+            "atypical",
+            "negative"
+      ],
+      "id": "NCT00049582"
 }

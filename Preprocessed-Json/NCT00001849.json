@@ -251,13 +251,18 @@
             "instead"
       ],
       "condition": [
-            "cushing",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Pentetreotide",
+            "18-F-fluorodeoxyglucose",
+            "(18F)-L-3,4-dihydroxyophenylalanine (18F-DOPA)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -453,7 +458,7 @@
             "pituitary",
             "mri"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -462,6 +467,16 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001849.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ectopic",
+            "cushing",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "complex",
+            "premature",
+            "syndrome"
+      ],
+      "id": "NCT00001849"
 }

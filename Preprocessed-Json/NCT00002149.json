@@ -167,14 +167,17 @@
             "12"
       ],
       "condition": [
-            "sinusitis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amoxicillin",
-            "trihydrate"
+            "Clavulanate potassium",
+            "Pseudoephedrine hydrochloride",
+            "Amoxicillin trihydrate"
       ],
       "criteria": [
             "inclusion",
@@ -273,7 +276,7 @@
             "study",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -282,6 +285,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002149.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clavulanate",
+            "combination"
+      ],
+      "mesh_term": [
+            "infection",
+            "acid",
+            "clavulanate",
+            "combination",
+            "acid"
+      ],
+      "id": "NCT00002149"
 }

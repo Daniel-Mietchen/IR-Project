@@ -29,20 +29,33 @@
             "patient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "protease",
-            "inhibitor",
-            "cpi"
+            "Tipranavir",
+            "Ritonavir(r)",
+            "Comparator Protease Inhibitor (CPI)"
       ],
       "arm_group_label": [
-            "comparator",
+            "tpv",
+            "dose",
+            "ritonavir",
+            "r",
+            "tpv",
+            "dose",
+            "ritonavir",
+            "r",
+            "protease",
+            "inhibitor",
+            "cpi",
+            "dose",
+            "ritonavir",
+            "r",
             "protease",
             "inhibitor",
             "cpi",
@@ -203,12 +216,18 @@
             "screen",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054717.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00054717"
 }

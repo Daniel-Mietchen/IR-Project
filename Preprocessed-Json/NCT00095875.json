@@ -301,26 +301,31 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "cisplatin",
+            "docetaxel",
             "fluorouracil"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm"
+            "ii"
       ],
-      "other_name": [
-            "efudex"
-      ],
+      "other_name": [],
       "criteria": [
             "list",
             "inclusion",
@@ -335,7 +340,6 @@
             "neck",
             "stage",
             "iii",
-            "iv",
             "disease",
             "one",
             "follow",
@@ -582,12 +586,24 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095875.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00095875"
 }

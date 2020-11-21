@@ -177,18 +177,43 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "filgrastim",
+            "gemcitabine hydrochloride",
+            "vinorelbine tartrate"
       ],
       "description": [
-            "give",
+            "mouth",
+            "iv",
+            "5",
+            "10",
+            "daily",
+            "start",
+            "day",
+            "9",
+            "minimum",
+            "7",
+            "day",
+            "anc",
+            "greater",
+            "equal",
+            "iv",
+            "100",
+            "minute",
+            "dose",
+            "1000",
+            "500",
+            "ml",
+            "n",
+            "day",
+            "1",
+            "8",
             "iv",
             "minute",
             "central",
@@ -200,11 +225,11 @@
             "1",
             "8"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "nsc",
+            "factor",
+            "614629",
+            "613327",
             "608210"
       ],
       "criteria": [
@@ -213,7 +238,6 @@
             "histologically",
             "confirm",
             "hodgkin",
-            "lymphoma",
             "follow",
             "histology",
             "otherwise",
@@ -248,7 +272,6 @@
             "lymphocytic",
             "depletion",
             "note",
-            "disease",
             "metastatic",
             "bone",
             "marrow",
@@ -516,12 +539,22 @@
             "drug",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070304.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "mix",
+            "cellularity",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00070304"
 }

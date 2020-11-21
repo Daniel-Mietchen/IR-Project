@@ -121,9 +121,7 @@
             "patient",
             "receive",
             "fludarabine",
-            "iv",
             "cyclophosphamide",
-            "iv",
             "day",
             "arm",
             "ii",
@@ -134,9 +132,7 @@
             "day",
             "1",
             "fludarabine",
-            "iv",
             "cyclophosphamide",
-            "iv",
             "day",
             "note",
             "arm",
@@ -168,15 +164,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "rituximab",
+            "cyclophosphamide",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -223,7 +220,6 @@
             "c",
             "negative",
             "note",
-            "unless",
             "relate",
             "lymphoma",
             "renal",
@@ -231,7 +227,6 @@
             "greater",
             "time",
             "note",
-            "unless",
             "relate",
             "lymphoma",
             "malignancy",
@@ -303,12 +298,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00053092"
 }

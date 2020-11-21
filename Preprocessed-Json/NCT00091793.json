@@ -33,17 +33,27 @@
             "population"
       ],
       "condition": [
-            "postmenopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "AMG 162",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "denosumab",
+            "give",
+            "day",
+            "1",
+            "month",
+            "6",
+            "month",
+            "12",
+            "month",
+            "18",
             "give",
             "day",
             "1",
@@ -55,7 +65,7 @@
             "18"
       ],
       "arm_group_label": [
-            "placebo"
+            "162"
       ],
       "criteria": [
             "eligibility",
@@ -69,14 +79,18 @@
             "mineral",
             "density"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091793.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "postmenopausal"
+      ],
+      "mesh_term": [
+            "postmenopausal"
+      ],
+      "id": "NCT00091793"
 }

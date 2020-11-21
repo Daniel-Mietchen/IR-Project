@@ -341,14 +341,13 @@
             "ass"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "replagal"
+            "Replagal"
       ],
       "criteria": [
             "inclusion",
@@ -542,11 +541,15 @@
             "unsuitable",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075244.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00075244"
 }

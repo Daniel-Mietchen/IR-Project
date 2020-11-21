@@ -43,18 +43,18 @@
             "intravenous",
             "agent"
       ],
-      "condition": [
-            "fever"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "ambisome"
+            "caspofungin acetate",
+            "Comparator: AmBisome"
       ],
       "description": [
-            "duration",
+            "treatment",
+            "day",
             "treatment",
             "day"
       ],
@@ -80,7 +80,7 @@
             "antibiotic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -89,6 +89,11 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082537.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00082537"
 }

@@ -227,33 +227,63 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "optional",
+            "iv",
+            "iv",
+            "iv",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "group",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
+            "ii",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
+            "ii",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
+            "ii",
+            "bortezomib",
+            "paclitaxel",
+            "carboplatin",
+            "paclitaxel",
+            "carboplatin",
+            "bortezomib",
             "ii",
             "bortezomib",
             "paclitaxel",
             "carboplatin"
       ],
       "other_name": [
-            "paraplatin"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -408,12 +438,16 @@
             "therapeutic",
             "intent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028587.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "paclitaxel",
+            "inhibitor"
+      ],
+      "id": "NCT00028587"
 }

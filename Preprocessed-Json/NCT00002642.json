@@ -167,19 +167,53 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "gamma",
-            "ray",
-            "therapy"
+            "cisplatin",
+            "etoposide",
+            "conventional surgery",
+            "low-LET cobalt-60 gamma ray therapy"
       ],
       "description": [
-            "180",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "two",
+            "28",
+            "day",
+            "cycle",
+            "prior",
+            "surgery",
+            "two",
+            "28",
+            "day",
+            "cycle",
+            "surgery",
+            "iv",
+            "day",
+            "two",
+            "28",
+            "day",
+            "cycle",
+            "prior",
+            "surgery",
+            "two",
+            "28",
+            "day",
+            "cycle",
+            "surgery",
+            "time",
+            "week",
+            "9",
+            "12",
             "cgy",
             "per",
             "day",
@@ -189,13 +223,16 @@
             "week"
       ],
       "arm_group_label": [
-            "chemoradiotherapy",
+            "follow",
+            "surgery",
+            "follow",
+            "surgery",
+            "follow",
+            "surgery",
             "follow",
             "surgery"
       ],
-      "other_name": [
-            "rt"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -570,12 +607,22 @@
             "stag",
             "purpose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00002642"
 }

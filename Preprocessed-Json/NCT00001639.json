@@ -227,7 +227,8 @@
             "technique"
       ],
       "condition": [
-            "microcephaly"
+            "thrive",
+            "retardation"
       ],
       "criteria": [
             "physical",
@@ -341,9 +342,18 @@
             "enrol",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001639.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mental",
+            "retardation"
+      ],
+      "mesh_term": [
+            "abnormality",
+            "disability",
+            "thrive"
+      ],
+      "id": "NCT00001639"
 }

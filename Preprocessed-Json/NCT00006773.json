@@ -144,27 +144,33 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "astrocytoma",
+            "anaplastic",
+            "oligodendroglioma",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
+            "gliosarcoma",
             "adult",
             "brain",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "bortezomib"
       ],
       "other_name": [
-            "velcade"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -284,12 +290,13 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006773.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00006773"
 }

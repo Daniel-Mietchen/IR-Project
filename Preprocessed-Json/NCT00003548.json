@@ -165,16 +165,12 @@
             "18",
             "month"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aminocamptothecin",
-            "colloidal",
-            "dispersion"
+            "aminocamptothecin colloidal dispersion"
       ],
       "criteria": [
             "disease",
@@ -325,12 +321,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003548.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "id": "NCT00003548"
 }

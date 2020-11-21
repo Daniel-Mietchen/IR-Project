@@ -376,7 +376,6 @@
             "palsy"
       ],
       "condition": [
-            "diplegia",
             "spastic"
       ],
       "criteria": [
@@ -664,9 +663,17 @@
             "schizencephaly",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024791.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "spasticity",
+            "palsy"
+      ],
+      "id": "NCT00024791"
 }

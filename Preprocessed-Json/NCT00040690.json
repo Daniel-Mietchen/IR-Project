@@ -426,15 +426,30 @@
             "approximately",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "cytarabine",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "leucovorin calcium",
+            "methotrexate",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -584,12 +599,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040690.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "adult",
+            "burkitt",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoma",
+            "doxorubicin"
+      ],
+      "id": "NCT00040690"
 }

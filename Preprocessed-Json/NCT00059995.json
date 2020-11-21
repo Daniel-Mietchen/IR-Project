@@ -132,11 +132,9 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "iratumumab"
@@ -245,7 +243,6 @@
             "hemoglobin",
             "least",
             "note",
-            "laboratory",
             "abnormality",
             "attributable",
             "organ",
@@ -277,7 +274,6 @@
             "antibody",
             "negative",
             "note",
-            "laboratory",
             "abnormality",
             "attributable",
             "organ",
@@ -289,9 +285,7 @@
             "greater",
             "2",
             "time",
-            "uln",
             "note",
-            "laboratory",
             "abnormality",
             "attributable",
             "organ",
@@ -417,12 +411,18 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059995.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cutaneous",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00059995"
 }

@@ -243,18 +243,35 @@
             "clearance"
       ],
       "condition": [
-            "chronic",
+            "transplantation",
             "allograft",
             "nephropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "tacrolimus"
+            "Cyclosporine",
+            "Anti-human thymocyte globulin (rabbit)",
+            "Tacrolimus"
       ],
       "arm_group_label": [
-            "standard",
+            "plus",
+            "delay",
+            "cyclosporine",
+            "therapy",
+            "cyclosporine",
+            "therapy",
+            "plus",
+            "delay",
+            "cyclosporine",
+            "therapy",
+            "plus",
+            "delay",
+            "cyclosporine",
+            "therapy",
             "cyclosporine",
             "therapy"
       ],
@@ -344,12 +361,13 @@
             "protein",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007787.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00007787"
 }

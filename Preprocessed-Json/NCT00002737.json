@@ -151,13 +151,16 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
+            "chemotherapy",
             "isotretinoin"
       ],
       "criteria": [
@@ -365,7 +368,7 @@
             "hepatotoxic",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -374,6 +377,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002737.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00002737"
 }

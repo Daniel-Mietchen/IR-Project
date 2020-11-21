@@ -96,13 +96,15 @@
             "study"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "capecitabine"
@@ -227,11 +229,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004012.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00004012"
 }

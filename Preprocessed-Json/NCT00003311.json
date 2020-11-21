@@ -207,18 +207,30 @@
             "4",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "methotrexate",
+            "vincristine sulfate"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "b",
+            "b",
+            "b",
             "b"
       ],
       "criteria": [
@@ -336,12 +348,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003311.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "acetate",
+            "doxorubicin",
+            "1101"
+      ],
+      "id": "NCT00003311"
 }

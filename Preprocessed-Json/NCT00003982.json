@@ -152,7 +152,9 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "germ",
+            "cell",
+            "tumor",
             "adult",
             "solid",
             "tumor",
@@ -160,7 +162,7 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "sabarubicin"
@@ -308,12 +310,26 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003982.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "testicular",
+            "embryonal",
+            "carcinoma",
+            "yolk",
+            "sac",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00003982"
 }

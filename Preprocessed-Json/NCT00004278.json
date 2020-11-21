@@ -69,11 +69,10 @@
             "possible"
       ],
       "condition": [
-            "cytomegalovirus",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ganciclovir"
@@ -170,12 +169,21 @@
             "symptom",
             "persist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004278.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "triphosphate"
+      ],
+      "id": "NCT00004278"
 }

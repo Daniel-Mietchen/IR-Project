@@ -60,14 +60,15 @@
             "treatment"
       ],
       "condition": [
-            "memory",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "class"
+            "donepezil",
+            "Memory-training class"
       ],
       "criteria": [
             "inclusion",
@@ -432,7 +433,7 @@
             "approve",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -441,6 +442,12 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043589.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "memory"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00043589"
 }

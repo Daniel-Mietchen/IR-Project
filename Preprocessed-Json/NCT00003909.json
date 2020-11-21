@@ -177,26 +177,33 @@
             "year"
       ],
       "condition": [
-            "untreated",
             "childhood",
             "brain",
             "stem",
             "glioma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "motexafin gadolinium",
+            "radiation therapy",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "radiation",
+            "therapy",
             "study"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "pharmacological",
+            "texaphyrin",
+            "iii",
+            "texaphryin",
+            "radiation",
             "study"
       ],
       "criteria": [
@@ -304,12 +311,15 @@
             "experimental",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003909.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "gadolinium"
+      ],
+      "id": "NCT00003909"
 }

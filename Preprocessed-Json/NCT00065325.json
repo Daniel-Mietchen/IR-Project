@@ -48,23 +48,25 @@
             "first"
       ],
       "condition": [
-            "metastatic",
+            "advance",
+            "breast",
+            "cancer",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "exemestane"
+            "Fulvestrant",
+            "Exemestane"
       ],
       "description": [
-            "oral",
+            "injection",
             "capsule"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -143,9 +145,7 @@
             "oil",
             "mannitol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "32",
             "year"
@@ -154,6 +154,13 @@
             "91",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065325.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer",
+            "breast"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00065325"
 }

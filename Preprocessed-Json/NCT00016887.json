@@ -377,15 +377,32 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "recombinant interferon alfa",
+            "carmustine",
+            "cyclophosphamide",
+            "cytarabine",
+            "dexamethasone",
+            "etoposide",
+            "melphalan",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -494,7 +511,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -503,6 +520,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016887.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00016887"
 }

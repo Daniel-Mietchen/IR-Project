@@ -212,30 +212,45 @@
             "month"
       ],
       "condition": [
-            "localize",
+            "primary",
+            "hepatocellular",
+            "carcinoma",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
             "unresectable",
             "adult",
             "primary",
             "liver",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "thalidomide",
+            "doxorubicin hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "transarterially",
+            "chemoembolization",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
+            "chemoembolization",
+            "thalidomide",
+            "chemoembolization",
             "thalidomide",
             "chemoembolization"
       ],
       "other_name": [
-            "adriamycin",
+            "pfs",
             "rdf"
       ],
       "criteria": [
@@ -392,12 +407,17 @@
             "barbiturate",
             "alcohol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006016.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00006016"
 }

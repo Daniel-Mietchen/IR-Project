@@ -206,15 +206,14 @@
             "46"
       ],
       "condition": [
-            "giant",
             "cell",
             "arteritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "infliximab"
+            "Infliximab"
       ],
       "criteria": [
             "inclusion",
@@ -255,12 +254,20 @@
             "initiation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076726.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "infliximab"
+      ],
+      "mesh_term": [
+            "cell",
+            "arteritis",
+            "rheumatica"
+      ],
+      "id": "NCT00076726"
 }

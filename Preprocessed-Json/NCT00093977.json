@@ -32,25 +32,21 @@
             "profile"
       ],
       "condition": [
-            "chronic",
+            "disease",
             "kidney",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "darbepoetin",
-            "alfa",
-            "sf"
+            "darbepoetin alfa SF"
       ],
       "description": [
-            "frequency",
             "dose",
             "depend",
             "frequency",
             "randomization",
-            "rhuepo",
             "qw",
             "darbepoetin",
             "alfa",
@@ -96,7 +92,6 @@
             "maintain"
       ],
       "arm_group_label": [
-            "darbepoetin",
             "alfa",
             "sf"
       ],
@@ -121,12 +116,21 @@
             "clinically",
             "stable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nephrology"
+      ],
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "chronic",
+            "alfa"
+      ],
+      "id": "NCT00093977"
 }

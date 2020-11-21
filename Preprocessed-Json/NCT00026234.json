@@ -174,28 +174,43 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "rectum",
+            "metastasis",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "floxuridine",
+            "dexamethasone",
+            "oxaliplatin",
             "capecitabine"
       ],
       "description": [
-            "give",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
-      "other_name": [
-            "xeloda"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -404,9 +419,15 @@
             "sorivudine",
             "brivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026234.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00026234"
 }

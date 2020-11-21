@@ -304,14 +304,20 @@
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "cytarabine",
+            "mercaptopurine",
+            "laboratory biomarker analysis",
+            "allogeneic bone marrow transplantation",
+            "biopsy",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -422,12 +428,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00047268.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelomonocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00047268"
 }

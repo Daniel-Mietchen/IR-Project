@@ -162,30 +162,31 @@
             "study"
       ],
       "condition": [
-            "endometrial",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "placebo"
+            "Genistein",
+            "Placebo"
       ],
       "description": [
-            "oral",
+            "genistein",
+            "twice",
+            "daily",
+            "day",
             "placebo",
             "twice",
             "daily",
             "day"
       ],
       "arm_group_label": [
-            "arm",
             "ii"
       ],
-      "other_name": [
-            "pti"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -434,9 +435,7 @@
             "prior",
             "antibiotic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -445,6 +444,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099008.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "endometrial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00099008"
 }

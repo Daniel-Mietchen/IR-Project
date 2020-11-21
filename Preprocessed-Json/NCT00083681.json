@@ -172,13 +172,24 @@
             "patient"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Thalidomide",
+            "Dexamethasone",
+            "Cytoxan",
+            "Etoposide",
+            "Cisplatin",
+            "G-CSF"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -367,12 +378,23 @@
             "permit",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083681.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "relapse"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "phosphate",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00083681"
 }

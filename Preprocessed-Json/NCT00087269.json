@@ -216,24 +216,46 @@
             "registration"
       ],
       "condition": [
-            "stage",
+            "ia",
+            "cell",
+            "lung",
+            "cancer",
+            "ib",
+            "cell",
+            "lung",
+            "cancer",
+            "iia",
+            "cell",
+            "lung",
+            "cancer",
+            "iib",
+            "cell",
+            "lung",
+            "cancer",
             "iiia",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "therapeutic endoscopic surgery",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "surgical",
+            "resection",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "erlotinib",
             "erlotinib"
       ],
       "other_name": [],
@@ -491,12 +513,17 @@
             "clearance",
             "20"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087269.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "hydrochloride"
+      ],
+      "id": "NCT00087269"
 }

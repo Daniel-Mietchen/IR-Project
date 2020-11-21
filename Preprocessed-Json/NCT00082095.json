@@ -118,17 +118,33 @@
             "study"
       ],
       "condition": [
-            "metastatic",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine"
+            "Pegylated liposomal doxorubicin",
+            "Capecitabine"
       ],
       "description": [
+            "number",
+            "pegylated",
+            "liposomal",
+            "doxorubicin",
+            "administer",
+            "day",
+            "1",
+            "cycle",
+            "cycle",
+            "repeat",
+            "every",
+            "28",
+            "day",
+            "1",
+            "year",
             "number",
             "capecitabine",
             "administer",
@@ -151,13 +167,12 @@
             "year"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "doxorubicin",
             "2",
             "capecitabine"
       ],
-      "other_name": [
-            "xeloda"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -268,14 +283,19 @@
             "therapy",
             "completion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082095.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "xeloda"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00082095"
 }

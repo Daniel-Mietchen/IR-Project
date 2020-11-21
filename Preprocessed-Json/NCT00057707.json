@@ -189,18 +189,19 @@
             "study"
       ],
       "condition": [
-            "schizoaffective",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neuropsychological",
-            "test"
+            "Modafinil",
+            "Functional MRI",
+            "Neuropsychological Testing"
       ],
       "description": [
-            "placebo",
             "1",
             "1",
             "week",
@@ -336,7 +337,7 @@
             "neuropsychiatric",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -345,6 +346,12 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057707.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00057707"
 }

@@ -158,7 +158,6 @@
             "dose"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -166,21 +165,27 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alvocidib",
+            "irinotecan hydrochloride",
             "cisplatin"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "other_name": [
-            "ddp"
+            "1275"
       ],
       "criteria": [
             "inclusion",
@@ -335,12 +340,13 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046917.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00046917"
 }

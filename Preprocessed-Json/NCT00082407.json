@@ -34,21 +34,31 @@
             "hemoglobin"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "biphasic",
-            "insulin",
-            "aspart"
+            "exenatide",
+            "biphasic insulin aspart"
       ],
       "description": [
-            "subcutaneous",
+            "injection",
+            "twice",
+            "daily",
+            "5",
+            "mcg",
+            "4",
+            "week",
+            "follow",
+            "10",
+            "mcg",
+            "48",
+            "week",
             "injection",
             "twice",
             "daily",
@@ -59,14 +69,12 @@
             "level"
       ],
       "arm_group_label": [
-            "biphasic",
+            "arm",
             "insulin",
             "aspart",
             "arm"
       ],
-      "other_name": [
-            "novolog"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -368,7 +376,7 @@
             "participate",
             "reason"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -377,6 +385,25 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082407.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "insulin",
+            "aspart"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "globin",
+            "zinc",
+            "degludec",
+            "insulin",
+            "aspart",
+            "drug",
+            "combination",
+            "insulin",
+            "aspart"
+      ],
+      "id": "NCT00082407"
 }

@@ -175,18 +175,20 @@
             "month",
             "thereafter"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "recombinant interleukin-12",
+            "etoposide",
             "ifosfamide"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -385,7 +387,7 @@
             "agent",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -394,6 +396,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003575.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "small",
+            "noncleaved",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003575"
 }

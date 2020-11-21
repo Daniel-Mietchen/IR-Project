@@ -179,17 +179,27 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Genetic",
+            "Genetic",
+            "Other",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "gene expression analysis",
+            "protein expression analysis",
+            "cytology specimen collection procedure",
+            "laboratory biomarker analysis",
+            "physiologic testing",
+            "breast duct lavage",
+            "endoscopic biopsy",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -305,9 +315,7 @@
             "lavage",
             "side"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -316,6 +324,13 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081003.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00081003"
 }

@@ -121,26 +121,20 @@
             "1",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valproic",
-            "acid"
+            "valproic acid"
       ],
       "description": [
-            "250",
             "mg",
             "mouth",
             "twice",
             "day"
       ],
-      "other_name": [
-            "depakene"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -220,7 +214,6 @@
             "uln",
             "albumin",
             "note",
-            "elevate",
             "total",
             "bilirubin",
             "secondary",
@@ -372,12 +365,20 @@
             "antiretroviral",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075777.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "acid"
+      ],
+      "id": "NCT00075777"
 }

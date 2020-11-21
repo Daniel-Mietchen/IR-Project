@@ -345,15 +345,13 @@
             "pet"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "label",
-            "water"
+            "15-O labeled water"
       ],
       "criteria": [
             "inclusion",
@@ -507,9 +505,15 @@
             "nurse",
             "mother"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014794.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "synovitis"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00014794"
 }

@@ -113,25 +113,30 @@
             "month"
       ],
       "condition": [
-            "sarcomatous",
+            "malignant",
+            "mesothelioma",
+            "mesothelioma",
+            "malignant",
+            "mesothelioma",
             "mesothelioma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
             "gefitinib"
       ],
       "other_name": [
-            "zd",
             "1839"
       ],
       "criteria": [
@@ -397,12 +402,15 @@
             "amiodarone",
             "chloroquine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025207.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00025207"
 }

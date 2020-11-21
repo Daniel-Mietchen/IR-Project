@@ -176,15 +176,21 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "pain",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "docetaxel",
+            "doxorubicin hydrochloride",
+            "pain therapy"
       ],
       "criteria": [
             "disease",
@@ -422,14 +428,19 @@
             "fever",
             "prophylaxis"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005960"
 }

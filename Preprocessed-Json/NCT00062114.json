@@ -152,20 +152,20 @@
             "2",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
+            "rituximab",
+            "yttrium Y 90 ibritumomab tiuxetan"
+      ],
+      "arm_group_label": [
             "yttrium",
             "90",
             "ibritumomab",
-            "tiuxetan"
-      ],
-      "arm_group_label": [
-            "rituximab",
+            "tiuxetan",
             "yttrium",
             "90",
             "ibritumomab",
@@ -588,12 +588,23 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062114.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00062114"
 }

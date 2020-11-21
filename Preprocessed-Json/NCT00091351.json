@@ -192,18 +192,17 @@
             "within",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "surgery",
             "surgery"
       ],
       "criteria": [
@@ -439,9 +438,7 @@
             "time",
             "uln",
             "albumin",
-            "normal",
             "note",
-            "higher",
             "level",
             "allow",
             "renal",
@@ -517,12 +514,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091351.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00091351"
 }

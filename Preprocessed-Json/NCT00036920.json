@@ -116,15 +116,13 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "canfosfamide",
-            "hydrochloride"
+            "canfosfamide hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -429,12 +427,22 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036920.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchoalveolar",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00036920"
 }

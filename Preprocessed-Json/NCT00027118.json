@@ -240,7 +240,7 @@
             "month"
       ],
       "condition": [
-            "fatigue"
+            "cancer"
       ],
       "criteria": [
             "inclusion",
@@ -326,7 +326,7 @@
             "age",
             "18"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -335,6 +335,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027118.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00027118"
 }

@@ -177,22 +177,27 @@
             "study"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gemcitabine hydrochloride",
             "paclitaxel"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "paclitaxel",
             "paclitaxel"
       ],
-      "other_name": [
-            "taxol"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -360,12 +365,31 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022633.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00022633"
 }

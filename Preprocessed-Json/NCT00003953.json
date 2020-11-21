@@ -281,18 +281,92 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "CMF regimen",
+            "docetaxel",
+            "doxorubicin hydrochloride",
+            "tamoxifen citrate",
+            "autologous bone marrow transplantation",
+            "surgical procedure",
+            "radiation therapy"
       ],
       "description": [
-            "radiotherapy",
+            "administer",
+            "subcutaneously",
+            "day",
+            "2",
+            "week",
+            "course",
+            "ii",
+            "receive",
+            "cyclophosphamide",
+            "methotrexate",
+            "fluorouracil",
+            "cmf",
+            "4",
+            "course",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "43",
+            "57",
+            "71",
+            "iv",
+            "day",
+            "1",
+            "15",
+            "29",
+            "positive",
+            "estrogen",
+            "progesterone",
+            "receptor",
+            "receive",
+            "oral",
+            "tamoxifen",
+            "daily",
+            "5",
+            "year",
+            "iii",
+            "may",
+            "receive",
+            "high",
+            "dose",
+            "chemotherapy",
+            "stem",
+            "cell",
+            "support",
+            "21",
+            "day",
+            "follow",
+            "preoperative",
+            "chemotherapy",
+            "patient",
+            "undergo",
+            "radical",
+            "modify",
+            "radical",
+            "breast",
+            "spar",
+            "surgery",
+            "plus",
+            "axillary",
+            "lymph",
+            "node",
+            "dissection",
             "administer",
             "5",
             "day",
@@ -300,12 +374,16 @@
             "week"
       ],
       "arm_group_label": [
-            "doxorubicin",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
+            "docetaxel",
             "docetaxel"
       ],
-      "other_name": [
-            "fluorouracil"
-      ],
+      "other_name": [],
       "criteria": [
             "eligibility",
             "criterion",
@@ -559,14 +637,22 @@
             "bone",
             "marrow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003953.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiib",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003953"
 }

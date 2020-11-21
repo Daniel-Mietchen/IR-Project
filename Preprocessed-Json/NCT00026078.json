@@ -130,13 +130,14 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "docetaxel",
             "ifosfamide"
       ],
       "criteria": [
@@ -312,9 +313,7 @@
             "caffeine",
             "alcohol"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
@@ -323,6 +322,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026078.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "mustard"
+      ],
+      "id": "NCT00026078"
 }

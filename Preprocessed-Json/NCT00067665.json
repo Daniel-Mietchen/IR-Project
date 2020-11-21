@@ -19,13 +19,14 @@
             "study"
       ],
       "condition": [
-            "leave",
             "ventricular",
             "hypertrophy"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "ultrafiltration"
+            "Ultrafiltration"
       ],
       "description": [
             "patient",
@@ -87,9 +88,7 @@
             "dry",
             "weight"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "adult",
             "hypertension",
@@ -172,12 +171,19 @@
             "index",
             "40"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067665.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemodialysis"
+      ],
+      "mesh_term": [
+            "leave",
+            "ventricular"
+      ],
+      "id": "NCT00067665"
 }

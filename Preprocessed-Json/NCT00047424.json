@@ -200,25 +200,35 @@
             "patient"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease",
+            "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ace",
-            "inhibitor"
+            "simvastatin",
+            "ACE inhibitors"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047424.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "enzyme",
+            "inhibitor"
+      ],
+      "id": "NCT00047424"
 }

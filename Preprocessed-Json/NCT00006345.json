@@ -150,12 +150,14 @@
             "study"
       ],
       "condition": [
-            "lymphoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "denileukin diftitox",
             "dexamethasone"
       ],
       "criteria": [
@@ -235,10 +237,8 @@
             "interferon",
             "chemotherapy",
             "concurrent",
-            "chemotherapy",
             "concurrent",
             "extracorporeal",
-            "photochemotherapy",
             "concurrent",
             "systemic",
             "combination",
@@ -284,9 +284,7 @@
             "set",
             "concurrent",
             "topical",
-            "therapy",
             "concurrent",
-            "phototherapy",
             "concurrent",
             "cyclosporine",
             "concurrent",
@@ -296,12 +294,22 @@
             "induction",
             "ctcl"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006345.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "acetate",
+            "diftitox",
+            "1101"
+      ],
+      "id": "NCT00006345"
 }

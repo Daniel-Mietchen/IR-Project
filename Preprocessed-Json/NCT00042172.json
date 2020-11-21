@@ -134,16 +134,16 @@
             "brain"
       ],
       "condition": [
-            "alzheimer",
+            "disorder",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ginkgo",
-            "biloba",
-            "extract"
+            "Donepezil",
+            "Ginkgo Biloba Extract"
       ],
       "criteria": [
             "inclusion",
@@ -262,12 +262,19 @@
             "eye",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042172.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "memory"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder"
+      ],
+      "id": "NCT00042172"
 }

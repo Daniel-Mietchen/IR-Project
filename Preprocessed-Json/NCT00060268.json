@@ -148,18 +148,15 @@
             "study"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "hpph"
+            "HPPH"
       ],
-      "description": [
-            "iv"
-      ],
+      "description": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -338,12 +335,21 @@
             "diuretic",
             "griseofulvin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060268.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "esophageal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00060268"
 }

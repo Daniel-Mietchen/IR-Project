@@ -92,13 +92,14 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "TMC125"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -163,12 +164,20 @@
             "cutaneous",
             "event"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081978.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00081978"
 }

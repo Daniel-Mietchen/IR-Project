@@ -67,15 +67,13 @@
             "regimen"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -219,7 +217,7 @@
             "general",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -228,6 +226,14 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002197.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002197"
 }

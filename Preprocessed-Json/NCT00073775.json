@@ -219,7 +219,9 @@
             "population"
       ],
       "condition": [
-            "metabolic",
+            "disease",
+            "disease",
+            "resistance",
             "syndrome",
             "x"
       ],
@@ -234,7 +236,7 @@
             "community",
             "swell"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "70",
             "year"
@@ -243,6 +245,13 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073775.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "syndrome",
+            "x",
+            "resistance"
+      ],
+      "id": "NCT00073775"
 }

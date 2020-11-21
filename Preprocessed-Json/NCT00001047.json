@@ -114,14 +114,20 @@
             "date"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifabutin"
+            "Ethambutol hydrochloride",
+            "Clarithromycin",
+            "Clofazimine",
+            "Rifabutin"
       ],
       "criteria": [
             "inclusion",
@@ -218,12 +224,25 @@
             "drug",
             "fluconazole"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001047.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "clarithromycin"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00001047"
 }

@@ -228,7 +228,6 @@
             "test"
       ],
       "condition": [
-            "dystonic",
             "disorder"
       ],
       "criteria": [
@@ -261,9 +260,17 @@
             "one",
             "hour"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006336.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "braille",
+            "read",
+            "grade"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00006336"
 }

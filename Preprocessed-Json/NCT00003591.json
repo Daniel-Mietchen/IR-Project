@@ -189,18 +189,22 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "paclitaxel",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "pacilitaxel",
+            "external",
+            "beam",
+            "radiation",
+            "therapy",
+            "pxrt",
             "external",
             "beam",
             "radiation",
@@ -341,12 +345,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003591.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00003591"
 }

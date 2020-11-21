@@ -157,31 +157,50 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "tube",
+            "cancer",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bryostatin 1",
+            "cisplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bryostatin",
+            "1",
+            "cisplatin",
+            "bryostatin",
+            "1",
+            "cisplatin",
             "bryostatin",
             "1",
             "cisplatin"
       ],
-      "other_name": [
-            "ddp"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -403,12 +422,20 @@
             "exceed",
             "guideline"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006942.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "1"
+      ],
+      "id": "NCT00006942"
 }

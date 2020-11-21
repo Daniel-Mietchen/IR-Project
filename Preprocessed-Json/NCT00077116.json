@@ -321,15 +321,27 @@
             "month"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "busulfan",
+            "cyclophosphamide",
+            "cytarabine",
+            "gemtuzumab ozogamicin",
+            "idarubicin",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -526,7 +538,7 @@
             "clinical",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -535,6 +547,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077116.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00077116"
 }

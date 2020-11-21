@@ -106,11 +106,9 @@
             "18",
             "month"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "nelarabine"
@@ -276,12 +274,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006020.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid"
+      ],
+      "id": "NCT00006020"
 }

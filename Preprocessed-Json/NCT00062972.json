@@ -147,13 +147,14 @@
             "test"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "donepezil",
             "glucose"
       ],
       "criteria": [
@@ -253,7 +254,7 @@
             "cognitive",
             "assessment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -262,6 +263,14 @@
             "56",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062972.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "verbal",
+            "memory",
+            "deficit"
+      ],
+      "mesh_term": [
+            "sclerosis"
+      ],
+      "id": "NCT00062972"
 }

@@ -446,18 +446,13 @@
             "benefit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amprenavir",
-            "efavirenz",
-            "abacavir",
-            "nelfinavir",
-            "ritonavir"
+            "Amprenavir, Efavirenz, Abacavir, Nelfinavir, Ritonavir"
       ],
       "criteria": [
             "inclusion",
@@ -747,9 +742,15 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001766.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001766"
 }

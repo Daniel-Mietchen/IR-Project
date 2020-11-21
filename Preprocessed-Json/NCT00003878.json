@@ -143,7 +143,7 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -151,11 +151,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "polifeprosan 20 with carmustine implant",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -309,12 +310,20 @@
             "therapy",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003878.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00003878"
 }

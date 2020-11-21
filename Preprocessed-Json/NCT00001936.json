@@ -199,7 +199,7 @@
             "swallow"
       ],
       "condition": [
-            "healthy"
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -690,12 +690,19 @@
             "discretion",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001936.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "swallow",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001936"
 }

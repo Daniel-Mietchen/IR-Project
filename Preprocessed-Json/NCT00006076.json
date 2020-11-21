@@ -248,7 +248,6 @@
             "research"
       ],
       "condition": [
-            "tone",
             "deafness"
       ],
       "criteria": [
@@ -323,12 +322,21 @@
             "psychoactive",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006076.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "loss",
+            "perceptual",
+            "disorder"
+      ],
+      "id": "NCT00006076"
 }

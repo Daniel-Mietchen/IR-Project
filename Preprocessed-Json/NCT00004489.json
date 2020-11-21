@@ -126,13 +126,16 @@
             "record"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alendronate sodium",
+            "calcium carbonate",
             "cholecalciferol"
       ],
       "criteria": [
@@ -214,7 +217,7 @@
             "cystic",
             "fibrosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -223,6 +226,14 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "fibrosis",
+            "carbonate"
+      ],
+      "id": "NCT00004489"
 }

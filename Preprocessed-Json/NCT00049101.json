@@ -231,13 +231,18 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "erlotinib hydrochloride",
+            "fluorouracil",
+            "leucovorin calcium",
             "oxaliplatin"
       ],
       "criteria": [
@@ -611,12 +616,22 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049101.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00049101"
 }

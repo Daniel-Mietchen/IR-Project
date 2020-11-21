@@ -70,23 +70,30 @@
             "hyperglycemia"
       ],
       "condition": [
-            "diabetes",
+            "fibrosis",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "repaglinide"
+            "Insulin Asparte",
+            "Repaglinide"
       ],
       "description": [
+            "asparte",
+            "give",
+            "unit",
+            "per",
+            "carb",
+            "per",
+            "meal",
             "tab",
             "meal",
             "tid"
       ],
-      "arm_group_label": [
-            "iii"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "diabetic",
             "glucose",
@@ -159,12 +166,22 @@
             "six",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072904.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "diabetes",
+            "without",
+            "fast",
+            "hyperglycemia"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "fibrosis"
+      ],
+      "id": "NCT00072904"
 }

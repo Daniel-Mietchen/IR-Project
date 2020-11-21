@@ -118,14 +118,14 @@
             "cancer"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "flac"
+            "FLAC with GM-CSF"
       ],
       "criteria": [
             "stage",
@@ -334,9 +334,16 @@
             "cns",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001239.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phase",
+            "ii"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001239"
 }

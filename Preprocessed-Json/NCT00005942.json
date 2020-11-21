@@ -157,31 +157,55 @@
             "year"
       ],
       "condition": [
-            "refractory",
+            "myelomonocytic",
+            "leukemia",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "anemia",
+            "excess",
+            "blast",
             "anemia",
             "excess",
             "blast",
             "transformation"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "liposomal daunorubicin citrate",
+            "semaxanib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "liposomal",
+            "danorubicin",
+            "citrate",
+            "semaxanib",
+            "liposomal",
+            "danorubicin",
+            "citrate",
+            "semaxanib",
             "liposomal",
             "danorubicin",
             "citrate",
             "semaxanib"
       ],
       "other_name": [
-            "sugen",
+            "liposomal",
+            "daunorubicin",
             "5416"
       ],
       "criteria": [
@@ -557,12 +581,25 @@
             "study",
             "result"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005942.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "acute",
+            "syndrome",
+            "refractory",
+            "myelomonocytic",
+            "chronic",
+            "refractory",
+            "excess",
+            "blast",
+            "aplastic",
+            "acid"
+      ],
+      "id": "NCT00005942"
 }

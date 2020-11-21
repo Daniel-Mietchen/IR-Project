@@ -187,13 +187,14 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "implant"
+            "Implant"
       ],
       "description": [
             "total",
@@ -255,9 +256,7 @@
             "dental",
             "prosthesis"
       ],
-      "arm_group_label": [
-            "implant"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -386,7 +385,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
@@ -395,6 +394,18 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "lip",
+            "oral",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00006341"
 }

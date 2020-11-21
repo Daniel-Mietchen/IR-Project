@@ -381,17 +381,13 @@
             "survival"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "heat",
-            "shock",
-            "protein",
-            "complex"
+            "Heat Shock Protein 70-peptide complexes (HSP70)"
       ],
       "criteria": [
             "eligibility",
@@ -575,14 +571,18 @@
             "prevent",
             "adequate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027131.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunotherapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00027131"
 }

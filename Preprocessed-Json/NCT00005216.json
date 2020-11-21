@@ -489,20 +489,33 @@
             "center"
       ],
       "condition": [
-            "arrhythmia"
+            "disease",
+            "disease",
+            "ischemia",
+            "disease",
+            "infarction",
+            "unstable"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005216.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "unstable"
+      ],
+      "id": "NCT00005216"
 }

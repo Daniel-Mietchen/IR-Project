@@ -111,13 +111,14 @@
             "form"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "E7389"
+      ],
       "description": [
             "first",
             "cohort",
@@ -586,14 +587,19 @@
             "patient",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00097721"
 }

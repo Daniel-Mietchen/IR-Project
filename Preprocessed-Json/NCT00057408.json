@@ -85,24 +85,32 @@
             "charge"
       ],
       "condition": [
-            "autistic",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "olanzapine (Zyprexa)",
+            "Placebo"
       ],
       "description": [
-            "match",
+            "tablet",
+            "give",
+            "po",
+            "dosage",
+            "20",
+            "mg",
+            "per",
+            "day",
+            "12",
+            "week",
             "placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "placebo",
+            "drug",
             "control"
       ],
       "criteria": [
@@ -265,7 +273,7 @@
             "kane",
             "1982"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -274,6 +282,13 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057408.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antipsychotic"
+      ],
+      "mesh_term": [
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00057408"
 }

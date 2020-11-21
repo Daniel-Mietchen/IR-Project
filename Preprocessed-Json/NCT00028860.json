@@ -182,7 +182,7 @@
             "study"
       ],
       "condition": [
-            "transitional",
+            "cancer",
             "cell",
             "cancer",
             "renal",
@@ -190,11 +190,20 @@
             "ureter"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "gemcitabine hydrochloride",
+            "ifosfamide",
+            "paclitaxel",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -336,9 +345,26 @@
             "investigational",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "regional",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00028860"
 }

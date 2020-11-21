@@ -239,14 +239,16 @@
             "proceed"
       ],
       "condition": [
-            "schizophrenia"
+            "disease",
+            "disorder",
+            "diagnose",
+            "childhood"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "intravenous",
-            "immunoglobulin"
+            "Intravenous immunoglobulin"
       ],
       "criteria": [
             "patient",
@@ -291,9 +293,23 @@
             "olanzapine",
             "clozapine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001768.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "intravenous",
+            "gammaglobulin"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disease",
+            "behavior",
+            "disorder",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00001768"
 }

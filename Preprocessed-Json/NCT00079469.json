@@ -177,7 +177,7 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "survivor",
             "adult",
             "solid",
             "tumor",
@@ -185,11 +185,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "bupropion",
-            "hydrochloride"
+            "smoking cessation intervention",
+            "bupropion hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -432,12 +433,21 @@
             "week",
             "cigarette"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079469.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00079469"
 }

@@ -183,11 +183,9 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "infection"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ribavirin"
@@ -376,12 +374,16 @@
             "drug",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016081.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [],
+      "id": "NCT00016081"
 }

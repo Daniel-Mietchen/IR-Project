@@ -130,18 +130,28 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "amifostine trihydrate",
+            "irinotecan hydrochloride"
       ],
       "description": [
+            "740",
+            "administer",
+            "intravenously",
             "10",
+            "minute",
+            "administer",
+            "every",
+            "two",
+            "week",
+            "3",
+            "cycle",
             "minute",
             "completion",
             "ethyol",
@@ -151,8 +161,6 @@
             "give",
             "90",
             "minute",
-            "iv",
-            "administer",
             "every",
             "14",
             "day",
@@ -160,13 +168,12 @@
             "cycle"
       ],
       "arm_group_label": [
-            "ethyol",
+            "plus",
+            "irinotecan",
             "plus",
             "irinotecan"
       ],
-      "other_name": [
-            "ethyol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -347,12 +354,20 @@
             "1",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003225.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003225"
 }

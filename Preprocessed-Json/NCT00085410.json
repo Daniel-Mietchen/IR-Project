@@ -149,25 +149,49 @@
             "year"
       ],
       "condition": [
+            "extrahepatic",
+            "bile",
+            "duct",
+            "gallbladder",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "cancer",
             "unresectable",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "adult",
+            "primary",
+            "liver",
+            "cancer",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer",
+            "gallbladder",
+            "cancer",
+            "extrahepatic",
+            "bile",
+            "duct",
+            "cancer",
             "gallbladder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "velcade"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -376,12 +400,19 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085410.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "duct",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00085410"
 }

@@ -320,15 +320,27 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "CMF regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "fluorouracil",
+            "methotrexate",
+            "tamoxifen citrate",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -739,14 +751,22 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002542.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002542"
 }

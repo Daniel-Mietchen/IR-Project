@@ -149,16 +149,16 @@
             "year"
       ],
       "condition": [
-            "sickle",
+            "avascular",
+            "necrosis",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "core",
-            "decompression"
+            "Core decompression"
       ],
       "criteria": [
             "inclusion",
@@ -214,12 +214,21 @@
             "therapy",
             "alcoholism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006130.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00006130"
 }

@@ -89,14 +89,13 @@
             "population"
       ],
       "condition": [
-            "carcinoma",
             "hepatocellular"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "denspm"
+            "DENSPM )"
       ],
       "description": [
             "patient",
@@ -119,12 +118,8 @@
             "withdraw",
             "occur"
       ],
-      "arm_group_label": [
-            "denspm"
-      ],
-      "other_name": [
-            "diethylnorspermine"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -419,12 +414,22 @@
             "female",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081900.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carcinoma",
+            "hepatocellular"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "1",
+            "n",
+            "11"
+      ],
+      "id": "NCT00081900"
 }

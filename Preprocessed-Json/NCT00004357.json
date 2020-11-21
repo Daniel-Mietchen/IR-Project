@@ -202,17 +202,19 @@
             "active"
       ],
       "condition": [
-            "vasculitis"
+            "hypersensitivity",
+            "tissue",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "prednisolone"
+            "Methylprednisolone",
+            "Prednisolone"
       ],
-      "description": [
-            "oral"
-      ],
+      "description": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -248,7 +250,7 @@
             "dermatomyositis",
             "vasculitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -257,6 +259,20 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004357.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vasculitis"
+      ],
+      "mesh_term": [
+            "tissue",
+            "disease",
+            "leukocytoclastic",
+            "cutaneous",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00004357"
 }

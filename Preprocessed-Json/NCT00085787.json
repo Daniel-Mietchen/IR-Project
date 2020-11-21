@@ -82,19 +82,15 @@
             "complete"
       ],
       "condition": [
-            "advance",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "mek",
-            "inhibitor",
-            "oral"
+            "ARRY-142886, MEK inhibitor; oral"
       ],
       "description": [
-            "part",
             "1",
             "single",
             "dose",
@@ -228,12 +224,13 @@
             "criterion",
             "exist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085787.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00085787"
 }

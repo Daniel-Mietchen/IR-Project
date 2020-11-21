@@ -184,27 +184,37 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "pancreas",
+            "ii",
+            "pancreatic",
+            "cancer",
             "iii",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "radiation therapy",
+            "oxaliplatin",
+            "fluorouracil",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "give",
+            "radiation",
+            "therapy",
+            "iv",
+            "iv",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "gemzar"
+            "radiation",
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -362,12 +372,15 @@
             "prior",
             "laparotomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096070.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096070"
 }

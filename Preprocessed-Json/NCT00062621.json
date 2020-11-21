@@ -159,18 +159,15 @@
             "transplant"
       ],
       "condition": [
-            "multiple",
+            "failure",
+            "chronic",
             "myeloma"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "combine",
-            "bone",
-            "marrow",
-            "kidney",
-            "transplant"
+            "Combined bone marrow and kidney transplant"
       ],
       "criteria": [
             "inclusion",
@@ -228,7 +225,7 @@
             "active",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -237,6 +234,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00062621.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "esrd"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00062621"
 }

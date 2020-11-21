@@ -260,17 +260,22 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "ibritumomab",
-            "tiuxetan"
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "yttrium Y 90 ibritumomab tiuxetan"
       ],
       "criteria": [
             "disease",
@@ -342,7 +347,6 @@
             "count",
             "greater",
             "note",
-            "unless",
             "due",
             "disease",
             "bone",
@@ -454,12 +458,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070447.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "mantle",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "monoclonal"
+      ],
+      "id": "NCT00070447"
 }

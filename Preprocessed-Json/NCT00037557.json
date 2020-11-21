@@ -103,14 +103,13 @@
             "general"
       ],
       "condition": [
-            "hemophilia",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "benefix"
+            "BeneFIX"
       ],
       "criteria": [
             "inclusion",
@@ -147,12 +146,19 @@
             "renal",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "5",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037557.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hemophilia",
+            "b"
+      ],
+      "mesh_term": [
+            "b"
+      ],
+      "id": "NCT00037557"
 }

@@ -74,18 +74,22 @@
             "assessment"
       ],
       "condition": [
-            "anoxemia"
+            "insufficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "inhale",
-            "nitric",
-            "oxide"
+            "Nitrogen gas",
+            "inhaled nitric oxide"
       ],
       "description": [
-            "inhale",
+            "gas",
+            "give",
+            "day",
+            "28",
+            "extubation",
             "nitric",
             "oxide",
             "give",
@@ -95,9 +99,7 @@
             "28",
             "extubation"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -196,12 +198,24 @@
             "ventilate",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041561.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "hypoxemic",
+            "respiratory",
+            "failure"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "valve",
+            "insufficiency",
+            "oxide"
+      ],
+      "id": "NCT00041561"
 }

@@ -34,16 +34,16 @@
             "evaluate"
       ],
       "condition": [
-            "lung",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "motexafin",
-            "gadolinium",
-            "injection"
+            "Motexafin Gadolinium Injection"
       ],
       "criteria": [
             "inclusion",
@@ -222,12 +222,25 @@
             "specify",
             "assessment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080041.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antineoplastic",
+            "combine",
+            "chemotherapy",
+            "protocol"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "gadolinium"
+      ],
+      "id": "NCT00080041"
 }

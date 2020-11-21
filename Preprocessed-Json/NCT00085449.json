@@ -303,17 +303,38 @@
             "study"
       ],
       "condition": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "alemtuzumab",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "melphalan",
+            "mycophenolate mofetil",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
             "b"
       ],
       "criteria": [
@@ -416,7 +437,6 @@
             "accelerate",
             "phase",
             "note",
-            "patient",
             "cml",
             "blast",
             "crisis",
@@ -635,7 +655,7 @@
             "corticosteroid",
             "antiemesis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -644,6 +664,25 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085449.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "disease",
+            "phosphate",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00085449"
 }

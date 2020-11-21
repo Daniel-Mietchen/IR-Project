@@ -37,16 +37,16 @@
             "group"
       ],
       "condition": [
-            "idiopathic",
             "pulmonary",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Interferon-gamma 1b"
+      ],
       "description": [
-            "200",
             "mcg",
             "sq",
             "per",
@@ -58,7 +58,7 @@
             "year",
             "old"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -67,6 +67,16 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00047645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ipf"
+      ],
+      "mesh_term": [
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "interstitial",
+            "pneumonia"
+      ],
+      "id": "NCT00047645"
 }

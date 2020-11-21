@@ -111,15 +111,17 @@
             "year"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "cisplatin",
+            "fluorouracil",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -165,7 +167,7 @@
             "chemotherapy",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -174,6 +176,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002897.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "carcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002897"
 }

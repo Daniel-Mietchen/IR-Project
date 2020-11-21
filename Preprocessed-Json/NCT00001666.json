@@ -130,15 +130,15 @@
             "cortex"
       ],
       "condition": [
-            "seizure"
+            "epilepsy"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "magpro",
-            "magnetoelectric",
-            "stimulator"
+            "Cadwell High-Speed Magnetoelectric Stimulator",
+            "Magpro High-Speed Magnetoelectric Stimulator"
       ],
       "criteria": [
             "age",
@@ -238,9 +238,15 @@
             "neurologic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001666.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tm"
+      ],
+      "mesh_term": [
+            "partial"
+      ],
+      "id": "NCT00001666"
 }

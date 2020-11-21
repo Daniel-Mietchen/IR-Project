@@ -239,15 +239,16 @@
             "abnormality"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "dobutamine",
-            "echocardiography"
+            "Myocardial contrast echocardiography",
+            "Dobutamine echocardiography"
       ],
       "criteria": [
             "patient",
@@ -339,9 +340,20 @@
             "echocardiographic",
             "window"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001891.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "artery",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00001891"
 }

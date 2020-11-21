@@ -334,20 +334,29 @@
             "year"
       ],
       "condition": [
-            "testicular",
+            "cancer",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "bleomycin sulfate",
+            "filgrastim",
+            "cisplatin",
+            "etoposide",
+            "ifosfamide",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -475,9 +484,7 @@
             "metastasis",
             "allow"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "16",
             "year"
@@ -486,6 +493,20 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003941.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "metastasis",
+            "neoplasm",
+            "neoplasm",
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003941"
 }

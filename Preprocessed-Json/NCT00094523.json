@@ -49,11 +49,13 @@
             "inhibitor"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "virus",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "fosamprenavir"
@@ -154,12 +156,29 @@
             "rna",
             "level"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094523.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fosamprenavir",
+            "lexiva",
+            "safety",
+            "tolerability"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00094523"
 }

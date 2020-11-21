@@ -38,13 +38,14 @@
             "human"
       ],
       "condition": [
+            "disorder",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amantadine"
+            "Amantadine"
       ],
       "criteria": [
             "inclusion",
@@ -69,9 +70,7 @@
             "medical",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -80,6 +79,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015249.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cocaine",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00015249"
 }

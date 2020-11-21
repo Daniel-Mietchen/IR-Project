@@ -283,23 +283,97 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "multiple",
+            "myeloma",
+            "ii",
+            "multiple",
+            "myeloma",
             "iii",
             "multiple",
             "myeloma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "vincristine sulfate",
+            "carmustine",
+            "melphalan",
+            "cyclophosphamide",
+            "prednisone",
+            "recombinant interferon alfa-2b",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "po",
+            "iv",
+            "po",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "vbmcp",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "vbmcp",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "vbmcp",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "vbmcp",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "vbmcp",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "b",
+            "vbmcp",
+            "high",
+            "dose",
+            "cyclophosphamide",
+            "r",
+            "alpha",
+            "ifn",
+            "vbmcp",
             "b",
             "vbmcp",
             "high",
@@ -310,7 +384,10 @@
             "ifn"
       ],
       "other_name": [
-            "intron"
+            "sulfate",
+            "pfs",
+            "mustard",
+            "alfa"
       ],
       "criteria": [
             "inclusion",
@@ -846,12 +923,17 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002556.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00002556"
 }

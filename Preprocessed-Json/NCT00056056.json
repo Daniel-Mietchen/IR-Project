@@ -200,19 +200,75 @@
             "25",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "uv",
-            "light",
-            "therapy"
+            "bexarotene",
+            "methoxypsoralen",
+            "UV light therapy"
       ],
       "description": [
+            "recommend",
             "initial",
+            "dosage",
+            "bexarotene",
+            "75",
+            "mg",
+            "bexarotene",
+            "capsule",
+            "administer",
+            "accord",
+            "body",
+            "surface",
+            "area",
+            "patient",
+            "enter",
+            "trial",
+            "300",
+            "day",
+            "take",
+            "orally",
+            "till",
+            "ccr",
+            "pd",
+            "unacceptable",
+            "toxicity",
+            "16",
+            "week",
+            "treatment",
+            "whichever",
+            "come",
+            "first",
+            "dose",
+            "methoxypsoralen",
+            "conventional",
+            "capsule",
+            "capsule",
+            "base",
+            "patient",
+            "weight",
+            "standard",
+            "dose",
+            "give",
+            "patient",
+            "three",
+            "time",
+            "weekly",
+            "increase",
+            "dose",
+            "puva",
+            "accord",
+            "set",
+            "protocol",
+            "minimal",
+            "phototoxic",
+            "dose",
+            "mpd",
+            "test",
             "uva",
             "light",
             "exposure",
@@ -272,6 +328,8 @@
             "erythema"
       ],
       "arm_group_label": [
+            "puva",
+            "puva",
             "puva"
       ],
       "criteria": [
@@ -352,9 +410,7 @@
             "3",
             "month",
             "study",
-            "participation",
             "note",
-            "woman",
             "use",
             "hormonal",
             "contraception",
@@ -573,12 +629,20 @@
             "triglyceride",
             "concentration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056056.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "mycosis",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "fungoides"
+      ],
+      "id": "NCT00056056"
 }

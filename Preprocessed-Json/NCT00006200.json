@@ -68,13 +68,13 @@
             "response",
             "rate"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "thalidomide",
             "dacarbazine"
       ],
       "criteria": [
@@ -150,12 +150,13 @@
             "take",
             "thalidomide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006200.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00006200"
 }

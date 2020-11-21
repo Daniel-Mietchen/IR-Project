@@ -253,13 +253,20 @@
             "rcts"
       ],
       "condition": [
-            "pain"
+            "trauma",
+            "disorder",
+            "strain",
+            "injury",
+            "tunnel",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "amitriptyline"
+            "Acupuncture",
+            "Amitriptyline"
       ],
       "criteria": [
             "inclusion",
@@ -277,12 +284,21 @@
             "boston",
             "area"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029497.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tunnel",
+            "syndrome",
+            "trauma",
+            "disorder",
+            "perphenazine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00029497"
 }

@@ -53,7 +53,6 @@
             "lead"
       ],
       "condition": [
-            "lead",
             "poison"
       ],
       "criteria": [
@@ -102,9 +101,7 @@
             "pregnancy",
             "test"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "12",
             "year"
@@ -113,6 +110,12 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011726.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "exchange"
+      ],
+      "mesh_term": [
+            "poison"
+      ],
+      "id": "NCT00011726"
 }

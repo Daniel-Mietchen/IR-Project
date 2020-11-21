@@ -114,14 +114,15 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "psychosocial assessment and care",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -198,14 +199,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003794.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003794"
 }

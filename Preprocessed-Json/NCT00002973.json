@@ -160,15 +160,15 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "hyperthermia",
-            "treatment"
+            "melphalan",
+            "hyperthermia treatment"
       ],
       "criteria": [
             "disease",
@@ -407,7 +407,7 @@
             "agent",
             "aspirin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -416,6 +416,11 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002973.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002973"
 }

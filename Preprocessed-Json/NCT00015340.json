@@ -42,12 +42,15 @@
             "b"
       ],
       "condition": [
+            "dependence",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Buprenorphine/naloxone"
+      ],
       "arm_group_label": [],
       "criteria": [
             "inclusion",
@@ -68,7 +71,7 @@
             "study",
             "1008"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -77,6 +80,17 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015340.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "opioid",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder",
+            "dependence",
+            "naloxone",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00015340"
 }

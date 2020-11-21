@@ -172,21 +172,37 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "uterine",
+            "corpus",
+            "cancer",
+            "uterine",
+            "sarcoma",
+            "ii",
+            "uterine",
+            "corpus",
+            "cancer",
             "ii",
             "uterine",
             "sarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "therapeutic",
-            "conventional",
-            "surgery"
+            "Laparoscopic Surgery",
+            "Quality-of-Life Assessment",
+            "Therapeutic Conventional Surgery"
       ],
       "description": [
-            "undergo",
+            "vaginal",
+            "hysterectomy",
+            "bso",
+            "via",
+            "laparoscopy",
+            "study",
             "total",
             "abdominal",
             "hysterectomy",
@@ -196,11 +212,12 @@
             "laparotomy"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "quality",
+            "resection",
+            "surgery",
             "life",
             "assessment"
       ],
@@ -268,14 +285,15 @@
             "retroperitoneal",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002706.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002706"
 }

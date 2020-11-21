@@ -116,28 +116,41 @@
             "month"
       ],
       "condition": [
-            "solid",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "tipifarnib"
+            "Erlotinib Hydrochloride",
+            "Laboratory Biomarker Analysis",
+            "Pharmacological Study",
+            "Tipifarnib"
       ],
       "description": [
-            "give",
+            "po",
+            "study",
+            "study",
             "po"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "tipifarnib",
+            "erlotinib",
+            "hydrochloride",
+            "tipifarnib",
+            "erlotinib",
+            "hydrochloride",
+            "tipifarnib",
             "erlotinib",
             "hydrochloride",
             "tipifarnib"
       ],
-      "other_name": [
-            "zarnestra"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -532,12 +545,15 @@
             "carbamazepine",
             "tegretol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085553.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00085553"
 }

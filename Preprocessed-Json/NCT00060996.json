@@ -40,17 +40,19 @@
             "distance"
       ],
       "condition": [
-            "rest",
+            "limb",
+            "ischemia",
+            "vascular",
+            "disease",
+            "ulcer",
             "leg",
             "pain"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "treprostinil",
-            "sodium",
-            "injection"
+            "Remodulin\u00ae (treprostinil sodium) Injection"
       ],
       "criteria": [
             "patient",
@@ -70,7 +72,7 @@
             "vascular",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -79,6 +81,17 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060996.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treprostinil"
+      ],
+      "mesh_term": [
+            "ulcer",
+            "disease",
+            "vascular",
+            "disease",
+            "arterial",
+            "disease"
+      ],
+      "id": "NCT00060996"
 }

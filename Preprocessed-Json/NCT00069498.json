@@ -170,14 +170,13 @@
             "test"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "acid"
+            "5-aminosalicylic acid"
       ],
       "criteria": [
             "inclusion",
@@ -290,9 +289,7 @@
             "outcome",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -301,6 +298,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00069498.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "acid",
+            "agent"
+      ],
+      "id": "NCT00069498"
 }

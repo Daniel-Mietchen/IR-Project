@@ -261,15 +261,25 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "celecoxib",
+            "fluorouracil",
+            "leucovorin calcium",
+            "oxaliplatin",
+            "adjuvant therapy",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -529,7 +539,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -538,6 +548,14 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072553.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00072553"
 }

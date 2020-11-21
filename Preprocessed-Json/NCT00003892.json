@@ -128,15 +128,13 @@
             "month"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "isi",
-            "5132"
+            "ISIS 5132"
       ],
       "description": [
             "iv",
@@ -147,7 +145,6 @@
             "week"
       ],
       "arm_group_label": [
-            "isi",
             "5132"
       ],
       "criteria": [
@@ -354,14 +351,22 @@
             "investigational",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003892.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "5132"
+      ],
+      "id": "NCT00003892"
 }

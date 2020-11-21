@@ -27,23 +27,30 @@
             "carboplatin"
       ],
       "condition": [
-            "neoplasm",
             "gynecologic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Thrombopoietin",
+            "Platelet-pheresis",
+            "Carboplatin"
       ],
       "arm_group_label": [
             "autologous",
             "platelet",
+            "transfusion",
+            "autologous",
+            "platelet",
+            "transfusion",
+            "autologous",
+            "platelet",
             "transfusion"
       ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -191,14 +198,20 @@
             "response",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038012.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gynecologic",
+            "malignancy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "female"
+      ],
+      "id": "NCT00038012"
 }

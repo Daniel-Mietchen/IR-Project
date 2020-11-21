@@ -757,19 +757,61 @@
             "2009"
       ],
       "condition": [
-            "type",
             "2",
             "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metformin"
+            "Insulin",
+            "Glimepiride",
+            "Rosiglitazone",
+            "Metformin"
       ],
       "description": [
-            "metformin",
+            "intermediate",
+            "1",
+            "unit",
+            "9",
+            "lb",
+            "arm",
+            "1",
+            "insulin",
+            "intermediate",
+            "1",
+            "unit",
+            "9",
+            "lb",
+            "add",
+            "one",
+            "injection",
+            "insulin",
+            "arm",
+            "2",
+            "2",
+            "mg",
+            "arm",
+            "1",
+            "glimepiride",
+            "8",
+            "mg",
+            "arm",
+            "2",
+            "4",
+            "mg",
+            "arm",
+            "1",
+            "rosiglitazone",
+            "4",
+            "mg",
+            "bid",
+            "arm",
+            "2",
             "500",
             "mg",
             "go",
@@ -786,13 +828,24 @@
             "arm"
       ],
       "arm_group_label": [
-            "intensive",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
+            "glycemic",
+            "control",
             "glycemic",
             "control"
       ],
-      "other_name": [
-            "glumetza"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -902,12 +955,26 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032487.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "2",
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "globin",
+            "zinc"
+      ],
+      "id": "NCT00032487"
 }

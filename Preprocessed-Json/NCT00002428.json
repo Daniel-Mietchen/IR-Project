@@ -106,17 +106,15 @@
             "year"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "monovalent",
-            "octameric",
-            "peptide",
-            "vaccine"
+            "HIV-1 Peptide Vaccine, Microparticulate Monovalent",
+            "rgp120/HIV-1MN Monovalent Octameric V3 Peptide Vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -247,7 +245,7 @@
             "12",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -256,6 +254,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002428.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002428"
 }

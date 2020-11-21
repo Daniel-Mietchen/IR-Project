@@ -173,15 +173,26 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "cancer",
+            "metastasis",
+            "iv",
+            "rectal",
+            "cancer",
+            "rectal",
+            "cancer",
             "iv",
             "colon",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "floxuridine",
+            "leucovorin calcium",
             "melphalan"
       ],
       "criteria": [
@@ -370,8 +381,17 @@
             "pregnancy",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "id": "NCT00019760.xml"
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00019760"
 }

@@ -172,15 +172,23 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cyclophosphamide",
+            "docetaxel",
+            "doxorubicin hydrochloride",
+            "tamoxifen citrate",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -324,9 +332,7 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -335,6 +341,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003679.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003679"
 }

@@ -106,17 +106,15 @@
             "sleep"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "dronabinol"
       ],
       "description": [
-            "dronabinol",
             "prevent",
             "development",
             "marijuana",
@@ -141,7 +139,7 @@
             "history",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -150,6 +148,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079560.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complementary",
+            "therapy"
+      ],
+      "mesh_term": [
+            "infection",
+            "abuse"
+      ],
+      "id": "NCT00079560"
 }

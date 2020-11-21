@@ -149,18 +149,15 @@
             "study"
       ],
       "condition": [
-            "lymphoproliferative",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib",
-            "ganciclovir"
+            "bortezomib + ganciclovir"
       ],
       "description": [
-            "patient",
             "receive",
             "bortezomib",
             "iv",
@@ -188,7 +185,6 @@
             "course"
       ],
       "arm_group_label": [
-            "bortezomib",
             "ganciclovir"
       ],
       "criteria": [
@@ -409,12 +405,23 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093704.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "grade",
+            "iii",
+            "lymphomatoid",
+            "granulomatosis"
+      ],
+      "mesh_term": [
+            "disorder",
+            "triphosphate"
+      ],
+      "id": "NCT00093704"
 }

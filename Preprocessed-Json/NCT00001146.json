@@ -278,14 +278,17 @@
             "disorder"
       ],
       "condition": [
-            "mood",
+            "disorder",
+            "depression",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "omegabrite"
+            "Ethyl Eicosapentaenoic Acid",
+            "OmegaBrite"
       ],
       "criteria": [
             "patient",
@@ -407,9 +410,19 @@
             "homicidal",
             "ideation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001146.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00001146"
 }

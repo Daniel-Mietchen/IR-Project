@@ -342,23 +342,19 @@
             "effectiveness"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "radical",
-            "prostatectomy"
+            "Radical prostatectomy"
       ],
       "description": [
-            "surgical",
             "removal",
             "prostate"
       ],
       "arm_group_label": [
-            "radical",
             "prostatectomy"
       ],
       "criteria": [
@@ -445,14 +441,19 @@
             "5",
             "year"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007644.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radical",
+            "prostatectomy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00007644"
 }

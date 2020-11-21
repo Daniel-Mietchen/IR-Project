@@ -374,17 +374,17 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "paclitaxel",
-            "follow",
-            "doxorubicin"
+            "Doxorubicin followed by Paclitaxel",
+            "Paclitaxel followed by Doxorubicin"
       ],
       "description": [
-            "patient",
             "randomize",
             "2",
             "group",
@@ -392,7 +392,18 @@
             "sequence",
             "neoadjuvant",
             "chemotherapy",
+            "follow",
+            "paclitaxel",
+            "paclitaxel",
+            "follow",
             "doxorubicin",
+            "randomize",
+            "2",
+            "group",
+            "base",
+            "sequence",
+            "neoadjuvant",
+            "chemotherapy",
             "follow",
             "paclitaxel",
             "versus",
@@ -401,7 +412,12 @@
             "doxorubicin"
       ],
       "arm_group_label": [
-            "sequence",
+            "doxorubicin",
+            "follow",
+            "paclitaxel",
+            "doxorubicin",
+            "follow",
+            "paclitaxel",
             "neoadjuvant",
             "ct",
             "paclitaxel",
@@ -569,9 +585,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -580,6 +594,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00096291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00096291"
 }

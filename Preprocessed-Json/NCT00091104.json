@@ -463,14 +463,33 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "irradiation"
+            "MART-1:27-35 peptide vaccine",
+            "aldesleukin",
+            "filgrastim",
+            "incomplete Freund's adjuvant",
+            "therapeutic autologous lymphocytes",
+            "therapeutic tumor infiltrating lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "autologous hematopoietic stem cell transplantation",
+            "in vitro-treated peripheral blood stem cell transplantation",
+            "total-body irradiation"
       ],
       "criteria": [
             "disease",
@@ -546,7 +565,6 @@
             "45",
             "stress",
             "cardiac",
-            "test",
             "patient",
             "50",
             "year",
@@ -562,7 +580,6 @@
             "comparable",
             "test",
             "note",
-            "stress",
             "thallium",
             "stress",
             "muga",
@@ -582,7 +599,6 @@
             "predict",
             "pulmonary",
             "function",
-            "test",
             "dlco",
             "60",
             "predict",
@@ -725,12 +741,21 @@
             "therapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091104.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00091104"
 }

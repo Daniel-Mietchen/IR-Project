@@ -55,18 +55,24 @@
             "patient"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "virus",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "abacavir/lamivudine",
+            "abacavir",
+            "lamivudine",
             "tenofovir"
       ],
-      "other_name": [
-            "abacavir"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -145,12 +151,25 @@
             "determine",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044577.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir",
+            "lamivudine",
+            "tenofovir"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00044577"
 }

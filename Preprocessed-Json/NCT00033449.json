@@ -382,32 +382,91 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
+            "iii",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
             "iv",
             "squamous",
             "cell",
             "carcinoma",
             "oropharynx"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Radiation",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gefitinib",
+            "radiation therapy",
+            "cisplatin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "radiation",
+            "therapy",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
+            "radiation",
+            "therapy",
+            "cisplatin",
+            "gefitinib",
+            "radiation",
+            "therapy",
+            "cisplatin",
+            "gefitinib",
+            "radiation",
+            "therapy",
+            "cisplatin",
             "gefitinib",
             "radiation",
             "therapy",
             "cisplatin"
       ],
       "other_name": [
-            "ddp"
+            "1839",
+            "radiation"
       ],
       "criteria": [
             "inclusion",
@@ -590,12 +649,19 @@
             "treat",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033449.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "disease",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00033449"
 }

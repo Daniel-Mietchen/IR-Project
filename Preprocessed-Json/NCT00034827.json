@@ -60,13 +60,17 @@
             "response"
       ],
       "condition": [
-            "pancreatic",
+            "neoplasm",
+            "neoplasm",
+            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CI-1040"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -157,12 +161,18 @@
             "3",
             "4"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034827.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "lung",
+            "neoplasm"
+      ],
+      "id": "NCT00034827"
 }

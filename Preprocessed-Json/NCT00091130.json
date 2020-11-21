@@ -201,26 +201,44 @@
       ],
       "condition": [
             "squamous",
+            "cell",
+            "undetermined",
+            "significance",
+            "cancer",
+            "squamous",
+            "intraepithelial",
+            "lesion",
+            "squamous",
             "intraepithelial",
             "lesion"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "HspE7",
+            "placebo",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "placebo",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "plcb"
+            "16",
+            "vaccine",
+            "peptide",
+            "epitope",
+            "vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -549,9 +567,7 @@
             "active",
             "infection"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -560,6 +576,16 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091130.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "intraepithelial",
+            "lesion",
+            "cervix",
+            "squamous",
+            "cell",
+            "cervix"
+      ],
+      "id": "NCT00091130"
 }

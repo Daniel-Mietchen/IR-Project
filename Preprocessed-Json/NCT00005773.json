@@ -324,19 +324,42 @@
             "age"
       ],
       "condition": [
-            "respiratory",
+            "newborn",
+            "pulmonary",
+            "fetal",
+            "circulation",
+            "syndrome",
+            "aspiration",
+            "distress",
+            "syndrome",
+            "newborn",
             "insufficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "standard",
-            "ino",
-            "therapy"
+            "Inhaled Nitric Oxide",
+            "Standard iNO therapy"
       ],
       "description": [
-            "begin",
+            "gas",
+            "initiate",
+            "concentration",
+            "5",
+            "ppm",
+            "dose",
+            "increase",
+            "20",
+            "ppm",
+            "infant",
+            "mm",
+            "hg",
+            "increase",
+            "le",
+            "full",
+            "response",
             "sham",
             "initiation",
             "ino",
@@ -357,7 +380,8 @@
             "oi"
       ],
       "arm_group_label": [
-            "standard",
+            "ino",
+            "management",
             "ino",
             "management"
       ],
@@ -441,12 +465,34 @@
             "oxide",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005773.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "severe",
+            "respiratory",
+            "failure"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "insufficiency",
+            "valve",
+            "insufficiency",
+            "pulmonary",
+            "fetal",
+            "circulation",
+            "syndrome",
+            "aspiration",
+            "oxide"
+      ],
+      "id": "NCT00005773"
 }

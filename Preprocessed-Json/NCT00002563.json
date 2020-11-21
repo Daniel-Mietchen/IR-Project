@@ -130,19 +130,30 @@
             "year"
       ],
       "condition": [
-            "psychosocial",
             "effect",
             "cancer",
             "treatment"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "psychosocial assessment and care",
+            "quality-of-life assessment"
       ],
       "description": [
-            "evaluate",
+            "psychosocial",
+            "function",
+            "prestudy",
+            "6",
+            "month",
+            "start",
+            "treatment",
+            "annually",
+            "year",
+            "start",
+            "treatment",
             "quality",
             "life",
             "prestudy",
@@ -202,12 +213,21 @@
             "registration",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002563.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosocial",
+            "effect",
+            "cancer",
+            "treatment"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00002563"
 }

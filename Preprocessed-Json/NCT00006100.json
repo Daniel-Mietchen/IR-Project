@@ -134,18 +134,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "allogeneic Epstein-Barr virus-specific cytotoxic T lymphocytes",
+            "fludarabine phosphate",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -306,7 +306,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -315,6 +315,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006100.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00006100"
 }

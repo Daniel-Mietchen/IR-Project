@@ -37,12 +37,15 @@
             "naloxone"
       ],
       "condition": [
+            "dependence",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Buprenorphine/naloxone"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -75,7 +78,7 @@
             "opiate",
             "dependent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -84,6 +87,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00015288.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "dependence",
+            "naloxone",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00015288"
 }

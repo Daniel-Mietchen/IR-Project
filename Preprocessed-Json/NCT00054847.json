@@ -397,20 +397,25 @@
             "month"
       ],
       "condition": [
-            "coronary",
+            "disease",
             "artery",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radial",
-            "artery",
-            "graft"
+            "saphenous vein graft",
+            "radial artery graft"
       ],
       "description": [
-            "radial",
+            "vein",
+            "harvest",
+            "arm",
+            "use",
+            "conduit",
+            "cabg",
             "artery",
             "harvest",
             "arm",
@@ -419,7 +424,8 @@
             "cabg"
       ],
       "arm_group_label": [
-            "radial",
+            "vein",
+            "graft",
             "artery",
             "graft"
       ],
@@ -534,9 +540,19 @@
             "70",
             "stenosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054847.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prospective"
+      ],
+      "mesh_term": [
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "disease"
+      ],
+      "id": "NCT00054847"
 }

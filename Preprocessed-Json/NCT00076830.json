@@ -249,7 +249,6 @@
             "protocol"
       ],
       "condition": [
-            "connective",
             "tissue",
             "disorder"
       ],
@@ -371,12 +370,21 @@
             "affect",
             "proband"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076830.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "connective",
+            "tissue",
+            "disorder"
+      ],
+      "mesh_term": [
+            "tissue",
+            "disease"
+      ],
+      "id": "NCT00076830"
 }

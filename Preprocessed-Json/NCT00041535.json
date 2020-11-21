@@ -603,15 +603,13 @@
             "function"
       ],
       "condition": [
-            "gaucher",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ogt",
-            "918"
+            "OGT 918"
       ],
       "criteria": [
             "inclusion",
@@ -784,12 +782,20 @@
             "le",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041535.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neuronopathic",
+            "gaucher",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00041535"
 }

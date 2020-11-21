@@ -144,28 +144,39 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "peritoneal",
+            "cavity",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -599,14 +610,18 @@
             "study",
             "entry"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022659.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00022659"
 }

@@ -24,19 +24,14 @@
             "cholesterol",
             "level"
       ],
-      "condition": [
-            "hypercholesterolemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "atorvastatin",
-            "duration",
-            "treatment",
-            "28",
-            "week"
+            "MK0653, ezetimibe / Duration of Treatment: 28 weeks",
+            "Comparator: atorvastatin / Duration of Treatment: 28 weeks"
       ],
       "criteria": [
             "inclusion",
@@ -52,7 +47,7 @@
             "medical",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -61,6 +56,9 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092716.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "calcium"
+      ],
+      "id": "NCT00092716"
 }

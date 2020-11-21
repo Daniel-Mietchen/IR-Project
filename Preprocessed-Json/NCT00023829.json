@@ -281,18 +281,53 @@
             "accrual"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bicalutamide",
+            "flutamide",
+            "releasing hormone agonist therapy",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
       "arm_group_label": [
+            "agonist",
+            "plus",
             "radiation",
+            "therapy",
+            "agonist",
+            "alone",
+            "agonist",
+            "plus",
+            "radiation",
+            "therapy",
+            "agonist",
+            "alone",
+            "agonist",
+            "plus",
+            "radiation",
+            "therapy",
+            "agonist",
+            "alone",
+            "agonist",
+            "plus",
+            "radiation",
+            "therapy",
+            "therapy",
+            "alone",
+            "agonist",
+            "alone",
+            "agonist",
+            "plus",
+            "radiation",
+            "therapy",
             "therapy",
             "alone"
       ],
@@ -452,11 +487,19 @@
             "prior",
             "orchiectomy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023829.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iia",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "factor"
+      ],
+      "id": "NCT00023829"
 }

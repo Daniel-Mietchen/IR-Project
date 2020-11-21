@@ -110,14 +110,15 @@
             "hour"
       ],
       "condition": [
-            "acute",
+            "accident",
+            "ischemia",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abciximab"
+            "Abciximab"
       ],
       "criteria": [
             "inclusion",
@@ -213,12 +214,22 @@
             "minor",
             "stroke"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073372.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "ischemia",
+            "disease",
+            "monoclonal",
+            "fab",
+            "fragment"
+      ],
+      "id": "NCT00073372"
 }

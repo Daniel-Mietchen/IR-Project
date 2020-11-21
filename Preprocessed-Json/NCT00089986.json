@@ -30,15 +30,16 @@
             "intravenous",
             "infusion"
       ],
-      "condition": [
-            "sepsis"
+      "condition": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "placebo"
+            "Intravenous GR270773- Phospholipid Emulsion",
+            "Placebo"
       ],
       "other_name": [
-            "match",
             "placebo",
             "infusion"
       ],
@@ -285,12 +286,17 @@
             "lipid",
             "complex"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089986.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "severe",
+            "sepsis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00089986"
 }

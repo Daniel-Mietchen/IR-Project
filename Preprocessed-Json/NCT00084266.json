@@ -39,19 +39,49 @@
             "vancomycin"
       ],
       "condition": [
-            "methicillin",
             "resistant",
             "staphylococcus",
             "aureus",
             "mrsa"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "linezolid (Zyvox)",
             "vancomycin"
       ],
       "description": [
+            "subject",
+            "receive",
+            "either",
+            "linezolid",
+            "600",
+            "mg",
+            "iv",
+            "intravenous",
+            "po",
+            "orally",
+            "q",
+            "12",
+            "h",
+            "every",
+            "12",
+            "hour",
+            "day",
+            "except",
+            "case",
+            "document",
+            "bacteremia",
+            "could",
+            "extend",
+            "21",
+            "day",
+            "base",
+            "upon",
+            "investigator",
+            "discretion",
             "subject",
             "receive",
             "vancomycin",
@@ -77,11 +107,8 @@
             "investigator",
             "discretion"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "zyvox",
             "linezolid"
       ],
       "criteria": [
@@ -158,12 +185,18 @@
             "oxazolidinones",
             "vancomycin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084266.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pneumonia"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00084266"
 }

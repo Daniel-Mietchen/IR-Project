@@ -417,18 +417,40 @@
             "compromise"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "peginterferon"
+            "Peginterferon alfa-2a with Ribavirin",
+            "Peginterferon alfa-2a"
       ],
       "description": [
-            "eligible",
+            "patient",
+            "give",
+            "peginterferon",
+            "180",
+            "ug",
+            "subcutaneous",
+            "weekly",
+            "oral",
+            "ribavirin",
+            "1000",
+            "mg",
+            "daily",
+            "patient",
+            "75",
+            "kg",
+            "1200",
+            "mg",
+            "daily",
+            "patient",
+            "kg",
+            "48",
+            "week",
             "patient",
             "give",
             "180",
@@ -450,9 +472,7 @@
             "44",
             "week"
       ],
-      "arm_group_label": [
-            "peginterferon"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -781,12 +801,22 @@
             "alpha",
             "interferon"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028093.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis",
+            "c"
+      ],
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00028093"
 }

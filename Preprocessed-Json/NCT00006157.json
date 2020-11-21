@@ -226,17 +226,19 @@
             "satisfaction"
       ],
       "condition": [
-            "functional",
+            "bowel",
+            "syndrome",
+            "pain",
             "colonic",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavioral",
-            "treatment"
+            "Desipramine",
+            "Cognitive Behavioral Treatment"
       ],
       "criteria": [
             "inclusion",
@@ -258,7 +260,6 @@
             "disorder",
             "subcategorized",
             "use",
-            "rome",
             "criterion",
             "moderate",
             "mfbd",
@@ -349,9 +350,7 @@
             "use",
             "desipramine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -360,6 +359,19 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006157.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cfap"
+      ],
+      "mesh_term": [
+            "bowel",
+            "syndrome",
+            "pain",
+            "disease",
+            "disease",
+            "disease",
+            "disease",
+            "functional"
+      ],
+      "id": "NCT00006157"
 }

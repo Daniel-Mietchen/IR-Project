@@ -129,14 +129,12 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "immunotoxin"
+            "LMB-2 immunotoxin"
       ],
       "criteria": [
             "disease",
@@ -376,7 +374,6 @@
             "count",
             "greater",
             "note",
-            "nonleukemic",
             "patient",
             "hepatic",
             "ast",
@@ -518,12 +515,19 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002765.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002765"
 }

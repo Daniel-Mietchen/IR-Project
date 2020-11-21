@@ -98,28 +98,40 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Dietary Supplement",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "doxercalciferol",
+            "conventional surgery"
       ],
       "description": [
-            "procedure",
+            "1",
+            "patient",
+            "receive",
+            "doxercalciferol",
+            "daily",
+            "28",
+            "day",
+            "patient",
+            "undergo",
+            "prostatectomy",
             "prostatectomy",
             "prostate",
             "cancer"
       ],
       "arm_group_label": [
-            "observation",
+            "daily",
+            "28",
+            "day",
             "prostatectomy"
       ],
       "other_name": [
-            "prostatectomy",
+            "adenocarcinoma",
+            "prostate",
             "dietary",
             "supplement"
       ],
@@ -233,9 +245,7 @@
             "digoxin",
             "digitalis"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
@@ -244,6 +254,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022412.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00022412"
 }

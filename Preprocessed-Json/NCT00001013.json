@@ -199,15 +199,21 @@
             "week"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Pentamidine isethionate",
+            "Sulfamethoxazole-Trimethoprim",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -429,12 +435,21 @@
             "medically",
             "inadvisable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001013.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "dietary",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00001013"
 }

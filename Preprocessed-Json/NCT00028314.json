@@ -241,14 +241,20 @@
             "76"
       ],
       "condition": [
-            "waste",
+            "infection",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine"
+            "Abacavir sulfate",
+            "Atazanavir/Ritonavir",
+            "Lopinavir/Ritonavir",
+            "Nevirapine"
       ],
       "criteria": [
             "note",
@@ -451,12 +457,21 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028314.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "syndrome",
+            "sulfate"
+      ],
+      "id": "NCT00028314"
 }

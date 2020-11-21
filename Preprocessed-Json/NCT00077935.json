@@ -252,17 +252,15 @@
             "complete"
       ],
       "condition": [
-            "osteoarthritis",
             "knee"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "civamide"
+            "Civamide"
       ],
       "description": [
-            "cream",
             "tid",
             "52",
             "week"
@@ -467,7 +465,7 @@
             "randomization",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -476,6 +474,9 @@
             "76",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00077935.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "knee"
+      ],
+      "id": "NCT00077935"
 }

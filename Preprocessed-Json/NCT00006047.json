@@ -157,7 +157,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -165,16 +164,21 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oral"
+            "Oral Etoposide",
+            "Oral 9-Nitrocamptothecin"
       ],
       "arm_group_label": [
-            "combination",
+            "therapy",
             "therapy"
       ],
-      "other_name": [],
+      "other_name": [
+            "topoisomerase",
+            "inhibitor"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -361,12 +365,24 @@
             "anticancer",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006047.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "inhibitor"
+      ],
+      "id": "NCT00006047"
 }

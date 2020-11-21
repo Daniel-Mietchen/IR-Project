@@ -166,17 +166,47 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "cyclophosphamide",
             "etoposide"
       ],
       "description": [
-            "120",
+            "iv",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "4",
+            "cycle",
+            "mg",
+            "mouth",
+            "bid",
+            "day",
+            "cycle",
+            "x",
+            "4",
+            "cycle",
+            "restaging",
+            "progression",
+            "maintenance",
+            "cyclophosphamide",
+            "alone",
+            "25",
+            "mg",
+            "mouth",
+            "bid",
+            "daily",
+            "disease",
+            "progression",
             "iv",
             "day",
             "120",
@@ -189,7 +219,16 @@
             "day"
       ],
       "arm_group_label": [
-            "oral",
+            "cyclophosphamide",
+            "plus",
+            "standard",
+            "cisplatin",
+            "etoposide",
+            "cyclophosphamide",
+            "plus",
+            "standard",
+            "cisplatin",
+            "etoposide",
             "cyclophosphamide",
             "plus",
             "standard",
@@ -335,12 +374,26 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083161.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00083161"
 }

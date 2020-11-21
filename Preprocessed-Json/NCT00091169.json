@@ -207,23 +207,25 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Dietary Supplement",
+            "Other"
+      ],
       "intervention_name": [
+            "levocarnitine",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
             "ii"
       ],
       "criteria": [
@@ -337,12 +339,17 @@
             "prior",
             "registration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091169.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carnitine",
+            "deficiency"
+      ],
+      "mesh_term": [],
+      "id": "NCT00091169"
 }

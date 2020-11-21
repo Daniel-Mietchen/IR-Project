@@ -111,17 +111,15 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irofulven"
+            "Irofulven (MGI-114)"
       ],
       "description": [
-            "iv",
             "5",
             "minute",
             "daily",
@@ -139,9 +137,7 @@
             "2",
             "course"
       ],
-      "arm_group_label": [
-            "irofulven"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
@@ -308,12 +304,18 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003441.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "irofulven"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003441"
 }

@@ -197,19 +197,21 @@
             "day"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "gefitinib",
+            "irinotecan hydrochloride",
+            "leucovorin calcium"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -478,12 +480,19 @@
             "irinotecan",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026364.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00026364"
 }

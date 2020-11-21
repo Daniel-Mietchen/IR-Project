@@ -31,17 +31,18 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
+            "mellitus",
+            "type",
+            "1",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ingap",
-            "peptide"
+            "INGAP Peptide"
       ],
       "criteria": [
             "inclusion",
@@ -189,7 +190,7 @@
             "lactate",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -198,6 +199,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00034255.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00034255"
 }

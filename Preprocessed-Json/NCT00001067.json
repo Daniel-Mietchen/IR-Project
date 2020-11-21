@@ -94,14 +94,17 @@
             "amend"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -298,12 +301,18 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001067.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lamivudine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001067"
 }

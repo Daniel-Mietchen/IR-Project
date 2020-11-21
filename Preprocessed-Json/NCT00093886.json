@@ -92,20 +92,17 @@
             "safety",
             "variable"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nitroglycerin"
-      ],
-      "arm_group_label": [
-            "nitroglycerin"
-      ],
-      "other_name": [
             "clevidipine",
+            "nitroglycerin"
+      ],
+      "arm_group_label": [],
+      "other_name": [
             "cleviprex"
       ],
       "criteria": [
@@ -213,12 +210,17 @@
             "determine",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093886.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "preoperative",
+            "hypertension"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093886"
 }

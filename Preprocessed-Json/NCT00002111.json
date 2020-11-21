@@ -52,14 +52,13 @@
             "review"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "saquinavir"
+            "Saquinavir"
       ],
       "criteria": [
             "inclusion",
@@ -234,12 +233,25 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002111.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "protease",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00002111"
 }

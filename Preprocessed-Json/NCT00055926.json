@@ -143,13 +143,14 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CP-724,714"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -211,7 +212,6 @@
             "count",
             "least",
             "note",
-            "without",
             "hematopoietic",
             "growth",
             "factor",
@@ -269,7 +269,6 @@
             "able",
             "take",
             "oral",
-            "medication",
             "negative",
             "pregnancy",
             "test",
@@ -512,12 +511,20 @@
             "breast",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055926.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "male",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00055926"
 }

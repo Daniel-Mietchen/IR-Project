@@ -328,7 +328,6 @@
             "total",
             "enrollment",
             "791",
-            "indicate",
             "center",
             "participate",
             "ancillary",
@@ -503,13 +502,17 @@
             "use",
             "test"
       ],
-      "condition": [
-            "osteoarthritis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "glucosamine",
+            "chondroitin sulfate",
+            "glucosamine and chondroitin sulfate combined",
             "celecoxib"
       ],
       "criteria": [
@@ -524,12 +527,17 @@
             "six",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "knee",
+            "pain"
+      ],
+      "mesh_term": [],
+      "id": "NCT00032890"
 }

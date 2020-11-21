@@ -271,15 +271,18 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "zoledronic acid",
+            "adjuvant therapy",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -353,14 +356,12 @@
             "treatment",
             "axillary",
             "lymph",
-            "nod",
             "must",
             "lymph",
             "node",
             "involvement",
             "prior",
             "neoadjuvant",
-            "therapy",
             "60",
             "day",
             "since",
@@ -368,7 +369,6 @@
             "definitive",
             "surgery",
             "note",
-            "patient",
             "whose",
             "treatment",
             "plan",
@@ -396,7 +396,6 @@
             "study",
             "entry",
             "note",
-            "preoperative",
             "endocrine",
             "therapy",
             "duration",
@@ -588,14 +587,23 @@
             "approve",
             "indication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072020.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "acid"
+      ],
+      "id": "NCT00072020"
 }

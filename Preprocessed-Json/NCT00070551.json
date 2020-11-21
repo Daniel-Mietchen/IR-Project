@@ -177,30 +177,72 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
             "adult",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "GTI-2040",
+            "cytarabine",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "optional",
+            "iv",
+            "iv",
+            "correlative",
+            "study",
             "correlative",
             "study"
       ],
       "arm_group_label": [
-            "stratum",
+            "cytarabine",
+            "ii",
+            "cytarabine",
+            "cytarabine",
+            "ii",
+            "cytarabine",
+            "cytarabine",
+            "ii",
+            "cytarabine",
+            "cytarabine",
             "ii",
             "cytarabine"
       ],
       "other_name": [
-            "pharmacological",
+            "arabinoside",
             "study"
       ],
       "criteria": [
@@ -258,7 +300,6 @@
             "time",
             "upper",
             "limit",
-            "normal",
             "uln",
             "unless",
             "due",
@@ -269,7 +310,6 @@
             "greater",
             "3",
             "time",
-            "uln",
             "creatinine",
             "greater",
             "symptomatic",
@@ -398,12 +438,17 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070551.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00070551"
 }

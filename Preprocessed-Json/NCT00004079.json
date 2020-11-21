@@ -162,29 +162,33 @@
             "posttreatment"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "SarCNU",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "po",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "sarcnu",
+            "sarcnu",
             "sarcnu"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -348,12 +352,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004079.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "nitrosoamino",
+            "carbonyl",
+            "amino",
+            "propanamide"
+      ],
+      "id": "NCT00004079"
 }

@@ -200,19 +200,25 @@
             "year"
       ],
       "condition": [
+            "cancer",
             "nausea",
             "vomit"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "nausea",
-            "vomit",
-            "therapy"
+            "acupressure therapy",
+            "management of therapy complications",
+            "nausea and vomiting therapy"
       ],
       "arm_group_label": [
-            "usual",
+            "acupressure",
+            "acupressure",
+            "care",
+            "acupressure",
             "care"
       ],
       "criteria": [
@@ -302,14 +308,21 @@
             "antiemetic",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046865.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00046865"
 }

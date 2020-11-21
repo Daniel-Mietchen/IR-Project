@@ -109,17 +109,23 @@
             "infusion"
       ],
       "condition": [
-            "lymphoproliferative",
+            "disorder",
+            "myeloma",
+            "cell",
+            "dyscrasia",
             "disorder"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "collection",
-            "infusion"
+            "FLUDARABINE",
+            "CAMPATH 1H",
+            "FK50",
+            "Stem Cell Collection and Infusion"
       ],
       "criteria": [
             "inclusion",
@@ -346,12 +352,18 @@
             "hematological",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048412.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "disorder",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00048412"
 }

@@ -415,18 +415,22 @@
             "ziprasidone"
       ],
       "condition": [
-            "cognition",
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Ziprasidone",
+            "Haloperidol",
+            "Placebo"
       ],
       "arm_group_label": [
             "placebo"
       ],
       "other_name": [
-            "per",
             "oral",
             "pill"
       ],
@@ -757,12 +761,20 @@
             "24",
             "hour"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096863.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "critical",
+            "illness"
+      ],
+      "mesh_term": [
+            "disorder",
+            "decanoate"
+      ],
+      "id": "NCT00096863"
 }

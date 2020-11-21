@@ -24,20 +24,85 @@
             "mellitus"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metformin",
-            "rescue"
+            "Sitagliptin (MK0431)",
+            "Sitagliptin",
+            "Placebo",
+            "Placebo",
+            "Metformin - Rescue"
       ],
       "description": [
+            "sitagliptin",
+            "100",
+            "mg",
+            "day",
+            "24",
+            "week",
             "phase",
+            "b",
+            "sitagliptin",
+            "100",
+            "mg",
+            "day",
+            "80",
+            "week",
+            "sitagliptin",
+            "200",
+            "mg",
+            "day",
+            "24",
+            "week",
+            "phase",
+            "b",
+            "sitagliptin",
+            "200",
+            "mg",
+            "day",
+            "80",
+            "week",
+            "placebo",
+            "match",
+            "sitagliptin",
+            "100",
+            "mg",
+            "day",
+            "24",
+            "week",
+            "phase",
+            "b",
+            "sitagliptin",
+            "100",
+            "mg",
+            "day",
+            "80",
+            "week",
+            "placebo",
+            "match",
+            "sitagliptin",
+            "200",
+            "mg",
+            "day",
+            "24",
+            "week",
+            "phase",
+            "b",
+            "sitagliptin",
+            "200",
+            "mg",
+            "day",
+            "80",
+            "week",
             "patient",
             "meet",
             "specific",
@@ -65,11 +130,25 @@
             "medication"
       ],
       "arm_group_label": [
+            "100",
+            "mg",
+            "200",
+            "mg",
+            "100",
+            "mg",
+            "200",
+            "mg",
+            "100",
+            "mg",
+            "200",
+            "mg",
+            "100",
+            "mg",
             "200",
             "mg"
       ],
       "other_name": [
-            "riomet"
+            "xr"
       ],
       "criteria": [
             "inclusion",
@@ -203,7 +282,7 @@
             "3",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -212,6 +291,13 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087516.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "phosphate"
+      ],
+      "id": "NCT00087516"
 }

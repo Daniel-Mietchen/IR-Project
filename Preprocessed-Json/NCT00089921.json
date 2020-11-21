@@ -131,24 +131,49 @@
             "week"
       ],
       "condition": [
-            "arthritis",
             "rheumatoid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SCIO-469",
+            "SCIO-469",
+            "Placebo",
+            "SCIO-469"
+      ],
       "description": [
-            "100",
+            "mg",
+            "capsule",
+            "three",
+            "time",
+            "daily",
+            "12",
+            "week",
+            "mg",
+            "capsule",
+            "three",
+            "time",
+            "daily",
+            "12",
+            "week",
+            "capsule",
+            "three",
+            "time",
+            "daily",
+            "one",
+            "tablet",
+            "daily",
             "mg",
             "tablet",
             "daily",
             "12",
             "week"
       ],
-      "arm_group_label": [
-            "003"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -214,12 +239,18 @@
             "acute",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089921.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kinase"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00089921"
 }

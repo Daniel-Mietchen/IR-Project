@@ -600,14 +600,15 @@
             "trial"
       ],
       "condition": [
-            "lymphoproliferative",
+            "disease",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pyrimethamine"
+            "Pyrimethamine"
       ],
       "criteria": [
             "inclusion",
@@ -901,9 +902,21 @@
             "requirement",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065390.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autoimmune",
+            "lymphoproliferative",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "disorder",
+            "disease",
+            "lymphoproliferative",
+            "syndrome"
+      ],
+      "id": "NCT00065390"
 }

@@ -97,26 +97,27 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "semaxanib",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "semaxanib",
             "semaxanib"
       ],
       "other_name": [
-            "sugen",
             "5416"
       ],
       "criteria": [
@@ -319,12 +320,13 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006003.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00006003"
 }

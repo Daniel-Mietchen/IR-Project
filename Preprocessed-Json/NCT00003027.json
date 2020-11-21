@@ -212,13 +212,22 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "filgrastim",
+            "recombinant interferon alfa",
+            "cisplatin",
+            "dacarbazine",
             "vinblastine"
       ],
       "criteria": [
@@ -437,12 +446,18 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003027.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003027"
 }

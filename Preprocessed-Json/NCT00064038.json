@@ -322,20 +322,27 @@
             "year"
       ],
       "condition": [
-            "plasma",
+            "myeloma",
             "cell",
             "neoplasm"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "dexamethasone",
+            "lenalidomide",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "criteria": [
@@ -385,7 +392,6 @@
             "status",
             "zubrod",
             "note",
-            "zubrod",
             "3",
             "allow",
             "multiple",
@@ -412,7 +418,6 @@
             "transfusion",
             "allow",
             "note",
-            "unless",
             "due",
             "greater",
             "50",
@@ -426,9 +431,7 @@
             "time",
             "upper",
             "limit",
-            "normal",
             "note",
-            "value",
             "outside",
             "range",
             "allow",
@@ -438,7 +441,6 @@
             "creatinine",
             "greater",
             "note",
-            "value",
             "outside",
             "range",
             "allow",
@@ -611,12 +613,25 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064038.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00064038"
 }

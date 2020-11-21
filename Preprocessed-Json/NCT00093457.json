@@ -136,18 +136,15 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sorafenib",
-            "tosylate"
+            "sorafenib tosylate"
       ],
       "description": [
-            "bay",
             "give",
             "orally",
             "400",
@@ -444,14 +441,19 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093457.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00093457"
 }

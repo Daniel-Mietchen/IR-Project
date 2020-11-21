@@ -310,16 +310,21 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "thermal",
-            "ablation",
-            "therapy"
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "thermal ablation therapy"
       ],
       "criteria": [
             "disease",
@@ -506,14 +511,22 @@
             "concurrent",
             "anticoagulant"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00036985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00036985"
 }

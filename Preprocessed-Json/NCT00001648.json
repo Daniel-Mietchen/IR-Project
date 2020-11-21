@@ -236,7 +236,8 @@
             "infection"
       ],
       "condition": [
-            "skin",
+            "simplex",
+            "disease",
             "disease"
       ],
       "criteria": [
@@ -312,12 +313,22 @@
             "blood",
             "donor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001648.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "herpes",
+            "simplex",
+            "virus"
+      ],
+      "mesh_term": [
+            "simplex",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00001648"
 }

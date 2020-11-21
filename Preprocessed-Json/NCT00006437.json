@@ -242,7 +242,6 @@
             "population"
       ],
       "condition": [
-            "skin",
             "ulcer"
       ],
       "criteria": [
@@ -288,9 +287,16 @@
             "see",
             "population"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006437.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "extracellular",
+            "matrix"
+      ],
+      "mesh_term": [
+            "ulcer"
+      ],
+      "id": "NCT00006437"
 }

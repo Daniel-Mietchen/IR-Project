@@ -284,14 +284,14 @@
             "infusion"
       ],
       "condition": [
-            "polymyositis"
+            "body",
+            "myositis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "gamma",
-            "globulin"
+            "Gamma Globulin"
       ],
       "criteria": [
             "inclusion",
@@ -451,9 +451,21 @@
             "iga",
             "le"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001261.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inclusion",
+            "body",
+            "myositis"
+      ],
+      "mesh_term": [
+            "inclusion",
+            "body",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00001261"
 }

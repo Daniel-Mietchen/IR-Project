@@ -141,11 +141,10 @@
             "month"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "trabectedin"
@@ -363,12 +362,20 @@
             "anticancer",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027508.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00027508"
 }

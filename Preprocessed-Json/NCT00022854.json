@@ -231,24 +231,42 @@
             "patient"
       ],
       "condition": [
-            "anterior",
             "cruciate",
             "ligament",
             "rupture"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "saline",
-            "control",
-            "injection",
-            "femoral",
-            "nerve",
-            "envelope"
+            "Single-injection femoral nerve block",
+            "Femoral nerve block 60-hour continuous injection",
+            "Saline (control) injection into femoral nerve envelope"
       ],
       "description": [
-            "nerve",
+            "block",
+            "bolus",
+            "30",
+            "ml",
+            "levobupivacaine",
+            "follow",
+            "continuous",
+            "saline",
+            "infusion",
+            "block",
+            "bolus",
+            "30",
+            "ml",
+            "levobupivacaine",
+            "follow",
+            "continuous",
+            "infusion",
+            "5",
+            "50",
+            "hour",
+            "levobupivacaine",
             "block",
             "bolus",
             "30",
@@ -259,9 +277,7 @@
             "saline",
             "infusion"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -321,7 +337,7 @@
             "anxiety",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
@@ -330,6 +346,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022854.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pain"
+      ],
+      "mesh_term": [],
+      "id": "NCT00022854"
 }

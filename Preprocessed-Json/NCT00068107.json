@@ -393,25 +393,20 @@
             "extension"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "replagal"
+            "Replagal"
       ],
       "description": [
-            "enzyme",
             "replacement",
             "therapy"
       ],
-      "arm_group_label": [
-            "relagal"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "agalsidase",
             "alfa"
       ],
       "criteria": [
@@ -560,11 +555,16 @@
             "unsuitable",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068107.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fabry",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00068107"
 }

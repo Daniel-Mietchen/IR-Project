@@ -192,18 +192,19 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "melphalan",
+            "thiotepa",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -390,9 +391,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -401,6 +400,15 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002977.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "brenner",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "glandular",
+            "epithelial"
+      ],
+      "id": "NCT00002977"
 }

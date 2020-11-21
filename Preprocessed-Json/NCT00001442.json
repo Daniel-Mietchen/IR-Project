@@ -150,18 +150,16 @@
             "cycle"
       ],
       "condition": [
-            "squamous",
+            "neck",
+            "neoplasm",
             "cell",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "concurrent",
-            "radiation",
-            "therapy"
+            "paclitaxel concurrent with radiation therapy"
       ],
       "criteria": [
             "inclusion",
@@ -390,9 +388,23 @@
             "monday",
             "friday"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001442.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "potential",
+            "double",
+            "time",
+            "tpot"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00001442"
 }

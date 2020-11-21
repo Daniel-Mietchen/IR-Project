@@ -257,13 +257,19 @@
             "continue"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Other",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "counsel",
-            "intervention"
+            "loss of heterozygosity analysis",
+            "microsatellite instability analysis",
+            "mutation analysis",
+            "counseling intervention"
       ],
       "criteria": [
             "disease",
@@ -317,7 +323,6 @@
             "phenotype",
             "multiple",
             "primary",
-            "cancer",
             "regardless",
             "family",
             "history",
@@ -351,7 +356,6 @@
             "age",
             "51",
             "note",
-            "recruitment",
             "new",
             "family",
             "hnpcc",
@@ -394,12 +398,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004210.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "hereditary",
+            "nonpolyposis"
+      ],
+      "id": "NCT00004210"
 }

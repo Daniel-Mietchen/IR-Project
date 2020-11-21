@@ -192,15 +192,15 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "annual",
-            "screen"
+            "screening questionnaire administration",
+            "annual screening"
       ],
       "criteria": [
             "disease",
@@ -303,9 +303,7 @@
             "screen",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -314,6 +312,14 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058032.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00058032"
 }

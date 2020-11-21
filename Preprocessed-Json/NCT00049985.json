@@ -31,14 +31,13 @@
             "classification"
       ],
       "condition": [
-            "anemia"
+            "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "darbepoetin",
-            "alfa"
+            "Darbepoetin Alfa"
       ],
       "criteria": [
             "inclusion",
@@ -115,12 +114,16 @@
             "blood",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049985.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "alfa"
+      ],
+      "id": "NCT00049985"
 }

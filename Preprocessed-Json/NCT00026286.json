@@ -221,13 +221,16 @@
             "month"
       ],
       "condition": [
-            "menopausal",
+            "cancer",
+            "flash",
             "symptom"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "conjugated estrogens",
             "medroxyprogesterone"
       ],
       "criteria": [
@@ -490,14 +493,23 @@
             "continue",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026286.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "menopausal",
+            "symptom"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "conjugate",
+            "usp",
+            "acetate"
+      ],
+      "id": "NCT00026286"
 }

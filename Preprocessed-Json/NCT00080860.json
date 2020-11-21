@@ -213,17 +213,25 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Genetic",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "technetium",
-            "tc",
-            "sulfur",
-            "colloid"
+            "microarray analysis",
+            "immunohistochemistry staining method",
+            "conventional surgery",
+            "lymphangiography",
+            "radionuclide imaging",
+            "sentinel lymph node biopsy",
+            "technetium Tc 99m sulfur colloid"
       ],
       "criteria": [
             "disease",
@@ -347,14 +355,24 @@
             "muga",
             "scan"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tc",
+            "sulfur",
+            "colloid"
+      ],
+      "id": "NCT00080860"
 }

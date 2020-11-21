@@ -34,17 +34,30 @@
             "alone"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "cetuximab",
+            "oxaliplatin",
+            "leucovorin",
+            "5-fluorouracil",
+            "5-fluorouracil",
             "cetuximab"
       ],
       "description": [
-            "250",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [],
@@ -116,12 +129,15 @@
             "antibody",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061815.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00061815"
 }

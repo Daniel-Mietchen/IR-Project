@@ -177,16 +177,18 @@
             "study"
       ],
       "condition": [
-            "hot",
+            "cancer",
             "flash"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "acupuncture therapy",
+            "hot flashes attenuation",
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -298,11 +300,17 @@
             "4",
             "week"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081965.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash"
+      ],
+      "id": "NCT00081965"
 }

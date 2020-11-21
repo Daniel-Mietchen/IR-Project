@@ -30,28 +30,33 @@
             "cancer"
       ],
       "condition": [
-            "neoplasm",
             "breast"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "letrozole"
+            "Lapatinib (GW572016)",
+            "Letrozole"
       ],
       "description": [
+            "mg",
+            "orally",
+            "day",
             "mg",
             "orally",
             "day"
       ],
       "arm_group_label": [
-            "lapatinib",
+            "plus",
+            "letrozole",
+            "plus",
+            "letrozole",
             "plus",
             "letrozole"
       ],
-      "other_name": [
-            "lapatinib"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -496,14 +501,19 @@
             "excipients",
             "femara"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073528.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00073528"
 }

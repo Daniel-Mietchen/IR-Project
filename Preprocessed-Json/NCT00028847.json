@@ -198,15 +198,14 @@
             "2",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "cytarabine",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -339,7 +338,7 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -348,6 +347,20 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00028847.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00028847"
 }

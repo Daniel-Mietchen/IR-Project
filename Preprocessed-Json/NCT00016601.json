@@ -316,15 +316,23 @@
             "periodically"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "medroxyprogesterone",
-            "acetate"
+            "Indinavir sulfate",
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Efavirenz",
+            "Nevirapine",
+            "Medroxyprogesterone acetate"
       ],
       "criteria": [
             "inclusion",
@@ -765,14 +773,24 @@
             "protocol",
             "chair"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016601.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor",
+            "transcriptase",
+            "inhibitor",
+            "acetate"
+      ],
+      "id": "NCT00016601"
 }

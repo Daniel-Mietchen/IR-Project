@@ -78,14 +78,15 @@
             "day"
       ],
       "condition": [
-            "polycystic",
             "ovary",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "clomiphene citrate",
             "metformin"
       ],
       "criteria": [
@@ -210,9 +211,7 @@
             "abuse",
             "alcoholism"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -221,6 +220,15 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005654.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "ovary",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00005654"
 }

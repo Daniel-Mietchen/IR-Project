@@ -136,17 +136,23 @@
             "study"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
             "tirapazamine"
       ],
       "description": [
-            "260",
+            "iv",
+            "infusion",
+            "tirapazamine",
+            "day",
+            "1",
+            "cycle",
             "two",
             "hour",
             "prior",
@@ -156,9 +162,7 @@
             "cycle"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "platinol"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -324,14 +328,22 @@
             "therapy",
             "disease"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003369.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00003369"
 }

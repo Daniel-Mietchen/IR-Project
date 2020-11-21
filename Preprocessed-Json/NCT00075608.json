@@ -154,20 +154,46 @@
             "year"
       ],
       "condition": [
-            "plasma",
+            "myeloma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "infusion"
+            "filgrastim",
+            "melphalan",
+            "autologous stem cell transplantation",
+            "stem cell infusion"
       ],
       "description": [
-            "infusion",
+            "iv",
+            "daily",
+            "begin",
+            "three",
+            "day",
+            "prior",
+            "stem",
+            "cell",
+            "collection",
+            "last",
+            "day",
+            "stem",
+            "cell",
+            "collection",
+            "iv",
+            "two",
+            "day",
+            "previously",
+            "collect",
+            "stem",
+            "cell",
+            "day",
+            "0",
             "previously",
             "collect",
             "stem",
@@ -178,11 +204,18 @@
       "arm_group_label": [
             "stem",
             "cell",
+            "transplant",
+            "stem",
+            "cell",
+            "transplant",
+            "stem",
+            "cell",
+            "transplant",
+            "stem",
+            "cell",
             "transplant"
       ],
-      "other_name": [
-            "alkeran"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -292,7 +325,6 @@
             "mass",
             "improvement",
             "performance",
-            "status",
             "note",
             "criterion",
             "alone",
@@ -408,7 +440,7 @@
             "skin",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -417,6 +449,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075608.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "systemic",
+            "amyloidosis"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00075608"
 }

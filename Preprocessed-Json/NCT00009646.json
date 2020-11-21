@@ -151,26 +151,44 @@
             "age"
       ],
       "condition": [
-            "ductus",
+            "low",
+            "birth",
+            "weight",
+            "premature",
             "arteriosus",
             "patent"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "indomethacin",
+            "Indomethacin",
+            "Placebo"
       ],
       "description": [
+            "merck",
+            "frosst",
+            "kirkland",
+            "canada",
+            "merck",
+            "west",
+            "point",
+            "pa",
+            "mg",
+            "per",
+            "kilogram",
+            "body",
+            "weight",
             "mg",
             "per",
             "kilogram",
             "body",
             "weight"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -227,12 +245,21 @@
             "consider",
             "viable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "6",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00009646.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pulmonary",
+            "hemorrhage"
+      ],
+      "mesh_term": [
+            "weight",
+            "arteriosus",
+            "patent"
+      ],
+      "id": "NCT00009646"
 }

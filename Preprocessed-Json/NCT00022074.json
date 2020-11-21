@@ -175,14 +175,17 @@
             "month"
       ],
       "condition": [
-            "hot",
+            "disorder",
+            "cancer",
             "flash"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "gabapentin",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -295,14 +298,21 @@
             "clonidine",
             "venlafaxine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022074.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "disorder",
+            "flash"
+      ],
+      "id": "NCT00022074"
 }

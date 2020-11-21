@@ -249,22 +249,41 @@
             "therapy"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tuberculosis",
-            "treatment"
+            "Abacavir",
+            "Lamivudine",
+            "Zidovudine",
+            "Tuberculosis treatment"
       ],
       "description": [
-            "tuberculosis",
+            "mg",
+            "tablet",
+            "take",
+            "orally",
+            "twice",
+            "daily",
+            "mg",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "tablet",
+            "take",
+            "orally",
+            "twice",
+            "daily",
             "treatment"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -305,7 +324,7 @@
             "criterion",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -314,6 +333,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078247.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "africa"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00078247"
 }

@@ -40,15 +40,18 @@
             "glucose"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "biphasic insulin aspart",
+            "pioglitazone",
             "metformin"
       ],
       "criteria": [
@@ -60,12 +63,27 @@
             "diabetes",
             "mellitus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097279.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "globin",
+            "zinc",
+            "degludec",
+            "insulin",
+            "aspart",
+            "drug",
+            "combination",
+            "insulin",
+            "aspart"
+      ],
+      "id": "NCT00097279"
 }

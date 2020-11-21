@@ -358,7 +358,11 @@
             "design"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "mellitus",
+            "dependent",
+            "disease",
+            "infarction",
             "mellitus"
       ],
       "criteria": [
@@ -377,7 +381,7 @@
             "20",
             "minority"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -386,6 +390,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031200.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "infarction",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00031200"
 }

@@ -265,19 +265,44 @@
             "chemotherapy",
             "alternate"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "asparaginase",
+            "cyclophosphamide",
+            "daunorubicin hydrochloride",
+            "dexamethasone",
+            "etoposide",
+            "leucovorin calcium",
+            "liposomal cytarabine",
+            "mercaptopurine",
+            "mesna",
+            "methotrexate",
+            "therapeutic hydrocortisone",
+            "thiotepa",
+            "vincristine sulfate",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -425,12 +450,27 @@
             "craniospinal",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002704.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tdt",
+            "positive",
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002704"
 }

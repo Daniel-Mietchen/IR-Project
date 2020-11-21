@@ -48,24 +48,31 @@
             "stag"
       ],
       "condition": [
-            "malignant",
             "metastatic",
             "melanoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "integrin",
-            "dacarbazine"
+            "MEDI--522",
+            "Integrin + Dacarbazine"
       ],
       "description": [
+            "administration",
             "supply",
+            "10",
+            "ml",
+            "vial",
+            "contain",
+            "100",
+            "mg",
+            "concentration",
+            "10",
             "formulation"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "patient",
@@ -494,12 +501,13 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066196.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00066196"
 }

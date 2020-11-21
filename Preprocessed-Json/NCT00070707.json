@@ -41,13 +41,14 @@
             "asthma"
       ],
       "condition": [
-            "asthma"
+            "allergic",
+            "seasonal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "nasonex"
+            "Nasonex"
       ],
       "criteria": [
             "eligibility",
@@ -151,7 +152,7 @@
             "bmi",
             "35"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -160,6 +161,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070707.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "concomitant",
+            "asthma"
+      ],
+      "mesh_term": [
+            "allergic",
+            "allergic",
+            "seasonal",
+            "furoate"
+      ],
+      "id": "NCT00070707"
 }

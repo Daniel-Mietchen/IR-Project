@@ -281,17 +281,52 @@
             "month"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "G17DT Immunogen",
+            "cisplatin",
             "fluorouracil"
       ],
       "description": [
+            "500",
+            "microgram",
+            "route",
+            "deep",
+            "intramuscular",
+            "schedule",
+            "day",
+            "8",
+            "36",
+            "64",
+            "additional",
             "dose",
+            "week",
+            "2",
+            "cycle",
+            "7",
+            "administer",
+            "100",
+            "route",
+            "infusion",
+            "500",
+            "ml",
+            "nacl",
+            "administer",
+            "3",
+            "hour",
+            "schedule",
+            "day",
+            "1",
+            "every",
+            "4",
+            "week",
             "route",
             "continuous",
             "infusion",
@@ -308,10 +343,10 @@
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "treatment"
+      "arm_group_label": [],
+      "other_name": [
+            "ii"
       ],
-      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -558,12 +593,20 @@
             "toxicity",
             "management"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020787.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00020787"
 }

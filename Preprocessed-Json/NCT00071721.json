@@ -332,17 +332,38 @@
             "confidentiality"
       ],
       "condition": [
-            "alzheimer",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Valproate",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "tablet",
+            "begin",
+            "one",
+            "daily",
+            "one",
+            "week",
+            "two",
+            "daily",
+            "one",
+            "week",
+            "titrate",
+            "accord",
+            "body",
+            "weight",
+            "tolerability",
+            "achieve",
+            "daily",
+            "2",
+            "year",
+            "follow",
+            "washout",
             "tablet",
             "begin",
             "one",
@@ -358,11 +379,8 @@
             "follow",
             "washout"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "depakene",
             "depakote"
       ],
       "criteria": [
@@ -878,7 +896,7 @@
             "criterion",
             "meet"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -887,6 +905,13 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00071721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosis"
+      ],
+      "mesh_term": [
+            "disease",
+            "acid"
+      ],
+      "id": "NCT00071721"
 }

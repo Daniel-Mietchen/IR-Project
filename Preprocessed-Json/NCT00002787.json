@@ -175,28 +175,54 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "multiple",
+            "myeloma",
+            "multiple",
+            "myeloma",
+            "ii",
+            "multiple",
+            "myeloma",
             "iii",
             "multiple",
             "myeloma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "autologous immunoglobulin idiotype-KLH conjugate vaccine",
+            "sargramostim",
+            "aldesleukin",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "vaccine",
+            "therapy",
+            "vaccine",
+            "therapy",
+            "vaccine",
+            "therapy",
             "vaccine",
             "therapy"
       ],
       "other_name": [
-            "recombinant"
+            "immunoglobulin",
+            "limpet",
+            "hemocyanin",
+            "conjugate",
+            "vaccine",
+            "conjugate",
+            "vaccine",
+            "human"
       ],
       "criteria": [
             "inclusion",
@@ -376,9 +402,16 @@
             "receive",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002787.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "idiotypes",
+            "hemocyanin"
+      ],
+      "id": "NCT00002787"
 }

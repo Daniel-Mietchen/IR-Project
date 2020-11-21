@@ -162,7 +162,6 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -170,9 +169,13 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
+            "fenretinide",
             "paclitaxel"
       ],
       "criteria": [
@@ -357,12 +360,23 @@
             "least",
             "10"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009932.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00009932"
 }

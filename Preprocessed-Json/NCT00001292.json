@@ -207,7 +207,9 @@
             "modality"
       ],
       "condition": [
-            "lamellar",
+            "skin",
+            "disease",
+            "follicularis",
             "ichthyosis"
       ],
       "criteria": [
@@ -215,9 +217,19 @@
             "sulfatase",
             "deficiency"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001292.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "skin"
+      ],
+      "mesh_term": [
+            "disease",
+            "lamellar",
+            "disease",
+            "genetic",
+            "disease"
+      ],
+      "id": "NCT00001292"
 }

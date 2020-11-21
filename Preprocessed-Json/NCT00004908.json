@@ -146,15 +146,16 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cyclophosphamide",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -278,11 +279,9 @@
             "dlco",
             "least",
             "50",
-            "predict",
             "fvc",
             "least",
             "75",
-            "predict",
             "unless",
             "due",
             "underlie",
@@ -309,12 +308,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004908.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00004908"
 }

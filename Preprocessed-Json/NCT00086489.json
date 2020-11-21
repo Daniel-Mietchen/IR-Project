@@ -22,15 +22,23 @@
             "melanoma"
       ],
       "condition": [
-            "malignant",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CP-675,206",
+            "CP-675,206"
+      ],
       "description": [
-            "pt",
+            "treat",
+            "10",
+            "dose",
+            "level",
+            "monthly",
+            "regimen",
             "treat",
             "15",
             "dose",
@@ -38,9 +46,7 @@
             "quarterly",
             "regimen"
       ],
-      "arm_group_label": [
-            "15"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -410,12 +416,19 @@
             "inhibit",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086489.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multiple",
+            "dose"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00086489"
 }

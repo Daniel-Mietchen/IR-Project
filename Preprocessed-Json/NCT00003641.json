@@ -220,25 +220,28 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
+            "interferon alfa-2b",
             "observation"
       ],
       "description": [
-            "patient",
+            "iv",
             "undergo",
             "observation",
             "4",
             "week"
       ],
-      "arm_group_label": [
-            "observation"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "clinical",
+            "interferon",
+            "alfa",
+            "377523",
             "observation"
       ],
       "criteria": [
@@ -574,12 +577,18 @@
             "immunosuppressive",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003641.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003641"
 }

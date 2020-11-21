@@ -214,17 +214,18 @@
             "utmdacc"
       ],
       "condition": [
-            "osteosarcoma"
+            "tissue",
+            "sarcoma",
+            "wilms",
+            "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "liposomal",
-            "vincristine"
+            "Liposomal Vincristine"
       ],
       "description": [
-            "vincristine",
             "sulfate",
             "liposome",
             "injection",
@@ -243,11 +244,9 @@
             "day"
       ],
       "arm_group_label": [
-            "liposomal",
             "vincristine"
       ],
       "other_name": [
-            "vincristine",
             "sulfate",
             "liposome"
       ],
@@ -396,9 +395,16 @@
             "vinca",
             "alkaloid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038207.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "tumor"
+      ],
+      "id": "NCT00038207"
 }

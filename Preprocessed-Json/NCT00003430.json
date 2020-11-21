@@ -151,7 +151,8 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "neck",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -159,9 +160,11 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "L-778,123"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -494,12 +497,21 @@
             "patency",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003430.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "oropharyngeal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00003430"
 }

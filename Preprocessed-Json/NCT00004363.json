@@ -177,14 +177,16 @@
             "protocol"
       ],
       "condition": [
-            "diabetes",
+            "insipidus",
             "insipidus",
             "neurohypophyseal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "chlorpropamide",
             "desmopressin"
       ],
       "criteria": [
@@ -205,7 +207,7 @@
             "kindred",
             "enter"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -214,6 +216,19 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004363.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "insipidus",
+            "insipidus",
+            "neurogenic",
+            "arginine",
+            "vasopressin",
+            "vasopressin"
+      ],
+      "id": "NCT00004363"
 }

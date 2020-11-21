@@ -181,29 +181,25 @@
             "minute"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "general",
-            "hiv",
-            "information",
-            "feedback",
-            "information"
+            "Individual feedback and specially-tailored manuals",
+            "General HIV information feedback and the best-available information"
       ],
       "description": [
-            "general",
+            "feedback",
+            "manual",
             "hiv",
             "information",
             "feedback",
             "information"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -225,7 +221,7 @@
             "criterion",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -234,6 +230,15 @@
             "44",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00080093.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "behavioral",
+            "intervention"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00080093"
 }

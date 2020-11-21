@@ -143,27 +143,49 @@
             "treat"
       ],
       "condition": [
-            "relapse",
+            "acute",
+            "promyelocytic",
+            "leukemia",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "adult",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "anemia",
+            "excess",
+            "blast",
+            "anemia",
+            "excess",
+            "blast",
+            "transformation",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "bortezomib"
       ],
       "other_name": [
-            "velcade"
+            "341"
       ],
       "criteria": [
             "inclusion",
@@ -424,12 +446,34 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005064.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "refractory",
+            "crisis",
+            "refractory",
+            "excess",
+            "blast",
+            "promyelocytic",
+            "acute",
+            "aplastic",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00005064"
 }

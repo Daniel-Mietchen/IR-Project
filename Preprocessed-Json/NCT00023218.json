@@ -313,14 +313,16 @@
             "content"
       ],
       "condition": [
-            "hepatitis",
+            "infection",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Lopinavir/Ritonavir",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -555,12 +557,22 @@
             "previously",
             "enrol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00023218.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "alanine",
+            "transaminase"
+      ],
+      "mesh_term": [
+            "c",
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00023218"
 }

@@ -131,26 +131,32 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "multiple",
+            "myeloma",
+            "multiple",
+            "myeloma",
+            "ii",
+            "multiple",
+            "myeloma",
             "iii",
             "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "alvocidib"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "flavopiridol"
       ],
-      "other_name": [],
+      "other_name": [
+            "1275"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -378,12 +384,17 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047203.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00047203"
 }

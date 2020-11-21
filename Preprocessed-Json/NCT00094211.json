@@ -215,7 +215,7 @@
             "period"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -258,12 +258,16 @@
             "take",
             "place"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094211.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00094211"
 }

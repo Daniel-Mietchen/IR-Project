@@ -205,14 +205,17 @@
             "density"
       ],
       "condition": [
-            "growth",
+            "adrenal",
+            "hyperplasia",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "deslorelin"
+            "Flutamide and Testolactone",
+            "Deslorelin"
       ],
       "criteria": [
             "inclusion",
@@ -296,7 +299,7 @@
             "unusual",
             "occurrence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -305,6 +308,20 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001521.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "congenital",
+            "adrenal",
+            "hyperplasia",
+            "cah"
+      ],
+      "mesh_term": [
+            "hyperplasia",
+            "congenital",
+            "syndrome",
+            "hyperfunction",
+            "disorder",
+            "borate"
+      ],
+      "id": "NCT00001521"
 }

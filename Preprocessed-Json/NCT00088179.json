@@ -58,17 +58,14 @@
             "machine"
       ],
       "condition": [
-            "coronary",
             "artery",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pexelizumab",
-            "conjunction",
-            "cabg"
+            "pexelizumab in conjunction with CABG"
       ],
       "criteria": [
             "inclusion",
@@ -224,12 +221,21 @@
             "randomization",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cpb"
+      ],
+      "mesh_term": [
+            "artery",
+            "disease",
+            "ischemia",
+            "disease"
+      ],
+      "id": "NCT00088179"
 }

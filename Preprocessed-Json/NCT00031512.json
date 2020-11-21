@@ -404,17 +404,17 @@
             "age"
       ],
       "condition": [
-            "enteroviral",
             "sepsis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pleconaril"
+            "Placebo",
+            "Pleconaril (VP63843)"
       ],
       "description": [
-            "5",
             "oral",
             "every",
             "8",
@@ -440,9 +440,7 @@
             "suspension",
             "formulation"
       ],
-      "arm_group_label": [
-            "pleconaril"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -660,12 +658,24 @@
             "study",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "15",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031512.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "enterovirus",
+            "enteroviral",
+            "sepsis",
+            "pleconaril",
+            "infant"
+      ],
+      "mesh_term": [
+            "inflammatory",
+            "response",
+            "syndrome"
+      ],
+      "id": "NCT00031512"
 }

@@ -182,17 +182,32 @@
             "disorder"
       ],
       "condition": [
-            "seizure"
+            "absence",
+            "epilepsy",
+            "mal",
+            "epilepsy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "valproic",
-            "acid"
+            "ethosuximide",
+            "lamotrigine",
+            "valproic acid"
       ],
       "description": [
-            "valproic",
+            "common",
+            "treatment",
+            "childhood",
+            "absence",
+            "epilepsy",
+            "common",
+            "treatment",
+            "childhood",
+            "absence",
+            "epilepsy",
             "acid",
             "common",
             "treatment",
@@ -200,9 +215,7 @@
             "absence",
             "epilepsy"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -426,7 +439,7 @@
             "include",
             "acne"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "month"
@@ -435,6 +448,14 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088452.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "valproic",
+            "acid"
+      ],
+      "mesh_term": [
+            "absence",
+            "acid"
+      ],
+      "id": "NCT00088452"
 }

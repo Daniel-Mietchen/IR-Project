@@ -443,13 +443,20 @@
             "patient"
       ],
       "condition": [
-            "malignant",
+            "glioma",
+            "multiforme",
+            "astrocytoma",
+            "oligoastrocytoma",
             "astrocytoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "IL13-PE38QQR",
+            "targeted fusion protein therapy",
             "surgery"
       ],
       "criteria": [
@@ -649,12 +656,18 @@
             "must",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024557.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "positive",
+            "pressure",
+            "microinfusion"
+      ],
+      "mesh_term": [],
+      "id": "NCT00024557"
 }

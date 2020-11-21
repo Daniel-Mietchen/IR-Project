@@ -147,14 +147,17 @@
             "participant"
       ],
       "condition": [
-            "substance",
+            "dependence",
+            "dependence",
             "withdrawal",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Buprenorphine/naloxone"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -373,12 +376,25 @@
             "become",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032955.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "morphine",
+            "addiction"
+      ],
+      "mesh_term": [
+            "withdrawal",
+            "syndrome",
+            "dependence",
+            "dependence",
+            "naloxone",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00032955"
 }

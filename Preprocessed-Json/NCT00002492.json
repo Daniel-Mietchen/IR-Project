@@ -226,15 +226,22 @@
             "4",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "isolated limb perfusion",
+            "conventional surgery",
+            "brachytherapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -330,7 +337,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -339,6 +346,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002492.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00002492"
 }

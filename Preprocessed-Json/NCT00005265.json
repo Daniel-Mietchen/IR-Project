@@ -150,21 +150,38 @@
             "record"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "sudden",
+            "cardiac",
+            "failure",
+            "congestive",
             "failure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005265.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00005265"
 }

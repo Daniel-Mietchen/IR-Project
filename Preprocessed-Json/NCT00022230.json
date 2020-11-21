@@ -265,13 +265,24 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "filgrastim",
+            "sargramostim",
+            "therapeutic autologous lymphocytes",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "criteria": [
@@ -515,14 +526,22 @@
             "therapy",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022230.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00022230"
 }

@@ -197,20 +197,23 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "exemestane",
+            "Placebo"
       ],
       "description": [
-            "placebo"
+            "mg",
+            "5",
+            "year"
       ],
       "arm_group_label": [
-            "group",
+            "1",
             "2"
       ],
       "criteria": [
@@ -626,14 +629,21 @@
             "level",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016432.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00016432"
 }

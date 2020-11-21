@@ -100,15 +100,14 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "ligand"
+            "recombinant flt3 ligand"
       ],
       "criteria": [
             "disease",
@@ -290,12 +289,22 @@
             "azathioprine",
             "cyclosporine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003431.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "ligand",
+            "protein"
+      ],
+      "id": "NCT00003431"
 }

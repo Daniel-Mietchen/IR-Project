@@ -229,23 +229,44 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tyrosinase",
-            "peptide"
+            "aldesleukin",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "sargramostim",
+            "tetanus peptide melanoma vaccine",
+            "tyrosinase peptide"
       ],
       "description": [
-            "systemic",
             "subcutaneous",
             "delivery"
       ],
       "arm_group_label": [
-            "peptide"
+            "pulse",
+            "dendritic",
+            "cell",
+            "pulse",
+            "dendritic",
+            "cell",
+            "pulse",
+            "dendritic",
+            "cell",
+            "pulse",
+            "dendritic",
+            "cell",
+            "pulse",
+            "dendritic",
+            "cell"
       ],
       "other_name": [],
       "criteria": [
@@ -459,7 +480,7 @@
             "desensitization",
             "injection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -468,6 +489,14 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003222.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00003222"
 }

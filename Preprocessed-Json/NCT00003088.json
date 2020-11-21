@@ -357,21 +357,57 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
             "paclitaxel"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "concurrent",
+            "chemotherapy",
+            "21",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
+            "chemotherapy",
+            "21",
+            "day",
+            "chemotherapy",
+            "21",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
+            "chemotherapy",
+            "21",
+            "day",
+            "chemotherapy",
+            "21",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
+            "chemotherapy",
+            "14",
+            "day",
             "chemotherapy",
             "21",
             "day"
@@ -655,14 +691,23 @@
             "limit",
             "normal"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003088.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00003088"
 }

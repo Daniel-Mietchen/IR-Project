@@ -370,15 +370,27 @@
             "anderson"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloid",
+            "leukemia",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Clofarabine",
+            "Ara-C"
+      ],
       "description": [
-            "20",
+            "iv",
+            "infusion",
+            "30",
+            "daily",
+            "time",
+            "5",
+            "day",
+            "day",
             "subcutaneously",
             "daily",
             "time",
@@ -399,11 +411,10 @@
             "hour"
       ],
       "arm_group_label": [
-            "clofarabine",
+            "plus",
             "plus"
       ],
       "other_name": [
-            "cytosine",
             "arabinosine",
             "hydrocloride"
       ],
@@ -493,12 +504,19 @@
             "physical",
             "examination"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088218.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome"
+      ],
+      "id": "NCT00088218"
 }

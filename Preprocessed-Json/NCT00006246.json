@@ -161,10 +161,17 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "busulfan"
@@ -424,7 +431,7 @@
             "leptomeningeal",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -433,6 +440,25 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006246.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "childhood",
+            "malignant",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "metastasis",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00006246"
 }

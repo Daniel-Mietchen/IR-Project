@@ -196,15 +196,22 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "cyclosporine",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -261,7 +268,6 @@
             "rna",
             "le",
             "note",
-            "unless",
             "receive",
             "optimal",
             "therapy",
@@ -306,14 +312,12 @@
             "greater",
             "3",
             "time",
-            "uln",
             "hepatitis",
             "b",
             "surface",
             "antigen",
             "negative",
             "note",
-            "unless",
             "receive",
             "indinavir",
             "renal",
@@ -416,12 +420,19 @@
             "suppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00024128.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "serum"
+      ],
+      "id": "NCT00024128"
 }

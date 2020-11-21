@@ -171,15 +171,21 @@
             "year"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "human papillomavirus 16 E7 peptide",
+            "synthetic human papillomavirus 16 E6 peptide",
+            "adjuvant therapy",
+            "surgical procedure",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -343,14 +349,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002916.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00002916"
 }

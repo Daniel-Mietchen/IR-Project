@@ -130,7 +130,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -138,12 +137,22 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody",
-            "therapy"
+            "monoclonal antibody anti-anb3 integrin",
+            "anti-cytokine therapy",
+            "antiangiogenesis therapy",
+            "antibody therapy",
+            "biological response modifier therapy",
+            "growth factor antagonist therapy",
+            "monoclonal antibody therapy"
       ],
       "criteria": [
             "inclusion",
@@ -387,12 +396,16 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052403.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal",
+            "factor"
+      ],
+      "id": "NCT00052403"
 }

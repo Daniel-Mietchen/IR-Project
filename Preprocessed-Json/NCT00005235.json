@@ -265,7 +265,12 @@
             "arrhythmia"
       ],
       "condition": [
-            "ventricular",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
+            "sudden",
+            "cardiac",
             "arrhythmia"
       ],
       "study_pop": [],
@@ -295,12 +300,23 @@
             "ecg",
             "record"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005235.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00005235"
 }

@@ -127,19 +127,21 @@
             "specimen"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "microsatellite",
-            "instability",
-            "analysis"
+            "DNA stability analysis",
+            "loss of heterozygosity analysis",
+            "microsatellite instability analysis"
       ],
       "arm_group_label": [
-            "group",
+            "1",
+            "1",
             "1"
       ],
       "study_pop": [],
@@ -256,9 +258,16 @@
             "operation",
             "office"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014079.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00014079"
 }

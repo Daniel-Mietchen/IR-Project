@@ -83,22 +83,19 @@
             "death"
       ],
       "condition": [
-            "infection"
+            "neoplasm",
+            "stem",
+            "cell",
+            "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "drotrecogin",
-            "alfa",
-            "activate"
+            "Drotrecogin Alfa (activated)"
       ],
-      "arm_group_label": [
-            "1"
-      ],
-      "other_name": [
-            "xigris"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -149,12 +146,18 @@
             "condition",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067730.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "alfa",
+            "activate",
+            "c"
+      ],
+      "id": "NCT00067730"
 }

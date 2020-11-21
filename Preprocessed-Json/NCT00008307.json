@@ -212,17 +212,33 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "syngeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "anti-thymocyte globulin",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "melphalan",
+            "methylprednisolone",
+            "mycophenolate mofetil",
+            "allogeneic bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "syngeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -375,7 +391,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -384,6 +400,26 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008307.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "phosphate",
+            "acid",
+            "hemisuccinate",
+            "serum",
+            "mofetil",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00008307"
 }

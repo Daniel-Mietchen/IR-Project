@@ -268,15 +268,26 @@
             "ethnicity"
       ],
       "condition": [
-            "inflammation"
+            "disease",
+            "disease",
+            "disease",
+            "infarction"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090454.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00090454"
 }

@@ -100,13 +100,17 @@
             "month",
             "thereafter"
       ],
-      "condition": [
-            "adrenoleukodystrophy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "glyceryl trierucate",
+            "glyceryl trioleate",
+            "interferon beta",
             "thalidomide"
       ],
       "criteria": [
@@ -223,14 +227,16 @@
             "require",
             "patient"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004450.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sphingolipidoses"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004450"
 }

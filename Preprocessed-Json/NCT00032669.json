@@ -451,14 +451,13 @@
             "tolerability"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "haart"
+            "HAART"
       ],
       "criteria": [
             "inclusion",
@@ -758,9 +757,16 @@
             "feed",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phenotypic",
+            "resistance"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00032669"
 }

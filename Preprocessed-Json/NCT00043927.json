@@ -52,15 +52,18 @@
             "drug"
       ],
       "condition": [
-            "small",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "topotecan/cisplatin",
+            "etoposide/cisplatin"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -209,12 +212,22 @@
             "drug",
             "cyclosporin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043927.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oral"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00043927"
 }

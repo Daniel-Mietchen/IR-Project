@@ -118,20 +118,43 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "O6-benzylguanine",
             "carmustine"
       ],
       "description": [
-            "follow",
+            "receive",
+            "iv",
+            "60",
+            "minute",
+            "course",
+            "repeat",
+            "every",
+            "6",
+            "week",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
+            "patient",
+            "receive",
+            "2",
+            "additional",
+            "course",
+            "beyond",
+            "attainment",
+            "best",
+            "response",
             "1",
             "hour",
             "later",
@@ -375,9 +398,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004072.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "6"
+      ],
+      "id": "NCT00004072"
 }

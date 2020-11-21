@@ -452,25 +452,29 @@
             "control"
       ],
       "condition": [
-            "spinal",
             "cord",
             "injury"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "sham",
-            "pulsatile",
-            "lavage"
+            "Pulsatile Lavage",
+            "sham pulsatile lavage"
       ],
       "description": [
-            "pulsatile",
+            "lavage",
+            "wind",
+            "bed",
             "lavage",
             "direct",
             "wind",
             "patient"
       ],
       "arm_group_label": [
-            "sham",
+            "lavage",
+            "group",
             "lavage",
             "group"
       ],
@@ -485,12 +489,20 @@
             "systemic",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047619.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pressure",
+            "ulcer"
+      ],
+      "mesh_term": [
+            "cord",
+            "injury"
+      ],
+      "id": "NCT00047619"
 }

@@ -235,28 +235,65 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "cutaneous",
+            "lymphoma",
+            "mycosis",
+            "syndrome",
+            "cutaneous",
+            "lymphoma",
+            "mycosis",
+            "syndrome",
+            "ii",
+            "cutaneous",
+            "lymphoma",
+            "ii",
+            "mycosis",
+            "syndrome",
+            "iii",
+            "cutaneous",
+            "lymphoma",
+            "iii",
+            "mycosis",
+            "syndrome",
+            "iv",
+            "cutaneous",
+            "lymphoma",
             "iv",
             "mycosis",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "aldesleukin",
+            "recombinant interleukin-12",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "aldesleukin",
+            "recombinant",
+            "aldesleukin",
+            "recombinant",
             "aldesleukin",
             "recombinant"
       ],
       "other_name": [
-            "ro"
+            "human",
+            "lymphocyte",
+            "maturation",
+            "factor",
+            "killer",
+            "cell",
+            "stimulatory",
+            "factor"
       ],
       "criteria": [
             "inclusion",
@@ -500,12 +537,17 @@
             "investigational",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052377.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fungoides",
+            "syndrome",
+            "cutaneous"
+      ],
+      "id": "NCT00052377"
 }

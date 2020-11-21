@@ -170,26 +170,27 @@
             "study"
       ],
       "condition": [
-            "prostate",
+            "condition",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "L-selenomethionine",
+            "L-selenomethionine placebo"
       ],
       "description": [
-            "randomization",
+            "active",
+            "placebo",
             "active",
             "placebo"
       ],
       "arm_group_label": [
             "placebo"
       ],
-      "other_name": [
-            "placebo"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -338,14 +339,25 @@
             "microgram",
             "selenium"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030901.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "high",
+            "grade",
+            "prostatic",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "condition",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "id": "NCT00030901"
 }

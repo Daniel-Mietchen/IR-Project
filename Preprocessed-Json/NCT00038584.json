@@ -42,14 +42,17 @@
             "cancer"
       ],
       "condition": [
-            "cancer",
+            "squamous",
+            "cell",
             "head",
             "neck"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SCH66336"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -357,12 +360,20 @@
             "patient",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038584.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00038584"
 }

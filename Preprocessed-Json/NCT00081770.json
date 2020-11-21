@@ -191,30 +191,65 @@
             "ribavirin"
       ],
       "condition": [
-            "hepatitis",
             "c",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "copegus",
-            "ribavirin"
+            "PegIntron (peginterferon alfa-2b; SCH 54031)",
+            "PegIntron (peginterferon alfa-2b; SCH 54031)",
+            "REBETOL (ribavirin; SCH 18908)",
+            "PEGASYS (peginterferon alfa-2a)",
+            "COPEGUS (ribavirin)"
       ],
       "description": [
+            "subcutaneously",
+            "sc",
+            "48",
+            "week",
+            "sc",
+            "48",
+            "week",
+            "base",
+            "dose",
+            "orally",
+            "po",
+            "48",
+            "week",
+            "sc",
+            "administer",
+            "48",
+            "week",
             "po",
             "48",
             "week"
       ],
       "arm_group_label": [
-            "pegasys",
+            "plus",
+            "rebetol",
+            "plus",
+            "rebetol",
+            "plus",
+            "rebetol",
+            "plus",
+            "rebetol",
+            "180",
+            "plus",
+            "copegus",
             "180",
             "plus",
             "copegus"
       ],
       "other_name": [
-            "copegus",
+            "brand",
+            "name",
+            "ribavirin",
             "roche",
             "brand",
             "name",
@@ -516,7 +551,7 @@
             "e",
             "smoke"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -525,6 +560,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081770.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00081770"
 }

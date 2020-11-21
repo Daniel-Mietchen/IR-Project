@@ -215,24 +215,25 @@
             "trial"
       ],
       "condition": [
-            "anemia",
+            "disease",
             "sickle",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Hydroxyurea",
+            "Placebo"
       ],
       "description": [
-            "participant",
+            "receive",
+            "hydroxyurea",
             "receive",
             "placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -412,7 +413,7 @@
             "score",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "month"
@@ -421,6 +422,16 @@
             "18",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "disease",
+            "sickle",
+            "cell"
+      ],
+      "id": "NCT00006400"
 }

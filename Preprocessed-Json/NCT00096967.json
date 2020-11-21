@@ -33,14 +33,14 @@
             "eligible"
       ],
       "condition": [
-            "metastasis"
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "avastin",
-            "bevacizumab"
+            "Avastin (bevacizumab)"
       ],
       "criteria": [
             "inclusion",
@@ -343,9 +343,17 @@
             "diathesis",
             "coagulopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "colorectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00096967"
 }

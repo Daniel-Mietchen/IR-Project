@@ -198,15 +198,23 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "filgrastim",
+            "cyclophosphamide",
+            "epirubicin hydrochloride",
+            "paclitaxel",
+            "adjuvant therapy",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -433,14 +441,21 @@
             "heart",
             "failure"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072319.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammatory",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00072319"
 }

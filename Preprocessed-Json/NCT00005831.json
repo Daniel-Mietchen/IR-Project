@@ -191,27 +191,68 @@
       "condition": [
             "transitional",
             "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
+            "bladder",
+            "cancer",
+            "transitional",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
+            "cell",
+            "carcinoma",
+            "bladder",
+            "iv",
+            "bladder",
+            "cancer",
+            "cell",
             "carcinoma",
             "bladder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "trastuzumab",
+            "paclitaxel",
+            "carboplatin",
+            "gemcitabine hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
+            "trastuzumab",
+            "combination",
+            "chemotherapy",
             "trastuzumab",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
-            "gemzar"
+            "hydrochloride"
       ],
       "criteria": [
             "inclusion",
@@ -563,9 +604,20 @@
             "institute",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005831.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00005831"
 }

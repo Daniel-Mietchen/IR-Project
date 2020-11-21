@@ -112,27 +112,23 @@
             "month"
       ],
       "condition": [
-            "gastrointestinal",
             "stromal",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temozolomide"
       ],
       "description": [
-            "200",
             "po",
             "day",
             "28",
             "day",
             "cycle"
       ],
-      "arm_group_label": [
-            "temozolomide"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
@@ -343,12 +339,21 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005597.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gastrointestinal",
+            "stromal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "stromal",
+            "tumor"
+      ],
+      "id": "NCT00005597"
 }

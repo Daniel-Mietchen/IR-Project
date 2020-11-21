@@ -149,7 +149,11 @@
             "cohort"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "arteriosclerosis",
+            "disease",
+            "arteriosclerosis",
             "accident"
       ],
       "study_pop": [],
@@ -161,7 +165,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
@@ -170,6 +174,15 @@
             "84",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087893.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "arteriosclerosis"
+      ],
+      "id": "NCT00087893"
 }

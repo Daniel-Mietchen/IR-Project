@@ -260,23 +260,34 @@
             "childhood",
             "acute",
             "lymphoblastic",
+            "leukemia",
+            "childhood",
+            "lymphoblastic",
+            "lymphoma",
+            "childhood",
+            "acute",
+            "lymphoblastic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "hydrocortisone"
+            "nelarabine",
+            "methotrexate",
+            "cytarabine",
+            "therapeutic hydrocortisone"
       ],
       "description": [
-            "give"
+            "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "cortef"
+            "arabinoside",
+            "hc"
       ],
       "criteria": [
             "inclusion",
@@ -343,12 +354,19 @@
             "pelvic",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002970.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002970"
 }

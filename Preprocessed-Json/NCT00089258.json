@@ -192,13 +192,17 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "beta-glucan",
+            "monoclonal antibody 3F8",
+            "sargramostim",
             "isotretinoin"
       ],
       "criteria": [
@@ -346,9 +350,16 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089258.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00089258"
 }

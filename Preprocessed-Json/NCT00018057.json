@@ -503,7 +503,8 @@
             "fmri"
       ],
       "condition": [
-            "healthy"
+            "disorder",
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -729,7 +730,7 @@
             "depressive",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -738,6 +739,15 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018057.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00018057"
 }

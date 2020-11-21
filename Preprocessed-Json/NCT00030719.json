@@ -615,15 +615,36 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "neuroblastoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "monoclonal antibody Ch14.18",
+            "busulfan",
+            "carboplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "isotretinoin",
+            "melphalan",
+            "vincristine sulfate",
+            "bone marrow ablation with stem cell support",
+            "conventional surgery",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -752,7 +773,7 @@
             "investigational",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -761,6 +782,14 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030719.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "localize",
+            "unresectable",
+            "neuroblastoma"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00030719"
 }

@@ -258,6 +258,7 @@
       ],
       "condition": [
             "temporal",
+            "lobe",
             "lobe"
       ],
       "criteria": [
@@ -338,9 +339,17 @@
             "contraindication",
             "neurosurgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067418.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "spectroscopy"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "temporal",
+            "lobe"
+      ],
+      "id": "NCT00067418"
 }

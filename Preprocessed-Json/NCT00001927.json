@@ -313,7 +313,10 @@
             "quantitative"
       ],
       "condition": [
-            "vascular",
+            "coagulation",
+            "disorder",
+            "disease",
+            "accident",
             "disease"
       ],
       "criteria": [
@@ -609,12 +612,23 @@
             "use",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001927.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "child"
+      ],
+      "mesh_term": [
+            "disease",
+            "coagulation",
+            "disorder",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00001927"
 }

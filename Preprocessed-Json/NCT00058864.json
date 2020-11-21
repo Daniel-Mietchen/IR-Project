@@ -287,18 +287,13 @@
             "trial"
       ],
       "condition": [
-            "hip",
             "fracture"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "energy",
-            "absorb",
-            "distribute",
-            "trochanteric",
-            "pad"
+            "Energy absorbing and distributing trochanteric pad"
       ],
       "criteria": [
             "resident",
@@ -322,12 +317,16 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "66",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058864.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "bone",
+            "fracture"
+      ],
+      "id": "NCT00058864"
 }

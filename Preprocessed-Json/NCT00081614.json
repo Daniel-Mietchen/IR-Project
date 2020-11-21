@@ -66,15 +66,16 @@
             "erlotinib"
       ],
       "condition": [
-            "metastasis"
+            "cell",
+            "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tarceva",
-            "erlotinib",
-            "hcl"
+            "Avastin (bevacizumab)",
+            "Tarceva (erlotinib HCl)"
       ],
       "criteria": [
             "inclusion",
@@ -376,12 +377,23 @@
             "day",
             "0"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081614.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "renal",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "hydrochloride"
+      ],
+      "id": "NCT00081614"
 }

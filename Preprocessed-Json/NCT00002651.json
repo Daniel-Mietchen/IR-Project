@@ -253,16 +253,21 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "clinical",
-            "observation"
+            "bicalutamide",
+            "goserelin acetate",
+            "clinical observation"
       ],
       "description": [
-            "patient",
+            "orally",
+            "subcutaneously",
             "undergo",
             "observation",
             "absence",
@@ -275,7 +280,12 @@
             "disease"
       ],
       "arm_group_label": [
-            "consolidation",
+            "arm",
+            "arm",
+            "ii",
+            "arm",
+            "arm",
+            "ii",
             "arm",
             "ii"
       ],
@@ -491,14 +501,20 @@
             "major",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002651.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002651"
 }

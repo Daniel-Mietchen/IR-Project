@@ -112,13 +112,20 @@
             "5"
       ],
       "condition": [
+            "lung",
             "neoplasm",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Gemcitabine",
+            "Carboplatin",
+            "LY900003"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -160,12 +167,21 @@
             "trial",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042679.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00042679"
 }

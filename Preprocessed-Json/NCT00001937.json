@@ -271,14 +271,14 @@
             "post",
             "transplant"
       ],
-      "condition": [
-            "mycoses"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "FK463",
+            "Fluconazole"
       ],
       "criteria": [
             "inform",
@@ -481,9 +481,15 @@
             "supportive",
             "care"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001937.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prophylactic",
+            "antifungal",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001937"
 }

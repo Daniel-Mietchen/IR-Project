@@ -152,7 +152,8 @@
             "record"
       ],
       "condition": [
-            "kidney",
+            "disease",
+            "disease",
             "failure",
             "chronic"
       ],
@@ -160,14 +161,19 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005417.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "insufficiency",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00005417"
 }

@@ -199,7 +199,13 @@
             "irbs"
       ],
       "condition": [
-            "infant",
+            "newborn",
+            "low",
+            "birth",
+            "weight",
+            "small",
+            "gestational",
+            "age",
             "premature"
       ],
       "study_pop": [],
@@ -289,12 +295,19 @@
             "include",
             "database"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "14",
             "day"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00063063.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prematurity"
+      ],
+      "mesh_term": [
+            "weight",
+            "weight"
+      ],
+      "id": "NCT00063063"
 }

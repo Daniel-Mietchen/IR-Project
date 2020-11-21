@@ -162,7 +162,6 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -297,12 +296,21 @@
             "mg",
             "tdf"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050284.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "interruption"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00050284"
 }

@@ -75,30 +75,14 @@
             "initiate"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "c"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "daily",
-            "infergen",
-            "interferon",
-            "cifn",
-            "9",
-            "15",
-            "ug",
-            "ribavirin",
-            "mg",
-            "base",
-            "body",
-            "weight",
-            "po",
-            "daily",
-            "48",
-            "wks"
+            "Daily Infergen (Interferon Alfacon-1, CIFN) (9 or 15 \u00b5g) + Ribavirin (1000-1200 mg, based on body weight) PO Daily for up to 48 wks"
       ],
       "criteria": [
             "abbreviate",
@@ -472,12 +456,21 @@
             "15",
             "ug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086541.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "svr"
+      ],
+      "mesh_term": [
+            "c",
+            "chronic",
+            "c",
+            "chronic"
+      ],
+      "id": "NCT00086541"
 }

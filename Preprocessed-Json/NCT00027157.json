@@ -347,9 +347,7 @@
             "oxide",
             "level"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -468,11 +466,15 @@
             "function",
             "test"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027157.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "tetrahydrobiopterin"
+      ],
+      "mesh_term": [
+            "oxide"
+      ],
+      "id": "NCT00027157"
 }

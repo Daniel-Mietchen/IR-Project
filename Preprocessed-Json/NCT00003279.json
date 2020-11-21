@@ -170,15 +170,15 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody"
+            "BCG vaccine",
+            "monoclonal antibody BEC2"
       ],
       "criteria": [
             "disease",
@@ -376,12 +376,28 @@
             "immunosuppressive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003279.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "monoclonal",
+            "vaccine"
+      ],
+      "id": "NCT00003279"
 }

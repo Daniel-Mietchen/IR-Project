@@ -21,14 +21,15 @@
             "carcinoma"
       ],
       "condition": [
-            "carcinoma",
             "renal",
             "cell"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SU011248"
+      ],
       "description": [
             "orally",
             "take",
@@ -42,11 +43,8 @@
             "unacceptable",
             "toxicity"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "sunitinib",
             "sutent"
       ],
       "criteria": [
@@ -99,12 +97,16 @@
             "study",
             "start"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077974.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00077974"
 }

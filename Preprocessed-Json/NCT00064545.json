@@ -302,7 +302,14 @@
             "test"
       ],
       "condition": [
-            "cerebrovascular",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "vascular",
+            "disease",
+            "arteriosclerosis",
             "accident"
       ],
       "study_pop": [],
@@ -314,9 +321,24 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064545.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "vascular",
+            "disease",
+            "arterial",
+            "disease",
+            "artery",
+            "disease",
+            "arteriosclerosis"
+      ],
+      "id": "NCT00064545"
 }

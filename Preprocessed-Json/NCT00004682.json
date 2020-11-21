@@ -124,15 +124,13 @@
             "record"
       ],
       "condition": [
-            "myasthenia",
             "gravis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immune",
-            "globulin"
+            "immune globulin"
       ],
       "criteria": [
             "protocol",
@@ -360,12 +358,22 @@
             "fertile",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004682.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "gravis",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00004682"
 }

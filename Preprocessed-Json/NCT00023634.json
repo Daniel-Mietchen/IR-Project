@@ -129,28 +129,33 @@
             "study"
       ],
       "condition": [
-            "prostate",
+            "tumor",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "gmcsf"
+            "KLH",
+            "GMCSF"
       ],
       "description": [
-            "arm",
+            "mcg",
             "1",
             "100",
             "mcg"
       ],
       "arm_group_label": [
-            "egfr",
+            "vaccine",
+            "klh",
             "vaccine",
             "gmcsf"
       ],
       "other_name": [
-            "sargramostim"
+            "limpet"
       ],
       "criteria": [
             "disease",
@@ -172,7 +177,6 @@
             "ca",
             "125",
             "normal",
-            "stable",
             "grade",
             "iii",
             "anaplastic",
@@ -218,7 +222,6 @@
             "psa",
             "le",
             "5",
-            "stable",
             "document",
             "egfrviii",
             "expression",
@@ -235,7 +238,6 @@
             "cancer",
             "patient",
             "note",
-            "stable",
             "define",
             "increase",
             "2",
@@ -384,7 +386,7 @@
             "immune",
             "modulators"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -393,6 +395,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023634.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "anaplastic",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00023634"
 }

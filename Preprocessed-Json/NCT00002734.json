@@ -255,23 +255,28 @@
             "year"
       ],
       "condition": [
-            "primary",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "recombinant interferon alfa",
+            "chemotherapy",
+            "paclitaxel",
+            "topotecan hydrochloride",
+            "lutetium Lu 177 monoclonal antibody CC49",
+            "yttrium Y 90 monoclonal antibody CC49"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -506,14 +511,24 @@
             "intraperitoneal",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002734.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "peritoneal",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel",
+            "monoclonal"
+      ],
+      "id": "NCT00002734"
 }

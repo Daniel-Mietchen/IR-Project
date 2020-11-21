@@ -83,14 +83,12 @@
             "one",
             "month"
       ],
-      "condition": [
-            "sepsis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "inhibitor"
+            "sPLA2 Inhibitor"
       ],
       "criteria": [
             "inclusion",
@@ -132,12 +130,17 @@
             "medical",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034476.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sepsis",
+            "inhibitor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00034476"
 }

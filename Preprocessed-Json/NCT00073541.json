@@ -59,15 +59,13 @@
             "fail"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "emd",
-            "72000"
+            "EMD 72000"
       ],
       "criteria": [
             "inclusion",
@@ -162,14 +160,22 @@
             "day",
             "enrollment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073541.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "egfr",
+            "monoclonal",
+            "antibody",
+            "target",
+            "therapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00073541"
 }

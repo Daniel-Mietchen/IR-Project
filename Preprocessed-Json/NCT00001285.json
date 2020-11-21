@@ -243,7 +243,8 @@
             "condition"
       ],
       "condition": [
-            "depressive",
+            "disorder",
+            "rhythm",
             "disorder"
       ],
       "criteria": [
@@ -279,11 +280,16 @@
             "hiv",
             "negative"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001285.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mania"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001285"
 }

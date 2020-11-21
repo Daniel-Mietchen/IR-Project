@@ -475,14 +475,25 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "leukapheresis"
+            "Indinavir",
+            "Zidovudine",
+            "Lamivudine",
+            "Nevirapine",
+            "Blood testing",
+            "Lymph node biospy",
+            "Leukapheresis"
       ],
       "criteria": [
             "inclusion",
@@ -670,12 +681,23 @@
             "laboratory",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001644.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "follicular",
+            "dendritic",
+            "cell"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001644"
 }

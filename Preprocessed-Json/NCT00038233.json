@@ -178,17 +178,15 @@
             "interval"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "Thalidomide"
       ],
       "description": [
-            "200",
             "mg",
             "bedtime",
             "daily",
@@ -214,12 +212,8 @@
             "mg",
             "day"
       ],
-      "arm_group_label": [
-            "thalidomide"
-      ],
-      "other_name": [
-            "thalomid"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "previously",
             "untreated",
@@ -327,9 +321,17 @@
             "agent",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038233.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00038233"
 }

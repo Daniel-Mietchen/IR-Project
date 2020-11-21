@@ -178,13 +178,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "laromustine",
             "temozolomide"
       ],
       "criteria": [
@@ -374,12 +374,21 @@
             "treatment",
             "leukemia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098436.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21"
+      ],
+      "mesh_term": [],
+      "id": "NCT00098436"
 }

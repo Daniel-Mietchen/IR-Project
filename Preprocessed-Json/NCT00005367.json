@@ -260,7 +260,10 @@
             "study"
       ],
       "condition": [
-            "long",
+            "disease",
+            "disease",
+            "sudden",
+            "cardiac",
             "qt",
             "syndrome"
       ],
@@ -268,11 +271,18 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005367.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "qt",
+            "syndrome",
+            "sudden",
+            "sudden",
+            "cardiac"
+      ],
+      "id": "NCT00005367"
 }

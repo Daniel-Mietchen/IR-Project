@@ -126,14 +126,13 @@
             "survival"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "suramin"
+            "Suramin"
       ],
       "criteria": [
             "inclusion",
@@ -296,11 +295,17 @@
             "return",
             "treatment"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001266.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "specific",
+            "antigen"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001266"
 }

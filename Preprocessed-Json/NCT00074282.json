@@ -283,7 +283,6 @@
             "cyclophosphamide",
             "iv",
             "minute",
-            "rituximab",
             "iv",
             "day",
             "1",
@@ -316,7 +315,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "demonstrate",
             "progression",
             "receive",
@@ -331,7 +329,6 @@
             "lenalidomide",
             "therapy",
             "note",
-            "patient",
             "receive",
             "rituximab",
             "iv",
@@ -347,7 +344,6 @@
             "rituximab",
             "day",
             "1",
-            "lenalidomide",
             "therapy",
             "eight",
             "week",
@@ -418,13 +414,21 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "pegfilgrastim",
+            "rituximab",
+            "cyclophosphamide",
+            "lenalidomide",
             "pentostatin"
       ],
       "criteria": [
@@ -733,12 +737,22 @@
             "active",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074282.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00074282"
 }

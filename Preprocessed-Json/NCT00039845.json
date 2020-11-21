@@ -331,9 +331,7 @@
             "decision",
             "task"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -416,7 +414,7 @@
             "discomfort",
             "scanner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -425,6 +423,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00039845.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "id": "NCT00039845"
 }

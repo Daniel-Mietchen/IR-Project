@@ -52,16 +52,13 @@
             "treatment"
       ],
       "condition": [
-            "hematologic",
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "chemotherapy",
-            "hematologic",
-            "malignancy"
+            "Chemotherapy for hematologic malignancy"
       ],
       "criteria": [
             "histologic",
@@ -91,12 +88,16 @@
             "contraception",
             "capability"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042250.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phase"
+      ],
+      "mesh_term": [],
+      "id": "NCT00042250"
 }

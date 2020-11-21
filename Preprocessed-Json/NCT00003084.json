@@ -224,31 +224,86 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine"
+            "Doxorubicin Hydrochloride",
+            "Estramustine phosphate sodium",
+            "Etoposide",
+            "Ketoconazole",
+            "Paclitaxel",
+            "Vinblastine"
       ],
       "description": [
             "iv",
+            "day",
+            "1",
+            "15",
+            "29",
+            "oral",
+            "estramustine",
+            "three",
+            "time",
+            "day",
+            "21",
+            "day",
+            "ii",
+            "oral",
+            "estramustine",
+            "three",
+            "time",
+            "day",
+            "day",
+            "8",
+            "week",
+            "cycle",
+            "etoposide",
+            "twice",
+            "daily",
+            "day",
+            "ketoconazole",
+            "three",
+            "time",
+            "day",
+            "day",
+            "1",
+            "hour",
+            "day",
+            "2",
             "day",
             "8",
             "22",
             "36"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "chemotherapy",
+            "ketoconazole",
+            "estramustine",
+            "etoposide",
+            "ii",
+            "chemotherapy",
+            "ketoconazole",
+            "estramustine",
+            "etoposide",
+            "ii",
+            "chemotherapy",
+            "ketoconazole",
+            "estramustine",
+            "etoposide",
             "ii",
             "chemotherapy",
             "ketoconazole"
       ],
-      "other_name": [
-            "velban"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -447,14 +502,21 @@
             "terfenadine",
             "astemizole"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003084.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vinblastine"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "phosphate",
+            "paclitaxel"
+      ],
+      "id": "NCT00003084"
 }

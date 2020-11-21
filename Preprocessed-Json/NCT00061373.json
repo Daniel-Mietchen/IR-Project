@@ -484,17 +484,45 @@
             "symptom"
       ],
       "condition": [
-            "ischemic",
             "stroke"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Aspirin",
+            "tinzaparin sodium",
             "eptifibatide"
       ],
       "description": [
-            "eptifibatide",
+            "single",
+            "81",
+            "mg",
+            "aspirin",
+            "tablet",
+            "orally",
+            "rectal",
+            "suppository",
+            "equivalent",
+            "dose",
+            "give",
+            "soon",
+            "possible",
+            "start",
+            "standard",
+            "iv",
+            "tpa",
+            "consent",
+            "single",
+            "dose",
+            "80",
+            "international",
+            "administer",
+            "subcutaneous",
+            "sq",
+            "injection",
             "administer",
             "iv",
             "accord",
@@ -525,10 +553,21 @@
       ],
       "arm_group_label": [
             "select",
+            "patient",
+            "select",
+            "patient",
+            "select",
+            "patient",
+            "select",
+            "patient",
+            "select",
+            "patient",
+            "select",
             "patient"
       ],
       "other_name": [
-            "integrilin",
+            "register",
+            "trademark",
             "register",
             "trademark"
       ],
@@ -1356,7 +1395,7 @@
             "per",
             "minute"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1365,6 +1404,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061373.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ischemic",
+            "stroke"
+      ],
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00061373"
 }

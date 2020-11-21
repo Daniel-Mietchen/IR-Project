@@ -134,7 +134,8 @@
             "predict"
       ],
       "condition": [
-            "alpha",
+            "disease",
+            "obstructive",
             "deficiency"
       ],
       "criteria": [
@@ -231,9 +232,21 @@
             "reaction",
             "methacholine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001462.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "protease"
+      ],
+      "mesh_term": [
+            "disease",
+            "emphysema",
+            "disease",
+            "obstructive",
+            "deficiency",
+            "c",
+            "inhibitor"
+      ],
+      "id": "NCT00001462"
 }

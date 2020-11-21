@@ -288,13 +288,23 @@
             "year"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rifampin"
+            "Ethambutol hydrochloride",
+            "Isoniazid",
+            "Pyrazinamide",
+            "Pyridoxine hydrochloride",
+            "Levofloxacin",
+            "Rifampin"
       ],
       "criteria": [
             "inclusion",
@@ -381,12 +391,24 @@
             "medication",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001033.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "b",
+            "6"
+      ],
+      "id": "NCT00001033"
 }

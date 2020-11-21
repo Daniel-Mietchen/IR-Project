@@ -151,7 +151,6 @@
             "arm",
             "patient",
             "receive",
-            "radiotherapy",
             "within",
             "6",
             "month",
@@ -175,7 +174,6 @@
             "patient",
             "also",
             "receive",
-            "radiotherapy",
             "within",
             "6",
             "month",
@@ -185,7 +183,6 @@
             "integrate",
             "chemotherapy",
             "note",
-            "patient",
             "clear",
             "margin",
             "receive",
@@ -241,25 +238,28 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "chemotherapy",
+            "radiation therapy"
       ],
       "description": [
-            "give",
+            "within",
+            "10",
+            "week",
+            "surgery",
             "within",
             "6",
             "month",
             "surgery"
       ],
       "arm_group_label": [
-            "arm"
+            "ii"
       ],
       "criteria": [
             "disease",
@@ -535,9 +535,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -546,6 +544,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074152.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00074152"
 }

@@ -433,15 +433,13 @@
             "df"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "df"
+            "Tenofovir DF"
       ],
       "criteria": [
             "inclusion",
@@ -819,9 +817,21 @@
             "month",
             "afterwards"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00024986.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatric",
+            "hiv",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00024986"
 }

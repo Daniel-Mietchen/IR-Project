@@ -277,22 +277,83 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "epirubicin hydrochloride",
+            "tamoxifen citrate",
             "toremifene"
       ],
       "description": [
-            "toremifene",
+            "600",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "60",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "intravenous",
+            "90",
+            "day",
+            "1",
+            "every",
+            "21",
+            "day",
+            "intravenous",
+            "20",
+            "mg",
+            "daily",
             "60",
             "mg",
             "daily"
       ],
       "arm_group_label": [
+            "concurrent",
+            "tamoxifen",
+            "follow",
+            "tamoxifen",
+            "concurrent",
+            "toremifene",
+            "follow",
+            "toremifene",
+            "concurrent",
+            "tamoxifen",
+            "follow",
+            "tamoxifen",
+            "concurrent",
+            "toremifene",
+            "follow",
+            "toremifene",
+            "concurrent",
+            "tamoxifen",
+            "follow",
+            "tamoxifen",
+            "concurrent",
+            "toremifene",
+            "follow",
+            "toremifene",
+            "concurrent",
+            "tamoxifen",
+            "follow",
+            "tamoxifen",
+            "alone",
+            "concurrent",
+            "toremifene",
+            "follow",
             "toremifene",
             "alone"
       ],
@@ -502,14 +563,22 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002529.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002529"
 }

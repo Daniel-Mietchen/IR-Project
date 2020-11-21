@@ -183,7 +183,6 @@
             "iv",
             "minute",
             "day",
-            "1",
             "15",
             "29",
             "day",
@@ -210,11 +209,9 @@
             "iv",
             "minute",
             "day",
-            "1",
             "15",
             "29",
             "note",
-            "bevacizumab",
             "give",
             "day",
             "2",
@@ -245,28 +242,75 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iva",
+            "colon",
+            "cancer",
+            "iva",
+            "rectal",
+            "cancer",
+            "ivb",
+            "colon",
+            "cancer",
             "ivb",
             "rectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "cetuximab",
+            "bevacizumab",
+            "irinotecan hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "cetuximab",
+            "bevacizumab",
+            "irinotecan",
+            "b",
+            "cetuximab",
+            "bevacizumab",
+            "cetuximab",
+            "bevacizumab",
+            "irinotecan",
+            "b",
+            "cetuximab",
+            "bevacizumab",
+            "cetuximab",
+            "bevacizumab",
+            "irinotecan",
+            "cetuximab",
+            "bevacizumab",
+            "irinotecan",
             "b",
             "cetuximab",
             "bevacizumab"
       ],
-      "other_name": [],
+      "other_name": [
+            "monoclonal",
+            "antibody",
+            "antibody",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -615,12 +659,18 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077298.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00077298"
 }

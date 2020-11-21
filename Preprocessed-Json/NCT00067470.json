@@ -38,19 +38,18 @@
             "baseline"
       ],
       "condition": [
-            "mucopolysaccharidosis",
             "vi"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
-      "arm_group_label": [
-            "rhasb"
+      "intervention_name": [
+            "Placebo",
+            "N-acetylgalactosamine 4-sulfatase"
       ],
-      "other_name": [
-            "rhasb"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -164,12 +163,15 @@
             "test",
             "solution"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067470.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "vi"
+      ],
+      "id": "NCT00067470"
 }

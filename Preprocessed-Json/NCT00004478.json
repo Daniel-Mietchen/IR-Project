@@ -90,11 +90,11 @@
             "position"
       ],
       "condition": [
-            "orthostatic",
+            "syndrome",
             "hypotension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "droxidopa"
@@ -155,12 +155,22 @@
             "diet",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004478.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "orthostatic",
+            "syndrome",
+            "system",
+            "atrophy"
+      ],
+      "id": "NCT00004478"
 }

@@ -98,16 +98,13 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -261,14 +258,21 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005643.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "stromal",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00005643"
 }

@@ -179,18 +179,63 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "brachytherapy",
-            "boost"
+            "LHRH agonist",
+            "antiandrogen",
+            "radiation therapy",
+            "Brachytherapy boost"
       ],
       "description": [
-            "iodine",
+            "im",
+            "injection",
+            "q",
+            "12",
+            "wks",
+            "x",
+            "2",
+            "zoladex",
+            "mg",
+            "subq",
+            "injection",
+            "q",
+            "12",
+            "wks",
+            "x",
+            "2",
+            "250",
+            "mg",
+            "po",
+            "tid",
+            "4",
+            "wks",
+            "casodex",
+            "50",
+            "mg",
+            "po",
+            "daily",
+            "4",
+            "wks",
+            "cgy",
+            "total",
+            "dose",
+            "give",
+            "day",
+            "5",
+            "week",
+            "follow",
+            "initiation",
+            "androgen",
+            "suppression",
+            "25",
+            "fraction",
             "125",
             "u",
             "per",
@@ -209,7 +254,15 @@
             "gy"
       ],
       "arm_group_label": [
-            "androgen",
+            "suppression",
+            "ebrt",
+            "brachytherapy",
+            "suppression",
+            "ebrt",
+            "brachytherapy",
+            "suppression",
+            "ebrt",
+            "brachytherapy",
             "suppression",
             "ebrt",
             "brachytherapy"
@@ -343,9 +396,7 @@
             "prostate",
             "cancer"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -354,6 +405,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006359.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "antagonist"
+      ],
+      "id": "NCT00006359"
 }

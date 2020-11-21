@@ -377,18 +377,15 @@
             "alone"
       ],
       "condition": [
-            "osteogenesis",
             "imperfecta"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pamidronate",
-            "aredia"
+            "Pamidronate (Aredia)"
       ],
       "description": [
-            "patient",
             "receive",
             "dose",
             "infusion",
@@ -396,7 +393,11 @@
             "cycle"
       ],
       "arm_group_label": [
-            "pamidronate",
+            "every",
+            "3",
+            "month",
+            "3",
+            "year",
             "every",
             "6",
             "month",
@@ -597,12 +598,19 @@
             "spine",
             "fusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005901.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "osteogenesis",
+            "imperfecta"
+      ],
+      "mesh_term": [
+            "imperfecta"
+      ],
+      "id": "NCT00005901"
 }

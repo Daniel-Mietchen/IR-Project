@@ -25,15 +25,15 @@
             "pancreas"
       ],
       "condition": [
-            "pancreatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "TNP-470"
+      ],
       "arm_group_label": [
-            "gemzar",
             "chemoradiation"
       ],
       "criteria": [
@@ -220,12 +220,22 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038701.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "pancreas",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "chloroacetylcarbamoyl",
+            "fumagillol"
+      ],
+      "id": "NCT00038701"
 }

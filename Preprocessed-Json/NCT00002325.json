@@ -45,13 +45,13 @@
             "daily"
       ],
       "condition": [
-            "coccidioidomycosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Fluconazole"
       ],
       "criteria": [
             "inclusion",
@@ -128,12 +128,19 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002325.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coccidioidomycosis"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection"
+      ],
+      "id": "NCT00002325"
 }

@@ -161,31 +161,37 @@
             "year"
       ],
       "condition": [
-            "refractory",
+            "small",
+            "lymphocytic",
+            "lymphoma",
             "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "fludarabine phosphate",
             "thalidomide"
       ],
       "description": [
-            "give",
+            "iv",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "thalidomide",
+            "fludarabine",
+            "phosphate",
+            "thalidomide",
             "ii",
             "thalidomide",
             "fludarabine",
             "phosphate"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -293,7 +299,6 @@
             "uln",
             "sgot",
             "time",
-            "uln",
             "creatinine",
             "time",
             "uln",
@@ -420,12 +425,18 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009984.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00009984"
 }

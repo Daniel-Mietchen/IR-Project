@@ -192,7 +192,6 @@
             "leucovorin",
             "calcium",
             "neoadjuvant",
-            "therapy",
             "treatment",
             "repeat",
             "every",
@@ -206,7 +205,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "cisplatin",
             "administer",
             "course",
             "3",
@@ -239,14 +237,29 @@
             "study"
       ],
       "condition": [
-            "sarcoma"
+            "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "neoadjuvant",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "dexrazoxane hydrochloride",
+            "doxorubicin hydrochloride",
+            "leucovorin calcium",
+            "methotrexate",
+            "adjuvant therapy",
+            "conventional surgery",
+            "neoadjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -372,12 +385,19 @@
             "progressive",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00019864.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "osteosarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00019864"
 }

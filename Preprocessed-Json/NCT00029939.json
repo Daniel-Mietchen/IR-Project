@@ -457,9 +457,7 @@
             "application",
             "appropriate"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -732,12 +730,16 @@
             "dependent",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029939.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "id": "NCT00029939"
 }

@@ -155,28 +155,45 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "recombinant vaccinia-MUC1 vaccine",
+            "recombinant vaccinia-TRICOM vaccine",
+            "laboratory biomarker analysis",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "intradermally",
+            "intradermally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "vaccine",
+            "therapy",
+            "vaccine",
+            "therapy",
+            "vaccine",
+            "therapy",
             "vaccine",
             "therapy"
       ],
       "other_name": [
-            "quality",
+            "vaccine",
+            "vaccine",
             "life",
             "assessment"
       ],
@@ -504,12 +521,17 @@
             "eligible",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071942.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male"
+      ],
+      "id": "NCT00071942"
 }

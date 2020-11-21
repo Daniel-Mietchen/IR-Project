@@ -141,13 +141,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "recombinant interferon alfa",
             "sargramostim"
       ],
       "criteria": [
@@ -257,12 +257,27 @@
             "drug",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003561.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "philadelphia",
+            "chromosome",
+            "negative",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid"
+      ],
+      "id": "NCT00003561"
 }

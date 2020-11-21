@@ -127,29 +127,33 @@
             "progression"
       ],
       "condition": [
-            "stage",
+            "esophagus",
+            "iii",
+            "esophageal",
+            "cancer",
             "iv",
             "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "arsenic trioxide"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "arsenic",
             "trioxide"
       ],
       "other_name": [
-            "trisenox"
+            "iii",
+            "oxide",
+            "sesquioxide",
+            "acid",
+            "anhydride"
       ],
       "criteria": [
             "inclusion",
@@ -383,12 +387,16 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061958.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "trioxide"
+      ],
+      "id": "NCT00061958"
 }

@@ -319,17 +319,15 @@
             "marrow"
       ],
       "condition": [
-            "leukemia",
+            "myeloid",
+            "chronic",
             "myeloid"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "heat",
-            "shock",
-            "protein",
-            "70"
+            "Heat Shock Protein 70 HSP70"
       ],
       "criteria": [
             "eligibility",
@@ -490,12 +488,21 @@
             "hydroxyurea",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vaccine"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00027144"
 }

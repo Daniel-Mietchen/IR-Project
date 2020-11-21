@@ -155,7 +155,8 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "toxicity",
             "adult",
             "solid",
             "tumor",
@@ -163,11 +164,12 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "therapeutic melatonin",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -261,9 +263,17 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031967.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "injury"
+      ],
+      "id": "NCT00031967"
 }

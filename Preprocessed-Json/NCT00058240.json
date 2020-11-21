@@ -210,23 +210,30 @@
             "year"
       ],
       "condition": [
-            "waldenstrom",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "alvocidib"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
+      "arm_group_label": [],
+      "other_name": [
+            "1275"
       ],
-      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -314,7 +321,6 @@
             "greater",
             "2",
             "time",
-            "normal",
             "creatinine",
             "greater",
             "pregnant",
@@ -380,12 +386,18 @@
             "concurrent",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058240.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "macroglobulinemia"
+      ],
+      "id": "NCT00058240"
 }

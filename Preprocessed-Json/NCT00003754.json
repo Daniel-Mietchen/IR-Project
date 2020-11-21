@@ -114,7 +114,6 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
@@ -122,9 +121,11 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
             "thalidomide"
       ],
       "criteria": [
@@ -303,9 +304,18 @@
             "placement",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003754.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "childhood",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003754"
 }

@@ -29,17 +29,16 @@
             "sepsis",
             "adult"
       ],
-      "condition": [
-            "sepsis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "low",
-            "molecular",
-            "weight",
-            "heparin"
+            "Drotrecogin Alfa (Activated)",
+            "Unfractionated heparin",
+            "Low molecular weight heparin"
       ],
       "criteria": [
             "inclusion",
@@ -97,12 +96,18 @@
             "medical",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049777.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "alfa",
+            "activate",
+            "heparin",
+            "c"
+      ],
+      "id": "NCT00049777"
 }

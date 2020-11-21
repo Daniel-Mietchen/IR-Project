@@ -207,17 +207,16 @@
             "within",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegylated",
-            "liposomal",
-            "doxorubicin",
-            "hydrochloride"
+            "recombinant interleukin-12",
+            "paclitaxel",
+            "pegylated liposomal doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -593,12 +592,21 @@
             "concurrent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020449.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "kaposi",
+            "doxorubicin"
+      ],
+      "id": "NCT00020449"
 }

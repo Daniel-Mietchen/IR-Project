@@ -181,18 +181,12 @@
             "sensor",
             "read"
       ],
-      "condition": [
-            "pregnancy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "continuous",
-            "ambulatory",
-            "subcutaneous",
-            "glucose",
-            "monitor"
+            "Continuous ambulatory subcutaneous glucose monitor"
       ],
       "criteria": [
             "1",
@@ -241,9 +235,7 @@
             "pregnancy",
             "normal"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -252,6 +244,6 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011622.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "id": "NCT00011622"
 }

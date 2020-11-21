@@ -68,13 +68,18 @@
             "1"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Lopinavir/Ritonavir",
+            "Ritonavir",
+            "GW433908"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -265,12 +270,19 @@
             "kidney",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025727.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00025727"
 }

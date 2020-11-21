@@ -276,15 +276,13 @@
             "day"
       ],
       "condition": [
-            "chronic",
             "bronchitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "levofloxacin",
-            "azithromycin"
+            "levofloxacin, azithromycin, amoxicillin/clavulanate"
       ],
       "criteria": [
             "inclusion",
@@ -356,12 +354,27 @@
             "take",
             "mouth"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042718.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "bacterial",
+            "exacerbation",
+            "chronic",
+            "bronchitis"
+      ],
+      "mesh_term": [
+            "disease",
+            "chronic",
+            "acid",
+            "acid",
+            "clavulanate",
+            "combination"
+      ],
+      "id": "NCT00042718"
 }

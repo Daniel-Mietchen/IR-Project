@@ -113,17 +113,15 @@
             "entry"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "atiprimod"
+            "Atiprimod"
       ],
       "description": [
-            "oral",
             "day",
             "14",
             "day",
@@ -234,12 +232,21 @@
             "antipsychotic",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086216.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00086216"
 }

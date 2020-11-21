@@ -674,7 +674,6 @@
             "termination"
       ],
       "condition": [
-            "acute",
             "deep",
             "venous",
             "thrombosis",
@@ -682,15 +681,12 @@
             "extremity"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alteplase",
-            "activase",
-            "genentech"
+            "Alteplase (Activase, Genentech)"
       ],
       "description": [
-            "dose",
             "alteplase",
             "exceed",
             "10",
@@ -721,9 +717,7 @@
             "day",
             "period"
       ],
-      "arm_group_label": [
-            "alteplase"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -947,12 +941,20 @@
             "diabetes",
             "mellitus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082355.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "dvt"
+      ],
+      "mesh_term": [
+            "thrombosis",
+            "plasminogen",
+            "activator"
+      ],
+      "id": "NCT00082355"
 }

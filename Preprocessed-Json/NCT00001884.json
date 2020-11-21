@@ -130,7 +130,7 @@
             "volunteer"
       ],
       "condition": [
-            "rheumatoid",
+            "fibrosis",
             "arthritis"
       ],
       "criteria": [
@@ -230,12 +230,20 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001884.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "pulmonary",
+            "fibrosis"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "fibrosis"
+      ],
+      "id": "NCT00001884"
 }

@@ -204,15 +204,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "daunorubicin hydrochloride",
+            "imatinib mesylate",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -415,12 +418,26 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "blastic",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00015860"
 }

@@ -143,16 +143,13 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "focus",
-            "ultrasound",
-            "ablation"
+            "high-intensity focused ultrasound ablation"
       ],
       "criteria": [
             "disease",
@@ -317,9 +314,7 @@
             "warfarin",
             "anticoagulant"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
@@ -328,6 +323,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030277.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030277"
 }

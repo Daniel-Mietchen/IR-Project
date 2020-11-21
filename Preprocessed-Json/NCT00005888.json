@@ -302,15 +302,15 @@
             "collection"
       ],
       "condition": [
-            "sepsis"
+            "enterocolitis"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "preterm",
-            "formula",
-            "supplement"
+            "Fortified Pasteurized Donor Human Milk supplement",
+            "Preterm Formula supplement"
       ],
       "criteria": [
             "infant",
@@ -332,12 +332,19 @@
             "congenital",
             "malformation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "96",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005888.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sepsis"
+      ],
+      "mesh_term": [
+            "weight",
+            "necrotizing"
+      ],
+      "id": "NCT00005888"
 }

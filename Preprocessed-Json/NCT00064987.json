@@ -284,20 +284,37 @@
             "pulse"
       ],
       "condition": [
-            "kallmann",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "follicle",
-            "stimulate",
-            "hormone",
-            "fsh"
+            "Testicular biopsy",
+            "gonadotropin releasing hormone (GnRH)",
+            "follicle stimulating hormone (FSH)"
       ],
       "description": [
-            "75",
+            "surgical",
+            "procedure",
+            "gnrh",
+            "25",
+            "per",
+            "bolus",
+            "every",
+            "two",
+            "hour",
+            "via",
+            "microinfusion",
+            "pump",
+            "titrate",
+            "reach",
+            "normal",
+            "serum",
+            "testosterone",
+            "level",
             "iu",
             "subcutaneous",
             "injection",
@@ -352,14 +369,20 @@
             "hcg",
             "gnrh"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064987.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gnrh"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "stimulate",
+            "hormone"
+      ],
+      "id": "NCT00064987"
 }

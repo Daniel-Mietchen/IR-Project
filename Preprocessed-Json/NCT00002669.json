@@ -181,13 +181,18 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "recombinant interferon alfa",
+            "cisplatin",
             "dacarbazine"
       ],
       "criteria": [
@@ -310,7 +315,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -319,6 +324,11 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002669"
 }

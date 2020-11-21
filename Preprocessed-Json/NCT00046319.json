@@ -158,15 +158,13 @@
             "period"
       ],
       "condition": [
-            "pulmonary",
             "hypertension"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bsf",
-            "208075"
+            "BSF 208075"
       ],
       "criteria": [
             "disease",
@@ -542,12 +540,23 @@
             "screen",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046319.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "mesh_term": [
+            "pulmonary",
+            "primary",
+            "pulmonary",
+            "hypertension"
+      ],
+      "id": "NCT00046319"
 }

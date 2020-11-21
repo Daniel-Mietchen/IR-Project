@@ -84,14 +84,15 @@
             "therapy"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant"
+            "Monoclonal Antibody J591",
+            "Recombinant Interleukin-2"
       ],
       "criteria": [
             "eligibility",
@@ -243,14 +244,17 @@
             "prior",
             "entry"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040586.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00040586"
 }

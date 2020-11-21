@@ -151,7 +151,7 @@
             "month"
       ],
       "condition": [
-            "transitional",
+            "cancer",
             "cell",
             "cancer",
             "renal",
@@ -159,7 +159,7 @@
             "ureter"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "bortezomib"
@@ -389,9 +389,7 @@
             "prior",
             "chemotherapy",
             "radiosensitizer",
-            "allow",
             "note",
-            "may",
             "administer",
             "concurrently",
             "radiotherapy",
@@ -460,12 +458,26 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066352.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00066352"
 }

@@ -149,27 +149,39 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "anaplastic",
+            "astrocytoma",
+            "anaplastic",
+            "oligodendroglioma",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "gliosarcoma",
             "adult",
             "brain",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "sorafenib tosylate",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
             "sorafenib",
             "tosylate"
       ],
       "other_name": [
-            "pharmacological",
+            "tosylate",
+            "salt",
             "study"
       ],
       "criteria": [
@@ -456,12 +468,13 @@
             "bay",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093613.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00093613"
 }

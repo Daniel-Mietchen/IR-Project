@@ -215,17 +215,31 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Yttrium-ibritumomab (Zevalin)",
+            "Rituximab"
       ],
       "description": [
-            "250",
+            "rituximab",
+            "infusion",
+            "zevalin",
+            "day",
+            "1",
+            "follow",
+            "two",
+            "whole",
+            "body",
+            "image",
+            "perform",
+            "day",
+            "1",
+            "day",
+            "2",
             "vein",
             "6",
             "8",
@@ -234,10 +248,11 @@
             "1"
       ],
       "arm_group_label": [
+            "zevalin",
             "zevalin"
       ],
       "other_name": [
-            "rituxan"
+            "tiuxetan"
       ],
       "criteria": [
             "inclusion",
@@ -542,12 +557,18 @@
             "count",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038623.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "zevalin"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00038623"
 }

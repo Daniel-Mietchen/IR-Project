@@ -204,9 +204,7 @@
             "micro",
             "v"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "subject",
             "must",
@@ -280,9 +278,13 @@
             "eog",
             "record"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001610.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "id": "NCT00001610"
 }

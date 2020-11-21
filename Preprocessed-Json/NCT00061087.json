@@ -77,19 +77,21 @@
             "status"
       ],
       "condition": [
-            "cocaine",
+            "disorder",
             "dependence"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Methylphenidate",
+            "Bupropion",
+            "Placebo"
       ],
-      "description": [
-            "placebo"
-      ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "description": [],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -253,7 +255,7 @@
             "pregnant",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -262,6 +264,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "methadone"
+      ],
+      "mesh_term": [
+            "deficit",
+            "disorder",
+            "hyperactivity",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00061087"
 }

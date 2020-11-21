@@ -82,12 +82,15 @@
             "record"
       ],
       "condition": [
-            "chronic",
+            "myelogenous",
+            "leukemia",
+            "lymphocytic",
+            "leukemia",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "clofarabine"
@@ -145,12 +148,30 @@
             "3",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098033.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "blastic",
+            "phase"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "acute",
+            "cell",
+            "lymphoblastic"
+      ],
+      "id": "NCT00098033"
 }

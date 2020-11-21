@@ -180,18 +180,20 @@
             "study"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgical",
-            "procedure"
+            "motexafin gadolinium",
+            "magnetic resonance imaging",
+            "surgical procedure"
       ],
       "criteria": [
             "disease",
@@ -344,12 +346,24 @@
             "medication",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003410.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "gadolinium"
+      ],
+      "id": "NCT00003410"
 }

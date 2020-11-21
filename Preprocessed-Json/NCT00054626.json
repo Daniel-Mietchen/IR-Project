@@ -186,15 +186,17 @@
             "year"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "cisplatin",
+            "gemcitabine hydrochloride",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -352,7 +354,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -361,6 +363,16 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054626.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "transitional",
+            "cell",
+            "carcinoma",
+            "bladder"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00054626"
 }

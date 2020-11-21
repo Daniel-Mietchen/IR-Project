@@ -414,13 +414,21 @@
             "exploratory",
             "evaluation"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Blood Test",
+            "Urine Test",
+            "Physical Exam",
+            "Vaccine",
+            "VRC-SRSDNA015-00-VP"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -982,7 +990,7 @@
             "aminoglycoside",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -991,6 +999,15 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099463.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "acute",
+            "respiratory",
+            "syndrome",
+            "infection"
+      ],
+      "id": "NCT00099463"
 }

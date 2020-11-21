@@ -64,17 +64,52 @@
             "discontinue"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Abatacept",
+            "Methotrexate",
+            "Placebo"
       ],
       "description": [
             "iv",
+            "solution",
+            "weight",
+            "titered",
+            "500",
+            "mg",
+            "60",
+            "kg",
+            "750",
+            "mg",
+            "kg",
+            "1",
+            "gram",
+            "100",
+            "kg",
+            "day",
+            "1",
+            "day",
+            "15",
+            "day",
+            "29",
+            "every",
+            "28",
+            "day",
+            "thereafter",
+            "1",
+            "year",
+            "oral",
+            "15",
+            "mg",
+            "weekly",
+            "1",
+            "year",
             "solution",
             "intravenous",
             "day",
@@ -91,12 +126,18 @@
             "year"
       ],
       "arm_group_label": [
-            "placebo",
+            "methotrexate",
+            "methotrexate",
+            "open",
+            "label",
+            "methotrexate",
+            "methotrexate",
+            "methotrexate",
+            "open",
+            "label",
             "methotrexate"
       ],
-      "other_name": [
-            "mtx"
-      ],
+      "other_name": [],
       "criteria": [
             "rheumatoid",
             "arthritis",
@@ -121,12 +162,15 @@
             "15",
             "mg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048568.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00048568"
 }

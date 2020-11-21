@@ -261,18 +261,32 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "axillary lymph node dissection",
+            "lymphoscintigraphy",
+            "therapeutic conventional surgery",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "axillary",
+            "lymph",
+            "node",
+            "dissection",
+            "lymph",
+            "node",
+            "dissection",
+            "radiotherapy",
+            "lymph",
+            "node",
+            "dissection",
+            "radiotherapy",
             "radiotherapy"
       ],
       "criteria": [
@@ -426,11 +440,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00014612"
 }

@@ -114,14 +114,18 @@
             "citalopram"
       ],
       "condition": [
-            "autistic",
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "citalopram hydrobromide",
             "placebo"
       ],
       "description": [
+            "solution",
             "equivalent",
             "20",
             "mg",
@@ -130,11 +134,9 @@
             "daily"
       ],
       "arm_group_label": [
-            "placebo"
+            "hydrobromide"
       ],
-      "other_name": [
-            "celexa"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -342,7 +344,7 @@
             "therapy",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -351,6 +353,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086645.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "serotonin"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00086645"
 }

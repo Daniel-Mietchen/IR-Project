@@ -124,7 +124,6 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -132,11 +131,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "physical",
-            "therapy"
+            "megestrol acetate",
+            "physical therapy"
       ],
       "criteria": [
             "disease",
@@ -296,12 +296,19 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cachexia"
+      ],
+      "mesh_term": [
+            "loss",
+            "acetate"
+      ],
+      "id": "NCT00004912"
 }

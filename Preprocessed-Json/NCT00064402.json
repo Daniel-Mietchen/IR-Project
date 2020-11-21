@@ -88,23 +88,49 @@
             "inc"
       ],
       "condition": [
-            "emphysema"
+            "obstructive",
+            "pulmonary",
+            "disease",
+            "bronchitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "arformoterol tartrate inhalation solution",
+            "arformoterol tartrate inhalation solution",
+            "arformoterol tartrate inhalation solution",
+            "Salmeterol",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "50",
+            "mcg",
+            "qd",
+            "25",
+            "mcg",
+            "bid",
+            "15",
+            "mcg",
+            "bid",
+            "mdi",
+            "42",
+            "mcg",
+            "bid",
             "bid"
       ],
-      "arm_group_label": [
-            "5"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "serevent",
+            "r",
+            "r",
+            "r",
+            "r",
+            "r",
+            "r",
             "mdi"
       ],
       "criteria": [
@@ -318,12 +344,24 @@
             "administration",
             "contraindicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "35",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064402.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "chronic",
+            "solution",
+            "fumarate",
+            "xinafoate"
+      ],
+      "id": "NCT00064402"
 }

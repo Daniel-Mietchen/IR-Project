@@ -27,16 +27,14 @@
             "6",
             "week"
       ],
-      "condition": [
-            "osteoarthritis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "celecoxib",
-            "placebo"
+            "MK0966, rofecoxib",
+            "Comparator: celecoxib, placebo"
       ],
       "criteria": [
             "inclusion",
@@ -55,12 +53,13 @@
             "study",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00092365.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00092365"
 }

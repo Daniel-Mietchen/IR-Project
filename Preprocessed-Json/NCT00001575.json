@@ -446,13 +446,37 @@
             "cycle"
       ],
       "condition": [
-            "lymphoma"
+            "hodgkin",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Y-90 Humanized Anti-Tac",
+            "Calcium-DTPA"
+      ],
       "description": [
+            "10",
+            "mci",
+            "bone",
+            "marrow",
+            "transplant",
+            "part",
+            "patient",
+            "previous",
+            "therapy",
+            "15",
+            "mci",
+            "yttrium",
+            "label",
+            "follow",
+            "calcium",
+            "trisodium",
+            "inj",
+            "ca",
+            "dtpa",
             "administer",
             "intravenously",
             "day",
@@ -462,6 +486,9 @@
             "body"
       ],
       "arm_group_label": [
+            "yttrium",
+            "humanize",
+            "90",
             "yttrium",
             "humanize",
             "90"
@@ -838,7 +865,7 @@
             "marrow",
             "evaluation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -847,6 +874,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001575.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "calcium",
+            "dtpa"
+      ],
+      "mesh_term": [
+            "disease",
+            "dietary",
+            "g",
+            "acid",
+            "acid"
+      ],
+      "id": "NCT00001575"
 }

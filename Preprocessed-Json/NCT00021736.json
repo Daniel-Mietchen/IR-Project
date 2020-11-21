@@ -61,14 +61,14 @@
             "week"
       ],
       "condition": [
-            "choroidal",
+            "degeneration",
             "neovascularization"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aptamer"
+            "EYE001 anti-VEGF aptamer"
       ],
       "criteria": [
             "patient",
@@ -104,12 +104,21 @@
             "disease",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "subretinal",
+            "neovascularization"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "neovascularization",
+            "pathologic"
+      ],
+      "id": "NCT00021736"
 }

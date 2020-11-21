@@ -585,7 +585,6 @@
             "mechanism"
       ],
       "condition": [
-            "alcohol",
             "consumption"
       ],
       "criteria": [
@@ -786,9 +785,16 @@
             "alcohol",
             "exposure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050219.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "response"
+      ],
+      "mesh_term": [
+            "drink",
+            "agent"
+      ],
+      "id": "NCT00050219"
 }

@@ -512,29 +512,47 @@
             "evaluate"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "treatment",
-            "interruption"
+            "Interleukin 2",
+            "HAART",
+            "Treatment interruption"
       ],
       "description": [
-            "haart",
+            "cycle",
+            "6",
+            "mui",
+            "bid",
+            "5",
+            "day",
+            "one",
+            "cycle",
+            "week",
+            "0",
+            "week",
+            "24",
             "interrupt",
             "week",
             "24",
             "arm"
       ],
       "arm_group_label": [
-            "control",
+            "2",
+            "group",
+            "2",
+            "group",
+            "group",
+            "2",
+            "group",
             "group"
       ],
       "other_name": [
-            "antiretroviral",
             "treatment"
       ],
       "criteria": [
@@ -794,12 +812,18 @@
             "cover",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00071890"
 }

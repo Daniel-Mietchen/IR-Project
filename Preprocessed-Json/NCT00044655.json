@@ -133,16 +133,46 @@
             "1",
             "year"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aripiprazole"
+            "Risperidone",
+            "Olanzapine",
+            "Ziprasidone",
+            "Quetiapine",
+            "Aripiprazole"
       ],
       "description": [
+            "prescribe",
+            "routine",
+            "prescriber",
+            "dictate",
+            "study",
+            "protocol",
+            "prescribe",
+            "routine",
+            "prescriber",
+            "dictate",
+            "study",
+            "protocol",
+            "prescribe",
+            "routine",
+            "prescriber",
+            "dictate",
+            "study",
+            "protocol",
+            "prescribe",
+            "routine",
+            "prescriber",
+            "dictate",
+            "study",
+            "protocol",
             "prescribe",
             "routine",
             "prescriber",
@@ -151,13 +181,40 @@
             "protocol"
       ],
       "arm_group_label": [
-            "switch",
+            "baseline",
+            "medication",
+            "prescribe",
+            "per",
+            "study",
+            "protocol",
+            "baseline",
+            "medication",
+            "prescribe",
+            "per",
+            "study",
+            "protocol",
+            "baseline",
+            "medication",
+            "prescribe",
+            "per",
+            "study",
+            "protocol",
+            "baseline",
+            "medication",
+            "prescribe",
+            "per",
+            "study",
+            "protocol",
+            "baseline",
+            "medication",
+            "prescribe",
             "per",
             "study",
             "protocol"
       ],
       "other_name": [
-            "abilify"
+            "risperdal",
+            "consta"
       ],
       "criteria": [
             "inclusion",
@@ -278,12 +335,16 @@
             "might",
             "assign"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044655.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "agent",
+            "fumarate"
+      ],
+      "id": "NCT00044655"
 }

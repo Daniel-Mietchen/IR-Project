@@ -124,21 +124,28 @@
             "month"
       ],
       "condition": [
-            "sarcomatous",
+            "malignant",
+            "mesothelioma",
+            "mesothelioma",
+            "malignant",
+            "mesothelioma",
             "mesothelioma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
             "erlotinib",
             "hydrochloride"
       ],
@@ -329,9 +336,13 @@
             "agent",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039182.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00039182"
 }

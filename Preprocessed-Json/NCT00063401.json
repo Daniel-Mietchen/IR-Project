@@ -67,28 +67,38 @@
             "carboplatin"
       ],
       "condition": [
-            "fallopian",
+            "cancer",
+            "neoplasm",
             "tube",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin"
+            "Cetuximab:",
+            "Paclitaxel",
+            "Carboplatin"
       ],
       "description": [
-            "auc",
+            "load",
+            "dose",
+            "250",
+            "weekly",
+            "six",
+            "cycle",
+            "day",
+            "1",
+            "six",
+            "cycle",
             "6",
             "six",
             "cycle"
       ],
-      "arm_group_label": [
-            "1"
-      ],
-      "other_name": [
-            "erbitux"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -490,14 +500,23 @@
             "cremophor",
             "el"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063401.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fallopian",
+            "tube",
+            "cancer"
+      ],
+      "mesh_term": [
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00063401"
 }

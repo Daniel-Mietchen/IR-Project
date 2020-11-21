@@ -63,13 +63,14 @@
             "regimen"
       ],
       "condition": [
-            "ovarian",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "9-aminocamptothecin"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -220,11 +221,15 @@
             "pregnant",
             "woman"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001427.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00001427"
 }

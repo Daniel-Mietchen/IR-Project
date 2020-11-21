@@ -140,13 +140,15 @@
             "epilepsy"
       ],
       "condition": [
-            "epilepsy"
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fdg"
+            "15 O Water",
+            "FDG"
       ],
       "criteria": [
             "inclusion",
@@ -215,9 +217,15 @@
             "disease",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001288.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "stroke"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00001288"
 }

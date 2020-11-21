@@ -128,16 +128,13 @@
             "world"
       ],
       "condition": [
-            "diabetic",
             "polyneuropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "lidorestat",
-            "idd",
-            "676"
+            "Lidorestat (IDD 676)"
       ],
       "criteria": [
             "inclusion",
@@ -183,7 +180,7 @@
             "liver",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -192,6 +189,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043797.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetic",
+            "complication"
+      ],
+      "mesh_term": [
+            "neuropathy"
+      ],
+      "id": "NCT00043797"
 }

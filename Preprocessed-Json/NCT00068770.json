@@ -150,7 +150,6 @@
             "receive",
             "oral",
             "celecoxib",
-            "twice",
             "daily",
             "week",
             "undergo",
@@ -178,7 +177,6 @@
             "unacceptable",
             "toxicity",
             "note",
-            "patient",
             "receive",
             "1",
             "dose",
@@ -207,20 +205,32 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "radiation therapy",
+            "Celecoxib"
       ],
       "description": [
+            "standard",
+            "treatment",
+            "30",
+            "fraction",
+            "patient",
+            "receive",
             "celecoxib",
+            "400",
+            "mg",
+            "bid",
+            "rt",
+            "treatment",
             "begin",
             "1",
             "week",
@@ -450,12 +460,23 @@
             "concurrent",
             "fluconazole"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068770.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00068770"
 }

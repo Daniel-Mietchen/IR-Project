@@ -278,16 +278,17 @@
             "group"
       ],
       "condition": [
-            "hot",
             "flash"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "multibotanical",
-            "phytoestrogen",
-            "formula"
+            "Hormone Replacement Therapy",
+            "Cimicifuga racemosa (Black Cohosh)",
+            "Multibotanical phytoestrogen formula"
       ],
       "criteria": [
             "inclusion",
@@ -586,9 +587,7 @@
             "wiklund",
             "checklist"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -597,6 +596,9 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061711.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "flash"
+      ],
+      "id": "NCT00061711"
 }

@@ -574,14 +574,17 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Indinavir sulfate",
+            "Abacavir sulfate",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -1008,12 +1011,18 @@
             "prior",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001086.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001086"
 }

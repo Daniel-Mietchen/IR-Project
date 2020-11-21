@@ -168,13 +168,14 @@
             "level"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "amiloride",
             "uridine"
       ],
       "criteria": [
@@ -235,12 +236,19 @@
             "reproducible",
             "spirometry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004705.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00004705"
 }

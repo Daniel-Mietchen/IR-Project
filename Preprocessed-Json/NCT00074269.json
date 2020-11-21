@@ -325,22 +325,31 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "anti-thymocyte globulin",
+            "filgrastim",
+            "graft-versus-tumor induction therapy",
+            "therapeutic allogeneic lymphocytes",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "melphalan",
+            "methotrexate",
+            "peripheral blood stem cell transplantation"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -388,7 +397,6 @@
             "biopsy",
             "measurable",
             "evaluable",
-            "disease",
             "define",
             "follow",
             "bidimensionally",
@@ -426,7 +434,6 @@
             "evaluable",
             "disease",
             "note",
-            "bone",
             "lesion",
             "pleural",
             "peritoneal",
@@ -503,15 +510,12 @@
             "le",
             "3",
             "time",
-            "normal",
             "ast",
             "alt",
             "le",
             "3",
             "time",
-            "normal",
             "note",
-            "unless",
             "abnormality",
             "due",
             "malignancy",
@@ -618,9 +622,7 @@
             "immunosuppressive",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -629,6 +631,17 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00074269.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "phosphate",
+            "serum"
+      ],
+      "id": "NCT00074269"
 }

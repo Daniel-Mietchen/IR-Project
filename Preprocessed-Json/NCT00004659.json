@@ -137,13 +137,14 @@
             "month"
       ],
       "condition": [
-            "brain",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "irradiation",
             "radiosurgery"
       ],
       "criteria": [
@@ -191,9 +192,16 @@
             "karnofsky",
             "70"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004659.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004659"
 }

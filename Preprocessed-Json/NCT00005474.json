@@ -510,7 +510,9 @@
             "2006"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "mellitus",
+            "disease",
             "mellitus"
       ],
       "study_pop": [],
@@ -521,9 +523,17 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005474.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00005474"
 }

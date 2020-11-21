@@ -200,17 +200,30 @@
             "evaluate"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "exercise"
+            "Diet, fat-restricted",
+            "Exercise"
       ],
       "description": [
-            "rigorous",
+            "total",
+            "saturate",
+            "trans",
+            "fat",
+            "cholesterol",
+            "calorie",
+            "increase",
+            "fiber",
+            "promotion",
+            "low",
+            "calorie",
+            "food",
             "step",
             "care",
             "approach",
@@ -219,9 +232,7 @@
             "physical",
             "activity"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -269,9 +280,7 @@
             "diabetes",
             "medication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "52",
             "year"
@@ -280,6 +289,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00023543.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00023543"
 }

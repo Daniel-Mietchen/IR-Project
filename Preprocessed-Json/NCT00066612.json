@@ -133,18 +133,21 @@
             "month"
       ],
       "condition": [
-            "urethral",
+            "cancer",
+            "cell",
+            "cancer",
+            "renal",
+            "pelvis",
+            "ureter",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "irinotecan hydrochloride"
       ],
       "description": [
-            "irinotecan",
             "give",
             "250",
             "intravenous",
@@ -164,9 +167,7 @@
             "discontinuation",
             "occur"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -419,12 +420,29 @@
             "gabapentin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "urethral",
+            "cancer",
+            "associate",
+            "invasive",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00066612"
 }

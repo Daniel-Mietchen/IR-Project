@@ -170,15 +170,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pixantrone",
-            "dimaleate"
+            "cisplatin",
+            "cytarabine",
+            "methylprednisolone",
+            "pixantrone dimaleate"
       ],
       "criteria": [
             "disease",
@@ -250,7 +253,6 @@
             "count",
             "least",
             "note",
-            "lower",
             "value",
             "may",
             "accept",
@@ -271,13 +273,11 @@
             "greater",
             "2",
             "time",
-            "uln",
             "ast",
             "alt",
             "greater",
             "2",
             "time",
-            "uln",
             "history",
             "clinical",
             "symptom",
@@ -286,7 +286,6 @@
             "c",
             "virus",
             "note",
-            "higher",
             "value",
             "may",
             "accept",
@@ -454,7 +453,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -463,6 +462,21 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00053105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00053105"
 }

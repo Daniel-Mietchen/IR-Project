@@ -206,15 +206,16 @@
             "study"
       ],
       "condition": [
-            "metastatic",
+            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "histamine",
-            "dihydrochloride"
+            "aldesleukin",
+            "histamine dihydrochloride"
       ],
       "criteria": [
             "disease",
@@ -573,12 +574,20 @@
             "concurrent",
             "antihistamine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039234.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "phosphate"
+      ],
+      "id": "NCT00039234"
 }

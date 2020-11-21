@@ -155,7 +155,6 @@
             "method"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "criteria": [
@@ -182,11 +181,16 @@
             "inform",
             "consent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026949.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00026949"
 }

@@ -217,24 +217,66 @@
             "study"
       ],
       "condition": [
-            "cervical",
+            "cancer",
+            "intraepithelial",
+            "neoplasia",
+            "grade",
+            "2",
             "intraepithelial",
             "neoplasia",
             "grade",
             "3"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "motexafin lutetium",
+            "photodynamic therapy",
+            "loop electrosurgical excision procedure",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "laser",
+            "therapy",
+            "leep",
             "study"
       ],
       "arm_group_label": [
-            "part",
+            "1",
+            "lutetium",
+            "texaphyrin",
+            "leep",
+            "2",
+            "lutetium",
+            "texaphyrin",
+            "laser",
+            "therapy",
+            "leep",
+            "2",
+            "lutetium",
+            "texaphyrin",
+            "laser",
+            "therapy",
+            "leep",
+            "1",
+            "lutetium",
+            "texaphyrin",
+            "leep",
+            "2",
+            "lutetium",
+            "texaphyrin",
+            "laser",
+            "therapy",
+            "leep",
+            "1",
+            "lutetium",
+            "texaphyrin",
+            "leep",
             "2",
             "lutetium",
             "texaphyrin",
@@ -243,7 +285,10 @@
             "leep"
       ],
       "other_name": [
-            "loop",
+            "texaphrin",
+            "texaphyrin",
+            "infusion",
+            "photodynamic",
             "electrosurgical",
             "excision"
       ],
@@ -379,9 +424,7 @@
             "tissue",
             "disorder"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -390,6 +433,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005808.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "situ",
+            "intraepithelial",
+            "neoplasia",
+            "cervical",
+            "dysplasia",
+            "lutetium"
+      ],
+      "id": "NCT00005808"
 }

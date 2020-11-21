@@ -59,21 +59,52 @@
             "size"
       ],
       "condition": [
-            "hepatocellular",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "2400"
+            "MB07133 300mg/m2/day",
+            "MB07133 600 mg/m2/day",
+            "MB07133 1200 mg/m2/day",
+            "MB07133 1800 mg/m2/day",
+            "MB07133 2400 mg/m2/day"
       ],
       "description": [
+            "continuous",
+            "infusion",
+            "cycle",
+            "continuous",
+            "infusion",
+            "cycle",
+            "continuous",
+            "infusion",
+            "cycle",
+            "continuous",
+            "infusion",
+            "cycle",
             "continuous",
             "infusion",
             "cycle"
       ],
       "arm_group_label": [
+            "dose",
+            "level",
+            "1",
+            "dose",
+            "level",
+            "2",
+            "dose",
+            "level",
+            "3",
+            "dose",
+            "level",
+            "4",
             "dose",
             "level",
             "5"
@@ -384,12 +415,18 @@
             "nurse",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "hepatocellular"
+      ],
+      "id": "NCT00073736"
 }

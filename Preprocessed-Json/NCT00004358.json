@@ -85,11 +85,9 @@
             "tumor",
             "recurrence"
       ],
-      "condition": [
-            "calcinosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "calcitonin"
@@ -112,9 +110,17 @@
             "lesion",
             "require"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004358.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumoral",
+            "calcinosis"
+      ],
+      "mesh_term": [
+            "calcitonin",
+            "peptide"
+      ],
+      "id": "NCT00004358"
 }

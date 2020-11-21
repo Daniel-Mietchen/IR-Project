@@ -198,31 +198,47 @@
             "progression"
       ],
       "condition": [
-            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "primary",
             "peritoneal",
             "cavity",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "gemcitabine hydrochloride",
+            "sorafenib tosylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
+            "gemcitabine",
+            "hydrochloride",
+            "sorafenib",
+            "tosylate",
+            "gemcitabine",
+            "hydrochloride",
             "sorafenib",
             "tosylate",
             "gemcitabine",
             "hydrochloride"
       ],
       "other_name": [
-            "sfn"
+            "hydrochloride",
+            "tosylate",
+            "salt"
       ],
       "criteria": [
             "inclusion",
@@ -652,12 +668,17 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096395.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "glandular",
+            "epithelial"
+      ],
+      "id": "NCT00096395"
 }

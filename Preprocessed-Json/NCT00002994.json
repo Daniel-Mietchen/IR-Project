@@ -242,7 +242,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -250,13 +249,41 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "rhumab"
+            "interleukin 2",
+            "rhuMAb"
       ],
       "description": [
-            "90",
+            "dose",
+            "1",
+            "million",
+            "meter",
+            "subq",
+            "injection",
+            "q",
+            "day",
+            "day",
+            "cycle",
+            "1",
+            "day",
+            "subsequent",
+            "cycle",
+            "intermediate",
+            "dose",
+            "12",
+            "million",
+            "meter",
+            "subq",
+            "injection",
+            "day",
+            "cycle",
+            "1",
+            "day",
+            "subsequent",
+            "cycle",
             "min",
             "iv",
             "infusion",
@@ -265,7 +292,9 @@
             "cycle"
       ],
       "arm_group_label": [
-            "monoclonal",
+            "antibody",
+            "interleukin",
+            "2",
             "antibody",
             "interleukin",
             "2"
@@ -430,7 +459,7 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -439,6 +468,17 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002994.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00002994"
 }

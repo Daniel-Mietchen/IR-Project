@@ -160,7 +160,14 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "versus",
+            "host",
+            "disease",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
@@ -168,7 +175,7 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "thalidomide"
@@ -244,12 +251,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003894.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "graft",
+            "versus",
+            "host",
+            "disease"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00003894"
 }

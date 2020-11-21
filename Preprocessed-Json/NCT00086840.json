@@ -95,27 +95,38 @@
             "therapy"
       ],
       "condition": [
-            "refractory",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "adult",
+            "hodgkin",
+            "lymphoma",
             "chronic",
             "lymphocytic",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -286,12 +297,20 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086840.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "large",
+            "diffuse",
+            "disease"
+      ],
+      "id": "NCT00086840"
 }

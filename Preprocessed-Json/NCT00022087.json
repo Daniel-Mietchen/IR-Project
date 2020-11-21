@@ -186,17 +186,27 @@
             "month"
       ],
       "condition": [
-            "osteoporosis"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Dietary Supplement",
+            "Drug"
       ],
       "intervention_name": [
-            "zoledronic",
-            "acid"
+            "calcium salts",
+            "cholecalciferol",
+            "zoledronic acid"
       ],
       "description": [
-            "4",
+            "mg",
+            "po",
+            "per",
+            "day",
+            "iu",
+            "po",
+            "per",
+            "day",
             "mg",
             "iv",
             "infusion",
@@ -217,14 +227,26 @@
             "arm"
       ],
       "arm_group_label": [
-            "calcium",
+            "acid",
+            "initial",
+            "tx",
+            "vit",
+            "initial",
+            "tx",
+            "acid",
+            "initial",
+            "tx",
+            "vit",
+            "initial",
+            "tx",
+            "acid",
+            "initial",
+            "tx",
             "vit",
             "initial",
             "tx"
       ],
-      "other_name": [
-            "zometa"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -255,11 +277,9 @@
             "plan",
             "use",
             "adjuvant",
-            "chemotherapy",
             "without",
             "adjuvant",
             "endocrine",
-            "therapy",
             "subsequent",
             "adjuvant",
             "hormonal",
@@ -273,7 +293,6 @@
             "adjuvant",
             "chemotherapy",
             "note",
-            "must",
             "specify",
             "prior",
             "study",
@@ -398,14 +417,23 @@
             "participation",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022087.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid",
+            "dietary"
+      ],
+      "id": "NCT00022087"
 }

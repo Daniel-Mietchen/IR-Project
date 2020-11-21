@@ -66,14 +66,15 @@
             "nrti"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "nevirapine"
+            "Lopinavir/Ritonavir",
+            "Nevirapine"
       ],
       "criteria": [
             "inclusion",
@@ -166,12 +167,24 @@
             "cancer",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004581.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abt",
+            "378"
+      ],
+      "mesh_term": [
+            "infection",
+            "protease",
+            "inhibitor",
+            "inhibitor",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00004581"
 }

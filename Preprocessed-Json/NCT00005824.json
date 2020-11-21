@@ -173,18 +173,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "busulfan",
+            "cyclophosphamide",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -361,7 +361,7 @@
             "infection",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -370,6 +370,11 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005824.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00005824"
 }

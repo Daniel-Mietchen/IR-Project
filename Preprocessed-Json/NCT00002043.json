@@ -45,14 +45,15 @@
             "tolerable"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dapsone"
+            "Dapsone"
       ],
       "criteria": [
             "inclusion",
@@ -156,12 +157,21 @@
             "zidovudine",
             "azt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002043.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "candidiasis",
+            "oral"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "complex"
+      ],
+      "id": "NCT00002043"
 }

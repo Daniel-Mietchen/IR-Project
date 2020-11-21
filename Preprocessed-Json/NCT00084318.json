@@ -315,19 +315,51 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cetuximab",
+            "cisplatin",
+            "docetaxel",
+            "radiation therapy"
       ],
       "description": [
+            "intravenously",
+            "120",
+            "minute",
+            "day",
+            "1",
+            "week",
+            "1",
+            "follow",
+            "250",
+            "intravenously",
             "60",
+            "minute",
+            "week",
+            "2",
+            "7",
+            "intravenously",
+            "infuse",
+            "60",
+            "minute",
+            "week",
+            "2",
+            "7",
+            "intravenously",
+            "infuse",
+            "30",
+            "minute",
+            "week",
+            "2",
+            "7",
             "gy",
             "2",
             "gy",
@@ -337,7 +369,16 @@
             "week"
       ],
       "arm_group_label": [
-            "rt",
+            "cisplatin",
+            "cetuximab",
+            "docetaxel",
+            "cetuximab",
+            "cisplatin",
+            "cetuximab",
+            "docetaxel",
+            "cetuximab",
+            "cisplatin",
+            "cetuximab",
             "docetaxel",
             "cetuximab"
       ],
@@ -628,12 +669,24 @@
             "inhibitor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084318.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "lymphoepithelioma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00084318"
 }

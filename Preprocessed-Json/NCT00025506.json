@@ -161,24 +161,32 @@
       ],
       "condition": [
             "uterine",
+            "corpus",
+            "sarcoma",
             "carcinosarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "Laboratory Biomarker Analysis",
+            "Thalidomide"
       ],
       "description": [
-            "give",
+            "study",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
             "thalidomide"
       ],
       "other_name": [
-            "thalomid"
+            "phthalimide",
+            "acid",
+            "imide",
+            "2",
+            "2"
       ],
       "criteria": [
             "inclusion",
@@ -492,11 +500,14 @@
             "preclude",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00025506.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "mullerian",
+            "neoplasm"
+      ],
+      "id": "NCT00025506"
 }

@@ -58,25 +58,37 @@
             "study"
       ],
       "condition": [
-            "sciatica"
+            "pain"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "benztropine"
+            "Desipramine",
+            "Fluoxetine",
+            "Benztropine"
       ],
       "description": [
-            "daily",
+            "exposure",
+            "middle",
+            "exposure",
+            "high",
+            "exposure",
+            "exposure",
+            "middle",
+            "exposure",
+            "high",
+            "exposure",
             "dose"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "2",
             "3"
       ],
-      "other_name": [
-            "cogentin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -107,7 +119,7 @@
             "bipolar",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -116,6 +128,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018200.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sciatica"
+      ],
+      "mesh_term": [
+            "pain",
+            "agent"
+      ],
+      "id": "NCT00018200"
 }

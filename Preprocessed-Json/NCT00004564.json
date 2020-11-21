@@ -134,14 +134,14 @@
             "exclude",
             "study"
       ],
-      "condition": [
-            "thrombosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "atorvastatin"
+            "Clopidogrel",
+            "Atorvastatin"
       ],
       "criteria": [
             "inclusion",
@@ -208,7 +208,7 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -217,6 +217,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cerebrovascular",
+            "accident"
+      ],
+      "mesh_term": [
+            "calcium",
+            "aggregation",
+            "inhibitor"
+      ],
+      "id": "NCT00004564"
 }

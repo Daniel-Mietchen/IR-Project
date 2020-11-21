@@ -68,16 +68,13 @@
             "population"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "injectable",
-            "emulsion"
+            "S-8184 Paclitaxel Injectable Emulsion"
       ],
       "criteria": [
             "inclusion",
@@ -273,12 +270,16 @@
             "induce",
             "isoenzymes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034164.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00034164"
 }

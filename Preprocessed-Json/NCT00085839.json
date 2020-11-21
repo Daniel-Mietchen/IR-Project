@@ -62,15 +62,25 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "combination",
-            "carboplatin",
-            "paclitaxel"
+            "Tarceva (Trademark) (erlotinib HCl, OSI-774)",
+            "Combination carboplatin and paclitaxel"
       ],
       "description": [
-            "paclitaxel",
+            "tablet",
+            "administer",
+            "orally",
+            "150",
+            "start",
+            "dose",
+            "100",
+            "reduce",
+            "dose",
+            "continuous",
+            "therapy",
             "200",
             "iv",
             "infusion",
@@ -95,7 +105,6 @@
             "cycle"
       ],
       "arm_group_label": [
-            "standard",
             "chemotherapy"
       ],
       "criteria": [
@@ -153,12 +162,19 @@
             "cardiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085839.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel",
+            "hydrochloride"
+      ],
+      "id": "NCT00085839"
 }

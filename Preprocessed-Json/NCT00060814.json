@@ -61,17 +61,16 @@
             "trial"
       ],
       "condition": [
-            "tobacco",
             "use",
             "disorder"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "combine",
-            "intervention"
+            "Combined intervention"
       ],
       "description": [
-            "300",
             "mg",
             "bupropion",
             "plus",
@@ -85,7 +84,6 @@
             "counsel"
       ],
       "arm_group_label": [
-            "combine",
             "pharmacotherapy",
             "counsel"
       ],
@@ -157,7 +155,7 @@
             "pipe",
             "example"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -166,6 +164,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060814.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "use",
+            "disorder"
+      ],
+      "id": "NCT00060814"
 }

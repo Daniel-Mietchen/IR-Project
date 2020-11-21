@@ -74,12 +74,17 @@
             "record"
       ],
       "condition": [
-            "osteopenia"
+            "gaucher",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alendronate sodium",
+            "calcium carbonate",
             "cholecalciferol"
       ],
       "criteria": [
@@ -177,7 +182,7 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -186,6 +191,15 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004488.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sphingolipidoses"
+      ],
+      "mesh_term": [
+            "disease",
+            "metabolic",
+            "disease",
+            "carbonate"
+      ],
+      "id": "NCT00004488"
 }

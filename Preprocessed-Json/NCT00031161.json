@@ -206,14 +206,18 @@
             "record"
       ],
       "condition": [
-            "chronic",
+            "lactic",
             "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet"
+            "Nitisinone (NTBC)",
+            "Dichloroacetate",
+            "Low-tyrosin diet"
       ],
       "criteria": [
             "inclusion",
@@ -332,7 +336,7 @@
             "neurological",
             "deterioration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -341,6 +345,14 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031161.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "enzyme",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "disease",
+            "lactic"
+      ],
+      "id": "NCT00031161"
 }

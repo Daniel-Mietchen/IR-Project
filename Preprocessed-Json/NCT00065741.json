@@ -42,11 +42,10 @@
             "summary"
       ],
       "condition": [
-            "hiv",
             "seronegativity"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "silymarin"
@@ -225,7 +224,7 @@
             "entry",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -234,6 +233,11 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065741.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "complementary",
+            "therapy"
+      ],
+      "mesh_term": [],
+      "id": "NCT00065741"
 }

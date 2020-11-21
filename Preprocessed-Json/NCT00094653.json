@@ -131,18 +131,26 @@
             "recognize",
             "cell"
       ],
-      "condition": [
-            "metastasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "melanoma",
-            "peptide",
-            "vaccine"
+            "MDX-010 (anti-CTLA4) monoclonal antibody",
+            "MDX-1379 (gp100) Melanoma Peptide Vaccine"
       ],
       "description": [
+            "intravenous",
+            "iv",
+            "infusion",
+            "90",
+            "minute",
+            "every",
+            "3",
+            "week",
+            "4",
+            "dose",
             "2",
             "subcutaneous",
             "injection",
@@ -156,11 +164,8 @@
             "4",
             "dose"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "melanoma",
             "peptide",
             "vaccine"
       ],
@@ -176,7 +181,6 @@
             "iii",
             "iv",
             "melanoma",
-            "0201",
             "positive",
             "previous",
             "treatment",
@@ -298,12 +302,19 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094653.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "skin",
+            "cancer"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00094653"
 }

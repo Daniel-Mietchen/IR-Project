@@ -905,12 +905,37 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
-      "intervention_type": [],
-      "intervention_name": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
+      "intervention_name": [
+            "117-126:Fibroblast growth factor 5 (FGF-5)",
+            "Fibroblast growth factor 5 (FGF-5):172-176/217-220",
+            "IL-2"
+      ],
       "description": [
+            "1",
+            "ml",
+            "injection",
+            "anterior",
+            "thigh",
+            "deep",
+            "subcutaneous",
+            "tissue",
+            "within",
+            "1",
+            "ml",
+            "injection",
+            "anterior",
+            "thigh",
+            "deep",
+            "subcutaneous",
+            "tissue",
+            "within",
             "intravenous",
             "bolus",
             "15",
@@ -930,7 +955,18 @@
             "dose"
       ],
       "arm_group_label": [
-            "grp",
+            "b",
+            "measurable",
+            "metastatic",
+            "disease",
+            "require",
+            "aldesleukin",
+            "c",
+            "disease",
+            "metastatic",
+            "disease",
+            "immediate",
+            "aldesleukin",
             "b",
             "measurable",
             "metastatic",
@@ -938,9 +974,7 @@
             "require",
             "aldesleukin"
       ],
-      "other_name": [
-            "aldesleukin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1381,12 +1415,21 @@
             "adequate",
             "assessment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089778.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00089778"
 }

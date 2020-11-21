@@ -96,25 +96,33 @@
             "week"
       ],
       "condition": [
-            "attention",
             "deficit",
             "disorder",
             "hyperactivity"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "clonidine",
+            "methylphenidate",
             "placebo"
       ],
       "description": [
+            "treatment",
+            "hypertension",
+            "adult",
+            "treatment",
+            "adhd",
+            "symptom",
+            "child",
             "inactive",
             "substance"
       ],
-      "arm_group_label": [
-            "4"
-      ],
-      "other_name": [
-            "mph"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -406,7 +414,7 @@
             "clonidine",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -415,6 +423,14 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031395.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mph"
+      ],
+      "mesh_term": [
+            "deficit",
+            "disorder",
+            "hyperactivity"
+      ],
+      "id": "NCT00031395"
 }

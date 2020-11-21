@@ -127,16 +127,23 @@
             "month"
       ],
       "condition": [
+            "cell",
+            "anemia",
+            "major",
             "aplasia",
             "pure"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "anti-thymocyte globulin",
+            "busulfan",
+            "cyclophosphamide",
+            "Bone marrow transplantation"
       ],
       "criteria": [
             "protocol",
@@ -424,9 +431,21 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005893.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thalassemia",
+            "major"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "disease",
+            "aplasia",
+            "pure",
+            "serum"
+      ],
+      "id": "NCT00005893"
 }

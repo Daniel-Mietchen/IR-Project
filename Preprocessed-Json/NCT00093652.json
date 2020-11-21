@@ -182,7 +182,6 @@
             "patient",
             "undergo",
             "surgical",
-            "resection",
             "possibly",
             "receive",
             "second",
@@ -239,14 +238,12 @@
             "either",
             "undergo",
             "surgical",
-            "resection",
             "begin",
             "second",
             "course",
             "oxaliplatin",
             "phase",
             "note",
-            "oral",
             "gefitinib",
             "discontinue",
             "7",
@@ -284,15 +281,21 @@
             "year"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "gefitinib",
+            "oxaliplatin",
+            "conventional surgery",
+            "neoadjuvant therapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -496,7 +499,7 @@
             "agent",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -505,6 +508,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00093652.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "squamous",
+            "cell",
+            "carcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00093652"
 }

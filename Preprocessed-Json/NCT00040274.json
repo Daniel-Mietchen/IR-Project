@@ -94,15 +94,13 @@
             "test"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dpc",
-            "817"
+            "DPC 817"
       ],
       "criteria": [
             "inclusion",
@@ -258,7 +256,7 @@
             "study",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -267,6 +265,12 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040274.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "phase"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00040274"
 }

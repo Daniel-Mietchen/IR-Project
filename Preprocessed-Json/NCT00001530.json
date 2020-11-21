@@ -166,7 +166,6 @@
             "period"
       ],
       "condition": [
-            "cardiomyopathy",
             "hypertrophic"
       ],
       "criteria": [
@@ -236,9 +235,16 @@
             "pregnancy",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001530.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hypertrophic",
+            "cardiomyopathy"
+      ],
+      "mesh_term": [
+            "hypertrophic"
+      ],
+      "id": "NCT00001530"
 }

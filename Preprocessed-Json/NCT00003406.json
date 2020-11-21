@@ -189,7 +189,14 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "myeloproliferative",
+            "disorder",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "condition",
             "adult",
             "solid",
             "tumor",
@@ -197,14 +204,20 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "carboplatin",
+            "docetaxel",
+            "ifosfamide",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -490,12 +503,26 @@
             "antiarrhythmic",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003406.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "disorder",
+            "condition",
+            "mustard"
+      ],
+      "id": "NCT00003406"
 }

@@ -132,17 +132,23 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin",
+            "etoposide",
             "exisulind"
       ],
       "arm_group_label": [
-            "carboplatin",
+            "etoposide",
+            "exisulind",
+            "etoposide",
+            "exisulind",
             "etoposide",
             "exisulind"
       ],
@@ -322,12 +328,28 @@
             "concurrent",
             "sulindac"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041054.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate",
+            "sulfone"
+      ],
+      "id": "NCT00041054"
 }

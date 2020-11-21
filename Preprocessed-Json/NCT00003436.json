@@ -451,17 +451,29 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "amsacrine",
+            "asparaginase",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "etoposide",
+            "methotrexate",
+            "mitoxantrone hydrochloride",
+            "therapeutic hydrocortisone",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -546,12 +558,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003436.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "syndrome",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00003436"
 }

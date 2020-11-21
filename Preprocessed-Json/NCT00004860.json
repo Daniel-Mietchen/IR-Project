@@ -126,13 +126,16 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "leucovorin calcium",
+            "tegafur-uracil"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -264,12 +267,19 @@
             "emtricitabine",
             "sorivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "75",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004860"
 }

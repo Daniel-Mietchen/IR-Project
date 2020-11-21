@@ -176,15 +176,20 @@
             "year"
       ],
       "condition": [
-            "radiation",
+            "neck",
+            "cancer",
+            "complication",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "sargramostim",
+            "quality-of-life assessment",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -323,9 +328,18 @@
             "study",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008398.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00008398"
 }

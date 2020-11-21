@@ -148,18 +148,45 @@
             "toxicity"
       ],
       "condition": [
-            "pancreatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "placebo"
+            "Gemcitabine with R115777",
+            "Gemcitabine with Placebo"
       ],
       "description": [
-            "placebo",
+            "200",
+            "mg",
+            "oral",
+            "twice",
+            "daily",
+            "interval",
+            "throughout",
+            "study",
+            "coadministered",
+            "gemcitabine",
+            "1000",
+            "iv",
+            "every",
+            "week",
+            "first",
+            "7",
+            "week",
+            "follow",
+            "1",
+            "week",
+            "rest",
+            "every",
+            "3",
+            "4",
+            "week",
+            "thereafter",
+            "5",
+            "year",
             "oral",
             "twice",
             "daily",
@@ -187,9 +214,7 @@
             "5",
             "year"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -261,12 +286,21 @@
             "uncontrolled",
             "severe"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005648.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005648"
 }

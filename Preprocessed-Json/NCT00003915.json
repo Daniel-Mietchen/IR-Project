@@ -202,19 +202,21 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leuprolide",
-            "acetate"
+            "bicalutamide",
+            "docetaxel",
+            "estramustine phosphate sodium",
+            "leuprolide acetate"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -396,14 +398,20 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003915.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003915"
 }

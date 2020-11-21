@@ -154,8 +154,6 @@
             "hla",
             "allele",
             "use",
-            "hla",
-            "0201",
             "tetramers",
             "cohort",
             "expansion",
@@ -284,29 +282,49 @@
             "day"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "carcinoma",
             "iv",
             "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Other",
+            "Other",
+            "Biological"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Ipilimumab",
+            "Laboratory Biomarker Analysis",
+            "Pharmacological Study",
+            "Sargramostim"
       ],
       "description": [
-            "give",
+            "iv",
+            "study",
+            "study",
             "sc"
       ],
       "arm_group_label": [
-            "treatment",
+            "monoclonal",
+            "antibody",
+            "factor",
+            "monoclonal",
+            "antibody",
+            "factor",
+            "monoclonal",
+            "antibody",
+            "factor",
             "monoclonal",
             "antibody",
             "factor"
       ],
       "other_name": [
-            "sargramostatin"
+            "monoclonal",
+            "antibody",
+            "factor",
+            "2"
       ],
       "criteria": [
             "inclusion",
@@ -363,7 +381,6 @@
             "least",
             "2",
             "week",
-            "apart",
             "least",
             "1",
             "psa",
@@ -627,14 +644,16 @@
             "saw",
             "palmetto"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064129.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00064129"
 }

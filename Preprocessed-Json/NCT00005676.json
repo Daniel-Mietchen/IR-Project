@@ -195,7 +195,9 @@
             "test"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "arteriosclerosis",
             "disease"
       ],
       "study_pop": [],
@@ -216,9 +218,7 @@
             "evidence",
             "chd"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "41",
             "year"
@@ -227,6 +227,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005676.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00005676"
 }

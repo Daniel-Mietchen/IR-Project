@@ -202,7 +202,6 @@
             "therapy",
             "comprise",
             "note",
-            "patient",
             "treat",
             "british",
             "columbia",
@@ -275,21 +274,27 @@
             "within",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "oblimersen sodium",
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "diffuse",
             "large",
             "lymphoma",
@@ -320,7 +325,6 @@
             "stage",
             "iv",
             "note",
-            "confirm",
             "tissue",
             "biopsy",
             "previously",
@@ -502,12 +506,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "doxorubicin"
+      ],
+      "id": "NCT00070083"
 }

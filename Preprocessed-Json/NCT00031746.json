@@ -162,24 +162,25 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "dietary",
-            "supplement"
+            "Dietary Supplement",
+            "Dietary Supplement"
       ],
       "intervention_name": [
-            "casein",
-            "protein"
+            "soy protein isolate",
+            "casein proteins"
       ],
       "description": [
-            "25",
+            "mg",
+            "daily",
             "mg",
             "daily"
       ],
       "arm_group_label": [
-            "casein",
+            "protein",
+            "isoflavones",
             "protein"
       ],
       "criteria": [
@@ -285,14 +286,19 @@
             "soy",
             "product"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00031746"
 }

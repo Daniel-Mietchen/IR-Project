@@ -217,18 +217,66 @@
             "study"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "behavioral",
-            "smoke",
-            "cessation",
-            "program"
+            "Sibutramine",
+            "Behavioral Smoking Cessation Program"
       ],
       "description": [
+            "baseline",
+            "study",
+            "visit",
+            "participant",
+            "group",
+            "1",
+            "give",
+            "one",
+            "month",
+            "supply",
+            "5",
+            "sibutramine",
+            "visit",
+            "schedule",
+            "safety",
+            "evaluation",
+            "visit",
+            "participant",
+            "dose",
+            "sibutramine",
+            "titrate",
+            "10",
+            "1",
+            "month",
+            "supply",
+            "medication",
+            "give",
+            "participant",
+            "visit",
+            "schedule",
+            "safety",
+            "evaluation",
+            "visit",
+            "participant",
+            "receive",
+            "1",
+            "month",
+            "supply",
+            "sibutramine",
+            "10",
+            "visit",
+            "schedule",
+            "visit",
+            "sibutramine",
+            "discontinue",
+            "participant",
+            "schedule",
+            "visit",
             "group",
             "participant",
             "take",
@@ -238,9 +286,7 @@
             "cessation",
             "program"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -257,12 +303,16 @@
             "smoke",
             "cigarette"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037752.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00037752"
 }

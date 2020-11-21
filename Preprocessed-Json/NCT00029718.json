@@ -305,7 +305,7 @@
             "strategy"
       ],
       "condition": [
-            "healthy"
+            "accident"
       ],
       "criteria": [
             "inclusion",
@@ -475,12 +475,17 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029718.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [],
+      "id": "NCT00029718"
 }

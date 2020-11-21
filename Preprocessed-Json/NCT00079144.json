@@ -194,7 +194,6 @@
             "til",
             "reinfused",
             "day",
-            "0",
             "patient",
             "also",
             "receive",
@@ -221,7 +220,6 @@
             "montanide",
             "sc",
             "day",
-            "0",
             "11",
             "18",
             "25",
@@ -236,9 +234,7 @@
             "time",
             "daily",
             "day",
-            "0",
             "note",
-            "day",
             "0",
             "day",
             "last",
@@ -286,15 +282,25 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "NY-ESO-1 peptide vaccine",
+            "aldesleukin",
+            "filgrastim",
+            "incomplete Freund's adjuvant",
+            "therapeutic autologous lymphocytes",
+            "cyclophosphamide",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -308,7 +314,6 @@
             "include",
             "measurable",
             "disease",
-            "0201",
             "positive",
             "virus",
             "positive",
@@ -490,12 +495,22 @@
             "systemic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00079144"
 }

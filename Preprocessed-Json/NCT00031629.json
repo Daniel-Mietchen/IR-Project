@@ -154,25 +154,53 @@
       "condition": [
             "uterine",
             "corpus",
+            "sarcoma",
+            "corpus",
             "leiomyosarcoma"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "pegfilgrastim"
+            "Docetaxel",
+            "Filgrastim",
+            "Gemcitabine Hydrochloride",
+            "Pegfilgrastim"
       ],
       "description": [
-            "give",
+            "iv",
+            "sc",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "gemcitabine",
+            "docetaxel",
+            "pegfilgrastim",
+            "gemcitabine",
+            "docetaxel",
+            "pegfilgrastim",
+            "gemcitabine",
+            "docetaxel",
+            "pegfilgrastim",
             "gemcitabine",
             "docetaxel",
             "pegfilgrastim"
       ],
       "other_name": [
+            "injection",
+            "concentrate",
+            "methionyl",
+            "human",
+            "granulocyte",
+            "colony",
+            "stimulate",
+            "factor",
+            "hydrochloride",
+            "biosimilar",
             "sustain",
             "duration"
       ],
@@ -404,14 +432,13 @@
             "protective",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031629.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00031629"
 }

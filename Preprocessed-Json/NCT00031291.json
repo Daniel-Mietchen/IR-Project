@@ -436,16 +436,12 @@
             "cdc",
             "dod"
       ],
-      "condition": [
-            "anthrax"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "anthrax",
-            "immune",
-            "globulin"
+            "Anthrax Immune Globulin"
       ],
       "criteria": [
             "inclusion",
@@ -530,9 +526,17 @@
             "annual",
             "booster"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031291.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vaccine"
+      ],
+      "mesh_term": [
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00031291"
 }

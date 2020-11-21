@@ -174,7 +174,6 @@
             "patient",
             "receive",
             "tamoxifen",
-            "citrate",
             "po",
             "daily",
             "begin",
@@ -221,7 +220,6 @@
             "radiotherapy",
             "give",
             "transplantation",
-            "stage",
             "iv",
             "patient",
             "receive",
@@ -272,29 +270,76 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "tamoxifen citrate",
+            "busulfan",
+            "thiotepa",
+            "melphalan",
+            "aldesleukin",
+            "sargramostim",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "description": [
-            "may",
+            "orally",
+            "orally",
+            "iv",
+            "iv",
+            "sc",
+            "sc",
+            "autologous",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
+            "infusion",
             "undergo",
             "radiotherapy",
             "completion"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "therapy",
+            "mustard",
+            "human",
+            "transplantation",
+            "transplantation",
+            "blood",
+            "progenitor",
+            "cell",
+            "transplantation",
+            "peripheral",
+            "blood",
+            "stem",
+            "cell",
             "radiation"
       ],
       "criteria": [
@@ -652,7 +697,7 @@
             "receive",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -661,6 +706,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003199.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "breast",
+            "neoplasm"
+      ],
+      "id": "NCT00003199"
 }

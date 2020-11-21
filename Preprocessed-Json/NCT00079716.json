@@ -53,14 +53,13 @@
             "dose"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "mab"
+            "SGN-40 (anti-huCD40 mAb)"
       ],
       "description": [
             "iv",
@@ -75,12 +74,8 @@
             "day",
             "29"
       ],
-      "arm_group_label": [
-            "1"
-      ],
-      "other_name": [
-            "dacetuzumab"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -389,12 +384,21 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079716.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "cytotoxicity"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00079716"
 }

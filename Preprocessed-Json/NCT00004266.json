@@ -180,13 +180,16 @@
             "lipoprotein"
       ],
       "condition": [
-            "diabetic",
             "nephropathy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Lisinopril",
+            "nifedipine",
             "simvastatin"
       ],
       "criteria": [
@@ -335,12 +338,24 @@
             "fertile",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004266.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "genitourinary",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease",
+            "nephropathy",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00004266"
 }

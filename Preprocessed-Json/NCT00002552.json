@@ -211,18 +211,46 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "sargramostim",
+            "carmustine",
+            "cyclophosphamide",
+            "cytarabine",
+            "etoposide",
+            "leucovorin calcium",
+            "methotrexate",
+            "perfosfamide",
+            "therapeutic hydrocortisone",
+            "allogeneic bone marrow transplantation",
+            "autologous bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "syngeneic bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -653,12 +681,27 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002552.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "unfavorable",
+            "prognosis",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "disease",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00002552"
 }

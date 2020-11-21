@@ -229,7 +229,6 @@
             "course",
             "2",
             "cns",
-            "prophylaxis",
             "patient",
             "receive",
             "methotrexate",
@@ -260,27 +259,32 @@
             "3"
       ],
       "condition": [
-            "recurrent",
             "childhood",
             "acute",
             "lymphoblastic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "alemtuzumab",
+            "methotrexate",
             "mercaptopurine"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "po"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "mp"
+            "monoclonal",
+            "antibody",
+            "antibody",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -506,12 +510,18 @@
             "radiotherapy",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00089349.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "monoclonal"
+      ],
+      "id": "NCT00089349"
 }

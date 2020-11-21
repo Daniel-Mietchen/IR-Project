@@ -131,17 +131,30 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irofulven"
+            "fluorouracil",
+            "Irofulven"
       ],
       "description": [
-            "irofulven",
+            "administer",
+            "via",
+            "central",
+            "venous",
+            "catheter",
+            "picc",
+            "begin",
+            "day",
+            "continous",
+            "infusion",
+            "28",
+            "day",
+            "period",
             "give",
             "per",
             "infusion",
@@ -157,9 +170,7 @@
             "iv",
             "infusion"
       ],
-      "arm_group_label": [
-            "irofulven"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -355,12 +366,21 @@
             "investigational",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "duct",
+            "cell",
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00033735"
 }

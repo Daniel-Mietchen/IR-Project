@@ -244,21 +244,34 @@
             "year"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "lomustine",
+            "procarbazine hydrochloride",
+            "vincristine sulfate",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "plus",
+            "pcv",
+            "chemotherapy",
+            "plus",
+            "pcv",
+            "chemotherapy",
+            "plus",
+            "pcv",
+            "chemotherapy",
+            "therapy",
             "plus",
             "pcv",
             "chemotherapy"
@@ -442,7 +455,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -451,6 +464,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003375.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "pilocytic",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003375"
 }

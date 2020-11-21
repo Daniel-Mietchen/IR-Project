@@ -194,15 +194,86 @@
             "possible"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Atazanavir",
+            "Didanosine",
+            "Efavirenz",
+            "Emtricitabine/Tenofovir disoproxil fumarate",
+            "Lamivudine",
+            "Lopinavir/Ritonavir",
+            "Nevirapine",
+            "Stavudine",
+            "Tenofovir disoproxil fumarate",
+            "Zidovudine/Lamivudine"
+      ],
       "description": [
-            "150",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "300",
+            "mg",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "50",
+            "mg",
+            "ritonavir",
+            "tablet",
+            "take",
+            "orally",
+            "daily",
+            "mg",
+            "take",
+            "orally",
+            "daily",
+            "14",
+            "day",
+            "follow",
+            "200",
+            "mg",
+            "take",
+            "orally",
+            "twice",
+            "daily",
+            "depend",
+            "weight",
+            "mg",
+            "take",
+            "orally",
+            "daily",
             "mg",
             "300",
             "mg",
@@ -213,12 +284,8 @@
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "combivir"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -446,12 +513,25 @@
             "laboratory",
             "value"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074581.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00074581"
 }

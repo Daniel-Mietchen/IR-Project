@@ -87,13 +87,14 @@
             "tuberculosis"
       ],
       "condition": [
-            "tuberculosis",
             "pulmonary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "paromomycin",
             "streptomycin"
       ],
       "criteria": [
@@ -268,12 +269,19 @@
             "require",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004444.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "pulmonary"
+      ],
+      "id": "NCT00004444"
 }

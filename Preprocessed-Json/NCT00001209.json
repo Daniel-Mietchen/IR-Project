@@ -109,18 +109,16 @@
             "study"
       ],
       "condition": [
+            "tumor",
+            "primitive",
             "sarcoma",
             "ewing"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "adriamycin",
-            "cytoxan",
-            "alternate",
-            "ifosfamide"
+            "vincristine, adriamycin and cytoxan, alternating with ifosfamide VP-16"
       ],
       "criteria": [
             "patient",
@@ -199,9 +197,21 @@
             "25",
             "echocardiography"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001209.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unresectable"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "ewing",
+            "tumor",
+            "primitive",
+            "peripheral"
+      ],
+      "id": "NCT00001209"
 }

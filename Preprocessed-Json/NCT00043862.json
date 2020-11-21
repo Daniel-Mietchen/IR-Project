@@ -57,13 +57,15 @@
             "therapy"
       ],
       "condition": [
+            "cancer",
             "small",
+            "cell",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "topotecan"
@@ -203,12 +205,21 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043862.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "topotecan"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00043862"
 }

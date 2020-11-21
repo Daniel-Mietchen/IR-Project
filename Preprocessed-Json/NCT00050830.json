@@ -36,15 +36,13 @@
             "1033"
       ],
       "condition": [
-            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ci",
-            "1033"
+            "CI 1033"
       ],
       "criteria": [
             "inclusion",
@@ -131,12 +129,17 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050830.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "neoplasm",
+            "dihydrochloride"
+      ],
+      "id": "NCT00050830"
 }

@@ -124,16 +124,26 @@
             "completion"
       ],
       "condition": [
-            "depression"
+            "failure",
+            "congestive",
+            "heart",
+            "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Sertraline",
+            "Placebo"
       ],
       "description": [
-            "dosage",
+            "range",
+            "50",
+            "mg",
+            "200",
+            "mg",
+            "day",
             "range",
             "50",
             "mg",
@@ -141,11 +151,8 @@
             "mg",
             "day"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "inactive",
             "pill"
       ],
       "criteria": [
@@ -209,12 +216,20 @@
             "study",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00078286.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antidepressive",
+            "agent"
+      ],
+      "mesh_term": [
+            "disorder",
+            "failure"
+      ],
+      "id": "NCT00078286"
 }

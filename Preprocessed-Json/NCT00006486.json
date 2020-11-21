@@ -155,29 +155,36 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "carboxyamidotriazole",
             "placebo"
       ],
       "description": [
-            "give",
+            "orally",
             "orally"
       ],
       "arm_group_label": [
-            "arm",
+            "carboxyaminoimidazole",
+            "ii",
+            "carboxyamidotriazole",
+            "placebo",
             "ii",
             "carboxyamidotriazole",
             "placebo"
       ],
-      "other_name": [
-            "plcb"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -317,12 +324,16 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006486.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00006486"
 }

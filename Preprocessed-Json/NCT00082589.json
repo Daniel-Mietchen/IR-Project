@@ -24,15 +24,14 @@
             "failure"
       ],
       "condition": [
-            "heart",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "eplerenone"
+            "Eplerenone"
       ],
       "criteria": [
             "inclusion",
@@ -115,12 +114,15 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082589.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00082589"
 }

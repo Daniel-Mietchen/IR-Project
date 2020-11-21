@@ -166,18 +166,19 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "temozolomide",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "radiation",
+            "temozolomide",
             "temozolomide"
       ],
       "criteria": [
@@ -370,12 +371,20 @@
             "prior",
             "radiosurgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068666.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor",
+            "metastatic",
+            "brain"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00068666"
 }

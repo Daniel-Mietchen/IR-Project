@@ -111,17 +111,18 @@
             "therapy"
       ],
       "condition": [
-            "end",
+            "osteodystrophy",
             "stage",
             "renal",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "growth",
-            "hormone"
+            "calcitriol",
+            "growth hormone"
       ],
       "criteria": [
             "protocol",
@@ -161,7 +162,7 @@
             "treatment",
             "regimen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -170,6 +171,18 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004340.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "renal",
+            "osteodystrophy"
+      ],
+      "mesh_term": [
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "chronic",
+            "osteodystrophy"
+      ],
+      "id": "NCT00004340"
 }

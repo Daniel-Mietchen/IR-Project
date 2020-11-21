@@ -124,16 +124,40 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "lip",
+            "oral",
+            "cavity",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "paranasal",
+            "sinus",
+            "nasal",
+            "cavity",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "hypopharynx",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx",
             "squamous",
             "cell",
             "carcinoma",
             "oropharynx"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "capecitabine",
+            "adjuvant therapy",
             "chemotherapy"
       ],
       "criteria": [
@@ -344,12 +368,19 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095641.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm",
+            "sinus",
+            "neoplasm"
+      ],
+      "id": "NCT00095641"
 }

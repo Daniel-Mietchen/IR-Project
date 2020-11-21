@@ -81,17 +81,21 @@
             "cancer"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "trastuzumab",
+            "carboplatin",
+            "docetaxel",
             "trastuzumab"
       ],
       "description": [
-            "cycle",
             "day",
             "1",
             "iv",
@@ -100,14 +104,40 @@
             "15",
             "iv",
             "cycle",
+            "8",
+            "cycle",
+            "8",
+            "day",
+            "1",
+            "8",
+            "15",
+            "iv",
+            "day",
+            "22",
+            "iv",
+            "day",
+            "1",
+            "2",
+            "auc",
+            "6",
+            "iv",
+            "day",
+            "1",
+            "2",
+            "75",
+            "iv",
             "day",
             "1",
             "iv",
             "day",
             "8",
             "15",
+            "day",
+            "1",
             "iv",
-            "cycle",
+            "day",
+            "8",
+            "15",
             "8",
             "day",
             "1",
@@ -119,13 +149,27 @@
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "neoadjuvant",
+            "therapy",
+            "neoadjuvant",
+            "therapy",
+            "ii",
+            "neoadjuvant",
+            "therapy",
+            "negative",
+            "patient",
+            "neoadjuvant",
+            "therapy",
+            "ii",
+            "neoadjuvant",
+            "therapy",
+            "negative",
+            "patient",
             "neoadjuvant",
             "therapy"
       ],
-      "other_name": [
-            "herceptin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -299,9 +343,7 @@
             "grade",
             "2"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -310,6 +352,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00068341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00068341"
 }

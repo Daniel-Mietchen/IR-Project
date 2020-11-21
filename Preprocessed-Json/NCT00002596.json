@@ -418,17 +418,41 @@
             "year"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "bleomycin sulfate",
+            "filgrastim",
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "conventional surgery",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -608,7 +632,6 @@
             "renal",
             "creatinine",
             "greater",
-            "uln",
             "creatinine",
             "clearance",
             "greater",
@@ -670,14 +693,25 @@
             "recent",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002596.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00002596"
 }

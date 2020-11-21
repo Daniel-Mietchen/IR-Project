@@ -66,20 +66,20 @@
             "patient"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "tumor",
-            "replication",
-            "error",
-            "analysis"
+            "mutation analysis",
+            "tumor replication error analysis"
       ],
       "arm_group_label": [
-            "sample",
+            "tumor",
+            "normal",
+            "tissue",
             "tumor",
             "normal",
             "tissue"
@@ -131,9 +131,17 @@
             "normal",
             "tissue"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003571.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "colon"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00003571"
 }

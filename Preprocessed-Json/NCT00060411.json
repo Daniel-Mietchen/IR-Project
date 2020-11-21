@@ -315,28 +315,90 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "colon",
+            "adenocarcinoma",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "ring",
+            "adenocarcinoma",
+            "colon",
+            "ring",
+            "adenocarcinoma",
+            "rectum",
+            "iiia",
+            "colon",
+            "cancer",
+            "iiia",
+            "rectal",
+            "cancer",
+            "iiib",
+            "colon",
+            "cancer",
+            "iiib",
+            "rectal",
+            "cancer",
+            "iiic",
+            "colon",
+            "cancer",
+            "iiic",
+            "rectal",
+            "cancer",
+            "iva",
+            "colon",
+            "cancer",
+            "iva",
+            "rectal",
+            "cancer",
+            "ivb",
+            "colon",
+            "cancer",
             "ivb",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
+            "erlotinib hydrochloride",
+            "fluorouracil",
+            "leucovorin calcium",
+            "oxaliplatin",
             "bevacizumab"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
+            "combination",
+            "chemotherapy",
             "combination",
             "chemotherapy"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -856,12 +918,20 @@
             "start",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060411.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "mucinous",
+            "hydrochloride",
+            "monoclonal"
+      ],
+      "id": "NCT00060411"
 }

@@ -180,14 +180,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "dexamethasone",
+            "ondansetron",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -352,7 +354,7 @@
             "antiemetic",
             "intent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -361,6 +363,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016380.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00016380"
 }

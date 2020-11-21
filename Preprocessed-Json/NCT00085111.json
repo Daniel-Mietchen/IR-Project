@@ -181,7 +181,6 @@
             "toxicity"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
@@ -189,20 +188,21 @@
             "specific"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
             "bevacizumab"
       ],
       "description": [
-            "give",
             "iv"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -215,7 +215,6 @@
             "original",
             "diagnosis",
             "measurable",
-            "evaluable",
             "disease",
             "know",
             "curative",
@@ -635,7 +634,7 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -644,6 +643,9 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085111.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00085111"
 }

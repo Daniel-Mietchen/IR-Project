@@ -49,11 +49,10 @@
             "prohibit"
       ],
       "condition": [
-            "ankylose",
             "spondylitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "olsalazine"
@@ -87,9 +86,7 @@
             "renal",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -98,6 +95,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004288.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "ankylose"
+      ],
+      "id": "NCT00004288"
 }

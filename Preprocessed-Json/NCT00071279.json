@@ -129,17 +129,15 @@
             "give"
       ],
       "condition": [
-            "deep",
+            "embolism",
             "vein",
             "thrombosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "idraparinux",
-            "sodium",
-            "injection"
+            "SR34006 (idraparinux sodium) Injection"
       ],
       "criteria": [
             "inclusion",
@@ -235,12 +233,17 @@
             "woman",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071279.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "embolism",
+            "thrombosis",
+            "34006"
+      ],
+      "id": "NCT00071279"
 }

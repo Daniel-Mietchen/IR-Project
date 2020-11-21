@@ -444,7 +444,6 @@
             "profession"
       ],
       "condition": [
-            "stress",
             "disorder"
       ],
       "criteria": [
@@ -641,12 +640,20 @@
             "study",
             "participation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00069212.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ptsd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "traumatic",
+            "disorder"
+      ],
+      "id": "NCT00069212"
 }

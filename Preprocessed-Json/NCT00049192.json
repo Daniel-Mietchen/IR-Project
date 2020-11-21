@@ -215,30 +215,50 @@
             "year"
       ],
       "condition": [
-            "relapse",
+            "myelogenous",
+            "leukemia",
+            "positive",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "imatinib",
+            "mesylate",
+            "oblimersen",
+            "sodium",
+            "imatinib",
+            "mesylate",
             "oblimersen",
             "sodium",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "glivec"
+            "antisense",
+            "oligodeoxynucleotide",
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -473,12 +493,20 @@
             "childbearing",
             "potential"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049192.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00049192"
 }

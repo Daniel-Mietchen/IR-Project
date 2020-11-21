@@ -32,13 +32,16 @@
             "infusion"
       ],
       "condition": [
-            "hemophilia",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rFIX",
+            "rFIX-R"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -98,12 +101,15 @@
             "without",
             "bleed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093210.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b"
+      ],
+      "id": "NCT00093210"
 }

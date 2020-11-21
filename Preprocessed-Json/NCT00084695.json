@@ -251,7 +251,11 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "langerhans",
+            "cell",
+            "histiocytosis",
+            "anemia",
+            "syndrome",
             "childhood",
             "solid",
             "tumor",
@@ -259,14 +263,30 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anti-thymocyte globulin",
+            "busulfan",
+            "cyclophosphamide",
+            "fludarabine phosphate",
+            "melphalan",
+            "methylprednisolone",
+            "radiation therapy"
       ],
       "description": [
-            "patient",
+            "iv",
+            "orally",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "undergo",
             "radiation",
             "therapy",
@@ -276,6 +296,38 @@
             "day"
       ],
       "arm_group_label": [
+            "b",
+            "patient",
+            "receive",
+            "tbi",
+            "regimen",
+            "c",
+            "patient",
+            "fanconi",
+            "disorder",
+            "b",
+            "patient",
+            "receive",
+            "tbi",
+            "regimen",
+            "c",
+            "patient",
+            "fanconi",
+            "disorder",
+            "regimen",
+            "c",
+            "patient",
+            "fanconi",
+            "disorder",
+            "b",
+            "patient",
+            "receive",
+            "tbi",
+            "regimen",
+            "c",
+            "patient",
+            "fanconi",
+            "disorder",
             "regimen",
             "c",
             "patient",
@@ -455,12 +507,29 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00084695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "anemia",
+            "syndrome",
+            "phosphate",
+            "serum",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00084695"
 }

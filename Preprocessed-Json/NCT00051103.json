@@ -27,16 +27,15 @@
             "overexpress"
       ],
       "condition": [
-            "neoplasm",
+            "breast",
+            "cancer",
             "breast"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "investigational",
-            "cancer",
-            "drug"
+            "Investigational Cancer Drug"
       ],
       "criteria": [
             "inclusion",
@@ -183,14 +182,18 @@
             "inhibitor",
             "herceptin"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051103.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051103"
 }

@@ -225,23 +225,36 @@
             "within",
             "month"
       ],
-      "condition": [
-            "sarcoma"
+      "condition": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Genetic",
+            "Other",
+            "Other"
       ],
-      "intervention_type": [],
       "intervention_name": [
-            "pharmacokinetic",
-            "study"
+            "filgrastim",
+            "pegfilgrastim",
+            "docetaxel",
+            "gemcitabine hydrochloride",
+            "microarray analysis",
+            "laboratory biomarker analysis",
+            "pharmacokinetic study"
       ],
       "description": [
-            "pharmacokinetic",
+            "hydrochloride",
+            "analysis",
+            "biomarker",
+            "analysis",
             "study"
       ],
       "criteria": [
             "disease",
             "characteristic",
             "histologically",
-            "confirm",
             "diagnosis",
             "1",
             "follow",
@@ -268,7 +281,6 @@
             "completely",
             "resect",
             "note",
-            "biopsy",
             "require",
             "isolate",
             "pulmonary",
@@ -496,12 +508,19 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073983.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "osteosarcoma"
+      ],
+      "mesh_term": [
+            "ewing"
+      ],
+      "id": "NCT00073983"
 }

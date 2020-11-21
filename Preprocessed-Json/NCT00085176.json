@@ -190,18 +190,22 @@
             "year"
       ],
       "condition": [
-            "psychosocial",
+            "effect",
+            "secondary",
+            "cancer",
+            "therapy",
+            "child",
             "effect",
             "cancer",
             "treatment"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "psychosocial",
-            "assessment",
-            "care"
+            "management of therapy complications",
+            "psychosocial assessment and care"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -329,7 +333,7 @@
             "stimulant",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -338,6 +342,19 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085176.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "lymphoblastic",
+            "leukemia",
+            "remission"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "syndrome"
+      ],
+      "id": "NCT00085176"
 }

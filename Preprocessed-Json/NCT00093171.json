@@ -35,14 +35,13 @@
             "procedure"
       ],
       "condition": [
-            "hemophilia",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "rfix"
+            "rFIX"
       ],
       "criteria": [
             "inclusion",
@@ -98,12 +97,15 @@
             "hemophilia",
             "b"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093171.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "b"
+      ],
+      "id": "NCT00093171"
 }

@@ -148,7 +148,7 @@
             "result"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "seronegativity"
       ],
       "criteria": [
@@ -271,11 +271,16 @@
             "study",
             "objective"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048282.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00048282"
 }

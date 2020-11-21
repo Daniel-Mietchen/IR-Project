@@ -26,21 +26,22 @@
             "count"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "haart"
+            "Interleukin-2 SA",
+            "HAART"
       ],
       "description": [
-            "haart",
+            "bay",
             "alone"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "criteria": [
@@ -392,12 +393,22 @@
             "50",
             "3"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059462.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00059462"
 }

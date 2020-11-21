@@ -286,7 +286,8 @@
             "production"
       ],
       "condition": [
-            "stutter"
+            "articulation",
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -645,7 +646,7 @@
             "airway",
             "obstruction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -654,6 +655,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004991.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "phonological",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00004991"
 }

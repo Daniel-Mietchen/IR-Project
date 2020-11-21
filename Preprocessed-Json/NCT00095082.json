@@ -47,17 +47,19 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "1"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "aspart"
+            "insulin detemir",
+            "insulin glargine",
+            "insulin aspart"
       ],
       "criteria": [
             "inclusion",
@@ -94,12 +96,33 @@
             "uncontrolled",
             "hypertension"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095082.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus",
+            "type"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1",
+            "globin",
+            "zinc",
+            "degludec",
+            "insulin",
+            "aspart",
+            "drug",
+            "combination",
+            "detemir",
+            "aspart",
+            "glargine"
+      ],
+      "id": "NCT00095082"
 }

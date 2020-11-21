@@ -516,19 +516,27 @@
             "behavior"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "ii"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "lifestyle",
-            "program"
+            "Metformin",
+            "Rosiglitazone",
+            "Lifestyle Program"
       ],
       "description": [
+            "1000",
+            "mg",
+            "bid",
+            "4",
+            "mg",
+            "bid",
             "lifestyle",
             "change",
             "lc",
@@ -567,9 +575,7 @@
             "end",
             "study"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1150,7 +1156,7 @@
             "prior",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -1159,6 +1165,12 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081328.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00081328"
 }

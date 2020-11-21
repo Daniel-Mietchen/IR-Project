@@ -165,9 +165,11 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "minocycline",
             "creatine"
       ],
       "criteria": [
@@ -435,12 +437,18 @@
             "tetracycline",
             "creatine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063193.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neuroprotection"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00063193"
 }

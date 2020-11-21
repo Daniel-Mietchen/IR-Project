@@ -273,17 +273,44 @@
             "histogram"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Amifostine trihydrate",
+            "Radiation therapy"
       ],
       "description": [
+            "mg",
+            "first",
+            "18",
+            "patient",
+            "2000",
+            "mg",
+            "last",
+            "12",
+            "patient",
+            "syringe",
+            "amifostine",
+            "connect",
+            "rectal",
+            "enema",
+            "bottle",
+            "administration",
+            "administer",
+            "slowly",
+            "second",
+            "patient",
+            "recumbent",
+            "position",
+            "minute",
+            "prior",
+            "radiation",
+            "treatment",
+            "dose",
             "treatment",
             "deliver",
             "least",
@@ -298,9 +325,7 @@
             "reduction",
             "occur"
       ],
-      "arm_group_label": [
-            "amifostine"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "therapy"
       ],
@@ -400,14 +425,18 @@
             "dose",
             "radiotherapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040365.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radioprotector"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00040365"
 }

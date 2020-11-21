@@ -23,7 +23,7 @@
             "indication"
       ],
       "condition": [
-            "bone",
+            "cancer",
             "metastasis",
             "subject",
             "advance",
@@ -31,14 +31,17 @@
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "iv",
-            "bisphosphonates"
+            "Denosumab",
+            "IV Bisphosphonates"
       ],
       "description": [
-            "commercially",
+            "administer",
+            "subcutaneous",
+            "injection",
             "available",
             "intravenous",
             "iv",
@@ -55,14 +58,37 @@
             "acid"
       ],
       "arm_group_label": [
-            "iv",
+            "60",
+            "mg",
+            "every",
+            "12",
+            "week",
+            "120",
+            "mg",
+            "every",
+            "4",
+            "week",
+            "180",
+            "mg",
+            "every",
+            "4",
+            "week",
+            "180",
+            "mg",
+            "every",
+            "12",
+            "week",
+            "30",
+            "mg",
+            "every",
+            "4",
+            "week",
             "bisphosphonates",
             "every",
             "4",
             "week"
       ],
       "other_name": [
-            "amg",
             "162"
       ],
       "criteria": [
@@ -78,14 +104,24 @@
             "bone",
             "metastasis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091832.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "second",
+            "primary",
+            "neoplasm",
+            "marrow",
+            "disease"
+      ],
+      "id": "NCT00091832"
 }

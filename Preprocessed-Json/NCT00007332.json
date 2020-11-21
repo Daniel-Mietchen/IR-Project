@@ -330,14 +330,15 @@
             "trial"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "mn"
+            "ALVAC(2)120(B,MN)GNP (vCP1452)",
+            "MN rgp120/HIV-1 and GNE8 rgp120/HIV-1"
       ],
       "criteria": [
             "inclusion",
@@ -463,7 +464,7 @@
             "clinical",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -472,6 +473,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007332.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00007332"
 }

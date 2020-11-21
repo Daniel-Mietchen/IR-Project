@@ -257,7 +257,8 @@
             "system"
       ],
       "condition": [
-            "healthy"
+            "compulsive",
+            "disorder"
       ],
       "criteria": [
             "inclusion",
@@ -345,9 +346,18 @@
             "age",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029068.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "personality",
+            "disorder",
+            "disorder",
+            "behavior"
+      ],
+      "id": "NCT00029068"
 }

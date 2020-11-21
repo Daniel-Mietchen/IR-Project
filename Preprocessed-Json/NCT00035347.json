@@ -95,19 +95,52 @@
             "cap"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "oral",
-            "levofloxacin"
+            "IV azithromycin",
+            "ceftriaxone",
+            "oral azithromycin",
+            "IV levofloxacin",
+            "oral levofloxacin"
       ],
       "description": [
-            "500",
+            "mg",
+            "daily",
+            "gram",
+            "daily",
+            "2",
+            "5",
+            "day",
+            "x",
+            "250",
+            "mg",
+            "daily",
+            "mg",
+            "daily",
             "mg",
             "daily"
       ],
       "arm_group_label": [
-            "levofloxacin",
+            "plus",
+            "ceftriaxone",
+            "group",
+            "group",
+            "plus",
+            "ceftriaxone",
+            "group",
+            "group",
+            "plus",
+            "ceftriaxone",
+            "group",
+            "group",
+            "group",
+            "lev",
+            "group",
             "group",
             "lev",
             "group"
@@ -195,12 +228,13 @@
             "cardiovascular",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035347.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00035347"
 }

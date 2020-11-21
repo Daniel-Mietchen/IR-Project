@@ -172,26 +172,29 @@
             "month"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "prednisone",
             "thalidomide"
       ],
       "description": [
-            "thalidomide",
+            "alternate",
+            "day",
             "200",
             "mg",
             "qhs"
       ],
       "arm_group_label": [
-            "prednisone",
+            "plus",
+            "thalidomide",
             "plus",
             "thalidomide"
       ],
@@ -464,12 +467,23 @@
             "investigational",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00006890"
 }

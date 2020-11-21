@@ -322,7 +322,9 @@
             "trial"
       ],
       "condition": [
-            "melanoma"
+            "cancer",
+            "cancer",
+            "cancer"
       ],
       "criteria": [
             "inclusion",
@@ -384,12 +386,16 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026754.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "skin",
+            "disorder"
+      ],
+      "id": "NCT00026754"
 }

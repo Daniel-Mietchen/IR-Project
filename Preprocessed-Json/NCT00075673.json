@@ -133,18 +133,33 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "ditartrate"
+            "celecoxib",
+            "vinorelbine ditartrate"
       ],
       "description": [
-            "patient",
+            "receive",
+            "oral",
+            "celecoxib",
+            "twice",
+            "daily",
+            "day",
+            "course",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "receive",
             "oral",
             "vinorelbine",
@@ -412,14 +427,21 @@
             "bisphosphonates",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075673.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00075673"
 }

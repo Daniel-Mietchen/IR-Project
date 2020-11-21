@@ -40,15 +40,13 @@
             "cycle"
       ],
       "condition": [
-            "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "cc",
-            "5013"
+            "CC 5013"
       ],
       "criteria": [
             "understand",
@@ -106,12 +104,16 @@
             "treatment",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055562.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00055562"
 }

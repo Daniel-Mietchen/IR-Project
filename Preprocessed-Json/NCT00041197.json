@@ -215,27 +215,37 @@
             "year"
       ],
       "condition": [
-            "gastrointestinal",
             "stromal",
             "tumor"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "placebo",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "po",
+            "po",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "imatinib",
+            "mesylate",
+            "ii",
+            "placebo",
+            "imatinib",
+            "mesylate",
             "ii",
             "placebo"
       ],
       "other_name": [
-            "plcb"
+            "57148"
       ],
       "criteria": [
             "inclusion",
@@ -581,12 +591,17 @@
             "thrombosis",
             "permit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041197.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "stromal",
+            "tumor",
+            "mesylate"
+      ],
+      "id": "NCT00041197"
 }

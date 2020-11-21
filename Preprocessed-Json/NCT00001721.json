@@ -461,7 +461,10 @@
             "test"
       ],
       "condition": [
-            "smith",
+            "error",
+            "metabolism",
+            "retardation",
+            "hypotonia",
             "lemli",
             "opitz",
             "syndrome"
@@ -616,9 +619,22 @@
             "menstruate",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "syndrome",
+            "slo"
+      ],
+      "mesh_term": [
+            "disability",
+            "inborn",
+            "error",
+            "palate",
+            "disease",
+            "syndrome",
+            "hypotonia"
+      ],
+      "id": "NCT00001721"
 }

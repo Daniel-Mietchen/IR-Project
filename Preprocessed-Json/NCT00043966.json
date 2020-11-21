@@ -25,14 +25,17 @@
             "dose"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "emtricitabine"
+            "Lopinavir/ritonavir",
+            "Tenofovir DF",
+            "Emtricitabine"
       ],
       "criteria": [
             "inclusion",
@@ -67,7 +70,6 @@
             "method",
             "birth",
             "control",
-            "condom",
             "sponge",
             "foam",
             "jelly",
@@ -75,7 +77,6 @@
             "intrauterine",
             "device",
             "iud",
-            "contraceptive",
             "oral",
             "parenteral",
             "three",
@@ -86,7 +87,6 @@
             "administration",
             "vasectomize",
             "partner",
-            "total",
             "abstinence",
             "sexual",
             "intercourse",
@@ -325,23 +325,18 @@
             "abnormal",
             "laboratory",
             "result",
-            "hemoglobin",
-            "absolute",
             "neutrophil",
             "count",
             "750",
-            "platelet",
             "count",
             "per",
             "ml",
-            "alt",
             "ast",
             "x",
             "upper",
             "limit",
             "normal",
             "uln",
-            "creatinine",
             "x",
             "upper",
             "limit",
@@ -366,12 +361,19 @@
             "candidate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043966.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00043966"
 }

@@ -114,15 +114,13 @@
             "varnish"
       ],
       "condition": [
-            "dental",
             "caries"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "fluoride",
-            "varnish"
+            "Fluoride Varnish"
       ],
       "description": [
             "ml",
@@ -133,7 +131,8 @@
             "arch"
       ],
       "arm_group_label": [
-            "fv",
+            "every",
+            "counsel",
             "every",
             "counsel"
       ],
@@ -177,7 +176,7 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "month"
@@ -186,6 +185,15 @@
             "36",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00066963.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "early",
+            "childhood",
+            "caries"
+      ],
+      "mesh_term": [
+            "caries",
+            "topical"
+      ],
+      "id": "NCT00066963"
 }

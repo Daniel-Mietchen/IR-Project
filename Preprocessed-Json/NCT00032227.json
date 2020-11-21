@@ -153,19 +153,21 @@
             "design"
       ],
       "condition": [
-            "carpal",
             "tunnel",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "mr",
-            "nerve",
-            "image",
-            "ct"
+            "Early Carpal Tunnel Release for Mild or Moderate CTS",
+            "MR Nerve Imaging for CTS"
       ],
       "description": [
-            "new",
+            "open",
+            "endoscopic",
+            "surgery",
             "diagnostic",
             "test",
             "ct",
@@ -174,9 +176,7 @@
             "median",
             "nerve"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -211,12 +211,20 @@
             "hardware",
             "wrist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032227.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "wrist",
+            "mri"
+      ],
+      "mesh_term": [
+            "tunnel",
+            "syndrome"
+      ],
+      "id": "NCT00032227"
 }

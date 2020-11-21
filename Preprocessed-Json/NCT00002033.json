@@ -80,13 +80,16 @@
             "odor"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Zidovudine",
+            "AS-101"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -325,7 +328,7 @@
             "zidovudine",
             "azt"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
@@ -334,6 +337,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002033.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "infection",
+            "ammonium",
+            "trichloro",
+            "tellurate"
+      ],
+      "id": "NCT00002033"
 }

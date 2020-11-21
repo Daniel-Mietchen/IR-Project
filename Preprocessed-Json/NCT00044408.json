@@ -21,15 +21,15 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
+            "neuropathy",
+            "mellitus",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "ruboxistaurin",
-            "mesylate"
+            "Ruboxistaurin mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -127,12 +127,25 @@
             "birth",
             "control"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044408.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "nervous",
+            "system",
+            "disease",
+            "neuropathy",
+            "mellitus",
+            "type",
+            "2",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00044408"
 }

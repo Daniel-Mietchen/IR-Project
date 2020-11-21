@@ -457,15 +457,19 @@
             "year"
       ],
       "condition": [
-            "liver",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "carboplatin",
+            "cisplatin",
+            "doxorubicin hydrochloride",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -575,12 +579,22 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hepatocellular",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "hepatocellular",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00003912"
 }

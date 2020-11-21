@@ -97,21 +97,16 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "vinorelbine"
       ],
-      "arm_group_label": [
-            "vinorelbine"
-      ],
-      "other_name": [
-            "navelbine"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -261,9 +256,14 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003828.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003828"
 }

@@ -127,14 +127,19 @@
             "study"
       ],
       "condition": [
-            "neuroendocrine",
             "carcinoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "CMF regimen",
+            "cyclophosphamide",
+            "fluorouracil",
             "methotrexate"
       ],
       "criteria": [
@@ -271,12 +276,24 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003549.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "neuroendocrine",
+            "carcinoma",
+            "skin"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neuroendocrine",
+            "merkel",
+            "cell"
+      ],
+      "id": "NCT00003549"
 }

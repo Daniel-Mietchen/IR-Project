@@ -102,28 +102,26 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "carcinoma",
             "ovarian",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "poliglumex"
+            "Paclitaxel Poliglumex"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "polyglutamate",
             "paclitaxel"
       ],
       "other_name": [
-            "xyotax"
+            "polyglutamate"
       ],
       "criteria": [
             "inclusion",
@@ -329,14 +327,16 @@
             "protective",
             "reagent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045682.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00045682"
 }

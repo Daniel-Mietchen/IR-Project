@@ -251,20 +251,38 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "cisplatin",
+            "cyclophosphamide",
+            "lomustine",
+            "mesna",
+            "vincristine sulfate",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
+            "b",
             "b"
       ],
       "other_name": [],
@@ -381,7 +399,7 @@
             "definitive",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -390,6 +408,18 @@
             "22",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002875.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "untreated",
+            "childhood",
+            "medulloblastoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002875"
 }

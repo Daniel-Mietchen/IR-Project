@@ -37,18 +37,15 @@
             "information"
       ],
       "condition": [
-            "gastrointestinal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amg",
-            "706"
+            "AMG 706"
       ],
       "description": [
-            "amg",
             "706",
             "125",
             "mg",
@@ -60,9 +57,7 @@
             "unacceptable",
             "toxicity"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -226,12 +221,20 @@
             "procedure",
             "perform"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gist"
+      ],
+      "mesh_term": [
+            "stromal",
+            "tumor",
+            "neoplasm"
+      ],
+      "id": "NCT00089960"
 }

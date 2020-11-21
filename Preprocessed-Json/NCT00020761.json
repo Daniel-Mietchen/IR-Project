@@ -125,13 +125,15 @@
             "study"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "irinotecan hydrochloride",
             "paclitaxel"
       ],
       "description": [
@@ -145,8 +147,23 @@
             "criterion",
             "list",
             "protocol",
-            "meet",
-            "paclitaxel",
+            "225",
+            "infuse",
+            "90",
+            "minute",
+            "every",
+            "three",
+            "week",
+            "course",
+            "length",
+            "3",
+            "week",
+            "treatment",
+            "continue",
+            "one",
+            "criterion",
+            "list",
+            "protocol",
             "100",
             "infuse",
             "three",
@@ -159,7 +176,12 @@
             "week"
       ],
       "arm_group_label": [
-            "distal",
+            "esophogeal",
+            "cohort",
+            "stomach",
+            "cohort",
+            "esophogeal",
+            "cohort",
             "stomach",
             "cohort"
       ],
@@ -493,12 +515,21 @@
             "4",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020761.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00020761"
 }

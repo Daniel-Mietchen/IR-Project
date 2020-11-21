@@ -176,13 +176,22 @@
             "month"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "gp160 Vaccine (Immuno-AG)",
+            "rgp120/HIV-1IIIB",
+            "rgp120/HIV-1MN",
+            "rgp120/HIV-1 SF-2",
+            "HIVAC-1e"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -323,7 +332,7 @@
             "immunosuppressive",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -332,6 +341,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001026.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001026"
 }

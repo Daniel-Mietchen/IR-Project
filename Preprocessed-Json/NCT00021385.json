@@ -135,15 +135,15 @@
             "study"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "squalamine",
-            "lactate"
+            "carboplatin",
+            "squalamine lactate"
       ],
       "criteria": [
             "disease",
@@ -424,14 +424,19 @@
             "investigational",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021385.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00021385"
 }

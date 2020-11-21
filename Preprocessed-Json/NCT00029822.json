@@ -29,15 +29,16 @@
             "provide"
       ],
       "condition": [
-            "benign",
+            "retention",
+            "hyperplasia",
             "prostatic",
             "hypertrophy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "alfuzosin"
+            "Alfuzosin (SL770499)"
       ],
       "criteria": [
             "suffer",
@@ -76,14 +77,20 @@
             "surgery",
             "diabetic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "enlarge",
+            "prostate"
+      ],
+      "mesh_term": [
+            "hyperplasia",
+            "retention"
+      ],
+      "id": "NCT00029822"
 }

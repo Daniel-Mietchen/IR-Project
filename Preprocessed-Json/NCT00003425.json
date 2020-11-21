@@ -195,7 +195,8 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -203,17 +204,24 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "amifostine trihydrate",
+            "cyclophosphamide",
+            "melphalan",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "amifostine",
+            "trihydrate",
+            "trihydrate",
+            "trihydrate",
+            "trihydrate",
             "trihydrate"
       ],
       "other_name": [],
@@ -372,7 +380,7 @@
             "amifostine",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
@@ -381,6 +389,15 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003425.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003425"
 }

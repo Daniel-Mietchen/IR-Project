@@ -38,15 +38,15 @@
             "cost"
       ],
       "condition": [
-            "weight",
             "loss"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "weight",
-            "counsel"
+            "mail-based weight counseling",
+            "phone-based weight counseling"
       ],
       "criteria": [
             "least",
@@ -59,12 +59,19 @@
             "lactate",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062985.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "manage",
+            "care"
+      ],
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00062985"
 }

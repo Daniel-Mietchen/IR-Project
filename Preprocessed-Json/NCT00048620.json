@@ -32,13 +32,14 @@
             "vi"
       ],
       "condition": [
-            "mucopolysaccharidosis",
             "vi"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "N-acetylgalactosamine 4-sulfatase"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -171,9 +172,12 @@
             "skin",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048620.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "vi"
+      ],
+      "id": "NCT00048620"
 }

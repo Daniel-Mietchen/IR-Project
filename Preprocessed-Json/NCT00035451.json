@@ -100,17 +100,30 @@
             "study"
       ],
       "condition": [
-            "atrial",
             "fibrillation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sotalol"
+            "Azimilide Dihydrochloride",
+            "Placebo",
+            "Sotalol"
       ],
       "description": [
-            "160",
+            "mg",
+            "azimilide",
+            "tablet",
+            "twice",
+            "day",
+            "6",
+            "month",
+            "twice",
+            "daily",
+            "6",
+            "month",
             "mg",
             "sot",
             "twice",
@@ -118,9 +131,7 @@
             "6",
             "month"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -192,7 +203,7 @@
             "prior",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -201,6 +212,9 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035451.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrillation"
+      ],
+      "id": "NCT00035451"
 }

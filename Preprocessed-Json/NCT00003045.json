@@ -144,17 +144,49 @@
             "cancer"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Device",
+            "Radiation"
       ],
       "intervention_name": [
-            "xrt"
+            "Hyperthermia",
+            "XRT"
       ],
       "description": [
-            "external",
+            "deliver",
+            "transrectal",
+            "ultrasound",
+            "applicator",
+            "prior",
+            "xrt",
+            "least",
+            "one",
+            "week",
+            "apart",
+            "first",
+            "4",
+            "week",
+            "xrt",
+            "goal",
+            "hyperthermia",
+            "cem",
+            "90",
+            "43",
+            "greater",
+            "equal",
+            "10",
+            "minute",
+            "maximum",
+            "apply",
+            "power",
+            "duration",
+            "120",
+            "minute",
+            "per",
+            "treatment",
+            "session",
             "beam",
             "radiation",
             "dose",
@@ -183,11 +215,8 @@
             "total",
             "radiation"
       ],
-      "arm_group_label": [
-            "hyperthermia"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "radiation",
             "therapy"
       ],
       "criteria": [
@@ -360,14 +389,21 @@
             "mental",
             "incompetence"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003045.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003045"
 }

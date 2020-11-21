@@ -33,15 +33,16 @@
             "aid"
       ],
       "condition": [
-            "hiv",
+            "cryptococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amphotericin",
-            "b"
+            "Fluconazole",
+            "Amphotericin B"
       ],
       "criteria": [
             "inclusion",
@@ -305,12 +306,27 @@
             "lymphocyte",
             "replacement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002074.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amphotericin",
+            "b"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "cryptococcal",
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00002074"
 }

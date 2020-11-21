@@ -146,12 +146,18 @@
             "month"
       ],
       "condition": [
-            "neutropenia"
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "BMS-247550",
             "filgrastim"
       ],
       "criteria": [
@@ -312,11 +318,20 @@
             "hiv",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00020371.xml"
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00020371"
 }

@@ -355,7 +355,6 @@
             "etc"
       ],
       "condition": [
-            "emission",
             "compute"
       ],
       "criteria": [
@@ -435,12 +434,16 @@
             "age",
             "12"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088361.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "respiratory",
+            "motion"
+      ],
+      "id": "NCT00088361"
 }

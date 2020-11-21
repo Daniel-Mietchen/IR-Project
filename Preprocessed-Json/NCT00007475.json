@@ -447,17 +447,27 @@
             "patient"
       ],
       "condition": [
-            "focal",
             "segmental",
             "glomerulosclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclophosphamide"
+            "Plasma exchange",
+            "Cyclophosphamide"
       ],
       "description": [
+            "course",
+            "plasma",
+            "exchange",
+            "5",
+            "treatment",
+            "10",
+            "day",
+            "administration",
+            "cyclophosphamide",
             "gfr",
             "50",
             "receive",
@@ -481,13 +491,12 @@
             "month"
       ],
       "arm_group_label": [
-            "plasma",
+            "exchange",
+            "cyclophosphamide",
             "exchange",
             "cyclophosphamide"
       ],
-      "other_name": [
-            "cytophosphane"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -798,9 +807,17 @@
             "drug",
             "avoid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007475.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "expression",
+            "profile"
+      ],
+      "mesh_term": [
+            "focal",
+            "segmental"
+      ],
+      "id": "NCT00007475"
 }

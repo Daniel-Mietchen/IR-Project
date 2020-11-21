@@ -100,7 +100,7 @@
             "asl"
       ],
       "condition": [
-            "healthy"
+            "map"
       ],
       "criteria": [
             "subject",
@@ -162,9 +162,15 @@
             "intake",
             "neuroleptic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001782.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rtms"
+      ],
+      "mesh_term": [
+            "loss"
+      ],
+      "id": "NCT00001782"
 }

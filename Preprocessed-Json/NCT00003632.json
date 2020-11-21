@@ -259,18 +259,24 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "melphalan",
+            "methotrexate",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -420,9 +426,17 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003632.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003632"
 }

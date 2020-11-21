@@ -55,15 +55,23 @@
             "pcp"
       ],
       "condition": [
-            "hiv",
+            "pneumocystis",
+            "carinii",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "Trimetrexate glucuronate",
+            "Trimethoprim",
+            "Sulfamethoxazole",
+            "Dapsone",
+            "Leucovorin calcium"
       ],
       "criteria": [
             "inclusion",
@@ -263,12 +271,24 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002120.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "infection",
+            "pneumocystis",
+            "sulfamethoxazole",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00002120"
 }

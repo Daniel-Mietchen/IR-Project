@@ -38,18 +38,18 @@
             "deficiency"
       ],
       "condition": [
-            "congenital",
+            "bleed",
+            "disorder",
             "fxiii",
             "deficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "catridecacog"
       ],
       "description": [
-            "single",
             "dose",
             "rfxiii",
             "administer",
@@ -66,9 +66,7 @@
             "50",
             "75"
       ],
-      "arm_group_label": [
-            "rfxiii"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -188,12 +186,17 @@
             "prior",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056589.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "coagulation",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00056589"
 }

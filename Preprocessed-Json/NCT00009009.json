@@ -436,18 +436,15 @@
             "infection"
       ],
       "condition": [
-            "hiv",
+            "kidney",
+            "failure",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immunosuppressive",
-            "regimen",
-            "design",
-            "complement",
-            "haart"
+            "immunosuppressive regimen designed to complement HAART"
       ],
       "criteria": [
             "patient",
@@ -814,9 +811,22 @@
             "also",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009009.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "transplant"
+      ],
+      "mesh_term": [
+            "infection",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "immunodeficiency",
+            "syndrome",
+            "agent"
+      ],
+      "id": "NCT00009009"
 }

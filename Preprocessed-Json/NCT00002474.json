@@ -146,19 +146,21 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "ablation",
-            "stem",
-            "cell",
-            "support"
+            "carboplatin",
+            "cyclophosphamide",
+            "mitoxantrone hydrochloride",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support"
       ],
       "criteria": [
             "disease",
@@ -334,14 +336,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002474.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002474"
 }

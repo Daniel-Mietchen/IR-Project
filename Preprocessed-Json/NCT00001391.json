@@ -285,7 +285,8 @@
             "strategy"
       ],
       "condition": [
-            "healthy"
+            "disease",
+            "abnormality"
       ],
       "criteria": [
             "inclusion",
@@ -309,7 +310,7 @@
             "skeletal",
             "metabolism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -318,6 +319,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001391.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "bone",
+            "induction"
+      ],
+      "mesh_term": [
+            "disease",
+            "abnormality"
+      ],
+      "id": "NCT00001391"
 }

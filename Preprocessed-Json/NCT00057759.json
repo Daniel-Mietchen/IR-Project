@@ -206,20 +206,27 @@
             "study"
       ],
       "condition": [
-            "sexuality",
+            "cancer",
+            "effect",
+            "cancer",
+            "treatment",
+            "toxicity",
+            "dysfunction",
             "reproductive",
             "issue"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "sildenafil citrate",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "citrate"
       ],
-      "description": [
-            "placebo"
-      ],
+      "description": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -417,14 +424,25 @@
             "erectile",
             "dysfunction"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057759.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "psychosocial",
+            "effect",
+            "cancer",
+            "treatment"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "dysfunction",
+            "injury",
+            "citrate",
+            "acid"
+      ],
+      "id": "NCT00057759"
 }

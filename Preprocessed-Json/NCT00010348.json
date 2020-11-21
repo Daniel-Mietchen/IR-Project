@@ -133,24 +133,39 @@
             "360"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "total",
-            "body",
-            "irradiation",
-            "stem",
-            "cell",
-            "bone",
-            "marrow",
-            "transplantation"
+            "Cyclosporine",
+            "Mycophenolate mofetil",
+            "Total body irradiation and stem cell or bone marrow transplantation"
       ],
       "description": [
-            "assume",
+            "iv",
+            "cyclosporine",
+            "2",
+            "3",
+            "time",
+            "daily",
+            "day",
+            "50",
+            "within",
+            "6",
+            "hour",
+            "transplantation",
+            "oral",
+            "mycophenolate",
+            "mofetil",
+            "every",
+            "12",
+            "hour",
+            "day",
+            "27",
             "donor",
             "available",
             "total",
@@ -168,9 +183,7 @@
             "day",
             "0"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "protocol",
             "entry",
@@ -278,12 +291,25 @@
             "year",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010348.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "infection"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00010348"
 }

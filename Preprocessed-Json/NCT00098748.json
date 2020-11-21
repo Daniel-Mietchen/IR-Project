@@ -293,20 +293,44 @@
             "maraviroc"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "optimize",
-            "background",
-            "therapy",
-            "obt"
+            "Optimized Background Therapy (OBT)",
+            "maraviroc (UK-427,857)",
+            "Optimized Background Therapy (OBT)",
+            "maraviroc (UK-427,857)",
+            "Optimized Background Therapy (OBT)"
       ],
       "description": [
-            "obt",
+            "drug",
+            "base",
+            "treatment",
+            "history",
+            "resistance",
+            "test",
+            "150",
+            "mg",
+            "take",
+            "daily",
+            "drug",
+            "base",
+            "treatment",
+            "history",
+            "resistance",
+            "test",
+            "150",
+            "mg",
+            "take",
+            "twice",
+            "daily",
             "drug",
             "base",
             "treatment",
@@ -314,11 +338,9 @@
             "resistance",
             "test"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "selzentry",
+            "celsentri",
             "celsentri"
       ],
       "criteria": [
@@ -560,12 +582,15 @@
             "ability",
             "evaluate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098748.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00098748"
 }

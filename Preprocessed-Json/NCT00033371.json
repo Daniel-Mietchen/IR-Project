@@ -221,28 +221,72 @@
             "month"
       ],
       "condition": [
-            "familial",
+            "cancer",
             "adenomatous",
             "polyposis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "questionnaire",
-            "administration"
+            "Celecoxib",
+            "Placebo",
+            "eflornithine",
+            "Laboratory biomarker analysis",
+            "Questionnaire administration"
       ],
       "description": [
-            "ancillary",
+            "400",
+            "mg",
+            "po",
+            "twice",
+            "day",
+            "po",
+            "match",
+            "dfmo",
+            "po",
+            "round",
+            "nearest",
+            "250",
+            "mg",
+            "dose",
+            "bsa",
+            "500",
+            "bsa",
+            "750",
+            "bsa",
+            "1000",
+            "bsa",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "celecoxib",
+            "placebo",
+            "ii",
+            "celecoxib",
+            "eflornithine",
+            "celecoxib",
+            "placebo",
+            "ii",
+            "celecoxib",
+            "eflornithine",
+            "celecoxib",
+            "placebo",
+            "ii",
+            "celecoxib",
+            "eflornithine",
+            "celecoxib",
+            "placebo",
             "ii",
             "celecoxib",
             "eflornithine"
       ],
-      "other_name": [
-            "survey"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1104,7 +1148,7 @@
             "acid",
             "asa"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -1113,6 +1157,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033371.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "polyposis",
+            "coli"
+      ],
+      "id": "NCT00033371"
 }

@@ -324,15 +324,16 @@
             "disease"
       ],
       "condition": [
-            "sickle",
             "cell",
             "trait"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "leukapheresis"
+            "Granulocyte colony-stimulating factor",
+            "Leukapheresis"
       ],
       "criteria": [
             "confirm",
@@ -475,7 +476,6 @@
             "chest",
             "pain",
             "shortness",
-            "breath",
             "allergy",
             "bacterial",
             "coli",
@@ -484,9 +484,18 @@
             "administration",
             "leukapheresis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005782.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "red",
+            "cell",
+            "alloimmunization"
+      ],
+      "mesh_term": [
+            "cell",
+            "trait"
+      ],
+      "id": "NCT00005782"
 }

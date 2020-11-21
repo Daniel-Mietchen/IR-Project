@@ -167,15 +167,14 @@
             "within",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "7-hydroxystaurosporine",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -430,12 +429,24 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045513.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00045513"
 }

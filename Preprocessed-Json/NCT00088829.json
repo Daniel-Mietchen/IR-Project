@@ -231,27 +231,45 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Genetic",
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel"
+            "paclitaxel",
+            "microarray analysis",
+            "biopsy",
+            "neoadjuvant therapy",
+            "Paclitaxel"
       ],
       "description": [
+            "receive",
+            "paclitaxel",
+            "neoadjuvantly",
+            "biopsy",
+            "collect",
+            "tissue",
+            "gene",
+            "microarray",
+            "analysis",
+            "subject",
+            "biopsy",
+            "collect",
+            "tissue",
+            "give",
+            "neoadjuvantly",
             "patient",
             "receive",
             "paclitaxel",
             "neoadjuvantly"
       ],
-      "arm_group_label": [
-            "paclitaxel"
-      ],
-      "other_name": [
-            "taxol"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "histologically",
@@ -362,14 +380,20 @@
             "breast",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088829.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00088829"
 }

@@ -126,14 +126,23 @@
             "pace"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "etoposide"
+            "Dexamethasone",
+            "Thalidomide",
+            "Cisplatinum",
+            "Adriamycin",
+            "Cyclophosphamide",
+            "Etoposide"
       ],
       "criteria": [
             "inclusion",
@@ -267,12 +276,23 @@
             "biologic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083538.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leukapheresis"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "phosphate",
+            "1101"
+      ],
+      "id": "NCT00083538"
 }

@@ -181,29 +181,48 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "bevacizumab",
+            "vinorelbine tartrate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "bevacizumab",
+            "vinorelbine",
+            "tartrate",
+            "bevacizumab",
+            "vinorelbine",
+            "tartrate",
             "bevacizumab",
             "vinorelbine",
             "tartrate"
       ],
       "other_name": [
-            "vnb"
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
+            "vegf",
+            "ditartrate"
       ],
       "criteria": [
             "inclusion",
@@ -653,12 +672,18 @@
             "rofecoxib",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00017394.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "monoclonal"
+      ],
+      "id": "NCT00017394"
 }

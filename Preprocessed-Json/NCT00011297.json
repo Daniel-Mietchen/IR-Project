@@ -33,15 +33,14 @@
             "alcohol",
             "withdrawal"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lorazepam",
-            "ativan"
+            "gabapentin (Neurontin)",
+            "lorazepam (Ativan)"
       ],
       "criteria": [
             "inclusion",
@@ -217,7 +216,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -226,6 +225,7 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00011297.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00011297"
 }

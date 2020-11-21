@@ -139,18 +139,22 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "dexamethasone",
+            "doxorubicin hydrochloride",
+            "thalidomide",
+            "vincristine sulfate"
       ],
       "criteria": [
             "disease",
@@ -264,12 +268,26 @@
             "alcohol",
             "consumption"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054158.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "doxorubicin",
+            "1101"
+      ],
+      "id": "NCT00054158"
 }

@@ -162,11 +162,10 @@
             "study"
       ],
       "condition": [
-            "endometrial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "medroxyprogesterone"
@@ -311,11 +310,18 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "endometrial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "hyperplasia",
+            "acetate"
+      ],
+      "id": "NCT00003179"
 }

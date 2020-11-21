@@ -66,14 +66,13 @@
             "patient"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "carboplatin"
@@ -243,9 +242,20 @@
             "disease",
             "progression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002749.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "oligodendroglioma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002749"
 }

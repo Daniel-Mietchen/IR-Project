@@ -163,17 +163,16 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "ra",
-            "peptide",
-            "cancer",
-            "vaccine"
+            "QS21",
+            "ras peptide cancer vaccine"
       ],
       "criteria": [
             "disease",
@@ -361,12 +360,23 @@
             "palliation",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006387.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "21"
+      ],
+      "id": "NCT00006387"
 }

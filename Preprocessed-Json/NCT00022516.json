@@ -106,16 +106,21 @@
             "thereafter"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "methotrexate"
+            "Cyclophosphamide",
+            "Methotrexate"
       ],
       "description": [
+            "orally",
+            "continuously",
+            "1",
+            "year",
             "mg",
             "orally",
             "day",
@@ -127,9 +132,7 @@
             "year"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "trexall"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -429,7 +432,7 @@
             "breast",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -438,6 +441,12 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00022516.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "angiogenesis"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00022516"
 }

@@ -214,13 +214,14 @@
             "record"
       ],
       "condition": [
-            "myocardial",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "L-Arginine"
+      ],
       "criteria": [
             "patient",
             "suffer",
@@ -286,7 +287,7 @@
             "ask",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -295,6 +296,9 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00051376.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00051376"
 }

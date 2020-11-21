@@ -415,15 +415,15 @@
             "follow"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "plus",
-            "thalidomide"
+            "IL-2 plus Anti-TNF or Thalidomide"
       ],
       "criteria": [
             "naive",
@@ -673,9 +673,19 @@
             "intolerance",
             "thalidomide"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001475.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunomodulator"
+      ],
+      "mesh_term": [
+            "infection",
+            "deficiency",
+            "syndrome",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001475"
 }

@@ -98,28 +98,24 @@
             "week"
       ],
       "condition": [
-            "oral",
+            "neck",
+            "cancer",
             "leukoplakia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pioglitazone",
-            "hydrochloride"
+            "pioglitazone hydrochloride"
       ],
       "description": [
-            "give",
             "po"
       ],
       "arm_group_label": [
-            "prevention",
             "pioglitazone",
             "hydrochloride"
       ],
-      "other_name": [
-            "pioglitazone"
-      ],
+      "other_name": [],
       "criteria": [
             "criterion",
             "ecog",
@@ -290,12 +286,17 @@
             "punch",
             "biopsy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099021.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "oral"
+      ],
+      "id": "NCT00099021"
 }

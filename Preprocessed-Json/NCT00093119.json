@@ -54,13 +54,13 @@
             "continue",
             "benefit"
       ],
-      "condition": [
-            "metastasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ABI-007"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -171,12 +171,19 @@
             "determine",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093119.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00093119"
 }

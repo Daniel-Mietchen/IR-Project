@@ -208,16 +208,22 @@
             "month"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "etoposide",
+            "autologous bone marrow transplantation",
+            "peripheral blood stem cell transplantation",
+            "yttrium Y 90 monoclonal antibody M195"
       ],
       "criteria": [
             "disease",
@@ -349,12 +355,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006040.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neoplasm",
+            "unclassifiable"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "monoclonal",
+            "phosphate"
+      ],
+      "id": "NCT00006040"
 }

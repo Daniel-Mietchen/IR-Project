@@ -164,24 +164,64 @@
             "year"
       ],
       "condition": [
-            "waldenstrom",
+            "lymphoproliferative",
+            "disorder",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "iii",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "iii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "iv",
+            "adult",
+            "burkitt",
+            "lymphoma",
+            "iv",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "ibritumomab",
-            "tiuxetan"
+            "rituximab",
+            "indium In 111 ibritumomab tiuxetan",
+            "yttrium Y 90 ibritumomab tiuxetan"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "rituximab",
+            "yttrium",
+            "90",
+            "ibritumomab",
+            "tiuxetan",
+            "rituximab",
+            "yttrium",
+            "90",
+            "ibritumomab",
+            "tiuxetan",
             "rituximab",
             "yttrium",
             "90",
@@ -189,6 +229,11 @@
             "tiuxetan"
       ],
       "other_name": [
+            "monoclonal",
+            "antibody",
+            "ibritumomab",
+            "tiuxetan",
+            "zevalin",
             "ibritumomab",
             "tiuxetan"
       ],
@@ -213,7 +258,6 @@
             "excision",
             "recurrent",
             "follow",
-            "histology",
             "eligible",
             "polyclonal",
             "ptld",
@@ -401,12 +445,20 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064246.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "lymphoma",
+            "macroglobulinemia",
+            "disorder",
+            "monoclonal"
+      ],
+      "id": "NCT00064246"
 }

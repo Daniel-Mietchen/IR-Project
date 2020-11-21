@@ -291,17 +291,38 @@
             "enrol",
             "anderson"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rituximab"
+            "Campath-1 H (Alemtuzumab)",
+            "Fludarabine",
+            "Cyclophosphamide",
+            "Rituximab"
       ],
       "description": [
-            "375",
+            "dose",
+            "15",
+            "mg",
+            "vein",
+            "daily",
+            "3",
+            "day",
+            "row",
+            "vein",
+            "daily",
+            "3",
+            "day",
+            "row",
+            "vein",
+            "daily",
+            "3",
+            "day",
+            "row",
             "vein",
             "give",
             "patient",
@@ -317,12 +338,17 @@
             "dose"
       ],
       "arm_group_label": [
-            "campath",
+            "nonmyeloablative",
+            "transplantation",
+            "nonmyeloablative",
+            "transplantation",
+            "nonmyeloablative",
+            "transplantation",
             "nonmyeloablative",
             "transplantation"
       ],
       "other_name": [
-            "rituxan"
+            "phospate"
       ],
       "criteria": [
             "inclusion",
@@ -436,12 +462,18 @@
             "psychiatric",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00038844.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rituximab"
+      ],
+      "mesh_term": [
+            "phosphate"
+      ],
+      "id": "NCT00038844"
 }

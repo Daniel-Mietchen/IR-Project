@@ -21,13 +21,14 @@
             "md"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CC-1088"
+      ],
       "criteria": [
             "eligible",
             "patient",
@@ -71,7 +72,7 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -80,6 +81,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00045786.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00045786"
 }

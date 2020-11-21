@@ -186,28 +186,41 @@
             "group"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "health",
-            "behavior",
-            "write"
+            "Coping skills training",
+            "Written emotional disclosure",
+            "Arthritis education",
+            "Health behavior writing"
       ],
       "description": [
-            "4",
+            "session",
+            "pain",
+            "stress",
+            "cop",
+            "skill",
+            "train",
+            "session",
+            "write",
+            "stress",
+            "session",
+            "learn",
+            "rheumatoid",
+            "arthritis",
             "session",
             "write",
             "various",
             "health",
             "behavior"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -274,7 +287,7 @@
             "unable",
             "write"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -283,6 +296,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088764.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "disclosure"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00088764"
 }

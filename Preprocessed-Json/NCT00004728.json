@@ -76,14 +76,16 @@
             "minority"
       ],
       "condition": [
-            "constriction",
+            "infarction",
             "pathologic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aspirin"
+            "Warfarin",
+            "Aspirin"
       ],
       "criteria": [
             "inclusion",
@@ -257,7 +259,6 @@
             "diathesis",
             "platelet",
             "hematocrit",
-            "30",
             "clot",
             "factor",
             "abnormality",
@@ -281,7 +282,6 @@
             "liver",
             "impairment",
             "sgot",
-            "normal",
             "cirrhosis",
             "allergy",
             "aspirin",
@@ -372,12 +372,19 @@
             "day",
             "90"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004728.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "minority"
+      ],
+      "mesh_term": [
+            "infarction",
+            "pathologic"
+      ],
+      "id": "NCT00004728"
 }

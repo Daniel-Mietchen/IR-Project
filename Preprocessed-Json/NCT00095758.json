@@ -31,19 +31,33 @@
             "disorder"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "antidepressant",
-            "aripiprazole"
+            "Antidepressant + Placebo",
+            "Antidepressant + Aripiprazole"
       ],
       "description": [
-            "antidepressant",
+            "placebo",
+            "tablet",
+            "oral",
+            "mg",
+            "placebo",
+            "daily",
+            "6",
+            "week",
+            "follow",
+            "8",
+            "week",
+            "prospective",
+            "treatment",
+            "baseline",
+            "phase",
             "aripiprazole",
             "tablet",
             "oral",
@@ -61,9 +75,7 @@
             "phase"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "abilify"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -90,7 +102,7 @@
             "three",
             "antidepressant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -99,6 +111,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00095758.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "agent"
+      ],
+      "id": "NCT00095758"
 }

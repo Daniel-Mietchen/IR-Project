@@ -28,13 +28,17 @@
             "infection"
       ],
       "condition": [
-            "hiv",
+            "thrombocytopenic",
+            "purpura",
+            "itp",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CD4-IgG"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -273,12 +277,23 @@
             "experimental",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002250.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antigen"
+      ],
+      "mesh_term": [
+            "infection",
+            "thrombocytopenic",
+            "thrombocytopenic",
+            "idiopathic",
+            "immunoadhesins",
+            "g"
+      ],
+      "id": "NCT00002250"
 }

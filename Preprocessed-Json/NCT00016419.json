@@ -164,17 +164,22 @@
             "month"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "anti-thymocyte globulin",
             "cyclosporine"
       ],
       "description": [
-            "3",
+            "iv",
+            "12",
+            "hr",
+            "day",
+            "1",
             "bid",
             "day",
             "taper",
@@ -386,12 +391,21 @@
             "day",
             "cyclosporine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016419.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "serum"
+      ],
+      "id": "NCT00016419"
 }

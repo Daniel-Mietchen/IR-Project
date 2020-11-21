@@ -41,13 +41,14 @@
             "rejection"
       ],
       "condition": [
-            "kidney",
             "transplantation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "FTY720"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -75,7 +76,7 @@
             "present",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -84,6 +85,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00098735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "transplantation",
+            "rejection",
+            "immunosuppression"
+      ],
+      "mesh_term": [
+            "hydrochloride"
+      ],
+      "id": "NCT00098735"
 }

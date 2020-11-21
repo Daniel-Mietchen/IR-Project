@@ -274,19 +274,28 @@
             "event"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "disease",
+            "failure",
+            "congestive",
             "failure"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005534.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "dysfunction"
+      ],
+      "id": "NCT00005534"
 }

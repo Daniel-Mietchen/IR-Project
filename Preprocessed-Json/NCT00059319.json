@@ -160,18 +160,15 @@
             "test"
       ],
       "condition": [
-            "coronary",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "multiple",
-            "aorta",
-            "clamp",
-            "antegrade",
-            "cardioplegia"
+            "single aorta clamp with retrograde cardioplegia",
+            "multiple aorta clamps with antegrade cardioplegia"
       ],
       "criteria": [
             "participant",
@@ -190,12 +187,20 @@
             "race",
             "eligible"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059319.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "microemboli"
+      ],
+      "mesh_term": [
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00059319"
 }

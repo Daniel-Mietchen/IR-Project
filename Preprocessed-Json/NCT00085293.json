@@ -196,30 +196,82 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "thyroid",
+            "cancer",
+            "iva",
+            "follicular",
+            "thyroid",
+            "cancer",
+            "iva",
+            "papillary",
+            "thyroid",
+            "cancer",
+            "ivb",
+            "follicular",
+            "thyroid",
+            "cancer",
+            "ivb",
+            "papillary",
+            "thyroid",
+            "cancer",
+            "ivc",
+            "follicular",
+            "thyroid",
+            "cancer",
             "ivc",
             "papillary",
             "thyroid",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Radiation",
+            "Biological",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
-            "positron",
-            "emission",
-            "tomography"
+            "Decitabine",
+            "Iodine I 131",
+            "Recombinant thyrotropin alfa",
+            "Fludeoxyglucose F 18",
+            "Positron emission tomography"
       ],
       "description": [
-            "optional",
+            "dose",
+            "6",
+            "intravenously",
+            "1",
+            "hour",
+            "every",
+            "day",
+            "5",
+            "successive",
+            "day",
+            "2",
+            "week",
+            "10",
+            "dose",
+            "possible",
+            "second",
+            "course",
+            "stimulate",
+            "radioactive",
+            "iodine",
+            "scan",
+            "stimulate",
+            "radioactive",
+            "iodine",
+            "scan",
+            "correlative",
+            "study",
             "correlative",
             "study"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "tomography",
+            "131",
+            "scan",
             "emission",
             "compute"
       ],
@@ -491,12 +543,18 @@
             "500",
             "mcg"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085293.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "neoplasm",
+            "follicular",
+            "iodine"
+      ],
+      "id": "NCT00085293"
 }

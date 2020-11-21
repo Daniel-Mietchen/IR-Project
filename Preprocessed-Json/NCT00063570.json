@@ -37,17 +37,44 @@
             "cancer"
       ],
       "condition": [
-            "breast",
+            "cancer",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pemetrexed"
+            "Pemetrexed",
+            "Gemcitabine",
+            "Gemcitabine",
+            "Pemetrexed"
       ],
       "description": [
-            "500",
+            "intravenous",
+            "iv",
+            "every",
+            "14",
+            "day",
+            "disease",
+            "progression",
+            "intravenous",
+            "iv",
+            "every",
+            "14",
+            "day",
+            "disease",
+            "progression",
+            "intravenous",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "cycle",
+            "disease",
+            "progression",
             "intravenous",
             "iv",
             "every",
@@ -56,11 +83,10 @@
             "disease",
             "progression"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "alimta"
+            "alimta",
+            "gemzar"
       ],
       "criteria": [
             "inclusion",
@@ -120,12 +146,19 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063570.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer",
+            "breast"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00063570"
 }

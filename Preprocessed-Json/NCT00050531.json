@@ -332,28 +332,38 @@
             "anderson"
       ],
       "condition": [
-            "leukemia",
             "myeloid",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sargramostim"
+            "Gleevec",
+            "Peg-alpha interferon (Peg-Intron)",
+            "Sargramostim (GM-CSF)"
       ],
       "description": [
-            "125",
+            "mg",
+            "orally",
+            "twice",
+            "daily",
+            "week",
+            "subcutaneously",
             "three",
             "time",
             "per",
             "week",
             "subcutaneously"
       ],
-      "arm_group_label": [
-            "gleevec"
-      ],
+      "arm_group_label": [],
       "other_name": [
+            "mesylate",
+            "interferon",
+            "peg",
+            "conjugate",
             "colony",
             "stimulate",
             "factor"
@@ -440,12 +450,20 @@
             "blastic",
             "phase"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050531.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00050531"
 }

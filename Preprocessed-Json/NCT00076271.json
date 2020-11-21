@@ -410,7 +410,6 @@
             "voluntary"
       ],
       "condition": [
-            "eye",
             "disease"
       ],
       "criteria": [
@@ -474,9 +473,17 @@
             "examination",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076271.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "eye",
+            "movement",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00076271"
 }

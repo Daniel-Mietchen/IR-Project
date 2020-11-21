@@ -124,15 +124,17 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Drug",
+            "Genetic",
+            "Genetic"
       ],
       "intervention_name": [
-            "polymorphism",
-            "analysis"
+            "irinotecan hydrochloride",
+            "mutation analysis",
+            "polymorphism analysis"
       ],
       "criteria": [
             "disease",
@@ -296,12 +298,20 @@
             "antiepileptic",
             "prophylaxis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003843.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003843"
 }

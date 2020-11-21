@@ -177,21 +177,25 @@
             "design"
       ],
       "condition": [
-            "neurologic",
+            "disease",
+            "disease",
             "manifestation"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037310.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "manifestation"
+      ],
+      "id": "NCT00037310"
 }

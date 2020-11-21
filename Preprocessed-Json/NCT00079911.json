@@ -36,18 +36,16 @@
             "100"
       ],
       "condition": [
-            "genital",
+            "infection",
             "herpes"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "valacyclovir",
-            "hydrochloride"
+            "valacyclovir hydrochloride"
       ],
       "description": [
-            "valacyclovir",
             "hydrochloride"
       ],
       "criteria": [
@@ -158,12 +156,20 @@
             "research",
             "physician"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079911.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hsv"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "genitalis"
+      ],
+      "id": "NCT00079911"
 }

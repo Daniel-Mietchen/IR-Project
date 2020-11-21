@@ -269,20 +269,24 @@
             "year"
       ],
       "condition": [
+            "disorder",
             "disease"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "Allogeneic bone marrow transplantation",
+            "Peripheral blood stem cell transplantation"
       ],
       "description": [
-            "peripheral",
+            "marrow",
+            "transplant",
+            "hla",
+            "compatible",
+            "unrelated",
+            "donor",
             "blood",
             "transplant",
             "hla",
@@ -291,7 +295,8 @@
             "donor"
       ],
       "arm_group_label": [
-            "blood",
+            "marrow",
+            "transplant",
             "stem",
             "cell",
             "transplant"
@@ -573,12 +578,16 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "66",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075816.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00075816"
 }

@@ -226,7 +226,6 @@
             "human"
       ],
       "condition": [
-            "anxiety",
             "disorder"
       ],
       "criteria": [
@@ -303,7 +302,7 @@
             "psychotropic",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -312,6 +311,13 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025844.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00025844"
 }

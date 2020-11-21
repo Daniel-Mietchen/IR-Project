@@ -304,15 +304,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "thrombocytopenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "daunorubicin",
-            "hydrochloride"
+            "filgrastim",
+            "leridistim",
+            "cytarabine",
+            "daunorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -482,12 +485,25 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004215.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00004215"
 }

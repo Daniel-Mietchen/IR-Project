@@ -39,13 +39,16 @@
             "carcinoma"
       ],
       "condition": [
-            "metastasis",
+            "renal",
+            "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GTI-2040"
+      ],
       "criteria": [
             "age",
             "greater",
@@ -119,12 +122,23 @@
             "organ",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00056173.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "renal",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "metastasis"
+      ],
+      "id": "NCT00056173"
 }

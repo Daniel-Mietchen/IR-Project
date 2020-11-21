@@ -208,15 +208,23 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "ALVAC-CEA-B7.1 vaccine",
+            "tetanus toxoid",
+            "FOLFIRI regimen",
+            "fluorouracil",
+            "irinotecan hydrochloride",
+            "leucovorin calcium"
       ],
       "criteria": [
             "disease",
@@ -480,12 +488,19 @@
             "investigational",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027833.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00027833"
 }

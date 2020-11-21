@@ -98,27 +98,22 @@
             "1",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "docetaxel"
       ],
       "description": [
-            "continuous",
             "iv",
             "infusion"
       ],
       "arm_group_label": [
-            "relapse",
             "refractory",
             "aml"
       ],
       "other_name": [
-            "nsc",
             "628503"
       ],
       "criteria": [
@@ -301,12 +296,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021242.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "promyelocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00021242"
 }

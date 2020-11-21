@@ -117,15 +117,16 @@
             "12"
       ],
       "condition": [
-            "sleep",
             "initiation",
             "maintenance",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
+            "Cognitive-behavior therapy",
             "zolpidem"
       ],
       "criteria": [
@@ -161,12 +162,21 @@
             "psychiatric",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042146.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "sleep",
+            "deprivation"
+      ],
+      "mesh_term": [
+            "initiation",
+            "maintenance",
+            "disorder"
+      ],
+      "id": "NCT00042146"
 }

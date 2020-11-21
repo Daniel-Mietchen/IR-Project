@@ -77,7 +77,6 @@
             "condition"
       ],
       "condition": [
-            "cushing",
             "syndrome"
       ],
       "criteria": [
@@ -108,12 +107,19 @@
             "criterion",
             "none"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081341.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "syndrome",
+            "acth",
+            "hypersecretion",
+            "pituitary",
+            "adenoma"
+      ],
+      "id": "NCT00081341"
 }

@@ -209,18 +209,20 @@
             "within",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "recombinant interferon alfa",
+            "sargramostim",
+            "busulfan",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -378,12 +380,25 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005948.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "accelerate",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive"
+      ],
+      "id": "NCT00005948"
 }

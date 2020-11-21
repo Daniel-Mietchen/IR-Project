@@ -37,14 +37,15 @@
             "week"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "CCI-779",
+            "Placebo"
       ],
       "arm_group_label": [],
       "criteria": [
@@ -107,7 +108,7 @@
             "effusion",
             "infiltration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -116,6 +117,9 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076206.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00076206"
 }

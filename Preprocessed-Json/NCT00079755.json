@@ -97,14 +97,13 @@
             "period"
       ],
       "condition": [
-            "anaplastic",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "mab"
+            "SGN-30 (anti-CD30 mAb)"
       ],
       "criteria": [
             "inclusion",
@@ -411,12 +410,20 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079755.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "monoclonal",
+            "antibody"
+      ],
+      "mesh_term": [
+            "anaplastic",
+            "monoclonal"
+      ],
+      "id": "NCT00079755"
 }

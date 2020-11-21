@@ -124,7 +124,15 @@
             "test"
       ],
       "condition": [
-            "pulmonary",
+            "artery",
+            "disease",
+            "disease",
+            "heart",
+            "failure",
+            "cardiomyopathy",
+            "failure",
+            "artery",
+            "stenosis",
             "hypertension"
       ],
       "criteria": [
@@ -198,9 +206,26 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001313.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "heart",
+            "disease"
+      ],
+      "mesh_term": [
+            "failure",
+            "disease",
+            "pulmonary",
+            "disease",
+            "artery",
+            "disease",
+            "arterial",
+            "disease",
+            "dilate",
+            "artery",
+            "obstruction"
+      ],
+      "id": "NCT00001313"
 }

@@ -23,19 +23,31 @@
             "bronchospasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "aerosol",
-            "hfa"
+            "albuterol aerosol by HFA MDI",
+            "albuterol aerosol by HFA BOI",
+            "placebo aerosol by HFA"
       ],
       "description": [
-            "placebo",
+            "hfa",
+            "mdi",
+            "160",
+            "mcg",
+            "hfa",
+            "boi",
+            "160",
+            "mcg",
             "hfa"
       ],
       "arm_group_label": [
-            "placebo"
+            "hfa",
+            "mdi",
+            "hfa",
+            "boi"
       ],
       "criteria": [
             "inclusion",
@@ -388,7 +400,7 @@
             "asthma",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -397,6 +409,12 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085774.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bronchospasm"
+      ],
+      "mesh_term": [
+            "spasm"
+      ],
+      "id": "NCT00085774"
 }

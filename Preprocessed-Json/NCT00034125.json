@@ -25,13 +25,14 @@
             "cancer"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "LY353381",
             "tamoxifen"
       ],
       "criteria": [
@@ -53,14 +54,19 @@
             "hormonal",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034125.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hormonal",
+            "therapy"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00034125"
 }

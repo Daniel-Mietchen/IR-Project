@@ -272,17 +272,26 @@
             "endpoint"
       ],
       "condition": [
-            "aplastic",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "csa"
+            "Campath-1H",
+            "r-ATG",
+            "CsA"
       ],
       "description": [
-            "csa",
+            "iv",
+            "10",
+            "day",
+            "atg",
+            "consecutive",
+            "5",
+            "day",
             "orally",
             "twice",
             "daily",
@@ -293,9 +302,7 @@
             "yr"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "cyclosporine"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -478,12 +485,19 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065260.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "anemia"
+      ],
+      "mesh_term": [
+            "aplastic",
+            "serum"
+      ],
+      "id": "NCT00065260"
 }

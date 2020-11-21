@@ -162,17 +162,29 @@
             "year"
       ],
       "condition": [
-            "xerostomia"
+            "neck",
+            "cancer",
+            "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Surgery for the primary and neck nodes",
+            "Submandibular salivary gland transfer",
+            "Post-operative radiation therapy"
       ],
       "arm_group_label": [
-            "surgery",
+            "salivary",
+            "gland",
+            "transfer",
+            "radiation",
+            "salivary",
+            "gland",
+            "transfer",
+            "radiation",
             "salivary",
             "gland",
             "transfer",
@@ -344,12 +356,25 @@
             "study",
             "radiotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068237.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "oropharynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00068237"
 }

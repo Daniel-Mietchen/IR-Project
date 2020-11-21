@@ -658,7 +658,7 @@
             "carrier"
       ],
       "condition": [
-            "breast",
+            "neoplasm",
             "neoplasm"
       ],
       "criteria": [
@@ -1032,9 +1032,7 @@
             "remain",
             "eligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "19",
             "year"
@@ -1043,6 +1041,15 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043472.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "cancer",
+            "risk"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00043472"
 }

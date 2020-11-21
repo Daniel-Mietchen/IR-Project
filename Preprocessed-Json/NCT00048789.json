@@ -334,17 +334,15 @@
             "disease"
       ],
       "condition": [
-            "graft",
             "v",
             "host",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "extracorporeal",
-            "photopheresis"
+            "Extracorporeal Photopheresis"
       ],
       "criteria": [
             "inclusion",
@@ -759,12 +757,20 @@
             "treat",
             "gvhd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048789.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gvhd"
+      ],
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00048789"
 }

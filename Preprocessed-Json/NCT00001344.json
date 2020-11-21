@@ -213,10 +213,11 @@
             "observation"
       ],
       "condition": [
-            "neuralgia"
+            "neuropathy",
+            "zoster"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "dextromethorphan"
@@ -355,9 +356,16 @@
             "neuropathy",
             "pain"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001344.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "shingle"
+      ],
+      "mesh_term": [
+            "neuropathy",
+            "zoster"
+      ],
+      "id": "NCT00001344"
 }

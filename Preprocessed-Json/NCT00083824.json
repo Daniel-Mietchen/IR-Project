@@ -324,27 +324,38 @@
             "participant"
       ],
       "condition": [
-            "coronary",
+            "disease",
+            "disease",
+            "disease",
             "arteriosclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Estrogens, Conjugated (USP)",
+            "Medroxyprogesterone 17-Acetate",
+            "Placebo"
       ],
       "description": [
-            "2",
+            "qid",
+            "3",
+            "year",
+            "qid",
+            "3",
+            "year",
             "qid",
             "3",
             "year"
       ],
       "arm_group_label": [
-            "sugar",
+            "conjugate",
+            "usp",
             "pill"
       ],
       "other_name": [
-            "sugar",
             "pill"
       ],
       "criteria": [
@@ -407,9 +418,7 @@
             "coronary",
             "artery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "55",
             "year"
@@ -418,6 +427,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083824.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "conjugate",
+            "usp",
+            "acetate"
+      ],
+      "id": "NCT00083824"
 }

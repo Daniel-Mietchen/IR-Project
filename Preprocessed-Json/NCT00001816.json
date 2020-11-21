@@ -146,7 +146,6 @@
             "world"
       ],
       "condition": [
-            "child",
             "hospitalize"
       ],
       "criteria": [
@@ -177,9 +176,13 @@
             "starbright",
             "world"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001816.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "virtual",
+            "network"
+      ],
+      "id": "NCT00001816"
 }

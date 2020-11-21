@@ -229,18 +229,21 @@
             "accrual",
             "effective"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "gemtuzumab",
-            "ozogamicin"
+            "ara-C",
+            "gemtuzumab ozogamicin"
       ],
       "description": [
-            "9",
+            "iv",
+            "infusion",
+            "3",
+            "hour",
+            "day",
             "iv",
             "infusion",
             "2",
@@ -266,12 +269,14 @@
             "ii"
       ],
       "arm_group_label": [
-            "cohort",
+            "ii",
+            "ia",
+            "iv",
+            "ii",
+            "ia",
             "iv"
       ],
-      "other_name": [
-            "mylotarg"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -456,12 +461,24 @@
             "cytotoxic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006265.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00006265"
 }

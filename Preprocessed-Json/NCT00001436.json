@@ -233,12 +233,14 @@
             "level"
       ],
       "condition": [
-            "osteosarcoma"
+            "metastasis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "OncoLAR\u00ae (Registered Trademark)",
             "tamoxifen"
       ],
       "criteria": [
@@ -450,9 +452,15 @@
             "must",
             "cholecystectomy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001436.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00001436"
 }

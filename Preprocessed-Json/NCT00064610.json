@@ -59,17 +59,13 @@
             "taxotere"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "velcade",
-            "tm",
-            "bortezomib",
-            "injection"
+            "VELCADE TM (bortezomib) for Injection"
       ],
       "criteria": [
             "inclusion",
@@ -483,14 +479,20 @@
             "accord",
             "protocol"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064610.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "advance",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00064610"
 }

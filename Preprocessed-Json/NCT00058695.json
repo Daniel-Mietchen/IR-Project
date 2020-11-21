@@ -310,7 +310,6 @@
             "amd"
       ],
       "condition": [
-            "macular",
             "degeneration"
       ],
       "criteria": [
@@ -435,12 +434,18 @@
             "ocular",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00058695.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "degeneration"
+      ],
+      "id": "NCT00058695"
 }

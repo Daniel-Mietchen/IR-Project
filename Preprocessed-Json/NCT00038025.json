@@ -35,19 +35,18 @@
             "need"
       ],
       "condition": [
-            "chronic",
+            "lymphoma",
+            "lymphoma",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "deoxycoformycin",
-            "dcf"
+            "Deoxycoformycin (DCF)"
       ],
       "description": [
-            "patient",
             "receive",
             "deoxycoformycin",
             "dcf",
@@ -62,12 +61,9 @@
             "interval"
       ],
       "arm_group_label": [
-            "deoxycoformycin",
             "dcf"
       ],
-      "other_name": [
-            "pentostatin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -202,12 +198,20 @@
             "active",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038025.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "peripheral",
+            "cutaneous"
+      ],
+      "id": "NCT00038025"
 }

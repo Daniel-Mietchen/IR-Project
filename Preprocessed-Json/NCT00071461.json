@@ -73,23 +73,21 @@
             "study"
       ],
       "condition": [
-            "idiopathic",
             "pulmonary",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "bosentan",
+            "Placebo"
       ],
       "description": [
-            "initial",
             "dose",
             "mg",
             "4",
-            "week",
-            "target",
             "dose",
             "body",
             "weight",
@@ -103,7 +101,28 @@
             "dose",
             "well",
             "tolerate",
+            "weight",
+            "40",
+            "kg",
+            "90",
+            "lb",
+            "mg",
+            "dose",
+            "mg",
+            "4",
+            "dose",
             "body",
+            "weight",
+            "40",
+            "kg",
+            "90",
+            "lb",
+            "125",
+            "mg",
+            "initial",
+            "dose",
+            "well",
+            "tolerate",
             "weight",
             "40",
             "kg",
@@ -111,12 +130,8 @@
             "lb",
             "mg"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "tracleer"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -521,12 +536,22 @@
             "bosentan",
             "excipients"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071461.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "build"
+      ],
+      "mesh_term": [
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "interstitial",
+            "pneumonia"
+      ],
+      "id": "NCT00071461"
 }

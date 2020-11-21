@@ -241,18 +241,16 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
+            "disease",
             "mellitus"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "systemic",
-            "antibiotic",
-            "either",
-            "doxycycline",
-            "metronidazole"
+            "periodontal scaling and local antibiotic irrigation",
+            "systemic antibiotic (either doxycycline or metronidazole)."
       ],
       "criteria": [
             "inclusion",
@@ -342,12 +340,28 @@
             "month",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016835.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "type",
+            "2",
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "mellitus",
+            "type",
+            "2",
+            "agent",
+            "antitubercular"
+      ],
+      "id": "NCT00016835"
 }

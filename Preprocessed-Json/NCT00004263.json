@@ -152,17 +152,38 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cytarabine"
+            "7-hydroxystaurosporine (UCN-01)",
+            "Cytarabine (Ara-C)"
       ],
       "description": [
-            "start",
+            "iv",
+            "24",
+            "hour",
+            "day",
+            "course",
+            "1",
+            "36",
+            "hour",
+            "begin",
+            "day",
+            "2",
+            "subsequent",
+            "course",
+            "treatment",
+            "repeat",
+            "every",
+            "4",
+            "week",
+            "maximum",
+            "4",
+            "course",
             "dose",
             "1",
             "iv",
@@ -179,11 +200,8 @@
             "4",
             "course"
       ],
-      "arm_group_label": [
-            "cytarabine"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "cytosine",
             "arabinosine",
             "hydrochloride"
       ],
@@ -343,9 +361,16 @@
             "radiotherapy",
             "mediastinum"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004263.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00004263"
 }

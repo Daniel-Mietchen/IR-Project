@@ -316,32 +316,61 @@
             "entry"
       ],
       "condition": [
-            "stage",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "ii",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
+            "iii",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
             "iv",
             "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "alemtuzumab",
+            "rituximab",
+            "fludarabine phosphate"
       ],
       "description": [
-            "give",
+            "sc",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "alemtuzumab",
+            "rituximab",
+            "fludarabine",
+            "phosphate",
+            "alemtuzumab",
+            "rituximab",
+            "fludarabine",
+            "phosphate",
             "alemtuzumab",
             "rituximab",
             "fludarabine",
             "phosphate"
       ],
       "other_name": [
-            "fludara"
+            "monoclonal",
+            "antibody",
+            "antibody",
+            "antibody",
+            "monoclonal",
+            "antibody"
       ],
       "criteria": [
             "inclusion",
@@ -548,12 +577,19 @@
             "test",
             "negative"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098670.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate",
+            "monoclonal"
+      ],
+      "id": "NCT00098670"
 }

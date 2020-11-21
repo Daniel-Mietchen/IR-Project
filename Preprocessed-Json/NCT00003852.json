@@ -260,20 +260,40 @@
             "year"
       ],
       "condition": [
-            "testicular",
+            "germ",
+            "cell",
+            "tumor",
+            "germ",
+            "cell",
+            "tumor",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "epirubicin hydrochloride",
+            "etoposide",
+            "ifosfamide",
+            "paclitaxel",
+            "thiotepa",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -346,11 +366,9 @@
             "bleomycin",
             "etoposide",
             "cisplatin",
-            "course",
             "etoposide",
             "cisplatin",
             "4",
-            "course",
             "vinblastine",
             "etoposide",
             "ifosfamide",
@@ -505,7 +523,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -514,6 +532,18 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003852.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extragonadal",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00003852"
 }

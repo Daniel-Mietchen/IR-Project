@@ -257,30 +257,47 @@
             "year"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cetuximab",
+            "gemcitabine hydrochloride"
       ],
       "description": [
+            "dose",
+            "cetuxiumab",
+            "iv",
+            "day",
+            "1",
+            "cycle",
+            "1",
+            "weekly",
+            "maintenance",
+            "cetuximab",
+            "iv",
+            "day",
+            "cycle",
+            "1",
+            "day",
+            "subsequent",
+            "cycle",
             "iv",
             "30",
             "minute"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "hydrochloride",
+            "hydrochloride",
             "hydrochloride",
             "alone"
       ],
       "criteria": [
             "disease",
             "characteristic",
-            "histologically",
             "cytologically",
             "confirm",
             "pancreatic",
@@ -521,12 +538,21 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00075686.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00075686"
 }

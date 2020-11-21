@@ -221,18 +221,32 @@
             "recruitment"
       ],
       "condition": [
-            "respiratory",
+            "newborn",
+            "distress",
+            "syndrome",
             "insufficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "standard",
-            "practice"
+            "Early surfactant",
+            "Standard practice"
       ],
       "description": [
             "surfactant",
+            "follow",
+            "extubation",
+            "within",
+            "30",
+            "minute",
+            "application",
+            "continuous",
+            "positive",
+            "airway",
+            "pressure",
+            "cpap",
             "accord",
             "current",
             "center",
@@ -242,13 +256,12 @@
             "ventilation"
       ],
       "arm_group_label": [
-            "standard",
+            "surfactant",
+            "group",
             "practice",
             "group"
       ],
-      "other_name": [
-            "survanta"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -300,12 +313,27 @@
             "attend",
             "neonatologist"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "12",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005774.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "survanta"
+      ],
+      "mesh_term": [
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult",
+            "insufficiency",
+            "valve",
+            "insufficiency",
+            "surfactant"
+      ],
+      "id": "NCT00005774"
 }

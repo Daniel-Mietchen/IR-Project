@@ -26,18 +26,21 @@
             "disease"
       ],
       "condition": [
-            "heart",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Seloken ZOK/Toprol-XL",
+            "Seloken ZOK/Toprol-XL",
+            "Placebo"
       ],
       "description": [
-            "200",
+            "mg",
             "mg"
       ],
       "other_name": [],
@@ -103,12 +106,16 @@
             "unlikely",
             "survive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038077.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "remodel"
+      ],
+      "id": "NCT00038077"
 }

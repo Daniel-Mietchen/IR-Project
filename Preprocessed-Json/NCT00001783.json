@@ -184,13 +184,13 @@
             "treat"
       ],
       "condition": [
-            "paralysis"
+            "accident"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "water"
+            "0-15 Water"
       ],
       "criteria": [
             "inclusion",
@@ -307,9 +307,14 @@
             "do",
             "admission"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001783.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thromboembolic",
+            "infarction"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001783"
 }

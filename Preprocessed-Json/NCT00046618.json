@@ -154,7 +154,9 @@
             "mutation"
       ],
       "condition": [
-            "heart",
+            "congestive",
+            "disease",
+            "disease",
             "failure",
             "congestive"
       ],
@@ -162,9 +164,15 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046618.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "dilate"
+      ],
+      "id": "NCT00046618"
 }

@@ -421,7 +421,6 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "criteria": [
@@ -819,9 +818,7 @@
             "marcaine",
             "bupivacaine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -830,6 +827,13 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006425.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006425"
 }

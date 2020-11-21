@@ -20,17 +20,12 @@
             "pneumonia",
             "sepsis"
       ],
-      "condition": [
-            "sepsis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "recombinant",
-            "chimeric",
-            "monoclonal",
-            "antibody"
+            "Recombinant Chimeric Monoclonal Antibody"
       ],
       "criteria": [
             "inclusion",
@@ -57,12 +52,19 @@
             "organ",
             "failure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042588.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pneumonia",
+            "sepsis"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00042588"
 }

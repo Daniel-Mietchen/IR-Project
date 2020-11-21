@@ -89,13 +89,13 @@
             "treatment",
             "drug"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "PI-88"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -350,12 +350,13 @@
             "evidence",
             "antibody"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068172.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00068172"
 }

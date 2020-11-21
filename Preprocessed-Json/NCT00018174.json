@@ -228,18 +228,18 @@
             "quit",
             "date"
       ],
-      "condition": [
-            "smoke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Fluoxetine",
+            "Behavioral group smoking cessation treatment",
+            "Placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -457,7 +457,7 @@
             "population",
             "smoker"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -466,6 +466,13 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018174.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nicotine",
+            "dependence"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00018174"
 }

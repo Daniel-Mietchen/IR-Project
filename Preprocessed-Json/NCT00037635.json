@@ -31,19 +31,39 @@
             "level"
       ],
       "condition": [
-            "end",
+            "hyperparathyroidism",
             "stage",
             "renal",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "AMG 073",
+            "Placebo"
       ],
       "description": [
-            "30",
+            "mg",
+            "qd",
+            "orally",
+            "60",
+            "mg",
+            "qd",
+            "orally",
+            "90",
+            "mg",
+            "qd",
+            "orally",
+            "120",
+            "mg",
+            "qd",
+            "orally",
+            "180",
+            "mg",
+            "qd",
+            "orally",
             "mg",
             "qd",
             "orally",
@@ -65,7 +85,7 @@
             "orally"
       ],
       "arm_group_label": [
-            "placebo"
+            "073"
       ],
       "criteria": [
             "patient",
@@ -84,12 +104,22 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037635.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "metastasis",
+            "disease",
+            "failure",
+            "chronic",
+            "insufficiency",
+            "chronic",
+            "secondary",
+            "hydrochloride"
+      ],
+      "id": "NCT00037635"
 }

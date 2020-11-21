@@ -283,15 +283,16 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "recombinant interferon alfa",
+            "cytarabine",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -528,7 +529,7 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -537,6 +538,19 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006343.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "positive"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "mesylate"
+      ],
+      "id": "NCT00006343"
 }

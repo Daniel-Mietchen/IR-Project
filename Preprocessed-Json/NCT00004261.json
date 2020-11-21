@@ -149,12 +149,24 @@
             "month"
       ],
       "condition": [
-            "sarcoma"
+            "cancer",
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
+            "EF5",
+            "flow cytometry",
+            "fluorescent antibody technique",
+            "immunohistochemistry staining method",
             "biopsy"
       ],
       "criteria": [
@@ -297,7 +309,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -306,6 +318,21 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004261.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00004261"
 }

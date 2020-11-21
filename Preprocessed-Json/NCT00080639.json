@@ -133,17 +133,15 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "physiologic testing",
+            "study of high risk factors"
       ],
       "study_pop": [],
       "sampling_method": [
@@ -168,22 +166,18 @@
             "least",
             "2",
             "ovarian",
-            "breast",
             "cancer",
             "among",
             "patient",
             "relative",
             "within",
-            "lineage",
             "breast",
-            "cancer",
             "require",
             "meet",
             "criterion",
             "least",
             "1",
             "breast",
-            "cancer",
             "must",
             "premenopausal",
             "diagnose",
@@ -193,7 +187,6 @@
             "status",
             "unknown",
             "note",
-            "multiple",
             "primary",
             "cancer",
             "person",
@@ -208,12 +201,10 @@
             "follow",
             "prior",
             "breast",
-            "cancer",
             "diagnosis",
             "one",
             "2",
             "relative",
-            "breast",
             "ovarian",
             "cancer",
             "breast",
@@ -224,7 +215,6 @@
             "least",
             "1",
             "breast",
-            "cancer",
             "must",
             "premenopausal",
             "diagnose",
@@ -257,7 +247,6 @@
             "relative",
             "mutation",
             "note",
-            "include",
             "ductal",
             "carcinoma",
             "situ",
@@ -390,14 +379,20 @@
             "detection",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080639.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080639"
 }

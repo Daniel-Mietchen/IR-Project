@@ -235,19 +235,15 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "radiation therapy"
       ],
-      "arm_group_label": [
-            "himrt"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -374,14 +370,19 @@
             "prostate",
             "surgery"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062309.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "prostate"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00062309"
 }

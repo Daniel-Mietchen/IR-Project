@@ -404,15 +404,26 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "radiofrequency",
-            "ablation"
+            "bevacizumab",
+            "FOLFOX regimen",
+            "fluorouracil",
+            "leucovorin calcium",
+            "oxaliplatin",
+            "conventional surgery",
+            "radiofrequency ablation"
       ],
       "criteria": [
             "disease",
@@ -701,7 +712,7 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -710,6 +721,17 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043004.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00043004"
 }

@@ -255,14 +255,16 @@
             "hcm"
       ],
       "condition": [
-            "myocardial",
+            "cardiomyopathy",
+            "ventricular",
+            "hypertrophy",
             "ischemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "losartan"
+            "Losartan"
       ],
       "criteria": [
             "inclusion",
@@ -540,9 +542,23 @@
             "monitor",
             "system"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001534.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "leave",
+            "ventricular",
+            "lv",
+            "hypertrophy"
+      ],
+      "mesh_term": [
+            "ischemia",
+            "artery",
+            "disease",
+            "hypertrophic",
+            "leave",
+            "ventricular"
+      ],
+      "id": "NCT00001534"
 }

@@ -40,16 +40,16 @@
             "study"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "paroxetine"
+            "R228060",
+            "Placebo and Paroxetine"
       ],
       "criteria": [
             "generally",
@@ -80,7 +80,7 @@
             "participate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -89,6 +89,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073203.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00073203"
 }

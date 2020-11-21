@@ -32,16 +32,16 @@
             "population"
       ],
       "condition": [
-            "chronic",
             "lymphocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "IDEC-152"
+      ],
       "description": [
-            "6",
             "dose",
             "group",
             "weekly",
@@ -70,9 +70,7 @@
             "x",
             "4"
       ],
-      "other_name": [
-            "lumiliximab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -146,12 +144,20 @@
             "breast",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00046488.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cll"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic"
+      ],
+      "id": "NCT00046488"
 }

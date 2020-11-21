@@ -177,15 +177,19 @@
             "month"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "gadopentetate",
-            "dimeglumine"
+            "iodinated contrast dye",
+            "computed tomography",
+            "magnetic resonance imaging",
+            "gadopentetate dimeglumine"
       ],
       "criteria": [
             "disease",
@@ -318,11 +322,19 @@
             "cervical",
             "cancer"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004936.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "adenosquamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00004936"
 }

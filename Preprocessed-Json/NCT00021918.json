@@ -281,14 +281,17 @@
             "record"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "mellitus",
+            "dependent",
             "mellitus"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -297,6 +300,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021918.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00021918"
 }

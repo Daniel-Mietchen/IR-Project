@@ -303,7 +303,6 @@
             "genotype"
       ],
       "condition": [
-            "coronary",
             "disease"
       ],
       "criteria": [
@@ -316,9 +315,21 @@
             "artery",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001461.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "coronary",
+            "artery",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "artery",
+            "disease",
+            "enzyme",
+            "inhibitor"
+      ],
+      "id": "NCT00001461"
 }

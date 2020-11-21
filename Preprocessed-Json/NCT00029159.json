@@ -84,20 +84,40 @@
             "variable"
       ],
       "condition": [
-            "turner",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "estrogen",
+            "androgen",
             "placebo"
       ],
       "description": [
+            "start",
+            "ethinyl",
+            "estradiol",
+            "daily",
+            "dose",
+            "begin",
+            "year",
+            "study",
+            "estrogen",
+            "continue",
+            "study",
+            "end",
+            "placebo",
+            "capsule",
+            "orally",
+            "2",
+            "year",
             "inactive",
             "substance"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "karyotype",
             "diagnosis",
@@ -135,9 +155,7 @@
             "3",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "10",
             "year"
@@ -146,6 +164,19 @@
             "14",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00029159.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "growth",
+            "hormone"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "dysgenesis",
+            "ovarian",
+            "insufficiency",
+            "conjugate",
+            "usp",
+            "acid"
+      ],
+      "id": "NCT00029159"
 }

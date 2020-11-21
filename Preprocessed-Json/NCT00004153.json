@@ -139,17 +139,15 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "procedure"
+            "Genetic",
+            "Procedure"
       ],
       "intervention_name": [
-            "sentinel",
-            "lymph",
-            "node",
-            "biopsy"
+            "reverse transcriptase-polymerase chain reaction",
+            "sentinel lymph node biopsy"
       ],
       "criteria": [
             "disease",
@@ -223,9 +221,15 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004153.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004153"
 }

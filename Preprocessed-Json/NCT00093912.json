@@ -94,22 +94,19 @@
             "safety",
             "variable"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sodium",
-            "nitroprusside"
+            "clevidipine",
+            "sodium nitroprusside"
       ],
       "arm_group_label": [
-            "sodium",
             "nitroprusside"
       ],
       "other_name": [
-            "clevidipine",
             "cleviprex"
       ],
       "criteria": [
@@ -218,12 +215,17 @@
             "determine",
             "investigator"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093912.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "perioperative",
+            "hypertension"
+      ],
+      "mesh_term": [],
+      "id": "NCT00093912"
 }

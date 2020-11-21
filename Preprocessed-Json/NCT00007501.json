@@ -695,21 +695,26 @@
             "phase"
       ],
       "condition": [
-            "postherpetic",
+            "zoster",
             "neuralgia"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "Varicella-zoster vaccine",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "ml",
+            "live",
+            "attenuate",
+            "vaccine",
             "vaccine"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
             "2"
       ],
       "criteria": [
@@ -904,12 +909,19 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007501.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vaccine"
+      ],
+      "mesh_term": [
+            "zoster",
+            "postherpetic"
+      ],
+      "id": "NCT00007501"
 }

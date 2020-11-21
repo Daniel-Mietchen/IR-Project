@@ -45,17 +45,25 @@
             "monitor"
       ],
       "condition": [
-            "pleural",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "pemetrexed",
             "cisplatin"
       ],
       "description": [
-            "75",
+            "intravenous",
+            "iv",
+            "every",
+            "21",
+            "day",
+            "x",
+            "4",
+            "cycle",
             "intravenous",
             "iv",
             "every",
@@ -66,9 +74,7 @@
             "cycle"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "alimta"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -211,12 +217,15 @@
             "evidence",
             "recurrence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087698.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00087698"
 }

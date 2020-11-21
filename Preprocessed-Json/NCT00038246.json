@@ -113,18 +113,38 @@
             "chemotherapy"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "taxol"
+            "Estramustine",
+            "Thalidomide",
+            "Paclitaxel (Taxol)"
       ],
       "description": [
-            "100",
+            "mg",
+            "mouth",
+            "po",
+            "three",
+            "time",
+            "day",
+            "day",
+            "mg",
+            "mouth",
+            "every",
+            "day",
+            "week",
+            "dose",
+            "escalation",
+            "every",
+            "week",
+            "dose",
+            "limit",
+            "toxicity",
             "vein",
             "iv",
             "3",
@@ -135,12 +155,15 @@
             "10"
       ],
       "arm_group_label": [
-            "thalidomide",
+            "taxol",
+            "estramustine",
+            "taxol",
+            "estramustine",
             "taxol",
             "estramustine"
       ],
       "other_name": [
-            "thalomid"
+            "phosphate"
       ],
       "criteria": [
             "inclusion",
@@ -518,11 +541,17 @@
             "exclude",
             "trial"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038246.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00038246"
 }

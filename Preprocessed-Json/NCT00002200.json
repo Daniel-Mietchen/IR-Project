@@ -34,15 +34,13 @@
             "receive"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "abacavir",
-            "sulfate"
+            "Abacavir sulfate"
       ],
       "criteria": [
             "inclusion",
@@ -147,12 +145,18 @@
             "patient",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002200.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002200"
 }

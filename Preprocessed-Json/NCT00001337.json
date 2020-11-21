@@ -171,18 +171,35 @@
             "protocol"
       ],
       "condition": [
-            "gray",
+            "large",
+            "lymphoma",
+            "dlbcl",
+            "mediastinal",
+            "large",
+            "lymphoma",
+            "lymphoma",
+            "lymphoma",
             "zone",
             "lymphoma"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "rituximab"
+            "EPOCH",
+            "Rituximab"
       ],
       "description": [
+            "chemotherapy",
+            "give",
             "rituximab",
+            "iv",
+            "every",
+            "3",
+            "week",
+            "6",
+            "cycle",
             "give",
             "day",
             "1",
@@ -194,9 +211,7 @@
             "6",
             "cycle"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -369,7 +384,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -378,6 +393,16 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001337.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "de",
+            "novo"
+      ],
+      "mesh_term": [
+            "lymphoma",
+            "large",
+            "diffuse",
+            "anaplastic"
+      ],
+      "id": "NCT00001337"
 }

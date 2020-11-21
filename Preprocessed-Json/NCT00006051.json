@@ -138,16 +138,18 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "fluorouracil",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -281,7 +283,7 @@
             "experimental",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -290,6 +292,18 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006051.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "larynx"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00006051"
 }

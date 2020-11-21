@@ -133,15 +133,15 @@
             "month"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "cisplatin",
+            "vinorelbine tartrate"
       ],
       "criteria": [
             "disease",
@@ -277,11 +277,19 @@
             "recent",
             "surgery"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002813.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00002813"
 }

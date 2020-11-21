@@ -156,14 +156,22 @@
             "study"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "busulfan",
+            "cyclophosphamide",
+            "allogeneic bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -337,7 +345,7 @@
             "concurrent",
             "antibiotic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -346,6 +354,19 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004896.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00004896"
 }

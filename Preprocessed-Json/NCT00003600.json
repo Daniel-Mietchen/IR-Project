@@ -197,19 +197,34 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "myeloproliferative",
+            "disorder",
+            "toxicity",
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "condition",
+            "intestine",
+            "cancer",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
+            "epoetin alfa",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "alfa"
       ],
       "criteria": [
             "disease",
@@ -355,12 +370,21 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003600.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "disorder",
+            "neoplasm",
+            "condition",
+            "alfa"
+      ],
+      "id": "NCT00003600"
 }

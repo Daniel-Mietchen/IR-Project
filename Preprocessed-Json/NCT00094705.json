@@ -161,22 +161,25 @@
             "visit"
       ],
       "condition": [
-            "dengue",
             "fever"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "rDEN2/4delta30(ME) Vaccine",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "attenuate",
+            "vaccine",
+            "one",
+            "two",
+            "dose",
             "vaccine"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -355,7 +358,7 @@
             "pregnancy",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -364,6 +367,12 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094705.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dengue",
+            "shock",
+            "syndrome"
+      ],
+      "mesh_term": [],
+      "id": "NCT00094705"
 }

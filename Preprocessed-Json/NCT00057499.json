@@ -192,19 +192,22 @@
       ],
       "condition": [
             "diabetes",
+            "mellitus",
             "mellitus"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "IBC-VS01",
+            "IBC-VS01 placebo"
       ],
       "description": [
             "placebo"
       ],
       "arm_group_label": [
-            "control",
+            "vaccine",
             "group"
       ],
       "criteria": [
@@ -310,7 +313,7 @@
             "frame",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -319,6 +322,16 @@
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057499.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00057499"
 }

@@ -46,13 +46,13 @@
             "form",
             "treatment"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "852A"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -205,12 +205,17 @@
             "pregnant",
             "lactate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095160.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "solid",
+            "organ",
+            "tumor"
+      ],
+      "id": "NCT00095160"
 }

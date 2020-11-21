@@ -508,7 +508,9 @@
             "ohsr"
       ],
       "condition": [
-            "neurofibromatosis",
+            "sarcoma",
+            "lymphoblastic",
+            "leukemia",
             "type",
             "1"
       ],
@@ -567,12 +569,22 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "35",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026780.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "screen"
+      ],
+      "mesh_term": [
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "ewing",
+            "1"
+      ],
+      "id": "NCT00026780"
 }

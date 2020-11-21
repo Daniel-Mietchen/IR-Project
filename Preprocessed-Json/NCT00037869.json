@@ -111,21 +111,17 @@
             "day"
       ],
       "condition": [
-            "metastasis",
+            "tumor",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "metaiodobenzylguanidine"
+            "I-131 Metaiodobenzylguanidine"
       ],
-      "arm_group_label": [
-            "mibg"
-      ],
-      "other_name": [
-            "mibg"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -286,12 +282,22 @@
             "body",
             "irradiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00037869.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "neuroendocrine",
+            "tumor"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "metastasis"
+      ],
+      "id": "NCT00037869"
 }

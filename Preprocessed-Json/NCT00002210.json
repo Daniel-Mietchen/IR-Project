@@ -38,15 +38,13 @@
             "nrti"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "delavirdine",
-            "mesylate"
+            "Delavirdine mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -59,7 +57,7 @@
             "level",
             "greater"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "month"
@@ -68,6 +66,16 @@
             "15",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002210.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "reverse",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00002210"
 }

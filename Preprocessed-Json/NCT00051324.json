@@ -128,7 +128,6 @@
             "test"
       ],
       "condition": [
-            "huntington",
             "disease"
       ],
       "study_pop": [],
@@ -229,12 +228,18 @@
             "provide",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051324.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hd"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00051324"
 }

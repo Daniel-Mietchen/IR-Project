@@ -373,7 +373,15 @@
             "year"
       ],
       "condition": [
-            "d",
+            "stage",
+            "plasma",
+            "cell",
+            "myeloma",
+            "stage",
+            "ii",
+            "plasma",
+            "cell",
+            "myeloma",
             "stage",
             "iii",
             "plasma",
@@ -381,23 +389,71 @@
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Other",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "thalidomide"
+            "Dexamethasone",
+            "Laboratory Biomarker Analysis",
+            "Lenalidomide",
+            "Thalidomide"
       ],
       "description": [
-            "give",
+            "po",
+            "correlative",
+            "study",
+            "po",
             "po"
       ],
       "arm_group_label": [
-            "arm",
+            "lenalidomide",
+            "dexamethasone",
+            "ii",
+            "lenalidomide",
+            "dexamethasone",
+            "iii",
+            "thalidomide",
+            "dexamethasone",
+            "iv",
+            "thalidomide",
+            "dexamethasone",
+            "lenalidomide",
+            "dexamethasone",
+            "ii",
+            "lenalidomide",
+            "dexamethasone",
+            "iii",
+            "thalidomide",
+            "dexamethasone",
+            "iv",
+            "thalidomide",
+            "dexamethasone",
+            "lenalidomide",
+            "dexamethasone",
+            "ii",
+            "lenalidomide",
+            "dexamethasone",
+            "iii",
+            "thalidomide",
+            "dexamethasone",
             "iv",
             "thalidomide",
             "dexamethasone"
       ],
       "other_name": [
-            "thalomid"
+            "dexa",
+            "depot",
+            "oftalmico",
+            "mono",
+            "n",
+            "501",
+            "phthalimide",
+            "acid",
+            "imide",
+            "2",
+            "2"
       ],
       "criteria": [
             "inclusion",
@@ -873,12 +929,19 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098475.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00098475"
 }

@@ -288,18 +288,17 @@
             "progress"
       ],
       "condition": [
-            "sleep",
+            "alzheimer",
+            "disease",
             "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "social",
-            "activity"
+            "social activity"
       ],
       "arm_group_label": [
-            "arm",
             "1"
       ],
       "criteria": [
@@ -336,14 +335,17 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013182.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "wake",
+            "disorder"
+      ],
+      "id": "NCT00013182"
 }

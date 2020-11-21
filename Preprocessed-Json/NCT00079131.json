@@ -102,29 +102,51 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
+            "ii",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
+            "iii",
+            "neuroendocrine",
+            "carcinoma",
+            "skin",
             "iv",
             "neuroendocrine",
             "carcinoma",
             "skin"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "oblimersen sodium",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "oblimersen",
+            "sodium",
             "oblimersen",
             "sodium"
       ],
       "other_name": [
-            "pharmacological",
+            "antisense",
+            "oligodeoxynucleotide",
             "study"
       ],
       "criteria": [
@@ -301,12 +323,18 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079131.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neuroendocrine",
+            "merkel",
+            "cell"
+      ],
+      "id": "NCT00079131"
 }

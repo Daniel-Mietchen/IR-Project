@@ -173,18 +173,16 @@
             "composition"
       ],
       "condition": [
-            "insulin",
+            "infection",
             "resistance"
       ],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "aerobic",
-            "weight",
-            "lift",
-            "exercise",
-            "train"
+            "rosiglitazone (Avandia)",
+            "Aerobic and weight lifting exercise training"
       ],
       "criteria": [
             "research",
@@ -271,13 +269,12 @@
             "body",
             "mass",
             "index",
-            "2",
             "total",
             "body",
             "fat",
             "weight"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -286,6 +283,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025753.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection",
+            "resistance"
+      ],
+      "id": "NCT00025753"
 }

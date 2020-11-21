@@ -56,15 +56,51 @@
             "contribute",
             "disease"
       ],
-      "condition": [
-            "psoriasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Daclizumab",
+            "NB-UVB"
+      ],
       "description": [
+            "antibody",
+            "placebo",
+            "saline",
+            "solution",
+            "give",
+            "intravenous",
+            "infusion",
+            "follow",
+            "schedule",
+            "2",
+            "initially",
+            "maximum",
+            "dose",
+            "200",
+            "mg",
+            "infusion",
+            "give",
+            "60",
+            "minute",
+            "follow",
+            "1",
+            "maximum",
+            "100",
+            "mg",
+            "infusion",
+            "give",
+            "30",
+            "minute",
+            "every",
+            "two",
+            "week",
+            "thereafter",
             "total",
+            "8",
+            "dose",
             "body",
             "dose",
             "50",
@@ -88,7 +124,7 @@
             "total"
       ],
       "arm_group_label": [
-            "narrow",
+            "placebo",
             "band",
             "ultraviolet",
             "b"
@@ -208,12 +244,18 @@
             "follow",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050661.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lesion"
+      ],
+      "mesh_term": [
+            "g"
+      ],
+      "id": "NCT00050661"
 }

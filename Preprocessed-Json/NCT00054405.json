@@ -159,25 +159,33 @@
             "week"
       ],
       "condition": [
-            "recurrent",
             "neuroblastoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "recombinant interleukin-12",
             "aldesleukin"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "aldesleukin",
             "aldesleukin"
       ],
       "other_name": [
-            "recombinant"
+            "lymphocyte",
+            "maturation",
+            "factor",
+            "killer",
+            "cell",
+            "stimulatory",
+            "factor",
+            "human"
       ],
       "criteria": [
             "inclusion",
@@ -564,7 +572,7 @@
             "cardiac",
             "arrhythmia"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -573,6 +581,7 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054405.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00054405"
 }

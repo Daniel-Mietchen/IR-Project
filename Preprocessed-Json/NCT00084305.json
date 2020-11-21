@@ -156,7 +156,6 @@
             "volunteer"
       ],
       "condition": [
-            "pulmonary",
             "fibrosis"
       ],
       "criteria": [
@@ -293,12 +292,18 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084305.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00084305"
 }

@@ -190,18 +190,20 @@
             "surgery"
       ],
       "condition": [
-            "neurologic",
+            "disease",
+            "disease",
+            "disease",
             "manifestation"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "saline"
+            "Magnesium",
+            "0.9% saline"
       ],
-      "description": [
-            "placebo"
-      ],
+      "description": [],
       "arm_group_label": [
             "saline"
       ],
@@ -219,12 +221,20 @@
             "psychiatric",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041392.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "manifestation"
+      ],
+      "id": "NCT00041392"
 }

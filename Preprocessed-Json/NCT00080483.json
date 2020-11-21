@@ -158,18 +158,29 @@
             "dexa"
       ],
       "condition": [
-            "growth",
             "hormone",
             "deficiency"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Testosterone plus somatropin",
             "testosterone"
       ],
       "description": [
-            "androgel",
+            "5",
+            "gram",
+            "transdermally",
+            "day",
+            "two",
+            "year",
+            "somatropin",
+            "2",
+            "body",
+            "two",
+            "year",
             "transdermally",
             "5",
             "g",
@@ -177,9 +188,7 @@
             "two",
             "year"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -416,14 +425,18 @@
             "object",
             "body"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080483.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "pituitary",
+            "enanthate",
+            "undecanoate",
+            "17"
+      ],
+      "id": "NCT00080483"
 }

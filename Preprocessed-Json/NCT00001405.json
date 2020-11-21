@@ -715,7 +715,6 @@
             "pid"
       ],
       "condition": [
-            "chronic",
             "granulomatous",
             "disease"
       ],
@@ -828,7 +827,6 @@
             "follow",
             "collection",
             "medically",
-            "indicate",
             "5",
             "patient",
             "childbearing",
@@ -1325,7 +1323,7 @@
             "harvest",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -1334,6 +1332,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001405.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disease",
+            "chronic"
+      ],
+      "id": "NCT00001405"
 }

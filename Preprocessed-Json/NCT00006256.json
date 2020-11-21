@@ -161,18 +161,41 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "paclitaxel",
+            "adjuvant therapy",
+            "radiation therapy"
       ],
       "description": [
-            "patient",
+            "receive",
+            "paclitaxel",
+            "iv",
+            "3",
+            "hour",
+            "every",
+            "21",
+            "day",
+            "4",
+            "course",
+            "begin",
+            "3",
+            "week",
+            "completion",
+            "last",
+            "doxorubicin",
+            "cyclophosphamide",
+            "adjuvant",
+            "regimen",
+            "cyclophosphamide",
+            "adjuvant",
+            "regimen",
             "also",
             "undergo",
             "concurrent",
@@ -369,9 +392,7 @@
             "clinical",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -380,6 +401,16 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006256.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00006256"
 }

@@ -82,14 +82,13 @@
             "outcome"
       ],
       "condition": [
-            "williams",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin"
+            "Vitamin D"
       ],
       "criteria": [
             "age",
@@ -102,7 +101,7 @@
             "normal",
             "subject"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -111,6 +110,9 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00013962.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00013962"
 }

@@ -19,13 +19,13 @@
             "period"
       ],
       "condition": [
-            "aid"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fuzeon"
+            "Fuzeon"
       ],
       "criteria": [
             "inclusion",
@@ -33,7 +33,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -42,6 +42,9 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086710.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00086710"
 }

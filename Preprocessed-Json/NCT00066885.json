@@ -193,15 +193,13 @@
             "nsclc"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "calcitriol",
-            "docetaxel"
+            "calcitriol + docetaxel"
       ],
       "criteria": [
             "inclusion",
@@ -258,12 +256,19 @@
             "patient",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066885.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "taxotere"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00066885"
 }

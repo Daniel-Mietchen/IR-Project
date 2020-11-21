@@ -234,13 +234,17 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "cancer",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug"
       ],
       "intervention_name": [
+            "smoking cessation intervention",
             "nicotine"
       ],
       "criteria": [
@@ -346,7 +350,7 @@
             "replacement",
             "product"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -355,6 +359,16 @@
             "67",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021138.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tongue",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00021138"
 }

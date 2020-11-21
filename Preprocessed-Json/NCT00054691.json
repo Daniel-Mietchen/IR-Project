@@ -188,27 +188,21 @@
             "anderson"
       ],
       "condition": [
-            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "iressa"
+            "Iressa"
       ],
       "description": [
-            "250",
             "mg",
             "mouth",
             "daily"
       ],
-      "arm_group_label": [
-            "iressa"
-      ],
-      "other_name": [
-            "gefitinib"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -400,10 +394,8 @@
             "count",
             "anc",
             "le",
-            "3",
             "platelet",
             "le",
-            "3",
             "7",
             "serum",
             "bilirubin",
@@ -516,12 +508,20 @@
             "need",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054691.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "egfr"
+      ],
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00054691"
 }

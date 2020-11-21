@@ -55,18 +55,24 @@
             "cycle"
       ],
       "condition": [
-            "stage",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "sta",
-            "4783"
+            "Paclitaxel",
+            "Carboplatin",
+            "STA 4783"
       ],
       "criteria": [
             "inclusion",
@@ -538,12 +544,17 @@
             "entry",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088088.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00088088"
 }

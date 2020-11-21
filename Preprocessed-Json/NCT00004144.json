@@ -157,7 +157,6 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -165,14 +164,17 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "bryostatin 1",
+            "gemcitabine hydrochloride"
       ],
       "arm_group_label": [
-            "bryostatin",
+            "1",
+            "gemcitabine",
+            "hydrochloride",
             "1",
             "gemcitabine",
             "hydrochloride"
@@ -336,12 +338,23 @@
             "experimental",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "1"
+      ],
+      "id": "NCT00004144"
 }

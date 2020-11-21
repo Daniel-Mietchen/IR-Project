@@ -26,16 +26,14 @@
             "4",
             "month"
       ],
-      "condition": [
-            "hypercholesterolemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparators",
-            "simvastatin",
-            "ezetimibe"
+            "MK0653A, ezetimibe (+) simvastatin",
+            "Comparators: simvastatin and ezetimibe"
       ],
       "criteria": [
             "inclusion",
@@ -61,7 +59,7 @@
             "require",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -70,6 +68,15 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092651.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "hypercholesterolemia"
+      ],
+      "mesh_term": [
+            "simvastatin",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00092651"
 }

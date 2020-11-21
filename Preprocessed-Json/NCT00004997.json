@@ -161,14 +161,15 @@
             "enzyme"
       ],
       "condition": [
-            "myelodysplastic",
+            "minus",
+            "syndrome",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin"
+            "Leucovorin"
       ],
       "criteria": [
             "patient",
@@ -284,9 +285,15 @@
             "must",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004997.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "myelodysplastic"
+      ],
+      "mesh_term": [
+            "syndrome"
+      ],
+      "id": "NCT00004997"
 }

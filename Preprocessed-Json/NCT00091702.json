@@ -224,16 +224,15 @@
             "month"
       ],
       "condition": [
-            "influenza"
+            "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "inactivate",
-            "influenza",
-            "vaccine",
-            "iaiv"
+            "Cold-adapted live attenuated influenza vaccine (FluMist)",
+            "Inactivated influenza vaccine (IAIV)"
       ],
       "criteria": [
             "inclusion",
@@ -419,7 +418,7 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -428,6 +427,14 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091702.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "human",
+            "infection"
+      ],
+      "id": "NCT00091702"
 }

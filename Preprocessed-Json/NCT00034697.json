@@ -57,11 +57,12 @@
             "cancer"
       ],
       "condition": [
-            "brain",
+            "neoplasm",
+            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "temozolomide"
@@ -155,12 +156,23 @@
             "relate",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034697.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "metastasis",
+            "neoplasm"
+      ],
+      "id": "NCT00034697"
 }

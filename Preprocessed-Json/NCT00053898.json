@@ -269,23 +269,32 @@
             "accrual"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "anastrozole",
+            "tamoxifen citrate",
+            "Radiation Therapy"
       ],
       "description": [
-            "adjuvant",
+            "placebo",
+            "5",
+            "year",
+            "placebo",
+            "5",
+            "year",
             "radiation",
             "therapy"
       ],
       "arm_group_label": [
-            "group",
+            "2",
+            "1",
+            "1",
             "2"
       ],
       "criteria": [
@@ -687,11 +696,21 @@
             "protocol",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053898.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ductal",
+            "breast",
+            "carcinoma",
+            "situ"
+      ],
+      "mesh_term": [
+            "situ",
+            "ductal",
+            "intraductal",
+            "noninfiltrating"
+      ],
+      "id": "NCT00053898"
 }

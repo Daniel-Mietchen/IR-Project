@@ -60,17 +60,13 @@
             "irinotecan"
       ],
       "condition": [
-            "colorectal",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "velcade",
-            "tm",
-            "bortezomib",
-            "injection"
+            "VELCADE TM (bortezomib) for Injection, or PS-341"
       ],
       "criteria": [
             "inclusion",
@@ -503,12 +499,15 @@
             "week",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051987.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00051987"
 }

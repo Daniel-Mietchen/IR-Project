@@ -317,15 +317,28 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "therapeutic allogeneic lymphocytes",
+            "cyclophosphamide",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "methotrexate",
+            "mycophenolate mofetil",
+            "tacrolimus",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -494,7 +507,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -503,6 +516,20 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00041288.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "small",
+            "lymphocytic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00041288"
 }

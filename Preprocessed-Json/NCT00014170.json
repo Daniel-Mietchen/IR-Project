@@ -196,25 +196,43 @@
             "month"
       ],
       "condition": [
-            "adult",
+            "giant",
+            "cell",
+            "glioblastoma",
+            "glioblastoma",
             "gliosarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "gefitinib",
+            "pharmacological study",
+            "laboratory biomarker analysis",
+            "questionnaire administration",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "orally",
+            "study",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "gefitinib",
+            "gefitinib",
+            "gefitinib",
+            "gefitinib",
             "gefitinib"
       ],
       "other_name": [
-            "quality",
+            "1839",
+            "study",
             "life",
             "assessment"
       ],
@@ -322,12 +340,13 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014170.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00014170"
 }

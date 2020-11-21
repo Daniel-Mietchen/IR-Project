@@ -149,18 +149,14 @@
             "field"
       ],
       "condition": [
-            "brain",
+            "injury",
             "concussion"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "head",
-            "impact",
-            "record",
-            "technology",
-            "hirt"
+            "Head Impact Recording Technology (HIRT)"
       ],
       "criteria": [
             "inclusion",
@@ -169,9 +165,7 @@
             "football",
             "player"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -180,6 +174,16 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00060827.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mild",
+            "traumatic",
+            "brain",
+            "injury"
+      ],
+      "mesh_term": [
+            "injury",
+            "concussion"
+      ],
+      "id": "NCT00060827"
 }

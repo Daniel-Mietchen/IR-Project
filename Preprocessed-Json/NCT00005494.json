@@ -286,20 +286,34 @@
             "record"
       ],
       "condition": [
+            "disease",
+            "disease",
+            "disease",
+            "heart",
+            "disease",
+            "risk",
+            "reduction",
             "neoplasm"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005494.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia",
+            "neoplasm"
+      ],
+      "id": "NCT00005494"
 }

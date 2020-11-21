@@ -107,31 +107,42 @@
             "toxicity"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "adenocarcinoma",
+            "pancreas",
+            "cell",
+            "adenocarcinoma",
+            "pancreas",
+            "pancreatic",
+            "cancer",
+            "iii",
+            "pancreatic",
+            "cancer",
             "iv",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bryostatin",
-            "1"
+            "paclitaxel",
+            "bryostatin 1"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "paclitaxel",
+            "bryostatin",
+            "1",
             "paclitaxel",
             "bryostatin",
             "1"
       ],
-      "other_name": [
-            "bryostatin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -293,12 +304,19 @@
             "compliance",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031694.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "acinar",
+            "cell",
+            "1",
+            "paclitaxel"
+      ],
+      "id": "NCT00031694"
 }

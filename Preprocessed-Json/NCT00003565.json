@@ -91,7 +91,11 @@
             "physician"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -99,14 +103,12 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "docetaxel"
       ],
-      "arm_group_label": [
-            "docetaxel"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -320,12 +322,27 @@
             "agent",
             "nefazodone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003565.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "salivary",
+            "gland",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "bladder",
+            "neoplasm"
+      ],
+      "id": "NCT00003565"
 }

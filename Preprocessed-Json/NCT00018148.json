@@ -41,18 +41,26 @@
             "patch",
             "treatment"
       ],
-      "condition": [
-            "smoke"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "transdermal",
-            "nicotine"
+            "nortriptyline",
+            "transdermal nicotine"
       ],
       "description": [
+            "titrate",
+            "75",
+            "mg",
+            "daily",
+            "tolerate",
+            "combine",
             "transdermal",
+            "nicotine",
+            "21",
+            "mg",
             "nicotine",
             "21",
             "mg",
@@ -60,9 +68,7 @@
             "plus",
             "placebo"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -81,7 +87,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -90,6 +96,11 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018148.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "smoke",
+            "cessation"
+      ],
+      "mesh_term": [],
+      "id": "NCT00018148"
 }

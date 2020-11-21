@@ -196,14 +196,14 @@
             "lipoprotein"
       ],
       "condition": [
-            "hypertension"
+            "disease",
+            "disease"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "diet",
-            "therapy"
+            "Diet therapy"
       ],
       "criteria": [
             "trial",
@@ -304,12 +304,16 @@
             "per",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051350.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00051350"
 }

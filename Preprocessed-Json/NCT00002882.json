@@ -237,18 +237,60 @@
             "enter"
       ],
       "condition": [
-            "skin",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "Aldesleukin (IL-2)",
+            "Recombinant Interferon Alfa (IFN-A)",
+            "Cisplatin",
+            "Dacarbazine",
+            "Vinblastine",
+            "Adjuvant Therapy"
       ],
       "description": [
-            "patient",
+            "total",
+            "96",
+            "hour",
+            "day",
+            "therapy",
+            "group",
+            "iv",
+            "induction",
+            "5",
+            "time",
+            "week",
+            "4",
+            "week",
+            "follow",
+            "subcutaneous",
+            "maintenance",
+            "3",
+            "time",
+            "week",
+            "48",
+            "b",
+            "subcutaneous",
+            "3",
+            "time",
+            "week",
+            "52",
+            "biochemotherapy",
+            "group",
+            "give",
+            "subcutaneously",
+            "day",
+            "day",
+            "day",
+            "1",
+            "day",
             "receive",
             "adjuvant",
             "radiotherapy",
@@ -266,12 +308,19 @@
             "radiotherapy"
       ],
       "arm_group_label": [
-            "adjuvant",
+            "biochemotherapy",
+            "therapy",
+            "schedule",
+            "therapy",
+            "schedule",
+            "b",
+            "biochemotherapy",
+            "biochemotherapy",
+            "biochemotherapy",
+            "biochemotherapy",
             "biochemotherapy"
       ],
-      "other_name": [
-            "velban"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -424,7 +473,7 @@
             "synthetase",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -433,6 +482,14 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002882.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002882"
 }

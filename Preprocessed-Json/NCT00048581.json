@@ -65,17 +65,47 @@
             "study"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "abatacept"
+            "Abatacept",
+            "Placebo",
+            "Abatacept"
       ],
       "description": [
-            "vial",
+            "intravenous",
+            "iv",
+            "abatacept",
+            "one",
+            "every",
+            "2",
+            "week",
+            "first",
+            "month",
+            "every",
+            "4",
+            "week",
+            "thereafter",
+            "6",
+            "month",
+            "iv",
+            "one",
+            "every",
+            "2",
+            "week",
+            "first",
+            "month",
+            "every",
+            "4",
+            "week",
+            "thereafter",
+            "6",
+            "month",
             "iv",
             "abatacept",
             "every",
@@ -84,7 +114,6 @@
             "year"
       ],
       "arm_group_label": [
-            "abatacept",
             "long",
             "term"
       ],
@@ -149,12 +178,16 @@
             "previous",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048581.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid",
+            "agent"
+      ],
+      "id": "NCT00048581"
 }

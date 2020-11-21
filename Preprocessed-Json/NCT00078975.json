@@ -147,17 +147,19 @@
             "month"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "gemcitabine hydrochloride",
             "triapine"
       ],
       "arm_group_label": [
-            "triapine",
+            "combination",
+            "gemcitabine",
             "combination",
             "gemcitabine"
       ],
@@ -353,7 +355,7 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -362,6 +364,15 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078975.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00078975"
 }

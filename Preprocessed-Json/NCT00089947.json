@@ -116,16 +116,14 @@
             "enrol"
       ],
       "condition": [
-            "graft",
+            "transplantation",
             "rejection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "thymoglobulin",
-            "globulin",
-            "rabbit"
+            "Thymoglobulin [Anti-Thymocyte Globulin (Rabbit)]"
       ],
       "criteria": [
             "inclusion",
@@ -296,12 +294,22 @@
             "cardiac",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089947.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "induction",
+            "therapy",
+            "reduction",
+            "calcineurin",
+            "inhibitor"
+      ],
+      "mesh_term": [
+            "serum"
+      ],
+      "id": "NCT00089947"
 }

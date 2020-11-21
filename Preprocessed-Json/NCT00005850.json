@@ -105,18 +105,63 @@
             "administration"
       ],
       "condition": [
-            "lung",
+            "disorder",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "cisplatin",
+            "fluoxetine",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "1000",
+            "administer",
+            "intravenous",
+            "iv",
+            "30",
+            "minute",
+            "day",
+            "1",
+            "follow",
+            "gemcitabine",
+            "infusion",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "total",
+            "6",
+            "cycle",
+            "mg",
+            "po",
+            "qd",
+            "mouth",
+            "daily",
+            "start",
+            "week",
+            "2",
+            "day",
+            "8",
+            "continue",
+            "7",
+            "week",
+            "day",
+            "7",
+            "week",
+            "fluoxetine",
+            "treatment",
+            "day",
+            "57",
+            "use",
+            "fluoxetine",
+            "discretion",
+            "patient",
+            "physician",
             "intravenous",
             "iv",
             "administer",
@@ -136,7 +181,10 @@
             "cycle"
       ],
       "arm_group_label": [
-            "gemcitabine",
+            "cisplatin",
+            "fluoxetine",
+            "cisplatin",
+            "fluoxetine",
             "cisplatin",
             "fluoxetine"
       ],
@@ -360,9 +408,17 @@
             "x",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005850.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "depression"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "disorder"
+      ],
+      "id": "NCT00005850"
 }

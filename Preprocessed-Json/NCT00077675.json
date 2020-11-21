@@ -42,19 +42,23 @@
             "patient"
       ],
       "condition": [
-            "infection",
             "bacterial"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vancomycin",
-            "antistaphylococcal",
-            "penicillin"
+            "Telavancin",
+            "vancomycin or antistaphylococcal penicillin"
       ],
       "description": [
-            "vancomycin",
+            "amend",
+            "10",
+            "iv",
+            "intravenously",
+            "14",
+            "day",
             "1",
             "gram",
             "iv",
@@ -82,13 +86,10 @@
             "day"
       ],
       "arm_group_label": [
-            "standard",
             "care",
             "csssi"
       ],
-      "other_name": [
-            "vibativ"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -192,12 +193,21 @@
             "gangrene",
             "mediastinitis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077675.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "wind",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00077675"
 }

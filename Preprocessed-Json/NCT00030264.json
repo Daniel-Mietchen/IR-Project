@@ -151,17 +151,39 @@
             "year"
       ],
       "condition": [
-            "precancerous",
+            "type",
+            "1",
             "condition"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinblastine"
+            "Methotrexate",
+            "Vinblastine"
       ],
       "description": [
-            "vinblastine",
+            "give",
+            "dose",
+            "intramuscular",
+            "im",
+            "intravenous",
+            "iv",
+            "first",
+            "26",
+            "week",
+            "every",
+            "2",
+            "week",
+            "next",
+            "26",
+            "week",
+            "disease",
+            "progression",
+            "whichever",
+            "occur",
+            "first",
             "give",
             "dose",
             "intravenous",
@@ -187,7 +209,7 @@
             "exceed"
       ],
       "arm_group_label": [
-            "methotrexate",
+            "vinblastine",
             "vinblastine"
       ],
       "criteria": [
@@ -629,12 +651,24 @@
             "response",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030264.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurofibromatosis",
+            "type",
+            "1"
+      ],
+      "mesh_term": [
+            "condition",
+            "1",
+            "sheath",
+            "neoplasm",
+            "plexiform"
+      ],
+      "id": "NCT00030264"
 }

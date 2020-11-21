@@ -275,26 +275,32 @@
             "year"
       ],
       "condition": [
-            "prostate",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "screen",
-            "questionnaire",
-            "administration"
+            "Laboratory Biomarker Analysis",
+            "Medical Examination",
+            "Screening Questionnaire Administration"
       ],
       "description": [
-            "undergo",
+            "study",
+            "dre",
             "questionnaire",
             "assessment"
       ],
       "arm_group_label": [
-            "prostate",
+            "screen",
+            "screen",
             "screen"
       ],
       "other_name": [
-            "medical",
+            "assessment",
+            "exam",
             "inspection"
       ],
       "criteria": [
@@ -406,9 +412,7 @@
             "three",
             "year"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "55",
             "year"
@@ -417,6 +421,9 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002540.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002540"
 }

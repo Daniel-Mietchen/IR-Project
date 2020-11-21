@@ -324,18 +324,25 @@
             "year"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "paclitaxel",
+            "topotecan hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -565,9 +572,7 @@
             "antiarrhythmic",
             "drug"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -576,6 +581,16 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005612.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00005612"
 }

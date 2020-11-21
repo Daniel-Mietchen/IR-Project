@@ -128,7 +128,6 @@
             "progression",
             "unacceptable",
             "toxicity",
-            "patient",
             "follow",
             "every",
             "3",
@@ -142,7 +141,6 @@
             "year",
             "registration",
             "note",
-            "patient",
             "develop",
             "cns",
             "metastasis",
@@ -176,24 +174,26 @@
             "study"
       ],
       "condition": [
-            "recurrent",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "imatinib mesylate",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
@@ -358,12 +358,19 @@
             "imatinib",
             "mesylate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052949.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "mesylate"
+      ],
+      "id": "NCT00052949"
 }

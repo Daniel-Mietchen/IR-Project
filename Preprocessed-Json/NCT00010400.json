@@ -59,14 +59,17 @@
             "thereafter"
       ],
       "condition": [
-            "antiphospholipid",
+            "lupus",
+            "erythematosus",
             "antibody",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "Cyclophosphamide",
             "filgrastim"
       ],
       "criteria": [
@@ -167,7 +170,7 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -176,6 +179,17 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010400.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "systemic",
+            "lupus",
+            "erythematosus"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic",
+            "syndrome",
+            "antiphospholipid"
+      ],
+      "id": "NCT00010400"
 }

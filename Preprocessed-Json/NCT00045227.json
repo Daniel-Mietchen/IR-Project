@@ -244,13 +244,20 @@
             "month"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "recombinant fowlpox-prostate specific antigen vaccine",
+            "recombinant vaccinia prostate-specific antigen vaccine",
+            "recombinant vaccinia-B7.1 vaccine",
+            "sargramostim",
             "docetaxel"
       ],
       "criteria": [
@@ -612,14 +619,21 @@
             "prior",
             "therapy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045227.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00045227"
 }

@@ -172,29 +172,39 @@
             "monthly"
       ],
       "condition": [
-            "relapse",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelogenous",
+            "leukemia",
+            "positive",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "imatinib mesylate",
             "cytarabine"
       ],
       "description": [
-            "give",
+            "po",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
+            "cytarabine",
             "imatinib",
             "mesylate",
             "cytarabine"
       ],
       "other_name": [
-            "cytosine",
+            "57148",
             "arabinoside"
       ],
       "criteria": [
@@ -355,12 +365,20 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015834.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "crisis",
+            "mesylate"
+      ],
+      "id": "NCT00015834"
 }

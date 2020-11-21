@@ -125,14 +125,13 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "sarcnu"
+            "SarCNU"
       ],
       "criteria": [
             "disease",
@@ -392,12 +391,24 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028015.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "nitrosoamino",
+            "carbonyl",
+            "amino",
+            "propanamide"
+      ],
+      "id": "NCT00028015"
 }

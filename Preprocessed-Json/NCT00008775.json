@@ -103,16 +103,13 @@
             "psv"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "pressure",
-            "support",
-            "ventilation"
+            "Pressure support ventilation"
       ],
       "criteria": [
             "cystic",
@@ -121,7 +118,7 @@
             "pulmonary",
             "exacerbation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
@@ -130,6 +127,9 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008775.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrosis"
+      ],
+      "id": "NCT00008775"
 }

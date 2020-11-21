@@ -81,7 +81,6 @@
             "monitor"
       ],
       "condition": [
-            "coagulation",
             "disorder"
       ],
       "criteria": [
@@ -100,12 +99,20 @@
             "anticoagulation",
             "clinic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071682.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "clot"
+      ],
+      "mesh_term": [
+            "coagulation",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00071682"
 }

@@ -32,14 +32,16 @@
             "treatment",
             "schizophrenia"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "risperidone"
+            "Divalproex Sodium Extended-Release Tablets",
+            "Olanzapine",
+            "Risperidone"
       ],
       "criteria": [
             "key",
@@ -209,7 +211,7 @@
             "30",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -218,6 +220,10 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00073164.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "acid",
+            "agent"
+      ],
+      "id": "NCT00073164"
 }

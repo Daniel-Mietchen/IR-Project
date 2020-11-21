@@ -522,7 +522,6 @@
             "first"
       ],
       "condition": [
-            "brain",
             "tumor"
       ],
       "criteria": [
@@ -765,7 +764,7 @@
             "area",
             "tumor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -774,6 +773,12 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00067821.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pet"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00067821"
 }

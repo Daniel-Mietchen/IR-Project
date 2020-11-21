@@ -131,18 +131,27 @@
             "study"
       ],
       "condition": [
-            "gastric",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "paclitaxel",
-            "taxol"
+            "Bryostatin-1",
+            "Paclitaxel (Taxol)"
       ],
       "description": [
-            "80",
+            "infusion",
+            "24",
+            "hour",
+            "dose",
+            "paclitaxel",
+            "day",
+            "2",
+            "9",
+            "16",
             "infusion",
             "weekly",
             "x",
@@ -152,11 +161,10 @@
             "week"
       ],
       "arm_group_label": [
+            "taxol",
             "taxol"
       ],
-      "other_name": [
-            "taxol"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -519,12 +527,22 @@
             "truly",
             "lesion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006081.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "1",
+            "paclitaxel"
+      ],
+      "id": "NCT00006081"
 }

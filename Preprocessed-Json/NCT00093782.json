@@ -168,27 +168,38 @@
             "survival"
       ],
       "condition": [
-            "recurrent",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
+            "carcinoid",
+            "tumor",
+            "gastrointestinal",
+            "carcinoid",
+            "tumor",
             "islet",
             "cell",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -657,12 +668,22 @@
             "therapy",
             "indicate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093782.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "neuroendocrine",
+            "carcinoid",
+            "syndrome",
+            "neoplasm",
+            "islet",
+            "cell"
+      ],
+      "id": "NCT00093782"
 }

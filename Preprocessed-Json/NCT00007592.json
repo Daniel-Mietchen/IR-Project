@@ -277,14 +277,14 @@
             "center",
             "participate"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "furosemide"
+            "Chlorthalidone",
+            "Furosemide"
       ],
       "criteria": [
             "patient",
@@ -294,12 +294,19 @@
             "program",
             "clinic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007592.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cost",
+            "different",
+            "antihypertensive",
+            "regimen"
+      ],
+      "mesh_term": [],
+      "id": "NCT00007592"
 }

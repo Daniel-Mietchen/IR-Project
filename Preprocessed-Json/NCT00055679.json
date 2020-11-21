@@ -192,17 +192,24 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
+            "epirubicin hydrochloride",
             "fluorouracil"
       ],
       "arm_group_label": [
-            "4",
+            "fec",
+            "fec",
+            "fec",
+            "fec",
+            "fec",
             "fec"
       ],
       "criteria": [
@@ -387,9 +394,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -398,6 +403,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055679.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00055679"
 }

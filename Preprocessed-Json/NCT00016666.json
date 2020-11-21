@@ -362,13 +362,14 @@
             "placebo"
       ],
       "condition": [
-            "healthy"
+            "affective",
+            "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "propranolol"
+            "Propranolol"
       ],
       "criteria": [
             "inclusion",
@@ -531,7 +532,7 @@
             "exclude",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -540,6 +541,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016666.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "sad"
+      ],
+      "mesh_term": [
+            "disorder",
+            "affective",
+            "disorder"
+      ],
+      "id": "NCT00016666"
 }

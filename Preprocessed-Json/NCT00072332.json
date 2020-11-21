@@ -191,7 +191,8 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -199,9 +200,11 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cisplatin",
             "edotecarin"
       ],
       "criteria": [
@@ -221,7 +224,6 @@
             "confirm",
             "esophageal",
             "gastric",
-            "cancer",
             "meet",
             "follow",
             "criterion",
@@ -248,7 +250,6 @@
             "ct",
             "scan",
             "note",
-            "patient",
             "esophageal",
             "gastric",
             "cancer",
@@ -404,7 +405,6 @@
             "systemic",
             "therapy",
             "metastatic",
-            "cancer",
             "antibody",
             "therapy",
             "immunotherapy",
@@ -426,7 +426,6 @@
             "therapy",
             "immunotherapy",
             "note",
-            "patient",
             "esophageal",
             "gastric",
             "cancer",
@@ -436,7 +435,6 @@
             "chemotherapy",
             "regimen",
             "metastatic",
-            "disease",
             "prior",
             "chemotherapy",
             "require",
@@ -471,11 +469,9 @@
             "radiotherapy",
             "sole",
             "measurable",
-            "lesion",
             "concurrent",
             "radiotherapy",
             "note",
-            "patient",
             "esophageal",
             "gastric",
             "cancer",
@@ -498,14 +494,12 @@
             "dose",
             "prior",
             "adjuvant",
-            "therapy",
             "prior",
             "treatment",
             "follow",
             "systemic",
             "therapy",
             "metastatic",
-            "cancer",
             "inhibitor",
             "matrix",
             "metalloprotease",
@@ -529,17 +523,26 @@
             "experimental",
             "drug",
             "note",
-            "patient",
             "esophageal",
             "gastric",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072332.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "gastric",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00072332"
 }

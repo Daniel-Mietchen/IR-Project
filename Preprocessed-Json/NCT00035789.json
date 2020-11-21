@@ -41,15 +41,14 @@
             "negative"
       ],
       "condition": [
-            "chronic",
             "hepatitis",
             "b"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "entecavir"
+            "Entecavir"
       ],
       "criteria": [
             "male",
@@ -109,12 +108,18 @@
             "famciclovir",
             "lamivudine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035789.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "chronic",
+            "b",
+            "b",
+            "chronic"
+      ],
+      "id": "NCT00035789"
 }

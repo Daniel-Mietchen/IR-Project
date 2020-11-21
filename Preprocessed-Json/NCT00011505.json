@@ -509,15 +509,16 @@
             "future"
       ],
       "condition": [
-            "diamond",
             "blackfan",
             "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "leukapheresis"
+            "G-CSF",
+            "Leukapheresis"
       ],
       "criteria": [
             "inclusion",
@@ -665,9 +666,14 @@
             "study",
             "integrity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00011505.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "healthy",
+            "volunteer"
+      ],
+      "mesh_term": [],
+      "id": "NCT00011505"
 }

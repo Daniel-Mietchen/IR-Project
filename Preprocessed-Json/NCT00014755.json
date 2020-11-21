@@ -153,13 +153,22 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "anti-thymocyte globulin",
+            "cyclophosphamide",
+            "filgrastim",
+            "prednisone",
+            "peripheral blood stem cell transplantation",
             "irradiation"
       ],
       "criteria": [
@@ -306,7 +315,7 @@
             "pregnant",
             "nurse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -315,6 +324,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014755.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "sclerosis",
+            "serum"
+      ],
+      "id": "NCT00014755"
 }

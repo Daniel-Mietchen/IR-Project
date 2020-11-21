@@ -260,21 +260,65 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "melanoma",
+            "ia",
+            "melanoma",
+            "ib",
+            "melanoma",
+            "iia",
+            "melanoma",
+            "iib",
+            "melanoma",
+            "iic",
+            "melanoma",
+            "iiia",
+            "melanoma",
+            "iiib",
+            "melanoma",
             "iiic",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "HPV 16 E7:12-20",
+            "gp100:209-217(210M)",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
+            "hpv",
+            "16",
+            "every",
+            "2",
+            "week",
+            "hpv",
+            "16",
+            "every",
+            "3",
+            "week",
+            "hpv",
+            "16",
+            "every",
+            "2",
+            "week",
+            "hpv",
+            "16",
+            "every",
+            "3",
+            "week",
+            "hpv",
+            "16",
+            "every",
+            "2",
+            "week",
             "hpv",
             "16",
             "every",
@@ -500,12 +544,13 @@
             "risk",
             "recurrence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003895.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00003895"
 }

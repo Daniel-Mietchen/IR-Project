@@ -290,20 +290,35 @@
             "condition"
       ],
       "condition": [
-            "depression"
+            "disease",
+            "disease",
+            "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Behavioral",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "usual",
-            "care"
+            "Psychoeducation; Treatment recommendations",
+            "Pharmacotherapy",
+            "Usual Care"
       ],
       "description": [
+            "program",
+            "recommendation",
+            "patient",
+            "pcp",
+            "medication",
+            "treat",
+            "depression",
             "physician",
             "usual",
             "care"
       ],
       "arm_group_label": [
-            "depress",
+            "intervention",
+            "intervention",
             "usual",
             "care"
       ],
@@ -432,7 +447,7 @@
             "treatment",
             "depression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -441,6 +456,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00091962.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00091962"
 }

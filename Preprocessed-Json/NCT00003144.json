@@ -200,11 +200,10 @@
             "study",
             "patient",
             "accrue",
-            "second",
-            "stage"
+            "second"
       ],
       "condition": [
-            "unspecified",
+            "toxicity",
             "adult",
             "solid",
             "tumor",
@@ -212,11 +211,14 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "amifostine trihydrate",
+            "cisplatin",
+            "gemcitabine hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -279,12 +281,16 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003144"
 }

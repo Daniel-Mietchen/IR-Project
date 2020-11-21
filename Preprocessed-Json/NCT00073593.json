@@ -29,19 +29,65 @@
             "surgery"
       ],
       "condition": [
-            "coronary",
+            "surgery",
             "artery",
             "bypass",
             "surgery"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "protamine"
+            "Bivalirudin",
+            "Heparin",
+            "Protamine"
       ],
       "description": [
+            "mg",
+            "vial",
+            "administer",
+            "intravenous",
+            "iv",
+            "bolus",
+            "iv",
+            "infusion",
+            "duration",
+            "surgery",
+            "option",
+            "increase",
+            "decrease",
+            "infusion",
+            "increment",
+            "administer",
+            "additional",
+            "bolus",
+            "maintain",
+            "activate",
+            "clot",
+            "time",
+            "act",
+            "300",
+            "second",
             "per",
+            "institutional",
+            "practice",
+            "iv",
+            "bolus",
+            "achieve",
+            "target",
+            "act",
+            "300",
+            "follow",
+            "bolus",
+            "need",
+            "surgery",
+            "target",
+            "act",
+            "batch",
+            "hospital",
+            "stock",
             "institutional",
             "practice",
             "batch",
@@ -251,12 +297,20 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00073593.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "patient",
+            "require",
+            "cabg"
+      ],
+      "mesh_term": [
+            "heparin"
+      ],
+      "id": "NCT00073593"
 }

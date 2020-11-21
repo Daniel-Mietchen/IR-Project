@@ -25,14 +25,14 @@
             "paroxetine",
             "desipramine"
       ],
-      "condition": [
-            "depression"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "desipramine"
+            "paroxetine",
+            "Desipramine"
       ],
       "criteria": [
             "diagnosis",
@@ -49,7 +49,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -58,6 +58,13 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018733.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "agent"
+      ],
+      "id": "NCT00018733"
 }

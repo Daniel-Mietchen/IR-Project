@@ -59,20 +59,39 @@
             "care"
       ],
       "condition": [
-            "non",
             "small",
             "cell",
             "lung",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "pemetrexed",
+            "gemcitabine",
             "cisplatin"
       ],
       "description": [
-            "75",
+            "iv",
+            "q",
+            "21",
+            "day",
+            "x",
+            "6",
+            "cycle",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "q",
+            "21",
+            "day",
+            "x",
+            "6",
+            "cycle",
             "iv",
             "q",
             "21",
@@ -81,12 +100,8 @@
             "6",
             "cycle"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "gemzar"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -166,12 +181,16 @@
             "control",
             "drainage"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087711.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "neoplasm"
+      ],
+      "id": "NCT00087711"
 }

@@ -42,16 +42,13 @@
             "accelerometry"
       ],
       "condition": [
-            "essential",
             "tremor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "treatment",
-            "essential",
-            "tremor"
+            "treatments for essential tremor"
       ],
       "criteria": [
             "1",
@@ -80,12 +77,15 @@
             "comply",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00018564.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "tremor"
+      ],
+      "id": "NCT00018564"
 }

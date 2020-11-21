@@ -108,15 +108,19 @@
             "rtis"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "delavirdine",
-            "mesylate"
+            "Ritonavir",
+            "Nelfinavir mesylate",
+            "Saquinavir",
+            "Delavirdine mesylate"
       ],
       "criteria": [
             "inclusion",
@@ -143,12 +147,19 @@
             "treatment",
             "antiretrovirals"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002178.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002178"
 }

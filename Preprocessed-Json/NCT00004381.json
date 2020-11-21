@@ -79,16 +79,16 @@
             "indicate"
       ],
       "condition": [
-            "hemolytic",
+            "dehydrogenase",
+            "deficiency",
             "disease",
             "newborn"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tin",
-            "mesoporphyrin"
+            "tin mesoporphyrin"
       ],
       "criteria": [
             "protocol",
@@ -163,12 +163,22 @@
             "rubella",
             "syphilis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "24",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004381.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "fetal",
+            "dehydrogenase",
+            "deficiency",
+            "mesoporphyrin"
+      ],
+      "id": "NCT00004381"
 }

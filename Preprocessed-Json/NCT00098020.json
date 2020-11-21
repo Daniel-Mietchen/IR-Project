@@ -502,17 +502,21 @@
             "hip"
       ],
       "condition": [
-            "glomerulosclerosis",
+            "glomerulopathy",
             "focal",
             "segmental"
       ],
       "intervention_type": [
-            "drug"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Drug"
       ],
       "intervention_name": [
-            "retinoids",
-            "podocyte",
-            "disease"
+            "Kidney needle biopsy",
+            "DEXA Scan",
+            "X-rays",
+            "Retinoids for Podocyte Disease"
       ],
       "criteria": [
             "inclusion",
@@ -980,12 +984,20 @@
             "le",
             "cm"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098020.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nephrotic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "focal",
+            "segmental"
+      ],
+      "id": "NCT00098020"
 }

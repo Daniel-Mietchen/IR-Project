@@ -555,6 +555,11 @@
             "provider"
       ],
       "condition": [
+            "ovarian",
+            "cancer",
+            "breast",
+            "cancer",
+            "malignancy",
             "malignancy"
       ],
       "criteria": [
@@ -736,7 +741,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -745,6 +750,12 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00040222.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "syndrome"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00040222"
 }

@@ -260,14 +260,14 @@
             "study"
       ],
       "condition": [
-            "macular",
+            "neovascularization",
             "degeneration"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "corticosteroid"
+            "Corticosteroid"
       ],
       "criteria": [
             "diagnosis",
@@ -504,9 +504,17 @@
             "contain",
             "steroid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001615.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "corticosteroid"
+      ],
+      "mesh_term": [
+            "degeneration",
+            "neovascularization",
+            "pathologic"
+      ],
+      "id": "NCT00001615"
 }

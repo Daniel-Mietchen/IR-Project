@@ -370,7 +370,19 @@
             "year"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "germ",
+            "cell",
+            "tumor",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific",
             "childhood",
             "solid",
             "tumor",
@@ -378,15 +390,32 @@
             "specific"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "busulfan",
+            "carboplatin",
+            "carmustine",
+            "cyclophosphamide",
+            "etoposide",
+            "melphalan",
+            "thiotepa",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
-      "description": [
-            "body"
-      ],
+      "description": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -436,7 +465,6 @@
             "blast",
             "phase",
             "lymphoproliferative",
-            "disease",
             "chronic",
             "lymphocytic",
             "leukemia",
@@ -447,7 +475,6 @@
             "lymphoma",
             "nhl",
             "note",
-            "recurrent",
             "persistent",
             "symptomatic",
             "disease",
@@ -636,7 +663,6 @@
             "greater",
             "20",
             "marrow",
-            "fibrosis",
             "note",
             "marrow",
             "storage",
@@ -839,12 +865,30 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060255.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "myeloma",
+            "plasma",
+            "cell",
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00060255"
 }

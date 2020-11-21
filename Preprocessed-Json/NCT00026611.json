@@ -102,15 +102,12 @@
             "smallpox",
             "vaccination"
       ],
-      "condition": [
-            "smallpox"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "dryvax",
-            "vaccine"
+            "Dryvax vaccine"
       ],
       "criteria": [
             "inclusion",
@@ -274,7 +271,7 @@
             "breast",
             "feed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -283,6 +280,11 @@
             "32",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00026611.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "vaccine",
+            "prophylaxis"
+      ],
+      "mesh_term": [],
+      "id": "NCT00026611"
 }

@@ -207,15 +207,21 @@
             "study"
       ],
       "condition": [
-            "esophageal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "chemotherapy",
+            "cisplatin",
+            "fluorouracil",
+            "brachytherapy",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -352,7 +358,7 @@
             "sclerosing",
             "injection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -361,6 +367,13 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002884.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "esophagus"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002884"
 }

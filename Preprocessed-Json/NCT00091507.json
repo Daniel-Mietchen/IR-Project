@@ -155,18 +155,29 @@
             "effect"
       ],
       "condition": [
-            "heart",
+            "unstable",
+            "disease",
+            "disease",
+            "disease",
+            "infarction",
             "failure",
             "congestive"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "GIK",
+            "Placebo"
       ],
       "description": [
-            "intravenous",
+            "solution",
+            "continuous",
+            "infusion",
+            "total",
+            "12",
+            "hour",
             "solution",
             "dextrose",
             "5",
@@ -176,11 +187,11 @@
             "hour"
       ],
       "arm_group_label": [
-            "2",
+            "gik",
             "placebo"
       ],
       "other_name": [
-            "dextrose",
+            "potassium",
             "5"
       ],
       "criteria": [
@@ -273,12 +284,29 @@
             "know",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091507.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "coronary",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease",
+            "infarction",
+            "disease",
+            "artery",
+            "disease",
+            "unstable",
+            "globin",
+            "zinc"
+      ],
+      "id": "NCT00091507"
 }

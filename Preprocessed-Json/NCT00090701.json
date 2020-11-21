@@ -35,13 +35,14 @@
             "treatment"
       ],
       "condition": [
-            "lung",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "AG2037"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -306,12 +307,16 @@
             "treatment",
             "progress"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090701.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung",
+            "neoplasm"
+      ],
+      "id": "NCT00090701"
 }

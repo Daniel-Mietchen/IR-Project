@@ -163,14 +163,19 @@
             "study"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "efavirenz"
+            "Abacavir sulfate, Lamivudine and Zidovudine",
+            "Lamivudine/Zidovudine",
+            "Abacavir sulfate",
+            "Efavirenz"
       ],
       "criteria": [
             "inclusion",
@@ -334,12 +339,21 @@
             "whole",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004585.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "efavirenz"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00004585"
 }

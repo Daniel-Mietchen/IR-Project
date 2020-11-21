@@ -137,28 +137,43 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "colon",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "iv",
+            "colon",
+            "cancer",
             "iv",
             "rectal",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "erlotinib hydrochloride",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "erlotinib",
+            "hydrochloride",
+            "erlotinib",
+            "hydrochloride",
             "erlotinib",
             "hydrochloride"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -438,12 +453,18 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00032110.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "hydrochloride"
+      ],
+      "id": "NCT00032110"
 }

@@ -251,15 +251,19 @@
             "6"
       ],
       "condition": [
-            "tuberculosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "standard",
-            "tb",
-            "treatment"
+            "Didanosine",
+            "Efavirenz",
+            "Lamivudine",
+            "Standard TB treatment"
       ],
       "criteria": [
             "inclusion",
@@ -440,12 +444,18 @@
             "study",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091936.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tb"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00091936"
 }

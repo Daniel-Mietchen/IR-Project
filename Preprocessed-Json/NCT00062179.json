@@ -259,15 +259,50 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "carboplatin",
+            "celecoxib",
+            "paclitaxel",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "dose",
+            "auc",
+            "6",
+            "calvert",
+            "formula",
+            "3",
+            "cycle",
+            "carboplatin",
+            "21",
+            "day",
+            "apart",
+            "400",
+            "mg",
+            "po",
+            "bid",
+            "celecoxib",
+            "day",
+            "first",
+            "dose",
+            "chemotherapy",
+            "225",
+            "intravenous",
+            "infusion",
+            "3",
+            "cycle",
+            "paclitaxel",
+            "21",
+            "day",
+            "apart",
             "day",
             "first",
             "dose",
@@ -513,12 +548,24 @@
             "interstitial",
             "fibrosis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00062179"
 }

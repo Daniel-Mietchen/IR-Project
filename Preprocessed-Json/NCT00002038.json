@@ -42,14 +42,13 @@
             "protocol"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fluconazole"
+            "Fluconazole"
       ],
       "criteria": [
             "exclusion",
@@ -139,12 +138,19 @@
             "clinical",
             "monitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002038.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fluconazole"
+      ],
+      "mesh_term": [
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00002038"
 }

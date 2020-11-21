@@ -52,15 +52,13 @@
             "isoprinosine"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "inosine",
-            "pranobex"
+            "Inosine pranobex"
       ],
       "criteria": [
             "exclusion",
@@ -142,14 +140,19 @@
             "symptom",
             "disease"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002059.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "complex"
+      ],
+      "mesh_term": [
+            "infection",
+            "pranobex"
+      ],
+      "id": "NCT00002059"
 }

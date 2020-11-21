@@ -401,13 +401,14 @@
             "failure"
       ],
       "condition": [
-            "uveitis"
+            "rheumatoid",
+            "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "enbrel"
+            "Enbrel"
       ],
       "criteria": [
             "inclusion",
@@ -566,9 +567,16 @@
             "spondyloarthropathy",
             "entheseopathy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001862.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "inflammation"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "juvenile"
+      ],
+      "id": "NCT00001862"
 }

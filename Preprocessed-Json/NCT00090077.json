@@ -23,13 +23,14 @@
             "patient"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "GW695634"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -116,12 +117,20 @@
             "4",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00090077.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection",
+            "transcriptase",
+            "inhibitor"
+      ],
+      "id": "NCT00090077"
 }

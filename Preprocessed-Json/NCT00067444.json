@@ -15,17 +15,17 @@
             "outpatient"
       ],
       "condition": [
+            "disorder",
             "major",
             "depressive",
             "disorder",
             "mdd"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "paroxetine",
-            "cr"
+            "Paroxetine CR"
       ],
       "criteria": [
             "inclusion",
@@ -99,12 +99,20 @@
             "seizure",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067444.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mdd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00067444"
 }

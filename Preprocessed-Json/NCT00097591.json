@@ -55,26 +55,24 @@
             "stroke"
       ],
       "condition": [
-            "acute",
+            "arteriosclerosis",
             "coronary",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "clopidogrel"
+            "Prasugrel",
+            "Clopidogrel"
       ],
       "description": [
-            "administer",
+            "orally",
             "orally"
       ],
-      "arm_group_label": [
-            "clopidogrel"
-      ],
-      "other_name": [
-            "efient"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -169,12 +167,20 @@
             "class",
             "iv"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00097591.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "coronary",
+            "syndrome",
+            "artery",
+            "disease",
+            "ischemia",
+            "hydrochloride"
+      ],
+      "id": "NCT00097591"
 }

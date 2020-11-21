@@ -406,14 +406,14 @@
             "37",
             "week"
       ],
-      "condition": [
-            "sciatica"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "morphine"
+            "Nortriptyline",
+            "Morphine"
       ],
       "criteria": [
             "inclusion",
@@ -638,12 +638,16 @@
             "age",
             "group"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009672.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sciatica"
+      ],
+      "mesh_term": [],
+      "id": "NCT00009672"
 }

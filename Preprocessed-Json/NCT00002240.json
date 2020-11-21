@@ -65,14 +65,19 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Atazanavir",
+            "Nelfinavir mesylate",
+            "Stavudine",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -147,12 +152,22 @@
             "alcohol",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002240.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nelfinavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate",
+            "protease",
+            "inhibitor",
+            "inhibitor"
+      ],
+      "id": "NCT00002240"
 }

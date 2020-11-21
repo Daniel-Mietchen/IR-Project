@@ -252,7 +252,7 @@
             "subject"
       ],
       "condition": [
-            "systemic",
+            "physiology",
             "mastocytosis"
       ],
       "criteria": [
@@ -505,7 +505,7 @@
             "lower",
             "65"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -514,6 +514,13 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001756.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "systemic",
+            "mastocytosis"
+      ],
+      "mesh_term": [
+            "systemic"
+      ],
+      "id": "NCT00001756"
 }

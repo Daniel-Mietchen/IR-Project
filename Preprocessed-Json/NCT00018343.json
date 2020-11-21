@@ -26,7 +26,7 @@
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "estrogen"
@@ -47,9 +47,7 @@
             "treat",
             "estrogen"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
@@ -58,6 +56,9 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00018343.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00018343"
 }

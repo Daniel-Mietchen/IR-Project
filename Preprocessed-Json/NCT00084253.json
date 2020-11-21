@@ -43,18 +43,39 @@
             "drug"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavidine",
-            "lamivudine"
+            "Atazanavir/ Stavidine / Lamivudine",
+            "Atazanavir-Ritonavir/ Stavidine / Lamivudine"
       ],
       "description": [
-            "capsule",
+            "oral",
+            "atv",
+            "2",
+            "x",
+            "200",
+            "mg",
+            "qd",
+            "2",
+            "x",
+            "150",
+            "mg",
+            "qd",
+            "zerit",
+            "xr",
+            "1",
+            "x",
+            "100",
+            "mg",
+            "qd",
+            "daily",
+            "96",
+            "week",
             "oral",
             "atv",
             "2",
@@ -79,17 +100,12 @@
             "x",
             "100",
             "mg",
-            "qd",
             "daily",
             "96",
             "week"
       ],
-      "arm_group_label": [
-            "2"
-      ],
-      "other_name": [
-            "reyataz"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -298,12 +314,20 @@
             "swallow",
             "capsule"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084253.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "sulfate"
+      ],
+      "id": "NCT00084253"
 }

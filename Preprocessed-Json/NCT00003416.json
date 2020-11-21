@@ -308,22 +308,22 @@
             "4",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "recombinant interferon alfa",
+            "dexamethasone",
+            "melphalan",
+            "peripheral blood stem cell transplantation"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -514,12 +514,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003416.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "waldenstrom",
+            "macroglobulinemia"
+      ],
+      "mesh_term": [
+            "macroglobulinemia",
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00003416"
 }

@@ -310,27 +310,83 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "neuroblastoma",
+            "resectable",
+            "neuroblastoma",
+            "unresectable",
+            "neuroblastoma",
+            "neuroblastoma",
             "neuroblastoma"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Other",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "hormone"
+            "therapeutic immune globulin",
+            "clinical observation",
+            "cyclophosphamide",
+            "prednisone",
+            "magnetic resonance imaging",
+            "laboratory biomarker analysis",
+            "Corticotropin-Releasing Hormone"
       ],
       "description": [
-            "administer",
+            "iv",
+            "observation",
+            "iv",
+            "orally",
+            "study",
+            "study",
             "subcutaneously"
       ],
       "arm_group_label": [
-            "arm",
+            "chemotherapy",
+            "immunoglobulin",
+            "therapy",
+            "ii",
+            "chemotherapy",
+            "observation",
+            "chemotherapy",
+            "immunoglobulin",
+            "therapy",
+            "ii",
+            "chemotherapy",
+            "observation",
+            "chemotherapy",
+            "immunoglobulin",
+            "therapy",
+            "ii",
+            "chemotherapy",
+            "observation",
+            "chemotherapy",
+            "immunoglobulin",
+            "therapy",
+            "ii",
+            "chemotherapy",
+            "observation",
+            "chemotherapy",
+            "immunoglobulin",
+            "therapy",
+            "ii",
+            "chemotherapy",
+            "observation",
             "chemotherapy",
             "immunoglobulin",
             "therapy"
       ],
       "other_name": [
-            "nsc",
+            "n",
+            "image",
+            "magnetic",
+            "resonance",
+            "image",
+            "hormone",
             "25933"
       ],
       "criteria": [
@@ -425,12 +481,20 @@
             "gammaglobulin",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "8",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00033293.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "hormone",
+            "hormone",
+            "hormone",
+            "intravenous",
+            "immune",
+            "globulin"
+      ],
+      "id": "NCT00033293"
 }

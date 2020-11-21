@@ -368,23 +368,75 @@
             "study"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mycophenolate",
-            "mofetil"
+            "anti-thymocyte globulin",
+            "cyclophosphamide",
+            "cyclosporine",
+            "fludarabine phosphate",
+            "methotrexate",
+            "mycophenolate mofetil"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "gvhd",
+            "prophylaxis",
             "gvhd",
             "prophylaxis"
       ],
       "arm_group_label": [
-            "gvhd",
+            "regimen",
+            "3",
+            "close",
+            "accrual",
+            "regimen",
+            "1",
+            "regimen",
+            "2",
+            "close",
+            "accrual",
+            "regimen",
+            "3",
+            "close",
+            "accrual",
+            "regimen",
+            "1",
+            "close",
+            "accrual",
+            "regimen",
+            "2",
+            "open",
+            "accrual",
+            "regimen",
+            "3",
+            "open",
+            "accrual",
+            "regimen",
+            "1",
+            "regimen",
+            "2",
+            "close",
+            "accrual",
+            "regimen",
+            "3",
+            "close",
+            "accrual",
+            "regimen",
+            "3",
+            "open",
+            "accrual",
             "regimen",
             "2",
             "open",
@@ -513,7 +565,7 @@
             "cell",
             "carcinoma"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -522,6 +574,21 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003553.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "phosphate",
+            "serum",
+            "mofetil",
+            "acid"
+      ],
+      "id": "NCT00003553"
 }

@@ -197,28 +197,57 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "carcinoma",
+            "small",
+            "cell",
+            "carcinoma",
+            "squamous",
+            "cell",
+            "carcinoma",
+            "ib",
+            "cervical",
+            "cancer",
+            "iia",
+            "cervical",
+            "cancer",
+            "iib",
+            "cervical",
+            "cancer",
+            "iii",
+            "cervical",
+            "cancer",
             "iva",
             "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "internal",
-            "radiation",
-            "therapy"
+            "Gemcitabine Hydrochloride",
+            "Cisplatin",
+            "Radiation Therapy",
+            "Internal Radiation Therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
+            "whole",
+            "pelvis",
+            "radiotherapy",
             "brachytherapy"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
+            "radiotherapy",
             "radiation",
+            "radiation",
+            "brachytherapy",
             "brachytherapy"
       ],
       "criteria": [
@@ -343,11 +372,21 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068549.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "squamous",
+            "cell",
+            "cervical",
+            "neoplasm",
+            "small",
+            "cell",
+            "cell",
+            "lung",
+            "carcinoma",
+            "adenosquamous"
+      ],
+      "id": "NCT00068549"
 }

@@ -48,14 +48,15 @@
             "response"
       ],
       "condition": [
-            "b",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "IgG-RFB4-SMPT-dgA"
+      ],
       "criteria": [
             "patient",
             "histologic",
@@ -269,9 +270,14 @@
             "corticosteroid",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001271.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ricin",
+            "chain"
+      ],
+      "mesh_term": [],
+      "id": "NCT00001271"
 }

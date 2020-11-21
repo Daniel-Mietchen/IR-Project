@@ -76,16 +76,13 @@
             "randomization"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "disoproxil",
-            "fumarate"
+            "Tenofovir disoproxil fumarate"
       ],
       "criteria": [
             "inclusion",
@@ -189,7 +186,7 @@
             "drug",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -198,6 +195,12 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002415.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "agent"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00002415"
 }

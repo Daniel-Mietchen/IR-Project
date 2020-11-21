@@ -300,30 +300,33 @@
             "year"
       ],
       "condition": [
-            "untreated",
             "childhood",
             "brain",
             "stem",
             "glioma"
       ],
       "intervention_type": [
-            "drug"
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
+            "radiation therapy",
             "tipifarnib"
       ],
       "description": [
-            "give",
+            "radiotherapy",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "radiation",
+            "therapy",
+            "tipifarnib",
             "radiation",
             "therapy",
             "tipifarnib"
       ],
       "other_name": [
-            "zarnestra"
+            "radiation"
       ],
       "criteria": [
             "inclusion",
@@ -528,7 +531,7 @@
             "uncontrolled",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -537,6 +540,7 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00079339.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00079339"
 }

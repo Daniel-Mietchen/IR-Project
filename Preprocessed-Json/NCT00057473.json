@@ -32,17 +32,34 @@
             "solid",
             "tumor"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carboplatin + irinotecan",
             "irinotecan"
       ],
       "description": [
-            "solution",
+            "iv",
+            "carbopaltin",
+            "auc",
+            "4",
+            "every",
+            "21",
+            "day",
+            "irinotecan",
+            "12",
+            "x",
+            "10",
+            "day",
+            "minimum",
+            "two",
+            "cycle",
+            "chemotherapy",
+            "project",
+            "6",
             "iv",
             "irinotecan",
             "12",
@@ -57,12 +74,9 @@
             "6"
       ],
       "arm_group_label": [
-            "arm",
             "b"
       ],
-      "other_name": [
-            "paraplatin"
-      ],
+      "other_name": [],
       "criteria": [
             "child",
             "year",
@@ -98,7 +112,7 @@
             "brain",
             "metastasis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -107,6 +121,15 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057473.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "childhood",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [],
+      "id": "NCT00057473"
 }

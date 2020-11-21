@@ -127,16 +127,32 @@
             "10"
       ],
       "condition": [
-            "depression"
+            "parkinson",
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "SAM-e",
+            "oral escitalopram",
             "placebo"
       ],
       "description": [
-            "oral",
+            "two",
+            "divide",
+            "dose",
+            "daily",
+            "placebo",
+            "escitalopram",
+            "daily",
+            "two",
+            "divide",
+            "dose",
+            "along",
+            "placebo",
             "placebo",
             "escitalopram",
             "oral",
@@ -147,11 +163,9 @@
             "dose"
       ],
       "arm_group_label": [
-            "placebo",
             "comparator"
       ],
       "other_name": [
-            "1",
             "experimental"
       ],
       "criteria": [
@@ -340,7 +354,7 @@
             "degenerative",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -349,6 +363,11 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070941.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00070941"
 }

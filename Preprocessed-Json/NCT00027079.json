@@ -38,16 +38,16 @@
             "month",
             "treatment"
       ],
-      "condition": [
-            "alcoholism"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Drug",
+            "Drug",
+            "Behavioral"
       ],
       "intervention_name": [
-            "cognitive",
-            "behavioral",
-            "therapy"
+            "ondansetron (Zofran)",
+            "naltrexone (ReVia)",
+            "Cognitive Behavioral Therapy"
       ],
       "criteria": [
             "inclusion",
@@ -212,7 +212,7 @@
             "unknown",
             "origin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -221,6 +221,7 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00027079.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00027079"
 }

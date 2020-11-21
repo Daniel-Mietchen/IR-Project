@@ -128,7 +128,8 @@
             "continue"
       ],
       "condition": [
-            "mood",
+            "disorder",
+            "depression",
             "disorder"
       ],
       "criteria": [
@@ -150,9 +151,19 @@
             "control",
             "parent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001170.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "child",
+            "risk"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00001170"
 }

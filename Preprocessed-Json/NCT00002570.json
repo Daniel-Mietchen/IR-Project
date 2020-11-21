@@ -114,18 +114,27 @@
             "year"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "leucovorin",
-            "calcium"
+            "fluorouracil",
+            "leucovorin calcium"
       ],
       "description": [
-            "20",
+            "iv",
+            "bolus",
+            "injection",
+            "daily",
+            "5",
+            "consecutive",
+            "day",
+            "q",
+            "28",
+            "day",
             "iv",
             "number",
             "cycle",
@@ -134,7 +143,8 @@
             "physician"
       ],
       "arm_group_label": [
-            "fluorouracil",
+            "folinic",
+            "acid",
             "folinic",
             "acid"
       ],
@@ -380,7 +390,7 @@
             "surgery",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -389,6 +399,14 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002570.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "rectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002570"
 }

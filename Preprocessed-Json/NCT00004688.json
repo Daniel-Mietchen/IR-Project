@@ -63,14 +63,21 @@
             "record"
       ],
       "condition": [
-            "recurrent",
+            "astrocytoma",
+            "oligodendroglioma",
+            "glioma",
+            "multiforme",
             "brain",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "carmustine",
+            "mercaptopurine",
             "streptozocin"
       ],
       "criteria": [
@@ -182,9 +189,18 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004688.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "brain",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00004688"
 }

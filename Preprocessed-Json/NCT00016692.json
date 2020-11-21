@@ -41,13 +41,14 @@
             "week"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Z-100"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -220,12 +221,24 @@
             "similar",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016692.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "substance",
+            "maruyama"
+      ],
+      "id": "NCT00016692"
 }

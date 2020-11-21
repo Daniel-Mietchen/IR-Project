@@ -309,13 +309,15 @@
             "study"
       ],
       "condition": [
-            "proteinuria"
+            "glomerulosclerosis",
+            "failure",
+            "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pirfenidone"
+            "Pirfenidone"
       ],
       "description": [
             "study",
@@ -635,12 +637,21 @@
             "second",
             "prolong"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001959.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fsgs"
+      ],
+      "mesh_term": [
+            "insufficiency",
+            "syndrome",
+            "focal",
+            "segmental"
+      ],
+      "id": "NCT00001959"
 }

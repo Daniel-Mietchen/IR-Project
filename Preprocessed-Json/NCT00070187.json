@@ -497,29 +497,71 @@
             "within",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "aldesleukin",
+            "filgrastim",
+            "recombinant interferon gamma",
+            "carmustine",
+            "cyclosporine",
+            "cytarabine",
+            "etoposide",
+            "melphalan",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "hyperfractionated",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
+            "immunotherapy",
             "immunotherapy"
       ],
       "other_name": [
-            "nsc",
+            "human",
+            "interleukin",
+            "2",
+            "373364",
+            "factor",
+            "614629",
+            "interferon",
+            "interferon",
+            "interferon",
+            "600662",
+            "40996",
+            "290193",
+            "arabinoside",
+            "063878",
+            "141540",
+            "mustard",
             "008806"
       ],
       "criteria": [
@@ -726,12 +768,21 @@
             "therapeutic",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "30",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070187.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "phosphate"
+      ],
+      "id": "NCT00070187"
 }

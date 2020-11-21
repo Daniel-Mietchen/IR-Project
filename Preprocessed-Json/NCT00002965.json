@@ -138,24 +138,18 @@
             "arm"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "interferon",
-            "alfa",
-            "inf",
-            "alpha"
+            "Recombinant Interferon Alfa (INF alpha)"
       ],
       "description": [
-            "subcutaneous",
             "injection",
             "monday",
             "friday",
@@ -163,12 +157,18 @@
             "week"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "benign",
+            "meningioma",
             "2",
             "pathology"
       ],
       "other_name": [
-            "recombinant",
+            "alfa",
+            "2",
+            "interferon",
+            "2",
+            "alfa",
             "interferon"
       ],
       "criteria": [
@@ -292,9 +292,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002965.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "brain",
+            "tumor"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002965"
 }

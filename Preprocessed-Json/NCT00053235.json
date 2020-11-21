@@ -147,26 +147,46 @@
             "chromosome"
       ],
       "condition": [
-            "stage",
+            "serous",
+            "cystadenocarcinoma",
+            "serous",
+            "surface",
+            "papillary",
+            "adenocarcinoma",
+            "iiia",
+            "ovarian",
+            "cancer",
+            "iiib",
+            "ovarian",
+            "cancer",
+            "iiic",
+            "ovarian",
+            "cancer",
             "iv",
             "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic",
+            "Other",
+            "Genetic"
       ],
       "intervention_name": [
-            "polymerase",
-            "chain",
-            "reaction"
+            "Comparative Genomic Hybridization",
+            "Laboratory Biomarker Analysis",
+            "Polymerase Chain Reaction"
       ],
       "description": [
-            "correlative",
+            "study",
+            "study",
             "study"
       ],
       "arm_group_label": [],
       "other_name": [
-            "pcr"
+            "genome",
+            "hybridization",
+            "genomic",
+            "analysis"
       ],
       "sampling_method": [
             "probability",
@@ -227,11 +247,14 @@
             "status",
             "gog"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053235.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "serous",
+            "papillary"
+      ],
+      "id": "NCT00053235"
 }

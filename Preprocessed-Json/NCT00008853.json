@@ -94,24 +94,24 @@
             "26"
       ],
       "condition": [
-            "group",
+            "infection",
             "b",
             "streptococcus"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "gb"
+            "GBS III-TT-SSI",
+            "GBS III-TT-MPHL"
       ],
       "criteria": [
             "information",
             "currently",
             "available"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -120,6 +120,13 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00008853.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "clinical",
+            "evaluation"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00008853"
 }

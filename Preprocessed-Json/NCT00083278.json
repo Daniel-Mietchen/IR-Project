@@ -47,12 +47,14 @@
             "treatment"
       ],
       "condition": [
-            "adenocarcinoma"
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "MDX-010"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -176,14 +178,21 @@
             "pregnancy",
             "nurse"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083278.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adenocarcinoma",
+            "breast"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00083278"
 }

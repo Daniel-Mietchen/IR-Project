@@ -106,13 +106,13 @@
             "record"
       ],
       "condition": [
-            "recurrence"
+            "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dehydrex"
+            "Dehydrex"
       ],
       "criteria": [
             "inclusion",
@@ -230,12 +230,18 @@
             "corneal",
             "dystrophy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029185.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thimerosal"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00029185"
 }

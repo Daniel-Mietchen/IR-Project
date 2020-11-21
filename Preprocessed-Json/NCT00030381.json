@@ -126,25 +126,26 @@
             "month"
       ],
       "condition": [
-            "primary",
             "systemic",
             "amyloidosis"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "4'-iodo-4'-deoxydoxorubicin",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "iododoxorubicin",
             "iododoxorubicin"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -404,12 +405,13 @@
             "ancillary",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030381.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00030381"
 }

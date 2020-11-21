@@ -95,17 +95,16 @@
             "size"
       ],
       "condition": [
-            "local",
+            "neoplasm",
+            "metastasis",
             "neoplasm",
             "recurrence"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "poly",
-            "poly",
-            "c"
+            "NS-9 [Poly I: Poly C]"
       ],
       "criteria": [
             "inclusion",
@@ -325,12 +324,24 @@
             "pulmonary",
             "embolism"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094003.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "second",
+            "primary",
+            "neoplasm",
+            "recurrence",
+            "local"
+      ],
+      "id": "NCT00094003"
 }

@@ -95,14 +95,21 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Lamivudine/Zidovudine",
+            "Abacavir sulfate",
+            "Nelfinavir mesylate",
+            "Lamivudine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -235,12 +242,21 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005106.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00005106"
 }

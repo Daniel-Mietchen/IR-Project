@@ -16,17 +16,15 @@
             "tumor"
       ],
       "condition": [
-            "carcinoid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "pasireotide"
+            "Pasireotide (SOM230)"
       ],
       "description": [
-            "open",
             "label",
             "patient",
             "receive",
@@ -79,9 +77,7 @@
             "toxicity",
             "occur"
       ],
-      "arm_group_label": [
-            "pasireotide"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "inclusion",
@@ -262,7 +258,7 @@
             "five",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -271,6 +267,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00088595.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "carcinoid",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor"
+      ],
+      "id": "NCT00088595"
 }

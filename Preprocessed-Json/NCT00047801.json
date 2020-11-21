@@ -31,15 +31,13 @@
             "chemotherapy"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "combination",
-            "docetaxel"
+            "TLK286 in combination with docetaxel"
       ],
       "criteria": [
             "inclusion",
@@ -126,12 +124,15 @@
             "polysorbate",
             "80"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00047801.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00047801"
 }

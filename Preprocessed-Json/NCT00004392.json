@@ -161,7 +161,9 @@
             "age"
       ],
       "condition": [
-            "apnea"
+            "infant",
+            "death",
+            "syndrome"
       ],
       "criteria": [
             "protocol",
@@ -416,12 +418,23 @@
             "hospital",
             "discharge"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "1",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004392.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "sudden",
+            "infant",
+            "death",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "death",
+            "infant",
+            "death"
+      ],
+      "id": "NCT00004392"
 }

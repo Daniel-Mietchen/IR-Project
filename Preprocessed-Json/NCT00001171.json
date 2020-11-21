@@ -199,7 +199,7 @@
             "help"
       ],
       "condition": [
-            "pituitary",
+            "neoplasm",
             "neoplasm"
       ],
       "criteria": [
@@ -232,9 +232,18 @@
             "propose",
             "program"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001171.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pituitary",
+            "adenoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00001171"
 }

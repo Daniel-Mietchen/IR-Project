@@ -22,13 +22,14 @@
             "cancer"
       ],
       "condition": [
-            "kidney",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "SU-011,248"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -116,12 +117,15 @@
             "medical",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054886.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00054886"
 }

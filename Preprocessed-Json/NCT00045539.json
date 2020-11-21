@@ -188,13 +188,15 @@
             "within",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "leucovorin calcium",
+            "methotrexate",
             "thiotepa"
       ],
       "criteria": [
@@ -372,12 +374,20 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045539.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "central",
+            "nervous",
+            "system",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00045539"
 }

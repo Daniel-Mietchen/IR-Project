@@ -166,14 +166,17 @@
             "eliminate"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "stavudine"
+            "Lopinavir/Ritonavir",
+            "Emtricitabine",
+            "Stavudine"
       ],
       "criteria": [
             "inclusion",
@@ -294,12 +297,21 @@
             "study",
             "result"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006144.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "deoxycytidine"
+      ],
+      "mesh_term": [
+            "infection",
+            "progression",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00006144"
 }

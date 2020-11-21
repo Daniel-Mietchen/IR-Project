@@ -36,14 +36,13 @@
             "infliximab"
       ],
       "condition": [
-            "rheumatoid",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "etanercept"
+            "Etanercept"
       ],
       "criteria": [
             "inclusion",
@@ -239,12 +238,15 @@
             "tb",
             "prophylaxis"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099554.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00099554"
 }

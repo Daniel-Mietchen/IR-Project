@@ -232,13 +232,13 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "infection"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "ganciclovir",
             "valganciclovir"
       ],
       "criteria": [
@@ -506,12 +506,19 @@
             "treatment",
             "course"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016068.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection"
+      ],
+      "id": "NCT00016068"
 }

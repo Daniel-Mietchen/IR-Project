@@ -101,20 +101,38 @@
             "month"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody",
-            "alu",
-            "gel"
+            "monoclonal antibody 11D10 anti-idiotype",
+            "monoclonal antibody 3H1 Alu Gel"
       ],
       "description": [
-            "2",
+            "mg",
+            "intradermal",
+            "injection",
+            "q",
+            "14",
+            "day",
+            "4",
+            "dose",
+            "sub",
+            "q",
+            "monthly",
+            "4",
+            "month",
+            "follow",
+            "wk",
+            "rest",
+            "period",
+            "curative",
+            "hepatic",
+            "resection",
             "mg",
             "intradermal",
             "injection",
@@ -137,14 +155,14 @@
             "resection"
       ],
       "arm_group_label": [
-            "combine",
+            "monoclonal",
+            "antibody",
+            "therapy",
             "monoclonal",
             "antibody",
             "therapy"
       ],
-      "other_name": [
-            "ceavac"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -324,12 +342,22 @@
             "immunomodulatory",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033748.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "monoclonal",
+            "idiotypes"
+      ],
+      "id": "NCT00033748"
 }

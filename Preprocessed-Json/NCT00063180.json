@@ -207,7 +207,6 @@
             "evaluate"
       ],
       "condition": [
-            "cerebrovascular",
             "accident"
       ],
       "criteria": [
@@ -508,12 +507,16 @@
             "risk",
             "adult"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00063180.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00063180"
 }

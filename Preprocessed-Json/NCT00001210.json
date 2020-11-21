@@ -67,7 +67,7 @@
             "protein"
       ],
       "condition": [
-            "healthy"
+            "infection"
       ],
       "criteria": [
             "inclusion",
@@ -84,9 +84,15 @@
             "must",
             "aid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001210.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00001210"
 }

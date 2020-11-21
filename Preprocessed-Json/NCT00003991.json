@@ -206,15 +206,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "histamine",
-            "dihydrochloride"
+            "aldesleukin",
+            "histamine dihydrochloride"
       ],
       "criteria": [
             "disease",
@@ -409,12 +408,25 @@
             "treatment",
             "etc"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003991.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "remission"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "phosphate"
+      ],
+      "id": "NCT00003991"
 }

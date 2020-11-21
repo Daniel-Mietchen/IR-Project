@@ -183,17 +183,22 @@
             "body"
       ],
       "condition": [
-            "mouth",
+            "metastasis",
+            "cancer",
+            "neck",
+            "cancer",
+            "cancer",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "device"
+            "Drug",
+            "Device"
       ],
       "intervention_name": [
-            "lumaflex",
-            "light",
-            "delivery",
-            "catheter"
+            "LS 11(Taporfin Sodium)",
+            "Lumaflex Light Delivery Catheter"
       ],
       "criteria": [
             "primary",
@@ -424,12 +429,25 @@
             "ggt",
             "uln"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028405.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "neoplasm",
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00028405"
 }

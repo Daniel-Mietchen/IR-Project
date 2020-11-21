@@ -94,19 +94,14 @@
             "3",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "topotecan",
-            "hydrochloride"
+            "topotecan hydrochloride"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -376,12 +371,20 @@
             "prior",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003745.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ewing",
+            "primitive",
+            "neuroectodermal",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003745"
 }

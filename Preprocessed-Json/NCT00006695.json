@@ -214,19 +214,46 @@
             "5",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "tositumomab",
-            "iodine",
-            "131",
-            "tositumomab"
+            "carmustine",
+            "cytarabine",
+            "etoposide",
+            "melphalan",
+            "peripheral blood stem cell transplantation",
+            "tositumomab and iodine I 131 tositumomab"
       ],
       "description": [
+            "iv",
+            "day",
+            "bid",
+            "day",
+            "bid",
+            "day",
+            "iv",
+            "day",
+            "chemotherapy",
+            "day",
+            "0",
+            "treatment",
+            "previously",
+            "store",
+            "hematopoietic",
+            "stem",
+            "cell",
+            "administer",
+            "patient",
+            "intravenously",
+            "central",
+            "line",
             "patient",
             "receive",
             "two",
@@ -288,10 +315,12 @@
             "cgy",
             "subject"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
+            "hematopoietic",
+            "stem",
+            "cell",
+            "transplantation",
             "antibody"
       ],
       "criteria": [
@@ -575,7 +604,7 @@
             "drug",
             "biologics"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -584,6 +613,19 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006695.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "adult",
+            "immunoblastic",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "monoclonal",
+            "antibody",
+            "iodine"
+      ],
+      "id": "NCT00006695"
 }

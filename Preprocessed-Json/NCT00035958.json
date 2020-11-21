@@ -238,14 +238,16 @@
             "month",
             "later"
       ],
-      "condition": [
-            "dermatomyositis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "etanercept"
+            "Prednisone",
+            "Methotrexate",
+            "Etanercept"
       ],
       "criteria": [
             "inclusion",
@@ -438,7 +440,7 @@
             "physician",
             "instruction"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -447,6 +449,11 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035958.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pediatric",
+            "rheumatology"
+      ],
+      "mesh_term": [],
+      "id": "NCT00035958"
 }

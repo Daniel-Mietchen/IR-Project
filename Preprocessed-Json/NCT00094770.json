@@ -34,20 +34,25 @@
             "week"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "glipizide"
+            "sitagliptin (MK0431)",
+            "Comparator: glipizide"
       ],
       "description": [
-            "glipizide",
+            "100",
+            "mg",
+            "oral",
+            "tablet",
+            "sitagliptin",
+            "daily",
             "1",
             "tablet",
             "5",
@@ -68,11 +73,10 @@
             "control"
       ],
       "arm_group_label": [
-            "glipizide"
+            "100",
+            "mg"
       ],
-      "other_name": [
-            "glipizide"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -88,7 +92,7 @@
             "diabetes",
             "mellitus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -97,6 +101,13 @@
             "78",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094770.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "phosphate"
+      ],
+      "id": "NCT00094770"
 }

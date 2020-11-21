@@ -195,15 +195,27 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cyclophosphamide",
+            "cyclosporine",
+            "methotrexate",
+            "allogeneic bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -470,12 +482,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005854.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome"
+      ],
+      "id": "NCT00005854"
 }

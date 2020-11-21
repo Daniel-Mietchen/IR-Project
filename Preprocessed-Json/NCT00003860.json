@@ -190,18 +190,21 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "etoposide",
+            "ifosfamide",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -346,7 +349,7 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -355,6 +358,20 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003860.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "extensive",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00003860"
 }

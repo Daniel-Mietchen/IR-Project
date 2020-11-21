@@ -25,23 +25,26 @@
             "tumor"
       ],
       "condition": [
-            "solid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "panitumumab"
+            "panitumumab (ABX-EGF)",
+            "Panitumumab"
       ],
       "description": [
-            "9",
+            "every",
+            "2",
+            "week",
             "every",
             "3",
             "week"
       ],
       "arm_group_label": [
-            "cohort",
+            "1",
             "2"
       ],
       "criteria": [
@@ -242,12 +245,19 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00091806.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "monoclonal",
+            "antibody"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00091806"
 }

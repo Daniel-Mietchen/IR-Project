@@ -150,7 +150,7 @@
             "patient"
       ],
       "condition": [
-            "unspecified",
+            "vomit",
             "adult",
             "solid",
             "tumor",
@@ -158,14 +158,22 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "metoclopramide",
-            "hydrochloride"
+            "dexamethasone",
+            "granisetron hydrochloride",
+            "metoclopramide hydrochloride"
       ],
       "description": [
-            "20",
+            "mg",
+            "dexamethasone",
+            "morning",
+            "mg",
+            "granisetron",
+            "morning",
             "mg",
             "metoclopramide",
             "1",
@@ -179,10 +187,16 @@
             "even"
       ],
       "arm_group_label": [
-            "metoclopramide",
+            "granisetron",
+            "dexamethasone",
+            "dexamethasone",
+            "granisetron",
+            "dexamethasone",
             "dexamethasone"
       ],
-      "other_name": [],
+      "other_name": [
+            "acetate"
+      ],
       "criteria": [
             "disease",
             "characteristic",
@@ -314,12 +328,20 @@
             "psychotropic",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003213.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "nausea",
+            "vomit"
+      ],
+      "mesh_term": [
+            "acetate",
+            "1101"
+      ],
+      "id": "NCT00003213"
 }

@@ -205,23 +205,33 @@
             "3"
       ],
       "condition": [
-            "transitional",
+            "bladder",
+            "cancer",
+            "bladder",
+            "cancer",
+            "ii",
+            "bladder",
+            "cancer",
+            "iii",
+            "bladder",
+            "cancer",
+            "iv",
+            "bladder",
+            "cancer",
             "cell",
             "carcinoma",
             "bladder"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "gene"
+            "Ad5CMV-p53 gene"
       ],
       "description": [
-            "give",
             "intravesically"
       ],
       "arm_group_label": [
-            "treatment",
             "adenovirus"
       ],
       "other_name": [],
@@ -503,12 +513,18 @@
             "study",
             "protocol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003167.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "transitional",
+            "cell"
+      ],
+      "id": "NCT00003167"
 }

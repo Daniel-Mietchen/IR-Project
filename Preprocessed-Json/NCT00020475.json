@@ -127,15 +127,22 @@
             "year"
       ],
       "condition": [
-            "recurrent",
+            "extension",
+            "melanoma",
             "intraocular",
             "melanoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "montanide"
+            "gp100 antigen",
+            "interleukin-2",
+            "MART-1 antigen",
+            "Montanide ISA-51"
       ],
       "criteria": [
             "protocol",
@@ -151,7 +158,6 @@
             "disease",
             "measurable",
             "disease",
-            "201",
             "positive",
             "therapy",
             "biologic",
@@ -272,11 +278,21 @@
             "opportunistic",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "id": "NCT00020475.xml"
+      "keyword": [
+            "stage",
+            "intraocular",
+            "melanoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00020475"
 }

@@ -260,7 +260,7 @@
             "biomarker"
       ],
       "condition": [
-            "cancer"
+            "disease"
       ],
       "criteria": [
             "residence",
@@ -268,12 +268,19 @@
             "study",
             "community"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014963.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "phenylmercapturic",
+            "acid"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00014963"
 }

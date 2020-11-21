@@ -339,22 +339,30 @@
             "mother"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Abacavir sulfate, lamivudine, and zidovudine",
+            "Lamivudine/zidovudine",
+            "Lopinavir/ritonavir"
+      ],
       "description": [
-            "four",
+            "pill",
+            "twice",
+            "daily",
+            "pill",
+            "twice",
+            "daily",
             "pill",
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "note",
             "pharmacokinetics",
@@ -513,14 +521,22 @@
             "intend",
             "breastfeed"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086359.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00086359"
 }

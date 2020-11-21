@@ -51,13 +51,18 @@
             "thereafter"
       ],
       "condition": [
+            "hemolytic",
             "autoimmune",
+            "syndrome",
+            "thrombocytopenic",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "cyclophosphamide",
             "filgrastim"
       ],
       "criteria": [
@@ -155,9 +160,21 @@
             "preterminal",
             "moribund"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00010387.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "disease",
+            "thrombocytopenic",
+            "hemolytic",
+            "hemolytic",
+            "autoimmune",
+            "syndrome"
+      ],
+      "id": "NCT00010387"
 }

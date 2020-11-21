@@ -248,7 +248,8 @@
             "record"
       ],
       "condition": [
-            "lung",
+            "fibrosis",
+            "disease",
             "disease",
             "interstitial"
       ],
@@ -256,7 +257,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -265,6 +266,12 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00016627.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "disease",
+            "interstitial"
+      ],
+      "id": "NCT00016627"
 }

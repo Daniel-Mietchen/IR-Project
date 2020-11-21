@@ -416,7 +416,6 @@
             "pd"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "criteria": [
@@ -794,7 +793,7 @@
             "enrollment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -803,6 +802,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094601.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disease",
+            "agent"
+      ],
+      "id": "NCT00094601"
 }

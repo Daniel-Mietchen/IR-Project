@@ -133,18 +133,30 @@
             "act"
       ],
       "condition": [
-            "oncology"
+            "hodgkin",
+            "lymphoma",
+            "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pegfilgrastim",
-            "6",
-            "mg"
+            "pegfilgrastim 12 mg",
+            "filgrastim",
+            "pegfilgrastim 6 mg"
       ],
       "description": [
-            "pegfilgrastim",
+            "12",
+            "mg",
+            "give",
+            "pbpc",
+            "mobilization",
+            "give",
+            "daily",
+            "pbpc",
+            "mobilization",
             "6",
             "mg",
             "give",
@@ -152,7 +164,8 @@
             "mobilization"
       ],
       "arm_group_label": [
-            "pegfilgrastim",
+            "12",
+            "mg",
             "6",
             "mg"
       ],
@@ -170,12 +183,18 @@
             "pbpc",
             "transplant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mobilization"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00066092"
 }

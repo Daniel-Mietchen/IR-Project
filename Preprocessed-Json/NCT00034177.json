@@ -62,20 +62,17 @@
             "population"
       ],
       "condition": [
-            "urologic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "experimental",
-            "arm",
-            "tocosol",
-            "paclitaxel"
+            "S-8184 Paclitaxel Injectable Emulsion",
+            "Experimental Arm: TOCOSOL Paclitaxel"
       ],
       "description": [
-            "dose",
             "80",
             "100"
       ],
@@ -278,12 +275,28 @@
             "induce",
             "isoenzymes"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034177.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "locally",
+            "advance",
+            "metastatic",
+            "recurrent",
+            "transitional",
+            "cell",
+            "carcinoma",
+            "urothelium"
+      ],
+      "mesh_term": [
+            "transitional",
+            "cell",
+            "neoplasm",
+            "paclitaxel"
+      ],
+      "id": "NCT00034177"
 }

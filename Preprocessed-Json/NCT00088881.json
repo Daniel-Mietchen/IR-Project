@@ -298,27 +298,80 @@
             "year"
       ],
       "condition": [
-            "waldenstrom",
+            "stage",
+            "ii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "lymphoid",
+            "tissue",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "stage",
+            "ii",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "marginal",
+            "zone",
+            "lymphoma",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "lymphoma",
             "macroglobulinemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
-            "positron",
-            "emission",
-            "tomography"
+            "rituximab",
+            "prednisone",
+            "cyclophosphamide",
+            "doxorubicin",
+            "vincristine",
+            "indium In 111 ibritumomab tiuxetan",
+            "radiation therapy",
+            "positron emission tomography"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "orally",
+            "iv",
+            "iv",
+            "iv",
+            "iv",
+            "radiotherapy",
             "pet",
             "scan"
       ],
-      "arm_group_label": [
-            "treatment"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "tomography",
+            "monoclonal",
+            "antibody",
+            "pfs",
+            "rdf",
+            "sulfate",
+            "pfs",
+            "radiation",
+            "scan",
             "emission",
             "compute"
       ],
@@ -631,12 +684,21 @@
             "aspiration",
             "biopsy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088881.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "marginal",
+            "zone",
+            "macroglobulinemia",
+            "doxorubicin",
+            "monoclonal"
+      ],
+      "id": "NCT00088881"
 }

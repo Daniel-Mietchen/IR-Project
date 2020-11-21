@@ -148,15 +148,15 @@
             "hospitalization"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "foscarnet",
-            "sodium"
+            "Zidovudine",
+            "Foscarnet sodium"
       ],
       "criteria": [
             "inclusion",
@@ -312,12 +312,22 @@
             "nephrotoxic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "acid"
+      ],
+      "id": "NCT00001002"
 }

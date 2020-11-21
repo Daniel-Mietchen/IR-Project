@@ -201,15 +201,19 @@
             "year"
       ],
       "condition": [
-            "malignant",
             "mesothelioma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vinorelbine",
-            "tartrate"
+            "cisplatin",
+            "mitomycin C",
+            "vinblastine sulfate",
+            "vinorelbine tartrate"
       ],
       "criteria": [
             "disease",
@@ -302,9 +306,17 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030459.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "malignant",
+            "mesothelioma"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030459"
 }

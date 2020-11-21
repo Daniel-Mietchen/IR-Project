@@ -174,15 +174,19 @@
             "year"
       ],
       "condition": [
-            "metastatic",
+            "central",
+            "nervous",
+            "system",
+            "tumor",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "verteporfin",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -278,7 +282,7 @@
             "antitumor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -287,6 +291,20 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002647.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cerebral",
+            "astrocytoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002647"
 }

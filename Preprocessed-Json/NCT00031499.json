@@ -301,17 +301,40 @@
             "nonresponse",
             "failure"
       ],
-      "condition": [
-            "syphilis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "doxycycline"
+            "Azithromycin",
+            "Benzathine Penicillin",
+            "Doxycycline"
       ],
       "description": [
-            "baseline",
+            "2",
+            "gram",
+            "oral",
+            "dose",
+            "4",
+            "tablet",
+            "day",
+            "1",
+            "syringe",
+            "contain",
+            "million",
+            "unit",
+            "benzathine",
+            "penicillin",
+            "million",
+            "unit",
+            "administer",
+            "intramuscularly",
+            "day",
+            "1",
+            "one",
+            "buttock",
             "visit",
             "28",
             "capsule",
@@ -324,7 +347,7 @@
             "bid"
       ],
       "arm_group_label": [
-            "benzathine",
+            "penicillin",
             "penicillin"
       ],
       "criteria": [
@@ -542,7 +565,7 @@
             "ulcer",
             "disease"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -551,6 +574,18 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031499.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "azithromycin",
+            "syphilis",
+            "penicillin"
+      ],
+      "mesh_term": [
+            "g",
+            "benzathine",
+            "g",
+            "g",
+            "procaine"
+      ],
+      "id": "NCT00031499"
 }

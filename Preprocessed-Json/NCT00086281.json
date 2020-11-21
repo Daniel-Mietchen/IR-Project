@@ -84,29 +84,38 @@
             "osas"
       ],
       "condition": [
-            "obstructive",
             "sleep",
             "apnea",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "p"
+            "Xyrem (X)",
+            "Zolpidem (Z)",
+            "Modafinil (M)",
+            "Placebo (P)"
       ],
       "description": [
-            "placebo",
+            "sodium",
+            "oxybate",
+            "oral",
+            "solution",
+            "10",
+            "mg",
+            "oral",
+            "tablet",
+            "oral",
+            "tablet",
             "oral",
             "solution"
       ],
-      "arm_group_label": [
-            "4"
-      ],
-      "other_name": [
-            "provigil"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -404,12 +413,26 @@
             "anticonvulsant",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00086281.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "obstructive",
+            "sleep",
+            "apnea",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "apnea",
+            "obstructive",
+            "aspiration",
+            "oxybate"
+      ],
+      "id": "NCT00086281"
 }

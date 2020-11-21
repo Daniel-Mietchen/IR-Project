@@ -162,15 +162,15 @@
             "month"
       ],
       "condition": [
-            "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gpi",
-            "1485"
+            "CoQ10",
+            "GPI 1485"
       ],
       "criteria": [
             "inclusion",
@@ -470,12 +470,19 @@
             "gpi",
             "1485"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00076492.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "gpi",
+            "1485"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00076492"
 }

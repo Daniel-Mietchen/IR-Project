@@ -86,7 +86,9 @@
             "record"
       ],
       "condition": [
-            "blood",
+            "disease",
+            "disease",
+            "mellitus",
             "coagulation",
             "disorder"
       ],
@@ -94,14 +96,20 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005481.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "coagulation",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00005481"
 }

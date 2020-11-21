@@ -154,29 +154,31 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
             "iv",
             "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine"
-      ],
-      "description": [
-            "give",
-            "po"
-      ],
-      "arm_group_label": [
-            "treatment",
             "tipifarnib",
             "capecitabine"
       ],
-      "other_name": [
-            "xeloda"
+      "description": [
+            "po",
+            "po"
       ],
+      "arm_group_label": [
+            "tipifarnib",
+            "capecitabine",
+            "tipifarnib",
+            "capecitabine"
+      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -538,14 +540,15 @@
             "neuropathy",
             "eligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00077363.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00077363"
 }

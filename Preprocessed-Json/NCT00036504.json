@@ -243,19 +243,15 @@
             "sequence"
       ],
       "condition": [
-            "type",
             "2",
             "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "insulin",
-            "lispro",
-            "low",
-            "mixture"
+            "Insulin Lispro low mixture"
       ],
       "criteria": [
             "inclusion",
@@ -331,7 +327,7 @@
             "regulatory",
             "approval"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -340,6 +336,22 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036504.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "diabetes",
+            "mellitus",
+            "insulin",
+            "deficiency",
+            "hyperglycemia"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2",
+            "globin",
+            "zinc",
+            "lispro"
+      ],
+      "id": "NCT00036504"
 }

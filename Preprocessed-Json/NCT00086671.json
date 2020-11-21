@@ -86,17 +86,22 @@
             "2006"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "ABT-874/Human monoclonal antibody against IL-12",
+            "Placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "200",
+            "mg",
+            "weekly",
+            "874",
+            "qow"
       ],
       "criteria": [
             "inclusion",
@@ -561,7 +566,7 @@
             "candidate",
             "receive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -570,6 +575,10 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086671.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "sclerosis",
+            "monoclonal"
+      ],
+      "id": "NCT00086671"
 }

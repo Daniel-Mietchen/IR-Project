@@ -31,18 +31,19 @@
             "month",
             "age"
       ],
-      "condition": [
-            "bronchiolitis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "montelukast sodium",
+            "Comparator: placebo"
       ],
       "description": [
-            "duration",
+            "treatment",
+            "6",
+            "month",
             "treatment",
             "6",
             "month"
@@ -93,7 +94,7 @@
             "may",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "month"
@@ -102,6 +103,14 @@
             "24",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00076973.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rsv",
+            "bronchiolitis"
+      ],
+      "mesh_term": [
+            "symptom",
+            "respiratory"
+      ],
+      "id": "NCT00076973"
 }

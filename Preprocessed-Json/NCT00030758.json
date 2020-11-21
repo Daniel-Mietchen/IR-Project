@@ -198,12 +198,14 @@
             "year"
       ],
       "condition": [
-            "neutropenia"
+            "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "filgrastim",
             "pegfilgrastim"
       ],
       "criteria": [
@@ -347,14 +349,21 @@
             "arm",
             "ineligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030758.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030758"
 }

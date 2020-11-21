@@ -185,24 +185,27 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "cell",
+            "adenocarcinoma",
+            "pancreas",
             "iv",
             "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine",
-            "hydrochloride"
+            "bortezomib",
+            "gemcitabine hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "ii"
       ],
       "criteria": [
@@ -298,7 +301,6 @@
             "pt",
             "ptt",
             "greater",
-            "uln",
             "creatinine",
             "greater",
             "time",
@@ -393,12 +395,15 @@
             "prior",
             "bortezomib"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052689.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00052689"
 }

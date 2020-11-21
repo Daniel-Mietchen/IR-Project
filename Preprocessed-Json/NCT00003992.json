@@ -273,18 +273,27 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tamoxifen",
-            "citrate"
+            "trastuzumab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "paclitaxel",
+            "tamoxifen citrate"
       ],
       "arm_group_label": [
-            "arm"
+            "ii",
+            "ii",
+            "ii",
+            "ii"
       ],
       "criteria": [
             "disease",
@@ -446,14 +455,23 @@
             "lymph",
             "nod"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00003992"
 }

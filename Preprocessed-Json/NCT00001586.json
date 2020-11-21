@@ -392,18 +392,20 @@
             "1"
       ],
       "condition": [
-            "chronic",
             "lymphocytic",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "leukemic",
-            "stroma",
-            "cell"
+            "Rituximab",
+            "Fludarabine phosphate",
+            "Leukemic or stroma cells"
       ],
       "description": [
-            "patient",
             "eligible",
             "donate",
             "cell",
@@ -440,10 +442,23 @@
       ],
       "arm_group_label": [
             "risk",
+            "pt",
+            "risk",
+            "pt",
+            "risk",
             "pt"
       ],
       "other_name": [
-            "fludarabine",
+            "375",
+            "infusion",
+            "day",
+            "1",
+            "cycle",
+            "1",
+            "repeat",
+            "every",
+            "28",
+            "day",
             "day",
             "25",
             "day",
@@ -933,12 +948,22 @@
             "shall",
             "enrol"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001586.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "marrow",
+            "purge"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "phosphate"
+      ],
+      "id": "NCT00001586"
 }

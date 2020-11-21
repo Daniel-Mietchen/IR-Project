@@ -167,22 +167,30 @@
             "year"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "autologous",
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "melphalan",
+            "autologous peripheral blood stem cell transplantation"
       ],
       "description": [
-            "autologous",
+            "3",
+            "day",
+            "prior",
+            "stem",
+            "cell",
+            "collection",
+            "day",
+            "last",
+            "collection",
+            "2",
+            "day",
             "peripheral",
             "blood",
             "stem",
@@ -190,12 +198,11 @@
             "transplantation"
       ],
       "arm_group_label": [
-            "tandem",
+            "transplant",
+            "transplant",
             "transplant"
       ],
-      "other_name": [
-            "alkeran"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -390,7 +397,7 @@
             "complete",
             "remission"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -399,6 +406,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075621.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "systemic",
+            "amyloidosis"
+      ],
+      "mesh_term": [
+            "myeloma"
+      ],
+      "id": "NCT00075621"
 }

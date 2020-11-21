@@ -154,13 +154,14 @@
             "receive"
       ],
       "condition": [
-            "prostatic",
             "hyperplasia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "ML-04A"
+      ],
       "criteria": [
             "enlarge",
             "prostate",
@@ -184,9 +185,7 @@
             "rate",
             "require"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "45",
             "year"
@@ -195,6 +194,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044226.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "enlarge",
+            "prostate"
+      ],
+      "mesh_term": [
+            "hyperplasia"
+      ],
+      "id": "NCT00044226"
 }

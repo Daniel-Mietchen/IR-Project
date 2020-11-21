@@ -151,28 +151,31 @@
             "month"
       ],
       "condition": [
-            "recurrent",
+            "peritoneal",
+            "carcinoma",
             "ovarian",
             "carcinoma"
       ],
       "intervention_type": [
-            "drug"
+            "Other",
+            "Drug"
       ],
       "intervention_name": [
-            "sorafenib",
-            "tosylate"
+            "Laboratory Biomarker Analysis",
+            "Sorafenib Tosylate"
       ],
       "description": [
-            "give",
+            "study",
             "orally"
       ],
       "arm_group_label": [
-            "treatment",
+            "sorafenib",
+            "tosylate",
             "sorafenib",
             "tosylate"
       ],
       "other_name": [
-            "sorafenib"
+            "tosylate"
       ],
       "criteria": [
             "inclusion",
@@ -579,14 +582,15 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093626.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00093626"
 }

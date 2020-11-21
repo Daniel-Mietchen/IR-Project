@@ -130,16 +130,25 @@
             "year"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "busulfan",
+            "cyclophosphamide",
+            "methylprednisolone",
+            "allogeneic bone marrow transplantation",
+            "in vitro-treated bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -316,7 +325,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
@@ -325,6 +334,22 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003960.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "secondary",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "hemisuccinate",
+            "acetate",
+            "acetate",
+            "hemisuccinate",
+            "phosphate"
+      ],
+      "id": "NCT00003960"
 }

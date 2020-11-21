@@ -225,17 +225,36 @@
             "year"
       ],
       "condition": [
-            "lymphoma"
+            "central",
+            "nervous",
+            "system",
+            "tumor",
+            "neck",
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carmustine",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "thiotepa",
+            "adjuvant therapy",
+            "autologous bone marrow transplantation",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -419,12 +438,26 @@
             "trial",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007982.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "anaplastic",
+            "oligodendroglioma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00007982"
 }

@@ -110,7 +110,6 @@
             "child"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "study_pop": [],
@@ -138,7 +137,7 @@
             "expose",
             "infect"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "month"
@@ -147,6 +146,15 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075153.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00075153"
 }

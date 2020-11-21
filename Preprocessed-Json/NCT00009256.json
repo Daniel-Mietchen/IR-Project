@@ -445,7 +445,6 @@
             "fail"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -600,12 +599,19 @@
             "control",
             "abstinence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009256.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00009256"
 }

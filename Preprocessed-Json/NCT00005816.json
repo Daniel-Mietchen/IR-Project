@@ -158,15 +158,15 @@
             "month"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "therapeutic autologous dendritic cells",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -422,12 +422,24 @@
             "azathioprine",
             "cyclosporine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005816.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00005816"
 }

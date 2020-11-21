@@ -91,7 +91,6 @@
             "patient",
             "tissue",
             "type",
-            "0201",
             "may",
             "participate",
             "tissue",
@@ -610,16 +609,20 @@
             "patient",
             "study"
       ],
-      "condition": [
-            "melanoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "montanide",
-            "isa",
-            "51"
+            "IL-2",
+            "gp100:209-217",
+            "OKT3",
+            "rF-go 100P209",
+            "Montanide ISA 51"
       ],
       "criteria": [
             "inclusion",
@@ -674,7 +677,6 @@
             "therapy",
             "patient",
             "must",
-            "0201",
             "positive",
             "patient",
             "gender",
@@ -1017,12 +1019,17 @@
             "dpa",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080353.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00080353"
 }

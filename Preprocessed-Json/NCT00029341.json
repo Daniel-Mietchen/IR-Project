@@ -275,15 +275,13 @@
             "perform"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral"
       ],
       "intervention_name": [
-            "treatment",
-            "interruption"
+            "Treatment Interruption"
       ],
       "criteria": [
             "inclusion",
@@ -408,12 +406,19 @@
             "row",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00029341.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "interruption"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00029341"
 }

@@ -62,17 +62,14 @@
             "month"
       ],
       "condition": [
-            "lung",
             "disease",
             "fungal"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "itraconazole",
-            "oral",
-            "solution"
+            "Itraconazole oral solution"
       ],
       "criteria": [
             "inclusion",
@@ -168,12 +165,18 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005668.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "fungal",
+            "solution"
+      ],
+      "id": "NCT00005668"
 }

@@ -100,27 +100,38 @@
             "study"
       ],
       "condition": [
-            "intermittent",
             "explosive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Fluoxetine",
+            "Divalproex",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "capsule",
+            "mouth",
+            "60",
+            "mg",
+            "daily",
+            "er",
+            "capsule",
+            "mouth",
+            "3000",
+            "mg",
+            "daily",
             "capsule",
             "mouth",
             "8",
             "capsule",
             "daily"
       ],
-      "arm_group_label": [
-            "c"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -272,7 +283,7 @@
             "divalproex",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -281,6 +292,12 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078754.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "impulse",
+            "control",
+            "conduct",
+            "disorder"
+      ],
+      "id": "NCT00078754"
 }

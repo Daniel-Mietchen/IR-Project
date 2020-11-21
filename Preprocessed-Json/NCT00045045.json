@@ -179,18 +179,17 @@
             "year"
       ],
       "condition": [
-            "testicular",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "fludeoxyglucose",
-            "f",
-            "18"
+            "positron emission tomography",
+            "fludeoxyglucose F 18"
       ],
       "criteria": [
             "disease",
@@ -283,11 +282,21 @@
             "tomography",
             "scan"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00045045.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "testicular",
+            "yolk",
+            "sac",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00045045"
 }

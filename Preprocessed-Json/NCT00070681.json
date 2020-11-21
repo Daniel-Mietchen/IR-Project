@@ -258,22 +258,24 @@
             "condition"
       ],
       "condition": [
-            "bone",
+            "disease",
+            "disease",
+            "apnea",
+            "syndrome",
+            "manifestation",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "polysomnography"
+            "Polysomnography"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "65",
             "year"
@@ -282,6 +284,14 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070681.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "apnea",
+            "syndrome",
+            "disease",
+            "manifestation"
+      ],
+      "id": "NCT00070681"
 }

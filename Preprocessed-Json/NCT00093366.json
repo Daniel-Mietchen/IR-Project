@@ -172,14 +172,16 @@
             "month"
       ],
       "condition": [
+            "syndrome",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "arsenic",
-            "trioxide"
+            "etanercept",
+            "arsenic trioxide"
       ],
       "criteria": [
             "disease",
@@ -354,12 +356,23 @@
             "therapy",
             "md"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093366.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "chronic",
+            "myelomonocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease",
+            "trioxide"
+      ],
+      "id": "NCT00093366"
 }

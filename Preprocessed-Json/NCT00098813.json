@@ -164,30 +164,39 @@
             "progression"
       ],
       "condition": [
-            "stage",
+            "thyroid",
+            "cancer",
+            "iv",
+            "follicular",
+            "thyroid",
+            "cancer",
             "iv",
             "papillary",
             "thyroid",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "positron",
-            "emission",
-            "tomography"
+            "romidepsin",
+            "laboratory biomarker analysis",
+            "positron emission tomography"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "romidepsin",
+            "romidepsin",
             "romidepsin"
       ],
       "other_name": [
-            "tomography",
+            "scan",
             "emission",
             "compute"
       ],
@@ -602,12 +611,17 @@
             "dose",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098813.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "neoplasm",
+            "follicular"
+      ],
+      "id": "NCT00098813"
 }

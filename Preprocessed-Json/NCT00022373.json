@@ -186,16 +186,20 @@
             "study"
       ],
       "condition": [
+            "neck",
+            "cancer",
+            "complication",
             "radiation",
+            "therapy",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "management",
-            "therapy",
-            "complication"
+            "iseganan HCl oral solution",
+            "management of therapy complications"
       ],
       "criteria": [
             "disease",
@@ -353,12 +357,23 @@
             "study",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022373.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "oral",
+            "complication",
+            "radiation",
+            "therapy"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00022373"
 }

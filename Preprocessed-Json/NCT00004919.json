@@ -238,30 +238,45 @@
             "year"
       ],
       "condition": [
-            "unspecified",
             "childhood",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "cisplatin",
+            "irinotecan hydrochloride",
+            "amifostine trihydrate",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "cisplatin",
+            "irinotecan",
+            "amifostine",
+            "cisplatin",
+            "irinotecan",
+            "amifostine",
+            "cisplatin",
+            "irinotecan",
+            "amifostine",
             "cisplatin",
             "irinotecan",
             "amifostine"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -611,7 +626,7 @@
             "without",
             "tbi"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -620,6 +635,7 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004919.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00004919"
 }

@@ -214,15 +214,18 @@
             "4",
             "year"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "multimodality",
-            "therapy"
+            "pegfilgrastim",
+            "doxorubicin hydrochloride",
+            "ifosfamide",
+            "multimodality therapy"
       ],
       "criteria": [
             "disease",
@@ -234,7 +237,6 @@
             "sarcoma",
             "locally",
             "advance",
-            "unresectable",
             "metastatic",
             "disease",
             "grade",
@@ -244,7 +246,6 @@
             "grade",
             "system",
             "note",
-            "disease",
             "could",
             "prove",
             "resectable",
@@ -447,7 +448,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -456,6 +457,18 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061984.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "mustard"
+      ],
+      "id": "NCT00061984"
 }

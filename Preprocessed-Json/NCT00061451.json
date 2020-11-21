@@ -63,14 +63,15 @@
             "gemcitabine"
       ],
       "condition": [
-            "carcinoma",
             "lung"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "gemcitabine"
+            "Pemetrexed",
+            "Gemcitabine"
       ],
       "criteria": [
             "inclusion",
@@ -131,12 +132,15 @@
             "serious",
             "condition"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061451.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "lung"
+      ],
+      "id": "NCT00061451"
 }

@@ -86,13 +86,13 @@
             "accord",
             "label"
       ],
-      "condition": [
-            "cholelithiasis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Device",
+            "Drug"
       ],
       "intervention_name": [
+            "Extracorporeal Shock Wave Lithotripsy",
             "ursodiol"
       ],
       "criteria": [
@@ -138,7 +138,7 @@
             "cholecystitis",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -147,6 +147,10 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00042549.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "shockwave"
+      ],
+      "mesh_term": [],
+      "id": "NCT00042549"
 }

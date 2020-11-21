@@ -462,17 +462,15 @@
             "document"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "biopsy"
+            "Biopsy"
       ],
       "description": [
-            "patient",
             "undergo",
             "endorectal",
             "coil",
@@ -499,9 +497,7 @@
             "guide",
             "system"
       ],
-      "arm_group_label": [
-            "biopsy"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -634,9 +630,7 @@
             "protocol",
             "procedure"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -645,6 +639,13 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082147.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00082147"
 }

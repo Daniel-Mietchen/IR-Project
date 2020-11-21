@@ -115,13 +115,14 @@
             "need"
       ],
       "condition": [
-            "diabetes",
             "autoimmune"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "DiaPep277"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -430,7 +431,7 @@
             "mother",
             "plan"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "30",
             "year"
@@ -439,6 +440,18 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00058981.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "latent",
+            "autoimmune",
+            "diabetes",
+            "adult"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "1"
+      ],
+      "id": "NCT00058981"
 }

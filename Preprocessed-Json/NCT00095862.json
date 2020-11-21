@@ -188,7 +188,7 @@
             "study"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -196,9 +196,13 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "allogeneic GM-CSF-secreting breast cancer vaccine",
+            "recombinant interferon alfa",
             "cyclophosphamide"
       ],
       "criteria": [
@@ -269,7 +273,6 @@
             "provide",
             "follow",
             "criterion",
-            "meet",
             "previously",
             "treat",
             "concurrent",
@@ -283,7 +286,6 @@
             "6",
             "week",
             "note",
-            "patient",
             "recent",
             "treatment",
             "gamma",
@@ -520,12 +522,23 @@
             "hypertension",
             "indication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095862.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00095862"
 }

@@ -371,15 +371,16 @@
             "osteoarthritis"
       ],
       "condition": [
-            "temporomandibular",
             "joint",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "Etanercept",
+            "Celecoxib"
       ],
       "criteria": [
             "celecoxib",
@@ -631,9 +632,20 @@
             "woman",
             "include"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001955.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tmd"
+      ],
+      "mesh_term": [
+            "disease",
+            "joint",
+            "disorder",
+            "joint",
+            "dysfunction",
+            "syndrome"
+      ],
+      "id": "NCT00001955"
 }

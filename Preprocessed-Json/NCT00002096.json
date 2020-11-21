@@ -59,14 +59,18 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
+            "infection",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "ganciclovir"
+            "Zidovudine",
+            "Didanosine",
+            "Ganciclovir"
       ],
       "criteria": [
             "inclusion",
@@ -276,12 +280,21 @@
             "ddi",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002096.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "zidovudine"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "triphosphate"
+      ],
+      "id": "NCT00002096"
 }

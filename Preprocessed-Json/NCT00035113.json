@@ -29,15 +29,13 @@
             "cancer"
       ],
       "condition": [
-            "prostatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "epothilone",
-            "b"
+            "epothilone b"
       ],
       "criteria": [
             "inclusion",
@@ -350,9 +348,7 @@
             "fistula",
             "patient"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
@@ -361,6 +357,13 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035113.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "epothilone"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "b"
+      ],
+      "id": "NCT00035113"
 }

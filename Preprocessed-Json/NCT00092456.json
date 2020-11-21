@@ -20,16 +20,33 @@
             "vaccine"
       ],
       "condition": [
-            "rotavirus",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "rotavirus vaccine, live, oral, pentavalent",
+            "Placebo"
       ],
       "description": [
+            "oral",
+            "dose",
+            "x",
+            "lot",
+            "1",
+            "x",
+            "lot",
+            "2",
+            "x",
+            "lot",
+            "3",
+            "rotavirus",
+            "vaccine",
+            "live",
+            "oral",
+            "pentavalent",
             "administer",
             "3",
             "separate",
@@ -46,10 +63,30 @@
             "day",
             "safety",
             "follow",
+            "vaccination",
+            "administer",
+            "3",
+            "separate",
+            "visit",
+            "schedule",
+            "4",
+            "28",
+            "70",
+            "day",
+            "apart",
+            "42",
+            "day",
+            "safety",
+            "follow",
             "vaccination"
       ],
       "arm_group_label": [
-            "placebo"
+            "lot",
+            "1",
+            "lot",
+            "2",
+            "lot",
+            "3"
       ],
       "other_name": [],
       "criteria": [
@@ -89,7 +126,7 @@
             "failure",
             "thrive"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "week"
@@ -98,6 +135,9 @@
             "12",
             "week"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092456.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00092456"
 }

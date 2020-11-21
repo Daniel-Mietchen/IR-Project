@@ -215,24 +215,43 @@
             "year"
       ],
       "condition": [
-            "multiple",
+            "toxicity",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "amifostine trihydrate",
+            "melphalan",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "arm_group_label": [
-            "amifostine",
+            "melphalan",
+            "stem",
+            "cell",
+            "reconstitution",
+            "melphalan",
+            "stem",
+            "cell",
+            "reconstitution",
+            "melphalan",
+            "stem",
+            "cell",
+            "reconstitution",
+            "melphalan",
+            "stem",
+            "cell",
+            "reconstitution",
             "melphalan",
             "stem",
             "cell",
@@ -444,7 +463,7 @@
             "prior",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -453,6 +472,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00052884.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "primary",
+            "systemic",
+            "amyloidosis"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00052884"
 }

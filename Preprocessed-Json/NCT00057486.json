@@ -193,12 +193,14 @@
             "baseline"
       ],
       "condition": [
-            "cryptosporidiosis"
+            "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "IL-12"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -278,12 +280,19 @@
             "intravenous",
             "fluid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00057486.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "interleukin",
+            "12"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00057486"
 }

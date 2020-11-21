@@ -404,13 +404,19 @@
             "center"
       ],
       "condition": [
-            "mix",
+            "glioma",
+            "multiforme",
+            "astrocytoma",
             "oligoastrocytoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "IL13-PE38QQR",
+            "targeted fusion protein therapy",
             "surgery"
       ],
       "criteria": [
@@ -661,12 +667,20 @@
             "protocol",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041587.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "resectable",
+            "supratentorial",
+            "malignant",
+            "glioma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00041587"
 }

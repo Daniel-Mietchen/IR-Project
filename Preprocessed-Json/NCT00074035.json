@@ -165,19 +165,17 @@
             "study"
       ],
       "condition": [
-            "graft",
             "versus",
             "host",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "pentostatin"
       ],
       "description": [
-            "4",
             "iv",
             "infusion",
             "min",
@@ -185,9 +183,7 @@
             "2",
             "week"
       ],
-      "arm_group_label": [
-            "pentostatin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "1",
             "histologic",
@@ -486,12 +482,17 @@
             "without",
             "transfusion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074035.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "v",
+            "host",
+            "disease"
+      ],
+      "id": "NCT00074035"
 }

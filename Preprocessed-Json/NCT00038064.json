@@ -117,21 +117,36 @@
             "patient",
             "anemia"
       ],
-      "condition": [
-            "anemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "rhuepo"
+            "Darbepoetin alfa",
+            "rHuEPO"
       ],
       "description": [
-            "150",
+            "alfa",
+            "administer",
+            "qw",
+            "hemoglobin",
+            "correction",
+            "achieve",
+            "subject",
+            "meet",
+            "hemoglobin",
+            "criterion",
+            "correction",
+            "receive",
+            "maintenance",
+            "dose",
+            "darbepoetin",
+            "alfa",
             "tiw"
       ],
       "arm_group_label": [
-            "rhuepo"
+            "alfa"
       ],
       "criteria": [
             "inclusion",
@@ -213,12 +228,20 @@
             "transfusion",
             "occurences"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038064.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "therapy"
+      ],
+      "mesh_term": [
+            "alfa",
+            "alfa"
+      ],
+      "id": "NCT00038064"
 }

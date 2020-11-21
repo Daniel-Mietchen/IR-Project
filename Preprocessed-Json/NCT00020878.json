@@ -87,17 +87,15 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "celecoxib"
       ],
       "description": [
-            "dose",
             "occur",
             "total",
             "6",
@@ -108,12 +106,8 @@
             "twice",
             "daily"
       ],
-      "arm_group_label": [
-            "study"
-      ],
-      "other_name": [
-            "celebrex"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -187,12 +181,21 @@
             "follow",
             "schedule"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "45",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020878.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00020878"
 }

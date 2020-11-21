@@ -73,17 +73,19 @@
             "regimen"
       ],
       "condition": [
-            "metastatic",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "gene"
+            "adenovirus vector",
+            "interleukin-12 gene"
       ],
       "arm_group_label": [
-            "experimental",
+            "group",
             "group"
       ],
       "criteria": [
@@ -91,7 +93,6 @@
             "characteristic",
             "histologically",
             "cytologically",
-            "confirm",
             "colorectal",
             "adenocarcinoma",
             "metastatic",
@@ -110,7 +111,6 @@
             "liver",
             "volume",
             "note",
-            "must",
             "hepatic",
             "tumor",
             "designate",
@@ -294,12 +294,21 @@
             "heparin",
             "warfarin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072098.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "colon",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00072098"
 }

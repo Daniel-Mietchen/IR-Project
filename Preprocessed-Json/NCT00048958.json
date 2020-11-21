@@ -59,15 +59,17 @@
             "website"
       ],
       "condition": [
-            "multiple",
+            "leukemia",
+            "lymphoblastic",
+            "leukemia",
+            "syndrome",
             "myeloma"
       ],
       "intervention_type": [
-            "genetic"
+            "Genetic"
       ],
       "intervention_name": [
-            "cytogenetic",
-            "analysis"
+            "cytogenetic analysis"
       ],
       "arm_group_label": [
             "treatment"
@@ -123,12 +125,22 @@
             "9665",
             "ltb"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048958.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "cell",
+            "lymphoblastic",
+            "lymphoid",
+            "disease"
+      ],
+      "id": "NCT00048958"
 }

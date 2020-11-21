@@ -74,13 +74,13 @@
             "18",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
             "aminocamptothecin"
       ],
       "criteria": [
@@ -261,12 +261,18 @@
             "puva",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002635.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "cutaneous",
+            "lymphoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002635"
 }

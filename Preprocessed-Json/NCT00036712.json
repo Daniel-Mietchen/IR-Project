@@ -183,14 +183,25 @@
             "year"
       ],
       "condition": [
-            "sarcoma"
+            "myeloproliferative",
+            "disorder",
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
+            "syndrome",
+            "neoplasm",
+            "complication",
+            "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "pain",
-            "therapy"
+            "management of therapy complications",
+            "pain therapy"
       ],
       "criteria": [
             "disease",
@@ -294,7 +305,7 @@
             "ocular",
             "photosensitivity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -303,6 +314,20 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00036712.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome",
+            "neoplasm",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00036712"
 }

@@ -115,28 +115,38 @@
             "progression"
       ],
       "condition": [
-            "recurrent",
+            "grade",
+            "1",
+            "follicular",
+            "lymphoma",
             "grade",
             "2",
             "follicular",
             "lymphoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "recombinant interferon alfa",
+            "thalidomide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
+            "thalidomide",
             "thalidomide"
       ],
       "other_name": [
-            "thalomid"
+            "n",
+            "interferon"
       ],
       "criteria": [
             "inclusion",
@@ -417,12 +427,15 @@
             "anticancer",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015912.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "follicular"
+      ],
+      "id": "NCT00015912"
 }

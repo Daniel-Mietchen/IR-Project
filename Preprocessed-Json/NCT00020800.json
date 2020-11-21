@@ -132,15 +132,14 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine",
-            "phosphate"
+            "rituximab",
+            "fludarabine phosphate"
       ],
       "criteria": [
             "disease",
@@ -262,12 +261,20 @@
             "course",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "waldenstrom",
+            "macroglobulinemia"
+      ],
+      "mesh_term": [
+            "macroglobulinemia",
+            "phosphate"
+      ],
+      "id": "NCT00020800"
 }

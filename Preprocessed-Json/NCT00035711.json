@@ -182,21 +182,40 @@
             "record"
       ],
       "condition": [
-            "diabetes",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease",
+            "mellitus",
+            "dependent",
+            "resistance",
             "mellitus"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035711.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "disease",
+            "disease",
+            "resistance",
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00035711"
 }

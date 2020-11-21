@@ -27,19 +27,31 @@
             "diabetes"
       ],
       "condition": [
-            "diabetes",
             "mellitus",
             "type",
             "2"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "hiip"
+            "LY041001 (HIIP)",
+            "LY041001 (HIIP)"
       ],
       "description": [
-            "inhalation",
+            "capsule",
+            "tid",
+            "3",
+            "time",
+            "per",
+            "day",
+            "min",
+            "6",
+            "iu",
+            "max",
+            "60",
+            "iu",
             "capsule",
             "tid",
             "3",
@@ -53,9 +65,7 @@
             "60",
             "iu"
       ],
-      "arm_group_label": [
-            "b"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -99,12 +109,18 @@
             "disease",
             "copd"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00099515.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00099515"
 }

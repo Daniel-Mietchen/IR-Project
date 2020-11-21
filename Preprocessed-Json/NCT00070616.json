@@ -77,17 +77,35 @@
             "treat",
             "mucositis"
       ],
-      "condition": [
-            "myeloma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Radiation",
+            "Drug"
       ],
       "intervention_name": [
-            "chemotherapy"
+            "Palifermin 6 x 60 \u03bcg/kg/day",
+            "Palifermin 2 x 180 \u03bcg/kg/day",
+            "radiotherapy",
+            "Chemotherapy"
       ],
       "arm_group_label": [
-            "palifermin",
+            "6",
+            "x",
+            "60",
+            "2",
+            "x",
+            "180",
+            "6",
+            "x",
+            "60",
+            "2",
+            "x",
+            "180",
+            "6",
+            "x",
+            "60",
             "2",
             "x",
             "180"
@@ -111,7 +129,7 @@
             "cell",
             "support"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -120,6 +138,10 @@
             "76",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00070616.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "therapy"
+      ],
+      "id": "NCT00070616"
 }

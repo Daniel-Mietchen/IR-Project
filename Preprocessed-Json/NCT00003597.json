@@ -212,19 +212,40 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "recombinant human thrombopoietin",
+            "carboplatin",
+            "etoposide",
+            "ifosfamide",
+            "G-CSF"
+      ],
       "arm_group_label": [
-            "cohort",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
+            "2",
+            "1",
             "2"
       ],
       "other_name": [
-            "nsc",
+            "7431",
+            "241240",
+            "141540",
+            "109724",
+            "7887",
+            "factor",
             "614629"
       ],
       "criteria": [
@@ -418,7 +439,7 @@
             "coumadin",
             "heparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -427,6 +448,17 @@
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003597.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ewing",
+            "primitive",
+            "neuroectodermal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "phosphate",
+            "mustard"
+      ],
+      "id": "NCT00003597"
 }

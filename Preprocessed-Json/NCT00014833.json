@@ -284,12 +284,14 @@
             "study"
       ],
       "condition": [
-            "cardiovascular",
+            "disease",
             "disease"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "intervention"
+            "No intervention"
       ],
       "description": [
             "intervention"
@@ -298,12 +300,18 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014833.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00014833"
 }

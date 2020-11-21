@@ -164,15 +164,21 @@
             "year"
       ],
       "condition": [
-            "testicular",
+            "cancer",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "filgrastim",
+            "cisplatin",
+            "ifosfamide",
             "paclitaxel"
       ],
       "criteria": [
@@ -330,12 +336,26 @@
             "recent",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002559.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm",
+            "mustard"
+      ],
+      "id": "NCT00002559"
 }

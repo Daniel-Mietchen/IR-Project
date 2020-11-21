@@ -33,11 +33,11 @@
             "day"
       ],
       "condition": [
-            "acute",
+            "colonic",
             "disease"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "ertapenem"
@@ -56,13 +56,10 @@
             "diverticulitis",
             "must",
             "present",
-            "fever",
             "body",
             "temperature",
             "sublingual",
-            "abdominal",
             "tenderness",
-            "leukocytosis",
             "leukocyte",
             "leave",
             "shift",
@@ -72,7 +69,6 @@
             "1",
             "band",
             "form",
-            "elevate",
             "crp",
             "20",
             "evidence",
@@ -165,7 +161,7 @@
             "enrol",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -174,6 +170,16 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097734.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acute",
+            "attack",
+            "sigmoid",
+            "diverticulitis"
+      ],
+      "mesh_term": [
+            "disease",
+            "colonic"
+      ],
+      "id": "NCT00097734"
 }

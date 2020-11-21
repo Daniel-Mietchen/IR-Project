@@ -196,16 +196,14 @@
             "year"
       ],
       "condition": [
-            "insulin",
+            "infection",
             "resistance"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "avandia",
-            "administration",
-            "week"
+            "Avandia administration for 6-12 weeks"
       ],
       "criteria": [
             "inclusion",
@@ -254,7 +252,7 @@
             "diabetes",
             "mellitus"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -263,6 +261,13 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006185.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "screen"
+      ],
+      "mesh_term": [
+            "infection",
+            "resistance"
+      ],
+      "id": "NCT00006185"
 }

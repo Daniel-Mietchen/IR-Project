@@ -195,14 +195,20 @@
             "study"
       ],
       "condition": [
+            "cancer",
             "toxicity"
       ],
       "intervention_type": [
-            "procedure"
+            "Dietary Supplement",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "Chinese herbs",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -354,14 +360,19 @@
             "acupuncture",
             "allow"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028964.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00028964"
 }

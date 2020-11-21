@@ -256,28 +256,31 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "clodronate",
             "placebo"
       ],
       "description": [
-            "2",
+            "mg",
+            "po",
+            "daily",
             "pill",
             "po",
             "daily"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "clodronate",
             "2",
             "placebo"
       ],
       "other_name": [
-            "clodronate",
             "disodium"
       ],
       "criteria": [
@@ -981,14 +984,22 @@
             "mastectomy",
             "eligible"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009945.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "acid"
+      ],
+      "id": "NCT00009945"
 }

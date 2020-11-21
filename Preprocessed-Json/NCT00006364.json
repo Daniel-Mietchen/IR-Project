@@ -197,28 +197,45 @@
             "study"
       ],
       "condition": [
-            "relapse",
+            "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelogenous",
+            "leukemia",
+            "positive",
+            "phase",
+            "chronic",
+            "myelogenous",
+            "leukemia",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "omacetaxine mepesuccinate",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "sc",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "omacetaxine",
+            "mepesuccinate",
+            "omacetaxine",
+            "mepesuccinate",
             "omacetaxine",
             "mepesuccinate"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -254,7 +271,6 @@
             "therapy",
             "absence",
             "clonal",
-            "evolution",
             "philadelphia",
             "disease",
             "cytogenetics",
@@ -356,12 +372,19 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006364.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid"
+      ],
+      "id": "NCT00006364"
 }

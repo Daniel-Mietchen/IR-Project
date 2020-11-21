@@ -286,28 +286,67 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "breast",
+            "cancer",
+            "ii",
+            "breast",
+            "cancer",
+            "iiia",
+            "breast",
+            "cancer",
+            "iiib",
+            "breast",
+            "cancer",
             "iiic",
             "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological",
+            "Procedure",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "doxorubicin hydrochloride",
+            "cyclophosphamide",
+            "tipifarnib",
+            "filgrastim",
+            "therapeutic conventional surgery",
+            "laboratory biomarker analysis"
       ],
       "arm_group_label": [
-            "treatment",
+            "doxorubicin",
+            "cyclophosphamide",
+            "tipifarnib",
+            "doxorubicin",
+            "cyclophosphamide",
+            "tipifarnib",
+            "doxorubicin",
+            "cyclophosphamide",
+            "tipifarnib",
+            "doxorubicin",
+            "cyclophosphamide",
+            "tipifarnib",
+            "doxorubicin",
+            "cyclophosphamide",
+            "tipifarnib",
             "doxorubicin",
             "cyclophosphamide",
             "tipifarnib"
       ],
       "other_name": [
-            "neupogen"
+            "pfs",
+            "rdf"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
+            "subcutaneously",
+            "complete",
+            "resection",
             "study"
       ],
       "criteria": [
@@ -561,14 +600,18 @@
             "investigational",
             "agent"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049114.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "breast",
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00049114"
 }

@@ -221,36 +221,44 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "rectum",
+            "ii",
+            "rectal",
+            "cancer",
             "iii",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "external",
-            "beam",
-            "radiation",
-            "therapy"
+            "oxaliplatin",
+            "fluorouracil",
+            "external beam radiation therapy"
       ],
       "description": [
-            "undergo",
+            "iv",
+            "iv",
             "external",
             "beam",
             "radiation",
             "therapy"
       ],
       "arm_group_label": [
-            "treatment",
+            "oxaliplatin",
+            "fluorouracil",
+            "ebrt",
+            "oxaliplatin",
+            "fluorouracil",
+            "ebrt",
             "oxaliplatin",
             "fluorouracil",
             "ebrt"
       ],
-      "other_name": [
-            "ebrt"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -395,12 +403,15 @@
             "positive",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006094.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006094"
 }

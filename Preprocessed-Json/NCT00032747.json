@@ -41,17 +41,14 @@
             "day"
       ],
       "condition": [
-            "chronic",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "vasopressin",
-            "receptor",
-            "antagonist"
+            "Vasopressin V2 Receptor Antagonist"
       ],
       "criteria": [
             "men",
@@ -123,7 +120,7 @@
             "digoxin",
             "spironolactone"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -132,6 +129,14 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00032747.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "heart",
+            "disease"
+      ],
+      "mesh_term": [
+            "failure",
+            "vasopressin"
+      ],
+      "id": "NCT00032747"
 }

@@ -28,14 +28,18 @@
             "coordination"
       ],
       "condition": [
-            "ischemic",
+            "stroke",
+            "acute",
+            "stroke",
             "attack",
             "transient"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "NXY-059"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -111,12 +115,20 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061022.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cataplexy"
+      ],
+      "mesh_term": [
+            "attack",
+            "transient",
+            "sodium"
+      ],
+      "id": "NCT00061022"
 }

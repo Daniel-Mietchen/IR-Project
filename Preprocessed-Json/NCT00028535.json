@@ -179,27 +179,49 @@
             "thereafter"
       ],
       "condition": [
-            "recurrent",
+            "breast",
+            "cancer",
+            "breast",
+            "cancer",
+            "endometrial",
+            "carcinoma",
+            "gastric",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "small",
             "cell",
             "lung",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "trastuzumab",
+            "paclitaxel",
+            "recombinant interleukin-12"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "sc"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "ro"
+            "lymphocyte",
+            "maturation",
+            "factor",
+            "killer",
+            "cell",
+            "stimulatory",
+            "factor"
       ],
       "criteria": [
             "inclusion",
@@ -393,12 +415,28 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028535.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "lung",
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "male",
+            "paclitaxel"
+      ],
+      "id": "NCT00028535"
 }

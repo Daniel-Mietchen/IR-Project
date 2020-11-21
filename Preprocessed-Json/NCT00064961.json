@@ -181,16 +181,16 @@
             "caucasian",
             "woman"
       ],
-      "condition": [
-            "menopause"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "smoke",
-            "cessation",
-            "program"
+            "Individualized dietary-control and exercise program",
+            "Weight-management and smoking cessation maintenance",
+            "Smoking Cessation program"
       ],
       "criteria": [
             "inclusion",
@@ -293,9 +293,7 @@
             "generation",
             "family"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -304,6 +302,11 @@
             "59",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00064961.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "smoke",
+            "cessation"
+      ],
+      "mesh_term": [],
+      "id": "NCT00064961"
 }

@@ -32,18 +32,26 @@
             "study"
       ],
       "condition": [
-            "congestive",
             "heart",
             "failure"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Irbesartan",
+            "Placebo"
       ],
       "description": [
-            "tablet",
+            "oral",
+            "titration",
+            "75",
+            "300",
+            "mg",
+            "daily",
+            "6",
+            "year",
             "oral",
             "titration",
             "75",
@@ -53,9 +61,7 @@
             "6",
             "year"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -174,12 +180,15 @@
             "participation",
             "impractical"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "60",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095238.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure"
+      ],
+      "id": "NCT00095238"
 }

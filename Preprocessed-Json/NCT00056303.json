@@ -122,17 +122,30 @@
             "participant"
       ],
       "condition": [
-            "depression"
+            "behavior",
+            "deficit",
+            "hyperactivity",
+            "disorder"
       ],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral"
       ],
       "intervention_name": [
-            "developmental",
-            "education",
-            "family"
+            "Attachment and Biobehavioral Catch-up",
+            "Developmental Education for Families"
       ],
       "description": [
+            "biobehavioral",
+            "10",
+            "session",
+            "intervention",
+            "target",
+            "synchrony",
+            "nurturance",
+            "calm",
+            "parental",
+            "behavior",
             "developmental",
             "education",
             "family",
@@ -144,7 +157,7 @@
             "development"
       ],
       "arm_group_label": [
-            "developmental",
+            "biobehavioral",
             "education",
             "family"
       ],
@@ -167,7 +180,7 @@
             "medical",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "month"
@@ -176,6 +189,15 @@
             "36",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00056303.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prevention"
+      ],
+      "mesh_term": [
+            "deficit",
+            "disorder",
+            "hyperactivity",
+            "behavior"
+      ],
+      "id": "NCT00056303"
 }

@@ -235,14 +235,14 @@
             "phase"
       ],
       "condition": [
-            "hiv",
+            "simplex",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "acyclovir"
+            "Acyclovir"
       ],
       "criteria": [
             "inclusion",
@@ -422,12 +422,22 @@
             "study",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001115.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "acquire",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "simplex"
+      ],
+      "id": "NCT00001115"
 }

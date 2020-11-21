@@ -218,16 +218,35 @@
             "7"
       ],
       "condition": [
-            "cystic",
             "fibrosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Sodium 4-Phenylbutyrate (4PBA)",
+            "Unconjugated Isoflavones 100 (PTI G-4660, 87% Genistein)",
+            "Placebo"
       ],
       "description": [
+            "standard",
+            "oral",
+            "adult",
+            "dose",
+            "tablet",
+            "4",
+            "day",
+            "participant",
+            "administer",
+            "perfusion",
+            "50",
+            "microm",
+            "genistein",
+            "modify",
+            "npd",
+            "procedure",
             "placebo",
             "dose",
             "match",
@@ -239,9 +258,7 @@
             "study",
             "blind"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -527,12 +544,16 @@
             "uncontrolled",
             "hypertension"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00016744.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "fibrosis",
+            "acid"
+      ],
+      "id": "NCT00016744"
 }

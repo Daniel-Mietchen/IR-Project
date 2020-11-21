@@ -23,17 +23,18 @@
             "week"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "unspecified"
+            "aprepitant",
+            "Comparator: paroxetine HCL",
+            "Comparator: Placebo (Unspecified)"
       ],
       "other_name": [],
       "criteria": [
@@ -42,12 +43,17 @@
             "depressive",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048607.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major"
+      ],
+      "id": "NCT00048607"
 }

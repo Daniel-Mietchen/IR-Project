@@ -466,9 +466,7 @@
             "rat",
             "scale"
       ],
-      "condition": [
-            "healthy"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -664,7 +662,7 @@
             "mri",
             "scanner"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -673,6 +671,10 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090831.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [],
+      "id": "NCT00090831"
 }

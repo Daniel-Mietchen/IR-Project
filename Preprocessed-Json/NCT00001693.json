@@ -242,14 +242,14 @@
             "12"
       ],
       "condition": [
-            "hereditary",
+            "neoplasm",
             "nonpolyposis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "celecoxib"
+            "Celecoxib (SC-58635)"
       ],
       "criteria": [
             "diagnosis",
@@ -756,9 +756,18 @@
             "pelvic",
             "radiation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001693.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "celecoxib"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "hereditary",
+            "nonpolyposis"
+      ],
+      "id": "NCT00001693"
 }

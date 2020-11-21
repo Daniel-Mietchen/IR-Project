@@ -161,31 +161,44 @@
             "toxicity"
       ],
       "condition": [
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma",
+            "diffuse",
+            "mix",
+            "cell",
+            "lymphoma",
+            "lymphoma",
             "small",
             "noncleaved",
             "cell",
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "bryostatin 1",
+            "vincristine sulfate"
       ],
       "description": [
-            "give",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "bryostatin",
+            "1",
+            "vincristine",
+            "sulfate",
             "bryostatin",
             "1",
             "vincristine",
             "sulfate"
       ],
       "other_name": [
-            "vincasar",
+            "sulfate",
             "pfs"
       ],
       "criteria": [
@@ -429,12 +442,17 @@
             "week",
             "duration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00022555.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse",
+            "1"
+      ],
+      "id": "NCT00022555"
 }

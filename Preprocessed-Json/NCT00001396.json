@@ -216,15 +216,13 @@
             "pacemaker"
       ],
       "condition": [
-            "hypertrophic",
             "cardiomyopathy"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "paragon",
-            "pacemaker"
+            "Paragon Pacemaker"
       ],
       "criteria": [
             "inclusion",
@@ -306,7 +304,7 @@
             "pregnancy",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "5",
             "year"
@@ -315,6 +313,13 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001396.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "obstructive",
+            "hcm"
+      ],
+      "mesh_term": [
+            "hypertrophic"
+      ],
+      "id": "NCT00001396"
 }

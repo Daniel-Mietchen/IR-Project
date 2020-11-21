@@ -33,15 +33,17 @@
             "tumor"
       ],
       "condition": [
-            "metastatic",
+            "malignancy",
             "unresectable",
             "solid",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "STA-5312"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -453,12 +455,18 @@
             "week",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088101.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unresectable",
+            "solid",
+            "tumor"
+      ],
+      "mesh_term": [],
+      "id": "NCT00088101"
 }

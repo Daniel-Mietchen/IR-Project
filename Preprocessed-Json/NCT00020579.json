@@ -176,11 +176,9 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "entinostat"
@@ -465,12 +463,21 @@
             "antineoplastic",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00020579.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ivb",
+            "thymoma"
+      ],
+      "mesh_term": [
+            "deacetylase",
+            "inhibitor"
+      ],
+      "id": "NCT00020579"
 }

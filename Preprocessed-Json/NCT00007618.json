@@ -412,7 +412,6 @@
             "date"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "criteria": [
@@ -427,7 +426,7 @@
             "exclusion",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "40",
             "year"
@@ -436,6 +435,13 @@
             "79",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00007618.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colorectal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00007618"
 }

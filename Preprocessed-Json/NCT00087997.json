@@ -81,14 +81,15 @@
             "effect"
       ],
       "condition": [
-            "soft",
             "tissue",
             "sarcoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "STA-4783"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -327,12 +328,16 @@
             "bone",
             "marrow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00087997.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sarcoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00087997"
 }

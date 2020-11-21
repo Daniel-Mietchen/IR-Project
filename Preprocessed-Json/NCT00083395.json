@@ -435,7 +435,6 @@
             "development"
       ],
       "condition": [
-            "arrhythmic",
             "right",
             "ventricular",
             "cardiomyopathy"
@@ -608,9 +607,17 @@
             "participation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083395.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "right",
+            "ventricular",
+            "dysplasia"
+      ],
+      "id": "NCT00083395"
 }

@@ -300,7 +300,7 @@
             "apnea"
       ],
       "condition": [
-            "sleep",
+            "disease",
             "apnea",
             "syndrome"
       ],
@@ -308,7 +308,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -317,6 +317,11 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005560.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "apnea",
+            "syndrome",
+            "disease"
+      ],
+      "id": "NCT00005560"
 }

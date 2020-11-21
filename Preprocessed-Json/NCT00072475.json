@@ -110,7 +110,6 @@
             "multicenter",
             "study",
             "patient",
-            "stratify",
             "accord",
             "risk",
             "group",
@@ -143,7 +142,6 @@
             "chronic",
             "myelomonocytic",
             "note",
-            "stratification",
             "accord",
             "risk",
             "low",
@@ -194,16 +192,16 @@
             "year"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "vatalanib"
       ],
       "description": [
-            "pt",
             "register",
             "1250",
             "po",
@@ -221,9 +219,7 @@
             "increase",
             "1250"
       ],
-      "arm_group_label": [
-            "vatalanib"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "222584"
       ],
@@ -234,7 +230,6 @@
             "primary",
             "secondary",
             "myelodysplastic",
-            "syndrome",
             "md",
             "include",
             "follow",
@@ -249,7 +244,6 @@
             "raeb",
             "ra",
             "ring",
-            "sideroblast",
             "refractory",
             "cytopenia",
             "multilineage",
@@ -259,7 +253,6 @@
             "multilineage",
             "dysplasia",
             "ring",
-            "sideroblast",
             "md",
             "associate",
             "isolate",
@@ -273,7 +266,6 @@
             "close",
             "accrual",
             "note",
-            "accompany",
             "least",
             "1",
             "follow",
@@ -546,7 +538,6 @@
             "prior",
             "chemotherapy",
             "another",
-            "disease",
             "note",
             "md",
             "leukemia",
@@ -571,7 +562,6 @@
             "prior",
             "radiotherapy",
             "another",
-            "disease",
             "note",
             "md",
             "leukemia",
@@ -637,12 +627,23 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072475.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "previously",
+            "treat",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00072475"
 }

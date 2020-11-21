@@ -292,27 +292,67 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluorouracil"
+            "Trastuzumab",
+            "Cyclophosphamide",
+            "docetaxel",
+            "Epirubicin",
+            "Fluorouracil"
       ],
       "description": [
-            "500",
+            "month",
+            "follow",
+            "maintenance",
+            "dose",
+            "6",
+            "every",
+            "3",
+            "week",
+            "1",
+            "year",
+            "18",
+            "injection",
+            "total",
+            "every",
+            "3",
+            "week",
+            "day",
+            "cycle",
+            "dose",
+            "75",
+            "route",
+            "injection",
+            "1",
+            "hour",
+            "every",
+            "3",
+            "week",
+            "every",
+            "3",
+            "week",
             "every",
             "3",
             "week"
       ],
       "arm_group_label": [
-            "6",
+            "fec",
+            "de",
+            "fec",
+            "de",
+            "fec",
+            "de",
             "fec"
       ],
       "other_name": [
-            "epirubicin",
             "hydrochloride"
       ],
       "criteria": [
@@ -507,9 +547,7 @@
             "experimental",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
@@ -518,6 +556,15 @@
             "64",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00054587.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iiia",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00054587"
 }

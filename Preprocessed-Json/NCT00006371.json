@@ -171,23 +171,25 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "therapeutic",
-            "hydrocortisone"
+            "aminoglutethimide",
+            "ketoconazole",
+            "therapeutic hydrocortisone"
       ],
       "arm_group_label": [
-            "hydrocortisone",
+            "aminoglutethimide",
+            "ketoconazole",
+            "ketoconazole",
             "aminoglutethimide"
       ],
-      "other_name": [
-            "corticosteroid"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -312,11 +314,19 @@
             "interact",
             "ketoconazole"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006371.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "succinate",
+            "acetate"
+      ],
+      "id": "NCT00006371"
 }

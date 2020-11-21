@@ -142,15 +142,13 @@
             "month"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bryostatin",
-            "1"
+            "bryostatin 1"
       ],
       "criteria": [
             "disease",
@@ -314,9 +312,17 @@
             "experimental",
             "medication"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003220.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "1"
+      ],
+      "id": "NCT00003220"
 }

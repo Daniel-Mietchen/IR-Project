@@ -260,21 +260,32 @@
             "qvr"
       ],
       "condition": [
-            "scleroderma",
+            "disease",
+            "fibrosis",
+            "disease",
+            "interstitial",
             "systemic"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005317.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "fibrosis",
+            "pulmonary",
+            "fibrosis",
+            "systemic",
+            "diffuse",
+            "disease",
+            "interstitial"
+      ],
+      "id": "NCT00005317"
 }

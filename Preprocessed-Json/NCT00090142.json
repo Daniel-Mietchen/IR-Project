@@ -30,18 +30,26 @@
             "asthma",
             "exercise"
       ],
-      "condition": [
-            "asthma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo"
+            "Comparator: Montelukast",
+            "Comparator: Placebo"
       ],
       "description": [
-            "placebo",
+            "10",
+            "mg",
+            "tablet",
+            "administer",
+            "orally",
+            "single",
+            "witness",
+            "dose",
+            "exercise",
+            "challenge",
             "tablet",
             "administer",
             "orally",
@@ -51,9 +59,7 @@
             "exercise",
             "challenge"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -85,7 +91,7 @@
             "may",
             "participate"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -94,6 +100,9 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090142.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "spasm"
+      ],
+      "id": "NCT00090142"
 }

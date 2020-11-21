@@ -183,15 +183,14 @@
             "1",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "alvocidib",
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -245,15 +244,11 @@
             "fish",
             "blastic",
             "phase",
-            "cml",
             "acute",
             "lymphoblastic",
-            "leukemia",
             "acute",
             "myeloid",
-            "leukemia",
             "note",
-            "patient",
             "may",
             "enrol",
             "presentation",
@@ -411,12 +406,23 @@
             "therapy",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00064285.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "mesylate"
+      ],
+      "id": "NCT00064285"
 }

@@ -262,7 +262,9 @@
             "tumor"
       ],
       "condition": [
-            "speech",
+            "disease",
+            "neoplasm",
+            "neoplasm",
             "disorder"
       ],
       "criteria": [
@@ -443,9 +445,18 @@
             "articulation",
             "impairment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001167.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "ultrasound"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disease",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00001167"
 }

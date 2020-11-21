@@ -192,14 +192,16 @@
             "anderson"
       ],
       "condition": [
-            "myelofibrosis"
+            "cell",
+            "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "RAD001"
+      ],
       "description": [
-            "phase",
             "start",
             "dose",
             "5",
@@ -207,8 +209,6 @@
             "mouth",
             "daily",
             "28",
-            "day",
-            "phase",
             "ii",
             "maximum",
             "tolerate",
@@ -217,9 +217,7 @@
             "phase"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "afinitor"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -419,9 +417,24 @@
             "mother",
             "treat"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081874.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "afinitor"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "myelofibrosis",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "cell",
+            "lymphoblastic"
+      ],
+      "id": "NCT00081874"
 }

@@ -197,17 +197,18 @@
             "within",
             "year"
       ],
-      "condition": [
-            "cancer"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "isolated perfusion",
             "melphalan"
       ],
       "arm_group_label": [
-            "melphalan",
+            "administration",
+            "php",
             "administration",
             "php"
       ],
@@ -527,12 +528,18 @@
             "anticoagulation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096083.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00096083"
 }

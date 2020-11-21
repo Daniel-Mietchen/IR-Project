@@ -276,18 +276,30 @@
             "3",
             "year"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "rituximab",
+            "CHOP regimen",
+            "cladribine",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "description": [
-            "vincristine",
+            "regimen",
+            "hydrochloride",
             "sulfate"
       ],
       "criteria": [
@@ -345,14 +357,11 @@
             "phosphatase",
             "greater",
             "time",
-            "uln",
             "ast",
             "alt",
             "greater",
             "time",
-            "uln",
             "note",
-            "unless",
             "clearly",
             "relate",
             "cll",
@@ -502,7 +511,7 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -511,6 +520,19 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00072007.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "chronic",
+            "lymphocytic",
+            "leukemia"
+      ],
+      "mesh_term": [
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "doxorubicin"
+      ],
+      "id": "NCT00072007"
 }

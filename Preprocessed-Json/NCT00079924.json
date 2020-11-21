@@ -17,13 +17,16 @@
             "raloxifene"
       ],
       "condition": [
-            "postmenopausal",
             "osteoporosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "teriparatide",
+            "aldrenodate",
             "raloxifene"
       ],
       "criteria": [
@@ -78,14 +81,16 @@
             "cell",
             "carcinoma"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "50",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079924.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "postmenopausal",
+            "hydrochloride"
+      ],
+      "id": "NCT00079924"
 }

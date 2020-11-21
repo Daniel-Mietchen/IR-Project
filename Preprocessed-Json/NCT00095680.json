@@ -71,16 +71,21 @@
             "day"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib"
+            "SCIO-469",
+            "SCIO-469 and bortezomib"
       ],
       "description": [
+            "capsule",
+            "three",
+            "time",
+            "daily",
             "addition",
             "bortezomib",
             "treatment",
@@ -97,9 +102,7 @@
             "progression",
             "study"
       ],
-      "arm_group_label": [
-            "002"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -176,12 +179,21 @@
             "throughout",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095680.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "map",
+            "kinase"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00095680"
 }

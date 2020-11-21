@@ -361,18 +361,35 @@
             "anderson"
       ],
       "condition": [
-            "chronic",
+            "syndrome",
             "myelomonocytic",
             "leukemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "decitabine"
+            "Decitabine",
+            "Decitabine",
+            "Decitabine"
       ],
       "description": [
-            "20",
+            "vein",
+            "1",
+            "hour",
+            "daily",
+            "10",
+            "day",
+            "vein",
+            "iv",
+            "1",
+            "hour",
+            "daily",
+            "x",
+            "5",
+            "day",
             "subcutaneous",
             "sq",
             "daily",
@@ -381,13 +398,14 @@
             "day"
       ],
       "arm_group_label": [
-            "decitabine",
+            "10",
+            "iv",
+            "20",
+            "iv",
             "20",
             "sq"
       ],
-      "other_name": [
-            "dacogen"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -531,9 +549,19 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067808.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "methylation"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myelomonocytic",
+            "acute",
+            "myelomonocytic",
+            "chronic"
+      ],
+      "id": "NCT00067808"
 }

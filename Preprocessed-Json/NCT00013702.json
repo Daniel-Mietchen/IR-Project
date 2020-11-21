@@ -351,14 +351,14 @@
             "enrol"
       ],
       "condition": [
-            "hiv",
+            "b",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "adefovir"
+            "Adefovir"
       ],
       "criteria": [
             "inclusion",
@@ -756,9 +756,18 @@
             "study",
             "visit"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00013702.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hepatitis",
+            "b"
+      ],
+      "mesh_term": [
+            "infection",
+            "b",
+            "dipivoxil"
+      ],
+      "id": "NCT00013702"
 }

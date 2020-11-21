@@ -93,27 +93,59 @@
             "participant"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "selenium",
-            "placebo"
+            "Vitamin E",
+            "Selenium",
+            "Vitamin E placebo",
+            "selenium placebo"
       ],
       "description": [
+            "iu",
             "daily",
+            "mouth",
+            "year",
+            "mcg",
+            "daily",
+            "year",
+            "year",
             "year"
       ],
       "arm_group_label": [
+            "e",
+            "selenium",
+            "placebo",
+            "e",
+            "selenium",
             "vitamin",
+            "e",
+            "placebo",
+            "e",
+            "selenium",
+            "vitamin",
+            "e",
+            "placebo",
+            "e",
+            "placebo",
+            "selenium",
+            "placebo",
+            "e",
+            "selenium",
+            "placebo",
             "e",
             "placebo",
             "selenium",
             "placebo"
       ],
       "other_name": [
-            "placebo"
+            "tocopherol"
       ],
       "criteria": [
             "disease",
@@ -292,9 +324,7 @@
             "intervention",
             "phase"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
@@ -303,6 +333,14 @@
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006392.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "e"
+      ],
+      "id": "NCT00006392"
 }

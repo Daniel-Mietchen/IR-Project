@@ -58,15 +58,16 @@
             "later"
       ],
       "condition": [
-            "hiv",
+            "cryptococcal",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "amphotericin",
-            "b"
+            "Lobradimil",
+            "Amphotericin B"
       ],
       "criteria": [
             "inclusion",
@@ -184,12 +185,25 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002316.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "amphotericin",
+            "b"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "cryptococcal",
+            "b",
+            "amphotericin",
+            "b"
+      ],
+      "id": "NCT00002316"
 }

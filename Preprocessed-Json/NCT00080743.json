@@ -204,26 +204,32 @@
             "month"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "gefitinib",
+            "tamoxifen citrate",
+            "Placebo"
       ],
       "description": [
-            "one",
+            "mg",
+            "po",
+            "daily",
+            "mg",
+            "po",
+            "daily",
             "pill",
             "po",
             "daily"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "sugar",
+            "iressa",
             "pill"
       ],
       "criteria": [
@@ -468,12 +474,21 @@
             "ph",
             "5"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00080743.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00080743"
 }

@@ -90,24 +90,20 @@
             "study"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "gefitinib"
       ],
       "description": [
-            "take",
             "orally",
             "day"
       ],
-      "arm_group_label": [
-            "gefitinib"
-      ],
+      "arm_group_label": [],
       "other_name": [],
       "criteria": [
             "disease",
@@ -329,12 +325,24 @@
             "anticancer",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00095836.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "thyroid",
+            "gland",
+            "medullary",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "disease",
+            "neoplasm"
+      ],
+      "id": "NCT00095836"
 }

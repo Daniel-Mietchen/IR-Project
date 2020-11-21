@@ -161,17 +161,15 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "therapeutic",
-            "autologous",
-            "dendritic",
-            "cell"
+            "PSA prostate cancer vaccine",
+            "therapeutic autologous dendritic cells"
       ],
       "criteria": [
             "disease",
@@ -441,14 +439,20 @@
             "day",
             "span"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005992.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005992"
 }

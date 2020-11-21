@@ -240,7 +240,6 @@
             "significant"
       ],
       "condition": [
-            "soft",
             "tissue",
             "neoplasm"
       ],
@@ -573,9 +572,16 @@
             "become",
             "inevaluable"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00041886.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tumor"
+      ],
+      "mesh_term": [
+            "tissue",
+            "neoplasm"
+      ],
+      "id": "NCT00041886"
 }

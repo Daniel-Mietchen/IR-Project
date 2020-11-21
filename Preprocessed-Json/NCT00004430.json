@@ -182,15 +182,17 @@
             "record"
       ],
       "condition": [
-            "corneal",
             "neovascularization"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "laser",
-            "surgery"
+            "Dihematoporphyrin derivative",
+            "prednisolone",
+            "Laser surgery"
       ],
       "criteria": [
             "histologically",
@@ -273,12 +275,20 @@
             "contralateral",
             "eye"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "12",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004430.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "pathologic",
+            "neovascularization"
+      ],
+      "id": "NCT00004430"
 }

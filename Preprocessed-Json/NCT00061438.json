@@ -119,12 +119,11 @@
             "day"
       ],
       "condition": [
-            "pancreatitis",
             "acute",
             "necrotizing"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "meropenem"
@@ -249,12 +248,20 @@
             "nurse",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061438.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "peripancreatic",
+            "infection"
+      ],
+      "mesh_term": [
+            "acute",
+            "necrotizing"
+      ],
+      "id": "NCT00061438"
 }

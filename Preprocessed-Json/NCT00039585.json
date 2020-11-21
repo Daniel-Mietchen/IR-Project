@@ -181,17 +181,18 @@
             "month"
       ],
       "condition": [
-            "primary",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "imatinib mesylate"
       ],
       "criteria": [
             "disease",
@@ -470,11 +471,22 @@
             "discretion",
             "pi"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00039585.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "borderline",
+            "ovarian",
+            "surface",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm",
+            "mesylate"
+      ],
+      "id": "NCT00039585"
 }

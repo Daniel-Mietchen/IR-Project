@@ -51,28 +51,37 @@
             "treat",
             "osteoporosis"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Teriparatide",
+            "Alendronate Sodium",
+            "Placebo",
+            "Placebo"
       ],
       "description": [
             "injection",
+            "36",
+            "month",
+            "oral",
+            "36",
+            "month",
+            "placebo",
+            "daily",
+            "36",
+            "month",
             "placebo",
             "daily",
             "36",
             "month"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "forsteo"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -116,12 +125,13 @@
             "nurse",
             "mother"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051558.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00051558"
 }

@@ -366,15 +366,34 @@
             "trial"
       ],
       "condition": [
-            "neurofibromatosis",
+            "plexiform",
             "type"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "tipifarnib",
             "placebo"
       ],
       "description": [
-            "patient",
+            "orally",
+            "200",
+            "bsa",
+            "every",
+            "12",
+            "hour",
+            "mouth",
+            "po",
+            "daily",
+            "x",
+            "21",
+            "day",
+            "course",
+            "every",
+            "28",
+            "day",
             "receive",
             "oral",
             "placebo",
@@ -1045,7 +1064,7 @@
             "prior",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -1054,6 +1073,15 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00021541.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "neurofibroma"
+      ],
+      "mesh_term": [
+            "1",
+            "sheath",
+            "neoplasm",
+            "plexiform"
+      ],
+      "id": "NCT00021541"
 }

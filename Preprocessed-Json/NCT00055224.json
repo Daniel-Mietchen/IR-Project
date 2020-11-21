@@ -216,7 +216,6 @@
             "individual",
             "mood",
             "anxiety",
-            "disorder",
             "second",
             "aim",
             "examine",
@@ -254,7 +253,6 @@
             "cbt"
       ],
       "condition": [
-            "anxiety",
             "disorder"
       ],
       "criteria": [
@@ -554,7 +552,7 @@
             "md",
             "np"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -563,6 +561,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00055224.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00055224"
 }

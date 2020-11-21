@@ -158,7 +158,6 @@
             "minute",
             "day",
             "1",
-            "etoposide",
             "iv",
             "hour",
             "day",
@@ -190,7 +189,6 @@
             "day",
             "1",
             "note",
-            "patient",
             "unable",
             "receive",
             "etoposide",
@@ -289,19 +287,36 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "carboplatin",
-            "etoposide",
-            "placebo"
+            "Carboplatin, etoposide & thalidomide",
+            "Carboplatin, etoposide & placebo"
       ],
       "description": [
-            "carboplatin",
+            "iv",
+            "day",
+            "1",
+            "etoposide",
+            "iv",
+            "day",
+            "1",
+            "2",
+            "orally",
+            "day",
+            "3",
+            "oral",
+            "thalidomide",
+            "daily",
+            "begin",
+            "day",
+            "1",
+            "24",
+            "month",
             "iv",
             "day",
             "1",
@@ -323,7 +338,8 @@
             "month"
       ],
       "arm_group_label": [
-            "placebo",
+            "arm",
+            "thalidomide",
             "arm"
       ],
       "criteria": [
@@ -442,12 +458,27 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00061919.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma",
+            "phosphate"
+      ],
+      "id": "NCT00061919"
 }

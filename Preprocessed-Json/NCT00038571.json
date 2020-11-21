@@ -59,14 +59,12 @@
             "six",
             "cycle"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "bortezomib"
+            "PS341 (Bortezomib)"
       ],
       "description": [
             "intravenous",
@@ -86,7 +84,7 @@
             "cycle"
       ],
       "arm_group_label": [
-            "arm",
+            "lymphoma",
             "b",
             "lymphoma"
       ],
@@ -186,12 +184,16 @@
             "day",
             "enrollment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "17",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00038571.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "inhibitor"
+      ],
+      "id": "NCT00038571"
 }

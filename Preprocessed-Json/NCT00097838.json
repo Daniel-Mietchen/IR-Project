@@ -206,15 +206,24 @@
             "visit"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
+            "AVX101",
             "placebo"
       ],
       "description": [
-            "phosphate",
+            "replicon",
+            "particle",
+            "vaccine",
+            "express",
+            "hiv",
+            "gag",
+            "antigen",
             "buffer",
             "saline",
             "ph",
@@ -224,7 +233,18 @@
             "sucrose"
       ],
       "arm_group_label": [
-            "placebo"
+            "x",
+            "iu",
+            "dose",
+            "x",
+            "iu",
+            "dose",
+            "x",
+            "iu",
+            "dose",
+            "x",
+            "iu",
+            "dose"
       ],
       "criteria": [
             "inclusion",
@@ -427,7 +447,7 @@
             "pregnant",
             "breastfeed"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -436,6 +456,14 @@
             "50",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00097838.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00097838"
 }

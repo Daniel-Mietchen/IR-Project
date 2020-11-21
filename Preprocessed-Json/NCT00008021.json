@@ -316,17 +316,24 @@
             "36",
             "month"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "yttrium",
-            "90",
-            "monoclonal",
-            "antibody"
+            "filgrastim",
+            "monoclonal antibody Lym-1",
+            "cyclosporine",
+            "paclitaxel",
+            "peripheral blood stem cell transplantation",
+            "indium In 111 monoclonal antibody Lym-1",
+            "yttrium Y 90 monoclonal antibody Lym-1"
       ],
       "criteria": [
             "disease",
@@ -500,12 +507,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00008021.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "paclitaxel",
+            "monoclonal"
+      ],
+      "id": "NCT00008021"
 }

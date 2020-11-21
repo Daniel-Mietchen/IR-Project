@@ -229,29 +229,97 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "melanoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "tyrosinase peptide",
+            "MART-1:27-35 peptide vaccine",
+            "gp100 antigen",
+            "incomplete Freund's adjuvant",
+            "sargramostim",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "sc",
+            "sc",
+            "sc",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "vaccine",
+            "therapy",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "iii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "vaccine",
+            "therapy",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "iii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "vaccine",
+            "therapy",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "iii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "vaccine",
+            "therapy",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "iii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "iii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
+            "vaccine",
+            "therapy",
+            "ii",
+            "vaccine",
+            "therapy",
+            "sargramostim",
             "iii",
             "vaccine",
             "therapy",
             "sargramostim"
       ],
       "other_name": [
-            "prokine"
+            "isa",
+            "51"
       ],
       "criteria": [
             "inclusion",
@@ -471,12 +539,16 @@
             "study",
             "vaccine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006243.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "freund",
+            "adjuvant"
+      ],
+      "id": "NCT00006243"
 }

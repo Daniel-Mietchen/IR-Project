@@ -344,15 +344,24 @@
             "except",
             "clozapine"
       ],
-      "condition": [
-            "schizophrenia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fluphenazine",
-            "decanoate"
+            "perphenazine",
+            "olanzapine",
+            "quetiapine",
+            "risperidone",
+            "ziprasidone",
+            "clozapine",
+            "fluphenazine decanoate"
       ],
       "criteria": [
             "inclusion",
@@ -387,7 +396,7 @@
             "currently",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -396,6 +405,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00014001.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "effectiveness"
+      ],
+      "mesh_term": [
+            "depot",
+            "enanthate",
+            "agent",
+            "fumarate"
+      ],
+      "id": "NCT00014001"
 }

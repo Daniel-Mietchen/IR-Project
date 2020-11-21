@@ -24,16 +24,16 @@
             "mdd"
       ],
       "condition": [
-            "major",
             "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "venlafaxine",
-            "er"
+            "DVS-233 SR",
+            "Venlafaxine ER"
       ],
       "criteria": [
             "inclusion",
@@ -89,7 +89,7 @@
             "ir",
             "er"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -98,6 +98,12 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00087737.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "hydrochloride"
+      ],
+      "id": "NCT00087737"
 }

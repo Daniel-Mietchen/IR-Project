@@ -325,21 +325,32 @@
             "month"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "MOPP Regimen",
+            "Leucovorin Calcium",
+            "Mechlorethamine Hydrochloride",
+            "Methotrexate",
+            "Prednisone",
+            "Procarbazine Hydrochloride",
+            "Vincristine Sulfate",
+            "Conventional Surgery"
       ],
       "description": [
-            "methotrexate",
             "mechlorethamine",
             "vincristine",
             "prednisone",
@@ -347,7 +358,13 @@
             "mmopp"
       ],
       "arm_group_label": [
-            "combination",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
+            "chemotherapy",
             "chemotherapy"
       ],
       "criteria": [
@@ -462,12 +479,28 @@
             "procarbazine",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "3",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002463.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "newly",
+            "diagnose",
+            "childhood",
+            "ependymoma"
+      ],
+      "mesh_term": [
+            "tumor",
+            "tumor",
+            "primitive",
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00002463"
 }

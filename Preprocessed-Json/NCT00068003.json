@@ -303,7 +303,7 @@
             "protocol"
       ],
       "condition": [
-            "metastatic",
+            "melanoma",
             "cancer"
       ],
       "criteria": [
@@ -551,7 +551,7 @@
             "participate",
             "activity"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -560,6 +560,13 @@
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00068003.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "tumor",
+            "tissue"
+      ],
+      "mesh_term": [
+            "metastasis"
+      ],
+      "id": "NCT00068003"
 }

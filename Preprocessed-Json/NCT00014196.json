@@ -191,17 +191,25 @@
             "month"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "docetaxel",
+            "radiation therapy"
       ],
       "arm_group_label": [
+            "follow",
+            "consolidation",
+            "chemo",
+            "follow",
+            "consolidation",
+            "chemo",
             "follow",
             "consolidation",
             "chemo"
@@ -382,12 +390,20 @@
             "resectability",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014196.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00014196"
 }

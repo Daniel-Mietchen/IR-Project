@@ -127,19 +127,19 @@
             "treatment"
       ],
       "condition": [
-            "depressive",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "venlafaxine",
-            "extend",
-            "release"
+            "Sertraline",
+            "Venlafaxine Extended Release"
       ],
       "arm_group_label": [
-            "sertraline",
+            "venlafaxine",
+            "bupropion",
             "venlafaxine",
             "bupropion"
       ],
@@ -323,7 +323,7 @@
             "medication",
             "psychotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -332,6 +332,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057642.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hispanic",
+            "american"
+      ],
+      "mesh_term": [
+            "disorder",
+            "hydrochloride",
+            "agent"
+      ],
+      "id": "NCT00057642"
 }

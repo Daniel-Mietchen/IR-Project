@@ -169,14 +169,17 @@
             "therapy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "hemocyanin"
+            "somatropin",
+            "Hepatitis A virus, inactivated",
+            "Keyhole-Limpet Hemocyanin"
       ],
       "criteria": [
             "inclusion",
@@ -244,12 +247,20 @@
             "require",
             "treatment"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00050921.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection",
+            "hemocyanin"
+      ],
+      "id": "NCT00050921"
 }

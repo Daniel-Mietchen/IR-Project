@@ -231,17 +231,15 @@
             "ability"
       ],
       "condition": [
-            "complication",
             "pregnancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "betamethasone"
+            "Betamethasone"
       ],
       "description": [
-            "cod",
             "study",
             "medication",
             "12",
@@ -339,11 +337,20 @@
             "participation",
             "trial"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015002.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "preterm",
+            "delivery"
+      ],
+      "mesh_term": [
+            "complication",
+            "benzoate",
+            "valerate",
+            "sodium",
+            "phosphate"
+      ],
+      "id": "NCT00015002"
 }

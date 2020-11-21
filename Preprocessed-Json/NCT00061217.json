@@ -218,16 +218,14 @@
             "exit",
             "socket"
       ],
-      "condition": [
-            "amputation"
-      ],
+      "condition": [],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "rectify",
-            "prosthetic",
-            "socket"
+            "Unrectified prosthetic socket",
+            "Rectified prosthetic socket"
       ],
       "criteria": [
             "inclusion",
@@ -296,7 +294,7 @@
             "exercise",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -305,6 +303,11 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00061217.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prosthetic",
+            "evaluation",
+            "questionnaire"
+      ],
+      "id": "NCT00061217"
 }

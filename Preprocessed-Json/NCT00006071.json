@@ -408,9 +408,7 @@
             "endothelial",
             "activation"
       ],
-      "condition": [
-            "hypertension"
-      ],
+      "condition": [],
       "criteria": [
             "patient",
             "must",
@@ -468,9 +466,13 @@
             "contraceptive",
             "method"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006071.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hypertension"
+      ],
+      "mesh_term": [],
+      "id": "NCT00006071"
 }

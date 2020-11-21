@@ -339,15 +339,28 @@
             "failure"
       ],
       "condition": [
-            "obesity"
+            "disease",
+            "disease",
+            "failure",
+            "disease",
+            "mellitus"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00053534.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "mellitus",
+            "failure",
+            "disease",
+            "disease",
+            "disease",
+            "artery",
+            "disease"
+      ],
+      "id": "NCT00053534"
 }

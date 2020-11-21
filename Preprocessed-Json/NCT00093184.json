@@ -50,16 +50,13 @@
             "trial"
       ],
       "condition": [
-            "myocardial",
             "infarction"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "angiomax",
-            "bivalirudin",
-            "anticoagulant"
+            "Angiomax (bivalirudin) anticoagulant"
       ],
       "criteria": [
             "inclusion",
@@ -270,12 +267,20 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093184.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "percutaneous",
+            "coronary",
+            "intervention"
+      ],
+      "mesh_term": [
+            "infarction"
+      ],
+      "id": "NCT00093184"
 }

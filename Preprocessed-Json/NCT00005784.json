@@ -371,7 +371,6 @@
             "protocol"
       ],
       "condition": [
-            "retinal",
             "disease"
       ],
       "criteria": [
@@ -421,12 +420,19 @@
             "3",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "macular",
+            "degeneration"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00005784"
 }

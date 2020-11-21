@@ -195,15 +195,25 @@
             "year"
       ],
       "condition": [
-            "prostate",
+            "flash",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
+            "gabapentin",
             "placebo"
       ],
       "arm_group_label": [
-            "placebo"
+            "28",
+            "day",
+            "7",
+            "21",
+            "7",
+            "7",
+            "14"
       ],
       "criteria": [
             "require",
@@ -327,14 +337,21 @@
             "5",
             "week"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00028574.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "acid"
+      ],
+      "id": "NCT00028574"
 }

@@ -20,17 +20,13 @@
             "serum"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "immune",
-            "serum",
-            "globulin",
-            "human"
+            "Anti-HIV Immune Serum Globulin (Human)"
       ],
       "criteria": [
             "inclusion",
@@ -104,12 +100,20 @@
             "substance",
             "abuse"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002036.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "serum"
+      ],
+      "id": "NCT00002036"
 }

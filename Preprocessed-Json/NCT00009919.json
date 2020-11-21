@@ -103,28 +103,27 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "renal",
+            "cell",
+            "cancer",
             "iv",
             "renal",
             "cell",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "semaxanib"
       ],
       "description": [
-            "give",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
             "semaxanib"
       ],
       "other_name": [
-            "sugen",
             "5416"
       ],
       "criteria": [
@@ -383,12 +382,16 @@
             "prior",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00009919.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00009919"
 }

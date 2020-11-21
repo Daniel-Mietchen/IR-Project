@@ -34,27 +34,14 @@
             "disease"
       ],
       "condition": [
-            "genital",
+            "cancer",
             "wart"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "gardasil",
-            "human",
-            "papillomavirus",
-            "type",
-            "6",
-            "11",
-            "16",
-            "18",
-            "recombinant",
-            "vaccine",
-            "duration",
-            "treatment",
-            "4",
-            "year"
+            "V501, Gardasil, human papillomavirus (type 6, 11, 16, 18) recombinant vaccine / Duration of Treatment: 4 years"
       ],
       "criteria": [
             "inclusion",
@@ -82,9 +69,7 @@
             "genital",
             "wart"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
@@ -93,6 +78,11 @@
             "23",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092482.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "acuminata"
+      ],
+      "id": "NCT00092482"
 }

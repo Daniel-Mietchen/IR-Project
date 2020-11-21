@@ -52,22 +52,21 @@
             "dose"
       ],
       "condition": [
+            "cancer",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Other"
+      ],
       "intervention_name": [
-            "pi",
-            "discretion"
+            "PI Discretion"
       ],
       "description": [
-            "pi",
             "discretion"
       ],
-      "arm_group_label": [
-            "pegfilgrastim"
-      ],
+      "arm_group_label": [],
       "study_pop": [],
       "sampling_method": [
             "sample"
@@ -100,12 +99,19 @@
             "2",
             "week"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094822.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pegfilgrastim"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00094822"
 }

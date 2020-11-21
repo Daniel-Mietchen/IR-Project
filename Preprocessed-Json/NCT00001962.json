@@ -447,18 +447,20 @@
             "duration"
       ],
       "condition": [
-            "diamond",
+            "anemia",
+            "red",
+            "cell",
+            "aplasia",
             "blackfan",
             "anemia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "daclizumab"
+            "Daclizumab"
       ],
       "description": [
-            "daclizumab",
             "body",
             "weight",
             "every",
@@ -468,12 +470,8 @@
             "5",
             "infusion"
       ],
-      "arm_group_label": [
-            "daclizumab"
-      ],
-      "other_name": [
-            "zenapax"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "criterion",
             "1",
@@ -681,12 +679,22 @@
             "pregnancy",
             "lactation"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001962.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "aplastic",
+            "anemia"
+      ],
+      "mesh_term": [
+            "aplastic",
+            "aplasia",
+            "pure",
+            "g"
+      ],
+      "id": "NCT00001962"
 }

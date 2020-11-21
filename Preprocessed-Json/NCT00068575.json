@@ -182,18 +182,63 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "Recombinant Interferon Alfa",
+            "Cisplatin",
+            "Fluorouracil",
+            "Radiation Therapy"
       ],
       "description": [
-            "external",
+            "million",
+            "unit",
+            "subcutaneously",
+            "every",
+            "day",
+            "monday",
+            "wednesday",
+            "friday",
+            "day",
+            "6",
+            "week",
+            "total",
+            "17",
+            "dose",
+            "iv",
+            "60",
+            "minute",
+            "day",
+            "1",
+            "8",
+            "15",
+            "29",
+            "36",
+            "43",
+            "weekly",
+            "total",
+            "6",
+            "dose",
+            "5",
+            "week",
+            "radiation",
+            "therapy",
+            "continuous",
+            "infusion",
+            "6",
+            "week",
+            "total",
+            "3",
+            "course",
+            "day",
+            "day",
+            "day",
             "beam",
             "radiation",
             "day",
@@ -206,13 +251,16 @@
             "20"
       ],
       "arm_group_label": [
-            "postoperative",
+            "chemoradiation",
+            "regimen",
+            "chemoradiation",
+            "regimen",
+            "chemoradiation",
+            "regimen",
             "chemoradiation",
             "regimen"
       ],
-      "other_name": [
-            "radiatherapy"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -459,12 +507,19 @@
             "severe",
             "depression"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00068575.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "pancreas"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00068575"
 }

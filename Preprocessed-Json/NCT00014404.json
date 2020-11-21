@@ -143,12 +143,11 @@
             "month"
       ],
       "condition": [
-            "head",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "celecoxib"
@@ -426,12 +425,22 @@
             "nsaid",
             "inhibitor"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014404.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lip",
+            "oral",
+            "cavity",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00014404"
 }

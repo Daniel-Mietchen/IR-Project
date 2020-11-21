@@ -230,7 +230,9 @@
             "memory"
       ],
       "condition": [
-            "stutter"
+            "articulation",
+            "disorder",
+            "disorder"
       ],
       "criteria": [
             "criterion",
@@ -558,9 +560,17 @@
             "home",
             "include"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001551.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "speech",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001551"
 }

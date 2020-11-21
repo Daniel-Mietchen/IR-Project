@@ -83,13 +83,14 @@
             "gefitinib"
       ],
       "condition": [
-            "breast",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CI-1033"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -374,14 +375,16 @@
             "brain",
             "metastasis"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00051051.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "dihydrochloride"
+      ],
+      "id": "NCT00051051"
 }

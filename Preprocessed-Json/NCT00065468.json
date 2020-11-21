@@ -57,18 +57,55 @@
             "rcc"
       ],
       "condition": [
-            "kidney",
+            "renal",
+            "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "alfa"
+            "Interferon Alfa",
+            "CCI-779",
+            "Interferon Alfa and CCI-779"
       ],
       "description": [
-            "15",
+            "alfa",
+            "roferon",
+            "3",
+            "mu",
+            "give",
+            "sub",
+            "cutaneously",
+            "three",
+            "time",
+            "first",
+            "week",
+            "9",
+            "mu",
+            "give",
+            "sub",
+            "cutaneously",
+            "three",
+            "time",
+            "second",
+            "week",
+            "18",
+            "mu",
+            "give",
+            "sub",
+            "cutaneously",
+            "three",
+            "time",
+            "thereafter",
+            "mg",
+            "give",
+            "intra",
+            "venously",
+            "per",
+            "week",
             "mg",
             "give",
             "intra",
@@ -86,9 +123,7 @@
             "three",
             "time"
       ],
-      "arm_group_label": [
-            "c"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -127,12 +162,21 @@
             "week",
             "randomization"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00065468.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kidney",
+            "cancer"
+      ],
+      "mesh_term": [
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00065468"
 }

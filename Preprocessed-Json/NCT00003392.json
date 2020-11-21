@@ -226,21 +226,45 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "melphalan",
+            "paclitaxel",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "170",
+            "day",
+            "2",
+            "last",
+            "day",
+            "leukapheresis",
+            "auc",
+            "iv",
+            "approximately",
+            "day",
+            "21",
+            "42",
+            "iv",
+            "day",
+            "1",
+            "iv",
+            "approximately",
+            "day",
+            "63",
             "iv",
             "day",
             "1"
@@ -459,7 +483,7 @@
             "anticoagulation",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -468,6 +492,14 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003392.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003392"
 }

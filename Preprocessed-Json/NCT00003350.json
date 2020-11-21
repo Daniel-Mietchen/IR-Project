@@ -247,17 +247,37 @@
             "sarcoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "paclitaxel",
+            "pegylated liposomal doxorubicin hydrochloride",
+            "laboratory biomarker analysis",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "paclitaxel",
+            "ii",
+            "pegylated",
+            "liposomal",
+            "doxorubicin",
+            "hydrochloride",
+            "paclitaxel",
+            "ii",
+            "pegylated",
+            "liposomal",
+            "doxorubicin",
+            "hydrochloride",
+            "paclitaxel",
             "ii",
             "pegylated",
             "liposomal",
@@ -265,7 +285,8 @@
             "hydrochloride"
       ],
       "other_name": [
-            "quality",
+            "hydrochloride",
+            "liposome",
             "life",
             "assessment"
       ],
@@ -521,12 +542,19 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003350.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "kaposi",
+            "opportunistic",
+            "infection",
+            "doxorubicin",
+            "paclitaxel"
+      ],
+      "id": "NCT00003350"
 }

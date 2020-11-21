@@ -38,29 +38,39 @@
             "chemotherapy"
       ],
       "condition": [
-            "fallopian",
+            "cancer",
+            "cancer",
             "tube",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pertuzumab"
+            "Placebo",
+            "Gemcitabine",
+            "Pertuzumab"
       ],
       "description": [
-            "pertuzumab",
+            "provide",
+            "formulation",
+            "infusion",
+            "provide",
+            "solution",
+            "infusion",
             "provide",
             "formulation",
             "infusion"
       ],
       "arm_group_label": [
-            "pertuzumab",
+            "gemcitabine",
+            "gemcitabine",
+            "gemcitabine",
             "gemcitabine"
       ],
-      "other_name": [
-            "rhumab"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -372,14 +382,17 @@
             "treatment",
             "complication"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00096993.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "tube",
+            "neoplasm"
+      ],
+      "id": "NCT00096993"
 }

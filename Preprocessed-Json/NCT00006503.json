@@ -212,17 +212,26 @@
             "pittsburgh"
       ],
       "condition": [
-            "menopause"
+            "disease",
+            "arteriosclerosis",
+            "artery",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006503.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "artery",
+            "disease",
+            "artery",
+            "disease",
+            "ischemia"
+      ],
+      "id": "NCT00006503"
 }

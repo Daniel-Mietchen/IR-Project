@@ -154,15 +154,14 @@
             "within",
             "month"
       ],
-      "condition": [
-            "sarcoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "doxorubicin",
-            "hydrochloride"
+            "bevacizumab",
+            "doxorubicin hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -498,12 +497,23 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052390.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00052390"
 }

@@ -496,9 +496,7 @@
             "learn",
             "task"
       ],
-      "condition": [
-            "involutional"
-      ],
+      "condition": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -796,7 +794,7 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -805,6 +803,12 @@
             "45",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00082030.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00082030"
 }

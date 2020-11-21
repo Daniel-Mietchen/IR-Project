@@ -360,30 +360,83 @@
             "survival"
       ],
       "condition": [
-            "untreated",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "mll",
+            "abnormality",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "del",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "inv",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "16",
+            "16",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "8",
+            "21",
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "small",
+            "lymphocytic",
+            "lymphoma",
+            "chronic",
+            "lymphocytic",
+            "leukemia",
             "adult",
             "acute",
             "myeloid",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "decitabine",
+            "valproic acid",
+            "pharmacological study",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "decitabine",
+            "valproic",
+            "acid",
+            "decitabine",
+            "valproic",
+            "acid",
+            "decitabine",
+            "valproic",
+            "acid",
             "decitabine",
             "valproic",
             "acid"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -594,12 +647,21 @@
             "valproic",
             "acid"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079378.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute",
+            "lymphoid",
+            "lymphocytic",
+            "chronic",
+            "acid"
+      ],
+      "id": "NCT00079378"
 }

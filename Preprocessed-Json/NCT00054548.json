@@ -183,30 +183,47 @@
             "mtd"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "oblimersen sodium",
+            "paclitaxel",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "oblimersen",
+            "sodium",
+            "paclitaxel",
+            "oblimersen",
+            "sodium",
+            "paclitaxel",
+            "oblimersen",
+            "sodium",
+            "paclitaxel",
             "oblimersen",
             "sodium",
             "paclitaxel"
       ],
       "other_name": [
-            "pharmacological",
+            "antisense",
+            "oligodeoxynucleotide",
             "study"
       ],
       "criteria": [
@@ -429,12 +446,15 @@
             "exclude",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00054548.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00054548"
 }

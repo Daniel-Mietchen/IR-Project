@@ -152,27 +152,54 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "adenosquamous",
+            "cell",
+            "carcinoma",
+            "clear",
+            "cell",
+            "carcinoma",
+            "papillary",
+            "serous",
+            "carcinoma",
+            "endometrial",
+            "carcinoma",
+            "iiia",
+            "endometrial",
+            "carcinoma",
+            "iiib",
+            "endometrial",
+            "carcinoma",
+            "iiic",
+            "endometrial",
+            "carcinoma",
+            "iva",
+            "endometrial",
+            "carcinoma",
             "ivb",
             "endometrial",
             "carcinoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "temsirolimus",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "temsirolimus",
             "temsirolimus"
       ],
       "other_name": [
-            "torisel"
+            "cycle",
+            "inhibitor",
+            "779"
       ],
       "criteria": [
             "inclusion",
@@ -785,14 +812,20 @@
             "aggravate",
             "treatment"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00072176.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "serous",
+            "clear",
+            "cell",
+            "neoplasm",
+            "adenosquamous"
+      ],
+      "id": "NCT00072176"
 }

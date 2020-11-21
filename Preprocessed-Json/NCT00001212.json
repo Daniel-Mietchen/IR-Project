@@ -237,15 +237,19 @@
             "month"
       ],
       "condition": [
-            "systemic",
+            "syndrome",
             "lupus",
             "erythematosus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "cyclosporin"
+            "prednisone",
+            "cyclophosphamide",
+            "cyclosporin A"
       ],
       "criteria": [
             "inclusion",
@@ -477,9 +481,18 @@
             "convulsive",
             "disorder"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001212.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cyclosporin"
+      ],
+      "mesh_term": [
+            "erythematosus",
+            "systemic",
+            "syndrome",
+            "agent"
+      ],
+      "id": "NCT00001212"
 }

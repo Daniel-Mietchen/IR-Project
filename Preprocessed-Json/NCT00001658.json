@@ -300,14 +300,18 @@
             "level"
       ],
       "condition": [
-            "tic",
+            "disease",
+            "disorder",
+            "compulsive",
+            "disorder",
+            "infection",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "amoxicillin"
+            "Amoxicillin"
       ],
       "criteria": [
             "subject",
@@ -442,9 +446,25 @@
             "medical",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001658.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "tic",
+            "disorder"
+      ],
+      "mesh_term": [
+            "disease",
+            "personality",
+            "disorder",
+            "disorder",
+            "behavior",
+            "disorder",
+            "disorder",
+            "disease",
+            "disorder",
+            "infection"
+      ],
+      "id": "NCT00001658"
 }

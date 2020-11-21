@@ -191,22 +191,57 @@
             "arm"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Radiation",
+            "Procedure"
       ],
       "intervention_name": [
-            "surgery"
+            "Chemotherapy",
+            "Radiotherapy",
+            "Surgery"
       ],
       "description": [
+            "85",
+            "1",
+            "hour",
+            "iv",
+            "infusion",
+            "cisplatin",
+            "100",
+            "1",
+            "hour",
+            "iv",
+            "infusion",
+            "schedule",
+            "3",
+            "cycle",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "3",
+            "week",
+            "last",
+            "chemotherapy",
+            "administration",
+            "44",
+            "gy",
+            "22",
+            "fraction",
+            "concomitant",
+            "boost",
+            "technique",
+            "3",
+            "week",
             "week",
             "termination",
             "radiotherapy"
       ],
       "arm_group_label": [
-            "arm",
+            "b",
             "b"
       ],
       "criteria": [
@@ -455,7 +490,7 @@
             "experimental",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -464,6 +499,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030771.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00030771"
 }

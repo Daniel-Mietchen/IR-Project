@@ -161,20 +161,18 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma",
             "plasma",
             "cell",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "brostallicin"
       ],
       "description": [
-            "patient",
             "receive",
             "brostallicin",
             "iv",
@@ -190,8 +188,6 @@
             "disease",
             "progression",
             "unacceptable",
-            "toxicity",
-            "cohort",
             "patient",
             "receive",
             "escalate",
@@ -213,9 +209,7 @@
             "experience",
             "toxicity"
       ],
-      "arm_group_label": [
-            "brostallicin"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -228,7 +222,6 @@
             "current",
             "demonstration",
             "follow",
-            "criterion",
             "major",
             "criterion",
             "plasmacytoma",
@@ -292,7 +285,6 @@
             "igg",
             "greater",
             "note",
-            "diagnosis",
             "multiple",
             "myeloma",
             "require",
@@ -705,12 +697,22 @@
             "clinical",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00060203.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory",
+            "multiple",
+            "myeloma"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00060203"
 }

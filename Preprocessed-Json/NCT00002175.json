@@ -31,14 +31,13 @@
             "cohort"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dinitrochlorobenzene"
+            "Dinitrochlorobenzene"
       ],
       "criteria": [
             "inclusion",
@@ -132,7 +131,7 @@
             "3",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -141,6 +140,15 @@
             "55",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002175.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "dinitrobenzenes"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00002175"
 }

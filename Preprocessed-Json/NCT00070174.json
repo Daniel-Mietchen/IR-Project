@@ -403,17 +403,32 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "leukemia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "allogeneic",
-            "bone",
-            "marrow",
-            "transplantation"
+            "asparaginase",
+            "busulfan",
+            "cyclophosphamide",
+            "cyclosporine",
+            "cytarabine",
+            "daunorubicin hydrochloride",
+            "etoposide",
+            "gemtuzumab ozogamicin",
+            "methotrexate",
+            "mitoxantrone hydrochloride",
+            "allogeneic bone marrow transplantation"
       ],
       "criteria": [
             "disease",
@@ -509,9 +524,7 @@
             "1",
             "month",
             "21",
-            "year",
             "note",
-            "child",
             "1",
             "month",
             "age",
@@ -637,9 +650,19 @@
             "therapeutic",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00070174.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "acute",
+            "erythroleukemia"
+      ],
+      "mesh_term": [
+            "myeloid",
+            "myeloid",
+            "acute"
+      ],
+      "id": "NCT00070174"
 }

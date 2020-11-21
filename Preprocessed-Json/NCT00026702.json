@@ -305,7 +305,10 @@
             "arf"
       ],
       "condition": [
-            "renal",
+            "disease",
+            "failure",
+            "failure",
+            "chronic",
             "tubular",
             "toxicity"
       ],
@@ -422,12 +425,23 @@
             "interpretation",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026702.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "biomarkers"
+      ],
+      "mesh_term": [
+            "disease",
+            "insufficiency",
+            "kidney",
+            "injury",
+            "failure",
+            "chronic"
+      ],
+      "id": "NCT00026702"
 }

@@ -175,13 +175,18 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
+            "aldesleukin",
+            "recombinant interferon alfa",
+            "sargramostim",
             "temozolomide"
       ],
       "criteria": [
@@ -369,12 +374,17 @@
             "levamisole",
             "cimetidine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00014092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00014092"
 }

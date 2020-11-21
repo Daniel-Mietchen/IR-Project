@@ -290,13 +290,15 @@
             "treatment",
             "discontinuation"
       ],
-      "condition": [
-            "amblyopia"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Device",
+            "Device",
+            "Drug"
       ],
       "intervention_name": [
+            "Eye patch",
+            "spectacles",
             "atropine"
       ],
       "criteria": [
@@ -342,7 +344,7 @@
             "6",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "7",
             "year"
@@ -351,6 +353,10 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094692.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "spectacle"
+      ],
+      "mesh_term": [],
+      "id": "NCT00094692"
 }

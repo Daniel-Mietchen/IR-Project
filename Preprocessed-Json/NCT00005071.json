@@ -183,14 +183,19 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "biopsy",
+            "bronchoscopy",
+            "computed tomography",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -225,9 +230,20 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005071.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00005071"
 }

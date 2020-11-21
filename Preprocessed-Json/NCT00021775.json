@@ -189,7 +189,6 @@
             "future"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -260,12 +259,19 @@
             "interfere",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021775.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00021775"
 }

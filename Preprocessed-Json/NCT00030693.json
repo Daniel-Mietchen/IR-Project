@@ -279,7 +279,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -287,23 +286,42 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "recombinant fowlpox-B7.1 vaccine",
+            "recombinant fowlpox-TRICOM vaccine",
+            "laboratory biomarker analysis",
+            "quality-of-life assessment"
       ],
       "description": [
-            "ancillary",
+            "intratumorally",
+            "intratumorally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "recombinant",
+            "vaccine",
+            "ii",
+            "recombinant",
+            "vaccine",
+            "recombinant",
+            "vaccine",
+            "ii",
+            "recombinant",
+            "vaccine",
+            "recombinant",
+            "vaccine",
             "ii",
             "recombinant",
             "vaccine"
       ],
       "other_name": [
-            "quality",
+            "vaccine",
             "life",
             "assessment"
       ],
@@ -398,7 +416,6 @@
             "greater",
             "2",
             "time",
-            "uln",
             "elevate",
             "pt",
             "ptt",
@@ -516,12 +533,13 @@
             "surgery",
             "recover"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00030693.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00030693"
 }

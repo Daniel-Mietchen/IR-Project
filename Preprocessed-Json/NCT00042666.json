@@ -24,11 +24,12 @@
             "lymphoma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "LY317615"
+      ],
       "description": [
-            "500",
             "mg",
             "oral",
             "daily",
@@ -37,9 +38,7 @@
             "day",
             "cycle"
       ],
-      "other_name": [
-            "enzastaurin"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -64,12 +63,16 @@
             "heart",
             "problem"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00042666.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "large",
+            "diffuse"
+      ],
+      "id": "NCT00042666"
 }

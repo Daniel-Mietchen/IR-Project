@@ -179,7 +179,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -187,23 +186,40 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "irinotecan",
-            "hydrochloride"
+            "alvocidib",
+            "leucovorin calcium",
+            "fluorouracil",
+            "irinotecan hydrochloride"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "iv",
             "iv"
       ],
       "arm_group_label": [
-            "treatment",
+            "alvocidib",
+            "combination",
+            "chemotherapy",
+            "alvocidib",
+            "combination",
+            "chemotherapy",
+            "alvocidib",
+            "combination",
+            "chemotherapy",
             "alvocidib",
             "combination",
             "chemotherapy"
       ],
-      "other_name": [],
+      "other_name": [
+            "1275"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -339,12 +355,13 @@
             "investigational",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021073.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00021073"
 }

@@ -157,13 +157,16 @@
             "year"
       ],
       "condition": [
-            "bladder",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
+            "hexaminolevulinate",
+            "biopsy",
             "cystoscopy"
       ],
       "criteria": [
@@ -302,12 +305,23 @@
             "clinical",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052637.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "0",
+            "bladder",
+            "cancer"
+      ],
+      "mesh_term": [
+            "bladder",
+            "neoplasm",
+            "situ"
+      ],
+      "id": "NCT00052637"
 }

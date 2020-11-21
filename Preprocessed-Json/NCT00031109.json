@@ -324,15 +324,15 @@
             "measure"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "aluminum",
-            "hydroxide"
+            "gp160 MN/LAI-2",
+            "Aluminum hydroxide"
       ],
       "criteria": [
             "inclusion",
@@ -588,9 +588,18 @@
             "029",
             "202"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00031109.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide"
+      ],
+      "id": "NCT00031109"
 }

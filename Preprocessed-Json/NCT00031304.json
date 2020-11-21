@@ -282,7 +282,7 @@
             "graham"
       ],
       "condition": [
-            "hiv",
+            "seronegativity",
             "infection"
       ],
       "criteria": [
@@ -365,7 +365,7 @@
             "participant",
             "health"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -374,6 +374,14 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00031304.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00031304"
 }

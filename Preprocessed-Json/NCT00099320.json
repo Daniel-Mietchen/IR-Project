@@ -43,18 +43,63 @@
             "alone"
       ],
       "condition": [
-            "type",
             "2",
             "diabetes",
             "mellitus"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "exenatide",
+            "Placebo"
       ],
       "description": [
+            "placebo",
+            "period",
+            "twice",
+            "daily",
+            "give",
+            "subcutaneously",
+            "addition",
+            "current",
+            "therapy",
+            "regimen",
+            "subject",
+            "administer",
+            "20",
+            "mcg",
+            "exenatide",
+            "2",
+            "unit",
+            "5",
+            "mg",
+            "twice",
+            "daily",
+            "subcutaneous",
+            "injection",
+            "first",
+            "4",
+            "week",
+            "therapy",
+            "40",
+            "ml",
+            "study",
+            "drug",
+            "4",
+            "unit",
+            "10",
+            "mg",
+            "exenatide",
+            "twice",
+            "daily",
+            "subcutaneous",
+            "injection",
+            "remain",
+            "12",
+            "week",
+            "therapy",
             "placebo",
             "period",
             "twice",
@@ -75,12 +120,8 @@
             "week",
             "therapy"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
-      "other_name": [
-            "synthetic"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -140,7 +181,7 @@
             "month",
             "screen"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "21",
             "year"
@@ -149,6 +190,15 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00099320.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lilly"
+      ],
+      "mesh_term": [
+            "mellitus",
+            "mellitus",
+            "type",
+            "2"
+      ],
+      "id": "NCT00099320"
 }

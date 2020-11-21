@@ -85,13 +85,14 @@
             "study"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "CI-994"
+      ],
       "description": [
             "outline",
             "treatment",
@@ -101,7 +102,8 @@
             "treatment"
       ],
       "other_name": [
-            "pd",
+            "dinaline",
+            "inhibitor",
             "123654"
       ],
       "criteria": [
@@ -263,12 +265,22 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005624.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "plasma",
+            "cell",
+            "neoplasm"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00005624"
 }

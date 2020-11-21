@@ -160,13 +160,14 @@
             "study"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Dietary Supplement",
+            "Drug"
       ],
       "intervention_name": [
+            "folic acid",
             "lometrexol"
       ],
       "criteria": [
@@ -259,7 +260,6 @@
             "least",
             "hemoglobin",
             "least",
-            "without",
             "transfusion",
             "growth",
             "factor",
@@ -456,12 +456,25 @@
             "trimethoprim",
             "pyrimethamine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033722.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenosquamous",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "acid",
+            "b",
+            "complex"
+      ],
+      "id": "NCT00033722"
 }

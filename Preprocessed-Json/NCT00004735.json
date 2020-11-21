@@ -275,16 +275,15 @@
             "100"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "hepatitis",
-            "vaccine",
-            "inactivate"
+            "Tetanus toxoid",
+            "Hepatitis A Vaccine (Inactivated)"
       ],
       "criteria": [
             "inclusion",
@@ -381,7 +380,7 @@
             "vaccination",
             "administer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -390,6 +389,13 @@
             "24",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004735.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "experience"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00004735"
 }

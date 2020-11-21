@@ -194,15 +194,15 @@
             "study"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "gonadotrophin releasing hormone",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -277,11 +277,18 @@
             "radical",
             "prostatectomy"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003290.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003290"
 }

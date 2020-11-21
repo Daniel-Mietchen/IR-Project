@@ -191,23 +191,37 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "prostate",
+            "metastasis",
+            "prostate",
+            "cancer",
+            "prostate",
+            "cancer",
             "iv",
             "prostate",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "rebimastat",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "rebimastat",
+            "daily",
+            "ii",
+            "rebimastat",
+            "twice",
+            "daily",
+            "rebimastat",
+            "daily",
             "ii",
             "rebimastat",
             "twice",
@@ -742,11 +756,12 @@
             "criterion",
             "agc"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040755.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00040755"
 }

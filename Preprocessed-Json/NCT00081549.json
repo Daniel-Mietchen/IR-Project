@@ -113,16 +113,13 @@
             "interval"
       ],
       "condition": [
-            "pancreatic",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "aroplatin",
-            "liposomal",
-            "nddp"
+            "Aroplatin (Liposomal NDDP, L-NDDP)"
       ],
       "criteria": [
             "inclusion",
@@ -231,12 +228,19 @@
             "present",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00081549.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "refractory"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "ii"
+      ],
+      "id": "NCT00081549"
 }

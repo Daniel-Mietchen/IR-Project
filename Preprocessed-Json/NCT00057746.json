@@ -193,21 +193,39 @@
             "year"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "prophylactic",
+            "Prophylactic cranial irradiation, 2.5 Gy fx",
+            "Prophylactic cranial irradiation, 2.0 Gy fx",
+            "Prophylactic cranial irradiation, 1.5 Gy fx"
+      ],
+      "description": [
             "cranial",
             "irradiation",
             "gy",
-            "fx"
-      ],
-      "description": [
-            "prophylactic",
+            "daily",
+            "10",
+            "fraction",
+            "fx",
+            "total",
+            "25",
+            "gy",
+            "cranial",
+            "irradiation",
+            "gy",
+            "daily",
+            "18",
+            "fraction",
+            "fx",
+            "total",
+            "36",
+            "gy",
             "cranial",
             "irradiation",
             "gy",
@@ -222,12 +240,10 @@
             "gy"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
             "iii"
       ],
-      "other_name": [
-            "pci"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -412,12 +428,26 @@
             "antitumor",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057746.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "limit",
+            "stage",
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cell",
+            "lung",
+            "carcinoma"
+      ],
+      "id": "NCT00057746"
 }

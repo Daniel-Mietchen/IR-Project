@@ -82,17 +82,23 @@
             "disease"
       ],
       "condition": [
-            "fabry",
             "disease"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "placebo"
+            "Fabrazyme (agalsidase beta)",
+            "Placebo"
       ],
       "description": [
-            "1",
+            "fabrazyme",
+            "agalsidase",
+            "beta",
+            "every",
+            "2",
+            "week",
             "placebo",
             "intravenously",
             "every",
@@ -100,11 +106,10 @@
             "week"
       ],
       "arm_group_label": [
-            "placebo"
+            "agalsidase",
+            "beta"
       ],
-      "other_name": [
-            "fabrazyme"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -283,12 +288,18 @@
             "include",
             "prescribe"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00074984.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fabrazyme"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00074984"
 }

@@ -154,18 +154,34 @@
             "3",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vincristine",
-            "sulfate"
+            "filgrastim",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "etoposide",
+            "prednisone",
+            "vincristine sulfate"
       ],
       "arm_group_label": [
-            "chemotherapy",
+            "prednisone",
+            "filgrastim",
+            "prednisone",
+            "filgrastim",
+            "prednisone",
+            "filgrastim",
+            "prednisone",
+            "filgrastim",
+            "prednisone",
+            "filgrastim",
             "prednisone",
             "filgrastim"
       ],
@@ -245,7 +261,6 @@
             "platelet",
             "count",
             "least",
-            "unless",
             "attributable",
             "nhl",
             "hepatic",
@@ -254,13 +269,11 @@
             "without",
             "gilbert",
             "disease",
-            "unless",
             "attributable",
             "nhl",
             "renal",
             "creatinine",
             "greater",
-            "unless",
             "attributable",
             "nhl",
             "cardiovascular",
@@ -340,9 +353,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005964.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "adult",
+            "lymphoblastic",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "phosphate"
+      ],
+      "id": "NCT00005964"
 }

@@ -432,20 +432,42 @@
             "year"
       ],
       "condition": [
-            "central",
+            "tumor",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "cisplatin",
+            "cyclophosphamide",
+            "etoposide",
+            "radiation therapy"
       ],
       "description": [
-            "patient",
+            "infusion",
+            "injection",
+            "iv",
+            "1",
+            "hour",
+            "iv",
+            "6",
+            "hour",
+            "iv",
+            "1",
+            "hour",
+            "iv",
+            "2",
+            "hour",
             "undergo",
             "radiotherapy",
             "5",
@@ -453,14 +475,39 @@
             "week"
       ],
       "arm_group_label": [
-            "regimen",
+            "b",
+            "chemotherapy",
+            "plus",
+            "radiotherapy",
+            "b",
+            "chemotherapy",
+            "plus",
+            "radiotherapy",
+            "b",
+            "chemotherapy",
+            "plus",
+            "radiotherapy",
+            "b",
+            "chemotherapy",
+            "plus",
+            "radiotherapy",
+            "b",
+            "chemotherapy",
+            "plus",
+            "radiotherapy",
+            "radiotherapy",
             "b",
             "chemotherapy",
             "plus",
             "radiotherapy"
       ],
       "other_name": [
-            "nsc",
+            "factor",
+            "61462",
+            "241240",
+            "ii",
+            "119875",
+            "26271",
             "141540"
       ],
       "criteria": [
@@ -627,7 +674,6 @@
             "adjust",
             "accord",
             "age",
-            "follow",
             "greater",
             "5",
             "month",
@@ -687,7 +733,6 @@
             "determine",
             "normal",
             "hormone",
-            "level",
             "diabetes",
             "insipidus",
             "allow",
@@ -700,13 +745,10 @@
             "normal",
             "endogenous",
             "cortisol",
-            "function",
             "adequate",
             "antidiuretic",
             "hormone",
-            "reserve",
             "note",
-            "unless",
             "receive",
             "replacement",
             "therapy",
@@ -747,7 +789,7 @@
             "anticonvulsant",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "3",
             "year"
@@ -756,6 +798,23 @@
             "25",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00085098.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "central",
+            "nervous",
+            "system",
+            "germ",
+            "cell",
+            "tumor"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm",
+            "phosphate"
+      ],
+      "id": "NCT00085098"
 }

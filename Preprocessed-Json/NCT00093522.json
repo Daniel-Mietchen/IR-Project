@@ -245,15 +245,21 @@
             "year"
       ],
       "condition": [
-            "kidney",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "conventional",
-            "surgery"
+            "autologous tumor cell vaccine",
+            "keyhole limpet hemocyanin",
+            "therapeutic autologous dendritic cells",
+            "fludarabine phosphate",
+            "conventional surgery"
       ],
       "criteria": [
             "disease",
@@ -525,12 +531,26 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00093522.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "renal",
+            "cell",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell",
+            "phosphate",
+            "hemocyanin"
+      ],
+      "id": "NCT00093522"
 }

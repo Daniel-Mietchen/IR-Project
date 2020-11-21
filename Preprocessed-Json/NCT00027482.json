@@ -303,7 +303,6 @@
             "model"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -421,12 +420,19 @@
             "know",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00027482.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00027482"
 }

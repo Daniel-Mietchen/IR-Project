@@ -222,18 +222,67 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "genetic"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Genetic"
       ],
       "intervention_name": [
-            "microarray",
-            "analysis"
+            "rituximab",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "microarray analysis"
       ],
       "description": [
-            "genetic",
+            "iv",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "course",
+            "iv",
+            "30",
+            "minute",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "course",
+            "iv",
+            "5",
+            "minute",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "course",
+            "prednisone",
+            "day",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "course",
+            "iv",
+            "5",
+            "minute",
+            "day",
+            "1",
+            "treatment",
+            "repeat",
+            "every",
+            "21",
+            "day",
+            "course",
             "test"
       ],
       "criteria": [
@@ -337,12 +386,24 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00055640.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "adult",
+            "diffuse",
+            "large",
+            "cell",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin"
+      ],
+      "id": "NCT00055640"
 }

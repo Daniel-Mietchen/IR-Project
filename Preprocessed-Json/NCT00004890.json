@@ -128,15 +128,16 @@
             "study"
       ],
       "condition": [
-            "kidney",
+            "extravasation",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug"
       ],
       "intervention_name": [
-            "biomed",
-            "101"
+            "aldesleukin",
+            "Biomed 101"
       ],
       "criteria": [
             "disease",
@@ -284,12 +285,21 @@
             "enrollment",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004890.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "drug",
+            "extravasation"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "renal",
+            "cell"
+      ],
+      "id": "NCT00004890"
 }

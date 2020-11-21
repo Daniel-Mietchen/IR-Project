@@ -71,18 +71,27 @@
             "month",
             "1"
       ],
-      "condition": [
-            "anthrax"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "alhdryogel",
-            "pb"
+            "Anthrax",
+            "Alhdryogel or PBS"
       ],
       "description": [
-            "dose",
+            "range",
+            "5",
+            "100",
+            "rpa",
+            "rpa",
+            "either",
+            "combine",
+            "saline",
+            "pb",
+            "adsorb",
+            "alhydrogel",
             "range",
             "5",
             "100",
@@ -96,7 +105,9 @@
             "alhydrogel"
       ],
       "arm_group_label": [
-            "placebo"
+            "vaccine",
+            "without",
+            "pb"
       ],
       "criteria": [
             "volunteer",
@@ -254,7 +265,7 @@
             "consent",
             "form"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -263,6 +274,12 @@
             "40",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00057525.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "anthrax"
+      ],
+      "mesh_term": [
+            "hydroxide"
+      ],
+      "id": "NCT00057525"
 }

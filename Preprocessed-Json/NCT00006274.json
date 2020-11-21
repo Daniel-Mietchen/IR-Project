@@ -111,7 +111,6 @@
             "spectrometry"
       ],
       "condition": [
-            "respiratory",
             "distress",
             "syndrome"
       ],
@@ -221,12 +220,26 @@
             "vasopressor",
             "therapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "hour"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006274.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "respiratory",
+            "distress",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "illness",
+            "distress",
+            "syndrome",
+            "newborn",
+            "distress",
+            "syndrome",
+            "adult"
+      ],
+      "id": "NCT00006274"
 }

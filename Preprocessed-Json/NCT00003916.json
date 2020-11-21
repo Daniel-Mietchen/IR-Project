@@ -168,18 +168,18 @@
             "study"
       ],
       "condition": [
-            "brain",
             "central",
             "nervous",
             "system",
             "tumor"
       ],
       "intervention_type": [
-            "radiation"
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "stereotactic",
-            "radiosurgery"
+            "radiation therapy",
+            "stereotactic radiosurgery"
       ],
       "criteria": [
             "disease",
@@ -313,7 +313,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -322,6 +322,17 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003916.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "gliosarcoma"
+      ],
+      "mesh_term": [
+            "system",
+            "neoplasm",
+            "nervous",
+            "system",
+            "neoplasm"
+      ],
+      "id": "NCT00003916"
 }

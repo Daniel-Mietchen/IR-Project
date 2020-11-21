@@ -433,27 +433,41 @@
             "pregnancy"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "tenofovir",
-            "disoproxil",
-            "fumarate"
+            "Emtricitabine",
+            "Emtricitabine/Tenofovir disoproxil fumarate",
+            "Lopinavir/Ritonavir",
+            "Nevirapine",
+            "Tenofovir disoproxil fumarate"
       ],
       "description": [
-            "300",
+            "mg",
+            "take",
+            "orally",
+            "mg",
+            "take",
+            "orally",
+            "mg",
+            "take",
+            "orally",
+            "mg",
+            "take",
+            "orally",
             "mg",
             "take",
             "orally"
       ],
       "arm_group_label": [],
-      "other_name": [
-            "tdf"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -703,14 +717,24 @@
             "physical",
             "illness"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "13",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00089505.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hiv",
+            "seronegativity"
+      ],
+      "mesh_term": [
+            "infection",
+            "tenofovir",
+            "disoproxil",
+            "fumarate",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00089505"
 }

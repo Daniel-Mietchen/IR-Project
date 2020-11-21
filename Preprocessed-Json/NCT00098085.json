@@ -133,13 +133,17 @@
             "alone"
       ],
       "condition": [
-            "pulmonary",
+            "lung",
+            "carcinoma",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "HSPPC-96"
+      ],
       "criteria": [
             "summary",
             "criterion",
@@ -227,12 +231,19 @@
             "skin",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00098085.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "vaccine"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00098085"
 }

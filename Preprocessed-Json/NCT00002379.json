@@ -138,14 +138,23 @@
             "dipivoxil"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "zidovudine"
+            "Indinavir sulfate",
+            "Levocarnitine",
+            "Adefovir dipivoxil",
+            "Lamivudine",
+            "Stavudine",
+            "Zidovudine"
       ],
       "criteria": [
             "inclusion",
@@ -420,12 +429,20 @@
             "patient",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002379.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "viral",
+            "load"
+      ],
+      "mesh_term": [
+            "infection",
+            "dipivoxil"
+      ],
+      "id": "NCT00002379"
 }

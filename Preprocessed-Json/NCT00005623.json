@@ -122,14 +122,16 @@
             "specify"
       ],
       "condition": [
-            "prostate",
+            "flash",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "cyproterone acetate",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -304,14 +306,21 @@
             "inhibitor",
             "use"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005623.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hot",
+            "flash"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash",
+            "acetate"
+      ],
+      "id": "NCT00005623"
 }

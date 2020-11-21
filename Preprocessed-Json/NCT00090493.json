@@ -87,8 +87,6 @@
             "patient",
             "positive",
             "myeloma",
-            "0101",
-            "35",
             "positive",
             "receive",
             "peptide",
@@ -96,7 +94,6 @@
             "patient",
             "positive",
             "myeloma",
-            "0201",
             "receive",
             "peptide",
             "vaccine",
@@ -299,17 +296,60 @@
             "cell"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "immunotherapy"
+            "MAGE-A3",
+            "MAGE-A3 AND NY-ESO-1 IMMUNOTHERAPY"
       ],
       "description": [
-            "three",
+            "week",
+            "interval",
+            "day",
+            "peptide",
+            "adjuvant",
+            "peptide",
+            "give",
+            "dose",
+            "administer",
+            "promote",
+            "attraction",
+            "maturation",
+            "longevity",
+            "dc",
+            "2",
+            "thaw",
+            "transplant",
+            "day",
+            "81",
+            "leukapheresis",
+            "product",
+            "boost",
+            "immediately",
+            "patient",
+            "3",
+            "time",
+            "14",
+            "day",
+            "interval",
+            "vaccination",
+            "day",
+            "82",
+            "96",
+            "110",
+            "vaccine",
+            "identical",
+            "vaccine",
+            "thereafter",
+            "6",
+            "monthly",
+            "vaccine",
+            "give",
+            "boost",
             "injection",
             "per",
             "injection",
@@ -323,6 +363,7 @@
             "interval"
       ],
       "arm_group_label": [
+            "immunotherapy",
             "immunotherapy"
       ],
       "criteria": [
@@ -344,7 +385,6 @@
             "ia",
             "b",
             "abnormal",
-            "cytogenetics",
             "iia",
             "iib",
             "iiia",
@@ -366,7 +406,6 @@
             "mm",
             "tissue",
             "type",
-            "0101",
             "allocate",
             "receive",
             "peptide",
@@ -377,7 +416,6 @@
             "mm",
             "tissue",
             "type",
-            "0201",
             "allocate",
             "peptide",
             "vaccine",
@@ -389,8 +427,6 @@
             "mm",
             "tissue",
             "type",
-            "0101",
-            "0201",
             "receive",
             "vaccination",
             "peptide",
@@ -401,8 +437,6 @@
             "mm",
             "tissue",
             "type",
-            "0101",
-            "0201",
             "receive",
             "vaccination",
             "peptide",
@@ -651,7 +685,7 @@
             "cisplatin",
             "dose"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -660,6 +694,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00090493.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00090493"
 }

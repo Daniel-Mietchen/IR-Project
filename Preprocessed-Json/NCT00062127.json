@@ -166,31 +166,51 @@
             "study"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
             "protocol",
             "specific"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "irinotecan hydrochloride",
+            "thalidomide",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "irinotecan",
+            "hydrochloride",
+            "thalidomide",
+            "ii",
+            "irinotecan",
+            "hydrochloride",
+            "thalidomide",
+            "irinotecan",
+            "hydrochloride",
+            "thalidomide",
+            "ii",
+            "irinotecan",
+            "hydrochloride",
+            "thalidomide",
+            "irinotecan",
+            "hydrochloride",
+            "thalidomide",
             "ii",
             "irinotecan",
             "hydrochloride",
             "thalidomide"
       ],
       "other_name": [
-            "pharmacological",
             "study"
       ],
       "criteria": [
@@ -429,12 +449,13 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062127.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [],
+      "id": "NCT00062127"
 }

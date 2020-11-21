@@ -463,7 +463,12 @@
             "literature"
       ],
       "condition": [
-            "hiv",
+            "immunodeficiency",
+            "syndrome",
+            "kaposi",
+            "sarcoma",
+            "virus",
+            "infection",
             "infection"
       ],
       "criteria": [
@@ -503,12 +508,28 @@
             "demographic",
             "feature"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001560.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "kaposi",
+            "sarcoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "deficiency",
+            "syndrome",
+            "disease",
+            "immunodeficiency",
+            "syndrome",
+            "kaposi",
+            "virus",
+            "infection"
+      ],
+      "id": "NCT00001560"
 }

@@ -421,13 +421,14 @@
             "no"
       ],
       "condition": [
-            "opiate",
             "dependence"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "naloxone",
             "buprenorphine"
       ],
       "criteria": [
@@ -437,12 +438,19 @@
             "opiate",
             "dependence"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00007527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "narcotic",
+            "treatment"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00007527"
 }

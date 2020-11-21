@@ -227,19 +227,27 @@
             "patient"
       ],
       "condition": [
-            "primary",
+            "cancer",
+            "tube",
+            "cancer",
+            "cancer",
             "peritoneal",
             "cavity",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "sentinel",
-            "lymph",
-            "node",
-            "biopsy"
+            "gefitinib",
+            "immunohistochemistry staining method",
+            "surface-enhanced laser desorption/ionization-time of flight mass spectrometry",
+            "biopsy",
+            "sentinel lymph node biopsy"
       ],
       "criteria": [
             "disease",
@@ -452,14 +460,26 @@
             "hypericum",
             "perforatum"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00049556.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "ovarian",
+            "epithelial",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "cervical",
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00049556"
 }

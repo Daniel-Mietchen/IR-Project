@@ -201,25 +201,29 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "exemestane",
+            "Placebo"
       ],
       "description": [
-            "placebo",
+            "25",
+            "mg",
+            "daily",
+            "x",
+            "1",
+            "year",
             "daily",
             "x",
             "1",
             "year"
       ],
-      "arm_group_label": [
-            "placebo"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -232,7 +236,6 @@
             "breast",
             "tissue",
             "baseline",
-            "mammogram",
             "grade",
             "2",
             "3",
@@ -251,7 +254,6 @@
             "higher",
             "grade",
             "note",
-            "perform",
             "within",
             "6",
             "month",
@@ -472,11 +474,16 @@
             "phytoestrogen",
             "preparation"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00066586.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00066586"
 }

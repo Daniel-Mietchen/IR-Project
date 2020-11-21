@@ -183,13 +183,16 @@
             "accrue"
       ],
       "condition": [
-            "ovarian",
+            "cancer",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
+            "HER-2/neu peptide vaccine",
             "sargramostim"
       ],
       "criteria": [
@@ -318,9 +321,18 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003002.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adenocarcinoma",
+            "lung"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "lung"
+      ],
+      "id": "NCT00003002"
 }

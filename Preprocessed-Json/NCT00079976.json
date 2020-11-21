@@ -32,14 +32,17 @@
             "subject"
       ],
       "condition": [
-            "methicillin",
+            "bacterial",
+            "infection",
+            "infection",
+            "resistance",
             "resistance"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "tigecycline"
+            "Tigecycline"
       ],
       "criteria": [
             "inclusion",
@@ -159,12 +162,23 @@
             "minocycline",
             "doxycycline"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00079976.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bacterial",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "bacterial",
+            "infection"
+      ],
+      "id": "NCT00079976"
 }

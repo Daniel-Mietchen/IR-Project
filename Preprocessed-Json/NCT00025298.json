@@ -249,15 +249,25 @@
             "study"
       ],
       "condition": [
-            "radiation",
+            "toxicity",
+            "neck",
+            "cancer",
+            "complication",
             "toxicity"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "amifostine trihydrate",
+            "carboplatin",
+            "cisplatin",
+            "paclitaxel",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -454,7 +464,7 @@
             "anticancer",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "15",
             "year"
@@ -463,6 +473,16 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00025298.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "radiation",
+            "toxicity"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm",
+            "injury"
+      ],
+      "id": "NCT00025298"
 }

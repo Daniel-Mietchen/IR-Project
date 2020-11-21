@@ -147,13 +147,16 @@
             "event"
       ],
       "condition": [
-            "ulcerative",
             "colitis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "OPC-6535",
+            "Asacol\u00ae"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -305,7 +308,7 @@
             "may",
             "apply"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -314,6 +317,12 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092508.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bowel"
+      ],
+      "mesh_term": [
+            "ulcerative"
+      ],
+      "id": "NCT00092508"
 }

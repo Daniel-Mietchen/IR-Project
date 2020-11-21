@@ -189,20 +189,29 @@
             "arm"
       ],
       "condition": [
-            "cervical",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "external",
-            "beam",
-            "radiation",
-            "therapy"
+            "cisplatin",
+            "hyperthermia treatment",
+            "brachytherapy",
+            "external beam radiation therapy"
       ],
       "description": [
-            "patient",
+            "iv",
+            "undergo",
+            "hyperthermia",
+            "treatment",
+            "minute",
+            "undergo",
+            "brachytherapy",
+            "day",
             "undergo",
             "external",
             "beam",
@@ -212,7 +221,8 @@
             "day"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [],
@@ -377,14 +387,22 @@
             "radiotherapy",
             "chemotherapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00085631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cervical",
+            "squamous",
+            "cell",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "cervical",
+            "neoplasm"
+      ],
+      "id": "NCT00085631"
 }

@@ -83,11 +83,10 @@
             "oregovomab"
       ],
       "condition": [
-            "ovarian",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "oregovomab"
@@ -393,14 +392,17 @@
             "tissue",
             "bank"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00086632.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "neoplasm",
+            "monoclonal"
+      ],
+      "id": "NCT00086632"
 }

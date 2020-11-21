@@ -161,16 +161,25 @@
             "study"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant"
+            "MART-1 antigen",
+            "recombinant MAGE-3.1 antigen",
+            "recombinant interleukin-12"
       ],
       "description": [
+            "peptide",
+            "load",
+            "pbmcs",
+            "sc",
+            "x",
+            "3",
             "4",
             "mcg",
             "sc",
@@ -183,9 +192,7 @@
             "wk",
             "cycle"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "other_name": [
             "peptide",
             "load",
@@ -347,9 +354,14 @@
             "since",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002952.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002952"
 }

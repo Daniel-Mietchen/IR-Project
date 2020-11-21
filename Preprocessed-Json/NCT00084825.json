@@ -188,24 +188,34 @@
             "month"
       ],
       "condition": [
-            "prostate",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "imatinib",
-            "mesylate"
+            "Docetaxel",
+            "Imatinib mesylate"
       ],
       "description": [
-            "600",
+            "iv",
+            "day",
+            "1",
+            "8",
+            "15",
+            "22",
+            "every",
+            "42",
+            "day",
             "mg",
             "orally",
             "daily"
       ],
       "arm_group_label": [
-            "docetaxel",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
@@ -419,11 +429,18 @@
             "grapefruit",
             "juice"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00084825.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "bone",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "mesylate"
+      ],
+      "id": "NCT00084825"
 }

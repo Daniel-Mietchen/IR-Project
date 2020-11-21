@@ -88,14 +88,15 @@
             "year"
       ],
       "condition": [
-            "liver",
             "cirrhosis",
             "biliary"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "methotrexate",
             "ursodiol"
       ],
       "criteria": [
@@ -284,7 +285,7 @@
             "fertile",
             "patient"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "20",
             "year"
@@ -293,6 +294,16 @@
             "69",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "cirrhosis",
+            "cirrhosis",
+            "biliary",
+            "acid"
+      ],
+      "id": "NCT00004784"
 }

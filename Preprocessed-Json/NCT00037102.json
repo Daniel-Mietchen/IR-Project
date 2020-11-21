@@ -245,13 +245,14 @@
             "experience"
       ],
       "condition": [
-            "multiple",
             "sclerosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "interferon beta 1a",
             "methotrexate"
       ],
       "criteria": [
@@ -343,7 +344,7 @@
             "screen",
             "mri"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -352,6 +353,12 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037102.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "autoimmune"
+      ],
+      "mesh_term": [
+            "sclerosis"
+      ],
+      "id": "NCT00037102"
 }

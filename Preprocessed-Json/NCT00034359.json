@@ -49,15 +49,18 @@
             "describe"
       ],
       "condition": [
-            "hepatitis",
             "b",
             "chronic"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "ACH-126, 443 (beta-L-Fd4C)",
+            "Lamivudine",
+            "Placebo"
       ],
       "criteria": [
             "inclusion",
@@ -186,12 +189,26 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034359.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive",
+            "chronic",
+            "hepatitis",
+            "b",
+            "achillion"
+      ],
+      "mesh_term": [
+            "b",
+            "b",
+            "chronic",
+            "agent"
+      ],
+      "id": "NCT00034359"
 }

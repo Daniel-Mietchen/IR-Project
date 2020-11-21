@@ -213,13 +213,15 @@
             "angiogenesis"
       ],
       "condition": [
-            "synovitis"
+            "rheumatoid"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "fludarabine"
+            "Methotrexate",
+            "Fludarabine"
       ],
       "criteria": [
             "ability",
@@ -493,9 +495,17 @@
             "analog",
             "time"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001677.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rheumatoid",
+            "arthritis"
+      ],
+      "mesh_term": [
+            "rheumatoid",
+            "phosphate"
+      ],
+      "id": "NCT00001677"
 }

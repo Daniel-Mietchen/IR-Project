@@ -286,14 +286,15 @@
             "ddi"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "didanosine"
+            "Hydroxyurea",
+            "Didanosine"
       ],
       "criteria": [
             "inclusion",
@@ -534,12 +535,20 @@
             "interfere",
             "compliance"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001074.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "hydroxyurea"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001074"
 }

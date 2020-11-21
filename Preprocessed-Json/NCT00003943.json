@@ -208,21 +208,28 @@
             "study"
       ],
       "condition": [
-            "lung",
+            "unknown",
+            "primary",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "carboplatin",
+            "cyclophosphamide",
+            "paclitaxel",
+            "topotecan hydrochloride",
+            "peripheral blood stem cell transplantation"
       ],
       "description": [
-            "harvest",
+            "5",
             "via",
             "apheresis"
       ],
@@ -430,12 +437,24 @@
             "major",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003943.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "newly",
+            "diagnose",
+            "carcinoma",
+            "unknown",
+            "primary"
+      ],
+      "mesh_term": [
+            "unknown",
+            "primary",
+            "paclitaxel"
+      ],
+      "id": "NCT00003943"
 }

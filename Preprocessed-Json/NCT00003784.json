@@ -198,17 +198,22 @@
             "1",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Radiation"
       ],
       "intervention_name": [
-            "tositumomab",
-            "iodine",
-            "131",
-            "tositumomab"
+            "CHOP regimen",
+            "cyclophosphamide",
+            "doxorubicin hydrochloride",
+            "prednisone",
+            "vincristine sulfate",
+            "tositumomab and iodine I 131 tositumomab"
       ],
       "criteria": [
             "disease",
@@ -339,12 +344,26 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003784.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "noncontiguous",
+            "stage",
+            "ii",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "doxorubicin",
+            "antibody",
+            "monoclonal"
+      ],
+      "id": "NCT00003784"
 }

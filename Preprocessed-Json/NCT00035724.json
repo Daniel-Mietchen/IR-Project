@@ -180,19 +180,26 @@
             "2005"
       ],
       "condition": [
-            "heart",
+            "disease",
+            "failure",
+            "congestive",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00035724.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "failure",
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00035724"
 }

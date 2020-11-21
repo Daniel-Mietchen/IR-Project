@@ -177,17 +177,26 @@
             "study"
       ],
       "condition": [
+            "cancer",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "disease"
       ],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "peripheral",
-            "blood",
-            "stem",
-            "cell",
-            "transplantation"
+            "filgrastim",
+            "recombinant flt3 ligand",
+            "recombinant human thrombopoietin",
+            "recombinant interleukin-3",
+            "in vitro-treated peripheral blood stem cell transplantation"
       ],
       "criteria": [
             "disease",
@@ -324,7 +333,7 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -333,6 +342,22 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006225.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "splenic",
+            "marginal",
+            "zone",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "myeloma",
+            "plasma",
+            "cell",
+            "disorder",
+            "disease",
+            "ligand",
+            "protein"
+      ],
+      "id": "NCT00006225"
 }

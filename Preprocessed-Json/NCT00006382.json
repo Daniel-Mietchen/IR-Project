@@ -116,17 +116,21 @@
             "2000"
       ],
       "condition": [
-            "lung",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "bronchoscopic and lung imaging studies",
+            "comparison of screening methods",
+            "computed tomography",
+            "radiography",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -191,7 +195,7 @@
             "cessation",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "55",
             "year"
@@ -200,6 +204,15 @@
             "74",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006382.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "small",
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00006382"
 }

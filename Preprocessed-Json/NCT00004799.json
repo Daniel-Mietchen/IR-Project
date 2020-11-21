@@ -98,14 +98,14 @@
             "continue",
             "year"
       ],
-      "condition": [
-            "pertussis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "vaccine"
+            "whole-cell pertussis vaccine",
+            "diphtheria-tetanus vaccine"
       ],
       "criteria": [
             "protocol",
@@ -192,7 +192,7 @@
             "communication",
             "barrier"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "month"
@@ -201,6 +201,13 @@
             "3",
             "month"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004799.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "cough"
+      ],
+      "id": "NCT00004799"
 }

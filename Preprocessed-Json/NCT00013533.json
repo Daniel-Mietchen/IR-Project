@@ -805,15 +805,20 @@
             "56"
       ],
       "condition": [
+            "lymphoma",
+            "leukemia",
+            "cell",
+            "leukemia",
+            "syndrome",
+            "non",
+            "hodgkin",
             "lymphoma"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure"
       ],
       "intervention_name": [
-            "stem",
-            "cell",
-            "transplantation"
+            "Stem cell transplantation"
       ],
       "description": [
             "3",
@@ -823,9 +828,7 @@
             "iv",
             "infusion"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -1415,7 +1418,7 @@
             "bmt",
             "team"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "4",
             "year"
@@ -1424,6 +1427,18 @@
             "20",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00013533.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "cancer"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "lymphoid",
+            "disease",
+            "neoplasm",
+            "biphenotypic",
+            "acute"
+      ],
+      "id": "NCT00013533"
 }

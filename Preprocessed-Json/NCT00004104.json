@@ -165,16 +165,17 @@
             "month"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "interferon",
-            "alfa"
+            "liposomal interleukin-2",
+            "polyvalent melanoma vaccine",
+            "recombinant interferon alfa"
       ],
       "criteria": [
             "disease",
@@ -371,7 +372,7 @@
             "immunosuppressive",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -380,6 +381,12 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004104.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00004104"
 }

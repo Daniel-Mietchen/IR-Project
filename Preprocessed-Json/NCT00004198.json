@@ -224,16 +224,16 @@
             "accrual",
             "specify"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "tumor",
-            "vaccine",
-            "therapy"
+            "keyhole limpet hemocyanin",
+            "sargramostim",
+            "tumor cell-based vaccine therapy"
       ],
       "criteria": [
             "disease",
@@ -422,12 +422,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004198.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "grade",
+            "2",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "hemocyanin"
+      ],
+      "id": "NCT00004198"
 }

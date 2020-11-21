@@ -482,13 +482,13 @@
             "study"
       ],
       "condition": [
-            "healthy"
+            "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "etanercept"
+            "Etanercept"
       ],
       "criteria": [
             "inclusion",
@@ -762,11 +762,16 @@
             "2",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00034060.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "control"
+      ],
+      "mesh_term": [
+            "rheumatoid"
+      ],
+      "id": "NCT00034060"
 }

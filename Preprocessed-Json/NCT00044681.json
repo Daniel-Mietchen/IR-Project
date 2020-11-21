@@ -227,10 +227,12 @@
             "adult"
       ],
       "condition": [
-            "depression"
+            "disorder",
+            "disorder",
+            "major"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
             "risperidone"
@@ -305,7 +307,7 @@
             "adequate",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -314,6 +316,16 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00044681.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "antipsychotic",
+            "agent"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "disorder"
+      ],
+      "id": "NCT00044681"
 }

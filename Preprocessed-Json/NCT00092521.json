@@ -37,21 +37,47 @@
             "wart"
       ],
       "condition": [
-            "genital",
+            "cancer",
             "wart"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "human",
-            "papillomavirus",
-            "hpv",
-            "16",
-            "monovalent"
+            "V501",
+            "Comparator: Placebo",
+            "Human Papillomavirus (HPV) 16 Monovalent"
       ],
       "description": [
+            "manufacture",
+            "product",
+            "fmp",
+            "quadrivalent",
             "hpv",
+            "vaccine",
+            "ml",
+            "intramuscular",
+            "injection",
+            "give",
+            "day",
+            "1",
+            "month",
+            "2",
+            "month",
+            "6",
+            "ml",
+            "intramuscular",
+            "placebo",
+            "injection",
+            "give",
+            "day",
+            "1",
+            "month",
+            "2",
+            "month",
+            "6",
             "16",
             "monovalent",
             "vaccine",
@@ -66,9 +92,7 @@
             "month",
             "6"
       ],
-      "arm_group_label": [
-            "3"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -93,9 +117,7 @@
             "genital",
             "wart"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "16",
             "year"
@@ -104,6 +126,13 @@
             "23",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00092521.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "mesh_term": [
+            "cervical",
+            "neoplasm",
+            "acuminata",
+            "intraepithelial",
+            "neoplasia"
+      ],
+      "id": "NCT00092521"
 }

@@ -229,19 +229,27 @@
             "record"
       ],
       "condition": [
-            "lung",
+            "fetal",
+            "circulation",
+            "syndrome",
             "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "100",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005497.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "fetal",
+            "circulation",
+            "syndrome"
+      ],
+      "id": "NCT00005497"
 }

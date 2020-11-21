@@ -190,15 +190,27 @@
             "enter"
       ],
       "condition": [
-            "lung",
+            "neck",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Other",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "endoscopic",
-            "biopsy"
+            "cytology specimen collection procedure",
+            "immunohistochemistry staining method",
+            "sputum cytology",
+            "bronchoscopic and lung imaging studies",
+            "bronchoscopy",
+            "comparison of screening methods",
+            "endoscopic biopsy"
       ],
       "criteria": [
             "disease",
@@ -339,12 +351,23 @@
             "drug",
             "photofrin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019201.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "oropharyngeal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neck",
+            "neoplasm"
+      ],
+      "id": "NCT00019201"
 }

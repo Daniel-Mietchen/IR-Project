@@ -169,20 +169,23 @@
             "study"
       ],
       "condition": [
-            "head",
+            "cancer",
             "neck",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "hydroxyurea",
+            "surgical procedure",
+            "radiation therapy"
       ],
-      "arm_group_label": [
-            "arm"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -259,9 +262,20 @@
             "prior",
             "surgery"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002951.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iii",
+            "oropharyngeal",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neck",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00002951"
 }

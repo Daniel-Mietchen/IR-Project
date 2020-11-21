@@ -142,14 +142,16 @@
             "study"
       ],
       "condition": [
-            "sarcoma"
+            "sweat",
+            "hot",
+            "flash",
+            "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "caspofungin",
-            "acetate"
+            "caspofungin acetate"
       ],
       "criteria": [
             "disease",
@@ -366,7 +368,7 @@
             "except",
             "fluconazole"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "2",
             "year"
@@ -375,6 +377,16 @@
             "17",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00020527.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "previously",
+            "treat",
+            "childhood",
+            "rhabdomyosarcoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "flash"
+      ],
+      "id": "NCT00020527"
 }

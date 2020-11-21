@@ -38,13 +38,14 @@
             "injection"
       ],
       "condition": [
-            "solid",
             "malignancy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Gimatecan\u00ae (ST-1481)"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -87,12 +88,16 @@
             "absorption",
             "motility"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00033202.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "pharmacokinetics"
+      ],
+      "mesh_term": [],
+      "id": "NCT00033202"
 }

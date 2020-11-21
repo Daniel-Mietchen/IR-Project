@@ -142,7 +142,6 @@
             "vaccine",
             "either",
             "iv",
-            "im",
             "every",
             "4",
             "week",
@@ -272,14 +271,17 @@
             "year"
       ],
       "condition": [
-            "melanoma",
             "skin"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "antigen"
+            "aldesleukin",
+            "fowlpox virus vaccine vector",
+            "gp100 antigen"
       ],
       "criteria": [
             "disease",
@@ -337,11 +339,8 @@
             "thallium",
             "test",
             "comparable",
-            "test",
             "myocardial",
-            "infarction",
             "cardiac",
-            "arrhythmia",
             "note",
             "order",
             "eligible",
@@ -353,7 +352,6 @@
             "obstructive",
             "restrictive",
             "pulmonary",
-            "disease",
             "note",
             "order",
             "eligible",
@@ -387,7 +385,6 @@
             "active",
             "major",
             "medical",
-            "illness",
             "note",
             "order",
             "eligible",
@@ -420,12 +417,17 @@
             "therapy",
             "malignancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00019669.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "melanoma"
+      ],
+      "mesh_term": [],
+      "id": "NCT00019669"
 }

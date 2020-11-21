@@ -134,15 +134,17 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "mitoxantrone",
-            "hydrochloride"
+            "fluorouracil",
+            "leucovorin calcium",
+            "mitoxantrone hydrochloride"
       ],
       "criteria": [
             "disease",
@@ -314,9 +316,7 @@
             "another",
             "study"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "75",
             "year"
@@ -325,6 +325,14 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010075.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00010075"
 }

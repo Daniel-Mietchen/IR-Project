@@ -44,17 +44,32 @@
             "study"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "capecitabine"
+            "Ixabepilone + Capecitabine",
+            "Capecitabine"
       ],
       "description": [
-            "tablet",
+            "lypholized",
+            "solution",
+            "40",
+            "capecitabine",
+            "2000",
+            "ixabepilone",
+            "day",
+            "1",
+            "capecitabine",
+            "twice",
+            "daily",
+            "day",
+            "21",
+            "day",
+            "cycle",
             "oral",
             "2500",
             "capecitabine",
@@ -65,12 +80,8 @@
             "day",
             "cycle"
       ],
-      "arm_group_label": [
-            "b"
-      ],
-      "other_name": [
-            "epothilone"
-      ],
+      "arm_group_label": [],
+      "other_name": [],
       "criteria": [
             "patient",
             "must",
@@ -124,14 +135,15 @@
             "capecitabine",
             "xeloda"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00082433.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00082433"
 }

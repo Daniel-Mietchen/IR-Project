@@ -283,18 +283,51 @@
             "otherwise"
       ],
       "condition": [
-            "metastasis"
+            "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Radiation",
+            "Other"
+      ],
       "intervention_name": [
-            "supplemental",
-            "oxygen"
+            "Efaproxiral",
+            "Whole Brain Radiation Therapy (WBRT)",
+            "Supplemental Oxygen"
       ],
       "description": [
-            "4",
-            "nasal",
-            "cannula",
             "administer",
+            "30",
+            "minute",
+            "via",
+            "central",
+            "venous",
+            "access",
+            "device",
+            "cvad",
+            "30",
+            "minute",
+            "prior",
+            "start",
+            "whole",
+            "brain",
+            "radiation",
+            "therapy",
+            "wbrt",
+            "wbrt",
+            "treatment",
+            "day",
+            "10",
+            "day",
+            "gy",
+            "per",
+            "day",
+            "10",
+            "day",
+            "gy",
+            "total",
+            "wbrt",
+            "nasal",
             "least",
             "35",
             "minute",
@@ -311,6 +344,16 @@
       ],
       "arm_group_label": [
             "wbrt",
+            "supplemental",
+            "oxygen",
+            "wbrt",
+            "supplemental",
+            "oxygen",
+            "supplemental",
+            "oxygen",
+            "wbrt",
+            "supplemental",
+            "oxygen",
             "supplemental",
             "oxygen"
       ],
@@ -340,14 +383,23 @@
             "radiation",
             "brain"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083304.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis",
+            "second",
+            "primary"
+      ],
+      "id": "NCT00083304"
 }

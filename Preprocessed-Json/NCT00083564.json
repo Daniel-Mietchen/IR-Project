@@ -515,18 +515,13 @@
             "protocol"
       ],
       "condition": [
-            "multiple",
             "myeloma"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "str",
-            "tm",
-            "skeletal",
-            "target",
-            "radiotherapy"
+            "STR(TM) (Skeletal Targeted Radiotherapy, Holmium-166-DOTMP)"
       ],
       "criteria": [
             "inclusion",
@@ -885,7 +880,7 @@
             "5",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -894,6 +889,12 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00083564.xml"
+      "healthy_volunteers": "No",
+      "keyword": [],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell"
+      ],
+      "id": "NCT00083564"
 }

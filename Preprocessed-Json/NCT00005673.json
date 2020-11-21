@@ -499,14 +499,13 @@
             "endpoint"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "capravirine"
+            "Capravirine"
       ],
       "criteria": [
             "control",
@@ -959,9 +958,15 @@
             "male",
             "female"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00005673.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "nnrti"
+      ],
+      "mesh_term": [
+            "infection"
+      ],
+      "id": "NCT00005673"
 }

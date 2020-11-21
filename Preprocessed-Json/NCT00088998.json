@@ -178,17 +178,23 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Biological",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "bevacizumab",
+            "capecitabine",
             "docetaxel"
       ],
       "arm_group_label": [
-            "docetaxel",
+            "bevacizumab",
+            "capecitabine",
+            "bevacizumab",
+            "capecitabine",
             "bevacizumab",
             "capecitabine"
       ],
@@ -645,12 +651,21 @@
             "agent",
             "procedure"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00088998.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00088998"
 }

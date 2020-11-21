@@ -166,14 +166,26 @@
             "necrosis"
       ],
       "condition": [
+            "metastasis",
+            "neoplasm",
             "neoplasm",
             "metastasis"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Device",
+            "Device",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "chemotherapy"
+            "Talaporfin sodium (LS11)",
+            "LED-based light infusion device",
+            "Light emitting diodes (LED)",
+            "Photodynamic therapy",
+            "Phototherapy",
+            "Chemotherapy"
       ],
       "criteria": [
             "inclusion",
@@ -309,12 +321,19 @@
             "28",
             "day"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083785.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "metastasis",
+            "second",
+            "primary",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00083785"
 }

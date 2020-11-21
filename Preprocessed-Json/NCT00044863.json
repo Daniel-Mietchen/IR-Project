@@ -197,26 +197,22 @@
             "analyse"
       ],
       "condition": [
-            "metastasis",
+            "neoplasm",
             "neoplasm"
       ],
       "intervention_type": [
-            "biological"
+            "Biological"
       ],
       "intervention_name": [
-            "erbitux",
-            "cetuximab"
+            "Erbitux (Cetuximab)"
       ],
       "description": [
-            "400",
             "initial",
             "dose",
             "250",
             "weekly"
       ],
-      "arm_group_label": [
-            "1"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -570,12 +566,21 @@
             "disease",
             "illness"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00044863.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "metastatic",
+            "colorectal",
+            "carcinoma"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "metastasis"
+      ],
+      "id": "NCT00044863"
 }

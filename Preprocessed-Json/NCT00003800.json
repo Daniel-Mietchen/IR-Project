@@ -210,19 +210,23 @@
             "year"
       ],
       "condition": [
-            "testicular",
             "germ",
             "cell",
             "tumor"
       ],
       "intervention_type": [
-            "procedure"
+            "Other",
+            "Other",
+            "Procedure"
       ],
       "intervention_name": [
-            "radionuclide",
-            "image"
+            "immunohistochemistry staining method",
+            "laboratory biomarker analysis",
+            "radionuclide imaging"
       ],
       "arm_group_label": [
+            "evaluation",
+            "evaluation",
             "evaluation"
       ],
       "criteria": [
@@ -318,14 +322,23 @@
             "disease",
             "characteristic"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "15",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003800.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "testicular",
+            "choriocarcinoma",
+            "teratoma"
+      ],
+      "mesh_term": [
+            "germ",
+            "cell",
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00003800"
 }

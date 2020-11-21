@@ -106,14 +106,17 @@
             "plus"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "lamivudine"
+            "Abacavir sulfate",
+            "Amprenavir",
+            "Lamivudine"
       ],
       "criteria": [
             "inclusion",
@@ -284,12 +287,23 @@
             "medication",
             "pregnant"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002245.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "abacavir"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "inhibitor",
+            "protease",
+            "inhibitor"
+      ],
+      "id": "NCT00002245"
 }

@@ -339,7 +339,10 @@
             "tcd"
       ],
       "condition": [
-            "cerebral",
+            "disease",
+            "sickle",
+            "cell",
+            "disorder",
             "embolism",
             "thrombosis"
       ],
@@ -347,7 +350,7 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "1",
             "year"
@@ -356,6 +359,16 @@
             "2",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00059293.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder",
+            "sickle",
+            "cell",
+            "thrombosis",
+            "disease",
+            "embolism",
+            "embolism",
+            "thrombosis"
+      ],
+      "id": "NCT00059293"
 }

@@ -179,29 +179,31 @@
             "group"
       ],
       "condition": [
-            "lung",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "placebo",
-            "filtration",
-            "unit"
+            "HEPA Air Cleaner",
+            "Placebo Filtration Unit"
       ],
       "description": [
-            "placement",
+            "two",
+            "active",
+            "hepa",
+            "air",
+            "cleaner",
+            "home",
+            "child",
             "inactive",
             "filtration",
             "unit",
             "home"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "other_name": [
-            "austin",
             "healthmate",
             "hepa",
             "air",
@@ -263,7 +265,7 @@
             "next",
             "year"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "6",
             "year"
@@ -272,6 +274,12 @@
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006565.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "ets"
+      ],
+      "mesh_term": [
+            "disease"
+      ],
+      "id": "NCT00006565"
 }

@@ -329,31 +329,73 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "lung",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "cell",
+            "lung",
+            "cancer",
+            "iiib",
+            "cell",
+            "lung",
+            "cancer",
             "iv",
             "cell",
             "lung",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "paclitaxel",
+            "carboplatin",
+            "bevacizumab",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "paclitaxel",
+            "carboplatin",
+            "ii",
+            "paclitaxel",
+            "carboplatin",
+            "bevacizumab",
+            "paclitaxel",
+            "carboplatin",
+            "ii",
+            "paclitaxel",
+            "carboplatin",
+            "bevacizumab",
+            "ii",
+            "paclitaxel",
+            "carboplatin",
+            "bevacizumab",
+            "paclitaxel",
+            "carboplatin",
             "ii",
             "paclitaxel",
             "carboplatin",
             "bevacizumab"
       ],
       "other_name": [
-            "rhumab",
+            "humanize",
+            "monoclonal",
+            "antibody",
+            "monoclonal",
+            "antibody",
             "vegf"
       ],
       "criteria": [
@@ -664,12 +706,18 @@
             "exclude",
             "trial"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021060.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel",
+            "monoclonal"
+      ],
+      "id": "NCT00021060"
 }

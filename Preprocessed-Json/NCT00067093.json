@@ -89,18 +89,20 @@
             "doctor"
       ],
       "condition": [
-            "deep",
             "vein",
             "thrombosis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "vitamin",
-            "k",
-            "antagonist",
-            "vka"
+            "SanOrg34006",
+            "LMW heparin",
+            "Unfractionated heparin",
+            "Vitamin K antagonist (VKA)"
       ],
       "criteria": [
             "inclusion",
@@ -206,12 +208,18 @@
             "enoxaparin",
             "tinzaparin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00067093.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "thrombosis",
+            "k",
+            "heparin",
+            "34006"
+      ],
+      "id": "NCT00067093"
 }

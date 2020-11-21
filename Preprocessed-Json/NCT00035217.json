@@ -62,7 +62,6 @@
             "examination"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "criteria": [
@@ -74,14 +73,15 @@
             "screen",
             "study"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "40",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035217.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00035217"
 }

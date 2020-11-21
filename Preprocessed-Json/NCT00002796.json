@@ -186,30 +186,68 @@
             "study"
       ],
       "condition": [
-            "stage",
+            "adenocarcinoma",
+            "colon",
+            "adenocarcinoma",
+            "rectum",
+            "colon",
+            "cancer",
+            "rectal",
+            "cancer",
+            "ring",
+            "adenocarcinoma",
+            "colon",
+            "ring",
+            "adenocarcinoma",
+            "rectum",
+            "iva",
+            "colon",
+            "cancer",
+            "iva",
+            "rectal",
+            "cancer",
+            "ivb",
+            "colon",
+            "cancer",
             "ivb",
             "rectal",
             "cancer"
       ],
       "intervention_type": [
-            "biological"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Biological"
       ],
       "intervention_name": [
-            "recombinant",
-            "interferon",
-            "gamma"
+            "fluorouracil",
+            "sodium phenylbutyrate",
+            "indomethacin",
+            "recombinant interferon gamma"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
+            "orally",
             "subcutaneously"
       ],
       "arm_group_label": [
-            "treatment",
+            "fluorouracil",
+            "phenylbutyrate",
+            "indomethacin",
+            "fluorouracil",
+            "phenylbutyrate",
+            "indomethacin",
+            "fluorouracil",
+            "phenylbutyrate",
+            "indomethacin",
             "fluorouracil",
             "phenylbutyrate",
             "indomethacin"
       ],
-      "other_name": [],
+      "other_name": [
+            "interferon"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -383,9 +421,16 @@
             "nature",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002796.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm",
+            "mucinous",
+            "acid"
+      ],
+      "id": "NCT00002796"
 }

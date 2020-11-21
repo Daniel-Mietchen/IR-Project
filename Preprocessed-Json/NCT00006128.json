@@ -213,7 +213,6 @@
             "patient"
       ],
       "condition": [
-            "head",
             "injury",
             "close"
       ],
@@ -269,12 +268,21 @@
             "cognitive",
             "function"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "12",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00006128.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rare",
+            "disease"
+      ],
+      "mesh_term": [
+            "trauma",
+            "injury",
+            "close"
+      ],
+      "id": "NCT00006128"
 }

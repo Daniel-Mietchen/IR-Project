@@ -97,14 +97,14 @@
             "study",
             "visit"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "menatetranone"
+            "phylloquinone (K1)",
+            "menatetranone (MK4)"
       ],
       "criteria": [
             "female",
@@ -180,11 +180,18 @@
             "last",
             "month"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00062595.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "bone",
+            "density"
+      ],
+      "mesh_term": [
+            "k",
+            "k",
+            "1"
+      ],
+      "id": "NCT00062595"
 }

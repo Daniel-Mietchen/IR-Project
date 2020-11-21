@@ -91,13 +91,17 @@
             "symptom",
             "child"
       ],
-      "condition": [
-            "anxiety"
-      ],
+      "condition": [],
       "intervention_type": [
-            "behavioral"
+            "Behavioral",
+            "Behavioral",
+            "Behavioral"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Individual Child CBT",
+            "Family CBT",
+            "Education/Support/Attention"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -128,7 +132,7 @@
             "parent",
             "speak"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "9",
             "year"
@@ -137,6 +141,9 @@
             "13",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00081406.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00081406"
 }

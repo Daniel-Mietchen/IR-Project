@@ -145,27 +145,45 @@
             "accrual"
       ],
       "condition": [
-            "secondary",
+            "myelomonocytic",
+            "leukemia",
+            "novo",
+            "myelodysplastic",
+            "syndrome",
+            "treat",
+            "myelodysplastic",
+            "syndrome",
+            "anemia",
+            "anemia",
+            "excess",
+            "blast",
+            "anemia",
+            "excess",
+            "blast",
+            "transformation",
+            "anemia",
+            "ring",
+            "sideroblast",
             "myelodysplastic",
             "syndrome"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "thalidomide",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "orally",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "thalidomide",
             "thalidomide"
       ],
-      "other_name": [
-            "thalomid"
-      ],
+      "other_name": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -324,12 +342,22 @@
             "uncontrolled",
             "infection"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00015990.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "syndrome",
+            "refractory",
+            "myelomonocytic",
+            "chronic",
+            "refractory",
+            "excess",
+            "blast",
+            "aplastic"
+      ],
+      "id": "NCT00015990"
 }

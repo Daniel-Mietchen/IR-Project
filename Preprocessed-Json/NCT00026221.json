@@ -203,23 +203,40 @@
             "year"
       ],
       "condition": [
-            "stage",
+            "melanoma",
             "iv",
             "skin",
             "melanoma"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
       "intervention_name": [
-            "bevacizumab"
+            "Recombinant Interferon Alfa",
+            "Bevacizumab"
       ],
       "description": [
-            "give",
+            "sc",
             "iv"
       ],
       "arm_group_label": [
-            "arm",
+            "monoclonal",
+            "antibody",
+            "biological",
+            "therapy",
+            "iii",
+            "monoclonal",
+            "antibody",
+            "biological",
+            "therapy",
+            "monoclonal",
+            "antibody",
+            "biological",
+            "therapy",
+            "ii",
+            "monoclonal",
+            "antibody",
             "iii",
             "monoclonal",
             "antibody",
@@ -479,12 +496,15 @@
             "investigational",
             "agent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00026221.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00026221"
 }

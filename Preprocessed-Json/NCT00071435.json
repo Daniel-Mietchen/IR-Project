@@ -319,7 +319,6 @@
             "measure"
       ],
       "condition": [
-            "motor",
             "neuron",
             "disease"
       ],
@@ -401,9 +400,16 @@
             "woman",
             "childbearing"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00071435.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hv"
+      ],
+      "mesh_term": [
+            "neuron",
+            "disease"
+      ],
+      "id": "NCT00071435"
 }

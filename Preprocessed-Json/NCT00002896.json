@@ -170,15 +170,23 @@
             "study"
       ],
       "condition": [
-            "colorectal",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "chemotherapy",
+            "fluorouracil",
+            "leucovorin calcium",
+            "conventional surgery",
+            "low-LET cobalt-60 gamma ray therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -244,12 +252,20 @@
             "therapy",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002896.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mucinous",
+            "adenocarcinoma",
+            "rectum"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00002896"
 }

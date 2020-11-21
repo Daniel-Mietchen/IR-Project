@@ -296,24 +296,49 @@
             "month"
       ],
       "condition": [
-            "stage",
+            "tumor",
+            "tube",
+            "cancer",
+            "clear",
+            "cell",
+            "cystadenocarcinoma",
+            "endometrioid",
+            "adenocarcinoma",
+            "mucinous",
+            "cystadenocarcinoma",
+            "serous",
+            "cystadenocarcinoma",
+            "undifferentiated",
+            "adenocarcinoma",
+            "iii",
+            "ovarian",
+            "epithelial",
+            "cancer",
             "iv",
             "ovarian",
             "epithelial",
             "cancer"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "paclitaxel",
+            "carboplatin",
             "erlotinib"
       ],
       "description": [
-            "give",
+            "iv",
+            "iv",
             "po"
       ],
       "arm_group_label": [
-            "paclitaxel",
+            "carboplatin",
+            "erlotinib",
+            "carboplatin",
+            "erlotinib",
             "carboplatin",
             "erlotinib"
       ],
@@ -611,14 +636,25 @@
             "therapy",
             "indicate"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00059787.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "glandular",
+            "epithelial",
+            "neoplasm",
+            "tube",
+            "neoplasm",
+            "endometrioid",
+            "tumor",
+            "serous",
+            "mucinous",
+            "paclitaxel",
+            "hydrochloride"
+      ],
+      "id": "NCT00059787"
 }

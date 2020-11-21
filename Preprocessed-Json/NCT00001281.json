@@ -296,7 +296,6 @@
             "model"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "criteria": [
@@ -408,12 +407,21 @@
             "patient",
             "safety"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001281.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mononuclear",
+            "cell"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome"
+      ],
+      "id": "NCT00001281"
 }

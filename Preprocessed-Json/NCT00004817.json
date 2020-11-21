@@ -197,15 +197,17 @@
             "injury"
       ],
       "condition": [
-            "head",
+            "seizure",
+            "disorder",
             "injury"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "valproate",
-            "sodium"
+            "phenytoin",
+            "valproate sodium"
       ],
       "criteria": [
             "protocol",
@@ -302,12 +304,19 @@
             "medical",
             "attention"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "14",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00004817.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "seizure"
+      ],
+      "mesh_term": [
+            "trauma",
+            "acid"
+      ],
+      "id": "NCT00004817"
 }

@@ -131,14 +131,25 @@
             "month"
       ],
       "condition": [
-            "bipolar",
             "disorder"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "aripriprazole"
+            "Lithium",
+            "Olanzapine",
+            "Divalproex",
+            "Risperidone",
+            "Quetiapine",
+            "Ziprasidone",
+            "Aripriprazole"
       ],
       "criteria": [
             "inclusion",
@@ -245,7 +256,7 @@
             "away",
             "truancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "10",
             "year"
@@ -254,6 +265,13 @@
             "18",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00048802.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adolescence"
+      ],
+      "mesh_term": [
+            "disorder",
+            "fumarate"
+      ],
+      "id": "NCT00048802"
 }

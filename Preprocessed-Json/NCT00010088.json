@@ -176,15 +176,24 @@
             "study"
       ],
       "condition": [
-            "pancreatic",
+            "bile",
+            "duct",
+            "cancer",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "fluorouracil",
+            "gemcitabine hydrochloride",
+            "leucovorin calcium",
+            "conventional surgery",
+            "radiation therapy"
       ],
       "criteria": [
             "disease",
@@ -287,7 +296,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -296,6 +305,17 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00010088.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "iv",
+            "pancreatic",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "duct",
+            "neoplasm"
+      ],
+      "id": "NCT00010088"
 }

@@ -140,14 +140,22 @@
             "year"
       ],
       "condition": [
-            "leukemia"
+            "marrow",
+            "ablation"
       ],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Radiation"
       ],
       "intervention_name": [
-            "photon",
-            "therapy"
+            "filgrastim",
+            "etoposide",
+            "peripheral blood stem cell transplantation",
+            "low-LET electron therapy",
+            "low-LET photon therapy"
       ],
       "criteria": [
             "disease",
@@ -255,7 +263,7 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -264,6 +272,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00002567.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "minimally",
+            "differentiate",
+            "myeloid",
+            "leukemia"
+      ],
+      "mesh_term": [],
+      "id": "NCT00002567"
 }

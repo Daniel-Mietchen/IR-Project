@@ -19,14 +19,18 @@
             "cancer"
       ],
       "condition": [
-            "colorectal",
+            "cancer",
+            "cancer",
+            "cancer",
+            "neoplasm",
+            "carcinoma",
             "tumor"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "labetuzumab"
+            "hMN14 (labetuzumab)"
       ],
       "criteria": [
             "disease",
@@ -61,7 +65,6 @@
             "confirm",
             "measurable",
             "tumor",
-            "site",
             "tumor",
             "site",
             "5",
@@ -281,12 +284,21 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00040599.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "colorectal",
+            "tumor"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "neoplasm",
+            "neoplasm"
+      ],
+      "id": "NCT00040599"
 }

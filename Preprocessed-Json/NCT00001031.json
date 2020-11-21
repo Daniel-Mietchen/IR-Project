@@ -263,13 +263,16 @@
             "injection"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "biological"
+            "Biological",
+            "Biological"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "rgp120/HIV-1MN",
+            "rgp120/HIV-1 SF-2"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -417,7 +420,7 @@
             "dth",
             "test"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "16",
             "year"
@@ -426,6 +429,16 @@
             "60",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001031.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "hiv",
+            "preventive",
+            "vaccine"
+      ],
+      "mesh_term": [
+            "infection",
+            "hydroxide",
+            "sulfate"
+      ],
+      "id": "NCT00001031"
 }

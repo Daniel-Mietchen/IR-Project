@@ -145,11 +145,14 @@
             "neoplasm"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "chest",
-            "radiotherapy"
+            "paclitaxel",
+            "cisplatin",
+            "chest radiotherapy"
       ],
       "criteria": [
             "disease",
@@ -324,9 +327,19 @@
             "nurse",
             "woman"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001499.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cell",
+            "lung",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "lung",
+            "paclitaxel"
+      ],
+      "id": "NCT00001499"
 }

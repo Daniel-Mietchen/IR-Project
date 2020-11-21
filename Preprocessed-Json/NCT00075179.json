@@ -312,19 +312,28 @@
             "anderson"
       ],
       "condition": [
-            "cardiothoracic",
+            "hypertension",
+            "disease",
             "surgery"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "right",
-            "heart",
-            "catheterization"
+            "Nesiritide (Natrecor)",
+            "Right Heart Catheterization"
       ],
       "description": [
-            "small",
+            "initially",
+            "bolus",
+            "2",
+            "infuse",
+            "30",
+            "minute",
+            "right",
+            "heart",
+            "catheterization",
             "tube",
             "place",
             "neck",
@@ -340,9 +349,7 @@
             "deliver",
             "procedure"
       ],
-      "arm_group_label": [
-            "nesiritide"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -437,7 +444,7 @@
             "nesiritide",
             "component"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -446,6 +453,16 @@
             "85",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00075179.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "tumor"
+      ],
+      "mesh_term": [
+            "disease",
+            "pulmonary",
+            "peptide",
+            "brain"
+      ],
+      "id": "NCT00075179"
 }

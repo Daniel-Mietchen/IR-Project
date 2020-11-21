@@ -130,17 +130,20 @@
             "year"
       ],
       "condition": [
-            "sickle",
             "cell",
             "anemia"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "bone",
-            "marrow",
-            "transplantation"
+            "cyclosporine",
+            "fludarabine",
+            "mycophenolate mofetil",
+            "Bone Marrow Transplantation"
       ],
       "criteria": [
             "protocol",
@@ -281,12 +284,23 @@
             "effective",
             "contraception"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00004485.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "sickle",
+            "cell",
+            "anemia"
+      ],
+      "mesh_term": [
+            "sickle",
+            "cell",
+            "acid",
+            "mofetil"
+      ],
+      "id": "NCT00004485"
 }

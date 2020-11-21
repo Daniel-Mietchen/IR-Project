@@ -227,7 +227,7 @@
             "another"
       ],
       "condition": [
-            "heart",
+            "disease",
             "disease"
       ],
       "study_pop": [],
@@ -239,11 +239,13 @@
             "eligibility",
             "criterion"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00035659.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00035659"
 }

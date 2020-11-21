@@ -36,16 +36,17 @@
             "treatment"
       ],
       "condition": [
-            "benign",
+            "disease",
+            "prostatic",
+            "hyperplasia",
             "prostatic",
             "hypertrophy"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "dehydrate",
-            "alcohol"
+            "dehydrated alcohol"
       ],
       "criteria": [
             "eligible",
@@ -107,9 +108,7 @@
             "prostate",
             "size"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "50",
             "year"
@@ -118,6 +117,13 @@
             "80",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00037141.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "prostatitis"
+      ],
+      "mesh_term": [
+            "hyperplasia",
+            "disease"
+      ],
+      "id": "NCT00037141"
 }

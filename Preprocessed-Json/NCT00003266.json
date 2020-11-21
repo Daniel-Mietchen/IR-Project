@@ -229,7 +229,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -237,10 +236,12 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "assessment"
+            "methylphenidate hydrochloride",
+            "quality-of-life assessment"
       ],
       "criteria": [
             "disease",
@@ -335,12 +336,16 @@
             "2",
             "month"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003266.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "fatigue"
+      ],
+      "mesh_term": [],
+      "id": "NCT00003266"
 }

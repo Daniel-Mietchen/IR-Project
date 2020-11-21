@@ -151,17 +151,23 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "study",
-            "high",
-            "risk",
-            "factor"
+            "motexafin gadolinium",
+            "biopsy",
+            "breast imaging study",
+            "comparison of screening methods",
+            "magnetic resonance imaging",
+            "study of high risk factors"
       ],
       "criteria": [
             "disease",
@@ -261,14 +267,20 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "25",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003736.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "gadolinium"
+      ],
+      "id": "NCT00003736"
 }

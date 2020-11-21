@@ -164,7 +164,8 @@
             "month"
       ],
       "condition": [
-            "unspecified",
+            "cancer",
+            "cancer",
             "adult",
             "solid",
             "tumor",
@@ -172,15 +173,25 @@
             "specific"
       ],
       "intervention_type": [
-            "procedure"
+            "Procedure",
+            "Procedure"
       ],
       "intervention_name": [
-            "thermal",
-            "ablation",
-            "therapy"
+            "radiofrequency ablation",
+            "thermal ablation therapy"
       ],
       "description": [
-            "undergo",
+            "thermal",
+            "ablation",
+            "radiofrequency",
+            "energy",
+            "magnetic",
+            "resonance",
+            "ablation",
+            "continue",
+            "entire",
+            "tumor",
+            "treat",
             "thermal",
             "ablation",
             "radiofrequency",
@@ -359,12 +370,22 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006255.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "liver",
+            "metastasis"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "renal",
+            "cell",
+            "neoplasm"
+      ],
+      "id": "NCT00006255"
 }

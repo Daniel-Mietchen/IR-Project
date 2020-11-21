@@ -173,7 +173,6 @@
             "month"
       ],
       "condition": [
-            "unspecified",
             "adult",
             "solid",
             "tumor",
@@ -181,13 +180,47 @@
             "specific"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "BMS-214662",
             "paclitaxel"
       ],
       "description": [
+            "study",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "3",
+            "course",
+            "1",
+            "subsequent",
+            "course",
             "patient",
+            "receive",
+            "iv",
+            "1",
+            "hour",
+            "day",
+            "1",
+            "30",
+            "minute",
+            "paclitaxel",
+            "treatment",
+            "repeat",
+            "every",
+            "3",
+            "week",
+            "least",
+            "2",
+            "course",
+            "absence",
+            "disease",
+            "progression",
+            "unacceptable",
+            "toxicity",
             "receive",
             "paclitaxel",
             "iv",
@@ -453,12 +486,23 @@
             "antihistamine",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006018.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unspecified",
+            "adult",
+            "solid",
+            "tumor",
+            "protocol",
+            "specific"
+      ],
+      "mesh_term": [
+            "paclitaxel"
+      ],
+      "id": "NCT00006018"
 }

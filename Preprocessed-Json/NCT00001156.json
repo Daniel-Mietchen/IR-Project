@@ -231,7 +231,11 @@
             "evaluation"
       ],
       "condition": [
-            "vasculitis"
+            "infection",
+            "infection",
+            "sclerosis",
+            "spastic",
+            "paraparesis"
       ],
       "criteria": [
             "inclusion",
@@ -267,7 +271,7 @@
             "inform",
             "consent"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -276,6 +280,21 @@
             "75",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001156.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "magnetic",
+            "resonance",
+            "image"
+      ],
+      "mesh_term": [
+            "disease",
+            "sclerosis",
+            "spasticity",
+            "spastic",
+            "tropical",
+            "spastic",
+            "infection",
+            "infection"
+      ],
+      "id": "NCT00001156"
 }

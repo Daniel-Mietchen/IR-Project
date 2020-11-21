@@ -187,31 +187,88 @@
             "study"
       ],
       "condition": [
-            "myelodysplastic",
+            "myeloma",
+            "plasma",
+            "cell",
+            "neoplasm",
             "syndrome"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy",
-            "rt"
+            "Cyclophosphamide",
+            "Psoralen",
+            "Thiotepa",
+            "Allogeneic bone marrow transplantation",
+            "In vitro-treated peripheral blood stem cell transplantation (PBSCT)",
+            "Radiation Therapy (RT)"
       ],
       "description": [
-            "whole",
+            "2",
+            "hour",
+            "day",
+            "2",
+            "3",
+            "treat",
+            "allogeneic",
+            "transplant",
+            "day",
+            "9",
+            "2",
+            "hour",
+            "day",
+            "1",
+            "stem",
+            "cell",
+            "bone",
+            "marrow",
+            "allogeneic",
+            "transplant",
+            "plus",
+            "psoralen",
+            "treat",
+            "allogeneic",
+            "transplant",
+            "day",
+            "9",
+            "stem",
+            "cell",
+            "bone",
+            "marrow",
+            "allogeneic",
+            "transplant",
+            "plus",
+            "psoralen",
+            "treat",
+            "allogeneic",
+            "transplant",
+            "day",
+            "9",
             "body",
             "radiotherapy",
             "day"
       ],
       "arm_group_label": [
-            "chemo",
+            "rt",
+            "psct",
+            "rt",
+            "psct",
+            "rt",
+            "psct",
+            "rt",
+            "psct",
+            "rt",
+            "psct",
             "rt",
             "psct"
       ],
-      "other_name": [
-            "radiotherapy"
-      ],
+      "other_name": [],
       "criteria": [
             "disease",
             "characteristic",
@@ -418,12 +475,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005092.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "myelodysplastic",
+            "syndrome"
+      ],
+      "mesh_term": [
+            "myeloma",
+            "plasma",
+            "cell",
+            "syndrome"
+      ],
+      "id": "NCT00005092"
 }

@@ -338,18 +338,15 @@
             "performance"
       ],
       "condition": [
+            "disease",
             "parkinson",
             "disease"
       ],
       "intervention_type": [
-            "device"
+            "Device"
       ],
       "intervention_name": [
-            "cadwell",
-            "rapid",
-            "rate",
-            "magnetic",
-            "stimulator"
+            "Cadwell Rapid Rate Magnetic Stimulator"
       ],
       "criteria": [
             "inclusion",
@@ -409,9 +406,17 @@
             "intake",
             "neuroleptic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001776.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "normal",
+            "volunteer"
+      ],
+      "mesh_term": [
+            "disease",
+            "disease"
+      ],
+      "id": "NCT00001776"
 }

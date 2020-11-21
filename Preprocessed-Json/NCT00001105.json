@@ -202,16 +202,13 @@
             "data"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody",
-            "human"
+            "F105 Monoclonal Antibody (Human)"
       ],
       "criteria": [
             "inclusion",
@@ -417,12 +414,22 @@
             "study",
             "requirement"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001105.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "immunization",
+            "passive"
+      ],
+      "mesh_term": [
+            "infection",
+            "immunodeficiency",
+            "syndrome",
+            "monoclonal"
+      ],
+      "id": "NCT00001105"
 }

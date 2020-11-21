@@ -195,16 +195,19 @@
             "status"
       ],
       "condition": [
-            "rheumatoid",
+            "cachexia",
+            "obstructive",
+            "pulmonary",
+            "disease",
+            "heart",
+            "failure",
             "arthritis"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "fish",
-            "oil",
-            "supplement"
+            "Fish oil supplement"
       ],
       "criteria": [
             "inclusion",
@@ -386,7 +389,7 @@
             "inr",
             "coumadin"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -395,6 +398,22 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00094562.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "rheumatoid",
+            "arthritis"
+      ],
+      "mesh_term": [
+            "failure",
+            "rheumatoid",
+            "disease",
+            "disease",
+            "obstructive",
+            "disease",
+            "chronic",
+            "obstructive",
+            "loss",
+            "weight"
+      ],
+      "id": "NCT00094562"
 }

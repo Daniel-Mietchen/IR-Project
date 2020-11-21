@@ -200,27 +200,41 @@
       ],
       "condition": [
             "chronic",
+            "myelogenous",
+            "leukemia",
+            "myelogenous",
+            "leukemia",
+            "positive",
             "phase",
             "chronic",
             "myelogenous",
             "leukemia"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Other",
+            "Other"
+      ],
       "intervention_name": [
-            "pharmacological",
-            "study"
+            "imatinib mesylate",
+            "laboratory biomarker analysis",
+            "pharmacological study"
       ],
       "description": [
-            "correlative",
+            "orally",
+            "study",
             "study"
       ],
       "arm_group_label": [
-            "treatment",
+            "imatinib",
+            "mesylate",
+            "imatinib",
+            "mesylate",
             "imatinib",
             "mesylate"
       ],
       "other_name": [
-            "pharmacological",
+            "57148",
             "study"
       ],
       "criteria": [
@@ -627,7 +641,6 @@
             "palliative",
             "small",
             "port",
-            "radiotherapy",
             "least",
             "3",
             "month",
@@ -637,7 +650,6 @@
             "radiotherapy",
             "radiotherapy",
             "50",
-            "pelvis",
             "least",
             "6",
             "week",
@@ -646,7 +658,6 @@
             "substantial",
             "bone",
             "marrow",
-            "radiotherapy",
             "recover",
             "prior",
             "radiotherapy",
@@ -670,12 +681,20 @@
             "heparin",
             "allow"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "21",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00030394.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "myeloid",
+            "myelogenous",
+            "chronic",
+            "positive",
+            "myeloid",
+            "mesylate"
+      ],
+      "id": "NCT00030394"
 }

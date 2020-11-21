@@ -319,15 +319,12 @@
             "toxicity",
             "hama"
       ],
-      "condition": [
-            "neoplasm"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "monoclonal",
-            "antibody"
+            "HeFi-1 Monoclonal Antibody"
       ],
       "criteria": [
             "inclusion",
@@ -535,12 +532,18 @@
             "disease",
             "exclude"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00048880.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "cancer"
+      ],
+      "mesh_term": [
+            "monoclonal"
+      ],
+      "id": "NCT00048880"
 }

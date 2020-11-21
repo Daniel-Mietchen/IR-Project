@@ -542,17 +542,25 @@
             "study"
       ],
       "condition": [
-            "major",
+            "involutional",
             "depresssion"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo"
+            "Yohimbine hydrochloride",
+            "Placebo"
       ],
       "description": [
-            "participant",
+            "receive",
+            "yohimbine",
+            "administer",
+            "3",
+            "minute",
+            "rem",
+            "sleep",
             "receive",
             "inactive",
             "equivalent",
@@ -564,6 +572,8 @@
             "sleep"
       ],
       "arm_group_label": [
+            "placebo",
+            "yohimbine",
             "placebo",
             "yohimbine"
       ],
@@ -834,7 +844,7 @@
             "yohimbine",
             "administration"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -843,6 +853,15 @@
             "65",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00078715.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "mdd"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "major",
+            "agent"
+      ],
+      "id": "NCT00078715"
 }

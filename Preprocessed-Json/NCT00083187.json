@@ -186,12 +186,15 @@
             "study"
       ],
       "condition": [
+            "syndrome",
             "neoplasm"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
+            "hydroxyurea",
             "laromustine"
       ],
       "criteria": [
@@ -241,7 +244,6 @@
             "regimen",
             "contain",
             "cytotoxic",
-            "agent",
             "patient",
             "60",
             "year",
@@ -256,7 +258,6 @@
             "age",
             "prior",
             "cytotoxic",
-            "chemotherapy",
             "except",
             "hydroxyurea",
             "prior",
@@ -278,7 +279,6 @@
             "lineage",
             "cytopenia",
             "note",
-            "prior",
             "cytarabine",
             "decitabine",
             "azacitidine",
@@ -428,12 +428,28 @@
             "investigational",
             "drug"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00083187.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "adult",
+            "acute",
+            "myeloid",
+            "leukemia",
+            "15",
+            "17"
+      ],
+      "mesh_term": [
+            "syndrome",
+            "myeloid",
+            "myeloid",
+            "acute",
+            "disorder",
+            "disease"
+      ],
+      "id": "NCT00083187"
 }

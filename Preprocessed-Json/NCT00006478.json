@@ -153,15 +153,18 @@
             "accrue",
             "study"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "procedure"
+            "Biological",
+            "Biological",
+            "Biological",
+            "Procedure"
       ],
       "intervention_name": [
-            "adjuvant",
-            "therapy"
+            "autologous tumor cell vaccine",
+            "keyhole limpet hemocyanin",
+            "sargramostim",
+            "adjuvant therapy"
       ],
       "criteria": [
             "disease",
@@ -321,12 +324,23 @@
             "surgery",
             "specify"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "19",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00006478.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "grade",
+            "3",
+            "follicular",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "follicular",
+            "hemocyanin"
+      ],
+      "id": "NCT00006478"
 }

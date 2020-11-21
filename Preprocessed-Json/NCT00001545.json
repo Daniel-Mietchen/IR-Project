@@ -205,14 +205,17 @@
             "technique"
       ],
       "condition": [
-            "unipolar",
+            "disorder",
+            "disorder",
             "depression"
       ],
       "intervention_type": [
-            "device"
+            "Device",
+            "Device"
       ],
       "intervention_name": [
-            "cadwell"
+            "Magstim Super Rapid Magnetic Stimulator",
+            "Cadwell MES-10"
       ],
       "criteria": [
             "inclusion",
@@ -296,7 +299,7 @@
             "exclude",
             "entry"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
@@ -305,6 +308,15 @@
             "90",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00001545.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "unipolar",
+            "depression"
+      ],
+      "mesh_term": [
+            "disorder",
+            "disorder",
+            "disorder"
+      ],
+      "id": "NCT00001545"
 }

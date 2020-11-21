@@ -69,13 +69,18 @@
             "bid"
       ],
       "condition": [
-            "hiv",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug",
+            "Drug"
       ],
-      "intervention_name": [],
+      "intervention_name": [
+            "Lopinavir/ritonavir",
+            "Saquinavir mesylate",
+            "Lamivudine/zidovudine"
+      ],
       "criteria": [
             "inclusion",
             "criterion",
@@ -353,12 +358,22 @@
             "candidate",
             "study"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00043953.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "treatment",
+            "naive"
+      ],
+      "mesh_term": [
+            "infection",
+            "zidovudine",
+            "drug",
+            "combination"
+      ],
+      "id": "NCT00043953"
 }

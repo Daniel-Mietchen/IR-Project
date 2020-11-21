@@ -289,13 +289,15 @@
             "record"
       ],
       "condition": [
-            "telangiectasis"
+            "disease",
+            "vascular",
+            "disease"
       ],
       "criteria": [
             "eligibility",
             "criterion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "29",
             "year"
@@ -304,6 +306,14 @@
             "91",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00005392.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "disease",
+            "vascular",
+            "disease",
+            "arterial",
+            "disease"
+      ],
+      "id": "NCT00005392"
 }

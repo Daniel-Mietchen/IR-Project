@@ -140,24 +140,35 @@
             "arm"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Drug",
+            "Drug",
+            "Other"
+      ],
       "intervention_name": [
-            "placebo"
+            "Fenretinide",
+            "Tamoxifen Citrate",
+            "Placebo"
       ],
       "description": [
-            "daily",
+            "day",
+            "day",
             "day"
       ],
       "arm_group_label": [
-            "arm",
+            "1",
+            "tamoxifen",
+            "fenretinide",
+            "1",
+            "tamoxifen",
+            "fenretinide",
             "2",
             "placebo"
       ],
       "other_name": [
-            "nolvadex"
+            "retinamide"
       ],
       "criteria": [
             "disease",
@@ -335,14 +346,18 @@
             "retinoid",
             "therapy"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00003099.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "surgery"
+      ],
+      "mesh_term": [
+            "neoplasm"
+      ],
+      "id": "NCT00003099"
 }

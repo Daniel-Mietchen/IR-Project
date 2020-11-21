@@ -114,18 +114,17 @@
             "patient"
       ],
       "condition": [
-            "zollinger",
+            "cell",
+            "adenoma",
+            "metastasis",
             "ellison",
             "syndrome"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "combine",
-            "chemotherapy",
-            "streptozotocin",
-            "doxorubicin"
+            "combined chemotherapy with streptozotocin, 5-fluorouracil, and doxorubicin"
       ],
       "criteria": [
             "inclusion",
@@ -194,9 +193,18 @@
             "le",
             "pregnancy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00001165.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "toxicity"
+      ],
+      "mesh_term": [
+            "metastasis",
+            "syndrome",
+            "islet",
+            "cell"
+      ],
+      "id": "NCT00001165"
 }

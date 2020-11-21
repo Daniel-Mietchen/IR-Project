@@ -322,16 +322,13 @@
             "infection"
       ],
       "condition": [
-            "mycobacterium",
             "infection"
       ],
       "intervention_type": [
-            "drug"
+            "Drug"
       ],
       "intervention_name": [
-            "interferon",
-            "gamma",
-            "aerosol"
+            "Interferon Gamma for Aerosol"
       ],
       "criteria": [
             "patient",
@@ -1125,9 +1122,19 @@
             "investigator",
             "discretion"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00021567.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "lung",
+            "infection"
+      ],
+      "mesh_term": [
+            "disease",
+            "infection",
+            "infection",
+            "agent"
+      ],
+      "id": "NCT00021567"
 }

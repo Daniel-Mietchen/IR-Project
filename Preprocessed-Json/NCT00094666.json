@@ -19,19 +19,15 @@
             "elderly"
       ],
       "condition": [
-            "primary",
             "insomnia"
       ],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "comparator",
-            "placebo",
-            "duration",
-            "treatment",
-            "6",
-            "week"
+            "MK0928, gaboxadol / Duration of Treatment - 6 weeks",
+            "Comparator: placebo / Duration of Treatment - 6 weeks"
       ],
       "criteria": [
             "inclusion",
@@ -46,12 +42,17 @@
             "mental",
             "health"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "65",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00094666.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "initiation",
+            "maintenance",
+            "disorder"
+      ],
+      "id": "NCT00094666"
 }

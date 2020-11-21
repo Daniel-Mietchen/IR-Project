@@ -98,18 +98,22 @@
             "period"
       ],
       "condition": [
-            "social",
             "phobia"
       ],
       "intervention_type": [
-            "drug"
+            "Behavioral",
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "pill",
-            "placebo"
+            "Social Effectiveness Therapy for Children (SET-C)",
+            "Fluoxetine",
+            "Pill Placebo"
       ],
       "arm_group_label": [
-            "pill",
+            "effectiveness",
+            "therapy",
+            "child",
             "placebo"
       ],
       "criteria": [
@@ -136,7 +140,7 @@
             "use",
             "fluoxetine"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "8",
             "year"
@@ -145,6 +149,12 @@
             "16",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00043537.xml"
+      "healthy_volunteers": "Accepts Healthy Volunteers",
+      "keyword": [
+            "mutism"
+      ],
+      "mesh_term": [
+            "disorder"
+      ],
+      "id": "NCT00043537"
 }

@@ -101,20 +101,23 @@
             "enter"
       ],
       "condition": [
-            "prostate",
             "cancer"
       ],
       "intervention_type": [
-            "procedure"
+            "Drug",
+            "Drug",
+            "Procedure"
       ],
       "intervention_name": [
-            "drug",
-            "resistance",
-            "inhibition",
-            "treatment"
+            "doxorubicin hydrochloride",
+            "estramustine phosphate sodium",
+            "drug resistance inhibition treatment"
       ],
       "arm_group_label": [
-            "prostate",
+            "cancer",
+            "patient",
+            "cancer",
+            "patient",
             "cancer",
             "patient"
       ],
@@ -231,14 +234,21 @@
             "surgery",
             "specify"
       ],
-      "gender": [
-            "male"
-      ],
+      "gender": "Male",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00002721.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "recurrent",
+            "prostate",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "doxorubicin"
+      ],
+      "id": "NCT00002721"
 }

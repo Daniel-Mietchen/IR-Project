@@ -444,29 +444,86 @@
             "thereafter"
       ],
       "condition": [
-            "stage",
+            "malignant",
+            "mesenchymoma",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "malignant",
+            "mesenchymoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "rhabdomyosarcoma",
+            "childhood",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "untreated",
+            "childhood",
+            "rhabdomyosarcoma",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
+            "ii",
+            "adult",
+            "soft",
+            "tissue",
+            "sarcoma",
             "iii",
             "adult",
             "soft",
             "tissue",
             "sarcoma"
       ],
-      "intervention_type": [],
+      "intervention_type": [
+            "Biological",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Radiation",
+            "Drug",
+            "Biological",
+            "Biological",
+            "Other"
+      ],
       "intervention_name": [
-            "laboratory",
-            "biomarker",
-            "analysis"
+            "dactinomycin",
+            "vincristine sulfate",
+            "cyclophosphamide",
+            "therapeutic conventional surgery",
+            "radiation therapy",
+            "topotecan hydrochloride",
+            "filgrastim",
+            "sargramostim",
+            "laboratory biomarker analysis"
       ],
       "description": [
-            "correlative",
+            "iv",
+            "iv",
+            "iv",
+            "surgery",
+            "radiotherapy",
+            "iv",
+            "sc",
+            "sc",
             "study"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
+            "ii",
             "ii"
       ],
       "other_name": [
-            "prokine"
+            "sulfate",
+            "pfs",
+            "radiation"
       ],
       "criteria": [
             "inclusion",
@@ -559,7 +616,6 @@
             "bilirubin",
             "greater",
             "creatinine",
-            "normal",
             "age",
             "pregnant",
             "nurse",
@@ -580,12 +636,16 @@
             "disease",
             "characteristic"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "49",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003958.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "embryonal",
+            "neoplasm"
+      ],
+      "id": "NCT00003958"
 }

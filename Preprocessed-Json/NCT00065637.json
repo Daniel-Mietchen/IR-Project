@@ -203,23 +203,22 @@
             "12",
             "month"
       ],
-      "condition": [
-            "osteoporosis"
-      ],
+      "condition": [],
       "intervention_type": [
-            "drug"
+            "Drug",
+            "Drug"
       ],
       "intervention_name": [
-            "placebo",
-            "teriparatide"
+            "Teriparatide",
+            "Placebo teriparatide"
       ],
       "description": [
-            "placebo",
+            "human",
+            "parathyroid",
+            "hormone",
             "injection"
       ],
-      "arm_group_label": [
-            "2"
-      ],
+      "arm_group_label": [],
       "criteria": [
             "inclusion",
             "criterion",
@@ -298,9 +297,7 @@
             "lumbar",
             "spine"
       ],
-      "gender": [
-            "female"
-      ],
+      "gender": "Female",
       "minimum_age": [
             "45",
             "year"
@@ -309,6 +306,10 @@
             "70",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00065637.xml"
+      "healthy_volunteers": "No",
+      "mesh_term": [
+            "disease",
+            "metabolic"
+      ],
+      "id": "NCT00065637"
 }

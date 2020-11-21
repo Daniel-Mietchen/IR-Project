@@ -521,18 +521,45 @@
             "4",
             "year"
       ],
-      "condition": [
-            "lymphoma"
-      ],
+      "condition": [],
       "intervention_type": [
-            "radiation"
+            "Biological",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "radiation",
-            "therapy"
+            "filgrastim",
+            "carboplatin",
+            "carmustine",
+            "cyclophosphamide",
+            "cytarabine",
+            "etoposide",
+            "ifosfamide",
+            "melphalan",
+            "bone marrow ablation with stem cell support",
+            "peripheral blood stem cell transplantation",
+            "radiation therapy"
       ],
       "arm_group_label": [
-            "arm",
+            "ii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
+            "iii",
             "iii"
       ],
       "criteria": [
@@ -664,12 +691,22 @@
             "standard",
             "chemotherapy"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [],
       "maximum_age": [
             "120",
             "year"
       ],
-      "healthy_volunteers": false,
-      "id": "NCT00003631.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "childhood",
+            "hodgkin",
+            "lymphoma"
+      ],
+      "mesh_term": [
+            "disease",
+            "mustard",
+            "phosphate"
+      ],
+      "id": "NCT00003631"
 }

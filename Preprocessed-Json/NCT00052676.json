@@ -200,17 +200,19 @@
             "year"
       ],
       "condition": [
-            "breast",
             "cancer"
       ],
       "intervention_type": [
-            "radiation"
+            "Drug",
+            "Procedure",
+            "Procedure",
+            "Radiation"
       ],
       "intervention_name": [
-            "technetium",
-            "tc",
-            "sulfur",
-            "colloid"
+            "patent blue V dye",
+            "radionuclide imaging",
+            "sentinel lymph node biopsy",
+            "technetium Tc 99m sulfur colloid"
       ],
       "criteria": [
             "disease",
@@ -303,12 +305,24 @@
             "treatment",
             "cancer"
       ],
-      "gender": [],
+      "gender": "All",
       "minimum_age": [
             "18",
             "year"
       ],
       "maximum_age": [],
-      "healthy_volunteers": false,
-      "id": "NCT00052676.xml"
+      "healthy_volunteers": "No",
+      "keyword": [
+            "stage",
+            "ii",
+            "breast",
+            "cancer"
+      ],
+      "mesh_term": [
+            "neoplasm",
+            "tc",
+            "sulfur",
+            "colloid"
+      ],
+      "id": "NCT00052676"
 }
